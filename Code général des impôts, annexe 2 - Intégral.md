@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-12-31
+Version Consolidée au 1983-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -25,37 +25,6 @@ Version Consolidée au 1982-12-31
 
 
 ##### 1 : Imposition de certains profits immobiliers
-
-###### Article 1
-
-I. Le montant du bénéfice imposable à retenir au titre d'une année déterminée en application des dispositions de l'article 35
-A du code général des impôts est déterminé suivant les règles applicables aux contribuables imposés d'après leur bénéfice
-réel, quel que soit le montant du chiffre d'affaires réalisé.
-
-En vue de la détermination de ce bénéfice, les redevables sont tenus de souscrire une déclaration sur une formule délivrée
-par l'administration, dans les mêmes conditions que la déclaration prévue à l'article 170-1 dudit code.
-
-II. Si le contribuable exerce par ailleurs des activités industrielles, commerciales ou artisanales, il n'est tenu compte des
-opérations soumises aux dispositions du I, ni pour la fixation des bénéfices résultant de ces activités, ni pour la
-détermination du chiffre d'affaires à retenir pour l'application de l'article 302 ter du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 170 1
-	  - CGI 302 ter
-	  - CGI 35 A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
-
 
 ###### Article 3
 
@@ -83,38 +52,6 @@ la déclaration qui en tient lieu, à la recette des impôts où la présentatio
 	**Cite**:
 
 	  - CGI 647, 35, 244 bis
-
-
-##### 4 : Amortissement des immobilisations destinées à la recherche scientifique ou technique
-
-###### Article 16 bis
-
-Les matériels et outillage de recherche scientifique ouvrant droit à l'amortissement exceptionnel prévu par l'article 39
-quinquies A bis du code général des impôts sont les matériels et outillage de recherche utilisés dans les opérations de
-recherche scientifique ou technique définies à l'article 16.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 quinquies A bis
-	  - CGIAN2 16
-
-	**Créé par**:
-
-	  - Décret n°79-866 du 4 octobre 1979 - art. 10 (V) JORF 5 OCTOBRE 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 67 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1er JANVIER 1983
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
 
 
 ##### 5 : Provision pour investissement en faveur des entreprises de presse
@@ -648,6 +585,34 @@ gain ou la moins-value est égal à la différence reçue ou versée par l'opér
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2001
+
+
+##### Modalités de déclaration.
+
+###### Article 39 F
+
+Les contribuables qui réalisent des opérations imposables en application de l'article 92 B du code général des impôts sont
+tenus t de souscrire, avant le 1er mars de chaque année, la déclaration prévue à l'article 97 du code précité sur une formule
+spéciale indiquant :
+
+1° (Abrogé)     2° Le montant global, compte non tenu des frais, de l'ensemble des ventes réalisées au cours de l'année
+d'imposition ;
+
+3° Le montant du gain net imposable assorti des éléments nécessaires à sa détermination.
+
+Toutefois, les contribuables peuvent se libérer de cette obligation en fournissant, pour les titres en dépôt chez un
+intermédiaire, un document établi par ce dernier et faisant apparaître les mêmes éléments.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 B
+	  - CGI 97
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
 ##### 4° Obligations des intermédiaires financiers et des sociétés de personnes ou groupements agissant en qualité de personnes interposées.
@@ -2533,6 +2498,38 @@ de mise en paiement du solde.
 
 	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article sans objet, modifications incorporées à la date du 18 août 1993
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 102 E
+
+Pour le calcul de la limite de 7,5 % prévue à l'article 214 A-I-3 du code général des impôts, le montant du capital et celui
+des primes d'émission à retenir sont ceux qui figurent au bilan de clôture de l'exercice au titre duquel les dividendes sont
+distribués.
+
+Dans les cas prévus au I et II de l'article 102 D, la base de calcul de cette limite est constituée par l'accroissement des
+fonds propres résultant des opérations mentionnées audit article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 214 A I 3
+	  - CGIAN2 102 D I, II
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article sans objet
+	  - SPEC_APPLI: L'ARTICLE 102 E DE L'ANNEXE II EST MODIFIE PAR CONSEQUENCE DE LA MODIFICATION DE L'ARTICLE 214 A DU CGI
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 69 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+	  - Modifications incorporées à la date du 18 août 1993
 
 
 ###### Article 102 F
@@ -5557,6 +5554,35 @@ l'article 244 quindecies du code général des impôts.
 	  - HISTO: Edition du 1er janvier 2003
 
 
+###### Article 171 Q
+
+La date de réalisation des investissements donnant droit, selon le cas, à la déduction fiscale de 10 ou 15 % prévue à
+l'article 244 undecies du code général des impôts s'entend, pour les biens achetés, de la date à laquelle l'entreprise en est
+devenue propriétaire ou, en cas de réserve de propriété au profit du fournisseur, de la date de livraison du bien. Pour les
+biens créés par l'entreprise, la date de réalisation est celle à laquelle leur fabrication est achevée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 1982-12-29 art. 71 3 Finances pour 1983 JORF 30 décembre 1982, en vigueur le 1er janvier 1983
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er septembre 1982
+
+
 ###### Article 171 R
 
 Pour le calcul de la déduction prévue par l'article 171 Q, les biens sont retenus pour leur prix de revient déterminé
@@ -5686,6 +5712,32 @@ de l'investissement productif industriel.
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+###### Article 171 V
+
+En cas de résiliation d'un contrat de crédit-bail, sans rachat du bien loué, avant l'expiration d'un délai de cinq ans ou de
+restitution du bien loué dans le même délai, à l'expiration de la période de location, l'entreprise locataire doit rapporter
+au résultat imposable de l'exercice au cours duquel a lieu l'opération une somme égale, selon le cas, à 10 ou 15 % du prix de
+revient du bien loué, diminué du montant des amortissements que l'entreprise aurait pu pratiquer si elle avait été
+propriétaire de ce bien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 1982-12-29 art. 71 3 Finances pour 1983 JORF 30 décembre 1982 en vigueur le 1er janvier 1983
 
 
 ###### Article 171 W
@@ -5880,6 +5932,36 @@ Transféré sous l'article 260 I de la même annexe.
 
 
 ##### 2 : Professions non commerciales.
+
+###### Article 189
+
+L'option pour le paiement de la taxe sur la valeur ajoutée prévue à l'article 260-1° du code général des impôts s'applique à
+l'ensemble des opérations accomplies dans l'exercice de l'une des activités mentionnées aux 5°, 6°, ou 7° de l'article 261-4
+du même code.
+
+Toutefois, lorsqu'une même personne effectue des opérations relevant d'activités de nature différente, l'option peut n'être
+formulée que pour une ou plusieurs de ces activités; elle couvre alors obligatoirement l'ensemble des opérations relevant de
+la ou des activités intéressées.
+
+Chaque activité ou ensemble d'activités couvert par l'option constitue un secteur [*distinct d'activité*] pour l'application
+de l'article 213.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 213
+	  - CGI 260 1°
+	  - CGI 261 4 5°, 6°, 7°
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 13 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
 
 ###### Article 190
 
@@ -12435,6 +12517,71 @@ Cet engagement est formulé par écrit et adressé au ministre chargé des finan
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Q (VD)
 
 
+###### Article 371 Y
+
+Par l'engagement prévu à l'article 371 X, les ordres et organisations mentionnés à l'article précité s'obligent notamment à
+faire à leurs ressortissants les recommandations suivantes :
+
+1° Tenir les documents prévus aux articles 99 et 101 bis du code général des impôts conformément à l'un des plans comptables
+professionnels agréés par le ministre de l'économie et des finances ;
+
+2° En ce qui concerne les adhérents non soumis au secret professionnel en application de l'article 378 du code pénal,
+mentionner, outre les indications prévues par l'article 1649 quater G du code général des impots, la nature des prestations
+fournies ;
+
+3° Accepter le règlement des honoraires par chèques libellés dans tous les cas à leur ordre et ne pas endosser ces chèques,
+sauf pour remise directe à l'encaissement.
+
+4° Informer leurs clients de leur qualité d'adhérent à une association agréée, si tel est le cas, et de ses conséquences en
+ce qui concerne notamment l'acceptation du paiement des honoraires par chèques. Les modalités de cette information sont, en
+tant que de besoin, précisées par arrêté (1) ;
+
+5° Pour les membres des professions de santé, inscrire sur les feuilles de maladie ou de soins, conformément aux dispositions
+de l'article L 97 du livre des procédures fiscales et du décret n° 72-480 du 12 juin 1972, l'intégralité des honoraires
+effectivement perçus même s'ils ne peuvent que partiellement donner lieu à remboursement pour les assurés.
+
+A l'égard des organismes tenus d'établir des relevés récapitulatifs par praticien en application de l'article L97 du livre
+des procédures fiscales, le droit de communication ne peut, en ce qui concerne la nature des prestations fournies, porter que
+sur les mentions correspondant à la nomenclature générale des actes professionnels.
+
+(1) Annexe IV, art. 164 F quaterdecies à 164 F octovicies.
+
+**Nota:**
+
+[*Nota - Loi 92-1336 1992-12-16 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est remplacée par
+la référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par l'article 378
+du code pénal, cette mention vise les peines fixées par l'article 226-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 99, 101 bis, 1649 quater G
+	  - CGIAN2 371 X
+	  - CGIAN4 164 F quaterdecies à 164 F octovicies
+	  - Décret n°72-480 1972-06-12
+	  - Livre des procédures fiscales - art. L97 (M)
+	  - Code pénal 378
+
+	**Liens**:
+
+	  - SPEC_APPLI: Conseil d'Etat 1983-03-12 N° 11413, N° 11414, N° 11466, N° 11099, N° 11100, N° 11451 : annulation du décret 77-1520 1977-12-31 art. 2, codifié à l'article 371 Y de l'annexe II du code général des impots
+	  - TXT_ASSOCIE: Loi n°92-1336 1992-12-16 art. 333
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Décret n°83-899 du 6 octobre 1983
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 73 () JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F quatervicies (V)
+
+
 ###### Article 371 Z
 
 En cas de manquements graves et répétés aux recommandations prévues à l'article 371 Y, les adhérents des associations agréées
@@ -12984,67 +13131,29 @@ de la dotation antérieure qui a été rapportée au bénéfice imposable.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 39 F
-
-Les contribuables qui réalisent des opérations imposables en application des articles 92 A et 92 B du code général des impôts
-sont tenus de souscrire, avant le 1er mars de chaque année, la déclaration prévue à l'article 97 du code précité sur une
-formule spéciale indiquant :
-
-1o La valeur globale au 31 décembre de l'année précédant l'année d'imposition, déterminée en fonction du cours au comptant du
-dernier jour de cotation, de l'ensemble des titres cotés ou négociés sur un marché hors cote qui figurent dans le
-portefeuille du contribuable, à l'exception de ceux dont les cessions sont exonérées par la loi;
-
-2o Le montant global, compte non tenu des frais, d'une part, de l'ensemble des achats et, d'autre part, de l'ensemble des
-ventes réalisées au cours de l'année d'imposition en distinguant les opérations visées à l'article 92 A-1o du code général
-des impôts et les autres opérations;
-
-3o Le montant du gain net imposable assorti des éléments nécessaires à sa détermination.
-
-Toutefois, les contribuables peuvent se libérer de cette obligation en fournissant, pour les titres en dépôt chez un
-intermédiaire, un document établi par ce dernier et faisant apparaître les mêmes éléments.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 92 A 1°
-	  - CGI 92 B
-	  - CGI 97
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 39 H
 
 Les agents de change, les banques et les établissements financiers ou organismes habilités à détenir et à négocier des
 valeurs mobilières pour le compte des particuliers doivent, avant le 1er février de chaque année, adresser à la direction des
 services fiscaux de leur résidence les documents suivants :
 
-1o Pour ceux de leurs clients qui ont réalisé, l'année précédente, des opérations visées à l'article 92 A-1o du code général
-des impôts, un relevé indiquant le montant global de ces opérations, compte non tenu des frais;
-
-2o Pour ceux de leurs clients qui ont réalisé, l'année précédente, des cessions au comptant ou au comptant différé, d'un
-montant supérieur à 50.000 F, un relevé indiquant :
-
-- la valeur globale au 31 décembre de l'année précédant l'année d'imposition, déterminée en fonction du cours au comptant du
-dernier jour de cotation, de l'ensemble des titres cotés ou négociés sur le marché hors cote qui figurent dans le
-portefeuille du client, à l'exception de ceux dont les cessions sont exonérées par la loi;
-
-- le montant global, compte tenu des frais des achats et des ventes, quel qu'en soit le montant, des titres ou des droits
-visés aux articles 92 A-2o et 92 B du code général des impôts, en distinguant l'ensemble des achats et l'ensemble des ventes.
+1° (Abrogé)     2° Pour ceux de leurs clients qui ont réalisé, l'année précédente, des cessions d'un montant supérieur  à
+50.000 F, un relevé indiquant le montant global, compte non tenu des frais, des ventes, quel qu'en soit le montant, des
+titres ou des droits visés à l'article 92 B du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 92 A 1°, 2°
 	  - CGI 92 B
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
 ###### Article 58
@@ -13583,16 +13692,17 @@ b. A la date de la demande de conversion, si les obligations sont convertibles �
 
 ###### Article 102 D
 
-I. Dans le cas où une augmentation de capital réalisée entre le 1er janvier 1977 et le 31 décembre 1980 a été précédée,
+I. Dans le cas où une augmentation de capital réalisée entre le 1er janvier 1977 et le 31 décembre 1987 a été précédée,
 postérieurement au 15 novembre 1976, d'une réduction de capital non motivée par des pertes ou d'un prélèvement opéré sur le
 compte "Primes d'émission", les dividendes alloués aux actions nouvelles n'ouvrent droit au régime de déduction que si ces
 opérations entraînent en définitive un accroissement de fonds propres. En outre, ils ne peuvent être admis en déduction qu'en
 proportion du rapport existant entre cet accroissement des fonds propres et les apports correspondant à l'augmentation de
 capital.
 
-II. Lorsqu'une société qui s'est constituée ou a augmenté son capital entre le 1er janvier 1977 et le 31 décembre 1980
-procède moins de cinq ans après la réalisation de ces opérations à une réduction de son capital non motivée par des pertes ou
-à un prélèvement sur le compte "Primes d'émission", il est fait application des règles prévues au I.
+II. Lorsqu'une société qui s'est constituée ou a augmenté son capital entre le 1er janvier 1977 et le 31 décembre 1987
+procède, suivant les cas prévus à l'article 214-A-I-2 du code général des impôts, moins de sept ans ou moins de dix ans après
+la réalisation de ces opérations à une réduction de son capital non motivée par des pertes ou à un prélèvement sur le compte
+"Primes d'émission", il est fait application des règles prévues au I.
 
 La fraction des dividendes alloués aux actions nouvelles qui n'ouvre pas droit au régime de déduction est, en ce qui concerne
 les dividendes ayant déjà bénéficié de ce régime, rapportée aux résultats des exercices de déduction. Les suppléments
@@ -13604,31 +13714,15 @@ général des impôts.
 	**Cite**:
 
 	  - CGI 1734
+	  - CGI 214 A I 2
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
 
+	**Modifié par**:
 
-###### Article 102 E
-
-Pour le calcul de la limite de 7,5 % prévue à l'article 214 A-I du code général des impôts, le montant du capital et celui
-des primes d'émission à retenir sont ceux qui figurent au bilan de clôture de l'exercice au titre duquel les dividendes sont
-distribués.
-
-Dans les cas prévus au I et II de l'article 102 D, la base de calcul de cette limite est constituée par l'accroissement des
-fonds propres résultant des opérations mentionnées audit article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 214 A I
-	  - CGIAN2 102 D I, II
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 69 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
 ##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.
@@ -14814,49 +14908,6 @@ société visée à l'article 1655 ter du code général des impôts [*société
 	  - Décret n°82-263 du 23 mars 1982 - art. 4 (V) JORF 25 mars 1982
 
 
-#### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*.
-
-###### Article 171 Q
-
-La date de réalisation des investissements donnant droit, selon le cas, à la déduction fiscale de 5, 10 ou 15 % prévue à
-l'article 244 undecies du code général des impôts s'entend, pour les biens achetés, de la date à laquelle l'entreprise en est
-devenue propriétaire ou, en cas de réserve de propriété au profit du fournisseur, de la date de livraison du bien. Pour les
-biens créés par l'entreprise, la date de réalisation est celle à laquelle leur fabrication est achevée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 undecies
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 83 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
-
-###### Article 171 V
-
-En cas de résiliation d'un contrat de crédit-bail, sans rachat du bien loué, avant l'expiration d'un délai de cinq ans ou de
-restitution du bien loué dans le même délai, à l'expiration de la période de location, l'entreprise locataire doit rapporter
-au résultat imposable de l'exercice au cours duquel a lieu l'opération une somme égale, selon le cas, à 5, 10 ou 15 %
-[*pourcentage*] du prix de revient du bien loué, diminué du montant des amortissements que l'entreprise aurait pu pratiquer
-si elle avait été propriétaire de ce bien.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 83 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
-
 ### TAXES SUR LE CHIFFRE D'AFFAIRES
 
 #### TAXE SUR LA VALEUR AJOUTEE *TVA*
@@ -14924,36 +14975,6 @@ du bien.
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
-
-
-###### Article 189
-
-L'option pour le paiement de la taxe sur la valeur ajoutée prévue à l'article 260-1° du code général des impôts s'applique à
-l'ensemble des opérations accomplies dans l'exercice de l'une des activités mentionnées aux 5°, 6°, 7° ou 8° de l'article
-261-4 du même code.
-
-Toutefois, lorsqu'une même personne effectue des opérations relevant d'activités de nature différente, l'option peut n'être
-formulée que pour une ou plusieurs de ces activités; elle couvre alors obligatoirement l'ensemble des opérations relevant de
-la ou des activités intéressées.
-
-Chaque activité ou ensemble d'activités couvert par l'option constitue un secteur [*distinct d'activité*] pour l'application
-de l'article 213.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 213
-	  - CGI 260 1°
-	  - CGI 261 4 5°, 6°, 7°, 8°
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 27 () JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 
 ###### Article 194
@@ -15682,106 +15703,6 @@ imposables, les tabacs destinés à l'exportation et les tabacs dits "de vente r
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE
-
-#### LES TARIFS ET LEUR APPLICATION
-
-##### MUTATIONS A TITRE GRATUIT
-
-##### REGIMES SPECIAUX ET EXONERATIONS
-
-###### Article 294 A
-
-Lorsqu'une donation comprend des biens donnant lieu à l'exonération prévue à l'article 793 1 2° ou 2 1° du code général des
-impôts, les parties indiquent dans l'acte, en plus des renseignements énumérés à l'article 784 du même code, si de tels biens
-ont fait l'objet de donations antérieures consenties par le même donateur à un bénéficiaire quelconque (1).
-
-(1) Disposition applicable à compter de l'entrée en vigueur du décret n° 80-1086 du 29 décembre 1980.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 793 1 2°, 2 1°, 784
-	  - Décret n°80-1086 1980-12-29
-
-	**Créé par**:
-
-	  - Décret n°80-1086 du 29 décembre 1980 - art. 1 (V) JORF 30 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
-
-
-###### Article 294 B
-
-Dans toute déclaration de succession se rapportant à une succession ouverte à compter de l'entrée en vigueur de la loi n°
-80-30 du 18 janvier 1980 et comprenant des biens donnant lieu à l'exonération prévue à l'article 793 1 2° ou 2 1° du code
-général des impôts, les héritiers indiquent, dans le cadre de l'affirmation de sincérité prévue à l'article 802 du même code,
-et en plus des renseignements énumérés à l'article 784, si de tels biens ont fait l'objet de donations antérieures à leur
-profit ou, dans la mesure où ils en ont eu connaissance, consenties par le défunt à un bénéficiaire quelconque (1).
-
-(1) Disposition applicable aux déclarations souscrites à compter de l'entrée en vigueur du décret n° 80-1086 du 29 décembre
-1980.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 793 1 2°, 2 1°, 802, 784
-	  - Loi n°80-30 1980-01-18 FINANCES POUR 1980
-	  - Décret n°80-1086 1980-12-29
-
-	**Créé par**:
-
-	  - Décret n°80-1086 du 29 décembre 1980 - art. 2 (V) JORF 30 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
-
-
-###### Article 294 C
-
-Dans les cas prévus aux articles 294 A et 294 B, les actes de donation et les déclarations de succession doivent comporter
-les mentions suivantes :
-
-1° En ce qui concerne l'ensemble des donations antérieures, le montant des biens mentionnés à l'article 793 1 2° ou 2 1° du
-code général des impôts transmis à chaque bénéficiaire, l'identité de chacun d'eux ainsi que les nom et résidence des
-officiers ministériels qui ont reçu les actes de donation et leur date d'enregistrement ;
-
-2° En ce qui concerne les donations antérieures consenties à compter du 5 septembre 1979, l'indication du ou des
-bénéficiaires du droit global à exonération prévu à l'article 793 A du même code et le montant pour lequel il a été utilisé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 793 1 2°, 2 1°, 793 A
-	  - CGIAN2 294 A, 294 B
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 41 (P) JORF 31 DECEMBRE 1981 en vigueur le 1er JANVIER 1982
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
 
 
 ### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE
@@ -18782,8 +18703,7 @@ poids vif de gros bovin;
 
 - pour la viande de porc : 0,25 % du prix de base communautaire par kilogramme de viande de porc abattu;
 
-- pour la viande de mouton : 0,09 % du prix de seuil, tel qu'il est fixé par l'office national interprofessionnel bétail-
-viande par kilogramme de viande de mouton.
+- pour la viande de mouton : 0,09 % du prix de base communautaire par kilogramme de viande de mouton.
 
 Un arrêté conjoint du ministre de l'économie et des finances et du ministre de l'agriculture fixe le taux de la taxe dans la
 limite des maxima ci-dessus (1) et les montants en F/kilogramme net applicables pour une année civile et par espèce compte
@@ -18801,9 +18721,14 @@ VI  (Abrogé)
 	  - CGI 302 bis G
 	  - CGIAN4 159 AO
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°85-1007 1985-09-24
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 28 () JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
 
 
 ###### Article 363 N
@@ -19263,62 +19188,6 @@ date à laquelle est intervenue la perte de la qualité d'adhérent.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 371 Y
-
-Par l'engagement prévu à l'article 371 X, les ordres et organisations mentionnés à l'article précité s'obligent notamment à
-faire à leurs ressortissants les recommandations suivantes :
-
-1° Tenir les documents prévus aux articles 99 et 101 bis du code général des impôts conformément à l'un des plans comptables
-professionnels agréés par le ministre de l'économie et des finances ;
-
-2° En ce qui concerne les recettes, mentionner sur ces documents le détail des sommes reçues, l'identité du client, le mode
-de règlement et la nature des prestations fournies.
-
-Toutefois, lorsque les dispositions de l'article 378 du code pénal relatives au secret professionnel sont applicables, la
-nature des prestations fournies et l'identité du client ne sont pas mentionnées. La nature des prestations fournies ne peut
-faire l'objet de demandes de renseignements de la part de l'administration des impôts. A l'égard des organismes tenus
-d'établir des relevés récapitulatifs par praticien en application de l'article L 97 du livre des procédures fiscales, le
-droit de communication ne peut, en ce qui concerne la nature des prestations fournies, porter que sur les mentions
-correspondant à la nomenclature générale des actes professionnels.
-
-3° Accepter le règlement des honoraires par chèques libellés dans tous les cas à leur ordre et ne pas endosser ces chèques,
-sauf pour remise directe à l'encaissement.
-
-4° Informer leurs clients de leur qualité d'adhérent à une association agréée, si tel est le cas, et de ses conséquences en
-ce qui concerne notamment l'acceptation du paiement des honoraires par chèques. Les modalités de cette information sont, en
-tant que de besoin, précisées par arrêté (1) ;
-
-5° Pour les membres des professions de santé, inscrire sur les feuilles de maladie ou de soins, conformément aux dispositions
-de l'article L 97 du livre des procédures fiscales et du décret n° 72-480 du 12 juin 1972, l'intégralité des honoraires
-effectivement perçus même s'ils ne peuvent que partiellement donner lieu à remboursement pour les assurés.
-
-(1) Annexe IV, art. 164 F quaterdecies à 164 F octovicies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 101 bis
-	  - CGI 99
-	  - CGI L97
-	  - CGIAN2 371 X
-	  - CGIAN4 164 F quaterdecies A 164 F octovicies
-	  - Code pénal 378
-	  - Décret n°72-480 1972-06-12
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F quatervicies (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Conseil d'Etat 1983-03-12 N° 11413, N° 11414, N° 11466, N° 11099, N° 11100, N° 11451 : annulation du décret 77-1520 1977-12-31 art. 2, codifié à l'article 371 Y de l'annexe II du code général des impots
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
 
 
 # Livre II : Recouvrement de l'impôt
