@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-05-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -777,11 +777,13 @@ gain ou la moins-value est égal à la différence reçue ou versée par l'opér
 ###### Article 39 F
 
 Les contribuables qui réalisent des opérations imposables en application de l'article 92 B du code général des impôts sont
-tenus t de souscrire, avant le 1er mars de chaque année, la déclaration prévue à l'article 97 du code précité sur une formule
+tenus de souscrire, avant le 1er mars de chaque année, la déclaration prévue à l'article 97 du code précité sur une formule
 spéciale indiquant :
 
-1° (Abrogé)     2° Le montant global, compte non tenu des frais, de l'ensemble des ventes réalisées au cours de l'année
-d'imposition ;
+1° Le montant global, compte non tenu des frais, de l'ensemble les ventes réalisées au cours de l'année d'imposition ;
+
+2° Le montant global, compte non tenu des frais, des cessions de parts ou actions mentionnées au I bis de l'article 92 B du
+code général des impôts réalisées au cours de l'année d'imposition ;
 
 3° Le montant du gain net imposable assorti des éléments nécessaires à sa détermination.
 
@@ -797,7 +799,7 @@ intermédiaire, un document établi par ce dernier et faisant apparaître les m�
 
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+	  - Décret n°93-820 du 14 mai 1993 - art. 1 () JORF 16 mai 1993
 
 
 ##### 4° Obligations des intermédiaires financiers et des sociétés de personnes ou groupements agissant en qualité de personnes interposées.
@@ -839,32 +841,33 @@ renseignements portés sur la déclaration prévue au 2° du 1.
 	  - HISTO: Edition du 31 mars 2001
 
 
-##### Obligations des intermédiaires financiers.
-
 ###### Article 39 H
 
 Les sociétés de bourse et les établissements de crédit ou organismes habilités à détenir et à négocier des valeurs mobilières
-pour le compte des particuliers doivent déclarer à l'administration le montant global, compte non tenu des frais, des ventes
-des titres ou des droits visés à l'article 92-B du code général des impôts effectuées par chacun de leurs clients.
+pour le compte des particuliers doivent déclarer à l'administration le montant global, compte non tenu des frais, des
+cessions effectuées par chacun de leurs clients, en indiquant distinctement les cessions de titres ou droits visés au 1 de
+l'article 92 B du code général des impôts et les cessions de parts ou actions mentionnées au I bis du même article.
 
 Ces renseignements doivent parvenir, avant le 16 février de chaque année pour les opérations de l'année précédente, à la
 direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils figurent sur la
 déclaration prévue au 1 de l'article 242 ter du même code lorsque celle-ci doit être souscrite.
 
+Les sociétés de personnes ou groupements mentionnés à l'article 39 G doivent déclarer dans les mêmes conditions la quote-part
+du montant des cessions correspondant aux droits de chacun de leurs membres dans la société ou le groupement.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 242 ter
-	  - CGI 92 B
+	  - CGI 92 B, 242 ter, 39 G
 
 	**Modifié par**:
 
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+	  - Décret n°93-820 du 14 mai 1993 - art. 2 () JORF 16 mai 1993
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### III : Revenus des capitaux mobiliers
