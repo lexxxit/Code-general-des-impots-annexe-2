@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-11-01
+Version Consolidée au 1980-11-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8356,6 +8356,63 @@ société émettrice.
 
 
 ##### III : Mutations à titre gratuit
+
+##### A : Champ d'application
+
+##### Sommes versées en vertu de contrats d'assurances en cas de décès
+
+###### Article 292 A
+
+Tous les contrats d'assurance en cas de vie ou en cas de décès dont l'assuré était âgé de soixante six ans au moins au jour
+de leur conclusion doivent, quel que soit le montant du capital assuré et des primes prévues, être déclarés par les
+bénéficiaires, au décès de l'assuré, dans les conditions fixées pour les déclarations de succession [*formalité
+obligatoire*]. La déclaration doit préciser, pour chaque contrat, le montant des primes prévues pour chacune des quatre
+années à compter de sa conclusion et le capital assuré.
+
+Sur la demande des bénéficiaires les assureurs sont tenus de leur communiquer les informations mentionnées ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-895 du 13 novembre 1980 - art. 1 (V) JORF 18 NOVEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 292 B (VD)
+
+
+###### Article 292 B
+
+Les assureurs peuvent se libérer des sommes, rentes ou émoluments quelconques dus au titre de contrats mentionnés à l'article
+292 A dans les conditions prévues à l'article 806-III, premier et deuxième alinéas, du code général des impôts. Ils peuvent
+également se libérer dans les conditions prévues au troisième alinéa du même article, sous réserve de la production d'un
+certificat du comptable des impôts attestant le dépôt d'une déclaration contenant les références du ou des contrats ainsi que
+les indications prévues à l'article 292 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 806 III AL. 1, AL. 2
+	  - CGIAN2 292 A
+
+	**Créé par**:
+
+	  - Décret n°80-895 du 13 novembre 1980 - art. 2 (V) JORF 18 NOVEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 370 C (V)
+
 
 ##### B : Liquidation
 
