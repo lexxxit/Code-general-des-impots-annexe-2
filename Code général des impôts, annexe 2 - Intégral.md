@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-10-30
+Version Consolidée au 1983-12-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17055,7 +17055,7 @@ La contribution additionnelle prévue à l'article 1628 sexies du code général
 cotisations effectivement versées au titre de l'assurance des risques de responsabilité civile mentionnés à l'article 1er de
 la loi du 27 février 1958, instituant une obligation d'assurance en matière de circulation de véhicules terrestres.
 
-Son taux est fixé à 0,5 % des primes et cotisations (1).
+Son taux est fixé à 0,10 % des primes et cotisations (1).
 
 Elle est recouvrée par les entreprises d'assurances, pour le compte du fonds institué par la loi n° 74-1118 du 27 décembre
 1974, suivant les mêmes règles, sous les mêmes garanties, et les mêmes sanctions que la taxe sur les conventions d'assurance.
@@ -17071,9 +17071,13 @@ Elle est reversée au fonds suivant les modalités prévues pour cette taxe.
 	  - Loi n°1958-02-27 ART. 1
 	  - Loi n°74-1118 1974-12-27
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Décret n°83-1074 1983-12-13 art. 1 JORF 15 décembre 1983
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
