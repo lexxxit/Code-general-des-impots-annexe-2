@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1987-06-18
+Version Consolidée au 1987-07-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2825,6 +2825,33 @@ d'outre-mer.
 	  - Code général des impôts, CGI. - art. 199 ter (V)
 
 
+###### Article 93
+
+Les personnes mentionnées à l'article 92 qui ont leur domicile réel en France et qui ne peuvent pas exercer intégralement le
+droit à imputation que leur confèrent les I et II de l'article 199 ter du code général des impôts, soit parce qu'elles ne
+sont pas redevables de l'impôt sur le revenu, soit parce que le crédit dont elles disposent excède le montant dudit impôt,
+ont droit à la restitution totale ou partielle de ce crédit suivant le cas. 
+
+La somme à restituer est égale à l'excédent du crédit sur l'impô t dû par le contribuable avant l'application, le cas
+échéant, des intérêts de retard et s'il y a lieu, des majorations visés aux articles 1728 et 1729 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 2 II, III, VI JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 92 (V)
+	  - Code général des impôts, CGI. - art. 1728 (V)
+	  - Code général des impôts, CGI. - art. 199 ter (V)
+
+
 ###### Article 94
 
 I. La restitution est ordonnée d'office par l'administration au profit des contribuables tenus de souscrire la déclaration
@@ -3374,6 +3401,41 @@ de mise en paiement du solde.
 
 	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article sans objet, modifications incorporées à la date du 18 août 1993
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 102 D
+
+I. Dans le cas où une augmentation de capital réalisée entre le 1er janvier 1977 et le 31 décembre 1987 a été précédée,
+postérieurement au 15 novembre 1976, d'une réduction de capital non motivée par des pertes ou d'un prélèvement opéré sur le
+compte "Primes d'émission", les dividendes alloués aux actions nouvelles n'ouvrent droit au régime de déduction que si ces
+opérations entraînent en définitive un accroissement de fonds propres. En outre, ils ne peuvent être admis en déduction qu'en
+proportion du rapport existant entre cet accroissement des fonds propres et les apports correspondant à l'augmentation de
+capital.
+
+II. Lorsqu'une société qui s'est constituée ou a augmenté son capital entre le 1er janvier 1977 et le 31 décembre 1987
+procède, suivant les cas prévus à l'article 214-A-I-2 du code général des impôts, moins de sept ans ou moins de dix ans après
+la réalisation de ces opérations à une réduction de son capital non motivée par des pertes ou à un prélèvement sur le compte
+"Primes d'émission", il est fait application des règles prévues au I.
+
+La fraction des dividendes alloués aux actions nouvelles qui n'ouvre pas droit au régime de déduction est, en ce qui concerne
+les dividendes ayant déjà bénéficié de ce régime, rapportée aux résultats des exercices de déduction. Les suppléments
+d'imposition ainsi calculés sont majorés selon les règles prévues pour les intérêts de retard à l'article 1727 du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1727
+	  - CGI 214 A I 2
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 2 I, VI JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 102 E
@@ -4941,6 +5003,26 @@ documents employés ou établis par eux pour effectuer ce calcul.
 	  - Code général des impôts, CGI. - art. 223 (V)
 
 
+###### Article 140
+
+Le fait pour une société de demander l'imputation d'une somme trop élevée est regardé comme une insuffisance pour
+l'application des pénalités prévues à l'article 1729 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1729 (V)
+
+
 ##### Section IV : Lieu d'imposition
 
 ###### Article 140 bis
@@ -6184,6 +6266,43 @@ articles 235 quater et 238 octies du code général des impôts.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### II : Participation des salariés aux résultats de l'entreprise
+
+###### Article 171 bis
+
+La constitution en franchise d'impôt de la provision prévue au II de l'article 237 bis A du code général des impôts est
+subordonnée au respect des conditions de forme imparties par le 5° du 1 de l'article 39 du même code.
+
+Le tableau des provisions prévu à l'article 38-II de l'annexe III au code général des impôts doit à cet effet être complété
+par la production [*formalité obligatoire*] :
+
+a. D'un état faisant apparaître distinctement les modalités de calcul des sommes affectées au compte de la réserve spéciale
+de participation et au compte de la provision pour investissement;
+
+b. D'un état comportant indication de l'emploi de la provision, dans l'année qui a suivi sa constitution.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 237 bis A III
+	  - CGI 39 1 5°
+	  - CGI 54 quinquies
+	  - CGIAN3 38 II
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 5 I 2° JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code du travail - art. D3325-5 (VD)
 
 
 ##### III : Prélèvement d'un tiers sur les plus-values réalisées par des personnes physiques ou sociétés qui ne sont pas fiscalement domiciliées en France
@@ -16473,31 +16592,6 @@ dans le plan d'épargne d'entreprise.
 
 ##### CALCUL DE L'IMPOT.
 
-###### Article 93
-
-Les personnes mentionnées à l'article 92 qui ont leur domicile réel en France et qui ne peuvent pas exercer intégralement le
-droit à imputation que leur confère l'article 199 ter-I et II du code général des impôts, soit parce qu'elles ne sont pas
-redevables de l'impôt sur le revenu, soit parce que le crédit dont elles disposent excède le montant dudit impôt, ont droit à
-la restitution totale ou partielle de ce crédit suivant le cas.
-
-La somme à restituer est égale à l'excédent du crédit sur l'impôt dû par le contribuable avant l'application, le cas échéant,
-des intérêts de retard ou majorations visés aux articles 1728, 1729 et 1733 du code précité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1728
-	  - CGI 1729
-	  - CGI 1733
-	  - CGI 199 ter I, II
-	  - CGI 92
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 95 B
 
 Les intermédiaires agréés mentionnés aux articles 199 quinquies et 199 quinquies C du code général des impôts sont :
@@ -16607,41 +16701,6 @@ vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" 
 	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
 
 
-###### Article 102 D
-
-I. Dans le cas où une augmentation de capital réalisée entre le 1er janvier 1977 et le 31 décembre 1987 a été précédée,
-postérieurement au 15 novembre 1976, d'une réduction de capital non motivée par des pertes ou d'un prélèvement opéré sur le
-compte "Primes d'émission", les dividendes alloués aux actions nouvelles n'ouvrent droit au régime de déduction que si ces
-opérations entraînent en définitive un accroissement de fonds propres. En outre, ils ne peuvent être admis en déduction qu'en
-proportion du rapport existant entre cet accroissement des fonds propres et les apports correspondant à l'augmentation de
-capital.
-
-II. Lorsqu'une société qui s'est constituée ou a augmenté son capital entre le 1er janvier 1977 et le 31 décembre 1987
-procède, suivant les cas prévus à l'article 214-A-I-2 du code général des impôts, moins de sept ans ou moins de dix ans après
-la réalisation de ces opérations à une réduction de son capital non motivée par des pertes ou à un prélèvement sur le compte
-"Primes d'émission", il est fait application des règles prévues au I.
-
-La fraction des dividendes alloués aux actions nouvelles qui n'ouvre pas droit au régime de déduction est, en ce qui concerne
-les dividendes ayant déjà bénéficié de ce régime, rapportée aux résultats des exercices de déduction. Les suppléments
-d'imposition ainsi calculés sont majorés selon les règles prévues pour les intérêts de retard à l'article 1734 du code
-général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1734
-	  - CGI 214 A I 2
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 69 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
-
-
 ###### Article 102 RB
 
 La provision pour dépréciation du portefeuille prévue aux trois derniers alinéas du 5° du 1 de l'article 39 du code général
@@ -16661,27 +16720,6 @@ et leur valeur d'origine.
 	**Créé par**:
 
 	  - Décret n°84-580 du 4 juillet 1984 - art. 2 (V) JORF 11 juillet 1984
-
-
-#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES
-
-##### IMPUTATION DE L'IMPOT SUR LE REVENU *IR* (RETENUE A LA SOURCE) SUR LE MONTANT DE L'IMPOT SUR LES SOCIETES *IS*.
-
-###### Article 140
-
-Le fait pour une société de demander l'imputation d'une somme trop élevée est regardé comme une insuffisance pour
-l'application des majorations prévues aux articles 1728 et 1729 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1728
-	  - CGI 1729
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES
@@ -17274,42 +17312,6 @@ liquidation définitive du prélèvement dû par le redevable.
 	**Codifié par**:
 
 	  - Décret n°89-801 1989-10-27
-
-
-###### Article 171 bis
-
-La constitution en franchise d'impôt de la provision prévue à l'article 237 bis A-III du code général des impôts est
-subordonnée au respect des conditions de forme imparties par les articles 39-1-5° et 54 quinquies du même code.
-
-Le tableau des provisions prévu à l'article 38-II de l'annexe III au code général des impôts doit à cet effet être complété
-par la production [*formalité obligatoire*] :
-
-a. D'un état faisant apparaître distinctement les modalités de calcul des sommes affectées au compte de la réserve spéciale
-de participation et au compte de la provision pour investissement;
-
-b. D'un état comportant indication de l'emploi de la provision, dans l'année qui a suivi sa constitution.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 237 bis A III
-	  - CGI 39 1 5°
-	  - CGI 54 quinquies
-	  - CGIAN3 38 II
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 113 (V) JORF 30 décembre 1983
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
-
-	**Cité par**:
-
-	  - Code du travail - art. D3325-5 (VD)
 
 
 ###### Article 171-0 bis
@@ -20594,6 +20596,31 @@ même code, au maire, qui en informe immédiatement le directeur des services fi
 	  - Code de l'urbanisme R424-1
 
 
+###### Article 384 ter
+
+Conformément à l'article R332-6 du code de l'urbanisme, à défaut de paiement dans les délais impartis, les pénalités prévues
+à l'article 1731 du code général des impôts sont dues par le redevable de la participation.
+
+Le recouvrement, tant de la créance du Trésor que des pénalités, est poursuivi dans les conditions fixées au titre IV du
+livre des procédures fiscales pour les impôts recouvrés par les comptables de la direction générale des impôts. Il est
+garanti suivant les modalités définies à l'article L 333-11, deuxième et troisième alinéas, du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1727
+	  - Code de l'urbanisme R332-6
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 ## Chapitre I bis : Pénalités
 
 ### Section I : Commission des infractions fiscales
@@ -20721,6 +20748,150 @@ agents des impôts peuvent établir les bases d'imposition et le décompte des d
 
 
 ## Chapitre II bis : Sûretés et privilèges
+
+### Publicité du privilège du Trésor.
+
+###### Article 396 bis
+
+1. L'inscription des sommes privilégiées dues au Trésor prescrite au 1 de l'article 1929 quater du code général des impôts
+est faite :
+
+1° Si le redevable est une personne physique, au greffe du tribunal de commerce ou du tribunal de grande instance statuant
+commercialement, dans le ressort duquel se trouve son principal établissement commercial ;
+
+2° Si le redevable est une personne morale de droit privé immatriculée au registre du commerce et des sociétés, au greffe du
+tribunal de commerce ou du tribunal de grande instance statuant commercialement, dans le ressort duquel se trouve son siège
+social ;
+
+3° Si le redevable est une personne morale de droit privé non immatriculée au registre du commerce et des sociétés, au greffe
+du tribunal de grande instance dans le ressort duquel se trouve son siège.
+
+Pour les redevables visés aux 2° et 3° dont le siège n'est pas situé sur le territoire métropolitain ou dans les départements
+d'outre-mer, l'inscription est requise, selon le cas, au greffe du tribunal de commerce ou du tribunal de grande instance
+statuant commercialement ou au greffe du tribunal de grande instance dans le ressort duquel se trouve le principal
+établissement du redevable.
+
+2. Lorsque la publicité est faite à titre obligatoire, en application de l'article 1929 quater-1 du code général des impôts,
+l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard :
+
+- Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente ;
+
+- Le 31 mai pour les sommes dues au 31 mars de l'année courante ;
+
+- Le 31 août pour les sommes dues au 30 juin de l'année courante ;
+
+- Le 30 novembre pour les sommes dues au 30 septembre de l'année courante.
+
+L'octroi de délais de paiement ne fait pas obstacle à l'application des dispositions du présent article.
+
+3. Pour requérir l'inscription des sommes privilégiées dues au Trésor, le comptable public chargé du recouvrement remet ou
+adresse par lettre recommandée avec demande d'avis de réception, au greffier compétent, un bordereau établi en double
+exemplaire et comportant les indications suivantes :
+
+a. Date à laquelle il est établi ;
+
+b. Désignation du comptable public requérant ;
+
+c. Nom, prénoms, raison ou dénomination sociale, adresse de l'établissement principal ou du siège du redevable ;
+
+d. Montant des sommes dues au Trésor au dernier jour du trimestre civil précédant l'inscription.
+
+Le comptable avise le contribuable qu'il a requis une inscription à son encontre.
+
+4. Un des exemplaires du bordereau prévu au 3 est restitué ou renvoyé au comptable par le greffier, après avoir été revêtu de
+la mention d'inscription qui comprend la date de celle-ci et le numéro sous lequel elle a été faite. Le second exemplaire
+portant les mêmes mentions est conservé au greffe pour constituer le registre des inscriptions ; le greffier tient en outre
+un répertoire alphabétique.
+
+5. Lorsqu'un redevable a contesté une imposition ayant fait l'objet d'une inscription et qu'il bénéficie du sursis de
+paiement dans les conditions prévues aux articles L. 277 à L. 279 A du livre des procédures fiscales, il peut faire
+mentionner par le greffier l'existence de la contestation ; cette mention est portée en marge de l'inscription.
+
+Le redevable doit produire à cet effet une attestation délivrée par le comptable chargé du recouvrement de l'imposition
+contestée.
+
+La fraction non encore payée d'une imposition contestée ayant fait l'objet d'une mention au registre public figure d'une
+manière distincte sur le bordereau établi par le comptable en vue d'une nouvelle inscription dans les conditions prévues au
+6, premier alinéa.
+
+6. Chaque nouvelle inscription requise par un même comptable à l'encontre du même redevable rend caduque l'inscription
+précédente.
+
+En dehors du cas prévu au 7, une inscription peut faire l'objet à tout moment d'une radiation totale à la diligence du
+redevable, sur présentation au greffe d'une attestation constatant le paiement et établie par le comptable ayant requis
+l'inscription. Une radiation partielle ne peut être faite que pour une somme au moins égale au montant minimum prévu pour
+l'inscription.
+
+Toute radiation consécutive à un dégrèvement est faite à l'initiative du comptable qui avait requis l'inscription.
+
+Le greffier mentionne les radiations en marge de l'inscription correspondante.
+
+7. Pour inscrire son privilège, le subrogé dans les droits du Trésor produit au greffier un certificat établi par le
+comptable public chargé du recouvrement et attestant la subrogation. Si la créance ayant fait l'objet d'une subrogation est
+comprise dans une inscription, le certificat vaut radiation de cette inscription à due concurrence.
+
+8. Les attestations ou certificats prévus aux 5, 6 et 7 sont remis en double exemplaire ou adressés aux greffiers par lettre
+recommandée avec demande d'avis de réception. L'un des exemplaires est rendu ou renvoyé à titre de récépissé au requérant,
+après avoir été revêtu, dès réception, d'une mention indiquant la date d'accomplissement de la formalité requise. Le deuxième
+exemplaire est conservé au greffe.
+
+9. Les greffiers sont tenus de délivrer à tous ceux qui le requièrent et aux frais du requérant soit un état des inscriptions
+existantes, soit un certificat indiquant qu'il n'existe aucune inscription. Chaque réquisition ne peut viser qu'un redevable
+nommément désigné.
+
+L'état des inscriptions délivré par le greffier doit comporter l'indication du comptable ou du tiers subrogé ayant requis
+l'inscription, la date de l'inscription, le montant des sommes inscrites et, le cas échéant, les mentions de contestations.
+
+10. Le modèle des bordereaux, attestations, certificats, réquisitions et états des inscriptions prévus aux 3, 5, 6, 7 et 9
+est fixé par arrêté conjoint du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice (1).
+
+11. En cas de destruction totale ou partielle ou de disparition, par suite d'un sinistre ou de tout autre fait, du registre
+de publicité des créances privilégiées du Trésor public mentionné à l'article 1er de la loi n° 71-1029 du 24 décembre 1971,
+quel que soit le greffe dans lequel ce registre était ou est conservé, il est procédé à sa reconstitution de la façon
+suivante :
+
+Les comptables publics qui avaient obtenu l'inscription de privilèges pour des sommes dues au Trésor, demandent au greffier,
+par simple requête et sur présentation du second exemplaire du bordereau d'inscription prévu au 4, la réinscription du
+privilège du Trésor pour les sommes indiquées sur cet exemplaire.
+
+Les subrogés dans les droits du Trésor procèdent de la même manière sur production du deuxième exemplaire de l'attestation ou
+certificat prévu au 8.
+
+La réinscription du privilège du Trésor ou des subrogés est notifiée par le greffier au redevable par lettre recommandée avec
+demande d'avis de réception dans les huit jours de cette réinscription.
+
+Le redevable, s'il estime que la réinscription n'est pas conforme à l'inscription primitive, peut, dans le délai de quinze
+jours à compter de la date de réception de cette lettre, présenter une réclamation devant la commission visée à l'article 1er
+du décret n° 72-917 du 2 octobre 1972.
+
+Celle-ci statue dans les conditions prévues au chapitre premier du même décret.
+
+**Nota:**
+
+NOTA : (1) Voir l'article 207 sexies de l'annexe IV.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1929 quater
+	  - CGIAN4 207 sexies
+	  - Loi n°71-1029 du 24 décembre 1971 - art. 1 (V)
+	  - Décret n°72-917 1972-10-02 art. 1
+	  - Livre des procédures fiscales L277 à L279 A
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 17 II JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
+
 
 ### Section II : Redressement judiciaire.
 
@@ -21031,169 +21202,5 @@ impôts et 50, 51, 369 et 374-1 de l'annexe III à ce code.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.
-
-###### Article 384 ter
-
-Comme il est dit à l'article R332-6 du code de l'urbanisme, à défaut de paiement dans les délais impartis, l'indemnité de
-retard prévue au premier alinéa de l'article 1727 du code général des impôts est due par le redevable de la participation.
-
-Le recouvrement, tant de la créance du Trésor que de l'indemnité de retard, est poursuivi dans les conditions fixées au titre
-IV du livre des procédures fiscales pour les impôts recouvrés par les comptables de la direction générale des impôts. Il est
-garanti suivant les modalités définies à l'article L 333-11, deuxième et troisième alinéas, du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1727
-	  - Code de l'urbanisme L333-11 AL. 2, AL. 3
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-## SURETES ET PRIVILEGES.
-
-###### Article 396 bis
-
-1. L'inscription des sommes privilégiées dues au Trésor prescrite à l'article 1929 quater 1 du code général des impôts est
-faite :
-
-1° Si le redevable est une personne physique, au greffe du tribunal de commerce ou du tribunal de grande instance statuant
-commercialement, dans le ressort duquel se trouve son principal établissement commercial ;
-
-2° Si le redevable est une personne morale de droit privé immatriculée au registre du commerce et des sociétés, au greffe du
-tribunal de commerce ou du tribunal de grande instance statuant commercialement, dans le ressort duquel se trouve son siège
-social ;
-
-3° Si le redevable est une personne morale de droit privé non immatriculée au registre du commerce et des sociétés, au greffe
-du tribunal de grande instance dans le ressort duquel se trouve son siège.
-
-Pour les redevables visés aux 2° et 3° dont le siège n'est pas situé sur le territoire métropolitain ou dans les départements
-d'outre-mer, l'inscription est requise, selon le cas, au greffe du tribunal de commerce ou du tribunal de grande instance
-statuant commercialement ou au greffe du tribunal de grande instance dans le ressort duquel se trouve le principal
-établissement du redevable.
-
-2. Lorsque la publicité est faite à titre obligatoire, en application de l'article 1929 quater 1 du code général des impôts,
-l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard [*date
-limite*] :
-
-- Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente ;
-
-- Le 31 mai pour les sommes dues au 31 mars de l'année courante ;
-
-- Le 31 août pour les sommes dues au 30 juin de l'année courante ;
-
-- Le 30 novembre pour les sommes dues au 30 septembre de l'année courante.
-
-L'octroi de délais de paiement ne fait pas obstacle à l'application des dispositions du présent article.
-
-3. Pour requérir l'inscription des sommes privilégiées dues au Trésor, le comptable public chargé du recouvrement remet ou
-adresse par lettre recommandée avec demande d'avis de réception, au greffier compétent, un bordereau établi en double
-exemplaire et comportant les indications suivantes :
-
-a. Date à laquelle il est établi ;
-
-b. Désignation du comptable public requérant ;
-
-c. Nom, prénoms, raison ou dénomination sociale, adresse de l'établissement principal ou du siège du redevable ;
-
-d. Montant des sommes dues au Trésor au dernier jour du trimestre civil précédant l'inscription.
-
-Le comptable avise le contribuable qu'il a requis une inscription à son encontre.
-
-4. Un des exemplaires du bordereau prévu au 3 est restitué ou renvoyé au comptable par le greffier, après avoir été revêtu de
-la mention d'inscription qui comprend la date de celle-ci et le numéro sous lequel elle a été faite. Le second exemplaire
-portant les mêmes mentions est conservé au greffe pour constituer le registre des inscriptions ; le greffier tient en outre
-un répertoire alphabétique.
-
-5. Lorsqu'un redevable a contesté une imposition ayant fait l'objet d'une inscription et qu'il bénéficie du sursis de
-paiement dans les conditions prévues aux articles L. 277 à L. 279 du livre des procédures fiscales, il peut faire mentionner
-par le greffier l'existence de la contestation ; cette mention est portée en marge de l'inscription.
-
-Le redevable doit produire à cet effet une attestation délivrée par le comptable chargé du recouvrement de l'imposition
-contestée.
-
-La fraction non encore payée d'une imposition contestée ayant fait l'objet d'une mention au registre public figure d'une
-manière distincte sur le bordereau établi par le comptable en vue d'une nouvelle inscription dans les conditions prévues au
-6, premier alinéa.
-
-6. Chaque nouvelle inscription requise par un même comptable à l'encontre du même redevable rend caduque l'inscription
-précédente.
-
-En dehors du cas prévu au 7, une inscription peut faire l'objet à tout moment d'une radiation totale à la diligence du
-redevable, sur présentation au greffe d'une attestation constatant le paiement et établie par le comptable ayant requis
-l'inscription. Une radiation partielle ne peut être faite que pour une somme au moins égale au montant minimum prévu pour
-l'inscription.
-
-Toute radiation consécutive à un dégrèvement est faite à l'initiative du comptable qui avait requis l'inscription.
-
-Le greffier mentionne les radiations en marge de l'inscription correspondante.
-
-7. Pour inscrire son privilège, le subrogé dans les droits du Trésor produit au greffier un certificat établi par le
-comptable public chargé du recouvrement et attestant la subrogation. Si la créance ayant fait l'objet d'une subrogation est
-comprise dans une inscription, le certificat vaut radiation de cette inscription à due concurrence.
-
-8. Les attestations ou certificats prévus aux 5, 6 et 7 sont remis en double exemplaire ou adressés aux greffiers par lettre
-recommandée avec demande d'avis de réception. L'un des exemplaires est rendu ou renvoyé à titre de récépissé au requérant,
-après avoir été revêtu, dès réception, d'une mention indiquant la date d'accomplissement de la formalité requise. Le deuxième
-exemplaire est conservé au greffe.
-
-9. Les greffiers sont tenus de délivrer à tous ceux qui le requièrent et aux frais du requérant soit un état des inscriptions
-existantes, soit un certificat indiquant qu'il n'existe aucune inscription. Chaque réquisition ne peut viser qu'un redevable
-nommément désigné.
-
-L'état des inscriptions délivré par le greffier doit comporter l'indication du comptable ou du tiers subrogé ayant requis
-l'inscription, la date de l'inscription, le montant des sommes inscrites et, le cas échéant, les mentions de contestations.
-
-10. Le modèle des bordereaux, attestations, certificats, réquisitions et états des inscriptions prévus aux 3, 5, 6, 7 et 9
-est fixé par arrêté conjoint du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice (1).
-
-11. En cas de destruction totale ou partielle ou de disparition, par suite d'un sinistre ou de tout autre fait, du registre
-de publicité des créances privilégiées du Trésor public mentionné à l'article 1er de la loi n° 71-1029 du 24 décembre 1971,
-quel que soit le greffe dans lequel ce registre était ou est conservé, il est procédé à sa reconstitution de la façon
-suivante :
-
-Les comptables publics qui avaient obtenu l'inscription de privilèges pour des sommes dues au Trésor, demandent au greffier,
-par simple requête et sur présentation du second exemplaire du bordereau d'inscription prévu au 4, la réinscription du
-privilège du Trésor pour les sommes indiquées sur cet exemplaire.
-
-Les subrogés dans les droits du Trésor procèdent de la même manière sur production du deuxième exemplaire de l'attestation ou
-certificat prévu au 8.
-
-La réinscription du privilège du Trésor ou des subrogés est notifiée par le greffier au redevable par lettre recommandée avec
-demande d'avis de réception dans les huit jours de cette réinscription.
-
-Le redevable, s'il estime que la réinscription n'est pas conforme à l'inscription primitive, peut, dans le délai de quinze
-jours à compter de la date de réception de cette lettre, présenter une réclamation devant la commission visée à l'article 1er
-du décret n° 72-917 du 2 octobre 1972.
-
-Celle-ci statue dans les conditions prévues au chapitre premier du même décret.
-
-**Nota:**
-
-NOTA : (1) Voir l'article 207 sexies de l'annexe IV.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1929 quater 1
-	  - CGIAN4 207 sexies
-	  - Loi n°71-1029 du 24 décembre 1971 - art. 1 (V)
-	  - Décret n°72-917 1972-10-02 art. 1
-	  - Livre des procédures fiscales L277 à L279
-
-	**Modifié par**:
-
-	  - Décret n°85-295 du 1 mars 1985 - art. 43 () JORF 5 MARS 1985
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
