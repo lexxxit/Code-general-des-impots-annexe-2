@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9282,6 +9282,27 @@ montant des opérations qu'elles ont réalisées et déterminant le versement à
 	  - HISTO: Edition 1979-07-01
 
 
+###### Article 242 septies
+
+En cas de cession, de cessation, de changement de lieu d'imposition ou de redressement judiciaire, les entreprises sont tenue
+de souscrire dans les trente jours [*délai*] la déclaration visée à l'article 242 sexies relative à l'année en cours ainsi
+que, le cas échéant, celle qui n'aurait pas encore été déposée au titre de l'année civile précédente.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242 sexies
+
+	**Modifié par**:
+
+	  - Loi n°85-98 1985-01-25 art. 233 JORF 26 janvier 1985 en vigueur le 1er janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
 ##### Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile - Régime optionnel.
 
 ###### Article 242 septies A
@@ -9400,6 +9421,23 @@ du mois de décembre ou du dernier trimestre de l'année le montant du chiffre d
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 242 septies L
+
+En cas de cession, de cessation, de changement de lieu d'imposition ou de redressement judiciaire, les entreprises
+souscrivent dans les trente jours [*délai*] une déclaration de régularisation pour l'exercice en cours ainsi que, le cas
+échéant, celle qui n'aurait pas encore été déposée au titre d'une période d'imposition précédente.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-98 1985-01-25 art. 233 JORF 26 janvier 1985 en vigueur le 1er janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ##### 2° : Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile. 
@@ -16928,27 +16966,6 @@ L. 18 et L. 20 du code des débits de boissons et des mesures contre l'alcoolism
 	  - Décret n°79-1163 du 29 décembre 1979 - art. 26 (V) JORF 31 DECEMBRE 1979
 
 
-###### Article 242 septies
-
-En cas de cession, de cessation, de changement de lieu d'imposition, de règlement judiciaire ou de liquidation de biens, les
-entreprises sont tenues de souscrire dans les trente jours [*délai*] la déclaration visée à l'article 242 sexies relative à
-l'année en cours ainsi que, le cas échéant, celle qui n'aurait pas encore été déposée au titre de l'année civile précédente.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 sexies
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 99 (V) JORF 30 décembre 1983
-
-
 ###### Article 242-0 B
 
 Pour les assujettis dont les déclarations de chiffre d'affaires ont fait apparaître des crédits de taxe déductible en 1971,
@@ -17022,25 +17039,6 @@ trimestre civil au cours duquel elle a été formulée.
 	**Modifié par**:
 
 	  - Décret n°82-633 du 21 juillet 1982 - art. 1 (V) JORF 23 JUILLET 1982
-
-
-##### OBLIGATIONS DES REDEVABLES
-
-###### Article 242 septies L
-
-En cas de cession, de cessation, de changement de lieu d'imposition, de règlement judiciaire ou de liquidation des biens, les
-entreprises souscrivent dans les trente jours [*délai*] une déclaration de régularisation pour l'exercice en cours ainsi que,
-le cas échéant, celle qui n'aurait pas encore été déposée au titre d'une période d'imposition précédente.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 99 (V) JORF 30 décembre 1983
 
 
 ##### DISPOSITIONS PARTICULIERES AUX OPERATIONS CONCOURANT A LA PRODUCTION OU A LA LIVRAISON D'IMMEUBLES.
