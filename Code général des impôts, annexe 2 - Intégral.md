@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-12-28
+Version Consolidée au 1980-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14098,6 +14098,103 @@ imposables, les tabacs destinés à l'exportation et les tabacs dits "de vente r
 	  - HISTO: EDITION 1979-07-01
 
 
+### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE
+
+#### LES TARIFS ET LEUR APPLICATION
+
+##### MUTATIONS A TITRE GRATUIT
+
+##### REGIMES SPECIAUX ET EXONERATIONS
+
+###### Article 294 A
+
+Lorsqu'une donation comprend des biens donnant lieu à l'exonération prévue à l'article 793 1 2° ou 2 1° du code général des
+impôts, les parties indiquent dans l'acte, en plus des renseignements énumérés à l'article 784 du même code, si de tels biens
+ont fait l'objet de donations antérieures consenties par le même donateur à un bénéficiaire quelconque (1).
+
+(1) Disposition applicable à compter de l'entrée en vigueur du décret n° 80-1086 du 29 décembre 1980.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 793 1 2°, 2 1°, 784
+	  - Décret n°80-1086 1980-12-29
+
+	**Créé par**:
+
+	  - Décret n°80-1086 du 29 décembre 1980 - art. 1 (V) JORF 30 DECEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+
+
+###### Article 294 B
+
+Dans toute déclaration de succession se rapportant à une succession ouverte à compter de l'entrée en vigueur de la loi n°
+80-30 du 18 janvier 1980 et comprenant des biens donnant lieu à l'exonération prévue à l'article 793 1 2° ou 2 1° du code
+général des impôts, les héritiers indiquent, dans le cadre de l'affirmation de sincérité prévue à l'article 802 du même code,
+et en plus des renseignements énumérés à l'article 784, si de tels biens ont fait l'objet de donations antérieures à leur
+profit ou, dans la mesure où ils en ont eu connaissance, consenties par le défunt à un bénéficiaire quelconque (1).
+
+(1) Disposition applicable aux déclarations souscrites à compter de l'entrée en vigueur du décret n° 80-1086 du 29 décembre
+1980.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 793 1 2°, 2 1°, 802, 784
+	  - Loi n°80-30 1980-01-18 FINANCES POUR 1980
+	  - Décret n°80-1086 1980-12-29
+
+	**Créé par**:
+
+	  - Décret n°80-1086 du 29 décembre 1980 - art. 2 (V) JORF 30 DECEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+
+
+###### Article 294 C
+
+Dans les cas prévus aux articles 294 A et 294 B, les actes de donation et les déclarations de succession doivent comporter
+les mentions suivantes :
+
+1° En ce qui concerne l'ensemble des donations antérieures, le montant des biens mentionnés à l'article 793 1 2° ou 2 1° du
+code général des impôts transmis à chaque bénéficiaire, l'identité de chacun d'eux ainsi que les nom et résidence des
+officiers ministériels qui ont reçu les actes de donation et leur date d'enregistrement ;
+
+2° En ce qui concerne les donations antérieures consenties à compter du 5 septembre 1979, l'indication du ou des
+bénéficiaires du droit global à exonération de 500.000 F prévu à l'article 793 A du même code et le montant pour lequel il a
+été utilisé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 793 1 2°, 2 1°, 793 A
+	  - CGIAN2 294 A, 294 B
+
+	**Créé par**:
+
+	  - Décret n°80-1086 du 29 décembre 1980 - art. 3 (V) JORF 30 DECEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE
 
 #### AUTRES DROITS ET TAXES.
@@ -15677,6 +15774,36 @@ impôts.
 
 ## IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES.
 
+###### Article 340
+
+Les montants de la taxe sont fixés par arrêté du ministre de l'économie et des finances et du ministre des transports (1)
+dans la limite des maxima ci-après :
+
+Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur à 6 tonnes : 200 F ;
+
+Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes et
+inférieur à 11 tonnes, véhicules de transports en commun de voyageurs : 300 F.
+
+Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11 tonnes,
+tracteurs routiers : 450 F.
+
+(1) Annexe IV, art. 159 septies
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 septies
+
+	**Modifié par**:
+
+	  - Décret n°80-1092 1980-12-29 ART. 1 JORF 30 DECEMBRE 1980
+
+
 ###### Article 352
 
 En vue d'encourager dans le secteur textile, d'une part la recherche, d'autre part, la rénovation des structures
@@ -16709,32 +16836,6 @@ Les certificats visés à l'article 968-V et VI précité ne donnent pas lieu au
 	**Cite**:
 
 	  - CGI 968 V, VI
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 340
-
-Les montants de la taxe sont fixés par arrêté du ministre de l'économie et des finances et du ministre des transports (1)
-dans la limite des maxima ci-après :
-
-Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur à 6 tonnes : 80 F.
-
-Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes et
-inférieur à 11 tonnes, véhicules de transports en commun de voyageurs : 120 F.
-
-Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11 tonnes,
-tracteurs routiers : 180 F.
-
-1) Annexe IV, art. 159 septies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 159 septies
 
 	**Liens**:
 
