@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1987-07-24
+Version Consolidée au 1987-08-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5929,6 +5929,332 @@ accompagnée, s'il y a lieu, de l'engagement du nouvel exploitant.
 	  - Code de la construction L313-1
 
 
+#### Chapitre VI bis : Prélèvement spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion.
+
+###### Article 163 bis
+
+Le prélèvement institué par l'article 235 ter du code général des impôts est dû par les entreprises imposables à l'impôt sur
+le revenu, à raison de leurs bénéfices industriels et commerciaux, ainsi que par les sociétés et personnes morales assimilées
+passibles de l'impôt sur les sociétés, dans la mesure où elles ont réalisé des bénéfices en tant que titulaires,
+cessionnaires ou sous-traitants régulièrement substitués de marchés publics passés à l'occasion de la création d'une force de
+dissuasion, à l'exception de ceux qui se rapportent à l'usine de séparation des isotopes ou aux études et recherches
+concernant l'énergie nucléaire et les engins balistiques.
+
+Sont toutefois exonérées dudit prélèvement des entreprises et sociétés dont le chiffre d'affaires correspondant aux marchés
+définis au premier alinéa n'excède pas, pour une période d'imposition déterminée, 10 millions de F. Dans le cas d'entreprises
+placées sous la dépendance d'autres entreprises ou ayant d'autres entreprises sous leur dépendance, le chiffre d'affaires à
+retenir est celui réalisé par l'ensemble des entreprises considérées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter
+
+	**Anciens textes**:
+
+	  - CGIAN1 23 V 1
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
+
+
+###### Article 163 octies
+
+I. Les contribuables soumis au prélèvement sont tenus de produire une déclaration indiquant distinctement pour chaque période
+d'imposition :
+
+a. La date, la nature et le montant des marchés qu'ils ont souscrits au titre de la force de dissuasion ;
+
+b. La désignation et le montant des marchés qu'ils ont acquis ou sous-traités ;
+
+c. La désignation et le montant des marchés qu'ils ont cédés ou transportés à des sous-traitants ainsi que les noms et
+adresses des cessionnaires ou sous-traitants ;
+
+d. Le chiffre d'affaire total de l'entreprise ;
+
+e. La fraction de ce chiffre d'affaires provenant de chacun des marchés imposables ;
+
+f. Le bénéfice net global déterminé dans les conditions prévues à l'article 163 quater, ainsi que, le cas échéant, la nature
+et le montant de chacune des déductions spéciales visées à l'article 163 quinquies ;
+
+g. Le bénéfice net passible du prélèvement.
+
+II. En cas d'option pour la détermination de l'assiette du prélèvement d'après le régime du bénéfice réel, la déclaration
+doit comporter, outre les renseignements demandés au I, a, b, c et e, l'indication du bénéfice net résultant de l'exécution
+des marchés ou parties de marchés imposables, tel qu'il résulte de la comptabilité de l'entreprise.
+
+III. La déclaration visée au I doit être adressée au service des impôts dans le délai fixé pour la production de la
+déclaration prévue aux articles 53 A et 223 du code général des impôts.
+
+IV. Les déclarations sont vérifiées et peuvent être rectifiées dans les conditions prévues par le livre des procédures
+fiscales en ce qui concerne le contrôle de la comptabilité des entreprises industrielles et commerciales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 53 A, 223
+	  - CGIAN2 163 quater, 163 quinquies
+
+	**Anciens textes**:
+
+	  - CGIAN1 23 V 7
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
+
+
+###### Article 163 octies A
+
+Le prélèvement est assis par voie de rôle par le service des impôts dans les conditions prévues aux articles 10 et 218 du
+code général des impôts. Les rôles sont établis et recouvrés, les délais de répétition sont fixés et les réclamations sont
+présentées, instruites et jugées comme en matière d'impôt sur le revenu.
+
+Toutefois, les sociétés en nom collectif ou en commandite simple ainsi que les sociétés à responsabilité limitée qui ont opté
+pour le régime fiscal des sociétés de personnes dans les conditions prévues au IV de l'article 3 du décret n° 55-594 du 20
+mai 1955 modifié sont assujetties au prélèvement sous une cote unique, à raison de l'ensemble de leurs résultats.
+
+Le prélèvement afférent aux bénéfices réalisés par une société en participation est également établi sous une cote unique au
+nom du coparticipant titulaire, cessionnaire ou sous-traitant régulièrement substitué des marchés exécutés ou, en cas de
+pluralité de titulaires, de cessionnaires ou de sous-traitants régulièrement substitués, sous leur désignation collective.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 10, 218
+	  - Décret n°55-594 1955-05-20 art. 3 IV
+
+	**Anciens textes**:
+
+	  - CGIAN1 23 V 10
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
+
+
+###### Article 163 octies B
+
+Dans le cas de cessation ou de cession d'entreprise ainsi que dans le cas de décès de l'exploitant, les dispositions de
+l'article 201 du code général des impôts sont applicables à la déclaration des faits survenus depuis la fin de la dernière
+période d'imposition, ainsi qu'à l'établissement et au recouvrement du prélèvement y afférent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 201
+
+	**Anciens textes**:
+
+	  - CGIAN1 23 V 11
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
+
+
+###### Article 163 quater
+
+Le bénéfice passible du prélèvement est déterminé forfaitairement à la fin de chaque période retenue pour l'établissement de
+l'impôt sur le revenu en ce qui concerne les bénéfices industriels et commerciaux ou de l'impôt sur les sociétés, en
+appliquant au bénéfice net total sur lequel sont assis lesdits impôts et après déduction, le cas échéant, des divers éléments
+énumérés à l'article 163 quinquies , le rapport constaté entre la fraction du chiffre d'affaires qui provient de l'exécution
+des marchés ou parties de marchés entrant dans le champ d'application de l'article 163 bis et le chiffre d'affaires total
+réalisé pendant la même période.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 23 V 3
+
+	**Cite**:
+
+	  - CGIAN2 163 quinquies, 163 bis
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+
+
+###### Article 163 quinquies
+
+En vue du calcul du prélèvement, sont admis en déduction du bénéfice net total visé à l'article 163 quater, dans la mesure où
+ils n'ont pas été retranchés de ce bénéfice pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés :
+
+1° Les revenus provenant de la cession ou de la concession des licences d'exploitation de brevets, marques de fabrique,
+procédés ou formules de fabrication ;
+
+2° Les produits nets de la location des immeubles figurant à l'actif de l'entreprise et non affectés à l'exploitation;
+
+3° Les revenus des valeurs et capitaux mobiliers figurant à l'actif de l'entreprise ;
+
+4° La rémunération normale du chef d'entreprise ;
+
+5° Les plus-values réalisées sur la cession d'éléments de l'actif immobilisé ou de valeurs constituant le portefeuille.
+
+En outre, les contribuables passibles de l'impôt sur le revenu sont admis à déduire de leur bénéfice net total, en vue de
+l'assiette du prélèvement, les déficits antérieurs de leur entreprise, dans les conditions prévues au troisième alinéa du I
+de l'article 209 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 I
+	  - CGIAN2 163 quater
+
+	**Anciens textes**:
+
+	  - CGIAN1 23 V 4
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
+
+
+###### Article 163 septies
+
+Le prélèvement est calculé en appliquant au bénéfice déterminé conformément aux dispositions des articles 163 quater à 163
+sexies et arrondi à la dizaine de francs inférieure le barème ci-dessous :
+
+50 % de la fraction du bénéfice comprise entre 3 % et 6 % du montant du chiffre d'affaires afférent aux marchés ou parties de
+marchés imposables ;
+
+75 % de la fraction du bénéfice excédant 6 % de ce même montant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 23 V 6
+
+	**Cite**:
+
+	  - CGIAN2 163 quater, 163 quinquies, 163 sexies
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 163 sexies
+
+Les contribuables assujettis au prélèvement sont admis, pour l'assiette de ce dernier, à substituer au bénéfice forfaitaire
+déterminé dans les conditions fixées aux articles 163 quater et 163 quinquies, le bénéfice net réel résultant de l'exécution
+des marchés imposables, à la condition que la comptabilité de leur entreprise fasse apparaître distinctement le montant des
+bénéfices retirés de l'exécution de ces marchés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 23 V 5
+
+	**Cite**:
+
+	  - CGIAN2 163 quater, 163 quinquies
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
+
+
+###### Article 163 ter
+
+I. Les administrations, services et organismes passant un marché entrant dans le champ d'application de l'article 163 bis
+devront, lors de la notification dudit marché ainsi que lors de l'agrément d'un cessionnaire ou sous-traitant, indiquer à
+chaque titulaire, cessionnaire ou sous-traitant, la somme à concurrence de laquelle son marché s'applique à la création d'une
+force de dissuasion.
+
+Les administrations, services et organismes qui passent ces marchés devront en outre, dans les deux mois de leur signature,
+adresser à la direction générale des impôts une déclaration précisant les nom, prénoms ou raison sociale et adresse du
+fournisseur ou de l'entrepreneur, la date du marché, sa nature et la somme à concurrence de laquelle il s'applique à la
+création d'une force de dissuasion. En cas d'agrément d'un cessionnaire ou d'un sous-traitant, la désignation de ce dernier,
+la date de l'agrément et l'objet de la cession ou du sous-traité seront déclarés dans les mêmes conditions.
+
+II. (Disposition périmée).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 23 V 2
+
+	**Cite**:
+
+	  - CGIAN2 163 bis
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
+
+
 #### Chapitre VI ter : Participation des employeurs au développement de la formation professionnelle continue
 
 ##### I : Dispositions générales
@@ -6289,6 +6615,33 @@ ajoutée [*TVA*]. Les réclamations sont présentées, instruites et jugées com
 
 
 #### Chapitre VIII : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
+
+##### 0I : Primes de remboursement et intérêts capitalisés
+
+###### Article 164
+
+En cas de cession des titres ou droits mentionnés à l'article 238 septies B du code général des impôts, les plus-values sont
+déterminées en faisant abstraction des annuités d'intérêts et de primes calculées et échues depuis l'acquisition dans les
+conditions prévues au même article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 39 EA
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Modifié par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 septies B (V)
+
 
 ##### I : Plus-values réalisées à l'occasion des opérations de construction et de ventes d'immeubles
 
@@ -7420,6 +7773,65 @@ au soutien de l'investissement productif industriel.
 #### Chapitre premier : Taxe sur la valeur ajoutée
 
 ##### Section I : Champ d'application
+
+##### I : Opérations obligatoirement imposables
+
+##### 2° Livraisons et prestations à soi-même
+
+###### Article 173
+
+Les prélèvements, utilisations et affectations de biens prévus au 8° de l'article 257 du code général des impôts, lorsqu'ils
+sont faits pour des besoins autres que ceux de l'entreprise, ne sont imposables que dans le cas où la taxe qui a grevé
+l'acquisition ou l'importation de ces biens ainsi que des biens et services utilisés pour leur fabrication était
+partiellement ou totalement déductible.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 257
+
+	**Anciens textes**:
+
+	  - CGIAN2 178 A
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 174
+
+Les cas d'exclusion, de limitation et de régularisation prévus au 8° de l'article 257 du code général des impôts sont ceux
+qui sont prévus aux articles 210 et suivants.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 257
+	  - CGIAN2 210
+
+	**Anciens textes**:
+
+	  - CGIAN2 178 B
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
 
 ##### II : Opérations imposables sur option
 
@@ -11964,6 +12376,30 @@ déduction à l'occasion d'une nouvelle mutation du même immeuble.
 	  - CGIAN2 290
 
 
+##### Régimes spéciaux institués en faveur de l'agriculture.
+
+###### Article 291 A
+
+Pour obtenir le bénéfice de la réduction de la taxe de publicité foncière ou du droit d'enregistrement prévue à l'article 709
+du code général des impôts, les parties doivent produire, lors de l'exécution de la formalité de l'enregistrement ou de la
+formalité fusionnée, une copie certifiée conforme de la décision de la commission départementale de réorganisation foncière
+et de remembrement [*formalité obligatoire*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 709
+
+	**Anciens textes**:
+
+	  - CGIAN1 230
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
 ##### II : Mutations de propriété à titre onéreux de meubles : Cessions de droits sociaux
 
 ###### Article 292
@@ -12319,9 +12755,130 @@ valeur nominale des droits attribués.
 
 ##### I : Timbre de dimension
 
-##### Prescriptions et prohibitions
-
 ###### Article 302
+
+Indépendamment des mentions prescrites par l'article 67 du code de procédure civile, les huissiers sont tenus d'indiquer
+distinctement au bas de l'original et des copies de chaque exploit : 
+
+1° Le nombre des feuilles de papier employées, tant pour les copies de l'original que pour les copies des pièces
+signifiées ; 
+
+2° Le montant des droits de timbre dus à raison de la dimension de ces feuilles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 234
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 67 (V)
+
+
+###### Article 302 A
+
+Il ne peut être alloué en taxe, et les officiers ministériels n  e peuvent demander et se faire payer, à titre de
+remboursement de droit de timbre des copies, aucune somme excédant la valeur des timbres mobiles apposés en exécution des
+dispositions qui précèdent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 235
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+##### II : Timbre des contrats de transport
+
+##### Colis postaux.
+
+###### Article 303
+
+Les récépissés, bulletins d'expédition ou autres pièces en tenant lieu, visés à l'article 935 du code général des impôts
+sont, après le transport effectué, réunis soit au siège social, soit au lieu où les écritures sont centralisées.
+
+Ils y sont conservés pendant la durée du délai prévu à l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 935
+	  - CGI L82
+
+	**Anciens textes**:
+
+	  - CGIAN1 236
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+###### Article 303 A
+
+Il est tenu, au départ, un carnet d'expédition indiquant le numéro d'ordre de l'étiquette, la destination et le nom de
+l'expéditeur; à l'arrivée, un carnet de réception indiquant le numéro d'ordre, la provenance et le nom du destinataire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 237
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+###### Article 303 B
+
+Tous les bulletins d'expédition de colis postaux, transportés de l'intérieur à l'extérieur, sont représentés, dans les gares
+frontières ou bureaux assimilés, aux agents des douanes, afin qu'ils s'assurent que ces bulletins sont timbrés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 238
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+##### Section II : Droits de délivrance de documents et perceptions diverses
+
+##### Permis de chasser.
+
+###### Article 304
 
 Le droit de timbre prévu pour la délivrance du permis de chasser (original ou duplicata) est acquitté sur état au moyen de
 formules sans valeur fiscale revêtues de la mention "Droit de timbre payé sur état".
@@ -12337,9 +12894,197 @@ préfecture de police.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - CGIAN2 302
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 10 août 1987
+
+
+##### Section III : Impôt sur les opérations de bourse
+
+##### I : Bourses de valeurs
+
+###### Article 305 B
+
+Le répertoire peut être divisé en deux volumes, l'un destiné à l'inscription des opérations au comptant, l'autre destiné à
+l'inscription des opérations à terme et des reports.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 241
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 305 D
+
+Les extraits présentent pour chaque opération, dans des colonnes distinctes, les indications ci-après :
+
+1° Numéro du répertoire ;
+
+2° Date de l'opération ;
+
+3° Catégorie à laquelle appartient l'opération spécifiée comme il est dit à l'article 305 A ;
+
+4° Lorsqu'il s'agit d'une opération à terme, date de l'échéance ;
+
+5° Valeur des titres sur lesquels a porté l'opération, déduction faite des versements restant à effectuer sur les titres non
+entièrement libérés, ou, lorsqu'il s'agit de marchés à prime et que les primes ont été abandonnées, valeur de ces primes.
+
+Les extraits sont totalisés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 243
+
+	**Cite**:
+
+	  - CGIAN2 305 A
+
+	**Abrogé par**:
+
+	  - Décret n°2005-182 du 24 février 2005 - art. 2 () JORF 26 février 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 1er janvier 2005
+
+
+###### Article 305 E
+
+Dans le cas prévu à l'article 305 B, il est établi deux extraits, l'un présentant les opérations au comptant, l'autre
+présentant les opérations à terme et les reports.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 244
+
+	**Cite**:
+
+	  - CGIAN2 305 B
+
+	**Abrogé par**:
+
+	  - Décret n°2005-182 du 24 février 2005 - art. 2 () JORF 26 février 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 1er janvier 2005
+
+
+###### Article 305 G
+
+Celles des personnes désignées à l'article 982 du code général des impôts qui possèdent, indépendamment de leur établissement
+principal, une ou plusieurs agences ou succursales doivent inscrire sur le répertoire prévu audit article les opérations
+effectuées par l'intermédiaire de l'agence ou de la succursale.
+
+Ce répertoire est tenu pour le tout ou pour partie soit par l'établissement principal, soit par une ou plusieurs des agences
+ou succursales spécialement désignées à cet effet. Notification de cette désignation doit être adressée, le cas échéant, aux
+services des impôts dont relèvent tant l'établissement principal que lesdites agences ou succursales.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 982
+
+	**Anciens textes**:
+
+	  - CGIAN1 246
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 305 H
+
+Les bordereaux visés aux articles qui précèdent mentionnent obligatoirement les numéros sous lesquels les opérations qu'ils
+concernent figurent au répertoire.
+
+Ils doivent être délivrés, savoir :
+
+En ce qui concerne les opérations au comptant, dans les dix jours de la négociation ;
+
+En ce qui concerne les opérations à terme, dans les dix jours de l'échéance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 247
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 305 I
+
+Dans le cas prévu à l'article 305 B, il peut être établi deux registres de bordereaux, l'un destiné aux opérations au
+comptant, l'autre destiné aux opérations à terme et aux reports.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 248
+
+	**Cite**:
+
+	  - CGIAN2 305 B
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 10 août 1987
 
 
 #### Chapitre III : Autres droits et taxes
@@ -13694,6 +14439,133 @@ février 1984)
 	  - PEREMPTION: Loi n°81-1160 du 30 décembre 1981 - art. 21 (P)
 
 
+###### Article 311 A
+
+Les tonnages nets des produits extraits chaque année et d'après lesquels sera calculée l'année suivante la redevance
+communale des mines sont définis de la façon suivante :
+
+Pour la houille et les lignites : tonnages du combustible marchand livré dans l'année, y compris la consommation des
+exploitations en cause et les livraisons à leur personnel;
+
+Pour les minerais de fer, la pyrite, les schistes bitumineux ou carbobitumineux, les calcaires et grès bitumineux ou
+asphaltiques, la bauxite et la fluorine : tonnages des produits marchands qui, après préparation mécanique s'il y a lieu,
+sont livrés dans l'année par la mine soit à ses usines annexes de traitement chimique ou physique, soit directement à
+d'autres consommateurs;
+
+Pour les minerais divers qui doivent être imposés d'après la quantité de métal, de métalloide ou d'oxyde contenu : tonnage
+résultant des tonnages et teneurs des minerais devenus marchands après avoir subi dans les usines annexes aux exploitations
+la préparation mécanique précédant le traitement métallurgique; toutefois, pour les minerais aurifères, l'évaluation a pour
+base la quantité de métal précieux effectivement extraite par le traitement métallurgique.
+
+Pour le chlorure de sodium, la redevance est calculée :
+
+a  Pour le sel extrait par abattage, d'après les tonnages nets livrés dans l'année par la mine à ses usines annexes ou
+directement à d'autres consommateurs, sous forme de sel tout venant, trié, égrugé ou trié et égrugé;
+
+b  Pour le sel extrait en dissolution par sondage puis raffiné, d'après les tonnages nets de sel raffiné livrés dans l'année
+par l'atelier d'évaporation de la mine, soit à des usines annexes de la mine, soit directement à d'autres consommateurs;
+
+c  Pour le sel extrait en dissolution par sondage et non ensuite raffiné, d'après les tonnages de chlorure de sodium contenu
+dans les dissolutions livrées dans l'année par la mine à ses usines annexes ou directement à d'autres consommateurs.
+
+En ce qui concerne les hydrocarbures, la redevance est calculée d'après soit les tonnages pour les hydrocarbures liquides,
+soit les volumes pour les hydrocarbures gazeux des produits livrés dans l'année par la mine, y compris la consommation des
+exploitations en cause, les livraisons à leur personnel et les livraisons à leurs usines annexes de traitement chimique ou
+physique autre que le dégazolinage et la désulfuration, mais à l'exclusion du gaz réinjecté dans le gisement producteur ou
+brûlé dans les torches. Pour les hydrocarbures gazeux, la redevance pourra être établie soit sur le gaz naturel brut s'il est
+livré en cet état, soit sur les produits hydrocarburés issus du dégazolinage ou de la désulfuration du gaz naturel brut.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 285
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Décret n°2017-32 du 12 janvier 2017 - art. 3 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 311 C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 317 octies (V)
+
+
+###### Article 311 B
+
+La redevance communale est établie pour chaque concession, chaque permis d'exploitation et chaque exploitation de pétrole et
+gaz combustibles avec ou sans permis, dans la commune du lieu principal d'exploitation ou d'exploration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 286
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 311 C
+
+Les exploitants concessionnaires, amodiataires ou sous-amodiataires de mines, les titulaires de permis d'exploitation des
+mines et les explorateurs de mine de pétrole et de gaz combustibles adressent chaque année avant le 1er mars, à l'ingénieur
+en chef des mines, une déclaration indiquant les concessions, permis d'exploitation et explorations avec ou sans permis
+exclusif dont ils ont disposé au cours de l'année précédente, ainsi que les noms des communes sous le territoire desquelles
+ont fonctionné lesdites exploitations ou explorations. 
+
+Cette déclaration fait ressortir, pour chaque exploitation ou exploration et pour l'ensemble de l'année, en le décomposant
+par communes intéressées, le tonnage net du produit extrait, et, s'il y a lieu, le tonnage contenu de chacun des métaux dont
+la taxation est prévue par l'arrêté visé à l'article 311-II, ces divers chiffres étant évalués comme il est prescrit à
+l'article 311.
+
+L'ingénieur en chef, après avoir vérifié la déclaration, transmet à la direction des services fiscaux, pour chaque
+exploitation ou exploration, les éléments nécessaires au calcul des deux redevances départementale et communale, ainsi qu'à
+la répartition de la redevance communale (1). 
+
+(1) Voir Annexe II, art. 312 et 315.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 287
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+###### Article 311 D
+
+Les rôles de la redevance communale des mines sont établis et recouvrés et les réclamations présentées, instruites et jugées
+comme en matière de contributions directes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 284 II
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
 ##### 1° : Répartition du produit de la redevance : substances minérales autres que les hydrocarbures liquides et gazeux
 
 ###### Article 312
@@ -13780,6 +14652,93 @@ départements producteurs.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+
+
+##### II : Taxes facultatives
+
+##### A : Taxe d'enlèvement des ordures ménagères
+
+###### Article 316
+
+I. Les matrices de la taxe d'enlèvement des ordures ménagères sont dressées par le service des impôts avec le concours de la
+commission communale des impôts directs.
+
+II. Les rôles  de la taxe d'enlèvement des ordures ménagères sont établis et recouvrés et les réclamations présentées,
+instruites et jugées comme en matière de contributions directes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 284
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+##### Taxe d'enlèvement des ordures ménagères.
+
+###### Article 316 A
+
+Lorsque la taxe d'enlèvement des ordures ménagères est établie au nom d'un contribuable autre que celui qui en était passible
+au 1er janvier de l'année de l'imposition, la mutation de cote peut être prononcée soit d'office, dans les conditions prévues
+aux articles R. 211-1 et R. 211-2 du livre des procédures fiscales, soit sur la réclamation de l'un ou l'autre des
+intéressés.
+
+Les décisions prononçant des mutations de cote ont effet tant pour l'année qu'elles concernent que pour les années suivantes,
+jusqu'à ce que les rectifications nécessaires aient été effectuées dans les rôles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI R211-1
+	  - CGI R211-2
+
+	**Anciens textes**:
+
+	  - CGIAN1 288
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+##### B : Taxe de balayage.
+
+###### Article 317
+
+Le produit total de la taxe de balayage ne peut dépasser les dépenses occasionnées à la commune par le balayage de la
+superficie des voies livrées à la circulation publique qui incombe aux propriétaires riverains, chacun au droit de sa façade,
+sur une largeur égale à celle de la moitié desdites voies, sans pouvoir, toutefois, excéder six mètres.
+
+Le tarif de la taxe est délibéré en conseil municipal, après enquête, et approuvé par arrêté du commissaire de la République.
+Il est révisé tous les cinq ans.
+
+La valeur des propriétés n'entre pas en compte dans l'établissement de la taxe, qui repose uniquement sur les nécessités de
+la circulation, de la salubrité et de la propreté de la voie publique.
+
+Le paiement de la taxe n'exempte pas les riverains des voies publiques des obligations qui leur sont imposées par les
+règlements de police en temps de neige et de glace.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 289
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 #### Chapitre II : Enregistrement
@@ -14091,6 +15050,37 @@ Les modalités techniques d'application du présent article sont fixées par arr
 
 ### Titre II : Impositions départementales
 
+#### Chapitre premier : Impôts directs et taxes assimilées
+
+##### Redevance départementale des mines.
+
+###### Article 317 octies
+
+La redevance départementale des mines instituée par l'article 1587 du code général des impôts est établie dans les conditions
+prévues aux articles 311 A à 311 D en ce qui concerne la redevance communale.
+
+Ses taux sont calculés conformément aux dispositions de l'article 311.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1587
+	  - CGIAN2 311
+	  - CGIAN2 311 A
+	  - CGIAN2 311 B
+	  - CGIAN2 311 C
+	  - CGIAN2 311 D
+
+	**Anciens textes**:
+
+	  - CGIAN2 304
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
 #### Chapitre II : Taxe sur les véhicules à moteur
 
 ##### Section unique : Taxe différentielle sur les véhicules à moteur.
@@ -14264,7 +15254,394 @@ détermine à partir de la date de la première mise en circulation. Il s'appré
 
 ### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers à l'exception des taxes parafiscales
 
+#### Chapitre premier : Impôts directs et taxes assimilées
+
+##### Section I : Taxe perçue au profit du budget annexe des prestations sociales agricoles.
+
+###### Article 319
+
+Le taux maximum de la taxe perçue au profit du budget annexe des prestations sociales agricoles en application de l'article
+1603 du code général des impôts est fixé à 5,50 % (1).
+
+(1) Voir Annexe III art. 331-0 D.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1603
+
+	**Anciens textes**:
+
+	  - CGIAN2 317 A
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°99-382 1999-05-18
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 48 () JORF 20 mai 1999
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 1999
+
+
+###### Article 319 A
+
+La taxe mentionnée à l'article 319 est comprise, en cas d'accord entre les bailleurs et les locataires, fermiers ou métayers,
+dans les rôles auxiliaires prévus à l'article 1660 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1660
+	  - CGIAN2 319
+
+	**Anciens textes**:
+
+	  - CGIAN2 317 B
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°99-382 1999-05-18
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 48 () JORF 31 décembre 1999
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 1999
+
+
+##### Section III : Ensembles urbains.
+
+###### Article 321
+
+Les droits et prérogatives de l'ensemble urbain en matière fiscale seront exercés par lui à compter du 1er janvier suivant la
+publication du décret institutif prévu à l'article L 171-8 du code des communes.
+
+Le conseil de l'ensemble urbain exerce l'ensemble des droits et prérogatives de l'ensemble urbain, à compter du jour de sa
+première réunion.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 324 bis
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°96-556 1996-06-21
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°96-142 du 21 février 1996 - art. 1 (V) JORF 24 février 1996
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 12 mai 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L171-8 (Ab)
+
+
 #### Chapitre II : Enregistrement, publicité foncière et timbre
+
+##### Section I : Fonds de garantie contre les accidents de circulation et de chasse
+
+##### A : Accidents de circulation.
+
+###### Article 322 A
+
+Les taux des contributions visées à l'article  322 sont fixés par décret rendu sur la proposition du ministre de l'économie
+et des finances, dans les limites des maximas ci-aprés (1) :
+
+a. Contributions des sociétés d'assurances : 12 % [*pourcentage*] de la totalité des charges du fonds de garantie;
+
+b. Contributions des responsables d'accidents non assurés: 10 % des indemnités restant à leur charge. Toutefois ce taux est
+ramené à 5 % lorsque l'accident a été provoqué par un véhicule utilisé par l'Etat, une collectivité publique ou entreprise
+bénéficiant de l'autorisation prévue à l'alinéa 4 l'article 47 du décret du 14 novembre 1949 relatif à la coordination et à
+l'harmonisation des transports ferroviaires et routiers ou d'une autorisation équivalente; il est également ramené à 5 % pour
+les indemnités restant à leur propre charge pour les bénéficiaire d'une assurance avec franchise;
+
+c. Contribution des assurés : 2 % des primes versées au 3° de l'article 305 AA.
+
+(1) Annexe III, art. 340 quinquies.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 305 AB
+
+	**Cite**:
+
+	  - CGIAN2 322
+	  - CGIAN3 340 quinquies
+	  - Décret n°1949-11-14 art. 47 al. 4
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+###### Article 322 B
+
+Sur le montant des encaissements effectués par le service des impôts au titre des contributions visées aux articles 322 et
+322 A, il est opéré un prélèvement de 2 %.
+
+Ce prélévement sert à couvrir, dans les limites et conditions fixées par arrêté du ministre chargé des finances, les dépenses
+de matériel et de personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 305 AC
+
+	**Cite**:
+
+	  - CGIAN2 322
+	  - CGIAN2 322 A
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 38 () JORF 28 décembre 1988
+
+
+##### Contribution pour les véhicules étrangers.
+
+###### Article 322 C
+
+Toute personne responsable d'un accident dans lequel est impliqué un véhicule à moteur étranger et dont la responsabilité
+n'est pas garantie par une assurance dans les conditions définies aux articles R. 211-1 et suivants du code des assurances
+est tenue au paiement de la contribution prévue à l'article 322.
+
+Lorsque dans un accident est impliqué un véhicule appartenant à un Etat étranger pour lequel a été fournie l'attestation
+prévue à l'article R. 211-25 du code précité, la contribution est fixée dans les mêmes conditions que pour les véhicules
+appartenant à l'Etat français.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 305 AD
+
+	**Cite**:
+
+	  - CGIAN2 322
+	  - Code des assurances R211-1 et s., R211-25
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°95-1281 1995-12-11
+
+	**Abrogé par**:
+
+	  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+###### Article 322 E
+
+Les dispositions des articles 322 et 322 A ne sont pas applicables aux véhicules couverts par l'assurance frontière
+mentionnée à l'article R. 211-23 du code des assurances.
+
+L'adhésion à l'assurance frontière donne lieu au paiement d'une contribution au profit du fonds de garantie, qui est perçue
+en même temps et dans les mêmes conditions que la prime afférente à cette assurance.
+
+Cette contribution peut varier suivant le genre du véhicule utilisé et ne doit pas excéder 15 % de la prime susvisée. Son
+montant et les modalités de son recouvrement sont fixés par arrêté du ministre de l'économie et des finances (1).
+
+(1) Annexe IV, art. 159 quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 159 quinquies
+	  - CGIAN2 322
+	  - CGIAN2 322 A
+	  - Code des assurances R211-23
+
+	**Anciens textes**:
+
+	  - CGIAN1 305 AF
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°95-1281 1995-12-11
+
+	**Abrogé par**:
+
+	  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+###### Article 322 F
+
+Sont également dispensés des contributions prévues aux articles 322, 322 C, 322 D les véhicules étrangers pour lesquels il a
+été produit une carte internationale d'assurance, en état de validité, délivrée par un bureau étranger constitué pour
+l'émission de certificats d'assurance suivant la formule adoptée par le sous-comité des transports routiers du comité des
+transports intérieurs de la commission économique pour l'Europe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 305 AG
+
+	**Cite**:
+
+	  - CGIAN2 322
+	  - CGIAN2 322 C
+	  - CGIAN2 322 D
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°95-1281 1995-12-11
+
+	**Abrogé par**:
+
+	  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+##### B : Accidents de chasse.
+
+###### Article 323 A
+
+Les taux et quotité des contributions visées à l'article 323 sont fixés par décret (1) rendu sur la proposition du ministre
+de l'économie et des finances dans la limite des maxima ci-après :
+
+a. Contribution des sociétés d'assurances : 12 % de la totalité des charges des opérations du fonds de garantie afférentes à
+la chasse et à la destruction des animaux nuisibles ;
+
+b. Contribution des responsables, non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
+personne : 10 % des indemnités restant à leur charge. Toutefois, ce taux est ramené à 5 % lorsque l'accident résulte d'une
+opération de destruction des animaux nuisibles effectuée en vertu des articles 393 à 395 du code rural ;
+
+c. Contribution des assurés, somme forfaitaire maximum de 2,50 F par personne garantie.
+
+1) Annexe III, art. 340 sexies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 323
+	  - CGIAN3 340 sexies
+	  - Code rural 366 ter
+	  - Code rural 393 à code rural 395
+	  - Décret n°68-170 1968-02-19 ART. 22
+
+	**Anciens textes**:
+
+	  - CGIAN2 326
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+###### Article 323 B
+
+Sur le montant des encaissements effectués par le service des impôts au titre des contributions visées à l'article 323, il
+est opéré un prélèvement de 2 % [*pourcentage*].
+
+Ce prélèvement sert à couvrir dans les limites et conditions fixées par arrêté du ministre chargé des finances, les dépenses
+de matériel et de personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 323
+	  - Code rural 366 ter
+	  - Décret n°68-170 1968-02-19 ART. 22
+
+	**Anciens textes**:
+
+	  - CGIAN2 327
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23 Décret 91-883 1991-09-09
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 38 () JORF 28 décembre 1988
+
+
+##### Section II : Fonds pour le financement des majorations accordées aux rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.
+
+###### Article 324
+
+La contribution additionnelle prévue à l'article 1628 sexies du code général des impôts, est assise sur les primes et
+cotisations effectivement versées au titre de l'assurance des risques de responsabilité civile mentionnés à l'article 1er de
+la loi du 27 février 1958, instituant une obligation d'assurance en matière de circulation de véhicules terrestres.
+
+Son taux est fixé à 0,10 % des primes et cotisations (1).
+
+Elle est recouvrée par les entreprises d'assurances, pour le compte du fonds institué par la loi n° 74-1118 du 27 décembre
+1974, suivant les mêmes règles, sous les mêmes garanties, et les mêmes sanctions que la taxe sur les conventions d'assurance.
+Elle est reversée au fonds suivant les modalités prévues pour cette taxe.
+
+(1) Taux applicable aux primes et cotisations échues postérieurement au 31 janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1628 sexies
+	  - Loi n°1958-02-27 ART. 1
+	  - Loi n°74-1118 1974-12-27
+
+	**Anciens textes**:
+
+	  - CGIAN2 327-0 A
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - PEREMPTION: Loi n°89-935 1989-12-29 art. 42 Finances pour 1990 JORF 30 décembre 1989
+	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 3 () JORF 11 septembre 1990
+
 
 ##### Section III : Fonds de garantie contre les actes de terrorisme.
 
@@ -14304,7 +15681,911 @@ Le taux de la contribution est fixé, chaque année, par arrêté du ministre ch
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies A (M)
 
 
+### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers
+
+#### Chapitre II : Enregistrement, publicité foncière et timbre
+
+##### Section I : Fonds de garantie des assurances obligatoires de dommages
+
+##### B : Accidents de chasse
+
+###### Article 323
+
+Pour l'application des dispositions de l'article 366 ter du code rural, les contributions prévues à l'article 1628 quater-II
+du code général des impôts pour l'alimentation du fonds de garantie sont assises dans les conditions suivantes :
+
+1° La contribution des sociétés d'assurances ou des assureurs est proportionnelle aux sommes recouvrées par eux au titre de
+la contribution des assurés visée au 3°;
+
+2° La contribution des responsables, non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteinte à la
+personne, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des dommages résultant de
+ces accidents. Sont considérées comme bénéficiaires d'une assurance [*définition*] au sens du présent article, les personnes
+dont la responsabilité civile résultant d'accidents de chasse ou de destruction des animaux nuisibles est couverte par un
+contrat d'assurance. En cas d'instance judiciaire la décision doit faire apparaître si le responsable est ou non bénéficiaire
+d'une assurance . La décision de justice ou la transaction doit opérer le cas échéant une ventilation entre les indemnités
+dues à titre de réparation des dommages résultant d'atteintes à la personne et celles qui sont dues à titre de réparation de
+dommages aux biens ;
+
+3° La contribution des assurés est fixée à une somme forfaitaire par personne garantie pour sa responsabilité civile
+résultant d'accidents de chasse ou de destruction des animaux nuisibles.
+
+Ces contributions sont liquidées et recouvrées selon les modalités prévues en matière automobile en application des
+dispositions de l'article 322.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1628 quater II
+	  - CGIAN2 322
+	  - Code rural 366 ter
+	  - Décret n°68-170 1968-02-19 ART. 22
+
+	**Anciens textes**:
+
+	  - CGIAN2 325
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+##### Section IV : Fonds national de garantie des calamités agricoles.
+
+###### Article 326
+
+Pour l'application de l'article 1635 bis A du code général des impôts, est considéré comme couvrant à titre principal des
+dommages aux biens mentionnés à cet article tout contrat pour lequel la fraction de prime correspondant à la garantie des
+dommages dont il s'agit est égale ou supérieure à celle qui correspond à la garantie d'autres risques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1635 bis A
+
+	**Anciens textes**:
+
+	  - CGIAN1 310 quater
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 344 undecies
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Modifié par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Transféré par**:
+
+	  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+	  - Décret n°2006-926 du 19 juillet 2006 - art. 3 (V) JORF 28 juillet 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 1er janvier 2007
+
+
+### Titre V : Dispositions communes aux titres I à IV
+
+#### Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales
+
+###### Article 327
+
+Les dispositions du troisième alinéa du I de l'article 1638 du code général des impôts ne sont applicables que lorsque la
+section de commune ou la portion du territoire communal réunie à une autre commune compte au moins cinquante habitants à la
+date de la décision prononçant la mesure de rattachement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 A
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Modifié par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1638 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+#### Chapitre II : Fonds de péréquation de la taxe professionnelle
+
+##### Fonds départementaux.
+
+###### Article 328
+
+Pour l'application de l'écrêtement des bases de la taxe professionnelle prévu au I de l'article 1648 A du code général des
+impôts :
+
+1° Sous réserve des dispositions du III de l'article précité, l'établissement s'entend de l'ensemble des installations
+utilisées par un assujetti dans une même commune, soit qu'elles soient établies en un même endroit, soit qu'elles soient
+affectées à la même activité ou à des activités connexes ou complémentaires ;
+
+2° Le nombre d'habitants à retenir est celui de la population totale, telle qu'elle ressort du dernier recensement général ou
+complémentaire en tenant compte, le cas échéant, des mouvements de population calculés en application du décret n° 64-255 du
+16 mars 1964 fixant le chiffre de la population à prendre en considération pour l'application des lois d'organisation
+municipale ;
+
+3° La moyenne des bases de taxe professionnelle par habitant constatée pour une année donnée au niveau national est égale au
+rapport existant entre :
+
+a. d'une part, le total national des bases nettes de taxe professionnelle, imposées au profit des communes et des fonds
+départementaux, au titre de l'année précédente ;
+
+b. et, d'autre part, le nombre d'habitants calculé au niveau national dans les conditions fixées au 2° ;
+
+4° Les bases de taxe professionnelle des établissements bénéficiaires d'une exonération temporaire décidée par la commune en
+application de l'article 1465 du code général des impôts ne sont prises en considération qu'à raison de la partie non
+exonérée ;
+
+5° Le taux en vigueur dans la commune s'entend du taux d'imposition résultant des décisions de la commune augmenté, le cas
+échéant, de celui du syndicat de communes et du district recourant aux dispositions de l'article L 251-4, alinéa 2, du code
+des communes ;
+
+6° Les contributions budgétaires s'entendent de l'ensemble des contributions versées par la commune à un groupement de
+communes ou à d'autres communes et des contributions visées à l'article L 251-4, alinéa 2, du code des communes, dès lors
+qu'elles sont calculées par référence à tout ou partie du produit communal de la taxe professionnelle. Lorsqu'elles ne sont
+calculées que pour partie par référence au produit communal de la taxe professionnelle, leur montant n'est retenu que dans
+cette proportion.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1648 A, 1465
+	  - Décret n°64-255 1964-03-16
+	  - CODE DES COMMUNES. - art. L251-4 (Ab)
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 B
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Modifié par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 328 A
+
+Dans les deux mois [*délai*] qui suivent la réception des décisions des collectivités locales relatives aux taux et aux
+produits des quatre taxes directes locales, les services fiscaux adressent au commissaire de la République du département
+d'implantation la liste des établissements dont les bases d'imposition sont soumises à écrêtement avec l'indication, pour
+chacun d'eux, des sommes qui reviennent au fonds départemental de taxe professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 C
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+###### Article 328 B
+
+Les établissements mentionnés au III de l'article 1648 A du code général des impôts sont notamment ceux qui ont pour objet :
+
+La production d'électricité;
+
+La fabrication du gaz;
+
+Le raffinage des hydrocarbures;
+
+Le traitement des combustibles nucléaires.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de l'article 2-4.3.1 de la loi n° 2009-1673 du 30 décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1648 A III
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 D
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+#### Chapitre III : Dispositions relatives à la fiscalité directe locale applicables dans les départements d'outre-mer
+
+###### Article 329
+
+Les dispositions du code général des impôts relatives à la taxe foncière sur les propriétés bâties, la taxe foncière sur les
+propriétés non bâties, la taxe d'habitation, la taxe professionnelle et leurs taxes annexes sont applicables dans les
+départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sous réserve de l'application des articles
+330 à 334.
+
+Ces dispositions s'appliquent à l'Ile Saint-Barthélemy à compter du 1er janvier 1980.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 E
+
+	**Cite**:
+
+	  - CGIAN2 330 à 334
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+##### I : Taxes foncières
+
+##### 1° : Taxe foncière sur les propriétés non bâties
+
+###### Article 330
+
+Le redevable de la taxe foncière sur les propriétés non bâties est exonéré lorsque la valeur locative totale des parcelles
+qu'il possède dans la commune n'excède pas 30 % de la valeur locative d'un hectare de terre de la meilleure catégorie
+existant dans la commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 F
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 329 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+##### 2° : Dispositions communes aux propriétés bâties et non bâties
+
+###### Article 330 A
+
+Les constructions nouvelles ainsi que les changements de consistance ou d'affectation des propriétés bâties ou non bâties
+survenus après le début des travaux d'évaluation sont déclarés à l'administration dans les conditions fixées par l'article
+1406 du code général des impôts. 
+
+Les propriétaires peuvent demander l'aide des agents de l'administration pour la souscription des formules de déclaration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 G
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1406 (V)
+
+
+##### II : Taxe d'habitation
+
+###### Article 331
+
+I. Pour le calcul de la taxe d'habitation, la valeur locative des immeubles occupés à titre d'habitation principale est
+diminuée d'abattements obligatoires à la base et pour charges de famille. 
+
+L'abattement à la base est fixé à 40 % de la valeur locative moyenne des locaux d'habitation de la commune. Ce taux est porté
+à 50 % dans le cas où le conseil municipal a relevé à 50 % le seuil d'exonération prévu à l'article 322. 
+
+L'abattement pour charges de famille est égal, pour chaque personne à charge, à 5 % de la valeur locative moyenne des locaux
+d'habitation de la commune. Le conseil municipal peut doubler ce taux. 
+
+II. Les dispositions du 5 du II de l'article 1411 du code général des impôts relatif à l'abattement spécial à la taxe
+d'habitation ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 H
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 332 A (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1411 (V)
+	  - Code général des impôts, CGI. - art. 322 (V)
+
+
+##### III : Dispositions communes aux taxes foncières et à la taxe d'habitation
+
+###### Article 332
+
+Le redevable occupant à titre d'habitation principale un immeuble dont la valeur locative n'excède pas 40 % de la valeur
+locative moyenne des locaux d'habitation de la commune est exonéré pour cet immeuble de taxe foncière sur les propriétés
+bâties et de taxe d'habitation. Le conseil municipal peut porter le seuil d'exonération à 50 %.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 I
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 332 A (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+##### IV : Règles d'évaluation de la valeur locative des biens imposables
+
+###### Article 333
+
+La valeur locative des propriétés bâties et non bâties qui sont situées dans les départements de la Guadeloupe, de la Guyane,
+de la Martinique et de la Réunion est déterminée conformément aux règles applicables dans les autres départements sous
+réserve des adaptations fixées par les articles 333 A à 333 J.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 J
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 A (V)
+
+
+##### A : Évaluation des propriétés bâties
+
+###### Article 333 A
+
+Sous réserve des articles 333 B à 333 H, la valeur locative des propriétés bâties est déterminée à la date du 1er janvier
+1975 en application : 
+
+Des articles 1494 à 1508 inclus du code général des impôts ; 
+
+Des articles 310 J bis, 310 K et 310 L ; 
+
+Des articles 324 A à 324 AJ inclus de l'annexe III au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 K
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 J bis (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 K (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 L (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 A (V)
+	  - Code général des impôts, CGI. - art. 1494 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 (V)
+
+
+##### 1° : Locaux d'habitation ou à usage professionnel
+
+###### Article 333 B
+
+Les équivalences superficielles prévues par le I de l'article 324 T et le II de l'article 324 U de l'annexe III au code
+général des impôts sont complétées comme suit : "... climatiseur par pièce et annexe d'hygiène : 2 mètres carrés ".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 L
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 A (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 T (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 U (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+##### 2° : Locaux commerciaux et biens divers
+
+###### Article 333 C
+
+La valeur locative de tous les locaux commerciaux et biens divers peut être déterminée par application de la méthode de
+comparaison prévue au a du 2° de l'article 1498 du code général des impôts. Les termes de comparaison sont choisis dans la
+commune ou hors de celle-ci. 
+
+La date du 1er janvier 1970 mentionnée au deuxième alinéa de l'article 324 A C de l'annexe III au code général des impôts est
+remplacée par celle du 1er janvier 1975.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 M
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 AC (V)
+	  - Code général des impôts, CGI. - art. 1498 (V)
+
+
+##### 3° : Etablissements industriels.
+
+###### Article 333 D
+
+Pour la détermination de la valeur locative des immobilisations industrielles, il est fait application des coefficients fixés
+pour la révision des bilans par l'article 21 de l'annexe III au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 N
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 21 (V)
+
+
+###### Article 333 E
+
+Les dispositions de l'article 310 K relatif à la déduction complémentaire accordée à certains établissements est applicable
+au centre national d'études spatiales de Kourou.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 O
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 K (V)
+
+
+###### Article 333 F
+
+Les dates de 1976 et 1973 fixées au deuxième alinéa de l'article 1499 A du code général des impôts relatif aux
+immobilisations acquises à la suite d'apports, de scissions ou de fusions de sociétés sont remplacées respectivement par
+celles de 1979 et de 1978.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1499 A
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 P
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 333 G
+
+Les immobilisations industrielles appartenant à des entreprises qui relèvent du régime du forfait pour l'établissement de
+l'impôt sur le revenu, sont évaluées selon les règles fixées par l'article 1500 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1500
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 Q
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+##### 4° : Procédure
+
+###### Article 333 H
+
+Pour l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties, les déclarations
+prévues à l'article 1502 du code général des impôts sont souscrites dans les départements de la Guadeloupe, de la Martinique
+et de la Réunion par les redevables de la contribution foncière des propriétés bâties et dans le département de la Guyane par
+les redevables de l'impôt locatif. Lorsqu'une propriété bâtie n'est pas passible de la contribution foncière ou de l'impôt
+locatif, la déclaration est souscrite par l'occupant des locaux. 
+
+Ces déclarations peuvent être rédigées avec le concours d'agents désignés par le directeur des services fiscaux. Ces agents
+assurent la collecte de ces documents. 
+
+Les dates limites de souscription des déclarations sont fixées par arrêté préfectoral sur proposition du directeur des
+services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 R
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1502 (V)
+
+
+##### B : Évaluation des propriétés non bâties.
+
+###### Article 333 I
+
+La valeur locative des propriétés non bâties est déterminée à la date du 1er janvier 1975, en application des articles 1509 à
+1513 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 S
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1395 H (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1509 (V)
+
+
+###### Article 333 J
+
+Dans le département de la Guyane, les travaux d'évaluation ne sont pas effectués pour les propriétés domaniales qui ne sont
+ni concédées, ni exploitées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 T
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+##### V : Dispositions transitoires
+
+###### Article 334
+
+La taxe professionnelle ne peut excéder, en 1979, 140 % de la patente établie pour un contribuable au titre de 1978 et, en
+1980, 160 % de la même patente.
+
+La réduction de taxe ayant résulté en 1980 de l'application du premier alinéa est maintenue en valeur absolue en 1981 pour
+chaque contribuable mais elle est supprimée lorsqu'elle est inférieure à 10 % de la taxe. La réduction est ensuite diminuée
+chaque année d'un vingtième si elle a été supérieure en 1981 à 5.000 F et à 50 % de la taxe et d'un dixième dans les autres
+cas (1).
+
+(1) Voir CGI art. 1647 B quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1647 B quinquies
+
+	**Anciens textes**:
+
+	  - CGIAN2 327 AB
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°2002-923 2002-06-06
+
+	**Créé par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 2 () JORF 8 juin 2002
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2002
+
+
 ### Titre VI : Taxes parafiscales
+
+#### Chapitre premier : Dispositions générales.
+
+###### Article 335
+
+Les taxes parafiscales sont établies par décret en Conseil d'Etat pris sur le rapport du ministre chargé du budget et du ou
+des ministres intéressés et obligatoirement contresigné par le ministre de l'économie. Ces décrets fixent l'affectation,
+l'assiette, le fait générateur, les règles de liquidation et de recouvrement de ces taxes ainsi que leur durée, qui ne peut
+en aucun cas excéder cinq ans, et leur taux ou une limite maximum pour ce taux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 364
+
+	**Modifié par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°2004-304 2004-03-26
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
+
+
+###### Article 336
+
+Dans la limite définie par le décret prévu à l'article 335, des arrêtés du ministre chargé du budget, ministre chargé de
+l'économie et du ou des ministres intéressés fixent, s'il y a lieu, le taux de chaque taxe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 335
+
+	**Anciens textes**:
+
+	  - CGIAN2 365
+
+	**Modifié par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
+
+	**Codifié par**:
+
+	  - Décret n°2004-304 2004-03-26
+
+
+###### Article 337
+
+Les taxes parafiscales dont l'assiette est commune avec les impôts ou taxes perçus au profit de l'Etat ou de toute autre
+collectivité sont assises, liquidées et recouvrées suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions
+que lesdits impôts et taxes. Les réclamations sont, présentées et jugées comme celles qui concernent ces impôts et taxes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 366
+
+	**Modifié par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°2004-304 2004-03-26
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
+
+
+###### Article 338
+
+Un prélèvement représentant les frais d'assiette et de perception est effectué au profit du budget général sur tous les
+recouvrements de taxes parafiscales opérés par les administrations de l'Etat. Le taux de ce prélèvement est fixé à 5 % sauf
+dérogation par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 367
+
+	**Modifié par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+
+	**Abrogé par**:
+
+	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
+
+	**Codifié par**:
+
+	  - Décret n°2004-304 2004-03-26
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 1er janvier 2004
+
 
 #### Chapitre II : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
 
@@ -15220,6 +17501,39 @@ producteurs grainiers.
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
+
+### Chapitre premier : Obligations des contribuables
+
+#### Section II : Forains
+
+###### Article 371
+
+Les personnes sans domicile ni résidence fixe, mentionnées à l'article 23 du décret n° 70-708 du 31 juillet 1970 relatif à
+l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence
+fixe, sont tenues d'accomplir leurs obligations fiscales auprès des services des impôts dont relève la commune à laquelle
+elles se trouvent rattachées.
+
+Lorsque, pour une même commune, il existe plusieurs services des impôts à compétence territoriale déterminée, les obligations
+fiscales sont accomplies auprès du service désigné par l'administration des impôts.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 368 bis
+
+	**Cite**:
+
+	  - Décret n°70-708 du 31 juillet 1970 - art. 23 (M)
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
 
 ### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales
 
@@ -16693,39 +19007,6 @@ exerce, en droit ou en fait, directement ou par personne interposée et sous que
 
 ##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.
 
-###### Article 39 EA
-
-En cas de cession des titres ou droits mentionnés à l'article 238 septies B, les plus-values sont déterminées en faisant
-abstraction des annuités d'intérêts et de primes calculées et échues depuis l'acquisition dans les conditions prévues au même
-article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 septies B
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 164
-
-	**Créé par**:
-
-	  - Décret n°86-90 du 21 janvier 1986 - art. 3 (V) JORF 22 janvier 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Transféré par**:
-
-	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987 en vigueur le 10 août 1987
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
-
-
 ###### Article 39 H
 
 Les agents de change et les établissements de crédit ou organismes habilités à détenir et à négocier des valeurs mobilières
@@ -17658,50 +19939,7 @@ société visée à l'article 1655 ter du code général des impôts [*société
 
 ##### CHAMP D'APPLICATION
 
-###### Article 178 A
-
-Les prélèvements, utilisations et affectations de biens prévus à l'article 257-8° du code général des impôts, lorsqu'ils sont
-faits pour des besoins autres que ceux de l'entreprise, ne sont imposables que dans le cas où la taxe qui a grevé
-l'acquisition ou l'importation de ces biens ainsi que des biens et services utilisés pour leur fabrication était
-partiellement ou totalement déductible.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 257 8°
-
-	**Créé par**:
-
-	  - Décret n°79-1164 du 29 décembre 1979 - art. 1 (V) JORF 31 décembre 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 178 B
-
-Les cas d'exclusion, de limitation et de régularisation prévus à l'article 257-8° du code général des impôts sont ceux qui
-sont prévus aux articles 210 et suivants.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 257 8°
-	  - CGIAN2 210 ET S.
-
-	**Créé par**:
-
-	  - Décret n°79-1164 du 29 décembre 1979 - art. 2 (V) JORF 31 décembre 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 178 C
+###### Article 175
 
 La taxe due en application de l'article 257-8° du code général des impôts est exigible à la date de la première utilisation
 du bien.
@@ -17712,13 +19950,13 @@ du bien.
 
 	  - CGI 257 8°
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°79-1164 du 29 décembre 1979 - art. 3 (V) JORF 31 décembre 1979
+	  - CGIAN2 178 C
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°87-940 1987-11-23
 
 
 ###### Article 194
@@ -18117,6 +20355,881 @@ longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins u
 	  - Décret n°82-881 1982-10-15
 
 
+### DROITS DE TIMBRE.
+
+#### IMPOT SUR LES OPERATIONS DE BOURSE.
+
+###### Article 305
+
+Les déclarations prescrites par l'article 982 du code général des impôts sont faites sur un registre spécial, tant au service
+des impôts du siège de l'établissement principal des assujettis qu'au bureau du siège de chacune des agences et succursales
+qu'ils possèdent.
+
+Les déclarations qui sont faites au siège de l'établissement principal sont signées par le chef de l'établissement ou en
+vertu de sa procuration. S'il s'agit d'une société, elles sont signées par ses représentants légaux ou en vertu de leur
+procuration. Elles font connaître, s'il y a lieu, les noms des associés solidairement responsables, et rappellent le titre
+constitutif de la société. Elles contiennent la désignation de chacune des agences et succursales.
+
+Les déclarations qui sont faites au siège des agences et succursales contiennent la désignation de l'établissement principal.
+
+En cas de changement de siège, soit de l'établissement principal, soit d'une agence ou succursale, de même qu'en cas de
+création d'une agence ou succursale nouvelle, des déclarations préalables en sont faites par les assujettis aux services des
+impôts et dans les formes ci-dessus déterminées.
+
+Les nominations d'agents de change sont consignées au registre prévu au présent article. Cette mention équivaut, en ce qui
+les concerne, à la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 982
+
+	**Anciens textes**:
+
+	  - CGIAN1 239
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+###### Article 305 A
+
+Le répertoire, dont la tenue est prescrite également par l'article 982 du code général des impôts et dont le modèle est donné
+ci-après (modèle A), présente, pour chaque opération, dans des colonnes distinctes, les indications ci-après :
+
+1° Numéro d'ordre;
+
+2° Date de l'opération;
+
+3° Nom du donneur d'ordre;
+
+4° Catégorie à laquelle appartient l'opération, savoir :
+
+- achat ou vente au comptant,     - achat ou vente à terme ferme,     - achat ou vente à prime,     - report,     - opération
+d'ordre ayant pour objet de compenser entre elles, au point de vue du règlement des comptes, deux ou plusieurs opérations
+antérieures ;
+
+5° Lorsqu'il s'agit d'une opération à terme, date de l'échéance ;
+
+6° Nature des titres ;
+
+7° Nombre ou montant des titres ;
+
+8° Taux de l'opération ;
+
+9° Valeur totale des titres sur lesquels a porté l'opération ;
+
+10° Valeur totale des titres, déduction faite des versements restant à effectuer sur les titres non entièrement libérés ;
+
+11° S'il y a lieu, soit le nom de l'agent de change qui a concouru à l'opération, soit le nom et le domicile du mandataire
+substitué par l'intermédiaire duquel l'opération a été faite, soit le nom et le domicile de la personne qui en a fait la
+contrepartie, lorsque ces deux derniers sont au nombre des personnes désignées dans l'article 982 du code général des
+impôts ;
+
+12° Montant du droit afférent à l'opération, sauf en ce qui concerne :
+
+a  Les opérations à prime;
+
+b  Les opérations d'ordre prévues au 4°;
+
+c  Les opérations qui donnent lieu à la désignation de l'agent de change qui a effectué l'opération ou du mandataire
+substitué.
+
+MODELE DE REPERTOIRE (Modèle A) ------------------------------------------------------------ : NUMERO  : DATE de     : NOM
+du  : NATURE de   :          :
+
+<table>
+  <tbody><tr>
+    <td> : D'ORDRE : l'opération : donneur : l'opération : ECHEANCE :</td>
+  </tr>
+  <tr>
+    <td> :         :             : d'ordre :    (1)      :          :</td>
+  </tr>
+  <tr>
+    <td> :    1    :      2      :    3    :     4       :    5     :</td>
+  </tr>
+  <tr>
+    <td> :---------:-------------:---------:-------------:----------:</td>
+  </tr>
+  <tr>
+    <td> :         :             :         :             :          :</td>
+  </tr>
+  <tr>
+    <td> :         :             :         :             :          :</td>
+  </tr>
+  <tr>
+    <td> :         :             :         :             :          :</td>
+  </tr>
+  <tr>
+    <td> :         :             :         :             :          :</td>
+  </tr>
+</tbody></table>
+
+------------------------------------------------------------ : (1) Achat au comptant, ou vente au comptant, ou achat à  :
+
+<table>
+  <tbody><tr>
+    <td> : terme ferme, ou vente à terme ferme, ou achat à prime,   :</td>
+  </tr>
+  <tr>
+    <td> : ou vente à prime, ou report, ou achat-compensation, ou   :</td>
+  </tr>
+  <tr>
+    <td> : vente-compensation.                                      :</td>
+  </tr>
+</tbody></table>
+
+------------------------------------------------------------
+
+MODELE DE REPERTOIRE (Modèle A) ------------------------------------------------- : NATURE  : NOMBRE ou   : TAUX de     :
+VALEUR  :
+
+<table>
+  <tbody><tr>
+    <td> :   des   : montant des : l'opération : des     :</td>
+  </tr>
+  <tr>
+    <td> : titres  :   titres    :             :  titres :</td>
+  </tr>
+  <tr>
+    <td> :    6    :      7      :      8      :    9    :</td>
+  </tr>
+  <tr>
+    <td> :---------:-------------:-------------:---------:</td>
+  </tr>
+  <tr>
+    <td> :         :             :             :         :</td>
+  </tr>
+  <tr>
+    <td> :         :             :             :         :</td>
+  </tr>
+  <tr>
+    <td> :         :             :             :         :</td>
+  </tr>
+  <tr>
+    <td> :         :             :             :         :</td>
+  </tr>
+  <tr>
+    <td> :         :             :             :         :</td>
+  </tr>
+  <tr>
+    <td> :         :             :             :         :</td>
+  </tr>
+  <tr>
+    <td> :         :             :             :         :</td>
+  </tr>
+  <tr>
+    <td> :         :             :             :         :</td>
+  </tr>
+</tbody></table>
+
+-------------------------------------------------
+
+MODELE DE REPERTOIRE (Modèle A) :-------------------------------------------:
+
+<table>
+  <tbody><tr>
+    <td> : VALEUR     :  NOM           :             :</td>
+  </tr>
+  <tr>
+    <td> :   des      : ou de l'agent  :             :</td>
+  </tr>
+  <tr>
+    <td> : titres     : de change      :   MONTANT   :</td>
+  </tr>
+  <tr>
+    <td> : déduction  :  ou du         :             :</td>
+  </tr>
+  <tr>
+    <td> : faite du   : mandataire     :     du      :</td>
+  </tr>
+  <tr>
+    <td> : non-libéré :  substitué     :             :</td>
+  </tr>
+  <tr>
+    <td> :            :  ou de la      :   droit     :</td>
+  </tr>
+  <tr>
+    <td> :            : personne qui   :             :</td>
+  </tr>
+  <tr>
+    <td> :            : a fait la      :             :</td>
+  </tr>
+  <tr>
+    <td> :            : contrepartie   :             :</td>
+  </tr>
+  <tr>
+    <td> :            : de l'opération :             :</td>
+  </tr>
+  <tr>
+    <td> :   10       :       11       :      12     :</td>
+  </tr>
+  <tr>
+    <td> :------------:----------------:-------------:</td>
+  </tr>
+  <tr>
+    <td> :            :                :             :</td>
+  </tr>
+  <tr>
+    <td> :            :                :             :</td>
+  </tr>
+  <tr>
+    <td> :  a         :                :             :</td>
+  </tr>
+  <tr>
+    <td> :            :                :             :</td>
+  </tr>
+  <tr>
+    <td> :            :                :             :</td>
+  </tr>
+  <tr>
+    <td> :            :                :             :</td>
+  </tr>
+</tbody></table>
+
+---------------------------------------------
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 982
+
+	**Anciens textes**:
+
+	  - CGIAN1 240
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+###### Article 305 C
+
+Les extraits du répertoire prévus à l'article 983 du code général des impôts et dont le modèle est donné ci-après (modèle B)
+sont établis le 10 et le 25 de chaque mois. Ils sont certifiés par le débiteur et comprennent, dans l'ordre des numéros,
+toutes les opérations portées au répertoire entre ces deux dates. N'y sont toutefois portées que pour mémoire les opérations
+au comptant ayant moins de dix jours de date et les opérations à terme dont l'échéance ne serait pas survenue depuis dix
+jours au moins.
+
+Les opérations qui ne figurent sur l'extrait que pour mémoire, aux termes de la disposition qui précède, sont reprises en
+tête de l'extrait suivant.
+
+MODELE D'EXTRAIT (Modèle B) ------------------------------------------------------------------- :              MENTIONS
+OBLIGATOIRES                              :
+
+<table>
+  <tbody><tr>
+    <td> :-----------------------------------------------------------------:</td>
+  </tr>
+  <tr>
+    <td> : NUMERO     :  DATE       :  NATURE     :          :  MONTANT    :</td>
+  </tr>
+  <tr>
+    <td> :   du       :   de        :   de        : ECHEANCE :    de       :</td>
+  </tr>
+  <tr>
+    <td> : répertoire : l'opération : l'opération :          : l'opération :</td>
+  </tr>
+  <tr>
+    <td> :            :             :    (1)      :          :     (2)     :</td>
+  </tr>
+  <tr>
+    <td> :    1       :      2      :     3       :     4    :      5      :</td>
+  </tr>
+  <tr>
+    <td> :------------:-------------:-------------:----------:-------------:</td>
+  </tr>
+  <tr>
+    <td> :            :             :             :          :             :</td>
+  </tr>
+  <tr>
+    <td> :            :             :             :          :             :</td>
+  </tr>
+  <tr>
+    <td> :            :             :             :          :             :</td>
+  </tr>
+  <tr>
+    <td> :            :             :             :          :             :</td>
+  </tr>
+  <tr>
+    <td> :            :             :             :          :             :</td>
+  </tr>
+  <tr>
+    <td> :            :             :             :          :             :</td>
+  </tr>
+  <tr>
+    <td> :            :             :             :          :-------------:</td>
+  </tr>
+  <tr>
+    <td> :           TOTAL DES OPERATIONS ...                :             :</td>
+  </tr>
+</tbody></table>
+
+------------------------------------------------------------------:
+
+<table>
+  <tbody><tr>
+    <td> : (1) Opérations au comptant, ou opérations à terme, ou prime     :</td>
+  </tr>
+  <tr>
+    <td> :     abandonnée, ou report, ou compensation.                     :</td>
+  </tr>
+  <tr>
+    <td> : (2) Valeur des titres, déduction faite du non-libéré, ou valeur :</td>
+  </tr>
+  <tr>
+    <td> :     des primes abandonnées.                                     :</td>
+  </tr>
+</tbody></table>
+
+-------------------------------------------------------------------
+
+MODELE D'EXTRAIT (MODELE B) -------------------------------------------------------------------- :   DESIGNATION
+(3)                 :  NUMERO        :  MONTANT    :
+
+<table>
+  <tbody><tr>
+    <td> :    ou de l'agent de change        : au répertoire  :             :</td>
+  </tr>
+  <tr>
+    <td> : ou du mandataire substitué        :      des       :     du      :</td>
+  </tr>
+  <tr>
+    <td> : ou de la personne qui a fait      :  opérations    :             :</td>
+  </tr>
+  <tr>
+    <td> : la contrepartie de l'opération    : compensées     :   droit     :</td>
+  </tr>
+  <tr>
+    <td> :             6                     :      7         :      8      :</td>
+  </tr>
+  <tr>
+    <td> :-----------------------------------:----------------:-------------:</td>
+  </tr>
+  <tr>
+    <td> :                                   :                :             :</td>
+  </tr>
+  <tr>
+    <td> :                                   :                :             :</td>
+  </tr>
+  <tr>
+    <td> :                                   :                :             :</td>
+  </tr>
+  <tr>
+    <td> :                                   :                :             :</td>
+  </tr>
+  <tr>
+    <td> :                                   :                :             :</td>
+  </tr>
+  <tr>
+    <td> :                                   :                :-------------:</td>
+  </tr>
+  <tr>
+    <td> :                 TOTAL DES DROITS ...               :             :</td>
+  </tr>
+  <tr>
+    <td> :------------------------------------------------------------------:</td>
+  </tr>
+  <tr>
+    <td> : (3) Avec numéros de bordereau ou de répertoire.                  :</td>
+  </tr>
+</tbody></table>
+
+--------------------------------------------------------------------
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 983
+
+	**Anciens textes**:
+
+	  - CGIAN1 242
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 121 KN (P)
+
+
+###### Article 305 F
+
+Les extraits du répertoire sont produits :
+
+1° Entre le 10 et le 15;
+
+2° Entre le 25 et le dernier jour de chaque mois.
+
+Le dépôt des extraits est accompagné de la consignation des droits, calculés sur le pied de 6 p. 1.000 du montant des
+opérations qui y sont portées, si le redevable ne préfère produire des extraits comportant la perception immédiate des
+droits, c'est-à-dire présentant, pour chaque opération, le décompte des droits, accompagné, le cas échéant, de l'indication
+soit du nom de l'agent de change qui a concouru à l'opération, ainsi que de la date et du numéro du bordereau qu'il en a
+délivré, soit du nom et du domicile du mandataire substitué, par l'intermédiaire duquel l'opération a été faite, ainsi que de
+la date et du numéro sous lesquels l'opération figure au répertoire de ce dernier, soit du nom et du domicile de la personne
+qui a fait la contrepartie de l'opération, ainsi que de la date et du numéro sous lesquels l'opération figure à son
+répertoire, soit, en ce qui concerne les opérations d'ordre prévues à l'article 305 A, des numéros sous lesquels figurent au
+répertoire les opérations qu'il s'agit de compenser.
+
+Les versements afférents aux opérations fermes qui porteraient sur des valeurs cotées à terme à la bourse de la place sur
+laquelle l'assujetti exerce son industrie et qui figureraient à l'extrait pour une échéance plus éloignée que celle qui est
+prévue, pour ces valeurs, par les réglements des agents de change de ladite place, doivent, si ces opérations ne sont
+appuyées d'un bordereau d'agent de change certifiant la date de l'échéance, être effectués sur le pied d'un bordereau pour
+chacune des échéances prévues par les règlements ci-dessus mentionnés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 245
+
+	**Cite**:
+
+	  - CGIAN2 305 A
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+###### Article 306
+
+Les déclarations prescrites par l'article 988 du code général des impôts sont faites sur un registre spécial, tant au service
+des impôts du siège de l'établissement principal des assujettis qu'au service du siège des agences, succursales ou autres
+établissements faisant directement des opérations d'achat ou de vente.
+
+Ces déclarations sont signées soit par l'assujetti lui-même justifiant de son identité, soit par son mandataire en vertu
+d'une procuration, soit, enfin, s'il s'agit d'une société, par ses représentants légaux ou leurs mandataires.
+
+Elles font connaître, s'il y a lieu, les noms des associés solidairement responsables et rappellent le titre constitutif de
+la société.
+
+La déclaration faite au service des impôts du siège de l'établissement principal contient la désignation des agences,
+succursales ou autres établissements faisant directement des opérations. Les déclarations qui sont souscrites au service des
+impôts du siège de ces annexes font connaître le siège de l'établissement principal.
+
+En cas de changement de siège, soit de l'établissement principal, soit des agences, succursales ou autres établissements
+faisant directement des opérations, de même qu'en cas de création de ces annexes, des déclarations doivent être faites par
+les assujettis aux services des impôts et dans les formes ci-dessus déterminées.
+
+Une déclaration doit être faite dans les mêmes conditions si l'assujetti cesse de se livrer aux opérations ou d'y affecter un
+des établissements annexes ci-dessus visés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 988
+
+	**Anciens textes**:
+
+	  - CGIAN1 250
+
+	**Abrogé par**:
+
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 306 A
+
+Le répertoire dont la tenue est prescrite par l'article 986 du code général des impôts et dont le modèle est donné ci-après,
+doit présenter, pour chaque opération d'achat ou de vente, dans des colonnes distinctes, les indications ci-après :
+
+- numéro d'ordre;
+
+- date de l'opération;
+
+- nom, prénoms ou raison sociale et domicile du donneur d'ordre;
+
+- nom, prénoms ou raison sociale et domicile de la personne qui a fait la contrepartie de l'opération;
+
+- s'il y a lieu, numéro sous lequel l'opération figure au répertoire de l'assujetti qui en a fait la contrepartie;
+
+- caractère de l'opération, en distinguant, notamment, les opérations fermes, les opérations à primes, les reports et les
+opérations d'ordre;
+
+- désignation de la marchandise;
+
+- quantité de la marchandise;
+
+- époque de la livraison;
+
+- prix unitaire de la marchandise;
+
+- montant de l'opération;
+
+- montant de l'opération à taxer;
+
+- décompte du droit sur le total, à la date du 15 et du dernier jour de chaque mois, des montants de chaque achat et de
+chaque vente.
+
+-------------------------------------------------------------------- :         :             :
+ACHETEUR                    :
+
+<table>
+  <tbody><tr>
+    <td> :         :             :------------------------------------------:</td>
+  </tr>
+  <tr>
+    <td> : NUMERO  :  DATE de    :  Nom,      :  Nom,        :   Numéro du  :</td>
+  </tr>
+  <tr>
+    <td> :         :             : prénoms    : prénoms      :  répertoire  :</td>
+  </tr>
+  <tr>
+    <td> : D'ORDRE : l'opération : ou raison  : ou raison    :       de     :</td>
+  </tr>
+  <tr>
+    <td> :         :             : sociale et : sociale et   :  l'assujetti :</td>
+  </tr>
+  <tr>
+    <td> :         :             : domicile   : domicile     :  qui a fait  :</td>
+  </tr>
+  <tr>
+    <td> :         :             : du donneur : de la        :      la      :</td>
+  </tr>
+  <tr>
+    <td> :         :             :  d'ordre   : contrepartie : contrepartie :</td>
+  </tr>
+  <tr>
+    <td> :         :             :            :              :      de      :</td>
+  </tr>
+  <tr>
+    <td> :         :             :            :              : l'opération  :</td>
+  </tr>
+  <tr>
+    <td> :    1    :      2      :     3      :      4       :      5       :</td>
+  </tr>
+  <tr>
+    <td> :---------:-------------:------------:--------------:--------------:</td>
+  </tr>
+  <tr>
+    <td> :         :             :            :              :              :</td>
+  </tr>
+  <tr>
+    <td> :         :             :            :              :              :</td>
+  </tr>
+  <tr>
+    <td> :         :             :            :              :              :</td>
+  </tr>
+  <tr>
+    <td> :         :             :            :              :              :</td>
+  </tr>
+  <tr>
+    <td> :         :             :            :              :              :</td>
+  </tr>
+  <tr>
+    <td> :         :             :            :              :              :</td>
+  </tr>
+</tbody></table>
+
+---------------------------------------------------------------------------------------------------------------- :
+VENDEUR                     :
+
+<table>
+  <tbody><tr>
+    <td> :------------------------------------------:</td>
+  </tr>
+  <tr>
+    <td> :  Nom,      :  Nom,        :   Numéro du  :</td>
+  </tr>
+  <tr>
+    <td> : prénoms    : prénoms      :  répertoire  :</td>
+  </tr>
+  <tr>
+    <td> : ou raison  : ou raison    :       de     :</td>
+  </tr>
+  <tr>
+    <td> : sociale et : sociale et   :  l'assujetti :</td>
+  </tr>
+  <tr>
+    <td> : domicile   : domicile     :  qui a fait  :</td>
+  </tr>
+  <tr>
+    <td> : du donneur : de la        :      la      :</td>
+  </tr>
+  <tr>
+    <td> :  d'ordre   : contrepartie : contrepartie :</td>
+  </tr>
+  <tr>
+    <td> :            :              :      de      :</td>
+  </tr>
+  <tr>
+    <td> :            :              : l'opération  :</td>
+  </tr>
+  <tr>
+    <td> :     6      :      7       :      8       :</td>
+  </tr>
+  <tr>
+    <td> :------------:--------------:--------------:</td>
+  </tr>
+  <tr>
+    <td> :            :              :              :</td>
+  </tr>
+  <tr>
+    <td> :            :              :              :</td>
+  </tr>
+  <tr>
+    <td> :            :              :              :</td>
+  </tr>
+  <tr>
+    <td> :            :              :              :</td>
+  </tr>
+  <tr>
+    <td> :            :              :              :</td>
+  </tr>
+  <tr>
+    <td> :            :              :              :</td>
+  </tr>
+</tbody></table>
+
+---------------------------------------------------------------------------------------------------------------- :
+CARACTERE   : DESIGNATION : QUANTITE    :  EPOQUE   : PRIX       :
+
+<table>
+  <tbody><tr>
+    <td> :     de      :  de la      : de la       : de la     : unitaire   :</td>
+  </tr>
+  <tr>
+    <td> : l'opération : marchandise : marchandise : livraison :  de la     :</td>
+  </tr>
+  <tr>
+    <td> :             :             :             :           :marchandise :</td>
+  </tr>
+  <tr>
+    <td> :     9       :      10     :     11      :    12     :    13      :</td>
+  </tr>
+  <tr>
+    <td> :-------------:-------------:-------------:-----------:------------:</td>
+  </tr>
+  <tr>
+    <td> :             :             :             :           :            :</td>
+  </tr>
+  <tr>
+    <td> :             :             :             :           :            :</td>
+  </tr>
+  <tr>
+    <td> :             :             :             :           :            :</td>
+  </tr>
+  <tr>
+    <td> :             :             :             :           :            :</td>
+  </tr>
+  <tr>
+    <td> :             :             :             :           :            :</td>
+  </tr>
+  <tr>
+    <td> :             :             :             :           :            :</td>
+  </tr>
+  <tr>
+    <td> :             :             :             :           :            :</td>
+  </tr>
+</tbody></table>
+
+-----------------------------------------------------------------------------------------------------------------------------
+---------- :  MONTANT    :  MONTANT    :  DECOMPTE            :              :
+
+<table>
+  <tbody><tr>
+    <td> :    de       :    de       : du droit à raison de : OBSERVATIONS :</td>
+  </tr>
+  <tr>
+    <td> : l'opération : l'opération : 0,20 % sur le total, :              :</td>
+  </tr>
+  <tr>
+    <td> :             :  à taxer    : à la date du 15 et   :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             : du dernier jour de   :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             : chaque mois des      :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             : montants de chaque   :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             : achat et de chaque   :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             : vente                :              :</td>
+  </tr>
+  <tr>
+    <td> :     14      :     15      :        16            :      17      :</td>
+  </tr>
+  <tr>
+    <td> :-------------:-------------:----------------------:--------------:</td>
+  </tr>
+  <tr>
+    <td> :             :             :                      :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             :                      :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             :                      :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             :                      :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             :                      :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             :                      :              :</td>
+  </tr>
+  <tr>
+    <td> :             :             :                      :              :</td>
+  </tr>
+</tbody></table>
+
+-------------------------------------------------------------------
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 986
+
+	**Anciens textes**:
+
+	  - CGIAN1 251
+
+	**Abrogé par**:
+
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 306 B
+
+Les extraits du répertoire prévus à l'article 988 du code général des impôts sont établis à la date du 15 et du dernier jour
+de chaque mois.
+
+Ils sont certifiés par les assujettis et comprennent, dans l'ordre des numéros, toutes les opérations portées au répertoire,
+soit du 1er au 15, soit du 16 au dernier jour du mois.
+
+N'y sont inscrites que pour mémoire les opérations à prime portant sur des quantités qui ne doivent être déterminées qu'à
+l'échéance, si cette échéance n'est pas encore survenue.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 988
+
+	**Anciens textes**:
+
+	  - CGIAN1 252
+
+	**Abrogé par**:
+
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 306 C
+
+Les extraits reproduisent les mentions du répertoire, sauf celles qui se rapportent à la désignation du donneur d'ordre,
+quand ce donneur d'ordre n'est pas un assujetti.
+
+Ils sont totalisés.
+
+Les extraits du répertoire sont déposés au service des impôts où la déclaration préalable a été souscrite :
+
+1° Entre le 10 et le 15;
+
+2° Entre le 25 et le dernier jour de chaque mois.
+
+Ce dépôt est accompagné du versement des droits applicables à chacune des opérations portées sur les extraits, sauf en ce qui
+concerne les opérations d'ordre, sous les conditions déterminées par des arrêtés concertés des ministres de l'industrie et de
+l'économie et des finances.
+
+Chaque opération doit également donner lieu au paiement des droits afférents à l'opération qui en constitue la contrepartie,
+sauf si l'extrait fait connaître le numéro sous lequel cette dernière opération figure au répertoire de l'assujetti qui l'a
+effectuée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 253
+
+	**Abrogé par**:
+
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 306 D
+
+Si aucune opération ne figure au répertoire, il est remis au service des impôts un extrait portant la mention "Néant".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 254
+
+	**Abrogé par**:
+
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 306 E
+
+Celles des personnes désignées à l'article 986 du code général des impôts qui possèdent, en dehors de leur établissement
+principal, des agences, succursales ou autres établissements faisant directement des opérations d'achat ou de vente doivent y
+faire tenir un répertoire semblable à celui dont la forme est déterminée à l'article 306 A . Ce répertoire reçoit
+l'inscription des opérations effectuées par l'agence, succursale ou autre établissement de même nature.
+
+Chacun de ces établissements doit, en outre, effectuer, aux dates indiquées à l'article 306 C, la production des extraits
+prévus aux articles 306 B et 306 C, accompagnés s'il y a lieu, du versement des droits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 986
+	  - CGIAN2 306 A
+	  - CGIAN2 306 B
+	  - CGIAN2 306 C
+
+	**Anciens textes**:
+
+	  - CGIAN1 255
+
+	**Abrogé par**:
+
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
 
 ### IMPOSITIONS COMMUNALES
@@ -18151,33 +21264,34 @@ vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" 
 	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
 
 
-### IMPOSITIONS DEPARTEMENTALES
+### IMPOSITIONS REGIONALES
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES.
+###### Article 318
 
-###### Article 317 octies
+Les dispositions des articles 317 nonies, 317 decies et 317 duodecies sont applicables à la taxe différentielle sur les
+véhicules à moteur perçue au profit de la région de Corse (1).
 
-Les taux de la redevance départementale des mines sont calculés conformément aux dispositions de l'article 311 (1).
-
-(1) Pour 1982, arrêté du 5 août 1982 (JONC du 1er septembre) ; pour 1983, arrêté du 30 décembre 1983 (JONC du 12 février
-1984).
+Voir également Annexe IV, art. 155 bis
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1982-08-05
-	  - Arrêté 1983-12-30
-	  - CGIAN2 311
+	  - CGIAN2 317 decies
+	  - CGIAN2 317 duodecies
+	  - CGIAN2 317 nonies
+	  - CGIAN4 155 bis
+
+	**Anciens textes**:
+
+	  - CGIAN2 317 septdecies
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°87-940 1987-11-23
 
 
-### IMPOSITIONS REGIONALES
-
-###### Article 317 octodecies
+###### Article 318 A
 
 La taxe est annuelle ; la période d'imposition s'étend du 1er décembre de chaque année au 30 novembre de l'année suivante.
 
@@ -18189,88 +21303,22 @@ jour de la période d'imposition.
 
 	**Cite**:
 
-	  - CGI 1599 decies, 1599 undecies, 1599 duodecies
+	  - CGI 1599 decies
+	  - CGI 1599 duodecies
+	  - CGI 1599 undecies
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN2 318 A
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Transféré par**:
-
-	  - Décret n°87-940 1987-11 23 JORF 26 novembre 1987 en vigueur le 10 août 1987
-
-	**Créé par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 317 septdecies
-
-Les dispositions des articles 317 nonies, 317 decies et 317 duodecies sont applicables à la taxe différentielle sur les
-véhicules à moteur perçue au profit de la région de Corse.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 317 decies
-	  - CGIAN2 317 duodecies
-	  - CGIAN2 317 nonies
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 318
+	  - CGIAN2 317 octodecies
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
-
-	**Modifié par**:
-
-	  - Loi n°85-695 1987-07-11 art. 18 I JORF 12 juillet 1985) T(Décret 87-940 1987-11-23 JORF 26 novembre 1987 en vigueur le 10 août 1987
+	  - Décret n°87-940 1987-11-23
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS.
 
-###### Article 317 A
-
-Le taux maximum de la taxe perçue au profit du budget annexe des prestations sociales agricoles en application de l'article
-1603 du code général des impôts est fixé à 5,50 %.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1603
-
-	**Liens**:
-
-	  - PEREMPTION: Conséquence du décret 87-940 1987-11-23 JORF 26 novembre 1987 en vigueur le 10 août 1987
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 317 B
-
-La taxe mentionnée à l'article 317 A est comprise, en cas d'accord entre les bailleurs et les locataires, fermiers ou
-métayers, dans les rôles auxiliaires prévus à l'article 1660 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1660
-	  - CGIAN2 317 A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 324
+###### Article 320
 
 En exécution de l'article 1607 du code général des impôts, sont applicables à la taxe spéciale d'équipement :
 
@@ -18293,659 +21341,101 @@ prévoyait.
 	  - CGI 1607
 	  - CGI 1657 A CGI 1929 quinquies
 
+	**Nouveaux textes**:
+
+	  - CGIAN2 318 B
+
+	**Anciens textes**:
+
+	  - CGIAN2 324
+
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
-
-	**Modifié par**:
-
-	  - Loi n°86-695 1985-07-11 art. 34 JORF 12 juillet 1985
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°88-1001 1988-10-20
 
 
-###### Article 324 bis
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE
 
-Les droits et prérogatives de l'ensemble urbain en matière fiscale seront exercés par lui à compter du 1er janvier suivant la
-publication du décret institutif prévu à l'article L 171-8 du code des communes.
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.
 
-Le conseil de l'ensemble urbain exerce l'ensemble des droits et prérogatives de l'ensemble urbain, à compter du jour de sa
-première réunion [*date*].
+###### Article 322
+
+Conformément à l'article R. 420-27 du code des assurances, les contributions prévues pour l'alimentation du fonds de garantie
+créé au profit des victimes d'accidents d'automobile et prévu à l'article 1628 quater du code général des impôts sont assises
+et recouvrées dans les conditions suivantes :
+
+1° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
+et rappels compris et annulations déduites, relatives à l'assurance des véhicules terrestres à moteur et des remorques ou
+semi-remorques des véhicules. Elle est liquidée et recouvrée par le fonds de garantie;
+
+2° La contribution des responsables d'accidents causés par l'utilisation  des véhicules visés au 1°, non bénéficiaire d'une
+assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des dommages résultant de
+ces accidents.
+
+La contribution est recouvrée sous les mêmes garanties qu'en matière de droits d'enregistrement par la direction générale des
+impôts sur la notification qui lui est faite par le fonds de garantie.
+
+La contribution doit être acquitée dans un délai d'un mois à compter de la réclamation adressée par la direction générale des
+impôts;
+
+3° La contribution des assurés est assise sur toutes les primes ou cotisations qu'ils versent aux entreprises d'assurance
+mentionnées à l'article L. 420-2 du code des assurances pour l'assurance des risque de responsabilité civile résultant
+d'accidents causés par les véhicules définis au 1°. Elle est perçue par les entreprises d'assurance et recouvrée selon les
+modalités fixées par arrêté du ministre du budget (1).
+
+Un décret en Conseil d'Etat détermine les modalités d'assiette de la contribution éxigée pour les véhicules étrangers (2).
+
+(1) Annexe IV, art. 159 quinquies.
+
+(2) Articles 322 C à 322 F .
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L171-8 (Ab)
+	  - CGI 1628 quater
+	  - CGIAN1 305 AE à CGIAN1 305 AG
+	  - CGIAN4 159 quinquies
+	  - Code des assurances - art. L420-2 (T)
+	  - Code des assurances R420-27
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - PEREMPTION: Conséquence du décret 87-940 1987-11-23 JORF 26 novembre 1987 en vigueur le 10 août 1987
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 326
-
-Les taux et quotité des contributions visées à l'article 325 sont fixés par décret (1) rendu sur la proposition du ministre
-de l'économie et des finances dans la limite des maxima ci-après :
-
-a. Contribution des sociétés d'assurances : 12 % de la totalité des charges des opérations du fonds de garantie afférentes à
-la chasse et à la destruction des animaux nuisibles ;
-
-b. Contribution des responsables, non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
-personne : 10 % des indemnités restant à leur charge. Toutefois, ce taux est ramené à 5 % lorsque l'accident résulte d'une
-opération de destruction des animaux nuisibles effectuée en vertu des articles 393 à 395 du code rural ;
-
-c. Contribution des assurés, somme forfaitaire maximum de 2,50 F par personne garantie.
-
-1) Annexe III, art. 340 sexies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 325
-	  - CGIAN3 340 sexies
-	  - Code rural 366 ter
-	  - Code rural 393 à code rural 395
-	  - Décret n°68-170 1968-02-19 ART. 22
-
-	**Modifié par**:
-
-	  - Décret n°86-452 du 14 mars 1986 - art. 27 () JORF 16 mars 1986
+	  - CGIAN1 305 AA
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°87-940 1987-11-23
 
 
-###### Article 327
+##### CONTRIBUTION POUR LES VEHICULES ETRANGERS.
 
-Sur le montant des encaissements effectués par le service des impôts au titre des contributions visées à l'article 325, il
-est opéré un prélèvement de 2 % [*pourcentage*].
+###### Article 322 D
 
-Ce prélèvement sert à couvrir dans les limites et conditions fixées par arrêté du ministre chargé des finances, les dépenses
-de matériel et de personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 325
-	  - Code rural 366 ter
-	  - Décret n°68-170 1968-02-19 ART. 22
-
-	**Modifié par**:
-
-	  - Décret n°86-452 du 14 mars 1986 - art. 28 () JORF 16 mars 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-
-###### Article 327-0 A
-
-La contribution additionnelle prévue à l'article 1628 sexies du code général des impôts, est assise sur les primes et
-cotisations effectivement versées au titre de l'assurance des risques de responsabilité civile mentionnés à l'article 1er de
-la loi du 27 février 1958, instituant une obligation d'assurance en matière de circulation de véhicules terrestres.
-
-Son taux est fixé à 0,10 % des primes et cotisations (1).
-
-Elle est recouvrée par les entreprises d'assurances, pour le compte du fonds institué par la loi n° 74-1118 du 27 décembre
-1974, suivant les mêmes règles, sous les mêmes garanties, et les mêmes sanctions que la taxe sur les conventions d'assurance.
-Elle est reversée au fonds suivant les modalités prévues pour cette taxe.
-
-1) Taux applicable aux primes et cotisations échues postérieurement au 31 janvier 1979.
+Les contrats souscrits, pour l'assurance des risques de responsabilité civile résultant d'accidents dans lesquels sont
+impliqués des véhicules à moteur étrangers, auprès des sociétés d'assurances ou assureurs mentionnés à l'article L 420-2 du
+code des assurances, donnent lieu au versement de la contribution prévue à l'article 322.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - CGIAN1 305 AE
+
 	**Cite**:
 
-	  - CGI 1628 sexies
-	  - Loi n°1958-02-27 ART. 1
-	  - Loi n°74-1118 1974-12-27
+	  - CGIAN2 322
+	  - Code des assurances - art. L420-2 (T)
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Décret n°83-1074 1983-12-13 art. 1 JORF 15 décembre 1983
+	  - Décret n°87-940 1987-11-23
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
 
-### FIXATION DES TAUX A RETENIR POUR LE CALCUL DES IMPOSITIONS DIRECTES LOCALES.
-
-###### Article 327 A
-
-Les dispositions de l'article 1638-I, troisième alinéa du code général des impôts ne sont applicables que lorsque la section
-de commune ou la portion du territoire communal réunie à une autre commune compte au moins cinquante habitants [*nombre*] à
-la date de la décision prononçant la mesure de rattachement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1638 I AL. 3
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 327
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-### FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE.
-
-###### Article 327 B
-
-Pour l'application de l'écrêtement des bases de la taxe professionnelle prévu au I de l'article 1648 A du code général des
-impôts :
-
-1° Sous réserve des dispositions du III de l'article précité, l'établissement s'entend de l'ensemble des installations
-utilisées par un assujetti dans une même commune, soit qu'elles soient établies en un même endroit, soit qu'elles soient
-affectées à la même activité ou à des activités connexes ou complémentaires ;
-
-2° Le nombre d'habitants à retenir est celui de la population totale, telle qu'elle ressort du dernier recensement général ou
-complémentaire en tenant compte, le cas échéant, des mouvements de population calculés en application du décret n° 64-255 du
-16 mars 1964 fixant le chiffre de la population à prendre en considération pour l'application des lois d'organisation
-municipale ;
-
-3° La moyenne des bases de taxe professionnelle par habitant constatée pour une année donnée au niveau national est égale au
-rapport existant entre :
-
-a. d'une part, le total national des bases nettes de taxe professionnelle, imposées au profit des communes et des fonds
-départementaux, au titre de l'année précédente ;
-
-b. et, d'autre part, le nombre d'habitants calculé au niveau national dans les conditions fixées au 2° ;
-
-4° Les bases de taxe professionnelle des établissements bénéficiaires d'une exonération temporaire décidée par la commune en
-application de l'article 1465 du code général des impôts ne sont prises en considération qu'à raison de la partie non
-exonérée ;
-
-5° Le taux en vigueur dans la commune s'entend du taux d'imposition résultant des décisions de la commune augmenté, le cas
-échéant, de celui du syndicat de communes et du district recourant aux dispositions de l'article L 251-4, alinéa 2, du code
-des communes ;
-
-6° Les contributions budgétaires s'entendent de l'ensemble des contributions versées par la commune à un groupement de
-communes ou à d'autres communes et des contributions visées à l'article L 251-4, alinéa 2, du code des communes, dès lors
-qu'elles sont calculées par référence à tout ou partie du produit communal de la taxe professionnelle. Lorsqu'elles ne sont
-calculées que pour partie par référence au produit communal de la taxe professionnelle, leur montant n'est retenu que dans
-cette proportion.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1465
-	  - CGI 1648 A I, III
-	  - Code des communes L251-4 AL. 2
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 328
-
-	**Modifié par**:
-
-	  - Décret n°81-120 du 6 février 1981 - art. 1 (Ab) JORF 10 FEVRIER 1981
-	  - Décret n°81-120 du 6 février 1981 - art. 8 (Ab) JORF 10 FEVRIER 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 327 C
-
-Dans les deux mois [*délai*] qui suivent la réception des décisions des collectivités locales relatives aux taux et aux
-produits des quatre taxes directes locales, les services fiscaux adressent au préfet du département d'implantation la liste
-des établissements dont les bases d'imposition sont soumises à écrêtement avec l'indication, pour chacun d'eux, des sommes
-qui reviennent au fonds départemental de taxe professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 10 FEVRIER 1981)
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 328 A
-
-	**Modifié par**:
-
-	  - Décret n°81-120 du 6 février 1981 - art. 2 (Ab) JORF
-	  - Décret n°81-120 du 6 février 1981 - art. 8 (Ab) JORF
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 327 D
-
-Les établissements mentionnés à l'article 1648 A-III du code général des impôts sont notamment ceux qui ont pour objet :
-
-- la production d'électricité;
-
-- la fabrication du gaz;
-
-- le raffinage des hydrocarbures;
-
-- le traitement des combustibles nucléaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1648 A III
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 328 B
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°81-866 1981-09-15 (décret de codification) : a modifié la table des matières de cet article
-	  - HISTO: EDITION 1979-07-01
-
-
 ### DISPOSITIONS RELATIVES A LA FISCALITE DIRECTE LOCALE APPLICABLES DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*.
-
-###### Article 327 AB
-
-La taxe professionnelle ne peut excéder, en 1979, 140 % de la patente établie pour un contribuable au titre de 1978 et, en
-1980, 160 % de la même patente.
-
-La réduction de taxe ayant résulté en 1980 de l'application du premier alinéa est maintenue en valeur absolue en 1981 pour
-chaque contribuable mais elle est supprimée lorsqu'elle est inférieure à 10 % de la taxe. La réduction est ensuite diminuée
-chaque année d'un vingtième si elle a été supérieure en 1981 à 5.000 F et à 50 % de la taxe et d'un dixième dans les autres
-cas.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 334
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°82-540 du 28 juin 1982 - art. 2 (V) JORF 29 JUIN 1982
-
-
-###### Article 327 E
-
-Les dispositions du code général des impôts relatives à la taxe foncière sur les propriétés bâties, la taxe foncière sur les
-propriétés non bâties, la taxe d'habitation, la taxe professionnelle et leurs taxes annexes sont applicables dans les
-départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sous réserve de l'application des articles
-327 F à 327 AB.
-
-Ces dispositions s'appliquent à l'Ile Saint-Barthélemy à compter du 1er janvier 1980 [*date d'application*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 327 F A CGIAN2 327 AB
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 329
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 F
-
-Le redevable de la taxe foncière sur les propriétés non bâties est exonéré lorsque la valeur locative totale des parcelles
-qu'il possède dans la commune n'excède pas 30 % [*pourcentage*] de la valeur locative d'un hectare de terre de la meilleure
-catégorie existant dans la commune.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 330
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 G
-
-Les constructions nouvelles ainsi que les changements de consistance ou d'affectation des propriétés bâties ou non bâties
-survenus après le début des travaux d'évaluation sont déclarés à l'administration dans les conditions fixées par l'article
-1406 du code général des impôts.
-
-Les propriétaires peuvent demander l'aide des agents de l'administration pour la souscription des formules de déclaration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1406
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 330 A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 H
-
-I. Pour le calcul de la taxe d'habitation, la valeur locative des immeubles occupés à titre d'habitation principale est
-diminuée d'abattements obligatoires à la base et pour charges de famille.
-
-L'abattement à la base est fixé à 40 % de la valeur locative moyenne des locaux d'habitation de la commune. Ce taux est porté
-à 50 % dans le cas où le conseil municipal a relevé à 50 % le seuil d'exonération prévu à l'article 327 I.
-
-L'abattement pour charges de famille est égal, pour chaque personne à charge, à 5 % de la valeur locative moyenne des locaux
-d'habitation de la commune. Le conseil municipal peut doubler ce taux.
-
-II. Les dispositions de l'article 1411-II-5 du code général des impôts relatif à l'abattement spécial à la taxe d'habitation
-ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1411 II 5
-	  - CGIAN2 327 I
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 331
-
-	**Modifié par**:
-
-	  - Décret n°81-263 du 18 mars 1981 - art. 6 (V) JORF 22 MARS 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 327 I
-
-Le redevable occupant à titre d'habitation principale un immeuble dont la valeur locative n'excède pas 40 % de la valeur
-locative moyenne des locaux d'habitation de la commune est exonéré pour cet immeuble de taxe foncière sur les propriétés
-bâties et de taxe d'habitation. Le conseil municipal peut porter le seuil d'exonération à 50 %.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 332
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 J
-
-La valeur locative des propriétés bâties et non bâties qui sont situées dans les départements de la Guadeloupe, de la Guyane,
-de la Martinique et de la Réunion est déterminée conformément aux règles applicables dans les autres départements sous
-réserve des adaptations fixées par les articles 327 K à 327 T.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 327 K, 327 L, 327 M, 327 N, 327 O, 327 P, 327 Q, 327 R, 327 S, 327 T
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 K
-
-Sous réserve des articles 327 L à 327 R, la valeur locative des propriétés bâties est déterminée à la date du 1er janvier
-1975 en application :
-
-- des articles 1494 à 1508 inclus du code général des impôts;
-
-- des articles 310 J bis, 310 K et 310 L;
-
-- des articles 324 A à 324 AJ inclus de l'annexe III au code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1494 A CGI 1508
-	  - CGIAN2 310 J bis
-	  - CGIAN2 310 K
-	  - CGIAN2 310 L
-	  - CGIAN2 327 L, 327 M, 327 N, 327 O, 327 P, 327 Q, 327 R
-	  - CGIAN3 324 A A CGIAN3 324 AJ
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333 A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 L
-
-Les équivalences superficielles prévues par les articles 324 T-I et 324 U-II de l'annexe III au code général des impôts sont
-complétées comme suit : "... climatiseur par pièce et annexe d'hygiène : 2 mètres carrés".
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333 B
-
-	**Cite**:
-
-	  - CGIAN3 324 T I
-	  - CGIAN3 324 U II
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 M
-
-La valeur locative de tous les locaux commerciaux et biens divers peut être déterminée par application de la méthode de
-comparaison prévue au 2°, a, de l'article 1498 du code général des impôts. Les termes de comparaison sont choisis dans la
-commune ou hors de celle-ci.
-
-La date du 1er janvier 1970 mentionnée au deuxième alinéa de l'article 324 A C de l'annexe III au code général des impôts est
-remplacée par celle du 1er janvier 1975.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1498 2° a
-	  - CGIAN3 324 A C AL. 2
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333 C
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 N
-
-Pour la détermination de la valeur locative des immobilisations industrielles, il est fait application des coefficients fixés
-pour la révision des bilans par l'article 21 de l'annexe III au code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333 D
-
-	**Cite**:
-
-	  - CGIAN3 21
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 O
-
-Les dispositions de l'article 310 K relatif à la déduction complémentaire accordée à certains établissements est applicable
-au centre national d'études spatiales de Kourou.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 310 K
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333 E
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 P
-
-Les dates de 1976 et 1973 fixées au deuxième alinéa de l'article 1499 A du code général des impôts relatif aux
-immobilisations acquises à la suite d'apports, de scissions ou de fusions de sociétés sont remplacées respectivement par
-celles de 1979 et de 1978.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1499 A
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333 F
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 Q
-
-Les immobilisations industrielles appartenant à des entreprises qui relèvent du régime du forfait pour l'établissement de
-l'impôt sur le revenu, sont évaluées selon les règles fixées par l'article 1500 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1500
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333 G
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 R
-
-Pour l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties, les déclarations
-prévues à l'article 1502 du code général des impôts sont souscrites dans les départements de la Guadeloupe, de la Martinique
-et de la Réunion par les redevables de la contribution foncière des propriétés bâties et dans le département de la Guyane par
-les redevables de l'impôt locatif. Lorsqu'une propriété bâtie n'est pas passible de la contribution foncière ou de l'impôt
-locatif, la déclaration est souscrite par l'occupant des locaux.
-
-Ces déclarations peuvent être rédigées avec le concours d'agents désignés par le directeur des services fiscaux. Ces agents
-assurent la collecte de ces documents.
-
-Les dates limites de souscription des déclarations sont fixées par arrêté préfectoral sur proposition du directeur des
-services fiscaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1502
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333 H
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 S
-
-La valeur locative des propriétés non bâties est déterminée à la date du 1er janvier 1975, en application des articles 1509 à
-1513 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1509
-	  - CGI 1510
-	  - CGI 1511
-	  - CGI 1512
-	  - CGI 1513
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333 I
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 T
-
-Dans le département de la Guyane, les travaux d'évaluation ne sont pas effectués pour les propriétés domaniales qui ne sont
-ni concédées, ni exploitées.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 333 J
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 327 Z
 
@@ -19592,58 +22082,6 @@ l'économie et du ou des ministres intéressés fixent, s'il y a lieu, le taux d
 	  - Décret n°81-866 1981-09-15
 
 
-###### Article 366
-
-Les taxes parafiscales dont l'assiette est commune avec les impôts ou taxes perçus au profit de l'Etat ou de toute autre
-collectivité sont assises, liquidées et recouvrées suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions
-que lesdits impôts et taxes. Les réclamations sont, présentées et jugées comme celles qui concernent ces impôts et taxes.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 337
-
-	**Modifié par**:
-
-	  - Décret n°80-854 du 30 octobre 1980 - art. 14 () JORF 1 NOVEMBRE 1980
-	  - Décret n°80-854 du 30 octobre 1980 - art. 6 (V) JORF 1 NOVEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 367
-
-Un prélèvement représentant les frais d'assiette et de perception est effectué au profit du budget général sur tous les
-recouvrements de taxes parafiscales opérés par les administrations de l'Etat. Le taux de ce prélèvement est fixé à 5 % sauf
-dérogation par arrêté du ministre chargé du budget.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 338
-
-	**Modifié par**:
-
-	  - Décret n°80-854 du 30 octobre 1980 - art. 11 (V) JORF 1 NOVEMBRE 1980
-	  - Décret n°80-854 du 30 octobre 1980 - art. 14 () JORF 1 NOVEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
 ### TAXES PARAFISCALES.
 
 ###### Article 363 D
@@ -19696,150 +22134,410 @@ article 302 bis F  à 302 bis J du code général des impôts
 	  - Décret n°86-1086 1986-10-07
 
 
-## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*
+## DISPOSITIONS COMMUNES AUX IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
 
-### OBLIGATIONS DES CONTRIBUABLES.
+### ASSIETTE ET CONTROLE DE L'ETAT
+
+#### OBLIGATIONS DES CONTRIBUABLES.
+
+###### Article 368
+
+Le transport par voie publique de produits figurant sur une liste établie par arrêté du ministre de l'économie et des
+finances (1), après consultation des organisations professionnelles intéressées doit être accompagné d'un bon de remis, dans
+les conditions fixées par l'article 1649 ter du code général des impôts et par les articles 368 A à 368 G de la présente
+annexe et les articles R. 24-1 et R. 213-3 du livre des procédures fiscales.
+
+Ces dispositions ne s'appliquent pas au transport de ces produits par un particulier pour les besoins de sa propre
+consommation.
+
+(1) Annexe IV, art. 164 F bis à 164 F octodecies.
+
+Voir également ci-après, art. 369 à 369 B.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 ter
+	  - CGI R213-3
+	  - CGI R24-1
+	  - CGIAN2 368 A, 368 B, 368 C, 368 D, 368 E, 368 F, 368 G
+	  - CGIAN2 369
+	  - CGIAN2 369 A
+	  - CGIAN2 369 B
+	  - CGIAN4 164 F bis A CGIAN4 164 F octodecies
+
+	**Anciens textes**:
+
+	  - CGIAN1 310 quinquies
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 368 B (P)
+
+
+### ASSIETTE ET CONTROLE DE L'IMPOT
+
+#### OBLIGATIONS DES CONTRIBUABLES.
 
 ###### Article 368 A
+
+Les bons de remis sont établis préalablement au chargement par :
+
+- Les fabricants et les grossistes en ce qui concerne les produits mentionnés à l'article 368 ;
+
+- Les personnes qui soumettent à la taxe sur la valeur ajoutée les opérations de vente, de commission et de courtage portant
+sur les animaux vivants de boucherie et de charcuterie dont la définition est fixée par décret (1).
+
+Les bons de remis peuvent être établis par les intermédiaires qui agissent pour le compte des personnes susmentionnées.
+
+(1) Même annexe, art. 260 F
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 310 sexies
+
+	**Cite**:
+
+	  - CGIAN2 260 F
+	  - CGIAN2 368
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 369
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 368 C
+
+Les bons de remis peuvent être constitués soit par des documents fournis par les expéditeurs, comportant les énonciations
+prévues à l'article 368 B et revêtus de l'empreinte d'une machine à timbrer d'un modèle agréé par la direction générale des
+impôts, soit par des carnets à souches numérotés délivrés gratuitement par cette administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 310 octies
+
+	**Cite**:
+
+	  - CGIAN2 368 B
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 369 B
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 368 D
+
+Les bons de remis ou leurs duplicata sont conservés, dans chaque établissement ou lieu de stockage, à l'appui de la
+comptabilité matière tenue par les personnes qui détiennent, transforment ou utilisent les produits correspondants et où sont
+consignés les entrées, sorties et stocks de ces produits.
+
+Tous autres registres ou documents présentant les mêmes indications tiennent lieu de la comptabilité ci-dessus.
+
+Les dispositions du présent article sont applicables à la tenue du registre prévu à l'article 1649 ter C du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 ter C
+
+	**Anciens textes**:
+
+	  - CGIAN1 310 decies
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 370 B
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 368 F
+
+Ne donnent pas lieu à l'établissement de bons de remis les transports de marchandises faisant l'objet d'un titre de mouvement
+en matière de contributions indirectes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 310 duodecies
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 368 G
+
+Lorsque le transport d'un produit est soumis à la formalité du bon de remis, celui-ci tient lieu du document de transport
+prévu à l'article 23 (1°, 2°, 3° et 6°) du décret du 14 novembre 1949.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 310 terdecies
+
+	**Cite**:
+
+	  - Décret n°49-1473 1949-11-14 ART. 23 1°, 2°, 3°, 6°
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 369
 
 I  Tout transport par voie publique de fruits et de légumes frais figurant sur une liste établie par arrêté du ministre de
 l'économie et des finances (1) doit être accompagné d'un bon de remis. Il en est de même des transports de fruits et de
 légumes séchés ou conservés selon un procédé qui ne modifie pas leur état naturel.
 
-II  Ces dispositions ne s'appliquent pas :
+II Ces dispositions ne s'appliquent pas :
 
 Aux transports de fruits et de légumes de sa récolte, effectués par un producteur agricole au moyen d'un véhicule lui
 appartenant, par la voie la plus directe, à destination des marchés de gros et des stations de conditionnement situés à une
 distance maximale de 40 km du siège de son exploitation ou, en l'absence de tels marchés ou stations situés à cette distance
 pour le produit transporté, à destination du marché de gros et de la station de conditionnement les plus proches du siège de
-l'exploitation;
+l'exploitation ;
 
-Aux livraisons faites à ses clients par un commerçant détaillant;     Aux transports effectués par un particulier pour les
-besoins de sa consommation.
+Aux livraisons faites à ses clients par un commerçant détaillant ;
 
-1)  Annexe IV, art. 164 F nonies à 164 F quaterdecies.
+Aux transports effectués par un particulier pour les besoins de sa consommation.
+
+(1) Annexe IV, art. 164 F nonies à 164 F quaterdecies
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN4 164 F decies
-	  - CGIAN4 164 F duodecies
-	  - CGIAN4 164 F nonies
-	  - CGIAN4 164 F quaterdecies
-	  - CGIAN4 164 F terdecies
-	  - CGIAN4 164 F undecies
+	  - CGIAN2 260 F
+	  - CGIAN2 368
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - CGIAN2 368 A
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 
-###### Article 368 B
+###### Article 369 A
 
 Les bons de remis sont établis préalablement au chargement par :
 
-Les producteurs agricoles qui livrent ou transportent leurs produits dans des conditions autres que celles énoncées à
-l'article 368 A-II;
+Les producteurs agricoles qui livrent ou transportent leurs produits dans des conditions autres que celles énoncées au II de
+l'article 369 ;
 
 Toute personne qui reçoit et expédie des fruits et légumes ou qui transporte ces produits pour son propre compte.
 
 Les bons de remis peuvent être établis par les intermédiaires qui agissent pour le compte des personnes susmentionnées ainsi
-que, dans les conditions fixées par arrêté ministériel (1), par les commerçants détaillants qui s'approvisionnent auprès des
+que, dans les conditions fixées par arrêté ministériel (1) par les commerçants détaillants qui s'approvisionnent auprès des
 producteurs agricoles.
 
-1)  Annexe IV, art. 164 F undecies.
+(1) Annexe IV art. 164 F undecies
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 368 B
 
 	**Cite**:
 
-	  - CGIAN2 368 A II
+	  - CGIAN2 369
 	  - CGIAN4 164 F undecies
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 368 bis
-
-Les personnes sans domicile ni résidence fixe, mentionnées à l'article 23 du décret n° 70-708 du 31 juillet 1970 relatif à
-l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence
-fixe, sont tenues d'accomplir leurs obligations fiscales auprès des services des impôts dont relève la commune à laquelle
-elles se trouvent rattachées.
-
-Lorsque, pour une même commune, il existe plusieurs services des impôts à compétence territoriale déterminée, les obligations
-fiscales sont accomplies auprès du service désigné par l'administration des impôts.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 371
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
-
-	**Cite**:
-
-	  - Décret n°70-708 du 31 juillet 1970 - art. 23 (M)
-
-	**Créé par**:
-
-	  - Décret n°84-45 du 18 janvier 1984 - art. 2 () JORF 24 janvier 1984
+	  - Décret n°88-1001 1988-10-20
 
 
-###### Article 368 C
+###### Article 369 B
 
-Les produits faisant l'objet des obligations prescrites par les articles 368 A et 368 B sont soumis aux dispositions des
-articles 310 septies à 310 octies et 310 decies à 310 terdecies de l'annexe I au code général des impôts et de l'article R
-24-1 du livre des procédures fiscales.
+Les produits faisant l'objet des obligations prescrites par les articles 369 et 369 A sont soumis aux dispositions des
+articles 368 B à 368 G et de l'article R24-1 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI R24-1
-	  - CGIAN1 310 decies
-	  - CGIAN1 310 duodecies
-	  - CGIAN1 310 octies
-	  - CGIAN1 310 septies
-	  - CGIAN1 310 terdecies
-	  - CGIAN1 310 undecies
-	  - CGIAN2 368 A
-	  - CGIAN2 368 B
+	  - CGIAN2 368 B à CGIAN2 368 G
+	  - CGIAN2 369
+	  - CGIAN2 369 A
+
+	**Anciens textes**:
+
+	  - CGIAN2 368 C
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°88-1001 1988-10-20
 
 
-###### Article 368 D
+###### Article 370
 
 La formalité du titre de mouvement sur les transports de farines panifiables de blé, pures ou en mélanges, est supprimée et
 remplacée par celle du bon de remis.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - CGI 1649 ter C
+
+	**Anciens textes**:
+
+	  - CGIAN2 368 D
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 370 A
+
+Le bon de remis qui accompagne les farines panifiables de blé, pures ou en mélange remises par un fabricant ou un grossiste
+et transportées autrement que par un particulier pour les besoins de sa propre consommation, quels que soient le mode et
+l'auteur du transport, est extrait d'un carnet à souches. Ce bon de remis doit être établi préalablement au chargement des
+marchandises. Il doit être conservé par le destinataire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI R24-1
+	  - CGIAN1 368, 368 A, 368 B, 368 C, 368D
+
+	**Anciens textes**:
+
+	  - CGIAN2 368 E
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+##### BONS DE REMIS.
+
+###### Article 368 B
+
+Les bons de remis mentionnent les renseignements nécessaires à l'identification des expéditeurs, des destinataires ainsi que
+des marchandises transportées, et ceux concernant les modalités du transport.
+
+Les mêmes indications sont reproduites sur les duplicata des bons de remis.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 310 septies
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 369 A
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 368 E
 
-Le bon de remis qui accompagne les farines panifiables de blé, pures ou en mélanges, remises par un fabricant ou par un
-grossiste et transportées autrement que par un particulier pour les besoins de sa propre consommation, quels que soient le
-mode et l'auteur du transport, est extrait d'un carnet à souches. Ce bon de remis doit être établi préalablement au
-chargement des marchandises. Il doit être conservé par le destinataire.
+L'arrêté prévu à l'article 368  peut dispenser partiellement, pour certains produits, des formalités et obligations prévues
+par les articles 368 à 368 D de la présente annexe et par l'article R. 24-1 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - CGI R24-1
+	  - CGIAN1 368, 368 A, 368 B, 368 C, 368 D
+
+	**Anciens textes**:
+
+	  - CGIAN1 310 undecies
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 370 A
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°88-1001 1988-10-20
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 # Livre II : Recouvrement de l'impôt
