@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-03-15
+Version Consolidée au 1986-03-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17557,50 +17557,6 @@ trimestre civil au cours duquel elle a été formulée.
 	  - Décret n°82-633 du 21 juillet 1982 - art. 1 (V) JORF 23 JUILLET 1982
 
 
-##### DISPOSITIONS PARTICULIERES AUX OPERATIONS CONCOURANT A LA PRODUCTION OU A LA LIVRAISON D'IMMEUBLES.
-
-###### Article 253
-
-Pour les ventes et apports en société de terrains lotis et de terrains aménagés ou équipés, les redevables ont la faculté de
-renoncer à l'application de la réfaction de 30 % prévue à l'article 266-3 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 266 3
-
-	**Modifié par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 12 () JORF 19 JANVIER 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 255
-
-En cas d'application des dispositions de l'article 266-3, deuxième alinéa, du code général des impôts, il est procédé à une
-nouvelle liquidation de la taxe sur la valeur ajoutée ayant, le cas échéant, grevé la livraison à soi-même de l'immeuble
-construit sur le terrain précédemment acquis.
-
-Les dispositions de l'article 266-3, deuxième alinéa, ne sont pas applicables lorsque les terrains acquis sont attenants à
-des terrains dont l'acquisition a été replacée dans le champ d'application de la taxe de publicité foncière ou des droits
-d'enregistrement comme il est dit à l'article 291 ci-après.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 266 3 AL. 2
-	  - CGIAN2 291
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ### CONTRIBUTIONS INDIRECTES
 
 #### BOISSONS - VINS ET CIDRES.
@@ -18214,9 +18170,9 @@ de l'économie et des finances dans la limite des maxima ci-après :
 a. Contribution des sociétés d'assurances : 12 % de la totalité des charges des opérations du fonds de garantie afférentes à
 la chasse et à la destruction des animaux nuisibles ;
 
-b. Contribution des responsables d'accidents corporels non assurés : 10 % des indemnités restant à leur charge. Toutefois, ce
-taux est ramené à 5 % lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des
-articles 393 à 395 du code rural ;
+b. Contribution des responsables, non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
+personne : 10 % des indemnités restant à leur charge. Toutefois, ce taux est ramené à 5 % lorsque l'accident résulte d'une
+opération de destruction des animaux nuisibles effectuée en vertu des articles 393 à 395 du code rural ;
 
 c. Contribution des assurés, somme forfaitaire maximum de 2,50 F par personne garantie.
 
@@ -18227,26 +18183,27 @@ c. Contribution des assurés, somme forfaitaire maximum de 2,50 F par personne g
 	**Cite**:
 
 	  - CGIAN2 325
+	  - CGIAN3 340 sexies
+	  - Code rural 366 ter
 	  - Code rural 393 à code rural 395
 	  - Décret n°68-170 1968-02-19 ART. 22
 
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
 	**Modifié par**:
 
-	  - Décret n°85-1007 1985-09-24 : Code des assurances aer. R420-39
+	  - Décret n°86-452 du 14 mars 1986 - art. 27 () JORF 16 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 327
 
 Sur le montant des encaissements effectués par le service des impôts au titre des contributions visées à l'article 325, il
-est opéré un prélèvement de 3 %.
+est opéré un prélèvement de 2 % [*pourcentage*].
 
-Le produit de ce prélèvement est rattaché au budget du ministère de l'économie et des finances. Il sert à couvrir, dans les
-limites et conditions déterminées par un arrêté du ministre de l'économie et des finances, les dépenses de matériel et de
-personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
+Ce prélèvement sert à couvrir dans les limites et conditions fixées par arrêté du ministre chargé des finances, les dépenses
+de matériel et de personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
 
 **Liens relatifs à cet article**
 
@@ -18256,9 +18213,13 @@ personnel résultant des recouvrements effectués pour le compte du fonds de gar
 	  - Code rural 366 ter
 	  - Décret n°68-170 1968-02-19 ART. 22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°86-452 du 14 mars 1986 - art. 28 () JORF 16 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 327-0 A
