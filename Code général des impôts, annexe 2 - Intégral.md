@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-03-23
+Version Consolidée au 1982-03-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4832,6 +4832,45 @@ de la cession.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 169
+
+Sous réserve des dispositions de l'article 171-O bis D, en cas de vente d'un immeuble en l'état futur d'achèvement définie à
+l'article 166, la plus-value est réputée réalisée à la date de délivrance du récépissé de la déclaration visée à l'article
+165.
+
+Toutefois, lorsqu'il est exigible, le prélèvement prévu à l'article 235 quater-I, I bis et I ter du code général des impôts
+est provisoirement liquidé au moment de la cession sur une base égale à 10 % du prix de vente de l'immeuble ou de la fraction
+d'immeuble en l'état futur d'achèvement. Il est procédé à la régularisation du prélèvement finalement dû par le redevable
+dans le mois suivant celui de la date de la réalisation définitive de la plus-value, telle qu'elle est définie au premier
+alinéa.
+
+Par dérogation aux dispositions de l'alinéa qui précède le cédant peut être dispensé d'effectuer la liquidation provisoire
+s'il fournit des garanties pour le paiement définitif du prélèvement et si ces garanties sont estimées suffisantes par
+l'administration.
+
+Lorsqu'il a constitué le cautionnement prévu à l'article 167-c, troisième alinéa, le cédant des droits sociaux peut différer
+le paiement de l'impôt afférent à la plus-value réalisée jusqu'à la libération de ce cautionnement, sans que ledit paiement
+puisse être reporté au-delà d'un an après l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les actions
+ou parts cédées [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 165
+	  - CGIAN2 166
+	  - CGIAN2 167 c AL. 3
+	  - CGIAN2 171-O bis D CGI 235 quater I, I bis, I ter
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°82-263 du 23 mars 1982 - art. 4 (V) JORF 25 MARS 1982
 
 
 ###### Article 170
@@ -13900,40 +13939,6 @@ société en cas de défaillance des associés.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 169
-
-En cas de vente d'un immeuble en l'état futur d'achèvement définie à l'article 166, la plus-value est réputée réalisée à la
-date de délivrance du récépissé de la déclaration visée à l'article 165.
-
-Toutefois, lorsqu'il est exigible, le prélèvement prévu à l'article 235 quater-I, I bis et I ter du code général des impôts
-est provisoirement liquidé au moment de la cession sur une base égale à 10 % du prix de vente de l'immeuble ou de la fraction
-d'immeuble en l'état futur d'achèvement. Il est procédé à la régularisation du prélèvement finalement dû par le redevable
-dans le mois suivant celui de la date de la réalisation définitive de la plus-value, telle qu'elle est définie au premier
-alinéa.
-
-Par dérogation aux dispositions de l'alinéa qui précède le cédant peut être dispensé d'effectuer la liquidation provisoire
-s'il fournit des garanties pour le paiement définitif du prélèvement et si ces garanties sont estimées suffisantes par
-l'administration.
-
-Lorsqu'il a constitué le cautionnement prévu à l'article 167-c, troisième alinéa, le cédant des droits sociaux peut différer
-le paiement de l'impôt afférent à la plus-value réalisée jusqu'à la libération de ce cautionnement, sans que ledit paiement
-puisse être reporté au-delà d'un an après l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les actions
-ou parts cédées [*délai*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 quater I, I bis, I ter
-	  - CGIAN2 165
-	  - CGIAN2 166
-	  - CGIAN2 167 c AL. 3
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 171
 
 Les contribuables passibles du prélèvement prévu à l'article 235 quater-I, I bis et I ter du code général des impôts sont
@@ -13994,6 +13999,200 @@ b. D'un état comportant indication de l'emploi de la provision, dans l'année q
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 171-0 bis
+
+Pour l'application de l'article 235 quinquies-III 2° du code général des impôts [*concernant le prélèvement obligatoire des
+profits de construction*], les immeubles sont considérés comme achevés à la date de délivrance du récépissé de la déclaration
+prévue aux articles R 460-1 à R 460-4 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
+	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Cite**:
+
+	  - CGI 235 quinquies III 2°
+	  - Code de l'urbanisme R460-1 A Code de l'urbanisme R460-4
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°89-801 1989-10-27
+
+	**Créé par**:
+
+	  - Décret n°82-263 du 23 mars 1982 - art. 1 (V) JORF 25 mars 1982
+
+
+###### Article 171-0 bis A
+
+1. Les acomptes du prélèvement prévu à l'article 235 quinquies-II du code général des impôts sont liquidés, au taux de 3,33
+%, sur le montant des cessions réalisées au cours de chaque trimestre.
+
+2. Le redevable des acomptes est tenu de souscrire, en double exemplaire, une déclaration établie conformément à un modèle
+fixé par l'administration. Elle est déposée à la recette des impôts auprès de laquelle doit être acquitté le prélèvement dans
+les dix premiers jours suivant l'expiration de chaque trimestre.
+
+Le paiement des acomptes accompagne le dépôt de la déclaration.
+
+3. Par dérogation aux dispositions des 1 et 2, le redevable est dispensé de déposer la déclaration relative aux acomptes et
+d'acquitter ces derniers s'il fournit des garanties estimées suffisantes par l'administration pour le paiement définitif du
+prélèvement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
+	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Cite**:
+
+	  - CGI 235 quinquies II
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°89-801 1989-10-27
+
+	**Créé par**:
+
+	  - Décret n°82-263 du 23 mars 1982 - art. 5 (V) JORF 25 mars 1982
+
+
+###### Article 171-0 bis B
+
+1. Le représentant agréé mentionné à l'article 235 octies du code général des impôts s'engage à remplir les formalités
+auxquelles sont soumises les personnes passibles du prélèvement et des acomptes et à acquitter ce prélèvement et ces acomptes
+en leur lieu et place.
+
+2. Les déclarations relatives aux acomptes et au prélèvement doivent comporter la mention du représentant agréé et être
+visées par ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 octies
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
+	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°89-801 1989-10-27
+
+	**Créé par**:
+
+	  - Décret n°82-263 du 23 mars 1982 - art. 6 (V) JORF 25 mars 1982
+
+
+###### Article 171-0 bis C
+
+Pour tout acte ou déclaration constatant la cession par les personnes physiques ou morales visées à l'article 235 octies du
+code général des impôts, d'immeubles ou de fractions d'immeubles qu'elles ont construits, de droits immobiliers s'y
+rapportant ou d'actions ou parts de sociétés visées à l'article 1655 ter du même code [*sociétés immobilières de
+copropriété*], l'accomplissement de la formalité fusionnée prévue à l'article 647 du code précité ou de la formalité de
+l'enregistrement est subordonné à la mention, au pied de l'acte ou de la déclaration et, le cas échéant, dans l'extrait prévu
+à l'article 860 du code général des impôts :
+
+Du caractère occasionnel ou habituel des activités de construction-vente du cédant ;
+
+Dans le cas où celui-ci déclare se livrer à des opérations habituelles, de l'identité, de l'adresse, du domicile ou du siège
+social du représentant agréé, ainsi que la date de son agrément.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1655 ter
+	  - CGI 235 octies
+	  - CGI 647
+	  - CGI 860
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
+	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°89-801 1989-10-27
+
+	**Créé par**:
+
+	  - Décret n°82-263 du 23 mars 1982 - art. 7 (V) JORF 25 mars 1982
+
+
+###### Article 171-0 bis D
+
+Pour l'application de l'article 235 quater du code général des impôts, en cas de vente d'un immeuble à construire livré avant
+le 1er janvier 1982, l'immeuble est réputé achevé, nonobstant les dispositions des articles 165 et 169, au plus tard à la
+date de la livraison.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 165
+	  - CGI 169
+	  - CGI 235 quater
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
+	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°89-801 1989-10-27
+
+	**Créé par**:
+
+	  - Décret n°82-263 du 23 mars 1982 - art. 4 (V) JORF 25 mars 1982
+
+
+###### Article 171-0 bis E
+
+Lorsqu'un immeuble ou une fraction d'immeuble a été vendu et achevé, au sens des articles 165 et 169, avant le 1er janvier
+1982, mais livré à compter de cette date, le produit net correspondant à cette vente n'est pas compris dans les résultats
+servant d'assiette au prélèvement de 50 %.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 165
+	  - CGI 169
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
+	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°89-801 1989-10-27
+
+	**Créé par**:
+
+	  - Décret n°82-263 du 23 mars 1982 - art. 2 (V) JORF 25 mars 1982
 
 
 ###### Article 171-0 bis F
