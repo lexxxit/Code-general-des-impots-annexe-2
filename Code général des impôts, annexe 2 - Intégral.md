@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-03-03
+Version Consolidée au 1982-03-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16261,13 +16261,48 @@ n'a pas été acquitté en 1979.
 ###### Article 327 AB
 
 La taxe professionnelle ne peut excéder, en 1979, 140 % de la patente établie pour un contribuable au titre de 1978 et, en
-1980, 160 % de la même patente [*plafond*].
+1980, 160 % de la même patente.
+
+La réduction de taxe ayant résulté en 1980 de l'application du premier alinéa est maintenue en valeur absolue en 1981 pour
+chaque contribuable. Elle sera ensuite diminuée chaque année d'un dixième si elle a été supérieure en 1981 à 5.000 F et à 50
+% de la taxe, et d'un cinquième dans les autres cas.
+
+La réduction sera supprimée lorsqu'elle sera inférieure à 10 % de la taxe.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-263 du 18 mars 1981 - art. 5 (V) JORF 22 MARS 1982
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 327 AC
+
+Pour l'application de l'article 1648 B du code général des impôts relatif au fonds national de péréquation de la taxe
+professionnelle, la moyenne départementale des impôts sur les ménages est substituée, si elle lui est inférieure, à la
+moyenne nationale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1648 B
+
+	**Créé par**:
+
+	  - Décret n°81-263 du 18 mars 1981 - art. 4 (V) JORF 22 mars 1982
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Décret n°84-62 du 27 janvier 1984 - art. 2 (Ab) JORF 29 janvier 1984
 
 
 ###### Article 327 E
