@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-07-21
+Version Consolidée au 1984-07-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21613,49 +21613,5 @@ Celle-ci statue dans les conditions prévues au chapitre premier du même décre
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
-
-
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS
-
-### JURIDICTION GRACIEUSE.
-
-###### Article 396 quaterdecies
-
-L'avis du comité doit être adressé par le président à l'autorité qui l'a saisi. La décision qui est notifiée au contribuable
-comporte l'indication qu'elle a été prise après avis du comité.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-16
-
-	**Abrogé par**:
-
-	  - Décret n°84-686 1984-07-24 art. 5, art. 7JORF 24 juillet 1984
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 396 terdecies
-
-Les séances du comité et des sections ne sont pas publiques. Le comité et ses sections délibèrent en dehors de la présence de
-l'autorité qui l'a saisi et du contribuable.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-15
-
-	**Abrogé par**:
-
-	  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 juillet 1984
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
