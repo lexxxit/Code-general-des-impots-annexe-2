@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-01-09
+Version Consolidée au 1986-01-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -886,6 +886,36 @@ des revenus mis en paiement.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 119 bis (V)
+
+
+##### 3 bis : Primes de remboursement et intérêts capitalisés
+
+###### Article 50 A
+
+Pour l'application de l'article 238 septies B du code général des impôts, le prélèvement prévu à l'article 125 A du même code
+est opéré à la date anniversaire du titre.
+
+Ce prélèvement est pratiqué par la personne chez laquelle les titres ou droits correspondants sont déposés sur le compte
+approvisionné par le contribuable à cet effet.
+
+La personne qui pratique le prélèvement est tenue de déclarer à l'administration l'identité, l'adresse des bénéficiaires
+ainsi que les sommes versées pour le compte de chacun d'eux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 125 A
+	  - CGI 238 septies B
+
+	**Créé par**:
+
+	  - Décret n°86-90 du 21 janvier 1986 - art. 1 (V) JORF 22 janvier 1986
+	  - Décret n°86-90 du 21 janvier 1986 - art. 2 (V) JORF 22 janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ##### 4 : Emission d'obligations en France par les organismes étrangers ou internationaux. Régime spécial des titres émis avant le 1er janvier 1987
@@ -15287,6 +15317,39 @@ atomique,     500 % pour les risques de responsabilité civile dus à la polluti
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 39 EA
+
+En cas de cession des titres ou droits mentionnés à l'article 238 septies B, les plus-values sont déterminées en faisant
+abstraction des annuités d'intérêts et de primes calculées et échues depuis l'acquisition dans les conditions prévues au même
+article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 septies B
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 164
+
+	**Créé par**:
+
+	  - Décret n°86-90 du 21 janvier 1986 - art. 3 (V) JORF 22 janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Transféré par**:
+
+	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987 en vigueur le 10 août 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 ###### Article 39 H
