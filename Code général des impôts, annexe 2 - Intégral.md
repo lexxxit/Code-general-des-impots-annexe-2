@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-01-06
+Version Consolidée au 1988-01-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2207,6 +2207,37 @@ est soumis à l'obligation de dépôt.
 
 	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
 	  - HISTO: Edition du 22 avril 1998
+
+
+##### 0I ter : Créateurs d'entreprises.
+
+###### Article 75-0 X
+
+Le contribuable qui veut déduire de son revenu net global le montant des souscriptions au capital d'une société visée à
+l'article 163 octodecies du code général des impôts doit joindre à sa déclaration :
+
+1° La copie du reçu de sa souscription en numéraire au capital de la société ;
+
+2° La copie d'un des jugements mentionnés au deuxième alinéa du I de l'article précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 octodecies
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°86-1317 1986-12-30 art. 84  Finances pour 1987
+	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
+
+	**Créé par**:
+
+	  - Décret n°88-30 du 8 janvier 1988 - art. 1 (V) JORF 10 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
 
 
 ##### I : Crédit d'impôt - Paiement des revenus de capitaux mobiliers - Obligations des établissements payeurs - Plans d'épargne d'entreprise
