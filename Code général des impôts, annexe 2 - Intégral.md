@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-01-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13324,6 +13324,39 @@ détermine à partir de la date de la première mise en circulation. Il s'appré
 
 ### Titre VI : Taxes parafiscales
 
+#### Chapitre II : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
+
+###### Article 340
+
+Les montants de la taxe sont fixés par arrêté conjoint du ministre de l'économie des finances et du budget et du ministre de
+l'urbanisme, du logement et des transports (1), dans la limite des maxima suivants :
+
+1° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur à 6 tonnes : 430
+F ;
+
+2° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes
+et inférieur à 11 tonnes : 645 F ;
+
+3° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11
+tonnes, tracteurs routiers et véhicules de transport en commun de voyageurs :  965 F .
+
+(1) Annexe IV, art. 159 septies
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 septies
+
+	**Modifié par**:
+
+	  - Décret n°85-1525 du 31 décembre 1985 - art. 3 (V) JORF 9 janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
 #### Chapitre III : Fonds d'orientation et de régularisation des marchés agricoles - Taxe sur les produits résineux et produits dérivés.
 
 ###### Article 342
@@ -18354,16 +18387,14 @@ fiscales.
 
 ###### Article 339
 
-Il est institué au profit de l'association pour le développement de la formation professionnelle dans les transports une taxe
-parafiscale qui est perçue, en addition à la taxe édictée par l'article 1635 bis G du code général des impôts, lors de la
-délivrance des certificats d'immatriculation des véhicules de transport de marchandises dont le poids total autorisé en
-charge excède 3,5 tonnes, des tracteurs routiers et des véhicules de transport en commun de voyageurs.
+Il est institué jusqu'au [*date limite*] 31 décembre 1990 au profit de l'association pour le développement de la formation
+professionnelle dans les transports une taxe parafiscale qui est perçue, en addition à la taxe édictée par l'article 1635 bis
+G du code général des impôts, lors de la délivrance des certificats d'immatriculation des véhicules de transport de
+marchandises dont le poids total autorisé en charge excède 3,5 tonnes, des tracteurs routiers et des véhicules de transport
+en commun de voyageurs.
 
-Les certificats visés aux articles 1635 bis I et 1635 bis J du code précité ne donnent pas lieu au paiement de la taxe.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+La délivrance des certificats visés aux articles 1635 bis I et 1635 bis J du code précité ne donnent pas lieu au paiement de
+la taxe.
 
 **Liens relatifs à cet article**
 
@@ -18375,41 +18406,11 @@ Les certificats visés aux articles 1635 bis I et 1635 bis J du code précité n
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°86-1086 1986-10-07
 
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
-
-
-###### Article 340
-
-Les montants de la taxe sont fixés par arrêté du ministre de l'économie et des finances et du ministre des transports (1)
-dans la limite des maxima ci-après :
-
-Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur à 6 tonnes : 200 F ;
-
-Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes et
-inférieur à 11 tonnes, véhicules de transports en commun de voyageurs : 300 F.
-
-Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11 tonnes,
-tracteurs routiers : 450 F.
-
-(1) Annexe IV, art. 159 septies
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 159 septies
-
-	**Modifié par**:
-
-	  - Décret n°80-1092 1980-12-29 ART. 1 JORF 30 DECEMBRE 1980
+	  - Loi n°85-1525 1985-12-31 art. 1, art. 2 JORF 9 janvier 1986
 
 
 ###### Article 341
