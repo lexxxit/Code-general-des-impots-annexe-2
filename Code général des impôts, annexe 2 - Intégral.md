@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-02-12
+Version Consolidée au 1982-02-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15402,21 +15402,22 @@ et, le cas échéant, les conditions auxquelles cette offre est soumise. Il en e
 L'offre doit être faite dans le délai prévu pour l'enregistrement de l'acte constatant la mutation ou de la déclaration de la
 succession.
 
-II  L'offre de donation est adressée par le service des impôts à une commission dont la composition est fixée par arrêté
-conjoint du premier ministre, du ministre chargé des affaires culturelles, du ministre de l'éducation nationale et du
-ministre de l'économie et des finances.
+II L'offre de donation ou de dation en paiement est adressée par le service des impôts à une commission dont la composition
+est fixée par arrêté conjoint du Premier ministre, du ministre chargé de la culture et du ministre chargé du budget.
 
-Avant de se prononcer, cette commission recueille l'avis du ministre compétent pour accepter l'offre.
+Avant de se prononcer, cette commission recueille l'avis du ministre intéressé par l'affectation éventuelle des biens qui
+font l'objet de l'offre de donation ou de dation en paiement ; ce ministre est invité à désigner un représentant pour
+participer, avec voix consultative, aux travaux de la commission relatifs à cette offre.
 
 Elle consulte le ou les organismes compétents, selon le cas, en matière d'acquisition d'oeuvres d'art, de livres, d'objets de
-collection ou de documents de haute valeur artistique ou historique.
+collection ou du documents de haute valeur artistique ou historique.
 
-Elle émet un avis tant sur l'intérêt artistique ou historique que sur la valeur du bien offert.
+Elle émet un avis sur l'intérêt artistique ou historique que sur la valeur du bien offert.
 
 Au vu de l'avis de la commission, le ministre compétent propose au ministre de l'économie et des finances l'octroi ou le
 refus de l'agrément.
 
-La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception *condition de forme*.
+La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
 
 III  En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter les conditions auxquelles
 celui-ci est subordonné et, le cas échéant, la valeur libératoire reconnue au bien offert en paiement de droits de mutation.
@@ -15425,13 +15426,17 @@ Il fait connaître son acceptation au ministre de l'économie et des finances, p
 réception.
 
 IV  En l'absence de décision notifiée dans le délai d'un an à compter de la date du récépissé de l'offre, celle-ci est
-considérée comme refusée *refus tacite*.
+considérée comme refusée.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1131
+
+	**Modifié par**:
+
+	  - Décret n°82-164 du 11 février 1982 - art. 1 (V) JORF 16 FEVRIER 1982
 
 	**Cité par**:
 
@@ -15440,10 +15445,6 @@ considérée comme refusée *refus tacite*.
 	  - Décret n°2015-631 du 5 juin 2015 - art. Annexe I (V)
 	  - Code du patrimoine. - art. D122-2 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384-0 A bis (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
