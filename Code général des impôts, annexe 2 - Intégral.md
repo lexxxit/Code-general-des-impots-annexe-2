@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1987-07-18
+Version Consolidée au 1987-07-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3644,6 +3644,38 @@ déduits à compter du 1er janvier 1979 pour le calcul de l'impôt.
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 102 J
+
+A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
+constitué au 31 décembre 1978, pour un montant total égal ou supérieur à 0,50 % de l'encours de ces crédits, des provisions
+individualisées répondant aux conditions du premier alinéa du 5° du 1 de l'article 39 du code général des impôts, les caisses
+de crédit agricole sont tenues de faire figurer au 1er janvier 1979 à leur bilan la provision prévue au neuvième alinéa de
+l'article précité. Le taux de cette provision est fixé à 0,50 %.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 1
+
+	**Modifié par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 L (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 M (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
 ###### Article 102 K
 
 I. - A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à court terme, elles n'aient
@@ -3801,6 +3833,32 @@ déduits à compter du 1er janvier 1980 pour le calcul de l'impôt.
 	  - Loi n°81-1180 du 31 décembre 1981 - art. 5 (V) JORF 1er janvier 1982
 
 
+###### Article 102 P
+
+A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
+constitué au 31 décembre 1979 des provisions pour un montant égal ou supérieur à 0,50 % de l'encours des crédits, les caisses
+sont tenues de faire figurer au 1er janvier 1980 à leur bilan la provision prévue au neuvième alinéa du 5° du 1 de l'article
+39 du code général des impôts pour un montant de 0,50 % de l'encours des crédits afférents auxdites opérations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Modifié par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
 ###### Article 102 Q
 
 La provision de 0,50 % devant figurer au bilan du 1er janvier 1980 est constituée en ajoutant aux provisions pour risques sur
@@ -3871,6 +3929,31 @@ déduits à compter du 1er janvier 1984 pour le calcul de l'impôt.
 
 	  - Décret n°2002-923 2002-06-06
 	  - Décret n°84-875 1984-10-01
+
+
+###### Article 102 RB
+
+La provision pour dépréciation du portefeuille prévue du onzième au treizième alinéas du 5° du 1 de l'article 39 du code
+général des impôts doit être égale, au 1er janvier 1984, à la différence entre la valeur des titres à la clôture de
+l'exercice 1983 et leur valeur d'origine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 1
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Modifié par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
 
 
 ###### Article 102 RC
@@ -4805,6 +4888,58 @@ dans la mesure où ils sont admis en déduction des bénéfices imposables des s
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+###### Article 126
+
+1. Les dispositions des troisième, cinquième, huitième  et neuvième du 5° du 1 de l'article 39, des articles 39 bis, 39
+quinquies A, 219-II et III et 238 octies du code général des impôts ne sont pas applicables pour la détermination du résultat
+d'ensemble des sociétés agréées en vertu de l'article 104 [*bénéfice mondial*] ou du résultat consolidé des sociétés agréées
+en vertu de l'article 113 [*bénéfice consolidé*], dans la mesure où ces dispositions concerneraient des exploitations
+directes et indirectes situées hors de la France métropolitaine et des départements d'outre-mer.
+
+2. Lorsqu'ils ne sont pas imputables sur l'impôt sur les sociétés dû par la société agréée, les impôts étrangers acquittés
+par les exploitations directes et indirectes des sociétés agréées sont admis en déduction du résultat de ces exploitations.
+Le bénéfice de cette disposition pourra toutefois être retiré, par arrêté du ministre de l'économie et des finances, en ce
+qui concerne les impôts étrangers qui ne sont pas comparables à des impôts, taxes, droits ou prélèvements français admis en
+déduction pour la détermination du bénéfice imposable des entreprises.
+
+3. Lorsque, en vertu des dispositions du code général des impôts, le montant d'une charge déductible est calculé ou limité en
+fonction du bénéfice, du chiffre d'affaires ou du montant des ventes de l'entreprise, la charge totale que la société agréée
+est admise à déduire à ce titre, en vue de la détermination de son résultat d'ensemble ou de son résultat consolidé, est
+limitée au chiffre obtenu par l'application de ces dispositions, selon le cas, au résultat d'ensemble ou au résultat
+consolidé, au chiffre d'affaires consolidé du groupe ou au montant consolidé de ses ventes.
+
+Toutefois, pour l'application des dispositions de l'article 39 ter du code général des impôts, le chiffre d'affaires
+consolidé n'est pris en considération qu'à concurrence du montant des ventes des produits marchands extraits des divers
+gisements. Les provisions constituées en application de ce texte peuvent, sauf disposition contraire de la décision
+d'agrément, être employées dans tous pays, Etats ou territoires dans lesquels la société agréée possède des exploitations
+directes ou indirectes dont les résultats doivent être compris dans le résultat d'ensemble ou dans le résultat consolidé du
+groupe.
+
+4. Des arrêtés du ministre de l'économie et des finances adapteront, en tant que de besoin, les conditions de forme
+auxquelles peuvent être subordonnées certaines déductions de charges, lorsque l'observation de ces conditions par les
+exploitations directes ou indirectes des sociétés agréées apparaîtra impossible.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 219 II, III
+	  - CGI 238 octies
+	  - CGI 39 1 5° AL. 2, AL. 4, AL. 5, AL. 7
+	  - CGI 39 bis
+	  - CGI 39 quinquies A
+	  - CGIAN2 104
+	  - CGIAN2 113
+
+	**Modifié par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ###### Article 127
@@ -13651,6 +13786,75 @@ départements producteurs.
 
 ##### Section I : Taxe locale d'équipement
 
+###### Article 317 bis
+
+Pour l'application de l'article 1585 C-I-1° du code général des impôts, sont exclues du champ d'application de la taxe locale
+d'équipement les constructions définies ci-après :
+
+1° Les constructions édifiées par l'Etat, les collectivités locales et leurs groupements, qui sont exemptées de la taxe
+foncière sur les propriétés bâties en application de l'article 1382-1° du code général des impôts;
+
+2° Les constructions destinées à recevoir une affectation d'assistance, de bienfaisance, de santé, d'enseignement ou
+culturelle, scientifique ou sportive lorsque ces constructions sont édifiées par :
+
+Des établissements publics n'ayant pas un caractère industriel ou commercial;
+
+Des associations, des unions d'associations ou des fondations reconnues d'utilité publique;
+
+Des établissements congréganistes légalement reconnus ou autorisés;
+
+Des associations déclarées qui ont pour but exclusif l'assistance ou la bienfaisance ou dont l'objet et la gestion présentent
+un caractère désintéressé au sens de l'article 1er du décret n° 67-731 du 30 août 1967. Le bénéfice de cette disposition est
+subordonné à la condition que l'association constructrice s'engage, pour elle et ses ayants cause, à donner à la construction
+une affectation conforme à ce qui est dit ci-dessus pendant une durée minimale de cinq ans à compter de l'achèvement de cette
+construction;
+
+Des caisses primaires et régionales d'assurance maladie et d'assurance vieillesse, des caisses générales de sécurité sociale
+des départements d'outre mer, des caisses d'allocations familiales, des unions ou fédérations de caisses, des caisses
+départementales de mutualité sociale agricole, des caisses centrales de secours mutuels agricoles et d'allocations familiales
+mutuelles agricoles, de la caisse nationale d'assurance vieillesse agricole, des services et organismes gérant des régimes
+spéciaux prévus à l'article L 711-1 du code de la sécurité sociale, des institutions de prévoyance prévues à l'article L
+731-1 du même code, des caisses constituées pour l'application des titres II, III, IV du livre VI du même code, concernant le
+régime d'assurance vieillesse des travailleurs non salariés et de l'article L 611-1 du même code, relatif à l'assurance
+maladie maternité des travailleurs non salariés des professions non agricoles;
+
+Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles, dont les statuts ont été approuvés dans les
+conditions prévues à l'article L 122-5 du code de la mutualité.
+
+3° Les constructions édifiées par les établissements publics du culte dans les départements du Bas-Rhin, du Haut-Rhin ou de
+la Moselle;
+
+4° Les constructions édifiées par les associations cultuelles ou unions d'associations cultuelles et celles qui, édifiées par
+d'autres groupements, sont destinées à être exclusivement affectées à l'exercice public d'un culte ;
+
+5° Les constructions édifiées soit par les Etats étrangers à usage de locaux diplomatiques ou consulaires ou pour la
+résidence d'un chef de poste consulaire de carrière, soit par les organisations internationales intergouvernementales pour la
+réalisation de leur objet sous réserve des accords passés entre la France et ces organisations.
+
+Toutefois, pour qu'ils puissent bénéficier des dispositions du présent article, les organismes constructeurs doivent avoir
+une activité strictement conforme à leur objet légal ou statutaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1585 C I 1°
+	  - Décret n°67-731 1967-08-30 ART. 1
+	  - Code de la sécurité sociale L643 à L683-2
+	  - Code de la sécurité sociale. - art. L611-1 (M)
+	  - Code de la sécurité sociale. - art. L711-1 (M)
+	  - Code de la sécurité sociale. - art. L731-1 (T)
+	  - Code de la mutualité - art. L122-5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 16 () JORF 24 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 ###### Article 317 quater
 
 Dans les zones d'aménagement concerté, l'exclusion de la taxe locale d'équipement prévue au 2° du I de l'article 1585 C du
@@ -16716,140 +16920,11 @@ vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" 
 	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
 
 
-###### Article 102 RB
-
-La provision pour dépréciation du portefeuille prévue aux trois derniers alinéas du 5° du 1 de l'article 39 du code général
-des impôts doit être égale, au 1er janvier 1984, à la différence entre la valeur des titres à la clôture de l'exercice 1983
-et leur valeur d'origine.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 1 5°
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Créé par**:
-
-	  - Décret n°84-580 du 4 juillet 1984 - art. 2 (V) JORF 11 juillet 1984
-
-
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES
 
 #### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*
 
-##### DETERMINATION DU BENEFICE IMPOSABLE.
-
-###### Article 102 J
-
-A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
-constitué au 31 décembre 1978, pour un montant total égal ou supérieur à 0,50 % de l'encours de ces crédits, des provisions
-individualisées répondant aux conditions de l'article 39-1-5°, premier alinéa, du code général des impôts, les caisses de
-crédit agricole sont tenues de faire figurer au 1er janvier 1979 à leur bilan la provision prévue au huitième alinéa de
-l'article précité. Le taux de cette provision est fixé à 0,50 %.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 1 5° AL. 1, AL. 7
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 L (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 M (V)
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 113 (V) JORF 30 décembre 1983
-
-
-###### Article 102 P
-
-A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
-constitué au 31 décembre 1979 des provisions pour un montant égal ou supérieur à 0,50 % de l'encours des crédits, les caisses
-sont tenues de faire figurer au 1er janvier 1980 à leur bilan la provision prévue au huitième alinéa de l'article 39-1-5° du
-code général des impôts pour un montant de 0,50 % de l'encours des crédits afférents auxdites opérations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 1 5° AL. 8
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 113 (V) JORF 30 décembre 1983
-
-
 ##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.
-
-###### Article 126
-
-1. Les dispositions des articles 39-1-5°, deuxième, quatrième, cinquième et huitième alinéas, 39 bis, 39 quinquies A, 219-II
-et III et 238 octies du code général des impôts ne sont pas applicables pour la détermination du résultat d'ensemble des
-sociétés agréées en vertu de l'article 104 [*bénéfice mondial*] ou du résultat consolidé des sociétés agréées en vertu de
-l'article 113 [*bénéfice consolidé*], dans la mesure où ces dispositions concerneraient des exploitations directes et
-indirectes situées hors de la France métropolitaine et des départements d'outre-mer.
-
-2. Lorsqu'ils ne sont pas imputables sur l'impôt sur les sociétés dû par la société agréée, les impôts étrangers acquittés
-par les exploitations directes et indirectes des sociétés agréées sont admis en déduction du résultat de ces exploitations.
-Le bénéfice de cette disposition pourra toutefois être retiré, par arrêté du ministre de l'économie et des finances, en ce
-qui concerne les impôts étrangers qui ne sont pas comparables à des impôts, taxes, droits ou prélèvements français admis en
-déduction pour la détermination du bénéfice imposable des entreprises.
-
-3. Lorsque, en vertu des dispositions du code général des impôts, le montant d'une charge déductible est calculé ou limité en
-fonction du bénéfice, du chiffre d'affaires ou du montant des ventes de l'entreprise, la charge totale que la société agréée
-est admise à déduire à ce titre, en vue de la détermination de son résultat d'ensemble ou de son résultat consolidé, est
-limitée au chiffre obtenu par l'application de ces dispositions, selon le cas, au résultat d'ensemble ou au résultat
-consolidé, au chiffre d'affaires consolidé du groupe ou au montant consolidé de ses ventes.
-
-Toutefois, pour l'application des dispositions de l'article 39 ter du code général des impôts, le chiffre d'affaires
-consolidé n'est pris en considération qu'à concurrence du montant des ventes des produits marchands extraits des divers
-gisements. Les provisions constituées en application de ce texte peuvent, sauf disposition contraire de la décision
-d'agrément, être employées dans tous pays, Etats ou territoires dans lesquels la société agréée possède des exploitations
-directes ou indirectes dont les résultats doivent être compris dans le résultat d'ensemble ou dans le résultat consolidé du
-groupe.
-
-4. Des arrêtés du ministre de l'économie et des finances adapteront, en tant que de besoin, les conditions de forme
-auxquelles peuvent être subordonnées certaines déductions de charges, lorsque l'observation de ces conditions par les
-exploitations directes ou indirectes des sociétés agréées apparaîtra impossible.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 219 II, III
-	  - CGI 238 octies
-	  - CGI 39 1 5° AL. 2, AL. 4, AL. 5, AL. 7
-	  - CGI 39 bis
-	  - CGI 39 quinquies A
-	  - CGIAN2 104
-	  - CGIAN2 113
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Liens**:
-
-	  - SPEC_APPLI: La modification de l'article 126 est une conséquence de la péremption de l'article 39 ter A
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 113 (V) JORF 30 décembre 1983
-
 
 ###### Article 134 bis
 
@@ -18045,79 +18120,6 @@ longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins u
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
 
 ### IMPOSITIONS COMMUNALES
-
-###### Article 317 bis
-
-Pour l'application de l'article 1585 C-I-1° du code général des impôts, sont exclues du champ d'application de la taxe locale
-d'équipement les constructions définies ci-après :
-
-1° Les constructions édifiées par l'Etat, les collectivités locales et leurs groupements, qui sont exemptées de la taxe
-foncière sur les propriétés bâties en application de l'article 1382-1° du code général des impôts;
-
-2° Les constructions destinées à recevoir une affectation d'assistance, de bienfaisance, de santé, d'enseignement ou
-culturelle, scientifique ou sportive lorsque ces constructions sont édifiées par :
-
-Des établissements publics n'ayant pas un caractère industriel ou commercial;
-
-Des associations, des unions d'associations ou des fondations reconnues d'utilité publique;
-
-Des établissements congréganistes légalement reconnus ou autorisés;
-
-Des associations déclarées qui ont pour but exclusif l'assistance ou la bienfaisance au sens de l'article 35 de la loi du 14
-janvier 1933 relative à la surveillance des établissements de bienfaisance privés ou dont l'objet et la gestion présentent un
-caractère désintéressé au sens de l'article 1er du décret n° 67-731 du 30 août 1967. Le bénéfice de cette disposition est
-subordonné à la condition que l'association constructrice s'engage, pour elle et ses ayants cause, à donner à la construction
-une affectation conforme à ce qui est dit ci-dessus pendant une durée minimale de cinq ans à compter de l'achèvement de cette
-construction;
-
-Des caisses primaires et régionales d'assurance maladie et d'assurance vieillesse, des caisses générales de sécurité sociale
-des départements d'outre mer, des caisses d'allocations familiales, des unions ou fédérations de caisses, des caisses
-départementales de mutualité sociale agricole, des caisses centrales de secours mutuels agricoles et d'allocations familiales
-mutuelles agricoles, de la caisse nationale d'assurance vieillesse agricole, des services et organismes gérant des régimes
-spéciaux prévus à l'article L 711-1 du code de la sécurité sociale, des institutions de prévoyance prévues à l'article L
-731-1 du même code, des caisses constituées pour l'application des titres II, III, IV du livre VI du même code, concernant le
-régime d'assurance vieillesse des travailleurs non salariés et de l'article L 611-1 du même code, relatif à l'assurance
-maladie maternité des travailleurs non salariés des professions non agricoles;
-
-Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles, dont les statuts ont été approuvés dans les
-conditions prévues à l'article L 122-5 du code de la mutualité.
-
-3° Les constructions édifiées par les établissements publics du culte dans les départements du Bas-Rhin, du Haut-Rhin ou de
-la Moselle;
-
-4° Les constructions édifiées par les associations cultuelles ou unions d'associations cultuelles et celles qui, édifiées par
-d'autres groupements, sont destinées à être exclusivement affectées à l'exercice public d'un culte ;
-
-5° Les constructions édifiées soit par les Etats étrangers à usage de locaux diplomatiques ou consulaires ou pour la
-résidence d'un chef de poste consulaire de carrière, soit par les organisations internationales intergouvernementales pour la
-réalisation de leur objet sous réserve des accords passés entre la France et ces organisations.
-
-Toutefois, pour qu'ils puissent bénéficier des dispositions du présent article, les organismes constructeurs doivent avoir
-une activité strictement conforme à leur objet légal ou statutaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1585 C I 1°
-	  - Décret n°67-731 1967-08-30 ART. 1
-	  - Code de la sécurité sociale L643 à L683-2
-	  - Code de la sécurité sociale. - art. L611-1 (M)
-	  - Code de la sécurité sociale. - art. L711-1 (M)
-	  - Code de la sécurité sociale. - art. L731-1 (T)
-	  - Code de la mutualité - art. L122-5 (Ab)
-	  - Loi n°1933-01-14 ART. 35
-
-	**Modifié par**:
-
-	  - Loi n°85-773 du 25 juillet 1985 - art. 1 (V) JORF 26 juillet 1985
-	  - Décret n°85-1353 1985-12-17 art. 2, art. 3 JORF 21 décembre 1985
-	  - Décret n°85-1353 du 17 décembre 1985 - art. 3 (V) JORF 21 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
 
 #### IMPOTS DIRECTS ET TAXES ASSIMILEES.
 
