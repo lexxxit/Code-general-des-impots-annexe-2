@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-01-01
+Version Consolidée au 1983-01-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11725,6 +11725,40 @@ Les biens constituant des immobilisations n'ouvrent pas droit à déduction de l
 	  - HISTO: EDITION 1979-07-01
 
 
+#### Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.
+
+###### Article 360
+
+La taxe est due lors de la délivrance du titre de mouvement légitimant la sortie de la propriété des produits énumérés à
+l'article 359. Elle est acquittée par la personne levant le titre de mouvement mais supportée par l'acheteur et le vendeur,
+chacun pour moitié.
+
+Elle est perçue pour le compte du comité des fruits à cidre et des productions cidricoles par les bureaux de déclaration de
+la direction générale des impôts.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1955-09-16 ART. 6
+	  - Arrêté 1968-08-12 ART. 3
+	  - CGI 359
+	  - CGIAN2 358
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Décret n°82-1213 du 30 décembre 1982 - art. 3 (P) JORF 4 JANVIER 1983
+	  - Décret n°82-1213 du 30 décembre 1982 - art. 4 (P) JORF 4 JANVIER 1983
+
+
 #### Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.
 
 ###### Article 363 Z
@@ -13231,10 +13265,9 @@ des fractions de l'impôt, le solde restant dû, augmenté de l'intérêt couru,
 
 ###### Article 75-0 H
 
-Les achats d'actions de sociétés françaises traitées sur le marché hors cote des bourses de valeurs, qui ne figurent pas au
-compartiment spécial, ouvrent droit au bénéfice de la détaxation lorsque ces actions sont inscrites sur une liste établie
-chaque année par arrêté du ministre de l'économie (1). L'arrêté prend effet à compter du 1er janvier de l'année suivant celle
-de sa publication [*date*].
+Les achats d'actions de sociétés françaises traitées sur le marché hors cote des bourses de valeurs, ouvrent droit au
+bénéfice de la détaxation lorsque ces actions sont inscrites sur une liste établie chaque année par arrêté du ministre de
+l'économie (1). L'arrêté prend effet à compter du 1er janvier de l'année suivant celle de sa publication [*date*].
 
 Pour être inscrites, ces actions doivent, durant chacune des deux périodes successives de douze mois s'achevant le 30
 septembre précédant la date d'établissement de la liste, avoir fait l'objet d'au moins cinquante cotations [*nombre*] à la
@@ -13246,21 +13279,29 @@ moins égal à 500.000 F pour la bourse de Paris ou à 200.000 F pour les autres
 Pour l'application des deuxième et troisième alinéas sont retenus la fréquence des cotations et le volume des transactions
 enregistrés par la chambre syndicale des agents de change.
 
-Sauf inscription au compartiment spécial du hors-cote ou à la cote officielle, les actions sont maintenues sur la liste
-pendant les quatre années suivant celle de leur première inscription même si elles ne remplissent plus les conditions prévues
-ci-dessus.
+Sauf inscription au second marché (2) ou à la cote officielle, les actions sont maintenues sur la liste pendant les quatre
+années suivant celle de leur première inscription même si elles ne remplissent plus les conditions prévues ci-dessus.
 
-(1) Arrêté du 13 décembre 1978 (J.O. du 15).
+(1) Arrêtés des 16 décembre 1981 (JO N.C. du 19) et 24 décembre 1982 (JO N.C. du 31).
+
+(2) Le second marché des bourses de valeurs a remplacé le compartiment spécial du marché hors cote des bourses de valeurs
+(loi n° 83-1 du 3 janvier 1983, art. 47).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1978-12-13
+	  - Arrêté 1981-12-16
+	  - Arrêté 1982-12-24
+	  - Loi n°83-1 du 3 janvier 1983 - art. 47, v. init.
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°83-1 1983-01-03 ART. 47 JORF 4 JANVIER 1983
 
 
 ###### Article 75-0 J
@@ -17435,84 +17476,90 @@ ministre de l'économie et des finances et du ministre de l'industrie (1).
 
 ###### Article 358
 
-Il est institué au profit du comité des fruits à cidre et des productions cidricoles une taxe parafiscale exigible à la
-sortie de la propriété, sur les fruits à cidre et à poiré, sur les moûts de pommes et de poires, sur les cidres et poirés,
-sur les calvados et eaux-de-vie de cidre et de poiré et sur les alcools de cidre et de poiré réservés à l'Etat.
+Il est institué, à compter du 1er septembre 1982 et pour une durée de cinq ans, une taxe parafiscale au profit du comité des
+fruits à cidre et des productions cidricoles [*bénéficiaire*].
+
+Cette taxe est destinée à financer les frais de fonctionnement et les actions du comité relatives à la rénovation du verger
+et à l'orientation de la production cidricole.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Décret n°82-1213 du 30 décembre 1982 - art. 1 (P) JORF 4 JANVIER 1983
 
 
 ###### Article 359
 
-La taxe visée à l'article 358 est perçue au moment de la délivrance du titre de mouvement levé pour légitimer la sortie de la
-propriété des produits énumérés audit article.
+Sont soumis à la taxe prévue à l'article 358 les produits suivants : pommes et poires destinées à la fabrication de produits
+cidricoles, moûts de pommes et de poires, cidres et poirés, calvados, eaux-de-vie de cidre et de poiré et alcools de cidre et
+de poiré réservés à l'Etat.
 
-La taxe est acquittée par la personne levant le titre de mouvement. Elle est supportée par l'acheteur et le vendeur, chacun
-pour moitié [*redevables*].
+La taxe est perçue dans les départements suivants : Aisne, Calvados, Côtes-du-Nord, Eure, Eure-et-Loir, Finistère, Ille-et-
+Vilaine, Loire-Atlantique, Loiret, Maine-et-Loire, Manche, Mayenne, Morbihan, Oise, Orne, Sarthe, Seine-Maritime, Seine-et-
+Marne, Somme et Yonne.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Cite**:
-
-	  - CGIAN2 358
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 360
-
-La taxe visée à l'article 358 est perçue dans les départements énoncés à l'article 3 de l'arrêté du 12 août 1968 modifiant
-l'article 6 de l'arrêté du 16 septembre 1955 relatif à l'organisation et au fonctionnement du comité des fruits à cidre et
-des productions cidricoles (1).
-
-1) Calvados, Eure, Manche, Orne, Seine-Maritime, Côtes-du-Nord, Finistère, Ille-et-Vilaine, Loire-Atlantique, Morbihan, Eure-
-et-Loir, Maine-et-Loire, Mayenne, Sarthe, Aisne, Loiret, Oise, Seine-et-Marne, Somme, Yonne et tous autres départements
-intéressés aux questions cidricoles.
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1955-09-16 ART. 6
-	  - Arrêté 1968-08-12 ART. 3
-	  - CGIAN2 358
+	  - CGI 358
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Décret n°82-1213 du 30 décembre 1982 - art. 2 (P) JORF 4 JANVIER 1983
 
 
 ###### Article 361
 
-Le taux de la taxe visée à l'article 358 est fixé par arrêté conjoint du ministre de l'économie et des finances et du
-ministre de l'agriculture (1) dans la limite maximum de :
+Le taux maximum de la taxe est fixé à :
 
-0,50 F par quintal de fruits à cidre et à poiré;
+0,80 F par quintal de fruits à cidre et à poiré;
 
-0,66 F par hectolitre de cidre et de poiré ou par hectolitre de moût de pommes et de poires;
+1,10 F par hectolitre de cidre et de poiré ou par hectolitre de moûts de pommes et de poires;
 
-12,50 F par hectolitre d'alcool pur pour le calvados et les eaux-de-vie de cidre et de poiré;
+20 F par hectolitre d'alcool pur pour le calvados et les eaux-de-vie de cidre et de poiré;
 
-12,50 F par hectolitre d'alcool pur pour les alcools de cidre et de poiré réservés à l'Etat.
+20 F par hectolitre d'alcool pur pour les alcools de cidre et de poiré réservés à l'Etat.
 
-1) Annexe IV, art. 159 AM.
+Un arrêté du ministre de l'économie et des finances, du ministre chargé du budget et du ministre de l'agriculture fixe dans
+la limite de ce taux maximum le taux applicable (1).
+
+(1) Annexe IV, art. 159 AM.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 358
 	  - CGIAN4 159 AM
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Décret n°82-1213 du 30 décembre 1982 - art. 5 (P) JORF 4 JANVIER 1983
 
 
 ###### Article 363 AC
