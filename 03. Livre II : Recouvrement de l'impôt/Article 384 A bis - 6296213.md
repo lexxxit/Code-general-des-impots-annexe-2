@@ -22,10 +22,8 @@ l'octroi ou le refus de l'agrément.
 
 IV. La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
 
-V. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter la valeur libératoire
-reconnue au bien offert en paiement des droits.
-
-Il fait connaître son acceptation au ministre chargé du budget, par pli recommandé avec demande d'avis de réception.
+V.  En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter par lettre simple, le
+cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert en paiement des droits.
 
 **Nota:**
 
@@ -38,9 +36,9 @@ Il fait connaître son acceptation au ministre chargé du budget, par pli recomm
 
 	  - CGI 1716 bis
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-958 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Décret n°2003-281 du 24 mars 2003 - art. 2 () JORF 29 mars 2003
 
 	**Cité par**:
 
@@ -49,4 +47,4 @@ Il fait connaître son acceptation au ministre chargé du budget, par pli recomm
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 1er janvier 2003

@@ -1,21 +1,19 @@
 # Article 310 HB sexies
 
 En ce qui concerne les opérations non soumises à agrément, l'augmentation nette des bases d'imposition est, pour
-l'application du quatrième alinéa de l'article 1465 du code général des impôts, déterminée en retenant, d'une part,
-l'investissement net, égal à la différence entre le prix de revient des immobilisations nouvelles et celui des
-immobilisations supprimées, et, d'autre part, les frais de personnel correspondant aux emplois permanents créés, ceux-ci
-étant diminués des emplois permanents supprimés.
+l'application du quatrième alinéa de l'article 1465 du code général des impôts, déterminée en retenant, l'investissement net,
+égal à la différence entre le prix de revient des immobilisations nouvelles et celui des immobilisations supprimées.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1465
-
-	**Créé par**:
-
-	  - Décret n°80-921 du 21 novembre 1980 - art. 5 (V) JORF 23 novembre 1980
+	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1465 (V)

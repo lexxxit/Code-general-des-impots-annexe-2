@@ -9,7 +9,10 @@ coupe supérieure ou égale à 1 millimètre ;
 2° Les déchets de tabac conditionnés pour la vente au détail, pour lesquels 75 % au moins en poids des particules de tabac
 présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
 
-3° Jusqu'au 31 décembre 1997, les tabacs visés au quatrième alinéa de l'article 275 E.
+3° Alinéa supprimé.
+
+4° Le tabac susceptible d'être fumé en l'état, sans transformation industrielle ultérieure, autre que celui mentionné aux 1°
+et 2° et à l'article 275 E, quel que soit son mode de présentation.
 
 **Liens relatifs à cet article**
 
@@ -17,13 +20,9 @@ présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
 
 	  - CGIAN2 275 E
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2002-1419 du 2 décembre 2002 - art. 3 () JORF 7 décembre 2002
 
 	**Cité par**:
 
@@ -31,4 +30,4 @@ présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2002-10-08
+Version Consolidée au 2003-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3037,8 +3037,7 @@ c) Activités non commerciales ;
 
 4. Les éléments utiles à l'assiette de la taxe professionnelle :
 
-a) Pour les titulaires de bénéfices industriels et commerciaux, le montant des rémunérations définies au b du 1° de l'article
-1467 du code précité ;
+a) (sans objet)
 
 b) Pour les artisans qui remplissent les conditions prévues par le 2° du I de l'article 1468 du code général des impôts, le
 nombre de salariés donnant droit à la réduction prévue audit article ;
@@ -3053,16 +3052,17 @@ nombre de salariés donnant droit à la réduction prévue audit article ;
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2006
+	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 7 () JORF 8 décembre 2005
 
 	**Modifié par**:
 
-	  - Loi - art. 10 (V) JORF 31 décembre 2000
-	  - Loi n°2000-1352 2000-12-30 art. 10 I 1° a, V Finances pour 2001 JORF 31 décembre 2000
+	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 74 V
@@ -7715,65 +7715,50 @@ s'applique le versement, le montant des sommes imposables et le montant de la ta
 
 ###### Article 161
 
-Les employeurs sont tenus de produire chaque année, au plus tard le 30 avril, une déclaration mentionnant notamment, pour
-l'année écoulée, le montant des sommes à consacrer à la participation, le montant des sommes employées à ce titre et les
-modalités suivant lesquelles cet emploi a été réalisé. Cette déclaration est remise, en double exemplaire, au service des
-impôts chargé de l'établissement éventuel de la cotisation prévue à l'article 235 bis du code général des impôts.
-
-A la déclaration est annexé un état faisant apparaître la répartition de la participation entre les différents établissements
-des entreprises.
-
-Les modalités de la déclaration sont déterminées par décret (1).
-
-**Nota:**
-
-(1) Annexe III, art. 58 J.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 bis
-	  - CGIAN3 58 J
 
 	**Modifié par**:
 
-	  - Décret n°98-1022 1998-11-10 art. 3 1° JORF 13 novembre 1998
-
-	**Abrogé par**:
-
+	  - Décret n°2002-1120 du 2 septembre 2002 - art. 1 () JORF 4 septembre 2002
 	  - Décret n°2002-1120 du 2 septembre 2002 - art. 2 () JORF 4 septembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. D133-9-1 (Ab)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R313-3
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 162
 
-La cotisation prévue à l'article 235 bis du code général des impôts est établie et recouvrée dans les conditions et sous les
-sanctions prévues pour l'assiette et le recouvrement de l'impôt sur le revenu frappant les bénéfices industriels et
-commerciaux d'après le régime du bénéfice réel.
+Conformément aux dispositions de l'article R. 313-5 du code de la construction et de l'habitation, la cotisation prévue à
+l'article 235 bis du code général des impôts est recouvrée selon les modalités et sous les sûretés, garanties et sanctions
+applicables aux taxes sur le chiffre d'affaires.
 
 Toutefois, la commission départementale des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 du
-code général des impôts n'est pas appelée à intervenir dans la procédure de rectification de la déclaration prévue à
-l'article 161 ci-dessus.
+code général des impôts n'est pas appelée à intervenir dans la procédure de rectification de la déclaration mentionnée à
+l'article 161.
 
-Cette cotisation est due au titre de l'année à la fin de laquelle a expiré le délai d'un an prévu à l'article 235 bis
-susmentionné. Elle est établie sous une cote unique au nom de chaque redevable au siège de la direction des entreprises ou, à
-défaut, au lieu du principal établissement. Toutefois, s'il s'agit d'un employeur passible de l'impôt sur les sociétés, la
-cotisation est établie au siège du principal établissement.
+Cette cotisation est due au titre de l'année à la fin de laquelle a expiré le délai d'un an prévu à l'article 235 bis du code
+général des impôts. Le versement de la cotisation doit accompagner le dépôt de la déclaration prévue à l'article 161.
 
-Les dispositions de l'article L. 169 A du livre des procédures fiscales relatif au délai de reprise sont applicables. La
-cotisation est immédiatement exigible.
+Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires après avis du
+directeur départemental de l'équipement.
 
-La procédure pour la présentation, l'instruction et le jugement des réclamations concernant cette cotisation est celle
-relative à l'impôt sur le revenu.
+Les agents chargés des vérifications prévues à l'article L. 313-6 du code de la construction et de l'habitation doivent avoir
+au moins le grade de contrôleur pour ceux du ministère chargé des finances et être de grade équivalent pour ceux du ministère
+chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -7781,52 +7766,55 @@ relative à l'impôt sur le revenu.
 
 	  - CGI 235 bis, 1651
 	  - CGIAN2 161
-	  - Livre des procédures fiscales - art. L169 A (M)
+	  - Code de la construction et de l'habitation R313-5, L313-6
+	  - Code de la construction et de l'habitation. - art. L313-6 (M)
 
-	**Abrogé par**:
+	**Modifié par**:
 
+	  - Décret n°2002-1120 du 2 septembre 2002 - art. 1 () JORF 4 septembre 2002
 	  - Décret n°2002-1120 du 2 septembre 2002 - art. 2 () JORF 4 septembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er septembre 1982
+	  - HISTO: Edition 2003-01-01
 
 
 ###### Article 163
 
-En cas de cession ou de cessation d'entreprise, la cotisation due à raison de la fraction des sommes non encore employées
-afférentes aux rémunérations versées au cours de l'année de cession ou de cessation et de l'année précédente est
-immédiatement établie au taux prévu à l'article L 313-1 du code de la construction et de l'habitation.
-
-Dans ce cas, la déclaration prévue à l'article 161 est annexée à la déclaration souscrite en application des articles 201,
-202 ou au 2 de l'article 221 du code général des impôts.
+Conformément aux dispositions de l'article R. 313-6 du code de la construction et de l'habitation, en cas de cession, de
+cessation, de redressement ou de liquidation judiciaire de l'entreprise, les déclarations afférentes à l'année en cours et à
+l'année précédente doivent être souscrites dans les soixante jours de la cession, de la cessation ou du jugement.
 
 Toutefois, le nouvel exploitant peut prendre à sa charge l'obligation incombant à l'ancien exploitant. L'engagement est
 annexé à la déclaration prévue à l'article 161.
 
 Les dispositions ci-dessus sont également applicables en cas de décès de l'employeur. Dans ce cas, la déclaration est
-souscrite par les ayants droit du défunt dans le délai prévu au 4 de l'article 201 du code général des impôts. Elle est
-accompagnée, s'il y a lieu, de l'engagement du nouvel exploitant.
+souscrite par les ayants droit du défunt dans les six mois du décès. Elle est accompagnée, s'il y a lieu, de l'engagement du
+nouvel exploitant.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 201 4, 202, 221 2
 	  - CGIAN2 161
-	  - Code de la construction L313-1
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
+	  - Code de la construction et de l'habitation R313-6
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, V JORF 3 juillet 1998
-
-	**Abrogé par**:
-
+	  - Décret n°2002-1120 du 2 septembre 2002 - art. 1 () JORF 4 septembre 2002
 	  - Décret n°2002-1120 du 2 septembre 2002 - art. 2 () JORF 4 septembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 #### Chapitre VI ter : Participation des employeurs au développement de la formation professionnelle continue
@@ -9143,358 +9131,6 @@ artisanales soit par les personnes physiques ou morales exerçant une activité 
 	  - CGIAN2 171 E
 
 
-##### VI : Déduction fiscale pour investissement
-
-###### Article 171 AA
-
-Pour bénéficier de la déduction à raison de l'acquisition d'un bien pris en location à l'état neuf, l'entreprise locataire
-fournit à l'appui de l'état prévu à l'article 171 X une attestation délivrée par le vendeur. Cette attestation indique la
-nature du bien, certifie que ce dernier a été donné en location à l'entreprise à l'état neuf et sans discontinuité et précise
-que l'opération entraîne l'obligation pour lui de procéder à la réintégration de la déduction dans les conditions prévues à
-l'article 244 quindecies du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 quindecies
-	  - CGIAN2 171 X
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°2003-298 2003-03-31
-
-	**Créé par**:
-
-	  - Décret n°81-17 1981-01-11 art. 11 JORF 11 janvier 1981
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-	  - HISTO: Edition du 1er janvier 2003
-
-
-###### Article 171 Q
-
-La date de réalisation des investissements donnant droit, selon le cas, à la déduction fiscale de 10 ou 15 % prévue à
-l'article 244 undecies du code général des impôts s'entend, pour les biens achetés, de la date à laquelle l'entreprise en est
-devenue propriétaire ou, en cas de réserve de propriété au profit du fournisseur, de la date de livraison du bien. Pour les
-biens créés par l'entreprise, la date de réalisation est celle à laquelle leur fabrication est achevée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 undecies
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 1982-12-29 art. 71 3 Finances pour 1983 JORF 30 décembre 1982, en vigueur le 1er janvier 1983
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-	  - Décret n°82-881 1982-10-15
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 1er septembre 1982
-
-
-###### Article 171 R
-
-Pour le calcul de la déduction prévue par l'article 171 Q, les biens sont retenus pour leur prix de revient déterminé
-conformément aux dispositions de l'article 229 et de l'article 38 quinquies de l'annexe III au code général des impôts.
-
-Pour les biens créés par l'entreprise dont la fabrication était en cours le 31 décembre 1980, le prix de revient est diminué
-de la valeur desdits biens telle qu'elle a été déterminée au 31 décembre 1980, si l'entreprise n'a pas renoncé pour 1980 à
-l'aide prévue par l'article 1er de la loi n° 79-525 du 3 juillet 1979 relative au soutien de l'investissement productif
-industriel.
-
-Dans le cas contraire, le prix de revient des biens dont la fabrication commencée avant le 31 décembre 1979 n'était pas
-encore achevée au 1er octobre 1980 est diminué de leur valeur déterminée au 31 décembre 1979.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 171 Q
-	  - CGIAN3 229, 38 quinquies
-	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
-
-	**Créé par**:
-
-	  - Décret n°81-17 du 10 janvier 1981 - art. 2 (V) JORF 11 janvier 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 1er juillet 1981
-
-
-###### Article 171 S
-
-Les entreprises créées en 1978 et en 1979 ne peuvent bénéficier de l'aide à l'investissement instituée par la loi n° 79-525
-du 3 juillet 1979 relative au soutien de l'investissement productif industriel pour les périodes mentionnées à l'article 4 du
-décret n° 79-866 du 4 octobre 1979 fixant les conditions d'application de la loi n° 79-525 du 3 juillet 1979 que si, ayant au
-cours des mêmes périodes réalisé des investissements qui donnent lieu à la déduction instituée par l'article 244 undecies du
-code général des impôts, elles renoncent, pour ces investissements, à ladite déduction.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 undecies
-	  - Loi n°79-525 1979-07-03
-	  - Décret n°79-866 du 4 octobre 1979 - art. 4 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 1er juillet 1981
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-
-	**Créé par**:
-
-	  - Décret n°81-17 du 10 janvier 1981 - art. 3 (V) JORF 11 janvier 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°2003-298 2003-03-31
-
-
-###### Article 171 T
-
-En cas de cession totale ou partielle d'une entreprise, le cessionnaire qui remplit les conditions fixées par l'article 244
-terdecies du code général des impôts peut, en contrepartie de la réintégration effectuée par le cédant en vertu de l'article
-244 quindecies du même code, pratiquer la déduction au titre des biens transmis. Cette déduction est calculée sur le prix de
-cession des biens ; elle est limitée à la réintégration effectuée par le cédant.
-
-Si un des biens compris dans la cession mentionnée au premier alinéa est ultérieurement cédé, le délai de cinq ans prévu à
-l'article 244 quindecies précité court à compter de la date de la création ou de l'acquisition à l'état neuf de ce bien.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 terdecies, 244 quindecies
-
-	**Créé par**:
-
-	  - Décret n°81-17 du 10 janvier 1981 - art. 4 (V) JORF 11 janvier 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 1er juillet 1981
-
-
-###### Article 171 U
-
-Pour l'application de l'article 244 undecies du code général des impôts, sont regardées comme des investissements de
-l'entreprise locataire les acquisitions de biens réalisées à son profit à compter du 1er janvier 1981 par les sociétés de
-crédit-bail régies par la loi n° 66-455 du 2 juillet 1966 modifiée relative aux entreprises pratiquant le crédit-bail.
-
-Il en va de même des acquisitions de biens réalisées au profit de l'entreprise locataire du 1er octobre au 31 décembre 1980
-par ces mêmes sociétés lorsqu'elles renoncent, selon les modalités prévues à l'article 171 Z, à les prendre en compte pour le
-calcul de la déduction instituée par l'article 1er de la loi n° 79-525 du 3 juillet 1979 relative au soutien de
-l'investissement productif industriel.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 undecies
-	  - CGIAN2 171 Z
-	  - Loi n°66-455 1966-07-02
-	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 4 juillet 1992
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-
-	**Modifié par**:
-
-	  - Loi n°89-1008 du 31 décembre 1989 - art. 2 () JORF 2 janvier 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-	  - Décret n°2003-298 2003-03-31
-
-
-###### Article 171 V
-
-En cas de résiliation d'un contrat de crédit-bail, sans rachat du bien loué, avant l'expiration d'un délai de cinq ans ou de
-restitution du bien loué dans le même délai, à l'expiration de la période de location, l'entreprise locataire doit rapporter
-au résultat imposable de l'exercice au cours duquel a lieu l'opération une somme égale, selon le cas, à 10 ou 15 % du prix de
-revient du bien loué, diminué du montant des amortissements que l'entreprise aurait pu pratiquer si elle avait été
-propriétaire de ce bien.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-	  - Décret n°83-899 1983-10-06
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-	  - HISTO: Edition du 10 juillet 1983
-	  - HISTO: Edition du 1er janvier 2003
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 1982-12-29 art. 71 3 Finances pour 1983 JORF 30 décembre 1982 en vigueur le 1er janvier 1983
-
-
-###### Article 171 W
-
-En cas de cession d'une immobilisation dont l'acquisition par l'entreprise qui en était locataire a donné droit à la
-déduction en vertu du troisième alinéa de l'article 244 quindecies du code général des impôts, le délai de régularisation de
-cinq ans prévu au deuxième alinéa du même article court à compter de la date de la création ou de l'acquisition du bien par
-le bailleur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 quindecies
-
-	**Créé par**:
-
-	  - Décret n°81-17 du 10 janvier 1981 - art. 7 (V) JORF 11 janvier 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-	  - HISTO: Edition du 1er janvier 2003
-
-
-###### Article 171 X
-
-Les entreprises qui pratiquent la déduction joignent à la déclaration de leurs résultats un état dont le modèle est fixé par
-l'administration. Cet état fait apparaître, pour chaque bien dont la valeur entre dans la base de calcul de la déduction, la
-date d'acquisition ou de création, la nature du bien, son prix de revient et le montant de déduction à laquelle son
-acquisition ou sa création ouvre droit au titre de l'exercice considéré ainsi que, s'il s'agit d'un bien acquis ou loué, la
-désignation du fournisseur ou du bailleur et le numéro et la date de la facture.
-
-La déduction pratiquée par une entreprise à raison des investissements qu'elle a réalisés du 1er octobre au 31 décembre 1980
-emporte renonciation à l'aide prévue par l'article 1er de la loi n° 79-525 du 3 juillet 1979 relative au soutien de
-l'investissement productif industriel.
-
-Lorsqu'une entreprise créée en 1978 ou en 1979 prend en compte pour le calcul de l'aide prévue par la loi précitée des
-investissements susceptibles de donner lieu à la déduction instituée par l'article 244 undecies du code général des impôts,
-elle est réputée renoncer au bénéfice de cette déduction pour les investissements en cause.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 undecies
-	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
-
-	**Créé par**:
-
-	  - Décret n°81-17 du 10 janvier 1981 - art. 8 (V) JORF 11 janvier 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-	  - HISTO: Edition du 1er janvier 2003
-
-
-###### Article 171 Y
-
-Pour bénéficier, conformément à l'article 171 T, de la déduction à raison de l'acquisition de biens transmis dans le cadre
-d'une cession totale ou partielle d'entreprise, l'acquéreur doit fournir, à l'appui de l'état prévu à l'article 171 X, une
-attestation délivrée par le cédant. Cette attestation indique la nature des biens transmis, leur date de création ou
-d'acquisition, le prix de cession et le montant de la réintégration effectuée par le cédant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 171 T, 171 X
-
-	**Créé par**:
-
-	  - Décret n°81-17 du 10 janvier 1981 - art. 9 (V) JORF 11 janvier 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-	  - HISTO: Edition du 1er janvier 2003
-
-
-###### Article 171 Z
-
-Pour bénéficier de la déduction à raison de leurs investissements financés par voie de crédit-bail, les entreprises
-locataires fournissent à l'appui de l'état prévu à l'article 171 X une attestation délivrée par la société de crédit-bail.
-Cette attestation indique la nature du bien loué, sa date d'acquisition et la valeur d'origine pour laquelle il est inscrit
-au bilan de la société bailleresse.
-
-Pour les investissements réalisés du 1er octobre au 31 décembre 1980, la délivrance de l'attestation prévue au premier alinéa
-emporte renonciation des sociétés de crédit-bail à prendre en compte les biens correspondants pour le calcul de l'excédent
-net d'investissement donnant droit à la déduction instituée par l'article 1er de la loi n° 79-525 du 3 juillet 1979 relative
-au soutien de l'investissement productif industriel.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 171 X
-	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
-
-	**Créé par**:
-
-	  - Décret n°81-17 du 10 janvier 1981 - art. 10 (V) JORF 11 janvier 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
-	  - HISTO: Edition du 1er janvier 2003
-
-
 ##### VII : Souscription de parts de copropriété de navires
 
 ###### Article 171 AB
@@ -10086,6 +9722,52 @@ du 3° septies de cet article, l'état inclut les réserves distribuables consti
 	**Créé par**:
 
 	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+
+
+##### VII ter : Fonds communs de placement à risques
+
+###### Article 171 AT
+
+Le porteur de parts, personne physique, d'un fonds commun de placement à risques informe la société de gestion du fonds des
+engagements pris en application de l'article 163 quinquies B du code général des impôts lors de la souscription des parts du
+fonds et des modalités retenues pour le réinvestissement prévu au 2° du II de ce même article, ainsi que de la cession de
+parts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quinquies B
+
+	**Créé par**:
+
+	  - Décret n°2002-1503 du 23 décembre 2002 - art. 2 () JORF 26 décembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 171 AU
+
+Pour les sociétés mentionnées au 1° bis de l'article 163 quinquies B du code général des impôts, la condition relative à
+l'exclusivité de l'objet est remplie lorsque les parts, actions, obligations remboursables, obligations convertibles ou
+titres participatifs émis par des sociétés dont les titres sont éligibles au quota mentionné au 1° du même article, ainsi que
+les avances en comptes courants à ces sociétés, représentent 90 % de leur actif.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quinquies B
+
+	**Créé par**:
+
+	  - Décret n°2002-1503 du 23 décembre 2002 - art. 2 () JORF 26 décembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### VIII : Réductions d'impôts pour l'achat de biens culturels
@@ -12187,31 +11869,39 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 ###### Article 236
 
-A titre temporaire, la taxe sur la valeur ajoutée qui a grevé les dépenses de logement, de restaurant, de réception et de
-spectacles est exclue du droit à déduction.
+La taxe sur la valeur ajoutée qui a grevé les dépenses supportées par les entreprises pour assurer le logement de leurs
+dirigeants et de leur personnel est exclue du droit à déduction.
 
 Toutefois, cette exclusion n'est pas applicable :
 
-1° Aux dépenses supportées par un assujetti relatives à la fourniture à titre onéreux par cet assujetti de logements, de
-repas, d'aliments ou de boissons ;
+1° Aux dépenses supportées par un assujetti relatives à la fourniture à titre onéreux de logements par cet assujetti ;
 
 2° Aux dépenses relatives à la fourniture à titre gratuit du logement sur les chantiers ou dans les locaux d'une entreprise
-du personnel de sécurité, de gardiennage ou de surveillance ;
+du personnel de gardiennage, de sécurité ou de surveillance.
 
-3° Aux dépenses supportées par un assujetti du fait de la mise en jeu de sa responsabilité contractuelle ou légale à l'égard
-de ses clients.
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°89-885 du 14 décembre 1989 - art. 4 (V) JORF 15 décembre 1989
+	  - Décret n°2002-1466 du 12 décembre 2002 - art. 1 () JORF 19 décembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 1er janvier 2003
 	  - TXT_ASSOCIE: Instruction 2000-11-13 3D-2-00
 	  - TXT_ASSOCIE: Instruction 2002-07-15 3D-3-02
+
+	**Codifié par**:
+
+	  - L'abrogation sera codifiée ultérieurement
 
 
 ###### Article 237
@@ -12312,40 +12002,6 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 	**Codifié par**:
 
 	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 240 A
-
-La taxe sur la valeur ajoutée ayant grevé les biens et les services que les assujettis à cette taxe acquièrent ou qu'ils se
-livrent à eux-mêmes en exécution :
-
-a. Du livre IX du code du travail relatif à la formation professionnelle continue ;
-
-b. De la loi n° 71-578 du 16 juillet 1971 sur la participation des employeurs au financement des premières formations
-technologiques et professionnelles (J.O. du 17), est déductible, lorsqu'elle n'est pas afférente à des frais d'hébergement,
-de nourriture ou de transport sous réserve des dispositions des deuxième à cinquième alinéas de l'article 236 et du deuxième
-alinéa de l'article 240.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 236,240
-	  - Code du travail L900-1 à L990-8
-	  - Loi n°71-578 1971-07-16
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2002-1466 du 12 décembre 2002 - art. 2 (V) JORF 19 décembre 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article 241
@@ -15543,24 +15199,21 @@ rédaction d'un rapport qui est communiqué à ce fabricant.
 ###### Article 275 ter L
 
 Il est institué un comité consultatif de la garantie publique composé des représentants des organismes de contrôle agréés,
-des organisations professionnelles représentatives des fabricants, de la direction générale des douanes et droits indirects
-et de la direction générale de l'industrie, des technologies de l'information et des postes. Ce comité peut être consulté par
-les ministres chargés du budget et de l'industrie sur les problèmes techniques liés au contrôle des titres et à l'apposition
-des poinçons de titre. Un arrêté conjoint de ces ministres en précise la composition et les modalités de fonctionnement.
+des organisations professionnelles représentatives des fabricants, de la direction générale des douanes et droits indirects,
+de la direction générale de l'industrie, des technologies de l'information et des postes et de la direction générale de la
+concurrence, de la consommation et de la répression des fraudes. Ce comité peut être consulté par les ministres chargés du
+budget et de l'industrie sur les problèmes techniques liés au contrôle des titres et à l'apposition des poinçons de titre. Un
+arrêté conjoint de ces ministres en précise la composition et les modalités de fonctionnement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°98-979 du 2 novembre 1998 - art. 1 () JORF 3 novembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2003-41 2003-01-08 art. 1 JORF 15 janvier 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 275 ter M
@@ -15713,21 +15366,22 @@ Sont considérés comme cigares ou cigarillos, s'ils sont susceptibles d'être f
 
 2° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ;
 
-3° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares et d'une sous-cape, toutes deux en tabac
-reconstitué lorsque au moins 60 % en poids des particules de tabac ont une largeur et une longueur supérieures à 1,75
-millimètre et lorsque la cape est apposée en hélice avec un angle aigu minimal de 30 degrés par rapport à l'axe longitudinal
-du cigare ;
+3° Les rouleaux de tabac remplis d'un mélange battu et munis d'une cape extérieure, de la couleur normale des cigares,
+couvrant entièrement le produit, y compris le filtre le cas échéant - mais non l'embout dans le cas des cigares avec embout -
+et d'une sous-cape, toutes deux en tabac reconstitué, lorsque leur masse unitaire, sans filtre ni embout, est égale ou
+supérieure à 1,2 gramme et que la cape est apposée en hélice avec un angle aigu minimal de trente degrés par rapport à l'axe
+longitudinal du cigare ;
 
-4° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares, en tabac reconstitué lorsque leur masse
-unitaire sans filtre ni embout est égale ou supérieure à 2,3 grammes et si au moins 60 % en poids des particules de tabac ont
-une largeur et une longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins un tiers de leur longueur est
-égal ou supérieur à 34 millimètres.
+4° Les rouleaux de tabac remplis d'un mélange battu et munis d'une cape extérieure en tabac reconstitué, de la couleur
+normale des cigares, couvrant entièrement le produit, y compris le filtre le cas échéant - mais non l'embout dans le cas des
+cigares avec embout - lorsque leur masse unitaire, sans filtre ni embout, est égale ou supérieure à 2,3 grammes et que leur
+circonférence est égale ou supérieure à trente-quatre millimètres sur au moins un tiers de leur longueur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-424 du 18 mars 1993 - art. 2 () JORF 24 mars 1993
+	  - Décret n°2002-1419 du 2 décembre 2002 - art. 1 () JORF 7 décembre 2002
 
 	**Cité par**:
 
@@ -15740,7 +15394,7 @@ une largeur et une longueur supérieures à 1,75 millimètre et que leur périm�
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 275 C
@@ -15825,11 +15479,6 @@ coupe inférieure à 1 millimètre ;
 sont susceptibles d'être fumés et pour lesquels plus de 25 % en poids des particules de tabac présentent une largeur de coupe
 inférieure à 1 millimètre.
 
-Jusqu'au 31 décembre 1997, les tabacs du type de ceux visés aux 1° et 2° pour lesquels 75 % au moins en poids des particules
-de tabac présentent une largeur de coupe supérieure ou égale à 0,8 millimètre et qui, antérieurement au 1er janvier 1993,
-n'ont pas été vendus ni destinés à être vendus pour rouler les cigarettes ne sont pas considérés comme des tabacs fine coupe
-destinés à rouler les cigarettes, mais comme des autres tabacs à fumer tels que définis à l'article 275 E bis.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -15838,7 +15487,7 @@ destinés à rouler les cigarettes, mais comme des autres tabacs à fumer tels q
 
 	**Modifié par**:
 
-	  - Décret n°93-424 du 18 mars 1993 - art. 4 () JORF 24 mars 1993
+	  - Décret n°2002-1419 du 2 décembre 2002 - art. 2 () JORF 7 décembre 2002
 
 	**Cité par**:
 
@@ -15848,7 +15497,7 @@ destinés à rouler les cigarettes, mais comme des autres tabacs à fumer tels q
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 275 E bis
@@ -15862,7 +15511,10 @@ coupe supérieure ou égale à 1 millimètre ;
 2° Les déchets de tabac conditionnés pour la vente au détail, pour lesquels 75 % au moins en poids des particules de tabac
 présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
 
-3° Jusqu'au 31 décembre 1997, les tabacs visés au quatrième alinéa de l'article 275 E.
+3° Alinéa supprimé.
+
+4° Le tabac susceptible d'être fumé en l'état, sans transformation industrielle ultérieure, autre que celui mentionné aux 1°
+et 2° et à l'article 275 E, quel que soit son mode de présentation.
 
 **Liens relatifs à cet article**
 
@@ -15870,13 +15522,9 @@ présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
 
 	  - CGIAN2 275 E
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2002-1419 du 2 décembre 2002 - art. 3 () JORF 7 décembre 2002
 
 	**Cité par**:
 
@@ -15884,7 +15532,7 @@ présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 275 F
@@ -16392,9 +16040,9 @@ de déclarations mensuelles et annuelles mentionnées à l'article 286 J.
 
 I. - 1° Pour les entrepositaires agréés produisant des produits vitivinicoles régis par le règlement (CE) n° 1493/1999 du
 Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, la comptabilité matières est constituée par les
-registres vitivinicoles prévus par le règlement (CEE) n° 2238/93 de la Commission du 26 juillet 1993 relatif aux documents
-accompagnant les transports de produits vitivinicoles et aux registres à tenir dans le secteur vitivinicole modifié par le
-règlement (CE) n° 1592/1999 de la Commission du 20 juillet 1999.
+registres vitivinicoles prévus par le règlement (CE) n° 884/2001 de la Commission du 24 avril 2001 portant modalités
+d'application relatives aux documents accompagnant les transports des produits vitivinicoles et aux registres à tenir dans le
+secteur vitivinicole.
 
 2° L'entrepositaire agréé doit remettre une copie des documents constituant la comptabilité matières aux agents des douanes
 et droits indirects, sur leur demande.
@@ -16488,22 +16136,9 @@ En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualit
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 450, 286 H, 302 D, 408, 407, 302 M, 614, 614 A
-	  - Code rural L632-1 à L632-7, L661, L662
-	  - Livre des procédures fiscales - art. L102 B (M)
-	  - Règlement CE 1493/1999 1999-05-17 (Conseil)
-	  - Règlement CE 1592/1999 1999-07-20 (Commission)
-	  - Règlement CE 2238/93 1993-07-26 (Commission)
-
-	**Modifié par**:
-
-	  - Rapport - art. 11 (V) JORF 22 juin 2000
-
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2003-298 2003-03-31
 
 	**Cité par**:
 
@@ -16521,9 +16156,21 @@ En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualit
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 G (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Y (V)
 
+	**Cite**:
+
+	  - CGI 450, 286 H, 302 D, 408, 407, 302 M, 614, 614 A
+	  - Code rural L632-1 à L632-7, L661, L662
+	  - Livre des procédures fiscales - art. L102 B (M)
+	  - Règlement CE 1493/1999 1999-05-17 (Conseil)
+	  - Règlement CE 884/2001 2001-04-24 (Commission)
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Règlement CE 884/2001 2001-04-24 art. 21 1, 2 (Commission) JO L128 10 mai 2001
 
 
 ###### Article 286 J
@@ -16533,9 +16180,9 @@ mentionnées au II de l'article 286 H, la comptabilité matières est constitué
 
 a) Soit par des documents établis conformément aux modèles prévus par arrêté du ministre chargé du budget ;
 
-b) Soit, pour les personnes concernées, par les registres vitivinicoles prévus par le règlement (CEE) n° 2238/93 de la
-Commission du 26 juillet 1993 relatif aux documents accompagnant les transports de produits vitivinicoles et aux registres à
-tenir dans le secteur vitivinicole modifié par le règlement (CE) n° 1592/1999 de la Commission du 20 juillet 1999 ;
+b) Soit, pour les personnes concernées, par les registres vitivinicoles prévus par le règlement (CE) n° 884/2001 de la
+Commission du 24 avril 2001 portant modalités d'application relatives aux documents accompagnant les transports des produits
+vitivinicoles et aux registres à tenir dans le secteur vitivinicole ;
 
 c) Soit enfin, sur agrément délivré par le directeur régional des douanes et droits indirects, en vertu de l'article 286 K :
 
@@ -16657,7 +16304,7 @@ interprofessionnels prévus notamment en application des articles L. 632-1 à L.
 
 3° Par tarif d'imposition, en volume effectif, par degré alcoométrique, pour les bières ;
 
-4° Selon les règles fixées par la réglementation communautaire, notamment par le règlement (CEE) n° 2238/93 modifié, pour les
+4° Selon les règles fixées par la réglementation communautaire, notamment par le règlement (CE) n° 884/2001, pour les
 produits vitivinicoles autres que le vin ;
 
 5° Par tarif d'imposition, par unité de produits ou en grammes, selon le cas, pour les produits mentionnés à l'article 575 A
@@ -16771,13 +16418,17 @@ En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualit
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
+	  - CGI 286 H, 286 K, 277 A, 302 G, 338, 438, 302 D, 575 A, 302 B, 450, 302 M, 614, 614 A
+	  - CGIAN1 37 à 56, 57 à 87, 71, 70
+	  - Code rural L632-1 à L632-7, L661, L662
+	  - Livre des procédures fiscales - art. L102 B (M)
+	  - Règlement CE 884/2001 2001-04-24
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2003-298 2003-03-31
 
 	**Cité par**:
 
@@ -16790,18 +16441,13 @@ En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualit
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 G (V)
 
-	**Cite**:
-
-	  - CGI 286 H, 286 K, 277 A, 302 G, 338, 438, 302 D, 575 A, 302 B, 450, 302 M, 614, 614 A
-	  - CGIAN1 37 à 56, 57 à 87, 71, 70
-	  - Code rural L632-1 à L632-7, L661, L662
-	  - Livre des procédures fiscales - art. L102 B (M)
-	  - Règlement CE 1592/1999 1999-07-20 (Commission)
-	  - Règlement CEE 2238/93 1993-07-26 (Commission)
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Règlement CE 884/2001 2001-04-24 art. 21 1, 2 (Commission) JO L128 10 mai 2001
 
 
 ###### Article 286 K
@@ -18875,42 +18521,43 @@ défini à l'annexe III au décret n° 95-149 du 6 février 1995 relatif à la p
 ###### Article 310 HB septies
 
 Lorsqu'une période d'exonération temporaire est en cours, l'entreprise peut demander l'ouverture d'une nouvelle période
-d'exonération temporaire pour les investissements et créations d'emplois répondant aux conditions nécessaires, et réalisés à
-partir de la troisième année suivant celle au cours de laquelle est intervenue l'opération ayant motivé l'exonération en
-cours.
+d'exonération temporaire pour les investissements répondant aux conditions nécessaires, et réalisés à partir de la troisième
+année suivant celle au cours de laquelle est intervenue l'opération ayant motivé l'exonération en cours.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°80-921 du 21 novembre 1980 - art. 6 (V) JORF 23 novembre 1980
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
 
 
 ###### Article 310 HB sexies
 
 En ce qui concerne les opérations non soumises à agrément, l'augmentation nette des bases d'imposition est, pour
-l'application du quatrième alinéa de l'article 1465 du code général des impôts, déterminée en retenant, d'une part,
-l'investissement net, égal à la différence entre le prix de revient des immobilisations nouvelles et celui des
-immobilisations supprimées, et, d'autre part, les frais de personnel correspondant aux emplois permanents créés, ceux-ci
-étant diminués des emplois permanents supprimés.
+l'application du quatrième alinéa de l'article 1465 du code général des impôts, déterminée en retenant, l'investissement net,
+égal à la différence entre le prix de revient des immobilisations nouvelles et celui des immobilisations supprimées.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1465
-
-	**Créé par**:
-
-	  - Décret n°80-921 du 21 novembre 1980 - art. 5 (V) JORF 23 novembre 1980
+	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1465 (V)
 
 
 ###### Article 310 HB ter
@@ -18992,10 +18639,9 @@ est appréciée en fonction des recettes.
 
 ###### Article 310 HE
 
-Les recettes servant à calculer la base d'imposition des redevables définis à l'article 310 HC s'entendent, selon le cas, de
-celles retenues pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés ; il n'est pas tenu compte des
-honoraires, courtages ou commissions rétrocédés à des tiers, lorsque ces sommes ont fait l'objet de la déclaration prévue par
-l'article 240 du code général des impôts.
+Les recettes servant à calculer la base d'imposition des redevables définis à l'article 310 HC s'entendent de celles retenues
+pour l'établissement de l'impôt sur le revenu ; il n'est pas tenu compte des honoraires, courtages ou commissions rétrocédés
+à des tiers, lorsque ces sommes ont fait l'objet de la déclaration prévue par l'article 240 du code général des impôts.
 
 Les redevables qui exercent leur activité dans plusieurs communes où ils disposent de locaux professionnels doivent déclarer
 séparément, et sous leur responsabilité, les recettes se rapportant à chacune d'elles ; à défaut de pouvoir procéder à une
@@ -19007,15 +18653,22 @@ des locaux professionnels dont ils disposent.
 	**Cite**:
 
 	  - CGI 240
-	  - CGIAN2 310 HC
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 	**Modifié par**:
 
-	  - Loi n°80-10 du 10 janvier 1980 - art. 19 (V) JORF 11 janvier 1980
+	  - Loi n°2002-1575 2002-12-30 art. 84 2° Finances pour 2003 JORF 31 décembre 2003
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 du 31 mars 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
 
 
 ###### Article 310 HF
@@ -19087,15 +18740,30 @@ locaux ou de terrains :
 1° La valeur locative des immeubles et installations situés sur le territoire national, ainsi que de leurs équipements, biens
 mobiliers et véhicules qui y sont rattachés, est intégralement prise en compte ; celle des immeubles et installations situés
 à l'étranger, ainsi que de leurs équipements, biens mobiliers et véhicules qui y sont rattachés, n'est pas prise en compte ;
-les mêmes règles valent pour les salaires versés au personnel ;
 
 2° La valeur locative de l'ensemble des véhicules dont dispose une entreprise de transport ou de pêche maritime, ainsi que de
 leurs équipements et matériel de transport, est retenue proportionnellement à la part, dans les recettes hors taxes de
 l'entreprise, de celles qui correspondent à des opérations effectuées dans les limites du territoire national et soumises à
 la taxe sur la valeur ajoutée ; toutefois, lorsque le trafic assuré par l'entreprise est principalement en provenance de
-France ou à destination de la France, la proportion retenue ne peut être inférieure au dixième ; les salaires du personnel
-affecté aux véhicules sont retenus dans les mêmes proportions.
+France ou à destination de la France, la proportion retenue ne peut être inférieure au dixième.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### IV : Disposition transitoire
@@ -19166,9 +18834,8 @@ premier alinéa ou, à défaut, dans la commune de rattachement, telle qu'elle e
 Les bases d'imposition des entreprises mentionnées à l'article 1474 du code général des impôts sont réparties entre les
 communes concernées de la manière suivante :
 
-1° Les locaux et terrains, notamment ceux des sièges sociaux, sont imposables en totalité dans la commune où ils se trouvent;
-il en va de même des salaires versés au personnel qui y est affecté et, sous réserve de l'article 310 HO, des biens et
-équipements qui y sont installés;
+1° Les locaux et terrains, notamment ceux des sièges sociaux, sont imposables en totalité dans la commune où ils se
+trouvent ; il en va de même, sous réserve de l'article 310 HO, des biens et équipements qui y sont installés ;
 
 2° Les autres bases d'imposition, y compris la valeur locative des véhicules, sont réparties dans les conditions fixées aux
 articles 310 HM, 310 HN et 310 HO.
@@ -19178,20 +18845,34 @@ articles 310 HM, 310 HN et 310 HO.
 	**Cite**:
 
 	  - CGI 1474
-	  - CGIAN2 310 HO, 310 HM, 310 HN
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 du 31 mars 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
 
 
 ###### Article 310 HM
 
-La valeur locative des véhicules des entreprises de transport ainsi que les salaires versés au personnel affecté à ces
-véhicules sont imposés dans les communes définies à l'article 310 HK.
+La valeur locative des véhicules des entreprises de transport est imposée dans les communes définies à l'article 310 HK.
 
-Ces éléments sont toutefois répartis :
+Cet élément est toutefois réparti :
 
-Lorsque la majorité des véhicules n'a pas de lieu de stationnement habituel, entre toutes les communes où l'entreprise
-dispose de locaux ou de terrains; la répartition est proportionnelle aux valeurs locatives des locaux et terrains;
+a. Lorsque la majorité des véhicules n'a pas de lieu de stationnement habituel, entre toutes les communes où l'entreprise
+dispose de locaux ou de terrains ; la répartition est proportionnelle aux valeurs locatives des locaux et terrains ;
 
-Lorsqu'il s'agit d'une entreprise d'armement maritime qui utilise habituellement plusieurs ports français, entre les
+b. Lorsqu'il s'agit d'une entreprise d'armement maritime qui utilise habituellement plusieurs ports français, entre les
 communes, proportionnellement aux effectifs de passagers et aux tonnages qui y sont embarqués ou débarqués; l'embarquement ou
 le débarquement d'un passager équivaut à celui d'une tonne de marchandises.
 
@@ -19201,16 +18882,49 @@ le débarquement d'un passager équivaut à celui d'une tonne de marchandises.
 
 	  - CGIAN2 310 HK
 
+	**Codifié par**:
+
+	  - Décret n°2003-298 du 31 mars 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
+
 
 ###### Article 310 HN
 
-Les entreprises de travaux publics sont imposées au lieu de chaque chantier, en raison des salaires versés au personnel qui y
-travaille et de la valeur locative des immobilisations qui y sont affectées; cette dernière est répartie proportionnellement
-aux salaires versés sur les différents chantiers.
+Les entreprises de travaux publics sont imposées au lieu de chaque chantier, en raison de la valeur locative des
+immobilisations qui y sont affectées ; cette dernière est répartie proportionnellement aux salaires versés sur les différents
+chantiers.
 
 Toutefois, les bases d'imposition relatives aux chantiers ayant duré moins de trois mois sont rattachées à la plus proche des
 communes où l'entreprise dispose à titre permanent de locaux ou de terrains.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 du 31 mars 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 310 HO
@@ -19271,38 +18985,12 @@ est souscrite par l'ancien exploitant.
 	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
 
 
-###### Article 310 HR
-
-La déclaration récapitulative prévue par l'article 1477 du code général des impôts est adressée au service des impôts auprès
-duquel est produite la déclaration annuelle de résultats.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1477
-
-	**Modifié par**:
-
-	  - Loi n°80-10 du 10 janvier 1980 - art. 19 (V) JORF 11 janvier 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 83 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-
-
 ##### VII : Annualité de la taxe
 
 ###### Article 310 HS
 
-Pour effectuer les corrections à apporter à la valeur locative des immobilisations et au montant des salaires, en application
-des II à V de l'article 1478 du code général des impôts, tout mois commencé est considéré comme un mois entier.
+Pour effectuer les corrections à apporter à la valeur locative des immobilisations en application des II à V de l'article
+1478 du code général des impôts, tout mois commencé est considéré comme un mois entier.
 
 Cette règle est également applicable à la détermination des recettes prises en compte.
 
@@ -19310,15 +18998,15 @@ Cette règle est également applicable à la détermination des recettes prises 
 
 	**Cite**:
 
-	  - CGI 1478 III à V
+	  - CGI 1478
 
 	**Modifié par**:
 
-	  - Loi n°80-10 du 10 janvier 1980 - art. 19 (V) JORF 11 janvier 1980
+	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
 
 	**Cité par**:
 
@@ -19326,7 +19014,7 @@ Cette règle est également applicable à la détermination des recettes prises 
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 310 HT
@@ -22213,412 +21901,53 @@ limite du montant maximum le montant de la taxe applicable à chaque catégorie 
 
 ###### Article 361 bis
 
-I. Il est institué pour les campagnes 1997-1998 à 2001-2002 une taxe parafiscale au profit des organismes interprofessionnels
-de vins mentionnés à l'article 1er du décret n° 97-1003 du 30 octobre 1997.
+I. - Il est institué pour la campagne 2002-2003 et pour la campagne 2003-2004 jusqu'au 31 décembre 2003 une taxe parafiscale
+au profit des organismes mentionnés à l'article 1er du décret n° 2002-1629 du 31 décembre 2002.
 
-Cette taxe est destinée à couvrir les dépenses afférentes aux actions d'intérêt interprofessionnel conduites par ces
-organismes ainsi que leurs frais de fonctionnement.
+Cette taxe est destinée à couvrir les dépenses afférentes aux actions d'intérêt interprofessionnel conduites par les
+organismes mentionnés au premier alinéa ainsi que leurs frais de fonctionnement.
 
-II. La taxe est due lors de la délivrance du titre de mouvement légitimant la sortie de chez le producteur des vins
-d'appellation d'origine produits dans la circonscription territoriale de l'organisme bénéficiaire.
+II. - La taxe parafiscale est due lors de la délivrance du titre de mouvement légitimant la sortie de chez le producteur des
+vins d'appellation d'origine produits dans la circonscription territoriale de l'organisme bénéficiaire.
 
-Elle est assise sur le volume des vins mentionné sur le titre de mouvement.
+Elle est assise sur le volume des vins mentionnés sur le titre de mouvement.
 
 Elle est acquittée par la personne levant le titre de mouvement ; s'il s'agit d'un viticulteur, celui-ci facture le montant
 de la taxe à l'acheteur afin d'en obtenir le remboursement.
 
-III. Les dispositions des I et II ne sont pas applicables aux vins à appellation d'origine mentionnés à l'article 3 du décret
-n° 97-1003 du 30 octobre 1997.
+III. - Les dispositions des I et II ne sont pas applicables aux vins à appellation d'origine mentionnés à l'article 3 du
+décret n° 2002-1629 du 31 décembre 2002.
 
-IV. La taxe est perçue, pour le compte de chacun des organismes, par les receveurs locaux des douanes.
+IV. - La taxe parafiscale est perçue, pour le compte de chacun des organismes, par les receveurs locaux des douanes.
 
-L'administration reverse aux organismes bénéficiaires le montant de la taxe après déduction, dans les conditions
-réglementaires, des frais d'assiette et de perception.
+L'administration reverse aux organismes bénéficiaires le montant de la taxe après déduction dans les conditions
+réglementaires des frais d'assiette et de perception.
 
-V. Le montant maximum de la taxe est fixé à 0,76 euros par hectolitre.
+V. - Le montant maximum de la taxe est fixé à 0,76 Euros par hectolitre.
 
-Un arrêté conjoint des ministres chargés de l'économie, du budget et de l'agriculture fixe le montant applicable dans la
+Un arrêté conjoint des ministres chargés de l'économie, de l'agriculture et du budget fixe le montant applicable dans la
 limite du montant maximum.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°97-1003 du 30 octobre 1997 - art. 1 (V)
-	  - Décret n°97-1003 du 30 octobre 1997 - art. 3 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
 	**Modifié par**:
 
-	  - Règlement CE 1103/97 1997-06-17 art. 5 JO L162 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement CE 2866/98 1998-12-31 art. 1 JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement CE 974/98 1998-05-03 art. 14 JO L139 11 mai 1998 en vigueur le 1er janvier 2002
-
-
-#### Chapitre IX : Fonds national de développement agricole
-
-##### Section I : Taxe parafiscale sur certaines viandes.
-
-###### Article 363 D
-
-I. - Il est institué, à compter du 1er janvier 2001 et jusqu'au 31 décembre 2003, une taxe parafiscale sur les viandes de
-veau, boeuf, mouton, porc, volailles, animaux de l'espèce cunicole, de l'espèce caprine et animaux des espèces chevaline et
-asine et de leurs croisements, perçue au profit de l'Association nationale pour le développement agricole, pour être versée
-au Fonds national de développement agricole. Cette taxe n'est perçue que sur les viandes provenant d'animaux d'origine
-française au sens de l'article 23 du code des douanes communautaire.
-
-II. - La taxe est à la charge de l'agriculteur ou de l'éleveur dernier propriétaire de l'animal. Elle est acquittée lors de
-la présentation de cet animal à l'abattage. Toutefois, en cas d'abattage à façon, la taxe est acquittée par le tiers abatteur
-pour le compte du propriétaire.
-
-La taxe est perçue dans les établissements d'abattage publics et privés sur les abattages opérés en vue de la vente.
-
-III. - Le montant maximum de la taxe est fixé à :
-
-a) 8,34 euros par tonne pour les viandes des animaux des espèces bovine et ovine, des espèces chevaline et asine et de leurs
-croisements et les viandes de poules de réforme ;
-
-b) 6,31 euros par tonne pour les viandes des animaux de l'espèce porcine ;
-
-c) 4,37 euros par tonne pour les viandes des animaux des espèces caprine et cunicole ;
-
-d) 4,37 euros par tonne pour les viandes de dinde, de canard, de pintade et d'oie labellisées ;
-
-e) 3,22 euros par tonne pour les viandes de poulet et coq labellisées ;
-
-f) 3,22 euros par tonne pour les viandes de canard, de pintade et d'oie non labellisées ;
-
-g) 1,85 euro par tonne pour les viandes de dinde non labellisées ;
-
-h) 1,67 euro par tonne pour les viandes de poulet et coq non labellisées.
-
-Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre chargé du budget
-fixe, chaque année, dans les limites prévues ci-dessus, les montants de la taxe.
-
-IV. - La taxe est constatée et recouvrée par la direction générale des impôts suivant les règles et sous les garanties,
-privilèges et sanctions prévus en matière de taxe à la valeur ajoutée.
-
-La taxe est perçue par le service des impôts dans tous les établissements où il est procédé à l'abattage des animaux.
-
-Elle est assise sur le poids de viande fraîche net, tel qu'il est défini à l'article 111 quater LA de l'annexe III au code
-général des impôts. Pour la liquidation de la taxe, sont applicables les dispositions des articles 111 quater G et 111 quater
-I de l'annexe III précitée.
-
-**Liens relatifs à cet article**
+	  - Décret n°2002-1629 du 31 décembre 2002 - art. 1 (V) JORF 3 janvier 2003
 
 	**Cite**:
 
-	  - CGIAN3 111 quater LA, 111 quater G, 111 quater I
-	  - Code des douanes - art. 23 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2000-1339 du 26 décembre 2000 - art. 1 (Ab) JORF 30 décembre 2000
+	  - Décret n°2002-1629 du 31 décembre 2002 - art. 1, v. init.
+	  - Décret n°2002-1629 du 31 décembre 2002 - art. 3, v. init.
 
 	**Codifié par**:
 
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2004-304 2004-03-26
 
 	**Liens**:
 
+	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
 	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2001
-	  - TXT_ASSOCIE: Instruction 2000-01-31 3Q-1-00
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C I Finances rectificative pour 2002 JORF 31 décembre 2002
-
-
-##### Section I bis : Taxe parafiscale forfaitaire sur les activités agricoles.
-
-###### Article 363 DA
-
-I. - A compter du 1er janvier 2001 et jusqu'au 31 décembre 2003, il est institué une taxe parafiscale forfaitaire due par les
-exploitants agricoles au titre de leurs activités agricoles. Les exploitants agricoles placés sous le régime du remboursement
-forfaitaire agricole mentionné aux articles 298 quater et 298 quinquies du code général des impôts sont exonérés de la taxe.
-
-Cette taxe est perçue au profit de l'Association nationale pour le développement agricole pour être versée au Fonds national
-de développement agricole.
-
-II. - La taxe est fixée forfaitairement dans la limite de 92 euros.
-
-Pour les groupements agricoles d'exploitation en commun, le montant de la taxe est égal au montant forfaitaire fixé
-conformément aux dispositions du présent II, multiplié par le nombre d'associés.
-
-III. - Pour les exploitants agricoles imposés à la taxe sur la valeur ajoutée selon le régime simplifié mentionné à l'article
-298 bis du code général des impôts, la taxe est liquidée sur la déclaration annuelle mentionnée à cet article ou, le cas
-échéant, sur l'annexe à la déclaration trimestrielle prévue au deuxième alinéa du I de l'article 1693 bis du même code,
-déposée au titre du premier trimestre de l'année au titre de laquelle la taxe est due.
-
-Pour les exploitants agricoles qui ont été autorisés à soumettre l'ensemble de leurs opérations au régime de droit commun de
-la taxe sur la valeur ajoutée, la taxe est liquidée sur l'annexe de la déclaration des opérations du premier trimestre ou du
-mois de mars de l'année au titre de laquelle la taxe est due, déposée en application de l'article 287 du code général des
-impôts.
-
-La taxe est acquittée au plus tard à la date limite prévue pour le dépôt de ces déclarations.
-
-IV. - La taxe est recouvrée et contrôlée par la direction générale des impôts selon les mêmes règles, sous les mêmes
-garanties, privilèges et sanctions qu'en matière de taxe sur la valeur ajoutée.
-
-V. - Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre chargé du budget
-fixe, dans les limites déterminées au II, le montant de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 298 quater, 298 quinquies, 298 bis, 1693 bis, 287
-
-	**Modifié par**:
-
-	  - Décret n°2000-1344 du 26 décembre 2000 - art. 1 (Ab) JORF 30 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2001
-	  - TXT_ASSOCIE: Instruction 2000-01-31 3Q-1-00
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C I Finances rectificative pour 2002 JORF 31 décembre 2002
-
-
-##### Section I ter : Taxe parafiscale sur les produits de l'horticulture florale, ornementale et des pépinières.
-
-###### Article 363 DB
-
-I. - Il est institué, à compter du 1er janvier 2001 jusqu'au 31 décembre 2003, une taxe parafiscale sur les produits non
-comestibles de l'horticulture florale, ornementale et des pépinières perçue au profit de l'Association nationale pour le
-développement agricole, pour être versée au Fonds national de développement agricole.
-
-Sont soumis à cette taxe parafiscale les oignons, bulbes, tubercules, rhizomes et griffes, les plantes ornementales vertes et
-fleuries, les feuillages et fleurs coupées, les plans d'arbres fruitiers ornementaux et forestiers.
-
-Sont exonérés les semences des espèces florales, ornementales et fruitières et les bois et plants de vigne.
-
-II. - La taxe est due par les producteurs de produits mentionnés au I en activité au 1er janvier de l'année d'imposition, à
-l'exception de ceux placés sous le régime du remboursement forfaitaire agricole, mentionné aux articles 298 quater et 298
-quinquies du code général des impôts, au titre de cette activité.
-
-III. - La taxe est assise sur le montant hors taxes des recettes encaissées au cours de l'année civile précédente afférentes
-aux ventes de produits mentionnés au I.
-
-IV. - Le taux maximum de la taxe est fixé à 2,50 pour mille du montant des recettes mentionnées au III.
-
-Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre chargé du budget
-fixe, dans les limites prévues au IV, le taux de la taxe.
-
-V. - Pour les producteurs imposés à la taxe sur la valeur ajoutée selon le régime simplifié mentionné à l'article 298 bis du
-code général des impôts, la taxe est liquidée sur la déclaration annuelle prévue à cet article ou, le cas échéant, sur
-l'annexe à la déclaration trimestrielle prévue au deuxième alinéa du I de l'article 1693 bis du même code, déposée au titre
-du premier trimestre de l'année au titre de laquelle la taxe est due.
-
-Pour les producteurs qui ont été autorisés à soumettre l'ensemble de leurs opérations au régime du droit commun de la taxe
-sur la valeur ajoutée, la taxe est liquidée sur l'annexe à la déclaration des opérations du premier trimestre ou du mois de
-mars de l'année au titre de laquelle la taxe est due, déposée en application de l'article 287 du code général des impôts.
-
-La taxe est acquittée au plus tard à la date limite prévue pour le dépôt des déclarations mentionnées aux premier et deuxième
-alinéas.
-
-VI. - La taxe est recouvrée et contrôlée par la direction générale des impôts selon les mêmes règles, sous les mêmes
-garanties, privilèges et sanctions qu'en matière de taxe sur la valeur ajoutée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 298 quater, 298 quinquies, 298 bis, 1693 bis, 287
-
-	**Modifié par**:
-
-	  - Décret n°2000-1343 du 26 décembre 2000 - art. 1 (Ab) JORF 30 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2001
-	  - TXT_ASSOCIE: Instruction 2000-01-31 3Q-1-00
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C I Finances rectificative pour 2002 JORF 31 décembre 2002
-
-
-##### Section II : Taxe parafiscale sur les vins.
-
-###### Article 363 E
-
-I. - Il est institué, à compter du 1er janvier 2001 et jusqu'au 31 décembre 2003, une taxe parafiscale sur les vins, perçue
-au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds national de développement
-agricole.
-
-II. - La taxe est due par les producteurs au moment de la délivrance du titre de mouvement permettant l'enlèvement des vins à
-la propriété ou par les négociants vinificateurs lors de la déclaration de production. Ces derniers ont la possibilité d'en
-retenir le montant sur le prix des raisins ou des moûts utilisés pour ces fabrications, à l'exclusion des acquisitions
-intracommunautaires de raisin et de moût.
-
-III. - Le montant maximum de la taxe est fixé à :
-
-a) 0,46 euros par hectolitre pour les vins d'appellation d'origine contrôlée ;
-
-b) 0,30 euros par hectolitre pour les vins délimités de qualité supérieure ;
-
-c) 0,14 euros par hectolitre pour les autres vins.
-
-Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre chargé du budget
-fixe, dans ces limites, les montants de la taxe.
-
-IV. - La taxe est liquidée et recouvrée par la direction générale des douanes et droits indirects suivant les règles et sous
-les garanties, privilèges et sanctions prévus pour les droits indirects sur les boissons.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2000-1341 du 26 décembre 2000 - art. 4 (Ab) JORF 30 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2001
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C I Finances rectificative pour 2002 JORF 31 décembre 2002
-
-
-##### Section III : Taxe parafiscale sur les graines oléagineuses et  protéagineuses
-
-###### Article 363 F
-
-I. - Il est institué, à compter de la campagne 2000-2001 et jusqu'à la fin de la campagne 2002-2003, une taxe parafiscale sur
-les graines oléagineuses : colza, navette, tournesol et soja, et sur les graines protéagineuses : pois, fève, féverole et
-lupin doux, perçue au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds national de
-développement agricole.
-
-II. - La taxe est à la charge des producteurs. Elle est assise sur les quantités de graines livrées aux intermédiaires agréés
-ou aux organismes collecteurs. Pour les graines oléagineuses, ces quantités sont exprimées pour une qualité caractérisée par
-des taux d'humidité et d'impureté fixés aux valeurs suivantes :
-
-Tournesol
-
-TAUX D'HUMIDITE (en %) : 9
-
-TAUX D'IMPURETE (en %) : 2
-
-Colza-navette
-
-TAUX D'HUMIDITE (en %) : 9
-
-TAUX D'IMPURETE (en %) : 2
-
-Soja
-
-TAUX D'HUMIDITE (en %) : 14
-
-TAUX D'IMPURETE (en %) : 2 
-
-La taxe est retenue par les intermédiaires agréés ou les organismes collecteurs lors du paiement des graines oléagineuses et
-protéagineuses aux producteurs.
-
-III. - Le montant maximum de la taxe est fixé à :
-
-a) 0,64 euros par tonne pour les graines de colza et navette ;
-
-b) 0,79 euros par tonne pour les graines de tournesol ;
-
-c) 0,42 euros par tonne pour les graines de soja ;
-
-d) 0,18 euros par tonne pour les graines de pois, fèves, féveroles et lupin doux.
-
-Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre chargé du budget
-fixe, pour chaque campagne, dans ces limites, les montants de la taxe.
-
-IV. - La taxe est liquidée et recouvrée auprès des intermédiaires agréés ou organismes collecteurs selon les règles et sous
-les garanties, privilèges et sanctions prévus en matière de contributions indirectes.
-
-Les sommes exigibles sont liquidées sur production, par les intermédiaires agréés ou organismes collecteurs, de déclarations
-conformes aux modèles fixés par l'administration et transmises à cette administration dans les dix premiers jours du mois
-suivant celui au titre duquel la taxe est applicable. Elles doivent être acquittées au plus tard le 25 du mois de la
-déclaration.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2000-1298 du 26 décembre 2000 - art. 3 (Ab) JORF 29 décembre 2000
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C I Finances rectificative pour 2002 JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2001
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
-
-##### Section IV : Taxe parafiscale sur les céréales et le riz.
-
-###### Article 363 FA
-
-I. - Il est institué, à compter de la campagne 2000-2001 et jusqu'à la fin de la campagne 2002-2003, une taxe parafiscale sur
-les céréales et le riz, perçue au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds
-national de développement agricole.
-
-II. - La taxe est à la charge des producteurs.
-
-Elle est assise sur les quantités de céréales et de riz livrées aux collecteurs agréés et aux producteurs grainiers,
-déduction faite :
-
-a) Pour le blé tendre, l'orge, le seigle, le blé dur, le maïs, le sorgho et le riz, de l'humidité excédant un taux compris
-entre 14 % et 15 % de ces tonnages, fixé par l'arrêté mentionné au IV ;
-
-b) Pour le blé tendre, le blé dur, l'orge, le seigle, le triticale, le maïs, le sorgho et le riz, du pourcentage d'impureté
-excédant un taux compris entre 0,5 % et 2,5 % des tonnages, selon les céréales, déterminé par l'arrêté mentionné au IV.
-
-La quantité d'impuretés déduite du tonnage livré pour le calcul de la taxe ne peut toutefois dépasser un pourcentage fixé par
-l'arrêté susmentionné, pour chaque céréale, et compris entre 1 % et 3 %.
-
-III. - La taxe est retenue par les collecteurs agréés et les producteurs grainiers lors du paiement des céréales et du riz
-aux producteurs. Elle est liquidée et recouvrée selon les règles et sous les garanties, privilèges et sanctions prévus en
-matière de contributions indirectes.
-
-Les sommes exigibles sont liquidées sur production, par les collecteurs agréés et les producteurs grainiers, de déclarations
-conformes aux modèles fixés par l'administration chargée des contributions indirectes et transmises à cette même
-administration dans les dix premiers jours du mois suivant celui au titre duquel la taxe est applicable. Elles doivent être
-acquittées au plus tard le 25 du mois de la déclaration.
-
-IV. - Le montant maximum de la taxe est fixé à :
-
-a) 0,49 Euro par tonne pour le blé tendre, le blé dur, l'orge, le maïs et le riz ;
-
-b) 0,26 Euro par tonne pour l'avoine, le seigle, le sorgho et le triticale.
-
-Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre chargé du budget
-fixe, dans ces limites, les montants de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2000-1297 du 26 décembre 2000 - art. 4 (Ab) JORF 29 décembre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2001
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C I Finances rectificative pour 2002 JORF 31 décembre 2002
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
+	  - HISTO: Edition du 1er janvier 2004
 
 
 #### Chapitre XII : Taxe parafiscale pour le financement des actions du secteur céréalier.
@@ -22778,400 +22107,6 @@ Cet arrêté fixe également la répartition du produit de la taxe entre les org
 	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
 	  - HISTO: Edition du 1er janvier 2004
 	  - HISTO: Edition du 31 mars 2001
-
-
-#### Chapitre XIII : Taxe parafiscale perçue au profit du bureau national interprofessionnel du calvados, du pommeau et des eaux-de-vie de cidre et de poiré.
-
-###### Article 364
-
-Il est institué jusqu'au 31 décembre 2002 une taxe parafiscale au profit du Bureau national interprofessionnel du calvados,
-du pommeau et des eaux-de-vie de cidre et de poiré.
-
-Cette taxe est destinée à financer les frais de fonctionnement et les actions du bureau relatives à l'orientation de la
-production et à la promotion de la qualité des eaux-de-vie de cidre et de poiré.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°97-1231 du 26 décembre 1997 - art. 1 (V) JORF 28 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 364 A
-
-Sont soumis à la taxe les calvados, les pommeaux et eaux-de-vie de cidre et de poiré bénéficiant d'une appellation contrôlée
-ou réglementée ainsi que les produits composés élaborés avec ces calvados et eaux-de-vie.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°97-1231 du 26 décembre 1997 - art. 2 (V) JORF 28 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 364 B
-
-La taxe est perçue au moment de la délivrance des titres de mouvement demandés par les producteurs et fabricants de produits
-visés à l'article 364 A en vue de leur mise à la consommation.
-
-La taxe est perçue pour le compte du Bureau national interprofessionnel du calvados, du pommeau et des eaux-de-vie de cidre
-et de poiré par les bureaux de déclaration de la direction générale des douanes et droits indirects.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 364 A
-
-	**Modifié par**:
-
-	  - Décret n°97-1231 du 26 décembre 1997 - art. 3 (V) JORF 28 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 364 C
-
-La taxe n'est pas perçue lors de la délivrance des titres de mouvement devant légitimer le retour dans les chais des
-récoltants, coopératives ou distillateurs de profession des eaux-de-vie en provenance des lieux de distillation ainsi que les
-expéditions d'eaux-de-vie à destination des fabricants de produits composés dans les régions d'appellation.
-
-De même, la taxe n'est pas perçue lors de l'établissement des document mentionnés au I de l'article 302 M du code général des
-impôts devant accompagner des eaux-de-vie chez un producteur lui-même redevable de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 M
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 364 D
-
-Le montant maximum de la taxe est fixé à :
-
-a. 4,88 euros par hectolitre d'alcool pur pour les calvados et les produits composés élaborés avec ces calvados ;
-
-b. 2,74 euros par hectolitre d'alcool pur pour les pommeaux, les eaux-de-vie de cidre ou de poiré et les produits composés
-élaborés avec ces eaux-de-vie.
-
-Un arrêté du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre chargé du budget fixe, dans la
-limite du montant maximum, le montant applicable à chacune des deux catégories de produits.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2002
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
-	**Modifié par**:
-
-	  - Règlement CE 1103/97 1997-06-17 art. 5 JO L162 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement CE 2866/98 1998-12-31 art. 1 JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement CE 974/98 1998-05-03 art. 14 JO L139 11 mai 1998 en vigueur le 1er janvier 2002
-
-
-#### Chapitre XIV : Taxe parafiscale perçue au profit d'un fonds de soutien à l'expression radiophonique.
-
-###### Article 365
-
-Il est institué, à compter du 1er janvier 1998 et pour une durée de cinq ans, une taxe parafiscale sur la publicité diffusée
-par voie de radiodiffusion sonore et de télévision destinée à financer un fonds d'aide aux titulaires d'une autorisation de
-service de radiodiffusion sonore par voie hertzienne dont les ressources commerciales provenant de messages diffusés à
-l'antenne et présentant le caractère de publicité de marque ou de parrainage sont inférieures à 20 % de leur chiffre
-d'affaires total.
-
-Cette taxe a pour objet de favoriser l'expression radiophonique.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°97-1263 du 29 décembre 1997 - art. 1 (Ab) JORF 30 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 365 A
-
-La taxe est assise sur les sommes, hors commission d'agence et hors taxe sur la valeur ajoutée, payées par les annonceurs
-pour la diffusion de leurs messages publicitaires à destination du territoire français.
-
-Elle est due par les personnes qui assurent la régie de ces messages publicitaires.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°97-1263 du 29 décembre 1997 - art. 2 (Ab) JORF 30 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 365 B
-
-Un arrêté conjoint des ministres chargés du budget et de la communication fixe le tarif d'imposition par paliers de recettes
-trimestrielles perçues par les régies assujetties, dans les limites suivantes :
-
-I. - PUBLICITE RADIODIFFUSEE
-
-De 45 734,71 à 228 673,53 euros inclus : 526 euros.
-
-De 228 673,53 à 457 347,05 euros inclus : 1 314 euros.
-
-De 457 347,05 à 914 694,10 euros inclus : 2 761 euros.
-
-De 914 694,10 à 1 372 041,16 euros inclus : 4 734 euros.
-
-De 1 372 041,16 à 2 286 735,26 euros inclus : 7 889 euros.
-
-De 2 286 735,26 à 3 201 429,36 euros inclus : 12 492 euros.
-
-De 3 201 429,36 à 4 573 470,52 euros inclus : 17 882 euros.
-
-De 4 573 470,52 à 6 860 205,78 euros inclus : 26 297 euros.
-
-De 6 860 205,78 à 9 146 941,03 euros inclus : 38 131 euros.
-
-De 9 146 941,03 à 13 720 411,55 euros inclus : 54 435 euros.
-
-De 13 720 411,55 à 18 293 882,07 euros inclus : 76 263 euros.
-
-De 18 293 882,07 à 22 867 352,59 euros inclus : 102 560 euros.
-
-De 22 867 352,59 à 27 440 823,10 euros inclus : 126 228 euros.
-
-De 27 440 823,10 à 32 014 293,62 euros inclus : 149 896 euros.
-
-De 32 014 293,62 à 36 587 764,14 euros inclus : 173 563 euros.
-
-De 36 587 764,14 à 41 161 234,65 euros inclus : 197 231 euros.
-
-De 41 161 234,65 à 45 734 705,17 euros inclus : 220 899 euros.
-
-De 45 734 705,17 à 50 308 175,69 euros inclus : 244 566 euros.
-
-De 50 308 175,69 à 54 881 646,21 euros inclus : 268 234 euros.
-
-De 54 881 646,21 à 59 455 116,72 euros inclus : 291 902 euros.
-
-De 59 455 116,72 à 64 028 587,24 euros inclus : 315 569 euros.
-
-Au-dessus de 64 028 587,24 euros : 344 497 euros.
-
-II. - PUBLICITE TELEVISEE
-
-Jusqu'à 457 347,05 euros inclus : 991 euros.
-
-De 457 347,05 à 914 694,10 euros inclus : 2 942 euros.
-
-De 914 694,10 à 2 286 735,26 euros inclus : 6 953 euros.
-
-De 2 286 735,26 à 4 573 470,52 euros inclus : 17 660 euros.
-
-De 4 573 470,52 à 9 146 941,03 euros inclus : 40 617 euros.
-
-De 9 146 941,03 à 18 293 882,07 euros inclus : 92 492 euros.
-
-De 18 293 882,07 à 27 440 823,10 euros inclus : 182 116 euros.
-
-De 27 440 823,10 à 36 587 764,14 euros inclus : 284 764 euros.
-
-De 36 587 764,14 à 45 734 705,17 euros inclus : 367 544 euros.
-
-De 45 734 705,17 à 54 881 646,21 euros inclus : 454 740 euros.
-
-De 54 881 646,21 à 64 028 587,24 euros inclus : 545 246 euros.
-
-De 64 028 587,24 à 73 175 528,27 euros inclus : 629 133 euros.
-
-De 73 175 528,27 à 82 322 469,31 euros inclus : 717 431 euros.
-
-De 82 322 469,31 à 91 469 410,34 euros inclus : 805 731 euros.
-
-De 91 469 410,34 à 100 616 351,38 euros inclus : 894 030 euros.
-
-De 100 616 351,38 à 109 763 292,41 euros inclus : 982 324 euros.
-
-De 109 763 292,41 à 118 910 233,45 euros inclus : 1 070 628 euros.
-
-De 118 910 233,45 à 128 057 174,48 euros inclus : 1 158 928 euros.
-
-De 128 057 174,48 à 137 204 115,51 euros inclus : 1 247 224 euros.
-
-Au-dessus de 137 204 115,51 euros : 1 335 527 euros.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°98-546 du 2 juillet 1998 - art. 26 (V) JORF 3 juillet 1998 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2002
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
-
-###### Article 365 C
-
-La taxe est assise, liquidée et recouvrée, pour le compte du fonds, par la direction générale des impôts selon les mêmes
-règles, garanties et sanctions que celles qui sont prévues pour la taxe sur la valeur ajoutée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°97-1263 du 29 décembre 1997 - art. 4 (Ab) JORF 30 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 365 D
-
-Les régisseurs de publicité adressent, avant le 25 du mois suivant la fin de chaque trimestre civil, la déclaration du
-montant des sommes payées par les annonceurs le trimestre précédent, le décompte des sommes dues, établi par les redevables
-sous leur responsabilité, ainsi que le montant de la taxe dont ils sont redevables.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°97-1263 du 29 décembre 1997 - art. 4 (Ab) JORF 30 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 365 E
-
-Le produit net de la taxe recouvrée par l'administration des impôts est transféré à l'Institut national de l'audiovisuel, qui
-est chargé du versement des aides à leurs bénéficiaires. Ces aides sont définies au titre II du décret n° 97-1263 du 29
-décembre 1997.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°97-1263 1997-12-29
-
-	**Modifié par**:
-
-	  - Décret n°97-1263 du 29 décembre 1997 - art. 6 (Ab) JORF 30 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 22 avril 1998
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
@@ -25623,11 +24558,8 @@ valeur de chacun des biens qu'il envisage de remettre à l'Etat. Il en est déli
 L'offre de dation en paiement est soumise aux mêmes conditions que celles fixées par les I et II de l'article 310 G pour
 l'offre de donation des mêmes oeuvres ou documents faite en vue de l'exonération des droits de mutation.
 
-II. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter la valeur libératoire
-reconnue au bien offert en paiement des droits.
-
-Il fait connaître son acceptation au ministre de l'économie et des finances, par pli recommandé avec demande d'avis de
-réception.
+II. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter par lettre simple, le
+cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert en paiement des droits.
 
 III. En l'absence de décision notifiée dans le délai d'un an à compter de la date du récépissé de l'offre, celle-ci est
 considérée comme refusée.
@@ -25641,20 +24573,16 @@ considérée comme refusée.
 
 	**Modifié par**:
 
-	  - Décret n°70-1046 1970-11-10 art. 1, art. 2 JORF 11 novembre 1970
+	  - Décret n°2003-281 du 24 mars 2003 - art. 2 () JORF 29 mars 2003
 
 	**Cité par**:
 
 	  - Code du patrimoine. - art. D122-1 (V)
 	  - Code général de la propriété des personnes publ... - art. R1111-3 (V)
 
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
 	**Liens**:
 
-	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres
@@ -25683,10 +24611,8 @@ l'octroi ou le refus de l'agrément.
 
 IV. La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
 
-V. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter la valeur libératoire
-reconnue au bien offert en paiement des droits.
-
-Il fait connaître son acceptation au ministre chargé du budget, par pli recommandé avec demande d'avis de réception.
+V.  En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter par lettre simple, le
+cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert en paiement des droits.
 
 **Nota:**
 
@@ -25699,9 +24625,9 @@ Il fait connaître son acceptation au ministre chargé du budget, par pli recomm
 
 	  - CGI 1716 bis
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-958 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Décret n°2003-281 du 24 mars 2003 - art. 2 () JORF 29 mars 2003
 
 	**Cité par**:
 
@@ -25710,7 +24636,51 @@ Il fait connaître son acceptation au ministre chargé du budget, par pli recomm
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 1er janvier 2003
+
+
+##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels
+
+###### Article 384 A ter
+
+I. - L'héritier, le donataire, le légataire ou le copartageant, qui désire acquitter tout ou partie des droits de mutation ou
+de partage dont il est redevable par la remise d'immeubles en nature de bois et forêts ou espaces naturels pouvant être
+incorporés au domaine forestier de l'Etat mentionnés à l'article 1716 bis du code général des impôts, doit déposer à la
+recette des impôts ou à la conservation des hypothèques compétente pour enregistrer l'acte constatant la mutation, le partage
+ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la valeur de chacun des
+biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
+
+L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
+de l'acte constatant la mutation ou le partage.
+
+II. - L'offre est adressée par le service des impôts à une commission dont la composition est fixée par arrêté conjoint du
+Premier ministre, du ministre chargé du budget, du ministre chargé des forêts et du ministre chargé de la protection de la
+nature.
+
+Avant de se prononcer, cette commission consulte l'Office national des forêts.
+
+La commission émet un avis sur l'existence d'un intérêt économique, environnemental ou social du bien offert, sur les
+conditions de sa gestion ainsi que sur la contribution de ce bien à l'enrichissement de l'ensemble foncier auquel il pourrait
+être, le cas échéant, incorporé. La commission se prononce également, après avoir consulté le service des domaines, sur sa
+valeur libératoire.
+
+III. - Au vu de l'avis de la commission, le ministre chargé des forêts propose au ministre chargé du budget l'octroi ou le
+refus de l'agrément.
+
+IV. - La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
+
+V. - En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter par lettre simple, le
+cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert en paiement des droits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1716 bis
+
+	**Créé par**:
+
+	  - Décret n°2003-281 du 24 mars 2003 - art. 1 () JORF 29 mars 2003
 
 
 #### I bis : Versement pour dépassement du plafond légal de densité (1).
@@ -26486,21 +25456,14 @@ Chaque fonctionnaire des impôts ou chaque fonctionnaire des douanes et droits i
 placés sous son autorité dans les conditions fixées par le directeur général des impôts ou le directeur général des douanes
 et droits indirects, selon le cas.
 
-Toutefois, en matière contentieuse, les délégations ne peuvent être accordées qu'aux agents ayant au moins le grade de
-contrôleur.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 63 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2003-192 du 3 mars 2003 - art. 1 () JORF 8 mars 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2003
 
 
