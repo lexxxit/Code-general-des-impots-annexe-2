@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1981-05-21
+Version Consolidée au 1981-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5023,6 +5023,107 @@ l'article 244 quindecies du code général des impôts.
 	  - HISTO: Edition du 1er janvier 2003
 
 
+###### Article 171 R
+
+Pour le calcul de la déduction prévue par l'article 171 Q, les biens sont retenus pour leur prix de revient déterminé
+conformément aux dispositions de l'article 229 et de l'article 38 quinquies de l'annexe III au code général des impôts.
+
+Pour les biens créés par l'entreprise dont la fabrication était en cours le 31 décembre 1980, le prix de revient est diminué
+de la valeur desdits biens telle qu'elle a été déterminée au 31 décembre 1980, si l'entreprise n'a pas renoncé pour 1980 à
+l'aide prévue par l'article 1er de la loi n° 79-525 du 3 juillet 1979 relative au soutien de l'investissement productif
+industriel.
+
+Dans le cas contraire, le prix de revient des biens dont la fabrication commencée avant le 31 décembre 1979 n'était pas
+encore achevée au 1er octobre 1980 est diminué de leur valeur déterminée au 31 décembre 1979.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 171 Q
+	  - CGIAN3 229, 38 quinquies
+	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Décret n°81-17 du 10 janvier 1981 - art. 2 (V) JORF 11 janvier 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article 171 S
+
+Les entreprises créées en 1978 et en 1979 ne peuvent bénéficier de l'aide à l'investissement instituée par la loi n° 79-525
+du 3 juillet 1979 relative au soutien de l'investissement productif industriel pour les périodes mentionnées à l'article 4 du
+décret n° 79-866 du 4 octobre 1979 fixant les conditions d'application de la loi n° 79-525 du 3 juillet 1979 que si, ayant au
+cours des mêmes périodes réalisé des investissements qui donnent lieu à la déduction instituée par l'article 244 undecies du
+code général des impôts, elles renoncent, pour ces investissements, à ladite déduction.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies
+	  - Loi n°79-525 1979-07-03
+	  - Décret n°79-866 du 4 octobre 1979 - art. 4 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er juillet 1981
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+
+	**Créé par**:
+
+	  - Décret n°81-17 du 10 janvier 1981 - art. 3 (V) JORF 11 janvier 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+
+###### Article 171 T
+
+En cas de cession totale ou partielle d'une entreprise, le cessionnaire qui remplit les conditions fixées par l'article 244
+terdecies du code général des impôts peut, en contrepartie de la réintégration effectuée par le cédant en vertu de l'article
+244 quindecies du même code, pratiquer la déduction au titre des biens transmis. Cette déduction est calculée sur le prix de
+cession des biens ; elle est limitée à la réintégration effectuée par le cédant.
+
+Si un des biens compris dans la cession mentionnée au premier alinéa est ultérieurement cédé, le délai de cinq ans prévu à
+l'article 244 quindecies précité court à compter de la date de la création ou de l'acquisition à l'état neuf de ce bien.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 terdecies, 244 quindecies
+
+	**Créé par**:
+
+	  - Décret n°81-17 du 10 janvier 1981 - art. 4 (V) JORF 11 janvier 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er juillet 1981
+
+
 ###### Article 171 U
 
 Pour l'application de l'article 244 undecies du code général des impôts, sont regardées comme des investissements de
@@ -7102,6 +7203,37 @@ solidairement avec lui, à reverser les sommes remboursées indûment.
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
+	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-1-98
+	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-2-98
+	  - TXT_ASSOCIE: Instruction 1999-07-15 3D-2-99
+
+
+###### Article 242-0 T
+
+Dans le cas où le remboursement a été obtenu de façon frauduleuse et donne lieu à des poursuites pénales, tout remboursement
+ultérieur peut être suspendu jusqu'à la décision définitive sur les pénalités encourues.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242 sexies
+
+	**Créé par**:
+
+	  - Décret n°80-1079 du 24 décembre 1980 - art. 8 (V) JORF 28 décembre 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 decies (V)
 
 	**Liens**:
 
@@ -11691,24 +11823,6 @@ de la dotation antérieure qui a été rapportée au bénéfice imposable.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 32 A
-
-L'amortissement des biens ayant bénéficié de l'aide fiscale instituée par l'article 1er de la loi no 75-408 du 29 mai 1975
-est calculée d'après leur prix de revient diminué du montant de l'aide effectivement imputée ou remboursée en application des
-articles 3 et 4 du décret no 75-422 du 30 mai 1975 relatif à l'aide fiscale à l'investissement.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - Loi n°75-408 1975-05-29 ART. 1
-	  - Décret n°75-422 1975-05-30 ART. 3, ART. 4
-
-
 ###### Article 39 F
 
 Les contribuables qui réalisent des opérations imposables en application des articles 92 A et 92 B du code général des impôts
@@ -15165,24 +15279,6 @@ précédente lorsque sa durée est égale à douze mois mais ne coincide pas ave
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 310 HB
-
-Les décisions d'exonération totale ou partielle prises pour une durée ne pouvant excéder cinq ans en faveur du développement
-régional en ce qui concerne respectivement la patente et la taxe spéciale sur les coopératives agricoles et unions de
-sociétés coopératives agricoles et sur les sociétés d'intérêt collectif agricole s'appliquent dans la même proportion à la
-taxe professionnelle, pour la période restant à courir.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 310 HG
 
 Pour les contribuables non sédentaires et les contribuables ayant une installation fixe, mentionnés à l'article 1470 du code
@@ -17543,91 +17639,94 @@ des impôts.
 a. Il est institué au profit du fonds d'orientation et de régularisation des marchés agricoles une taxe parafiscale perçue
 dans les limites des taux fixés ci-dessous sur les produits résineux énumérés ci-après par référence au tarif des douanes :
 
-------------------------------------------------------------------- :
-NUMEROS       :                                       :         :
-
 <table>
   <tbody><tr>
-    <td> :  du tarif     :            DESIGNATION                :   TAUX  :</td>
+    <td> :===============:====================================:============:</td>
   </tr>
   <tr>
-    <td> :  des droits   :           des produits                :   par   :</td>
+    <td> :    NUMEROS    :                                    :            :</td>
   </tr>
   <tr>
-    <td> :  de douane    :                                       : quintal :</td>
+    <td> : du tarif des  :                                    : TAUX par   :</td>
   </tr>
   <tr>
-    <td> : d'importation :                                       :         :</td>
+    <td> :  droits de    :  DESIGNATION DES PRODUITS          :  quintal   :</td>
   </tr>
   <tr>
-    <td> :---------------:---------------------------------------:---------:</td>
+    <td> :   douane      :                                    :            :</td>
   </tr>
   <tr>
-    <td> :               :                                       :     F   :</td>
+    <td> : d'importation :                                    :     F      :</td>
   </tr>
   <tr>
-    <td> : 38-05 A et B  : Tall oil brut et autre                :  1,50   :</td>
+    <td> :---------------:------------------------------------:------------:</td>
   </tr>
   <tr>
-    <td> : 38-07 A       : Essence de térébenthine               :  1,50   :</td>
+    <td> : 38-05 A et B  : Tall oil brut et autre             :   1,50     :</td>
   </tr>
   <tr>
-    <td> : 38-07 BI      : Essence de papeterie au sulfate       :         :</td>
+    <td> : 38-07 A       : Essence de térébenthine            :   1,50     :</td>
   </tr>
   <tr>
-    <td> :               : dipenthène brut                       :  1,50   :</td>
+    <td> : 38-07 B I     : Essence de papeterie au sulfate,   :            :</td>
   </tr>
   <tr>
-    <td> : 38-07 BII     : Non dénommés :                        :  1,50   :</td>
+    <td> :               :   dipenthène brut                  :   1,50     :</td>
   </tr>
   <tr>
-    <td> :               :  a. Huile de pin                      :  1,50   :</td>
+    <td> : 38-07 B II    : Non dénommés :                     :            :</td>
   </tr>
   <tr>
-    <td> :               :  b. Autres                            :  1,50   :</td>
+    <td> :               :   a. Huile de pin                  :   1,50     :</td>
   </tr>
   <tr>
-    <td> : 38-08 A       : Colophane (y compris les produits     :         :</td>
+    <td> :               :   b. Autres                        :   1,50     :</td>
   </tr>
   <tr>
-    <td> :               : dits brais résineux)                  :  3,50   :</td>
+    <td> : 38-08 A       : Colophane (y compris les           :            :</td>
   </tr>
   <tr>
-    <td> : 38-08 B       : Essence de résine et huiles de résine :  3,50   :</td>
+    <td> :               :   produits dits brais résineux)    :   3,50     :</td>
   </tr>
   <tr>
-    <td> : 38-08 C       : Autres :                              :         :</td>
+    <td> : 38-08 B       : Essence de résine et huiles de     :            :</td>
   </tr>
   <tr>
-    <td> :               : I. Acides résiniques                  :  3,50   :</td>
+    <td> :               :   résine                           :   3,50     :</td>
   </tr>
   <tr>
-    <td> :               : II. Autres (y compris les dérivés     :         :</td>
+    <td> : 38-08 C       : Autres :                           :            :</td>
   </tr>
   <tr>
-    <td> :               :    des acides résiniques et des       :  3,50   :</td>
+    <td> :               :   I. Acides résiniques             :   3,50     :</td>
   </tr>
   <tr>
-    <td> :               :    colophanes)                        :  3,50   :</td>
+    <td> :               :  II. Autres (y compris les         :            :</td>
   </tr>
   <tr>
-    <td> : Ex. 38-10 B   : Liants à base de résineux naturels    :  3,50   :</td>
+    <td> :               :    dérivés des acides résiniques   :            :</td>
   </tr>
   <tr>
-    <td> : Ex. 39-05 B   : Gommes esters provenant d'acides      :         :</td>
+    <td> :               :    et des colophanes)              :   3,50     :</td>
   </tr>
   <tr>
-    <td> :               : résiniques                            :  3,50   :</td>
+    <td> : Ex. 38-10 B   : Liants à base de résineux naturels :   3,50     :</td>
+  </tr>
+  <tr>
+    <td> : Ex. 39-05 B   : Gommes esters provenant d'acides   :            :</td>
+  </tr>
+  <tr>
+    <td> :               :    résiniques                      :   3,50     :</td>
+  </tr>
+  <tr>
+    <td> :=================================================================:</td>
   </tr>
 </tbody></table>
 
-===================================================================
-
-b. La taxe est due par les personnes qui fabriquent, font fabriquer ou importent en France les produits imposables
-[*redevables*].
+b. La taxe est due par les personnes qui fabriquent, font fabriquer ou importent en France les produits imposables.
 
 c. En ce qui concerne les produits fabriqués en France, la taxe est exigible au stade de la première vente ou, pour les
-entreprises intégrées, du transfert de ces produits aux ateliers de transformation [*date d'exigibilité*].
+entreprises intégrées, du transfert de ces produits aux ateliers de transformation.
 
 En ce qui concerne les produits importés, la taxe est exigible lors de la mise à la consommation.
 
@@ -17639,9 +17738,14 @@ d'application de cette disposition.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: EDITION 1981-07-01
+	  - SPEC_APPLI: MODIFICATION ISSUE DE CELLE DU TARIF DES DOUANES
 
 
 ###### Article 345
@@ -18984,6 +19088,40 @@ Pour chaque affaire, le président du comité désigne un rapporteur parmi ceux 
 ministre du budget sur proposition du président. Les rapporteurs doivent avoir la qualité de fonctionnaire ou de magistrat.
 Ils sont placés, pour l'exercice de leurs fonctions, sous l'autorité du président du comité.
 
+
+
+###### Article 396 ter A
+
+Le comité du contentieux fiscal, douanier et des changes prévu à l'article R. 247-12 du livre des procédures fiscales peut
+être consulté par le ministre chargé des finances sur toute question générale ou particulière relative au contentieux fiscal.
+
+Il peut également faire, de sa propre initiative, au ministre chargé des finances les observations et recommandations qu'il
+estime utiles. Tout assujetti au respect de la réglementation fiscale et tout organisme représentatif de ces assujettis peut
+informer le comité des difficultés rencontrées en matière contentieuse.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1965 K
+
+	**Liens**:
+
+	  - SPEC_APPLI: Conseil Constitutionnel N° 80-113 L 1980-05-14 : les dispositions de l'article 1965 K du code des impôts ont un caractère réglementaire
+	  - DISJONCTION: Décret n°80-860 1980-09-15 JORF 18 septembre 1980 en vigueur le 1er juillet 1981)
+
+	**Créé par**:
+
+	  - Loi n°77-1453 1977-12-29 art. 20, art. 21 JORF 30 décembre 1977
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 21 (V) JORF 30 décembre 1977
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cite**:
+
+	  - Livre des procédures fiscales R247-12
 
 
 ###### Article 396 undecies
