@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-10-17
+Version Consolidée au 1986-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11426,6 +11426,30 @@ s'entend de la sortie des tabacs manufacturés des établissements de production
 	  - CGI 575
 
 
+###### Article 286 C
+
+La déclaration mentionnée à l'article 575 C du code général des impôts doit faire apparaître distinctement les tabacs
+imposables et les les tabacs destinés à l'exportation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 575 C
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 32 (P) JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
 ##### III : Corse - DOM
 
 ###### Article 286 F
@@ -12664,6 +12688,31 @@ Cette règle est également applicable à la détermination des recettes prises 
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article 310 HT
+
+Lorsqu'un redevable suspend son activité dans un établissement pendant au moins douze mois consécutifs, l'opération
+constitue, au regard de l'article 1478 du code général des impôts, une cessation d'activité suivie d'une création
+d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°80-10 du 10 janvier 1980 - art. 19 (V) JORF 11 janvier 1980, Loi 86-1318 1986-12-30 art. 19 I Finances rectificative pour 1986 JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1478 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
 
 
 ##### Section III : Règles d'évaluation de la valeur locative des biens imposables
@@ -17832,27 +17881,6 @@ longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins u
 	  - Décret n°82-881 1982-10-15
 
 
-### MONOPOLES FISCAUX
-
-#### TABACS.
-
-###### Article 286 C
-
-La déclaration mentionnée à l'article 575 C du code général des impôts doit faire apparaître distinctement les tabacs
-imposables, les tabacs destinés à l'exportation et les tabacs dits "de vente restreinte".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 575 C
-	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
 
 ### IMPOSITIONS COMMUNALES
@@ -18121,23 +18149,6 @@ vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" 
 	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
 	  - HISTO: EDITION 1979-07-01
 	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
-
-
-###### Article 310 HT
-
-Lorsqu'un redevable suspend son activité pendant au moins douze mois consécutifs, l'opération constitue, au regard de
-l'article 1478 du code général des impôts, une cessation d'activité suivie d'une création.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1478
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-	  - HISTO: EDITION 1979-07-01
 
 
 ### IMPOSITIONS DEPARTEMENTALES
