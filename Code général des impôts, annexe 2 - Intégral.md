@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-06-26
+Version Consolidée au 1984-06-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7238,6 +7238,8 @@ Elle ne concerne pas les immeubles pour lesquels la déduction initiale ne pouva
 d'entrée en vigueur du décret n° 75-102 du 20 février 1975 modifiant certaines dispositions relatives aux conditions de
 déduction de la taxe sur la valeur ajoutée qui a grevé des biens constituant des immobilisations.
 
+Elle ne concerne pas les autres biens constituant des immobilisations lorsque le redevable justifie qu'ils lui ont été volés.
+
 IV. Sous réserve que le bien constitue une immobilisation pour le bénéficiaire de la cession, de l'apport ou du transfert,
 celui-ci peut opérer la déduction de la taxe ayant initialement grevé le bien diminuée dans les conditions précitées. A cette
 fin, le cédant ou l'apporteur délivre au bénéficiaire une attestation mentionnant le montant de la taxe qu'il est en droit de
@@ -7259,7 +7261,7 @@ précédent propriétaire était en droit de déduire.
 
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 5 (V) JORF 31 DECEMBRE 1979
+	  - Décret n°84-502 du 26 juin 1984 - art. 1 (V) JORF 28 juin 1984
 
 	**Cité par**:
 
@@ -7555,6 +7557,48 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 	**Abrogé par**:
 
 	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
+	**Codifié par**:
+
+	  - L'abrogation sera codifiée ultérieurement
+
+
+###### Article 221
+
+1. Le montant de la taxe dont la déduction a déjà été opérée doit être reversé dans les cas ci-après :
+
+Lorsque les marchandises ont disparu;
+
+Lorsque les biens ou services ayant fait l'objet d'une déduction de la taxe qui les avait grevés ont été utilisés pour une
+opération qui n'est pas effectivement soumise à l'impôt.
+
+Ce reversement doit être opéré avant le 25 du mois qui suit celui au cours duquel l'événement qui motive le reversement est
+intervenu.
+
+2. (Abrogé)
+
+3. Les régularisations visées au 1 ne sont pas exigées lorsque les biens ont été détruits avant toute utilisation ou cession
+et qu'il est justifié de cette destruction.
+
+4. Les régularisations visées au 1 ne sont pas exigées lorsque les biens ont été volés et qu'il est justifié de ce vol.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-502 du 26 juin 1984 - art. 2 (V) JORF 28 juin 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1999-09-28 3D-4-99
 
 	**Codifié par**:
 
@@ -15870,30 +15914,6 @@ immobilisations.
 	**Modifié par**:
 
 	  - Décret n°79-1163 du 29 décembre 1979 - art. 10 (V) JORF 31 DECEMBRE 1979
-
-
-###### Article 221
-
-1  Le montant de la taxe dont la déduction a déjà été opérée doit être reversé dans les cas ci-après :
-
-Lorsque les marchandises ont disparu;
-
-Lorsque les biens ou services ayant fait l'objet d'une déduction de la taxe qui les avait grevés ont été utilisés pour une
-opération qui n'est pas effectivement soumise à l'impôt.
-
-Ce reversement doit être opéré avant le 25 du mois qui suit celui au cours duquel l'événement qui motive le reversement est
-intervenu [*date limite, délai*].
-
-2  (Abrogé)
-
-3  Les régularisations visées au 1 ne sont pas exigées lorsque les biens ont été détruits avant toute utilisation ou cession
-et qu'il est justifié de cette destruction.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 233 A
