@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-12-29
+Version Consolidée au 1985-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1482,6 +1482,28 @@ durant laquelle l'indemnité a été perçue [*point de départ*].
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+###### Article 74 R
+
+Le bénéfice du paiement fractionné est subordonné à une demande expresse du contribuable.
+
+La mise en recouvrement de l'impôt est alors fractionnée par parts égales sur les cinq années suivant celle de la réalisation
+de la plus-value. Elle donne lieu au paiement de l'intérêt, au taux légal, recouvré dans les mêmes conditions et sous les
+mêmes garanties et sanctions que l'impôt en principal.
+
+En cas de transfert du domicile à l'étranger, de redressement judiciaire, ou de non-paiement de l'une des fractions de
+l'impôt, le solde restant dû, augmenté de l'intérêt couru, est exigible immédiatement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Conseil d'Etat 1984-05-23 n°50773) M(Loi 85-98 1985-01-25 art. 233 JORF 26 janvier 1985 en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ##### Section II : Revenu global
@@ -3700,6 +3722,43 @@ résultat mondial d'une société agréée ne sont pas reportables sur les résu
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 110
+
+1. Le résultat d'ensemble défini à l'article 108 est, selon le cas, imposé ou reporté dans les conditions prévues
+respectivement à l'article 219-I ou à l'article 209-I, troisième alinéa, du code général des impôts.
+
+2. Par dérogation à l'article 108-2-b, la plus-value nette à long terme d'ensemble peut, dans la mesure où la société agréée
+n'entend pas l'utiliser pour compenser le déficit, être imposée pour une part de son montant au taux normal prévu au deuxième
+alinéa de l'article 219-I du code général des impôts. Cette part est déterminée en appliquant au montant de cette plus-value
+le rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du même code et le taux
+normal prévu au deuxième alinéa de l'article 219-I précité.
+
+3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
+d'ensemble taxée dans les conditions prévues aux articles 103 à 134.
+
+4. La moins-value nette à long terme d'ensemble est soumise au régime prévu à l'article 39 quindecies-I-2 du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 AL. 2
+	  - CGI 209 quater
+	  - CGI 219 I AL. 2
+	  - CGI 39 quindecies I 2, II
+	  - CGIAN2 103 A CGIAN2 134
+	  - CGIAN2 108 2 b
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 15 (P) JORF 30 décembre 1984, en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
+
+
 ###### Article 111
 
 1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, à raison de
@@ -4015,6 +4074,43 @@ sociétés dû par l'autre société. A défaut d'imputation, cette fraction peu
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 120
+
+1. Le résultat d'ensemble défini à l'article 116 est, selon le cas, imposé ou reporté dans les conditions prévues
+respectivement à l'article 219-I ou à l'article 209-I, troisième alinéa, du code général des impôts.
+
+2. Par dérogation à l'article 116-2-b, la plus-value nette à long terme d'ensemble peut, dans la mesure où la société agréée
+n'entend pas l'utiliser pour compenser le déficit, être imposée pour une part de son montant au taux normal prévu au deuxième
+alinéa de l'article 219-I du code général des impôts. Cette part est déterminée en appliquant au montant de cette plus-value
+le rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du même code et le taux
+normal prévu au deuxième alinéa de l'article 219-I précité.
+
+3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
+d'ensemble, rectifiée de manière à éliminer les plus-values ou moins-values à long terme apparues dans les exploitations
+indirectes.
+
+4. La moins-value nette à long terme d'ensemble est soumise au régime prévu à l'article 39 quindecies-I-2 du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 I AL. 2
+	  - CGI 209 quater
+	  - CGI 219 I AL. 2
+	  - CGI 39 quindecies I 2, II
+	  - CGIAN2 116 2 b
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 15 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
 
 
 ###### Article 121
@@ -13873,6 +13969,66 @@ Les associations sont soumises aux obligations prévues à l'article 371 D.
 	  - CGIAN2 371 D
 
 
+###### Article 371 Q
+
+Les statuts de l'association précisent les conditions de participation à sa gestion des personnes ou organismes fondateurs. 
+
+Les statuts des associations doivent contenir les clauses suivantes : 
+
+1° L'association a pour objet de fournir à ses membres adhérents des services ou informations qui leur permettent de
+développer l'usage de la comptabilité et qui facilitent l'accomplissement de leurs obligations administratives et fiscales ; 
+
+2° L'association élabore pour ceux de ses membres adhérents qui relèvent d'un régime réel d'imposition les déclarations
+relatives à leur activité professionnelle destinées à l'administration fiscale, lorsque ces membres en font la demande. 
+
+Toutefois, ces déclarations ne peuvent porter que sur une période au cours de laquelle les intéressés étaient membres de
+l'association ; 
+
+3° L'adhésion à l'association implique : 
+
+a.L'engagement par les membres soumis à un régime réel d'imposition de suivre les recommandations qui leur ont été adressées,
+conformément aux articles 371 X à 371 Z, par les ordres et organisations dont ils relèvent, en vue d'améliorer la
+connaissance des revenus de leurs ressortissants ; 
+
+b.L'engagement par ceux de ces membres dont les déclarations de bénéfices sont élaborées par l'association de fournir à
+celle-ci tous les éléments nécessaires à l'établissement de déclarations sincères et complètes ; 
+
+c.L'engagement par ceux de ces membres qui ne font pas élaborer leur déclaration par l'association, mais qui remplissent les
+conditions pour prétendre à l'abattement prévu au 4 bis de l'article 158 du code général des impôts, de communiquer à
+l'association, préalablement à l'envoi au service des impôts de la déclaration prévue à l'article 97 du même code, le montant
+du résultat imposable et l'ensemble des données utilisées pour la détermination de ce résultat ; 
+
+d.L'autorisation donnée à l'association de communiquer à l'agent de l'administration fiscale qui apporte son assistance
+technique à l'association les renseignements ou documents mentionnés au présent article ; 
+
+e. En cas de manquements graves ou répétés aux engagements énoncés ci-dessus, l'adhérent sera exclu de l'association. Il
+devra être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 89 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Arrêté du 25 novembre 2010 - art. (Ab)
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 X (V)
+	  - Code général des impôts, CGI. - art. 158
+	  - Code général des impôts, CGI. - art. 97
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ###### Article 371 QA
 
 Les statuts doivent comporter des clauses selon lesquelles les associations s'engagent :
@@ -13998,6 +14154,42 @@ vertu des statuts ou du règlement intérieur.
 	**Cite**:
 
 	  - CGIAN2 371 O, 371 N, 371 D
+
+
+###### Article 371 W
+
+Pour bénéficier au titre d'une année civile donnée de l'abattement prévu à l'article 158-4 bis du code général des impôts,
+les membres des professions libérales et les titulaires de charges et offices doivent avoir été adhérents d'une association
+agréée pendant toute la durée de l'année ou période d'imposition considérée.
+
+Si cette condition n'est pas remplie, le bénéfice de l'abattement est toutefois accordé :
+
+- en cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'année ou de la période d'imposition commencée
+depuis moins de trois mois à la date de l'agrément;
+
+- en cas de première adhésion à une association agréée, pour l'imposition du bénéfice de l'année ou de la période
+d'imposition commencée depuis moins de trois mois à la date de l'adhésion;
+
+- en cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de la période d'imposition en cours à la date du
+retrait.
+
+Les déclarations de résultats des membres adhérents d'une association agréée susceptibles de bénéficier de l'abattement
+doivent être accompagnées d'une attestation fournie par l'association indiquant la date d'adhésion et, le cas échéant, la
+date à laquelle est intervenue la perte de la qualité d'adhérent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 158 4 bis
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 89 finances pour 1985 JORF 30 décembre 1984, en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
 
 
 ###### Article 371 X
@@ -14669,31 +14861,6 @@ valeurs.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 74 R
-
-Le bénéfice du paiement fractionné est subordonné à une demande expresse du contribuable, jointe aux déclarations mentionnées
-à l'article 74 O dans le délai imparti pour la production de celles-ci.     La mise en recouvrement de l'impôt est alors
-fractionnée par parts égales sur les cinq années suivant celle de la réalisation de la plus-value. Elle donne lieu au
-paiement de l'intérêt, au taux légal, recouvré dans les mêmes conditions et sous les mêmes garanties et sanctions que l'impôt
-en principal.
-
-L'impôt complémentaire résultant d'une insuffisance quelconque constatée dans la déclaration des revenus ou de la plus-value
-n'est pas susceptible de bénéficier de ce paiement fractionné.
-
-En cas de transfert du domicile à l'étranger, de règlement judiciaire, de liquidation de biens ou de non-paiement de l'une
-des fractions de l'impôt, le solde restant dû, augmenté de l'intérêt couru, est exigible immédiatement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 74 O
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### REVENU GLOBAL.
 
 ###### Article 75-0 H
@@ -15232,72 +15399,6 @@ et leur valeur d'origine.
 
 
 ##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.
-
-###### Article 110
-
-1. Le résultat d'ensemble défini à l'article 108 est, selon le cas, imposé ou reporté dans les conditions prévues
-respectivement à l'article 219-I ou à l'article 209-I, deuxième alinéa, du code général des impôts.
-
-2. Par dérogation à l'article 108-2-b, la plus-value nette à long terme d'ensemble peut, dans la mesure où la société agréée
-n'entend pas l'utiliser pour compenser le déficit, être imposée pour une part de son montant au taux normal prévu au deuxième
-alinéa de l'article 219-I du code général des impôts. Cette part est déterminée en appliquant au montant de cette plus-value
-le rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du même code et le taux
-normal prévu au deuxième alinéa de l'article 219-I précité.
-
-3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
-d'ensemble taxée dans les conditions prévues aux articles 103 à 134.
-
-4. La moins-value nette à long terme d'ensemble est soumise au régime prévu à l'article 39 quindecies-I-2 du code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 AL. 2
-	  - CGI 209 quater
-	  - CGI 219 I AL. 2
-	  - CGI 39 quindecies I 2, II
-	  - CGIAN2 103 A CGIAN2 134
-	  - CGIAN2 108 2 b
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 120
-
-1. Le résultat d'ensemble défini à l'article 116 est, selon le cas, imposé ou reporté dans les conditions prévues
-respectivement à l'article 219-I ou à l'article 209-I, deuxième alinéa, du code général des impôts.
-
-2. Par dérogation à l'article 116-2-b, la plus-value nette à long terme d'ensemble peut, dans la mesure où la société agréée
-n'entend pas l'utiliser pour compenser le déficit, être imposée pour une part de son montant au taux normal prévu au deuxième
-alinéa de l'article 219-I du code général des impôts. Cette part est déterminée en appliquant au montant de cette plus-value
-le rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du même code et le taux
-normal prévu au deuxième alinéa de l'article 219-I précité.
-
-3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
-d'ensemble, rectifiée de manière à éliminer les plus-values ou moins-values à long terme apparues dans les exploitations
-indirectes.
-
-4. La moins-value nette à long terme d'ensemble est soumise au régime prévu à l'article 39 quindecies-I-2 du code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 I AL. 2
-	  - CGI 209 quater
-	  - CGI 219 I AL. 2
-	  - CGI 39 quindecies I 2, II
-	  - CGIAN2 116 2 b
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 127
 
@@ -20415,99 +20516,6 @@ créés à l'initiative des fédérations départementales des syndicats d'explo
 Il n'est pas exigé non plus d'effectif minimum des centres créés dans les départements d'outre-mer [*DOM*].
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-### ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES.
-
-###### Article 371 Q
-
-Les statuts de l'association précisent les conditions de participation à sa gestion des personnes ou organismes fondateurs.
-
-Les statuts des associations doivent contenir les clauses suivantes :
-
-1° L'association a pour objet de fournir à ses membres adhérents des services ou informations qui leur permettent de
-développer l'usage de la comptabilité et qui facilitent l'accomplissement de leurs obligations administratives et fiscales ;
-
-2° L'association élabore pour ceux de ses membres adhérents qui relèvent d'un régime réel d'imposition les déclarations
-relatives à leur activité professionnelle destinées à l'administration fiscale, lorsque ces membres en font la demande.
-
-Toutefois, ces déclarations ne peuvent porter que sur une période au cours de laquelle les intéressés étaient membres de
-l'association ;
-
-3° L'adhésion à l'association implique :
-
-a. L'engagement par les membres soumis à un régime réel d'imposition de suivre les recommandations qui leur ont été
-adressées, conformément aux articles 371 X à 371 Z, par les ordres et organisations dont ils relèvent, en vue d'améliorer la
-connaissance des revenus de leurs ressortissants ;
-
-b. L'engagement par ceux de ces membres dont les déclarations de bénéfices sont élaborées par l'association de fournir à
-celle-ci tous les éléments nécessaires à l'établissement de déclarations sincères et complètes ;
-
-c. L'engagement par ceux de ces membres qui ne font pas élaborer leur déclaration par l'association, mais qui remplissent les
-conditions pour prétendre à l'abattement prévu à l'article 158-4 ter du code général des impôts, de communiquer à
-l'association, préalablement à l'envoi au service des impôts de la déclaration prévue à l'article 97 du même code, le montant
-du résultat imposable et l'ensemble des données utilisées pour la détermination de ce résultat ;
-
-d. L'autorisation donnée à l'association de communiquer à l'agent de l'administration fiscale qui apporte son assistance
-technique à l'association les renseignements ou documents mentionnés au présent article ;
-
-e. En cas de manquements graves ou répétés aux engagements énoncés ci-dessus, l'adhérent sera exclu de l'association. Il
-devra être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 25 novembre 2010 - art. (Ab)
-
-	**Cite**:
-
-	  - CGI 158 4 ter
-	  - CGI 97
-	  - CGIAN2 371 X
-	  - CGIAN2 371 Y
-	  - CGIAN2 371 Z
-
-	**Modifié par**:
-
-	  - Décret n°77-1519 du 31 décembre 1977 - art. 7 (Ab) JORF 4 JANVIER 1978
-	  - Décret n°77-1519 du 31 décembre 1977 - art. 8 (Ab) JORF 4 JANVIER 1978
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 371 W
-
-Pour bénéficier au titre d'une année civile donnée de l'abattement prévu à l'article 158-4 ter du code général des impôts,
-les membres des professions libérales et les titulaires de charges et offices doivent avoir été adhérents d'une association
-agréée pendant toute la durée de l'année ou période d'imposition considérée.
-
-Si cette condition n'est pas remplie, le bénéfice de l'abattement est toutefois accordé :
-
-- en cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'année ou de la période d'imposition commencée
-depuis moins de trois mois à la date de l'agrément;
-
-- en cas de première adhésion à une association agréée, pour l'imposition du bénéfice de l'année ou de la période
-d'imposition commencée depuis moins de trois mois à la date de l'adhésion;
-
-- en cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de la période d'imposition en cours à la date du
-retrait.
-
-Les déclarations de résultats des membres adhérents d'une association agréée susceptibles de bénéficier de l'abattement
-doivent être accompagnées d'une attestation fournie par l'association indiquant la date d'adhésion et, le cas échéant, la
-date à laquelle est intervenue la perte de la qualité d'adhérent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 158 4 ter
 
 	**Liens**:
 
