@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-01-13
+Version Consolidée au 1983-02-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8643,6 +8643,32 @@ obligatoire à la taxe sur la valeur ajoutée est reconduit pour une période de
 
 ##### B : Opérations imposables sur option
 
+###### Article 260 D
+
+L'option pour l'imposition d'après le régime simplifié prévue à l'article 298 bis du code général des impôts est ouverte aux
+exploitants agricoles, qu'ils soient propriétaires, fermiers ou métayers.
+
+En cas de métayage et à défaut d'option conjointe, l'option peut être exercée séparément par le propriétaire ou par le
+métayer pour la part de la récolte lui revenant. Dans ce cas, les droits à déduction de celui qui a opté sont calculés dans
+les conditions prévues pour les personnes qui ne réalisent pas exclusivement des opérations ouvrant droit à déduction. La
+totalité des recettes de la métairie est inscrite au second terme du rapport défini à l'article 212.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 212
+	  - CGI 298 bis
+
+	**Modifié par**:
+
+	  - Décret n°83-133 du 23 février 1983 - art. 1 (V) JORF 25 FEVRIER 1983
+
+
 ###### Article 260 E
 
 L'option peut être globale ou restreinte. L'option globale s'applique à l'ensemble des opérations réalisées par les
@@ -15496,26 +15522,6 @@ d'enregistrement comme il est dit à l'article 291 ci-après.
 
 	  - CGI 266 3 AL. 2
 	  - CGIAN2 291
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### REGIMES SPECIAUX.
-
-###### Article 260 D
-
-L'option pour l'imposition d'après le régime simplifié prévue à l'article 298 bis du code général des impôts est ouverte aux
-exploitants agricoles, qu'ils soient propriétaires, fermiers ou métayers.
-
-En cas de métayage, l'option est exercée conjointement par le métayer et par le bailleur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 298 bis
 
 	**Liens**:
 
