@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1995-10-27
+Version Consolidée au 1996-05-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -214,132 +214,6 @@ chacun des deux exercices suivants.
 	  - Décret n°97-1065 du 20 novembre 1997 - art. 1-1 (V)
 	  - Décret n°2012-484 du 13 avril 2012 - art. 9 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G-0 bis (V)
-
-
-###### Article 18
-
-Sont considérées comme exposées en vue de l'installation d'un établissement ou d'un bureau à l'étranger, au sens de l'article
-39 octies du code général des impôts, les dépenses et les charges se rapportant à un établissement de vente, à un bureau
-d'études ou à un bureau de renseignements situé dans un pays autre que les territoires de la République française et les
-Etats membres de la Communauté française.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 octies
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°96-556 du 21 juin 1995 - art. 3 () JORF 23 juin 1996
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 19
-
-1. Les entreprises ou sociétés qui désirent bénéficier des dispositions de l'article 39 octies du code général des impôts
-doivent adresser au service des impôts, en même temps que leur déclaration pour l'établissement de l'impôt sur le revenu
-(bénéfices industriels et commerciaux) ou de l'impôt sur les sociétés, une note indiquant, pour chaque établissement de
-vente, bureau d'études ou bureau de renseignements installé à l'étranger :
-
-La date de la création de l'établissement ou du bureau ;
-
-Le relevé sommaire et le montant des dépenses et charges dont la déduction est demandée au titre de l'exercice.
-
-2. Lorsque ces mêmes entreprises ou sociétés, après avoir bénéficié des dispositions de l'article 39 octies du code général
-des impôts, sont tenues de rapporter à leur bénéfice imposable les sommes qui en ont été distraites antérieurement, elles
-doivent faire connaître dans les mêmes conditions :
-
-La date de la création de l'établissement ou du bureau ;
-
-Le montant des sommes qui ont été rapportées aux bénéfices imposables de l'exercice ainsi que le montant des sommes restant à
-rapporter aux bénéfices imposables des exercices ultérieurs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 octies
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°96-556 du 21 juin 1995 - art. 3 () JORF 23 juin 1996
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 20
-
-1. En cas de cession ou de cessation totale d'entreprise ou de décès de l'exploitant, les sommes, dont l'imposition a été
-provisoirement différée en application des dispositions de l'article 39 octies du code général des impôts, doivent être
-rapportées en totalité aux bénéfices imposables de l'exercice au cours duquel est intervenu le changement.
-
-En cas de cession affectant spécialement l'exploitation de l'établissement de vente, du bureau d'études ou du bureau de
-renseignements installé à l'étranger, ou de suppression dudit établissement ou bureau, ainsi qu'en cas de modification
-survenant dans son mode d'exploitation et propre à l'exclure du champ d'application de l'article susvisé, les sommes dont
-l'imposition a été provisoirement différée en application de ces dispositions doivent être rapportées, par fractions égales,
-aux bénéfices imposables de trois exercices consécutifs à partir de l'exercice au cours duquel est intervenu le changement
-sans que puisse être dépassé le délai prévu au 2è alinéa du 1 de l'article 39 octies du code général des impôts.
-
-Le relevé desdites sommes doit être joint, selon le cas, soit à la déclaration souscrite en application de l'article 201 ou
-de l'article 221 du code précité, soit à la déclaration des résultats de l'exercice au cours duquel est intervenu le
-changement affectant l'établissement de vente, le bureau d'études ou le bureau de renseignements installé à l'étranger.
-
-2. Par dérogation aux dispositions du 1, lorsque l'exploitation est continuée dans les conditions prévues aux articles 41 et
-210 du code général des impôts, les sommes dont il s'agit ne sont pas rapportées aux bénéfices imposables si l'établissement
-de vente, le bureau d'études ou le bureau de renseignements installé à l'étranger est repris par les nouveaux exploitants,
-par la société absorbante ou nouvelle ou par la société bénéficiaire de l'apport et continue à entrer dans le champ
-d'application de l'article 39 octies du code général des impôts.
-
-L'application des dispositions de l'alinéa précédent est subordonnée à l'obligation, pour les nouveaux exploitants, pour la
-société absorbante ou nouvelle ou pour la société bénéficiaire de l'apport, de prendre à leur charge les conséquences
-fiscales résultant, du chef du précédent exploitant, de l'application du deuxième alinéa dudit article.
-
-Cet engagement est joint à la déclaration visée au troisième alinéa du 1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°96-556 du 21 juin 1995 - art. 3 () JORF 23 juin 1996
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 21
-
-Seules seront de nature à être admises en déduction, en vertu de l'article 39 octies du code général des impôts, les dépenses
-et charges mentionnées audit article qui auront été exposées ou supportées à partir du 1er janvier 1959 en vue de
-l'installation ou du fonctionnement d'un établissement ou d'un bureau créé postérieurement au 31 décembre 1957.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 octies
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°96-556 du 21 juin 1995 - art. 3 () JORF 23 juin 1996
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### 6 : Amortissement dégressif des biens d'équipement
@@ -6708,6 +6582,90 @@ l'un des organismes prévus à l'article 163 undecies.
 	  - HISTO: Edition du 4 juillet 1992
 
 
+##### III : Employeurs occupant moins de dix salariés
+
+###### Article 163 quindecies A
+
+- La déclaration prévue à l'article 235 ter KD du code général des impôts doit indiquer, outre la désignation et l'adresse du
+déclarant :
+
+1° Le montant des salaires payés tels qu'ils sont définis au premier alinéa de l'article 235 ter KA du même code ;
+
+2° Le montant des salaires payés tels qu'ils sont définis au premier alinéa de l'article L. 931-20-1 du code du travail ;
+
+3° L'assiette de la contribution à laquelle sont assujetties les personnes mentionnées au premier alinéa de l'article L.
+953-1 du même code, et effectuant leur versement à un organisme collecteur visé à l'article 235 ter KA du code général des
+impôts ;
+
+4° Le montant de l'obligation et des contributions mentionnées aux articles L. 931-20-1 et L. 953-1 du code du travail et à
+l'article 235 ter KA du code général des impôts ;
+
+5° Le montant des versements effectués aux organismes collecteurs agréés pour recevoir les contributions visées au 4°, avec
+indication de leur dénomination et de l'adresse précise de ces organismes ;
+
+6° Selon les cas, l'absence ou l'insuffisance des versements effectués, compte tenu du montant des contributions dues ;
+
+7° Le cas échéant, la détermination des majorations prévues aux articles 235 ter KC du code général des impôts et aux
+cinquième et sixième alinéas de l'article L. 931-20 du code du travail ;
+
+8° Le montant total du versement à effectuer à la caisse du comptable des impôts ;
+
+9° Le nombre de salariés de l'entreprise par catégorie d'emploi et par sexe ainsi que, le cas échéant, le nombre de salariés
+ayant suivi une action de formation et le nombre d'heures de formation correspondant.
+
+Cette déclaration doit être rédigée en un exemplaire sur un imprimé fourni par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter KD, 235 ter KA, 235 ter KC
+	  - Code du travail - art. L931-20 (M)
+	  - Code du travail - art. L931-20-1 (M)
+	  - Code du travail - art. L953-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°93-326 du 12 mars 1993 - art. 2 () JORF 13 mars 1993
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
+
+###### Article 163 quindecies B
+
+- La déclaration doit être déposée dans les délais prévus au deuxième et, le cas échéant, aux troisième et quatrième alinéas
+de l'article 235 ter KD du code général des impôts, à la recette des impôts du lieu :
+
+1° Du siège de la direction de l'entreprise ou, à défaut, du principal lieu d'exercice de la profession ou du lieu du
+principal établissement ;
+
+2° De l'exploitation, ou du siège de la direction en cas de pluralité d'exploitations, pour les exploitants agricoles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter KD
+
+	**Créé par**:
+
+	  - Décret n°93-326 du 12 mars 1993 - art. 2 () JORF 13 mars 1993
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
+
 ##### IV : Régimes spéciaux
 
 ##### Départements d'outre-mer.
@@ -8012,9 +7970,9 @@ au soutien de l'investissement productif industriel.
 
 ###### Article 172
 
-Pour les locations de moyens de transport mentionnées au 1° de l'article 259 A du code général des impôts, et les prestations
-de services indiquées à l'article 259 C du même code, le prestataire est tenu d'apporter la preuve que les moyens de
-transports loués ou les prestations rendues ont été utilisés en totalité ou en partie, et, le cas échéant, dans quelle
+Pour les locations de moyens de transport mentionnées aux 1° et 1° bis de l'article 259 A du code général des impôts, et les
+prestations de services indiquées à l'article 259 C du même code, le prestataire est tenu d'apporter la preuve que les moyens
+de transports loués ou les prestations rendues ont été utilisés en totalité ou en partie, et, le cas échéant, dans quelle
 proportion :
 
 a. En France, dans un autre Etat membre de la Communauté européenne ou en dehors de la Communauté, s'il s'agit de la location
@@ -8036,15 +7994,19 @@ A défaut, les locations de moyens de transport et les prestations ci-dessus son
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 12 mai 1996
 
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+	  - Loi n°94-1163 du 29 décembre 1994 - art. 22 (V) JORF 30 décembre 1994
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°96-556 1996-06-21
+
+	**Abrogé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 2
 
 
 ##### 2° Livraisons et prestations à soi-même
@@ -8525,26 +8487,26 @@ Les collectivités locales, leurs groupements ou leurs établissements publics q
 des obligations qui incombent aux assujettis à la taxe sur la valeur ajoutée. Les règles relatives à l'assiette, à la
 liquidation, au paiement, au contrôle et au contentieux de cette taxe leur sont applicables.
 
-Chaque service couvert par l'option, doit faire l'objet, conformément au code des communes, d'une comptabilité distincte
-s'inspirant du Plan comptable général faisant apparaître un équilibre entre :
+Chaque service couvert par l'option, doit faire l'objet, conformément au code général des collectivités territoriales d'une
+comptabilité distincte s'inspirant du Plan comptable général faisant apparaître un équilibre entre :
 
-- d'une part, l'ensemble des charges du service, y compris les amortissements techniques des immobilisations ;
+d'une part, l'ensemble des charges du service, y compris les amortissements techniques des immobilisations ;
 
-- d'autre part, l'ensemble des produits et recettes du service.
+d'autre part, l'ensemble des produits et recettes du service.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
 	**Modifié par**:
 
-	  - Décret n°89-885 du 14 décembre 1989 - art. 1 (V) JORF 15 décembre 1989
+	  - Loi n°96-142 du 21 février 1996 - art. 1 (V) JORF 24 février 1996
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
+	  - Décret n°96-556 1996-06-21
 
 
 ###### Article 201 quinquies
@@ -9098,18 +9060,18 @@ dépenses concernées, à condition de pouvoir la justifier.
 e) Les opérations imposables s'entendent des opérations situées dans le champ d'application de la taxe sur la valeur ajoutée,
 qu'elles soient imposées ou légalement exonérées.
 
-2.  a) Lorsque la proportion déterminée au d du 1 diminue de plus de vingt centièmes au cours des neuf années qui suivent
+2.  a) Lorsque la proportion déterminée au d du 1 diminue de plus de vingt centièmes au cours des dix neuf années qui suivent
 celle de l'achèvement ou de l'acquisition d'un immeuble, le redevable doit procéder au reversement d'une fraction de la taxe
-initialement déductible au titre des opérations imposables. Ce reversement est égal au dixième de la différence entre le
+initialement déductible au titre des opérations imposables. Ce reversement est égal au vingtième la différence entre le
 montant de la taxe initialement déductible et le montant de la taxe déductible au titre de l'année au cours de laquelle la
 diminution a été constatée.
 
 Les redevables qui cessent de réaliser exclusivement des opérations situées dans le champ d'application de la taxe sur la
 valeur ajoutée sont tenus à la même obligation.
 
-b) Lorsque la proportion déterminée au d du 1 augmente de plus de vingt centièmes au cours des neuf années qui suivent celle
-de l'acquisition ou de l'achèvement d'un immeuble, le redevable bénéficie d'un droit à déduction complémentaire. Celui-ci est
-égal au dixième de la différence entre le montant de la taxe déductible au titre de l'année au cours de laquelle
+b) Lorsque la proportion déterminée au d du 1 augmente de plus de vingt centièmes au cours des dix neuf années qui suivent
+celle de l'acquisition ou de l'achèvement d'un immeuble, le redevable bénéficie d'un droit à déduction complémentaire. Celui-
+ci est égal au vingtiéme la différence entre le montant de la taxe déductible au titre de l'année au cours de laquelle
 l'augmentation a été constatée et le montant de la taxe initialement déductible.
 
 c) Pour l'application des dispositions du a et du b, lorsque le droit à déduction n'a été ouvert qu'après la date de
@@ -9123,8 +9085,8 @@ déduction mentionnée au c.
 
 3. Les dispositions du 2 sont applicables aux autres biens constituant des immobilisations. Toutefois, la période de quatre
 années suivant celle de l'achat, de l'acquisition intracommunautaire, de l'importation ou de la première utilisation des
-biens est substituée à la période de neuf années et le reversement ou la déduction complémentaire est calculé par cinquième
-au lieu de dixième.
+biens est substituée à la période de dix-neuf années et le reversement ou la déduction complémentaire est calculé par
+cinquième au lieu de vingtième
 
 4. La déduction supplémentaire dont les principes sont exposés aux 2 et 3 est opérée en fonction des règles fixées aux
 articles 205 à 242 B.
@@ -9136,24 +9098,35 @@ complémentaire est effectuée dans le même délai.
 opérations imposables à la taxe sur la valeur ajoutée, il doit comptabiliser ces opérations dans des comptes distincts pour
 l'application du droit à déduction de la taxe sur la valeur ajoutée.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Article incorporé dans l'édition du 2 septembre 1994
 
 	**Cite**:
 
 	  - CGI 256, 212
 	  - CGIAN2 205 à 242 B
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-452 du 3 juin 1994 - art. 1 () JORF 5 juin 1994
+	  - Décret n°95-1328 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
+	  - Décret n°95-1328 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - TXT_ASSOCIE: Instruction 1998-10-07 3D-5-98
+	  - TXT_ASSOCIE: Instruction 1999-12-22 3D-6-99
 
 	**Codifié par**:
 
-	  - Décret n°94-899 1994-10-17
+	  - L'abrogation sera codifiée ultérieurement
 
 
 ##### a : Dispositions applicables aux entreprises qui sont assujetties à la taxe sur la valeur ajoutée pour l'ensemble de leurs activités.
@@ -9199,21 +9172,21 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 ###### Article 210
 
-I. Lorsque des immeubles sont cédés ou apportés avant le commencement de la neuvième année qui suit celle de leur acquisition
-ou de leur achèvement et que la cession ou l'apport ne sont pas soumis à la taxe sur le prix total ou la valeur totale de
-l'immeuble, l'assujetti est redevable d'une fraction de la taxe antérieurement déduite. Cette fraction est égale au montant
-de la déduction diminuée d'un dixième par année civile ou fraction d'année civile écoulée depuis la date à laquelle
-l'immeuble a été acquis ou achevé. Sont assimilés à une cession ou un apport la cessation de l'activité ou la cessation des
-opérations ouvrant droit à déduction ainsi que le transfert entre différents secteurs d'activités d'un assujetti prévus à
-l'article 213. Lorsque le droit à déduction n'a été ouvert qu'après la date de l'acquisition ou de l'achèvement de
-l'immeuble, la date de l'ouverture du droit à déduction se substitue à cette date. Lorsqu'un immeuble acquis ou construit en
-vue de la vente est utilisé directement par l'assujetti, la date de la première utilisation se substitue à celle de
-l'acquisition ou de l'achèvement.
+I. Lorsque des immeubles sont cédés ou apportés avant le commencement de la dix-neuvième année (1) qui suit celle de leur
+acquisition ou de leur achèvement et que la cession ou l'apport ne sont pas soumis à la taxe sur le prix total ou la valeur
+totale de l'immeuble, l'assujetti est redevable d'une fraction de la taxe antérieurement déduite. Cette fraction est égale au
+montant de la déduction diminuée d'un vingtième (2) par année civile ou fraction d'année civile écoulée depuis la date à
+laquelle l'immeuble a été acquis ou achevé. Sont assimilés à une cession ou un apport la cessation de l'activité ou la
+cessation des opérations ouvrant droit à déduction ainsi que le transfert entre différents secteurs d'activités d'un
+assujetti prévus à l'article 213. Lorsque le droit à déduction n'a été ouvert qu'après la date de l'acquisition ou de
+l'achèvement de l'immeuble, la date de l'ouverture du droit à déduction se substitue à cette date. Lorsqu'un immeuble acquis
+ou construit en vue de la vente est utilisé directement par l'assujetti, la date de la première utilisation se substitue à
+celle de l'acquisition ou de l'achèvement.
 
 II. Les dispositions du I s'appliquent aux autres biens constituant des immobilisations qui sont cédés, apportés ou ont
 disparu avant le commencement de la quatrième année qui suit celle de leur acquisition, de leur importation ou de leur
-première utilisation. Toutefois, la diminution est d'un cinquième au lieu d'un dixième par année civile ou fraction d'année
-civile.
+première utilisation. Toutefois, la diminution est d'un cinquième au lieu d'un vingtième (2) par année civile ou fraction
+d'année civile.
 
 III. L'obligation prévue au présent article peut être transférée à une société absorbante ou à une société bénéficiaire de
 l'apport du bien.
@@ -9227,34 +9200,40 @@ Elle ne concerne pas les autres biens constituant des immobilisations lorsque le
 IV. Sous réserve que le bien constitue une immobilisation pour le bénéficiaire de la cession, de l'apport ou du transfert,
 celui-ci peut opérer la déduction de la taxe ayant initialement grevé le bien diminuée dans les conditions précitées. A cette
 fin, le cédant ou l'apporteur délivre au bénéficiaire une attestation mentionnant le montant de la taxe qu'il est en droit de
-déduire. La taxe ayant initialement grevé le bien s'entend, selon le cas, de la taxe mentionnée à l'article 223-1 ou de la
-fraction de taxe mentionnée tant à l'article 226-3° qu'à l'article 226 bis. Le bénéficiaire d'une cession ou d'un apport
-ultérieur peut également opérer la déduction d'une fraction, calculée dans les conditions précitées, de la taxe que le
+déduire. La taxe ayant initialement grevé le bien s'entend, selon le cas, de la taxe mentionnée au 1 de l'article 223 ou de
+la fraction de taxe mentionnée tant au 3° de l'article 226 qu'à l'article 226 bis. Le bénéficiaire d'une cession ou d'un
+apport ultérieur peut également opérer la déduction d'une fraction, calculée dans les conditions précitées, de la taxe que le
 précédent propriétaire était en droit de déduire.
+
+**Nota:**
+
+(1) Neuvième année pour les immeubles livrés, acquis ou apportés avant le 1er janvier 1996.
+
+(2) Un dixième pour les immeubles livrés, acquis ou apportés avant le 1er janvier 1996.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 213
-	  - CGIAN2 223 1
-	  - CGIAN2 226 3°
-	  - CGIAN2 226 bis
+	  - CGIAN2 213, 223 1, 226 bis, 226
 	  - Décret n°75-102 1975-02-20
 
 	**Modifié par**:
 
-	  - Décret n°89-301 1989-05-11 art. 2 JORF 13 mai 1989
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°95-1328 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
+	  - Décret n°95-1328 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
 
 	**Cité par**:
 
 	  - Décret n°2014-44 du 20 janvier 2014 (V)
 	  - Code général des collectivités territoriales - art. R1615-2 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - TXT_ASSOCIE: Instruction 2002-05-17 3D-2-02
+	  - TXT_ASSOCIE: Instruction 2002-12-27 3I-1-02
 
 
 ###### Article 211
@@ -9265,10 +9244,10 @@ l'assujetti peut opérer une déduction complémentaire si la taxe qui a grevé 
 déduction totale. Le montant de cette déduction complémentaire est égal à la différence entre le montant de la taxe qui a
 grevé le bien et le montant de la déduction initiale, diminuée d'un cinquième par année civile ou fraction d'année civile
 écoulée entre la date à laquelle le droit à déduction a pris naissance et la date à laquelle la taxe est devenue exigible au
-titre de la cession ou de l'apport. Pour les immeubles, la diminution est calculée par dixièmes.
+titre de la cession ou de l'apport. Pour les immeubles, la diminution est calculée par vingtièmes.
 
 Lorsque le bien cédé ou apporté était exclu du droit à déduction, l'assujetti peut opérer une déduction égale au montant de
-la taxe qui a grevé le bien diminué d'un cinquième ou d'un dixième s'il s'agit d'un immeuble, par année civile ou fraction
+la taxe qui a grevé le bien diminué d'un cinquième ou d'un vingtième s'il s'agit d'un immeuble, par année civile ou fraction
 d'année civile écoulée depuis la date d'acquisition d'importation ou de la première utilisation du bien. Pour les immeubles
 affectés à l'habitation, le montant de la déduction est égal au montant de la taxe qui les a grevés.
 
@@ -9283,7 +9262,12 @@ l'apport.
 
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 6 (V) JORF 31 DECEMBRE 1979
+	  - Décret n°95-1328 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
+	  - Décret n°95-1328 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
 
 
 ##### A : Dispositions relatives aux biens constituant des immobilisations.
@@ -9407,25 +9391,26 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 	  - L'abrogation sera codifiée ultérieurement
 
 
+##### *REGULARISATIONS DES DEDUCTIONS INITIALES : VARIATION DU PRORATA DANS LE TEMPS*
+
 ###### Article 215
 
-I. Lorsque le rapport entre le montant annuel du ((chiffre d'affaires)) afférent à des opérations ouvrant droit à déduction
-et le montant du ((chiffre d'affaires)) (1) afférent à l'ensemble des opérations réalisées par l'assujetti [*pourcentage
-général de déduction*] diminue de plus de dix centièmes dans les neuf années qui suivent celle de l'achèvement ou de
-l'acquisition d'un immeuble, l'assujetti est redevable d'une fraction de la taxe initialement déduite. Cette fraction est
-égale au dixième de la différence entre le produit de la taxe qui a grevé l'immeuble par le rapport initial et le produit de
-la même taxe par le rapport de l'année considérée. Les assujettis qui cessent de réaliser exclusivement des opérations
-ouvrant droit à déduction sont tenus à la même obligation.
+I. Lorsque le rapport entre le montant annuel du chiffre d'affaires afférent à des opérations ouvrant droit à déduction et le
+montant du chiffre d'affaires afférent à l'ensemble des opérations réalisées par l'assujetti diminue de plus de dix centièmes
+dans les dix-neuf années  qui suivent celle de l'achèvement ou de l'acquisition d'un immeuble, l'assujetti est redevable
+d'une fraction de la taxe initialement déduite. Cette fraction est égale au vingtième  de la différence entre le produit de
+la taxe qui a grevé l'immeuble par le rapport initial et le produit de la même taxe par le rapport de l'année considérée. Les
+assujettis qui cessent de réaliser exclusivement des opérations ouvrant droit à déduction sont tenus à la même obligation.
 
 Lorsque le rapport entre le montant annuel des recettes afférentes à des opérations ouvrant droit à déduction et le montant
-des recettes afférentes à l'ensemble des opérations réalisées par l'assujetti augmente de plus de dix centièmes dans les neuf
-années qui suivent celle de l'acquisition ou de l'achèvement d'un immeuble, l'assujetti peut opérer une déduction
-complémentaire. Celle-ci est égale au dixième de la différence entre le produit de la taxe qui a grevé l'immeuble par le
+des recettes afférentes à l'ensemble des opérations réalisées par l'assujetti augmente de plus de dix centièmes dans les dix-
+neuf années qui suivent celle de l'acquisition ou de l'achèvement d'un immeuble, l'assujetti peut opérer une déduction
+complémentaire. Celle-ci est égale au vingtième  de la différence entre le produit de la taxe qui a grevé l'immeuble par le
 rapport de l'année considérée et le produit de la même taxe par le rapport initial.
 
-((Lorsque l'immeuble est partiellement utilisé pour des opérations situées hors du champ d'application de la taxe sur la
-valeur ajoutée, le calcul de la régularisation s'effectue à partir du montant de la taxe déductible, calculé après
-application de la proportion visée à l'article 207 bis et déterminé au titre de l'année considérée)) (1).
+Lorsque l'immeuble est partiellement utilisé pour des opérations situées hors du champ d'application de la taxe sur la valeur
+ajoutée, le calcul de la régularisation s'effectue à partir du montant de la taxe déductible, calculé après application de la
+proportion visée à l'article 207 bis et déterminé au titre de l'année considérée.
 
 Lorsque le droit à déduction n'a été ouvert qu'après la date de l'achèvement ou de l'acquisition de l'immeuble, la date de
 l'ouverture du droit à déduction se substitue à cette date. Lorsqu'un immeuble acquis ou construit en vue de la vente est
@@ -9434,29 +9419,44 @@ l'achèvement.
 
 II. Les dispositions du I sont applicables aux autres biens constituant des immobilisations. Toutefois, la période de quatre
 années suivant celle de l'acquisition, de l'importation ou de la première utilisation des biens est substituée à la période
-de neuf années et la fraction de taxe due ou la déduction complémentaire sont calculées par cinquièmes au lieu de dixièmes.
+de dix-neuf années et la fraction de taxe due ou la déduction complémentaire sont calculées par cinquièmes au lieu de
+vingtièmes.
 
-III. L'obligation résultant du présent article doit être accomplie avant le 25 avril de l'année suivante [*date limite*]. La
-déduction complémentaire est effectuée dans le même délai.
+III. L'obligation résultant du présent article doit être accomplie avant le 25 avril de l'année suivante. La déduction
+complémentaire est effectuée dans le même délai.
 
 IV. Les dispositions du présent article ne concernent pas les immeubles pour lesquels la déduction initiale ne pouvait plus
 donner lieu à régularisation à la date d'entrée en vigueur du décret n° 75-102 du 20 février 1975 modifiant certaines
 dispositions relatives aux conditions de déduction de la taxe sur la valeur ajoutée qui a grevé des biens constituant des
 immobilisations.
 
-(1) Modifications du décret.
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 207 bis
+	  - CGI 207 bis
 	  - Décret n°75-102 1975-02-20
 
 	**Modifié par**:
 
-	  - Décret n°94-452 du 3 juin 1994 - art. 4 () JORF 5 juin 1994
-	  - Modifications directes incorporées dans l'édition du 2 septembre 1994
+	  - Décret n°95-1328 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
+	  - Décret n°95-1328 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
+	**Codifié par**:
+
+	  - L'abrogation sera codifiée ultérieurement
 
 
 ##### c : Dispositions applicables aux entreprises qui utilisent des biens dont elles ne sont pas propriétaires.
@@ -9802,23 +9802,42 @@ fixées par les articles 205 à 242 B :
 1° de la taxe ayant grevé les biens ne constituant pas des immobilisations qu'elles détiennent en stock à la date à laquelle
 elles sont devenues redevables ;
 
-2° de la taxe ayant grevé les biens ne constituant des immobilisations qui n'ont pas encore commencé à être utilisés à la
-date à laquelle elles sont devenues redevables ;
+2° de la taxe ayant grevé les biens constituant des immobilisations qui n'ont pas encore commencé à être utilisés à la date à
+laquelle elles sont devenues redevables ;
 
 3° d'une fraction de la taxe sur la valeur ajoutée ayant grevé les biens constituant des immobilisations en cours
 d'utilisation. Cette fraction est égale au montant de la taxe ayant grevé les biens, diminué d'un cinquième par année civile
 ou fraction d'année civile écoulée depuis la date à laquelle cette taxe est devenue exigible. Pour les immeubles, la
-diminution est calculée par dixièmes.
+diminution est calculée par vingtièmes (1).
+
+**Nota:**
+
+(1) Par dixièmes pour les immeubles livrés, acquis ou apportés avant le 1er janvier 1996.  La présente version de cet article
+est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 205 A CGIAN2 242 B
+	  - CGIAN2 205 à 242 B
 
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 20 (V) JORF 31 DECEMBRE 1979
+	  - Décret n°95-1328 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
+	  - Décret n°95-1328 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - TXT_ASSOCIE: Instruction 2002-12-27 3I-1-02
+
+	**Codifié par**:
+
+	  - L'abrogation sera codifiée ultérieurement
 
 
 ###### Article 226 bis
@@ -9938,28 +9957,6 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 	**Codifié par**:
 
 	  - L'abrogation sera codifiée ultérieurement
-
-
-##### 2° : Négociants en biens d'occasion.
-
-###### Article 232
-
-Les entreprises qui vendent des articles d'occasion ne peuvent opérer la déduction de la taxe ayant grevé ces biens que dans
-la mesure où elles acquittent l'impôt sur le prix total versé par l'acquéreur.
-
-Il en est de même de celles qui vendent des oeuvres d'art originales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - HISTO: Edition du 12 mai 1996
-	  - PEREMPTION: Loi n°94-1163 1994-12-29 art. 16-XI JORF 30 décembre 1994
 
 
 ##### 3° : Entreprises bénéficiant d'atténuations d'impôt : franchise en impôt.
@@ -10427,16 +10424,16 @@ des impôts.
 
 2. Pour l'application du 1, ne sont pas considérés comme réalisés en France :
 
-a. les transports et prestations accessoires exonérés en application du premier alinéa du I, des 7° à 11° bis, 13° et 14° du
-II de l'article 262 du code général des impôts ainsi que du 2° du III de l'article 291 du même code;
+a. les transports et prestations accessoires exonérés ((en application du premier alinéa du I, des 7° à 11° bis, et 14° du
+II)) (M) de l'article 262 du code général des impôts ainsi que du 2° du III de l'article 291 du même code;
 
 b. les prestations mentionnées aux 3°, 5° et 6° de l'article 259 A et à l'article 259 B du code général des impôts, pour
 lesquelles la taxe est due par le preneur en vertu du 2° de l'article 283 du même code.
 
-((c) Les livraisons mentionnées au 2° du I de l'article 258 D du code général des impôts, pour lesquelles la taxe est due par
-le destinataire en application du 2 ter de l'article 283 du même code)) (1).
+c. Les livraisons mentionnées au 2° du I de l'article 258 D du code général des impôts, pour lesquelles la taxe est due par
+le destinataire en application du 2 ter de l'article 283 du même code.
 
-(1) Modification du décret.
+(M) Modification de la Loi.
 
 **Liens relatifs à cet article**
 
@@ -10444,17 +10441,21 @@ le destinataire en application du 2 ter de l'article 283 du même code)) (1).
 
 	  - CGI 256, 256 A à 258 B, 259 à 259 C, 262, 291, 259 B, 283, 259 A, 258 D
 
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
 	**Modifié par**:
 
-	  - Décret n°94-435 du 31 mai 1994 - art. 1 () JORF 2 juin 1994
+	  - Loi n°95-1347 1995-12-30 art. 19-IV et XIX, JORF 31 décembre 1995
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 O (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
 
 
 ###### Article 242-0 N
@@ -12504,12 +12505,10 @@ départements et territoires d'outre-mer.
 
 ###### Article 275 bis
 
-La quantité d'alcool pur contenue dans les produits définis au premier alinéa de l'article 401 du code général des impôts est
-obtenue, éventuellement à l'aide de tables de correction, en multipliant le volume occupé par ces produits à la température
-de 20 degrés Celsius par le titre alcoométrique volumique déterminé au moyen d'un alcoomètre conforme à la réglementation en
-vigueur, au besoin après distillation ou toute opération donnant des résultats analogues. Pour les produits mentionnés au
-deuxième alinéa du même article, le volume et le titre alcoométrique sont obligatoirement constatés à la température de 20
-degrés Celsius.
+La quantité d'alcool pur contenue dans les produits définis au I de l'article 401 du code général des impôts est obtenue,
+éventuellement à l'aide de tables de correction, en multipliant le volume occupé par ces produits à la température de 20
+degrés Celsius par le titre alcoométrique volumique déterminé au moyen d'un alcoomètre conforme à la réglementation en
+vigueur, au besoin après distillation ou toute opération donnant des résultats analogues.
 
 **Liens relatifs à cet article**
 
@@ -12517,13 +12516,21 @@ degrés Celsius.
 
 	  - CGI 401
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°79-726 du 22 août 1979 - art. 1 (V) JORF 30 août 1979
+	  - Décret n°96-556 1996-06-21
 
 	**Cité par**:
 
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
+	**Modifié par**:
+
+	  - Loi n°95-1346 1995-12-30 art. 25-I, JORF 31 décembre 1995
 
 
 #### Chapitre I bis : Garantie des matières d'or, d'argent et de platine
@@ -14169,6 +14176,94 @@ correspondant aux handicaps graves ou le déclarant relever soit d'un atelier pr
 	  - Code du travail - art. L323-11 (M)
 
 
+##### C : Régimes spéciaux et exonérations
+
+###### Article 294 A
+
+I. Lorsque les biens immobiliers visés au 5° du 2 de l'article 793 du code général des impôts font l'objet d'une première
+transmission à titre gratuit depuis leur acquisition, l'acte de donation ou la déclaration de succession doit comporter les
+indications suivantes :
+
+1. Outre les références de la publication de l'acte d'acquisition du bien, telles qu'elles sont prévues au 2 de l'article 32
+du décret n° 55-1350 du 14 octobre 1955 pris pour l'application du décret n° 55-22 du 4 janvier 1955 modifié portant réforme
+de la publicité foncière, la date d'acquisition des biens, l'identité des parties ainsi que les nom, qualités et résidence du
+rédacteur de l'acte ;
+
+2. La déclaration que l'immeuble a été exclusivement affecté de manière continue à l'habitation principale à compter de son
+acquisition pendant une période minimale de deux ans en cas de donation, ou jusqu'au jour du décès lorsque celui-ci
+intervient dans les deux années de l'acquisition ;
+
+3. L'affirmation que le donateur ou le défunt n'a pas bénéficié pour cet immeuble des réductions d'impôts prévues aux
+articles 199 decies A, 199 decies B et 199 undecies du code général des impôts ;
+
+4. L'engagement mentionné au deuxième alinéa du 5° du 2 de l'article 793 du même code.
+
+II. Lors de leur dépôt à la formalité, l'acte de donation ou la déclaration de succession doit être appuyé d'une copie de la
+déclaration d'achèvement des travaux mentionnée au premier alinéa du 5° du 2 de l'article 793 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 793, 199 decies A, 199 decies B, 199 undecies
+	  - Décret n°55-22 1955-01-04
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 32 (M)
+
+	**Créé par**:
+
+	  - Décret n°96-280 du 27 mars 1996 - art. 1 () JORF 4 avril 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
+
+###### Article 294 B
+
+I. Lorsque les biens immobiliers visés au 6° du 2 de l'article 793 du code général des impôts font l'objet d'une première
+transmission à titre gratuit depuis leur acquisition, l'acte de donation ou la déclaration de succession doit comporter les
+indications suivantes : 
+
+1. Outre les références de la publication de l'acte d'acquisition du bien, telles qu'elles sont prévues au 2 de l'article 32
+du décret n° 55-1350 du 14 octobre 1955 pris pour l'application du décret n° 55-22 du 4 janvier 1955 modifié portant réforme
+de la publicité foncière, la date d'acquisition des biens, l'identité des parties ainsi que les nom, qualités et résidence du
+rédacteur de l'acte ; 
+
+2. L'engagement mentionné au quatrième alinéa du 6° du 2 de l'article 793 du code général des impôts lorsque la transmission
+à titre gratuit est effectuée avant l'expiration de la durée minimale de mise en location du bien transmis. 
+
+II. Lors de leur dépôt à la formalité, l'acte de donation ou la déclaration de succession doit être appuyé des documents
+suivants : 
+
+1. Une copie des baux d'habitation conclus depuis l'acquisition des biens avec le ou les preneurs successifs ; 
+
+2. Une copie de l'avis d'imposition du ou des locataires successifs établi au titre des revenus de l'année précédant celle de
+la conclusion de leur bail ou à défaut une déclaration sur l'honneur souscrite par ces locataires attestant du montant de
+leurs revenus nets de frais professionnels figurant sur leur avis d'imposition établi au titre des revenus de l'année
+précitée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 (V)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 32 (V)
+	  - Code général des impôts, CGI. - art. 793 (V)
+
+	**Créé par**:
+
+	  - Décret n°96-281 du 27 mars 1996 - art. 1 () JORF 4 avril 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - TXT_ASSOCIE: Instruction 1996-10-31 7G-5-96
+
+
 ##### III bis : Dispositions communes
 
 ###### Article 294 E
@@ -15062,29 +15157,30 @@ La taxe est annuelle, la période d'imposition s'étendant du 1er octobre de cha
 
 #### Chapitre IV : Régimes spéciaux et exonérations de portée générale
 
-##### Dispositions diverses
+##### Section unique : Dispositions diverses
 
-##### 1° Aide judiciaire.
+##### 1° : Aide juridictionnelle
 
 ###### Article 310 F bis
 
-En matière d'aide judiciaire (1), les actes et décisions bénéficiant d'une exonération fiscale ou pour lesquels les droits et
-taxes sont liquidés en débet doivent comporter en marge les nom et prénom du bénéficiaire de l'aide ainsi que l'indication de
-la date de la décision d'admission et du bureau dont elle émane.
-
-**Nota:**
-
-(1) La loi 91-647 du 10 juillet 1991, en vigueur le 1er janvier 1992, art. 74 : les mots "aide juridictionnelle" remplacent
-les mots "aide judiciaire ou indemnisation des commissions et désignations d'office".
+En matière d'aide juridictionnelle les actes et décisions bénéficiant d'une exonération fiscale ou pour lesquels les droits
+et taxes sont liquidés en débet doivent comporter en marge les nom et prénom du bénéficiaire de l'aide ainsi que l'indication
+de la date d'admission et du bureau ou de la section du bureau dont elle émane.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 120 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 12 mai 1996
 
-
-##### Section unique : Dispositions diverses
 
 ##### 2° : Patrimoine artistique national
 
@@ -17619,14 +17715,16 @@ application de l'article 1465 du code général des impôts ne sont prises en co
 exonérée ;
 
 5° Le taux en vigueur dans la commune s'entend du taux d'imposition résultant des décisions de la commune augmenté, le cas
-échéant, de celui du syndicat de communes et du district recourant aux dispositions de l'article L 251-4, alinéa 2, du code
-des communes ;
+échéant, de celui du syndicat de communes et du district recourant aux dispositions ((du deuxième alinéa de l'article L
+5212-20 du code général des collectivités territoriales)) (M) ;
 
-6° Les contributions budgétaires s'entendent de l'ensemble des contributions versées par la commune à un groupement de
-communes ou à d'autres communes et des contributions visées à l'article L 251-4, alinéa 2, du code des communes, dès lors
-qu'elles sont calculées par référence à tout ou partie du produit communal de la taxe professionnelle. Lorsqu'elles ne sont
-calculées que pour partie par référence au produit communal de la taxe professionnelle, leur montant n'est retenu que dans
-cette proportion.
+6° Les contributions budgétaire s'entendent de l'ensemble des contributions versées par la commune à un groupement de
+communes ou à d'autres communes et des contributions visées ((au deuxième alinéa de l'article L 5212-20 du code général des
+collectivités territoriales)) (M) dès lors qu'elles sont calculées par référence à tout ou partie du produit communal de la
+taxe professionnelle. Lorsqu'elles ne sont calculées que pour partie par référence au produit communal de la taxe
+professionnelle, leur montant n'est retenu que dans cette proportion.
+
+(M) Modifications de la loi.
 
 **Liens relatifs à cet article**
 
@@ -17634,23 +17732,25 @@ cette proportion.
 
 	  - CGI 1648 A, 1465
 	  - Décret n°64-255 1964-03-16
-	  - CODE DES COMMUNES. - art. L251-4 (Ab)
+	  - Code général des collectivités territoriales - art. L5212-20 (M)
 
 	**Anciens textes**:
 
 	  - CGIAN2 327 B
 
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
 	**Modifié par**:
 
-	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+	  - Loi n°96-142 du 21 février 1996 - art. 1 (V) JORF 24 février 1996
+	  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
 
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 328 A
@@ -18426,67 +18526,69 @@ dérogation par arrêté du ministre chargé du budget.
 
 ###### Article 339
 
-Il est institué jusqu'au 31 décembre 1995 au profit de l'Association pour le développement de la formation professionnelle
+Il est institué jusqu'au 31 décembre 2000 au profit de l'Association pour le développement de la formation professionnelle
 dans les transports une taxe parafiscale qui est perçue, en addition à la taxe édictée par l'article 1599 quindecies du code
 général des impôts, lors de la délivrance des certificats d'immatriculation des véhicules automobiles de transport de
-marchandises, des tracteurs routiers et des véhicules de transport en commun de personnes.
+marchandises, des tracteurs routiers, des véhicules de transport en commun de personnes à l'exception des véhicules de
+collection au sens de l'article R 106-1 du code de la route.
 
-La délivrance des certificats visés aux articles 1599 septdecies et 1599 octodecies du code précité ne donnent pas lieu au
-paiement de la taxe.
+La délivrance des certificats visés aux articles 1599 septdecies et 1599 octodecies du code général des impots ne donnent pas
+lieu au paiement de la taxe.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1599 octodecies
-	  - CGI 1599 quindecies
-	  - CGI 1599 septdecies
+	  - CGI 1599 quindecies, 1599 septdecies, 1599 octodecies
+	  - Code de la route R106-1
 
 	**Modifié par**:
 
-	  - Décret n°91-47 du 14 janvier 1991 - art. 1 (V) JORF 16 janvier 1991
-	  - Décret n°91-47 du 14 janvier 1991 - art. 2 (V) JORF 16 janvier 1991
+	  - Décret n°96-139 du 21 février 1996 - art. 1 (V) JORF 23 février 1996
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°96-556 1996-06-21
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 340
 
-Les montants de la taxe sont fixés par arrêté conjoint du ministre d'Etat, ministre de l'économie, des finances et du budget,
-du ministre de l'équipement, du logement, des transports et de la mer et du ministre délégué au budget, dans la limite des
-maxima suivants :
+Les montants de la taxe sont fixés par arrêté conjoint des ministre chargés respectivement du budget et des transports dans
+la limite des maxima suivants :
 
 1° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur ou égal à 3,5
 tonnes :
 
-148 F ;
+178 F ;
 
 2° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est supérieur à 3,5 tonnes et
-inférieur à 6 tonnes : 608 F ;
+inférieur à 6 tonnes : 731 F ;
 
 3° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes
-et inférieur à 11 tonnes : 912 F ;
+et inférieur à 11 tonnes : 1094 F ;
 
 4° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11
 tonnes, tracteurs routiers et véhicules de transport en commun de personnes :
 
-1 368 F.
+1 642 F.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°91-47 du 14 janvier 1991 - art. 3 (V) JORF 16 janvier 1991
+	  - Décret n°96-139 1996-02-21 art. 3 JORF 23 février 1996
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 341
@@ -18521,49 +18623,72 @@ code général des impôts.
 
 ###### Article 345
 
-Il est institué jusqu'au 31 décembre 1995 au profit du comité professionnel de développement de l'horlogerie et du centre
-technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de vente, de livraison ou d'échange (à
-l'identique ou à l'équivalent) situées en France en application du a du I de l'article 258 du code général des impôts y
-compris les livraisons exonérées en vertu du I de l'article 262 ter du même code ou les livraisons dans un lieu situé dans un
-autre Etat membre de la Communauté européenne en application de l'article 258 A de ce code des produits de l'horlogerie de
-petit ou de gros volume, mentionnés à l'article 346, réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
-
-Cette taxe parafiscale ne s'applique ni aux articles d'occasion ni aux articles exportés hors de la Communauté européenne. Sa
-perception sur les articles qui ont fait l'objet d'une acquisition intracommunautaire donne lieu à remboursement.
+En vue d'encourager, à titre collectif, dans les industries de l'horlogerie, de la bijouterie, de la joaillerie et de
+l'orfèvrerie, la recherche, l'innovation, la promotion des ventes et l'amélioration des conditions de formation du personnel,
+il est institué jusqu'au 31 décembre 2000 une taxe parafiscale au profit du comité professionnel de développement de
+l'horlogerie.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 258, 262 ter, 258 A, 346
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+	  - Décret n°96-148 du 22 février 1996 - art. 1 (V) JORF 23 février 1996
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°96-556 1996-06-21
 
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
+
+###### Article 350
+
+Le produit de la taxe recouvrée par l'administration des impôts et l'administration des douanes est transféré mensuellement
+par chacune d'elles au comité professionnel de développement de l'horlogerie, à charge pour ce dernier d'affecter une partie
+de ces sommes au Centre technique de l'industrie horlogère.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°96-148 du 22 février 1996 - art. 8 (V) JORF 23 février 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
+
+#### Chapitre IV : Comité professionnel de développement de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie et centre technique de l'industrie horlogère
 
 ###### Article 346
 
-Les opérations passibles de la taxe parafiscale horlogère sont celles visées à l'article 345 et portant sur les produits
-figurant au groupe 33-5 de la classification des produits français approuvée par le décret n° 92-1129 du 2 octobre 1992, à
-l'exclusion :
+Sont assujettis à la taxe parafiscale :
 
-a) De l'ensemble des produits mentionnés aux sous-catégories Z 33-50-13 et Z 33-50-92 ;
+a. Les fabricants de montres et autres compteurs de temps relevant de la catégorie 33-50-1 de la nomenclature d'activités et
+de produits approuvée par le décret n° 92-1129 du 2 octobre 1992, à l'exception :
 
-b) Des produits visés à la sous-catégorie Z 33-50-15 sous l'appellation appareils de contrôle et compteurs de temps à
-mouvement singulier d'horlogerie ou à moteur synchrone tels que enregistreurs de présence, horodateurs, contrôleurs de
-rondes, minutiers, compteurs de secondes ;
+1° Des pendulettes pour tableau de bord relevant de la sous-catégorie 33-50-13 de cette nomenclature ;
 
-c) Des produits suivants rangés sous les sous-catégories Z 33-50-22 et Z 33-50-25 munis d'un moteur synchrone permettant de
-déclencher un mécanisme à temps donné tels que interrupteurs horaires, horodateurs, horloges de commutation.
+2° Des appareils de contrôle et compteurs de temps à mouvement singulier d'horlogerie ou à moteur synchrone tels
+qu'enregistreurs de présence, horodateurs, contrôleurs de rondes, minutiers, compteurs de secondes relevant de la sous-
+catégorie 33-50-15 de ladite nomenclature ;
+
+3° Des appareils munis d'un moteur synchrone permettant de déclencher un mécanisme à temps donné tels qu'interrupteurs
+horaires, horloges de commutation relevant de la sous-catégorie susmentionnée 33-50-15 ;
+
+b. Les fabricants de couverts pour la table et articles similaires, argentés, dorés ou platinés relevant de la sous-catégorie
+28-61-14 de la même nomenclature ;
+
+c. Les fabricants d'articles de bijouterie, joaillerie, orfèvrerie relevant de la classe 36-22 ;
+
+d. Les entreprises qui assurent la commercialisation au détail de ces mêmes produits de la sous-catégorie 28-61-14, de la
+catégorie 33-50-1 et de la classe 36-22 de la nomenclature.
 
 **Liens relatifs à cet article**
 
@@ -18574,265 +18699,123 @@ déclencher un mécanisme à temps donné tels que interrupteurs horaires, horod
 
 	**Modifié par**:
 
-	  - Décret n°93-1040 du 2 septembre 1993 - art. 1 () JORF 4 septembre 1993
+	  - Décret n°96-148 du 22 février 1996 - art. 2 (V) JORF 23 février 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21 Décret 2001-435 2001-05-21
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 2 () JORF 23 mai 2001
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2001-02-06 3Q-2-01
 
 
 ###### Article 347
 
-Le taux de la taxe est fixé par un arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie, dans la
-limite de 0,80 p. 100 de la valeur de vente. Le produit de la taxe est versé au comité professionnel de développement de
-l'horlogerie.
+I. - Sont soumises à cette taxe :
+
+a. Les livraisons situées en France au sens du a du I de l'article 258 du code général des impôts, y compris les livraisons
+exonérées en vertu du I de l'article 262 ter du même code ainsi que les livraisons dans un autre Etat membre de l'Union
+européenne ou dans un Etat membre de l'Association européenne de libre-échange pour lequel l'accord sur l'Espace économique
+européen est entré en vigueur, des produits mentionnés à l'article 346 ;
+
+b. Les importations de ces mêmes produits qui ne sont pas originaires des Etats membres de l'Union européenne et des Etats
+membres de l'Association européenne de libre-échange pour lesquels l'accord sur l'Espace économique européen est entré en
+vigueur ou qui ne sont pas mis en libre pratique dans ces Etats.
+
+II - Toutefois la taxe n'est pas perçue :
+
+a. Sur les exportations à destination des Etats qui ne sont ni membres de l'Union européenne ni au nombre des Etats membres
+de l'Association européenne de libre-échange pour lesquels l'accord sur l'Espace économique européen est entré en vigueur ;
+
+b. Sur les marchandises revendues en l'état par les fabricants.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 258 I, 262 ter I, 346
+
 	**Modifié par**:
 
-	  - Décret n°91-350 du 10 avril 1991 - art. 3 (V) JORF 11 avril 1991
+	  - Décret n°96-148 du 22 février 1996 - art. 3 (V) JORF 23 février 1996
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°96-556 1996-06-21 Décret 2001-435 2001-05-21
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 2 () JORF 23 mai 2001
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2001-02-06 3Q-2-01
 
 
 ###### Article 348
 
-La taxe est assise, liquidée et recouvrée comme en matière de taxe sur la valeur ajoutée.
+I. Pour les opérations définies au a du I de l'article 347, l'assiette de la taxe est constituée par le chiffre d'affaires
+hors taxe sur la valeur ajoutée réalisé au titre de ces opérations.
 
-Elle n'est pas mise en recouvrement lorsque la cotisation due au titre d'un exercice par l'entreprise qui en est redevable
-est inférieure à 100 F.
+La taxe est assise et recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur la
+valeur ajoutée.
+
+La taxe à laquelle sont soumises les opérations définies au a du I de l'article 347 n'est pas mise en recouvrement lorsque
+son produit dû au titre d'un exercice est inférieur à 100 F.
+
+II. En ce qui concerne les importations mentionnées au b du I de l'article 347, la taxe est assise sur la valeur en douane
+appréciée au lieu d'introduction sur le territoire national et recouvrée par l'administration des douanes selon les règles,
+garanties et sanctions applicables en matière de droits de douane ; elle est exigible au moment de la déclaration de mise à
+la consommation ; le redevable en est l'importateur.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 347 I
+
 	**Modifié par**:
 
-	  - Décret n°91-350 du 10 avril 1991 - art. 4 (V) JORF 11 avril 1991
-	  - Décret n°91-350 du 10 avril 1991 - art. 5 (V) JORF 11 avril 1991
+	  - Décret n°96-148 du 22 février 1996 - art. 4 (V) JORF 23 février 1996
+	  - Décret n°96-148 du 22 février 1996 - art. 5 (V) JORF 23 février 1996
+	  - Décret n°96-148 du 22 février 1996 - art. 7 (V) JORF 23 février 1996
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°96-556 1996-06-21 Décret 2001-435 2001-05-21
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 2 () JORF 23 mai 2001
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2001-02-06 3Q-2-01
 
 
 ###### Article 349
 
-Les biens constituant des immobilisations n'ouvrent pas droit à déduction de la taxe parafiscale dont ils sont grevés.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+Le taux de la taxe est fixé par arrêté conjoint des ministres chargés de l'économie, de l'industrie et du budget dans la
+limite de 0,30 p. 100.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°81-903 1981-10-05 ART. 1 JORF 7 OCTOBRE 1981
+	  - Décret n°96-148 1996-02-22 art. 6 JORF 23 février 1996
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°96-556 1996-06-21 Décret 2001-435 2001-05-21
 
 	**Liens**:
 
-	  - PEREMPTION: Décret n°91-883 du 9 septembre 1991 - art. 2 () JORF 10 septembre 1991
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 350
-
-Les dispositions des articles 282 et 282 bis du code général des impôts ne sont pas applicables à la taxe ; toutefois lorsque
-les entreprises bénéficient de la franchise définie au 1 de l'article 282 précité, la taxe n'est pas mise en recouvrement.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 282 1
-	  - CGI 282 bis
-
-	**Modifié par**:
-
-	  - Décret n°84-1018 du 19 novembre 1984 - art. 6 (V) JORF 20 novembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°91-883 du 9 septembre 1991 - art. 2 () JORF 10 septembre 1991
-
-
-#### Chapitre V : Taxe parafiscale des industries du textile et de la maille.
-
-###### Article 357 A
-
-En vue d'encourager, à titre collectif, dans les industries du textile et de la maille, la recherche, l'innovation,
-l'amélioration des conditions de formation du personnel et d'information des entreprises, la promotion des exportations
-extra-communautaires, ainsi que les actions culturelles, est autorisée, dans la limite des taux de 0,18 p. 100 pour le
-textile et 0,11 p. 100 pour la maille et jusqu'au 31 décembre 1995, la perception, au profit du comité de développement et de
-promotion du textile et de l'habillement, d'une taxe parafiscale assise, liquidée et recouvrée suivant les mêmes règles, sous
-les mêmes garanties et les mêmes sanctions, que la taxe sur la valeur ajoutée, sous réserve des dispositions des articles 357
-B à 357 E.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 357 B à 357 E
-
-	**Modifié par**:
-
-	  - Décret n°91-793 du 21 août 1991 - art. 1 (P) JORF 22 août 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°96-81 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
-
-
-###### Article 357 B
-
-Sont soumises à la taxe prévue à l'article 357 A :
-
-Les livraisons situées en France en application du a du I de l'article 258 du code général des impôts y compris les
-livraisons exonérées en vertu du I de l'article 262 ter du même code ou les livraisons dans un lieu situé dans un autre Etat
-membre de la Communauté européenne en application de l'article 258 A de ce code, les livraisons à soi-même réalisées par les
-fabricants et les transformateurs et les opérations à façon portant sur les produits textiles et les produits en maille
-mentionnés à l'annexe I au décret 93-1040 du 2 septembre 1993 ;
-
-Les importations pour la consommation d'articles relevant des chapitres ex 50, ex 51, ex 52, ex 53, ex 54, ex 55, ex 56, ex
-57, ex 58, ex 59, ex 60, ex 61, ex 62, ex 63, ex 65, ex 66, ex 70, ex 91 et ex 93 du système harmonisé de désignation et de
-codification des marchandises.
-
-Toutefois la taxe n'est pas perçue sur :
-
-Les articles qui font l'objet d'une acquisition intracommunautaire ou qui sont mis en libre pratique dans un des Etats
-membres de la Communauté européenne ;
-
-Les exportations de produits à destination de pays autres que ceux appartenant à la Communauté européenne.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 357 A, 258, 262 ter
-	  - Décret n°93-1040 1993-09-02
-
-	**Modifié par**:
-
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11 Décret 96-556 1996-06-21
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°96-81 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 2 () JORF 23 mai 2001
 	  - HISTO: Edition du 12 mai 1996
-	  - HISTO: Edition du 27 octobre 1995
-
-
-###### Article 357 C
-
-Les ventes, les opérations à façon et les livraisons à soi-même effectuées par les entreprises imposées à la taxe sur la
-valeur ajoutée selon le régime du forfait sont exonérées de la taxe prévue à l'article 357 A.
-
-Les ventes soumises à la taxe et réalisées au détail par les fabricants et les transformateurs de produits visés à l'article
-357 B sont imposables à hauteur de 60 p. 100 de leur montant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 357 A, 357 B
-
-	**Modifié par**:
-
-	  - Décret n°91-793 du 21 août 1991 - art. 3 (P) JORF 22 août 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°96-81 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
-	  - HISTO: Edition du 4 juillet 1992
-
-
-###### Article 357 D
-
-Les sommes recouvrées par l'administration des impôts et l'administration des douanes sont transférées mensuellement au
-comité de développement et de promotion du textile et de l'habillement créé par le décret n° 84-388 du 22 mai 1984, à charge
-pour celui-ci de répartir ces ressources au bénéfice, notamment :
-
-D'une part, de la recherche technique, à hauteur d'au minimum 45 p. 100 du produit annuel de la taxe ;
-
-D'autre part, d'actions de formation, d'actions culturelles et de valorisation du patrimoine, de promotion de la création et
-d'études économiques à hauteur d'au minimum 15 p. 100 du produit annuel de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°84-388 1984-05-22
-
-	**Modifié par**:
-
-	  - Décret n°91-793 du 21 août 1991 - art. 4 (P) JORF 22 août 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°96-81 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
-
-
-###### Article 357 E
-
-Le taux de la taxe est fixé par arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie (1).
-
-(1) Voir annexe IV, art. 159 AL quater A.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°91-793 du 21 août 1991 - art. 5 (P) JORF 22 août 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°96-81 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2001-02-06 3Q-2-01
 
 
 #### Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.
@@ -19044,10 +19027,11 @@ développement rural fixe le montant applicable dans la limite du montant maximu
 
 ###### Article 363 D
 
-I. Il est institué, jusqu'au 31 décembre 1995, une taxe parafiscale sur les viandes de veau, boeuf, mouton, porc et animaux
-des espèces chevaline et asine et de leurs croisements, perçue au profit de l'Association nationale pour le développement
-agricole, pour être versée au Fonds national de développement agricole. Cette taxe n'est perçue que sur les viandes provenant
-d'animaux d'origine française au sens des dispositions du règlement communautaire du 14 décembre 1990 susvisé.
+I. Il est institué, à compter du 1er janvier 1996 et jusqu'au 31 décembre 2000, une taxe parafiscale (1) sur les viandes de
+veau, boeuf, mouton, porc, volailles, animaux de l'espèce cunicole, de l'espèce caprine et animaux des espèces chevaline et
+asine et de leurs croisements, perçue au profit de l'Association nationale pour le développement agricole, pour être versée
+au Fonds national de développement agricole. Cette taxe n'est perçue que sur les viandes provenant d'animaux d'origine
+française au sens des dispositions du règlement (CEE) n° 3620/90 du 14 décembre 1990.
 
 II. La taxe est à la charge de l'agriculteur ou de l'éleveur dernier propriétaire de l'animal. Elle est acquittée lors de la
 présentation de cet animal à l'abattage. Toutefois, en cas d'abattage à façon, la taxe est acquittée par le tiers abatteur
@@ -19057,84 +19041,147 @@ La taxe est perçue dans les établissements d'abattage publics et privés sur l
 
 III. Le montant maximum de la taxe est fixé à :
 
-49,50 F par tonne pour la viande de boeuf, la viande de veau u et les viandes des espèces chevaline, asine et de leurs
-croisements ;
+60 F par tonne pour les viandes des animaux de l'espèce bovine ;
 
-52,50 F par tonne pour la viande de porc ;
+44,50 F par tonne pour les viandes des animaux de l'espèce porcine ;
 
-46,50 F par tonne pour la viande de mouton.
+60 F par tonne pour les viandes des animaux des espèces ovine et caprine ;
 
-Un arrêté conjoint des ministres chargés de l'économie, du budget et de l'agriculture fixe, chaque année, dans les limites
-prévues ci-dessus les montants de la taxe.
+60 F par tonne pour les viandes des animaux des espèces chevaline, asine et de leurs croisements ;
 
-IV. La taxe est constatée et recouvrée suivant les règles et sous les garanties, privilèges et sanctions prévus en matière de
-taxe à la valeur ajoutée.
+44 F par tonne pour les viandes des animaux de l'espèce cunicole ;
 
-Pour son assiette et sa liquidation, sont applicables les dispositions des articles 111 quater A, 111 quater B, 111 quater C,
-111 quater E, 111 quater F, 111 quater G, 111 quater H et 111 quater I du chapitre IV de l'annexe III au code général des
-impôts.
+24,80 F par tonne pour les viandes de volailles du genre Gallus, à l'exception des poules de réforme ;
+
+72 F par tonne pour les viandes de poules de réforme ;
+
+30,60 F par tonne pour les viandes de dindes ;
+
+36 F par tonne pour les viandes de canards, de pintades et d'oies.
+
+Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé de l'agriculture
+fixe, chaque année, dans les limites prévues ci-dessus, les montants de la taxe.
+
+IV. La taxe est constatée et recouvrée par la direction générale des impôts suivant les règles et sous les garanties,
+privilèges et sanctions prévus en matière de taxe à la valeur ajoutée.
+
+La taxe est perçue par les services des impôts dans tous les établissements où il est procédé à l'abattage des animaux.
+
+Elle est assise sur le poids de viande fraîche net, tel qu'il est défini à l'article 111 quater LA de l'annexe III au code
+général des impôts. Pour la liquidation de la taxe, sont applicables les dispositions des articles 111 quater G, 111 quater H
+et 111 quater I de l'annexe III au code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 111 quater A, 111 quater B, 111 quater C, 111 quater E, 111 quater F, 111 quater G, 111 quater H 111 quater I
-	  - CGIAN4 159 AO
+	  - CGIAN3 111 quater LA, 111 quater G, 111 quater H, 111 quater I
 
 	**Modifié par**:
 
-	  - Décret n°92-1459 du 31 décembre 1992 - art. 1 (P) JORF 1er janvier 1993
+	  - Décret n°95-1338 du 28 décembre 1995 - art. 1 (V) JORF 30 décembre 1995
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°96-556 1996-06-21
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Instruction 1996-01-26 3Q-1-96
+	  - HISTO: Edition du 12 mai 1996
+	  - TXT_ASSOCIE: Instruction 1997-02-04 3Q-1-97
+	  - TXT_ASSOCIE: Instruction 1998-02-09 3Q-1-98
+	  - TXT_ASSOCIE: Instruction 1999-01-18 3Q-1-99
+
+
+##### Section I bis : Taxe parafiscale forfaitaire sur les activités agricoles.
+
+###### Article 363 DA
+
+I. A compter du 1er janvier 1996 et jusqu'au 31 décembre 2000, il est institué une taxe parafiscale forfaitaire due par les
+exploitants agricoles au titre de leurs activités agricoles. Les exploitants agricoles placés sous le régime du remboursement
+forfaitaire agricole sont exonérés de la taxe. Cette taxe est perçue au profit de l'Association nationale pour le
+développement agricole pour être versée au Fonds national de développement agricole.
+
+II. La taxe est fixée forfaitairement dans la limite de 500 F. Pour les groupements agricoles d'exploitants en commun, le
+montant de la taxe est égal au montant forfaitaire fixé conformément aux dispositions du présent article, multiplié par le
+nombre d'associés.
+
+III. Pour les exploitants agricoles placés sous le régime simplifié de l'agriculture, la taxe est liquidée sur la déclaration
+annuelle visée à l'article 298 bis du code général des impôts ou, le cas échéant, sur l'annexe à la déclaration trimestrielle
+prévue au deuxième alinéa du I de l'article 1693 bis du même code, déposée au titre du premier trimestre de l'année au titre
+de laquelle la taxe est due. Pour les exploitants agricoles qui ont été autorisés à soumettre l'ensemble de leurs opérations
+au régime de droit commun de la taxe sur la valeur ajoutée, la taxe relative aux opérations agricoles des intéressés est
+liquidée sur l'annexe de la déclaration des opérations du premier trimestre ou du mois de mars de l'année au titre de
+laquelle la taxe est due, déposée en application de l'article 287 du code général des impôts. La taxe est acquittée au plus
+tard à la date limite prévue pour le dépôt de ces déclarations.
+
+IV. La taxe est recouvrée et contrôlée par la direction générale des impôts selon les mêmes règles, sous les mêmes garanties,
+privilèges et sanctions qu'en matière de taxe sur la valeur ajoutée.
+
+V. Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé de l'agriculture
+fixe, dans la limite déterminée au II, le montant de la taxe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 298 bis, 1693 bis, 287
+
+	**Créé par**:
+
+	  - Décret n°95-1335 du 28 décembre 1995 - art. 1 (V) JORF 30 décembre 1995
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - TXT_ASSOCIE: Instruction 1999-01-18 3Q-1-99
+	  - TXT_ASSOCIE: Instruction 2000-01-31 3Q-1-00
 
 
 ##### Section II : Taxe parafiscale sur les vins.
 
 ###### Article 363 E
 
-I. Il est institué au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds national de
-développement agricole, une taxe parafiscale sur les vins, applicable jusqu'au 31 décembre 1995.
+I. Il est institué, à compter du 1er janvier 1996 et jusqu'au 31 décembre 2000, une taxe parafiscale sur les vins, perçue au
+profit de l'Association nationale pour le développement agricole, pour être versée au Fonds national de développement
+agricole.
 
 II. La taxe est due par les producteurs au moment de la délivrance du titre de mouvement permettant l'enlèvement des vins à
-la propriété ou par les négociants vinificateurs lors de la déclaration de fabrication . Ces derniers ont la possibilité d'en
+la propriété ou par les négociants vinificateurs lors de la déclaration de fabrication. Ces derniers ont la possibilité d'en
 retenir le montant sur le prix des raisins ou des moûts utilisés pour ces fabrications, à l'exclusion des acquisitions
 intracommunautaires de raisin et de moût.
 
 III. Le montant maximum de la taxe est fixé à :
 
-2,50 F par hectolitre pour les vins d'appellation d'origine contrôlée ;
+a. 3,00 F par hectolitre pour les vins d'appellation d'origine contrôlée ;
 
-1,60 F par hectolitre pour les vins délimités de qualité supérieure ;
+b. 1,95 F par hectolitre pour les vins délimités de qualité supérieure ;
 
-0,80 F par hectolitre pour les autres vins.
+c. 0,90 F par hectolitre pour les autres vins.
 
-Un arrêté conjoint du ministre de l'économie et des finances, du ministre de l'agriculture et du développement rural et du
-ministre du budget fixe, chaque année, dans ces limites, les montants de la taxe (1).
+Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé de l'agriculture
+fixe, dans ces limites, les montants de la taxe.
 
-IV. La taxe est liquidée et recouvrée suivant les règles et sous les garanties, privilèges et sanctions prévus pour les
-impôts indirects sur les boissons.
-
-(1) Annexe IV, art. 159 AP.
+IV. La taxe est liquidée et recouvrée par la direction générale des douanes et droits indirects suivant les règles et sous
+les garanties, privilèges et sanctions prévus pour les droits indirects sur les boissons.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN4 159 AP
-
 	**Modifié par**:
 
-	  - Décret n°92-1458 du 31 décembre 1992 - art. 1 (P) JORF 1er janvier 1993
+	  - Décret n°95-1337 du 28 décembre 1995 - art. 1 (V) JORF 30 décembre 1995
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
 
 
 ##### Section III : Taxe parafiscale sur les graines oléagineuses.
@@ -19237,169 +19284,6 @@ fixe, pour chaque campagne, dans ces limites, les montants de la taxe)) (M).
 	**Liens**:
 
 	  - HISTO: Edition du 27 octobre 1995
-
-
-#### Chapitre X : Taxe parafiscale des industries de l'habillement
-
-###### Article 363 N
-
-En vue d'encourager, à titre collectif, dans les industries de l'habillement, la recherche, l'innovation, l'amélioration des
-conditions de formation du personnel et d'information des entreprises, la promotion des exportations extracommunautaires,
-ainsi que les actions culturelles, est autorisée, dans la limite d'un taux de 0,11 p. 100 et jusqu'au 31 décembre 1995, la
-perception, au profit du comité de développement et de promotion du textile et de l'habillement, d'une taxe parafiscale
-assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur la
-valeur ajoutée, sous réserve des articles 363 O à 363 S.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 O à 363 S
-
-	**Modifié par**:
-
-	  - Décret n°91-792 du 21 août 1991 - art. 1 (P) JORF 22 août 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°96-82 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
-	  - HISTO: Edition du 4 juillet 1992
-
-
-###### Article 363 O
-
-Sont soumises à la taxe prévue à l'article 363 N :
-
-Les livraisons situées en France en application du a du I de l'article 258 du code général des impôts y compris les
-livraisons exonérées en vertu du I de l'article 262 ter du même code ou les livraisons dans un lieu situé dans un autre Etat
-membre de la Communauté européenne en application de l'article 258 A de ce code, les livraisons à soi-même réalisées par les
-fabricants et les transformateurs et les opérations à façon portant sur les articles d'habillement mentionnés à l'annexe II
-au décret n° 93-1040 du 2 septembre 1993.
-
-Les importations pour la consommation d'articles d'habillement relevant des chapitres ex 39, ex 40, ex 42, ex 43, ex 62, ex
-63, ex 65, ex 66 et ex 96 du système harmonisé de désignation et de codification des marchandises.
-
-Toutefois la taxe n'est pas perçue sur :
-
-Les articles qui font l'objet d'acquisitions intracommunautaires ou qui sont mis en libre pratique dans un des Etats membres
-de la Communauté européenne ;
-
-Les exportations de produits à destination de pays autres que ceux appartenant à la Communauté européenne.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 258, 262 ter
-	  - CGIAN2 363 N
-	  - Décret n°93-1040 1993-09-02 annexe II
-
-	**Modifié par**:
-
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°96-82 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
-	  - HISTO: Edition du 27 octobre 1995
-
-
-###### Article 363 P
-
-Les ventes, les opérations à façon et livraisons à soi-même effectuées par les entreprises imposées à la taxe sur la valeur
-ajoutée selon le régime du forfait sont exonérées de la taxe instituée par l'article 363 N.
-
-Les ventes soumises à la taxe et réalisées au détail par les fabricants et les transformateurs de produits visés à l'article
-363 O sont imposables à hauteur de 60 p. 100 de leur montant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 363 N, 363 O
-
-	**Modifié par**:
-
-	  - Décret n°91-792 du 21 août 1991 - art. 3 (P) JORF 22 août 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°96-82 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
-	  - HISTO: Edition du 4 juillet 1992
-
-
-###### Article 363 R
-
-Les sommes recouvrées par l'administration des impôts et l'administration des douanes sont transférées mensuellement au
-comité de développement et de promotion du textile et de l'habillement créé par le décret n° 84-388 du 22 mai 1984, à charge
-pour celui-ci de répartir ces ressources au bénéfice notamment :
-
-D'une part, de la recherche technique à hauteur d'au minimum 45 p. 100 du produit annuel de la taxe ;
-
-D'autre part, d'actions de formation, de valorisation du patrimoine, de promotion de la création et d'études économiques à
-hauteur d'au minimum 15 p. 100 du produit annuel de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°84-388 1984-05-22
-
-	**Modifié par**:
-
-	  - Décret n°91-792 du 21 août 1991 - art. 4 (P) JORF 22 août 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°96-82 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
-	  - HISTO: Edition du 4 juillet 1992
-
-
-###### Article 363 S
-
-Le taux de la taxe est fixé par arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie (1).
-
-(1) Annexe IV, art. 159 AL sexies
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 159 AL sexies
-
-	**Modifié par**:
-
-	  - Décret n°91-792 du 21 août 1991 - art. 5 (P) JORF 22 août 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°96-82 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
-	  - HISTO: Edition du 4 juillet 1992
 
 
 #### Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.
@@ -19585,21 +19469,18 @@ la taxe compte tenu des quantités de céréales correspondantes prévues par le
 
 ###### Article 363 AE
 
-I. Est autorisée au titre de la campagne de commercialisation 1992-1993 et pendant les deux campagnes suivantes la perception
-d'une taxe parafiscale à la charge des producteurs, assise sur les quantités de céréales et de riz livrées aux collecteurs
-agréés et aux producteurs grainiers.
-
-Toutefois, pour la campagne 1992-1993, sont exonérées de la taxe les céréales de qualité courante échangées contre des
-céréales de semences certifiées, dans la limite d'un plafond fixé par décret.
+I. Est autorisée, au titre de la campagne de commercialisation 1995-1996, la perception d'une taxe parafiscale à la charge
+des producteurs, assise sur les quantités de céréales et de riz livrées aux collecteurs agréés et aux producteurs grainiers.
 
 II. Après déduction des frais de recouvrement, le produit de la taxe est réparti de la façon suivante :
 
 Une partie, qui ne peut excéder 60 p. 100, est affectée à l'Office national interprofessionnel des céréales pour la
 couverture de ses frais de fonctionnement et pour le financement éventuel des actions entreprises en application de l'article
-1er du décret du 30 septembre 1953 modifié ;
+1er  du décret du 30 septembre 1953 modifié relatif à l'organisation du marché des céréales et de l'Office national
+interprofessionnel des céréales ;
 
-Une partie, qui ne peut être inférieure à 40 p. 100, est affectée à l'institut technique des céréales et des fourrages, pour
-l'exécution de ses programmes de développement. "
+Une partie, qui ne peut être inférieure à 40 p. 100, est affectée à l'Institut technique des céréales et des fourrages, pour
+l'exécution de ses programmes de développement.
 
 **Liens relatifs à cet article**
 
@@ -19609,11 +19490,15 @@ l'exécution de ses programmes de développement. "
 
 	**Modifié par**:
 
-	  - Décret n°92-1122 du 2 octobre 1992 - art. 1 (MMN) JORF 10 octobre 1992
+	  - Décret n°96-100 du 7 février 1996 - art. 1 (V) JORF 8 février 1996
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 363 AF
@@ -19669,7 +19554,9 @@ Le taux maximal est fixé à :
 
 La taxe est perçue par prélèvement sur le prix payé aux livreurs par les collecteurs agréés et les producteurs grainiers.
 Elle est reversée à la direction générale des douanes et droits indirects dans les conditions fixées par l'article 25 du
-décret du 31 juillet 1959 relatif aux prix et modalités de paiement, de stockage et de rétrocession des céréales.
+décret du 31 juillet 1959 relatif ((aux prix, aux modalités de paiement)) (M), de stockage et de rétrocession des céréales.
+
+(M) Modification du décret.
 
 **Liens relatifs à cet article**
 
@@ -19677,29 +19564,29 @@ décret du 31 juillet 1959 relatif aux prix et modalités de paiement, de stocka
 
 	  - Décret n°1959-07-31 art. 25
 
-	**Modifié par**:
-
-	  - Décret n°93-1122 1992-10-02 art. 5 JORF 10 octobre 1992
-	  - Décret n°93-310 du 9 mars 1993 - art. 59 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
-
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°96-556 1996-06-21
+
+	**Modifié par**:
+
+	  - Décret n°96-556 du 21 juin 1995 - art. 3 () JORF 23 juin 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 363 AI
 
-Pour chaque campagne, un arrêté conjoint du ministre de l'économie et des finances, du ministre du budget et du ministre de
-l'agriculture et de la forêt, pris après avis du conseil central de l'office national interprofessionnel des céréales, fixe
-les montants de la taxe, dans les limites fixées à l'article 363 AG.
+((Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé de l'agriculture,
+pris après avis du conseil central de l'office national interprofessionnel des céréales, fixe les montants de la taxe, dans
+les limites fixées à l'article 363 AG)) (M).
 
 Cet arrêté fixe également la répartition du produit de la taxe entre les organismes bénéficiaires mentionnés au II de
 l'article 363 AE.
+
+(M) Modifications du Décret.
 
 **Liens relatifs à cet article**
 
@@ -19709,11 +19596,15 @@ l'article 363 AE.
 
 	**Modifié par**:
 
-	  - Décret n°92-1122 du 2 octobre 1992 - art. 6 (MMN) JORF 10 octobre 1992
+	  - Décret n°96-100 du 7 février 1996 - art. 6 (V) JORF 8 février 1996
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
 
 
 #### Chapitre XIII : Taxe parafiscale perçue au profit du bureau national interprofessionnel du calvados, du pommeau et des eaux-de-vie de cidre et de poiré.
