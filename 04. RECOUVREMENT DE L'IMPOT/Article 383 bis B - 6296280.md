@@ -9,7 +9,7 @@ indiquant, outre la désignation et l'adresse du déclarant, le montant de l'exc
 A défaut, il est fait application de la procédure prévue par l'article 163 quindecies.
 
 Les dispositions qui précèdent ne s'appliquent qu'à partir de la troisième année suivant celle au cours de laquelle le fonds
-d'assurance-formation a, selon le cas, été créé ou a reçu l'agrément mentionné à l'article L 960-9, deuxième alinéa du code
+d'assurance-formation a, selon le cas, été créé ou a reçu l'agrément mentionné à l'article L 961-9, deuxième alinéa du code
 du travail.
 
 **Liens relatifs à cet article**
@@ -18,8 +18,12 @@ du travail.
 
 	  - CGI 235 ter HB
 	  - CGIAN2 163 quindecies
-	  - Code du travail L960-9 AL. 2
+	  - Code du travail R960-31 AL. 2
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°84-130 1984-02-24 art. 11 JORF 25 février 1984

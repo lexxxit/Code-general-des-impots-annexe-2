@@ -28,9 +28,9 @@ Dépenses de formation effectuées au bénéfice du personnel de l'entreprise, e
 Rémunérations versées aux stagiaires par l'entreprise;
 
 Versements effectués au titre de fonds d'assurance formation et versements à un organisme paritaire agréé en application de
-l'article L. 950-2-3 du code du travail ;
+l'article 235 ter H bis du code général des impôts ;
 
-Versements effectués dans les conditions prévues par l'article L 950-2-3o du code du travail;
+Versements effectués dans les conditions prévues par l'article L 235-2-4° du code du travail;
 
 Versements effectués au titre d'une taxe parafiscale affectée à la formation professionnelle;
 
@@ -68,18 +68,20 @@ Cette déclaration doit être rédigée, en double exemplaire, sur un imprimé f
 
 	**Cite**:
 
-	  - CGI 235 ter G
+	  - CGI 235 ter G I
+	  - CGI 235 ter H bis
 	  - CGI 235 ter J
-	  - CGI L950-2-3
 	  - CGIAN2 163 decies
 	  - Code du travail - art. L900-2 (M)
+	  - Code du travail - art. L950-2 (M)
 	  - Code du travail - art. L950-6 (T)
 	  - Code du travail - art. R950-7 (M)
+	  - Code du travail L950-2-4°
 
 	**Modifié par**:
 
-	  - Décret n°83-234 1983-03-21 ART. 6 JORF 26 MARS 1983
+	  - Loi n°84-130 1984-02-24 art. 26, art. 29 JORF 25 février 1984
 
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°84-875 1984-10-01
