@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-07-11
+Version Consolidée au 1984-07-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5050,7 +5050,7 @@ accompagnée, s'il y a lieu, de l'engagement du nouvel exploitant.
 toutes les sommes payées par les employeurs à l'ensemble de leur personnel à titre de traitements, salaires, indemnités et
 émoluments, y compris la valeur des avantages en nature, quel que soit le lieu du domicile des bénéficiaires.
 
-Sont exclues de ce montant les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis J du code général des
+Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis J et 231 bis M du code général des
 impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la participation pour leur montant brut, avant déduction
@@ -5071,18 +5071,24 @@ l'article 82, deuxième alinéa, du code général des impôts.
 	**Cite**:
 
 	  - CGI 231 bis C, 231 bis D, 231 bis E, 231 bis F, 231 bis G, 231 bis H, 231 bis I, 231 bis J
+	  - CGI 231 bis M
 	  - CGI 235 ter E
 	  - CGI 81
 	  - CGI 82 AL. 2
-	  - CGI 83 1° A 2° ter CGI 83 3° AL. 3
+	  - CGI 83 1° A 2° ter
+	  - CGI 83 3° AL. 3
 
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-875 1984-10-01 art. 1
 
 	**Modifié par**:
 
-	  - Loi n°82-939 du 4 novembre 1982 - art. 6 (V) JORF 5 NOVEMBRE 1982
+	  - Ordonnance 82-290 1982-03-30 art. 4 JORF 31 mars 1982
 
 
 ###### Article 163 nonies
@@ -10593,6 +10599,32 @@ les dispositions sont étendues au département de la Guadeloupe à compter du 1
 
 
 
+#### Chapitre III : Dispositions communes à l'ensemble des contributions indirectes
+
+###### Article 287
+
+Le montant de la somme à rembourser en application du troisième alinéa de l'article 631 du code général des impôts est
+calculé en divisant les émoluments mentionnés à cet alinéa par le nombre d'heures de travail légal dans l'année.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 631 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-233 du 26 mars 1984 - art. 2 (V) JORF 1er avril 1984
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
 ### Titre IV : Enregistrement, publicité foncière, timbre
 
 #### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière
@@ -11083,6 +11115,73 @@ les mots "aide judiciaire ou indemnisation des commissions et désignations d'of
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Section unique : Dispositions diverses
+
+##### 2° : Patrimoine artistique national
+
+###### Article 310 G
+
+I. L'acquéreur, le donataire, l'héritier ou le légataire, qui désire bénéficier de l'exonération de droits et taxes prévue à
+l'article 1131 du code général des impôts, doit déposer à la recette des impôts compétente pour enregistrer l'acte constatant
+la mutation ou la déclaration de la succession une offre de donation à l'Etat, précisant le ou les biens qui en font l'objet,
+et, le cas échéant, les conditions auxquelles cette offre est soumise. Il en est délivré récépissé.
+
+L'offre doit être faite dans le délai prévu pour l'enregistrement de l'acte constatant la mutation ou de la déclaration de la
+succession.
+
+II. L'offre de donation est adressée par le service des impôts à une commission dont la composition est fixée par arrêté
+conjoint du Premier ministre, du ministre chargé de la culture et du ministre chargé du budget.
+
+Avant de se prononcer, cette commission recueille l'avis du ministre intéressé par l'affectation éventuelle des biens qui
+font l'objet de l'offre de donation ; ce ministre est invité à désigner un représentant pour participer, avec voix
+consultative, aux travaux de la commission relatifs à cette offre.
+
+Elle consulte le ou les organismes compétents, selon le cas, en matière d'acquisition d'oeuvres d'art, de livres, d'objets de
+collection ou du documents de haute valeur artistique ou historique.
+
+Elle émet un avis sur l'intérêt artistique ou historique que sur la valeur du bien offert.
+
+Au vu de l'avis de la commission, le ministre compétent propose au ministre de l'économie et des finances l'octroi ou le
+refus de l'agrément.
+
+La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
+
+III. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter les conditions auxquelles
+celui-ci est subordonné.
+
+Il fait connaître son acceptation au ministre de l'économie et des finances, par pli recommandé avec demande d'avis de
+réception.
+
+IV. En l'absence de décision notifiée dans le délai d'un an à compter de la date du récépissé de l'offre, celle-ci est
+considérée comme refusée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1131
+
+	**Modifié par**:
+
+	  - Décret n°70-1046 1970-11-10 art. 2, art. 4 JORF 11 novembre 1970
+
+	**Cité par**:
+
+	  - Décret n°2009-633 du 6 juin 2009 - art. (V)
+	  - Décret n°2014-601 du 6 juin 2014 - art. (V)
+	  - Décret n°2015-631 du 5 juin 2015 - art. Annexe I (V)
+	  - Code du patrimoine. - art. D122-2 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384-0 A bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
 
 
 ## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes
@@ -12219,6 +12318,44 @@ général des impôts concerne les usines de traitement des combustibles nucléa
 
 ##### I : Redevance communale des mines
 
+###### Article 311
+
+I Les taux de la redevance communale des mines applicables en 1962 sont égaux aux taux en vigueur en 1961 multipliés par le
+rapport entre le nombre moyen de centimes additionnels aux anciennes contributions directes perçus au profit des départements
+en 1961 et le nombre moyen de ces mêmes centimes perçus en 1960; le nombre moyen est obtenu en divisant la somme des produits
+nets desdits centimes dans tous les départements métropolitains pour l'année de perception en cause par la somme des valeurs
+desdits centimes dans ces départements pour la même année.
+
+Pour chacune des années ultérieures, les taux de la redevance sont calculés suivant les mêmes modalités de telle sorte que
+soit maintenu le rapport entre chacun des taux et le nombre moyen des centimes additionnels aux anciennes contributions
+directes perçues l'année précédente au profit des départements.
+
+II  Les taux de redevance résultant de l'application du I sont fixés chaque année, sur avis conforme du conseil général des
+mines, par arrêté du ministre de l'industrie, du ministre de l'économie et des finances et du ministre de l'intérieur (1).
+
+Ces taux sont exprimés avec trois chiffres significatifs, le troisième chiffre étant augmenté d'une unité si le chiffre
+suivant est égal ou supérieur à cinq.
+
+1)  Pour 1982, arrêté du 5 août 1982 (J.O. N.C. du 1er septembre); pour 1983, arrêté du 30 décembre 1983 (J.O. N.C. du 12
+février 1984)
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1977-07-13
+	  - Arrêté 1978-07-11
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°81-1160 du 30 décembre 1981 - art. 21 (P)
+
+
 ##### 1° : Répartition du produit de la redevance : substances minérales autres que les hydrocarbures liquides et gazeux
 
 ###### Article 312
@@ -12332,6 +12469,143 @@ par le premier alinéa de cette disposition doit être pris par le titulaire des
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+
+
+### Titre II : Impositions départementales
+
+#### Chapitre II : Taxe sur les véhicules à moteur
+
+##### Section unique : Taxe différentielle sur les véhicules à moteur.
+
+###### Article 317 decies
+
+Sont exonérés de la taxe :
+
+1° Les véhicules ayant plus de vingt-cinq ans d'âge ;
+
+2° Les véhicules mentionnés à l'article R 105 du code de la route, qui sont destinés normalement au transport en commun de
+personnes ;
+
+3° Les véhicules affectés au transport des personnes, bénéficiaires d'une autorisation spéciale de stationnement à des
+emplacements réservés sur la voie publique et dont les conditions de transport sont conformes à un tarif réglementaire, ainsi
+que les taxis collectifs visés au c du 2° de l'article 3 du décret n° 49-1473 du 14 novembre 1949 modifié ;
+
+4° Les véhicules spéciaux dont la liste est fixée par un arrêté du ministre chargé du budget (1) ;
+
+5° Les véhicules spéciaux utilisés par les infirmes et mutilés ;
+
+6° (Transféré sous l'article 1599 F du code général des impôts) ;
+
+7° Les véhicules appartenant aux voyageurs, représentants de commerce et placiers, titulaires de la carte professionnelle
+d'identité instituée par la loi modifiée du 8 octobre 1919, et délivrée, validée ou renouvelée depuis moins d'un an.
+
+L'exonération prévue au 7° est limitée à un seul véhicule par propriétaire.
+
+(1) Annexe IV, art. 155 M.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 F
+	  - CGIAN4 155 M
+	  - Décret n°49-1473 1949-11-14 art. 3 2° c
+	  - Loi n°1919-10-08
+	  - Code de la route R105
+
+	**Créé par**:
+
+	  - Décret n°56-875 1956-09-03 art. 2 JORF 4 septembre 1956
+
+	**Modifié par**:
+
+	  - Décret n°57-1266 1957-12-13 art. 1 JORF 14 décembre 1957
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 31 (P) JORF 30 décembre 1978
+	  - Loi n°83-1179 1983-12-29 art. 24 JORF 30 décembre 1983 Finances pour 1984
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
+###### Article 317 duodecies
+
+I. La taxe est exigible à l'ouverture de la période d'imposition ou dans le mois de la première mise en circulation du
+véhicule en France et dans les départements d'outre-mer. Toutefois, elle n'est pas due pour la période en cours si la
+première mise en circulation a lieu entre le 15 août et le 30 novembre. Elle n'est pas due non plus lorsqu'un véhicule cesse
+en cours d'année d'être en situation de bénéficier d'une exonération.
+
+II. Le paiement de la taxe incombe à la personne physique ou morale propriétaire du véhicule.
+
+En cas de vente d'un véhicule au cours de la période d'imposition, les cessionnaires successifs sont solidairement
+responsables du paiement de la taxe.
+
+III. Le paiement de la taxe est constaté au moyen de la délivrance d'une vignette timbrée dont le modèle et les modalités de
+délivrance et d'utilisation sont établis par un arrêté ministériel qui fixe, en outre les obligations incombant aux
+propriétaires de véhicules exonérés de la taxe (1).
+
+La délivrance des duplicata de vignettes timbrées donne lieu au paiement d'une taxe de 10 F qui est perçue selon les
+modalités fixées par arrêté du ministre chargé du budget (1).
+
+(1) Annexe IV, art. 155 C à 155 J.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°56-875 1956-09-03 art. 4 JORF 4 septembre 1956
+
+	**Modifié par**:
+
+	  - Décret n°57-1018 1957-09-17 art. 1 JORF 20 septembre 1957
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
+###### Article 317 undecies
+
+La taxe est annuelle ; la période d'imposition s'étend du 1er décembre de chaque année au 30 novembre de l'année suivante.
+
+Pour l'application des tarifs fixés conformément à l'article 1599 G du code général des impôts, l'âge du véhicule se
+détermine à partir de la date de la première mise en circulation. Il s'apprécie au premier jour de la période d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 G
+
+	**Créé par**:
+
+	  - Décret n°56-875 1956-09-03 art. 3 JORF 4 septembre 1956
+
+	**Modifié par**:
+
+	  - Décret n°57-1018 1957-09-17 art. 1 JORF 20 septembre 1957
+	  - Loi n°80-30 du 18 janvier 1980 - art. 16 (P) JORF 19 janvier 1980
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 20 juillet 1984
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 
 ### Titre VI : Taxes parafiscales
@@ -12927,6 +13201,25 @@ retrait.
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+###### Article 371 EB
+
+Les centres s'engagent à exiger de toute personne collaborant à leurs travaux le respect du secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°75-911 du 6 octobre 1975 - art. 9 (Ab) JORF 9 octobre 1975
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
 
 
 ###### Article 371 F
@@ -16602,99 +16895,9 @@ différentielle sur les véhicules à moteur*, soit au b *taxe spéciale annuell
 	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
 
 
-#### REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE.
-
-###### Article 310 G
-
-I  L'acquéreur, le donataire, l'héritier ou le légataire, qui désire bénéficier de l'exonération de droits et taxes prévue à
-l'article 1131 du code général des impôts, doit déposer à la recette des impôts compétente pour enregistrer l'acte constatant
-la mutation ou la déclaration de la succession une offre de donation à l'Etat, précisant le ou les biens qui en font l'objet,
-et, le cas échéant, les conditions auxquelles cette offre est soumise. Il en est délivré récépissé.
-
-L'offre doit être faite dans le délai prévu pour l'enregistrement de l'acte constatant la mutation ou de la déclaration de la
-succession.
-
-II L'offre de donation ou de dation en paiement est adressée par le service des impôts à une commission dont la composition
-est fixée par arrêté conjoint du Premier ministre, du ministre chargé de la culture et du ministre chargé du budget.
-
-Avant de se prononcer, cette commission recueille l'avis du ministre intéressé par l'affectation éventuelle des biens qui
-font l'objet de l'offre de donation ou de dation en paiement ; ce ministre est invité à désigner un représentant pour
-participer, avec voix consultative, aux travaux de la commission relatifs à cette offre.
-
-Elle consulte le ou les organismes compétents, selon le cas, en matière d'acquisition d'oeuvres d'art, de livres, d'objets de
-collection ou du documents de haute valeur artistique ou historique.
-
-Elle émet un avis sur l'intérêt artistique ou historique que sur la valeur du bien offert.
-
-Au vu de l'avis de la commission, le ministre compétent propose au ministre de l'économie et des finances l'octroi ou le
-refus de l'agrément.
-
-La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
-
-III  En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter les conditions auxquelles
-celui-ci est subordonné et, le cas échéant, la valeur libératoire reconnue au bien offert en paiement de droits de mutation.
-
-Il fait connaître son acceptation au ministre de l'économie et des finances, par pli recommandé avec demande d'avis de
-réception.
-
-IV  En l'absence de décision notifiée dans le délai d'un an à compter de la date du récépissé de l'offre, celle-ci est
-considérée comme refusée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1131
-
-	**Modifié par**:
-
-	  - Décret n°82-164 du 11 février 1982 - art. 1 (V) JORF 16 FEVRIER 1982
-
-	**Cité par**:
-
-	  - Décret n°2009-633 du 6 juin 2009 - art. (V)
-	  - Décret n°2014-601 du 6 juin 2014 - art. (V)
-	  - Décret n°2015-631 du 5 juin 2015 - art. Annexe I (V)
-	  - Code du patrimoine. - art. D122-2 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 384-0 A bis (V)
-
-
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
 
 ### IMPOSITIONS COMMUNALES
-
-###### Article 311
-
-I  Les taux des redevances départementale et communale des mines applicables en 1962 sont égaux aux taux en vigueur en 1961
-multipliés par le rapport entre le nombre moyen de centimes additionnels aux anciennes contributions directes perçus au
-profit des départements en 1961 et le nombre moyen de ces mêmes centimes perçus en 1960; le nombre moyen est obtenu en
-divisant la somme des produits nets desdits centimes dans tous les départements métropolitains pour l'année de perception en
-cause par la somme des valeurs desdits centimes dans ces départements pour la même année.
-
-Pour chacune des années ultérieures, les taux des redevances sont calculés suivant les mêmes modalités de telle sorte que
-soit maintenu le rapport entre chacun des taux et le nombre moyen des centimes additionnels aux anciennes contributions
-directes perçues l'année précédente au profit des départements.
-
-II  Les taux de redevances résultant de l'application du I sont fixés chaque année, sur avis conforme du conseil général des
-mines, par arrêté du ministre de l'industrie, du ministre de l'économie et des finances et du ministre de l'intérieur (1).
-
-Ces taux sont exprimés avec trois chiffres significatifs, le troisième chiffre étant augmenté d'une unité si le chiffre
-suivant est égal ou supérieur à cinq.
-
-1)  Pour 1977, arrêté du 13 juillet 1977 (J.O. du 20 août); pour 1978, arrêté du 11 juillet 1978 (J.O. N.C. du 22 août).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1977-07-13
-	  - Arrêté 1978-07-11
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 317 bis
 
@@ -17095,6 +17298,28 @@ nonies, deuxième alinéa.
 	**Liens**:
 
 	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985 : la taxe spéciale est supprimée
+
+
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES.
+
+###### Article 317 octies
+
+Les taux de la redevance départementale des mines sont calculés conformément aux dispositions de l'article 311 (1).
+
+(1) Pour 1982, arrêté du 5 août 1982 (JONC du 1er septembre) ; pour 1983, arrêté du 30 décembre 1983 (JONC du 12 février
+1984).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1982-08-05
+	  - Arrêté 1983-12-30
+	  - CGIAN2 311
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 
 ### IMPOSITIONS LOCALES
@@ -20927,8 +21152,8 @@ impôts et 50, 51, 369 et 374-1 de l'annexe III à ce code.
 
 ###### Article 383 bis A
 
-Le versement mentionné à l'article 235 ter G du code général des impôts doit être effectué à la recette des impôts compétente
-en application des dispositions de l'article 163 quaterdecies de la présente annexe.
+Les versements mentionnés à l'article 235 ter G du code général des impôts doivent être effectués à la recette des impôts
+compétente en application des dispositions de l'article 163 quaterdecies de la présente annexe.
 
 **Liens relatifs à cet article**
 
@@ -20937,9 +21162,9 @@ en application des dispositions de l'article 163 quaterdecies de la présente an
 	  - CGI 235 ter G
 	  - CGIAN2 163 quaterdecies
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 383 bis B

@@ -4,7 +4,7 @@
 toutes les sommes payées par les employeurs à l'ensemble de leur personnel à titre de traitements, salaires, indemnités et
 émoluments, y compris la valeur des avantages en nature, quel que soit le lieu du domicile des bénéficiaires.
 
-Sont exclues de ce montant les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis J du code général des
+Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis J et 231 bis M du code général des
 impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la participation pour leur montant brut, avant déduction
@@ -25,15 +25,21 @@ l'article 82, deuxième alinéa, du code général des impôts.
 	**Cite**:
 
 	  - CGI 231 bis C, 231 bis D, 231 bis E, 231 bis F, 231 bis G, 231 bis H, 231 bis I, 231 bis J
+	  - CGI 231 bis M
 	  - CGI 235 ter E
 	  - CGI 81
 	  - CGI 82 AL. 2
-	  - CGI 83 1° A 2° ter CGI 83 3° AL. 3
+	  - CGI 83 1° A 2° ter
+	  - CGI 83 3° AL. 3
 
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-875 1984-10-01 art. 1
 
 	**Modifié par**:
 
-	  - Loi n°82-939 du 4 novembre 1982 - art. 6 (V) JORF 5 NOVEMBRE 1982
+	  - Ordonnance 82-290 1982-03-30 art. 4 JORF 31 mars 1982
