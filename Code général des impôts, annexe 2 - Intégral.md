@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-03-26
+Version Consolidée au 1983-05-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2479,6 +2479,53 @@ qui proviennent de la conversion d'obligations souscrites en numéraire.
 
 	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article sans objet, modifications incorporées à la date du 18 août 1993
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 102 B
+
+I. Une société par actions est considérée comme constituée [*date de constitution*] :
+
+a. Si elle ne fait pas publiquement appel à l'épargne, au jour de la signature des statuts par les actionnaires;
+
+b. Si elle fait publiquement appel à l'épargne, au jour de la tenue de l'assemblée générale constitutive prévue à l'article
+79 de la loi no 66-537 du 24 juillet 1966 sur les sociétés commerciales.
+
+II. Une augmentation de capital faite dans les conditions prévues à l'article 192 modifié de la loi du 24 juillet 1966, est
+considérée comme réalisée :
+
+a. A la date du certificat du dépositaire ou à la date de la signature du contrat de garantie conclu dans les conditions
+prévues à l'article 191-1 de la loi précitée en cas d'augmentation de capital par émission d'actions à souscrire en
+numéraire ;
+
+b. A la date du certificat du notaire ou du commissaire aux comptes qui tient lieu du certificat du dépositaire en cas de
+libération des actions par compensation de créances sur la société.
+
+III. En cas de conversion d'obligations en actions, l'augmentation de capital est considérée comme réalisée :
+
+a. Au jour du certificat mentionné au II-b, si les obligations sont convertibles pendant une période déterminée ;
+
+b. A la date de la demande de conversion, si les obligations sont convertibles à tout moment.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 ART. 79, ART. 191 1, ART. 192
+
+	**Modifié par**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 2 () JORF 4 janvier 1983
+	  - Décret n°83-363 1983-05-02 art. 6 JORF 3 mai 1983
+	  - Modifications incorporées à la date du 18 août 1993
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article sans objet
 
 
 ###### Article 102 C
@@ -13779,36 +13826,6 @@ vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" 
 
 	  - HISTO: EDITION 1979-07-01
 	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
-
-
-###### Article 102 B
-
-I. Une société par actions est considérée comme constituée [*date de constitution*] :
-
-a. Si elle ne fait pas publiquement appel à l'épargne, au jour de la signature des statuts par les actionnaires;
-
-b. Si elle fait publiquement appel à l'épargne, au jour de la tenue de l'assemblée générale constitutive prévue à l'article
-79 de la loi no 66-537 du 24 juillet 1966 sur les sociétés commerciales.
-
-II. Une augmentation de capital réalisée dans les conditions prévues à l'article 192 de la loi du 24 juillet 1966 susvisée
-est considérée comme réalisée à la date de la déclaration notariée de souscription des actions et de versement des fonds.
-
-III. En cas de conversion d'obligations en actions, l'augmentation de capital est considérée comme réalisée :
-
-a. Au jour de la déclaration notariée de souscription et de versement, si les obligations sont convertibles pendant une
-période déterminée;
-
-b. A la date de la demande de conversion, si les obligations sont convertibles à tout moment.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 ART. 79, ART. 192
 
 
 ###### Article 102 D
