@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1979-07-14
+Version Consolidée au 1979-07-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8984,6 +8984,120 @@ vertu des statuts ou du règlement intérieur.
 	**Cite**:
 
 	  - CGIAN2 371 G, 371 C, 371 B, 371 D
+
+
+###### Article 371 LA
+
+Pour l'application de l'article 1649 quater E bis du code général des impôts, la clientèle des industriels, commerçants,
+artisans et agriculteurs est informée de leur qualité d'adhérent d'un centre de gestion agréé et de ses conséquences en ce
+qui concerne l'acceptation des règlements par chèque selon les modalités fixées par les articles 371 LB à 371 LE.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 quater E bis
+	  - CGIAN2 371 LB à 371 LE
+
+	**Créé par**:
+
+	  - Décret n°79-638 du 27 juillet 1979 - art. 1 (V) JORF 28 juillet 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 371 LB
+
+L'information mentionnée à l'article 371 LA comprend :
+
+1° L'apposition, dans les locaux destinés à recevoir la clientèle ainsi que dans les emplacements ou véhicules aménagés en
+vue d'effectuer des ventes ou des prestations de services, d'un document écrit reproduisant de façon apparente le texte
+mentionné à l'article 371 LC et placé de manière à pouvoir être lu sans difficulté par cette clientèle ;
+
+2° La reproduction dans la correspondance et sur les documents professionnels adressés ou remis aux clients, du texte
+mentionné à l'article précité ; ce texte doit être nettement distinct des mentions relatives à l'activité professionnelle
+figurant sur ces correspondances et documents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 371 LA, 371 LC
+
+	**Créé par**:
+
+	  - Décret n°79-638 du 27 juillet 1979 - art. 2 (V) JORF 28 juillet 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 371 LC
+
+Le texte prévu à l'article 371 LB est le suivant :
+
+"Acceptant le règlement des sommes dues par chèques libellés à son nom en sa qualité de membre d'un centre de gestion agréé
+par l'administration fiscale."
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 371 LB
+
+	**Créé par**:
+
+	  - Décret n°79-638 du 27 juillet 1979 - art. 3 (V) JORF 28 juillet 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 371 LD
+
+Les centres de gestion agréés portent les obligations définies aux articles 371 LB et 371 LC à la connaissance de leurs
+adhérents.
+
+Ceux-ci doivent informer par écrit le centre de gestion agréé dont ils sont membres de l'exécution de ces obligations. Le
+centre s'assure de leur exécution effective.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 371 LB, 371 LC
+
+	**Créé par**:
+
+	  - Décret n°79-638 du 27 juillet 1979 - art. 4 (V) JORF 28 juillet 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 371 LE
+
+En cas de manquements graves ou répétés aux dispositions des articles 371 LA et 371 LC, les adhérents sont exclus du centre
+dans les conditions prévues à l'article 371 E.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 371 LA, 371 LC, 371 E
+
+	**Créé par**:
+
+	  - Décret n°79-638 du 27 juillet 1979 - art. 5 (V) JORF 28 juillet 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 #### Section II : Associations agréées des professions libérales
