@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-02-02
+Version Consolidée au 1980-02-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5247,6 +5247,67 @@ réalisent des opérations passibles de la taxe sur la valeur ajoutée en applic
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### 5 bis : Personnes qui ont passé un bail à construction
+
+###### Article 201 quater A
+
+L'option pour l'imposition d'un bail à construction à la taxe sur la valeur ajoutée doit être formulée dans l'acte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-131 du 12 février 1980 - art. 1 (V) JORF 15 février 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 201 quater B
+
+Le prix de cession est constitué soit par le montant cumulé des loyers, sans qu'il soit tenu compte des clauses de révision,
+soit par la valeur des immeubles ou des titres donnant vocation à la propriété ou à la jouissance d'immeubles remis au
+bailleur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-131 du 12 février 1980 - art. 2 (V) JORF 15 février 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
+
+
+###### Article 201 quater C
+
+Les dispositions de l'article 252 ne sont pas applicables au bail à construction.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 252
+
+	**Créé par**:
+
+	  - Décret n°80-131 du 12 février 1980 - art. 3 (V) JORF 15 février 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
 
 
 ##### 6 : Collectivités locales
