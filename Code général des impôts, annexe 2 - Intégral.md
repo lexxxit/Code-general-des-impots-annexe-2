@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1989-07-14
+Version Consolidée au 1989-12-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8936,16 +8936,16 @@ subvention d'équilibre.
 
 ###### Article 201 sexies
 
-Chaque service couvert par l'option constitue un secteur [*distinct*] d'activité pour l'application de l'article 213 ci-
-après.
+Chaque service couvert par l'option constitue un secteur d'activité pour l'application de l'article 213 ci-après.
 
 La taxe sur la valeur ajoutée qui a grevé les biens et services acquis pour les besoins de l'exploitation du service
-considéré n'est déductible que si ces biens et services sont affectés de manière exclusive à cette exploitation et leur coût
-porté en charge dans la comptabilité propre à ce service.
+considéré n'est déductible que si ces biens et services sont nécessaires à cette exploitation et leur coût porté en charge
+dans la comptabilité propre à ce service ; jusqu'au 31 décembre 1992, le pourcentage de l'utilisation privée de ces biens et
+services ne doit pas être supérieur à 90 % de leur utilisation totale.
 
-Lorsqu'une collectivité, un groupement ou un établissement public gérant plusieurs services ouvrant droit à option a exercé
-celle-ci pour au moins l'un d'entre eux, la taxe afférente aux biens affectés exclusivement, mais indifféremment, à
-l'ensemble de ces services est déductible en fonction du pourcentage général de déduction de cet ensemble.
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -8953,9 +8953,17 @@ l'ensemble de ces services est déductible en fonction du pourcentage général 
 
 	  - CGIAN2 213
 
+	**Modifié par**:
+
+	  - Décret n°89-885 du 14 décembre 1989 - art. 1 (V) JORF 15 décembre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 15 juin 1990
 
 
 ##### 7 : Bailleurs de biens ruraux
@@ -9531,20 +9539,35 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 La taxe déductible est celle afférente :
 
-1° aux investissements immobiliers et véhicules de transports publics que l'Etat, les collectivités locales et leurs
-établissements publics ont concédés ou affermés lorsque leur coût constitue l'un des éléments du prix du service soumis à la
-taxe ;
+1° aux investissements publics que l'Etat, les collectivités locales et leurs établissements publics ont concédés ou affermés
+lorsque leur coût constitue l'un des éléments du prix du service soumis à la taxe ;
 
 2° aux immeubles édifiés par les sociétés de construction dont les parts ou actions donnent vocation à l'attribution en
-propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble [*sociétés immobilières de copropriété*] ;
+propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble ;
 
 3° aux travaux de grosses réparations ou d'améliorations d'immeubles à la charge du preneur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 13 (V) JORF 31 DECEMBRE 1979
+	  - Décret n°89-885 du 14 décembre 1989 - art. 2 (V) JORF 15 décembre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+	**Codifié par**:
+
+	  - L'abrogation sera codifiée ultérieurement
 
 
 ##### B : Dispositions relatives aux biens ne constituant pas des immobilisations et aux services.
@@ -9849,18 +9872,19 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 ###### Article 230
 
-1  La taxe sur la valeur ajoutée ayant grevé les biens et services que les assujettis à cette taxe acquièrent ou qu'ils se
-livrent à eux-mêmes n'est déductible que si ces biens et services sont nécessaires à l'exploitation et sont affectés de façon
-exclusive à celle-ci.
+1 La taxe sur la valeur ajoutée [*TVA*] ayant grevé les biens et services que les assujettis à cette taxe acquièrent ou
+qu'ils se livrent à eux-mêmes n'est déductible que si ces biens et services sont nécessaires à l'exploitation. Jusqu'au 31
+décembre 1992, la taxe ayant grevé les dépenses relatives à des biens et à des services ne peut donner lieu à déduction
+lorsque le pourcentage de l'utilisation privée de ces biens et services est supérieur à 90 p. 100 de leur utilisation totale.
 
-2  En outre, l'exercice du droit à déduction est limité ou réduit dans les conditions fixées ci-après en ce qui concerne
+2 En outre, l'exercice du droit à déduction est limité ou réduit dans les conditions fixées ci-après en ce qui concerne
 certaines entreprises et certains biens ou services.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°89-885 du 14 décembre 1989 - art. 3 (V) JORF 15 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### A : Limitations concernant certaines entreprises
@@ -10064,28 +10088,31 @@ déductible afférente aux biens constituant des immobilisations est diminué du
 
 ###### Article 236
 
-N'est pas déductible la taxe ayant grevé des biens ou services utilisés par des tiers, par des dirigeants ou le personnel de
-l'entreprise, tels que le logement ou l'hébergement, les frais de réception, de restaurant, de spectacles ou toute dépense
-ayant un lien direct ou indirect avec les déplacements ou la résidence.
+A titre temporaire, la taxe sur la valeur ajoutée qui a grevé les dépenses de logement, de restaurant, de réception et de
+spectacles est exclue du droit à déduction.
 
-Toutefois, cette exclusion ne concerne pas les vêtements de travail ou de protection, les locaux et le matériel mis à
-disposition du personnel sur les lieux de travail, le logement gratuit du personnel salarié chargé sur les lieux de travail
-de la sécurité ou de la surveillance.
+Toutefois, cette exclusion n'est pas applicable :
 
-(1) La construction, l'agrandissement, l'aménagement et la modernisation d'établissements hôteliers de tourisme n'ouvrent pas
-droit à déduction lorsque les dépenses correspondantes ont donné lieu au remboursement prévu à l'article 85 de la loi n°
-61-1396 du 21 décembre 1961 (décret n° 67-604 du 27 juillet 1967, art. 12 - J.O. du 28).
+1° Aux dépenses supportées par un assujetti relatives à la fourniture à titre onéreux par cet assujetti de logements, de
+repas, d'aliments ou de boissons ;
+
+2° Aux dépenses relatives à la fourniture à titre gratuit du logement sur les chantiers ou dans les locaux d'une entreprise
+du personnel de sécurité, de gardiennage ou de surveillance ;
+
+3° Aux dépenses supportées par un assujetti du fait de la mise en jeu de sa responsabilité contractuelle ou légale à l'égard
+de ses clients.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°61-1396 du 21 décembre 1961 - art. 85, v. init.
-	  - Décret n°67-604 1967-07-27 ART. 12
-
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 25 (V) JORF 31 DECEMBRE 1979
+	  - Décret n°89-885 du 14 décembre 1989 - art. 4 (V) JORF 15 décembre 1989
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - TXT_ASSOCIE: Instruction 2000-11-13 3D-2-00
+	  - TXT_ASSOCIE: Instruction 2002-07-15 3D-3-02
 
 
 ###### Article 237
@@ -10812,10 +10839,10 @@ ministre de l'économie et des finances, qui en fixe les modalités et condition
 
 ###### Article 242 B
 
-Les organismes agissant sans but lucratif, désignés à l'article 261-7-1°-a du code général des impôts, qui réalisent des
-opérations imposables à la taxe sur la valeur ajoutée sont, en ce qui concerne l'étendue et les modalités d'exercice de leurs
-droits à déduction, soumis aux règles applicables à l'ensemble des assujettis à cette taxe, sous réserve des dispositions
-particulières ci-après.
+Les organismes agissant sans but lucratif, désignés au a du 1° du 7 de l'article 261 du code général des impôts, qui
+réalisent des opérations imposables à la taxe sur la valeur ajoutée sont, en ce qui concerne l'étendue et les modalités
+d'exercice de leurs droits à déduction, soumis aux règles applicables à l'ensemble des assujettis à cette taxe, sous réserve
+des dispositions particulières ci-après.
 
 L'ensemble des opérations réalisées par les organismes désignés au premier alinéa qui ne sont pas soumises à la taxe sur la
 valeur ajoutée et des ventes qu'ils consentent à leurs membres au-delà de 10 % des recettes totales, constitue un secteur
@@ -10825,19 +10852,28 @@ Chacune des manifestations de bienfaisance ou de soutien organisées par ces mê
 imposables à la taxe sur la valeur ajoutée est considérée comme une opération occasionnelle, également constituée en secteur
 d'activité distinct.
 
-Les biens constituant des immobilisations que les organismes ci-dessus désignés acquièrent ou se livrent à eux-mêmes pour les
-besoins des secteurs mentionnés aux deux alinéas précédents n'ouvrent pas droit à déduction.
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 261 7 1° a
+	  - CGI 261
 	  - CGIAN2 213
+
+	**Modifié par**:
+
+	  - Décret n°89-885 du 14 décembre 1989 - art. 5 (V) JORF 15 décembre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 15 juin 1990
 
 
 ##### Section III bis : Calcul de la taxe.
@@ -11770,20 +11806,21 @@ ceux dont se servent pour les opérations semblables les industriels ou les comm
 ###### Article 260 B
 
 Les opérations de vente prévues à l'article 260 A sont considérées comme constituant globalement une entreprise distincte de
-l'activité agricole non assujettie à la taxe sur la valeur ajoutée ; seuls les biens et les services utilisés exclusivement
-pour la réalisation de ces opérations ouvrent droit au bénéfice des déductions de taxe prévues à l'article 271 du code
-général des impôts.
+l'activité agricole non assujettie à la taxe sur la valeur ajoutée.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 271
 	  - CGIAN2 260 A
+
+	**Modifié par**:
+
+	  - Décret n°89-885 du 14 décembre 1989 - art. 5 (V) JORF 15 décembre 1989
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article 260 C
