@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-01-31
+Version Consolidée au 1985-02-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1068,6 +1068,30 @@ appartenant à chacun d'eux.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 8 (V)
 
 
+###### Article 60
+
+Le relevé prévu à l'article 57 indique distinctement, pour chaque requérant ou titulaire de compte, ses nom et prénoms, son
+domicile réel, ainsi que le montant de la retenue à la source à laquelle lesdits revenus ont effectivement donné lieu et le
+montant du crédit d'impôt y attaché. 
+
+Le ministre de l'économie et des finances peut prescrire, par arrêté, que ces mentions seront détaillées par nature de
+valeurs.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 57 (V)
+
+
 ##### V : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
 
 ##### 2 : Biens et droits mobiliers ou immobiliers.
@@ -1848,6 +1872,39 @@ application du deuxième alinéa de l'article 163 septies du code général des 
 	  - HISTO: Edition du 22 avril 1998
 
 
+###### Article 75-0 T
+
+L'état qui doit être remis au contribuable en application de l'article 163 nonies du code général des impôts est dressé
+d'après un modèle établi par l'administration.
+
+Il indique, pour l'ensemble des valeurs qui sont soumises à l'obligation de dépôt, en distinguant les valeurs non cotées, le
+solde annuel des acquisitions et des cessions définies aux articles 75-0 E et 75-0 Q, ainsi que les retraits ou virements
+éventuels au profit d'une personne autre que le déposant.
+
+Ces données sont mentionnées sur la copie de la déclaration prévue au 1 de l'article 242 ter du même code lorsque cette
+dernière doit être établie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 nonies, 242 ter 1
+	  - CGIAN2 75-0 E, 75-0 Q
+
+	**Modifié par**:
+
+	  - Décret n°85-201 du 13 février 1985 - art. 2 () JORF 15 février 1985
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
 ###### Article 75-0 U
 
 La dispense de réintégration de l'excédent des cessions sur les achats prévue en cas de licenciement par l'article 163
@@ -2095,6 +2152,51 @@ les produits payés.
 	  - Code général des impôts, CGI. - art. 119 bis (V)
 
 
+###### Article 79
+
+I. Les certificats prévus aux articles 77 et 78 sont établis sur des formules dont les modèles sont fixés par arrêté (1).
+
+2. Les établissements payeurs autres que les sociétés ou collectivités débitrices sont déchargés de toute responsabilité
+quant au montant de l'avoir fiscal ou du crédit d'impôt inscrit sur les certificats délivrés par eux lorsque ce montant
+correspond à celui qui leur a été notifié par lesdites sociétés ou collectivités ou qui a été mentionné sur les rapports et
+propositions de résolutions visés à l'article 243 bis du code général des impôts.
+
+3. Les établissements payeurs sont tenus d'établir le relevé prévu à l'article 57 pour tous les revenus payables sur
+présentation de coupons ou d'instruments représentatifs de coupons.
+
+4. Les sociétés visées au 4° de l'article 75 sont réputées verser à chacun de leurs associés la quote-part des revenus
+correspondant à ses droits, le jour où elles ont elles-mêmes encaissé lesdits revenus ou ont été créditées de leur montant.
+Elles prélèvent à la même date la retenue à la source visée au 2 de l'article 119 bis du code général des impôts qui est due,
+à raison de leurs quotes-parts respectives, par les associés dont le domicile réel ou le siège social est situé hors de la
+France métropolitaine et des départements d'outre-mer.
+
+(1) Annexe IV, art. 16 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 77, 78, 243 bis, 57, 75, 119 bis
+
+	**Modifié par**:
+
+	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 75 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 81 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - TXT_ASSOCIE: Instruction 2003-04-25 4J-2-03
+
+
 ###### Article 80
 
 L'utilisation, par les bénéficiaires de revenus de capitaux mobiliers encaissés à compter du 1er janvier 1966, de l'avoir
@@ -2160,6 +2262,37 @@ résultats de cet exercice.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 159 quinquies (V)
+
+
+###### Article 84
+
+I. Par dérogation aux dispositions de l'article 4 du décret n° 48-1683 du 30 octobre 1948, fixant certaines caractéristiques
+des valeurs mobilières, les coupons ou instruments représentatifs de coupons, contre remise desquels sont opérées les
+distributions de primes à la construction conformes aux prescriptions de l'article 83 sont obligatoirement distincts de ceux
+servant au paiement des dividendes et autres produits des actions ou parts. Ils ne donnent pas lieu à l'établissement du
+relevé prévu à l'article 57. 
+
+II. En cas de distribution soit de primes à la construction ne satisfaisant pas aux conditions exigées à l'article 83, soit
+de sommes ne provenant pas de primes à la construction encaissées par la société, les sommes ou valeurs ainsi réparties sont
+réputées versées à des bénéficiaires non identifiés et soumises au régime des rémunérations et avantages occultes mentionnés
+au c de l'article 111 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°48-1683 du 30 octobre 1948 - art. 4 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 57 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 83 (V)
+	  - Code général des impôts, CGI. - art. 111 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 Février 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
 
 
 ##### III : Épargne investie.
@@ -14843,73 +14976,24 @@ atomique,     500 % pour les risques de responsabilité civile dus à la polluti
 
 ###### Article 39 H
 
-Les agents de change, les établissements de crédit ou organismes habilités à détenir et à négocier des valeurs mobilières
-pour le compte des particuliers doivent, avant le 1er février de chaque année, adresser à la direction des services fiscaux
-de leur résidence les documents suivants :
+Les agents de change et les établissements de crédit ou organismes habilités à détenir et à négocier des valeurs mobilières
+pour le compte des particuliers doivent déclarer à l'administration le montant global, compte non tenu des frais, des ventes
+des titres ou des droits visés à l'article 92-B du code général des impôts effectuées par chacun de leurs clients.
 
-1° (Abrogé)     2° Pour ceux de leurs clients qui ont réalisé, l'année précédente, des cessions d'un montant supérieur  à
-50.000 F, un relevé indiquant le montant global, compte non tenu des frais, des ventes, quel qu'en soit le montant, des
-titres ou des droits visés à l'article 92 B du code général des impôts.
+Ces renseignements doivent parvenir, avant le 16 février de chaque année pour les opérations de l'année précédente, à la
+direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils figurent sur la
+déclaration prévue au 1 de l'article 242 ter du même code lorsque celle-ci doit être souscrite.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 242 ter
 	  - CGI 92 B
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
 
 	**Modifié par**:
 
-	  - Loi n°84-46 1984-01-24 ART. 94 II JORF 25 janvier 1984
-
-
-###### Article 58
-
-Les sociétés ou compagnies, agents de change, changeurs, banquiers, escompteurs, officiers publics ou ministériels et toutes
-personnes, sociétés ou associations recevant habituellement en dépôt des valeurs mobilières sont tenus d'adresser à la
-direction des services fiscaux de leur résidence, avis de l'ouverture et de la clôture de tout compte de dépôt, de titres,
-valeurs ou espèces, compte d'avances, compte courant ou autre.
-
-Les avis sont établis sur des formules dont le modèle est arrêté par l'administration. Ils sont envoyés dans les dix premiers
-jours du mois qui suit celui de l'ouverture ou de la clôture des comptes [*délai*]. Il en est donné récépissé.
-
-Chaque année avant le 1er février [*date limite*], les établissements visés au premier alinéa sont tenus d'adresser à la
-direction des services fiscaux de leur résidence le relevé des coupons portés au cours de l'année précédente au crédit des
-titulaires des comptes de dépôt, de titres, valeurs ou espèces, comptes d'avances, comptes courants ou autres.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 60
-
-Les relevés prévus aux articles 57 et 58 indiquent distinctement, pour chaque requérant ou titulaire de compte, ses nom et
-prénoms, son domicile réel, ainsi que le montant de la retenue à la source à laquelle lesdits revenus ont effectivement donné
-lieu et le montant du crédit d'impôt y attaché.
-
-Le ministre de l'économie et des finances peut prescrire, par arrêté, que ces mentions seront détaillées par nature de
-valeurs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 57
-	  - CGIAN2 58
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°85-201 du 13 février 1985 - art. 1 () JORF 15 février 1985
 
 
 ##### REVENU GLOBAL.
@@ -14971,88 +15055,6 @@ déposées à l'expiration de la période de deux ans prévue à cet article.
 	**Cite**:
 
 	  - Loi n°66-537 1966-07-24 ART. 278
-
-
-###### Article 75-0 T
-
-Les états prévus à l'article 163 nonies du code général des impôts sont dressés d'après un modèle établi par arrêté du
-ministre de l'économie et du ministre du budget (1).
-
-Ces états indiquent [*mentions*] :
-
-- le solde annuel des acquisitions et des cessions définies aux articles 75-0 E et 75-0 Q;
-
-- l'existence éventuelle de retraits ou de virements au profit d'une personne autre que le déposant et portant sur des
-valeurs soumises à l'obligation du dépot.
-
-Ils sont remplis par les intermédiaires agréés ou par les personnes mentionnées aux articles 75-0 K, 75-0 L et 75-0 M ci-
-dessus qui doivent les faire parvenir aux personnes intéressées en vue de l'établissement de la déclaration de revenus.
-
-Si une personne est titulaire de plusieurs comptes de titres, les intermédiaires agréés établissent un état particulier pour
-chacun de ces comptes. Ils fournissent de manière distincte les renseignements relatifs aux opérations portant sur des
-actions non cotées ou non assimilées à des actions cotées qu'ils ont reçues en dépôt dans les conditions prévues à l'article
-75-0 L.
-
-1)  Arrêté du 23 décembre 1978 (J.O. no 304, N.C. du 30).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1978-12-23
-	  - CGI 163 nonies
-	  - CGIAN2 75-0 E
-	  - CGIAN2 75-0 K
-	  - CGIAN2 75-0 L
-	  - CGIAN2 75-0 M
-	  - CGIAN2 75-0 Q
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 79
-
-I. Les certificats prévus aux articles 77 et 78 sont établis sur des formules dont les modèles sont fixés par arrêté (1).
-
-2. Les établissements payeurs autres que les sociétés ou collectivités débitrices sont déchargés de toute responsabilité
-quant au montant de l'avoir fiscal ou du crédit d'impôt inscrit sur les certificats délivrés par eux lorsque ce montant
-correspond à celui qui leur a été notifié par lesdites sociétés ou collectivités ou qui a été mentionné sur les rapports et
-propositions de résolutions visés à l'article 243 bis du code général des impôts.
-
-3. Les établissements payeurs sont tenus d'établir les relevés prévus aux articles 57 et 58 pour tous les revenus payables
-sur présentation de coupons ou d'instruments représentatifs de coupons.
-
-4. Les sociétés visées à l'article 75-4° sont réputées verser à chacun de leurs associés la quote-part des revenus
-correspondant à ses droits, le jour où elles ont elles-mêmes encaissé lesdits revenus ou ont été créditées de leur montant.
-Elles prélèvent à la même date la retenue à la source visée à l'article 119 bis-2 du code général des impôts qui est due, à
-raison de leurs quotes-parts respectives, par les associés dont le domicile réel ou le siège social est situé hors de la
-France métropolitaine et des départements d'outre-mer [*à l'étranger*].
-
-1)  Annexe IV, art. 16 bis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 119 bis 2
-	  - CGI 243 bis
-	  - CGIAN2 57
-	  - CGIAN2 58
-	  - CGIAN2 75 4°
-	  - CGIAN2 77
-	  - CGIAN2 78
-	  - CGIAN4 16 bis
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 75 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 81 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 81 bis
@@ -15271,21 +15273,21 @@ dépositaires de valeurs mentionnées à l'article 199 quinquies C du code gén�
 des services fiscaux du lieu de l'établissement, avant le 16 février [*date limite*] de chaque année, un état individuel
 établi d'après un modèle fixé par l'administration.
 
-Dans le même délai, il est remis au contribuable duplicata des renseignements figurant sur cet état.
+Dans le même délai, il est remis au contribuable duplicata des renseignements figurant sur cet état.    Les renseignements
+prévus à l'article 199 quinquies F du code général des impots doivent figurer sur la déclaration faite au nom du client en
+application du 1 de l'article 242 ter du même code lorsque cette déclaration doit être souscrite.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 199 quinquies C
+	  - CGI 199 quinquies F
+	  - CGI 242 ter 1
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°83-389 du 16 mai 1983 - art. 10 (V) JORF 17 MAI 1983
+	  - Décret n°85-201 du 13 février 1985 - art. 3 () JORF 15 février 1985
 
 
 #### IMPOTS SUR LE REVENU
@@ -15496,42 +15498,6 @@ l'application des majorations prévues aux articles 1728 et 1729 du code génér
 
 
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES
-
-#### IMPOT SUR LE REVENU
-
-##### REVENU GLOBAL.
-
-###### Article 84
-
-I. Par dérogation aux dispositions de l'article 4 du décret n° 48-1683 du 30 octobre 1948, fixant certaines caractéristiques
-des valeurs mobilières, les coupons ou instruments représentatifs de coupons, contre remise desquels sont opérées les
-distributions de primes à la construction conformes aux prescriptions de l'article 83 sont obligatoirement distincts de ceux
-servant au paiement des dividendes et autres produits des actions ou parts. Ils ne donnent pas lieu à l'établissement des
-relevés prévus aux articles 57 et 58.
-
-II. En cas de distribution soit de primes à la construction ne satisfaisant pas aux conditions exigées à l'article 83, soit
-de sommes ne provenant pas de primes à la construction encaissées par la société, les sommes ou valeurs ainsi réparties sont
-réputées versées à des bénéficiaires non identifiés et soumises au régime des rémunérations et avantages occultes mentionnés
-à l'article 111-c du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 111 c
-	  - CGIAN2 57
-	  - CGIAN2 58
-	  - CGIAN2 83
-	  - Décret n°48-1683 du 30 octobre 1948 - art. 4 (V)
-
-	**Modifié par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 72 (P) JORF 19 JANVIER 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
 
 #### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*
 
