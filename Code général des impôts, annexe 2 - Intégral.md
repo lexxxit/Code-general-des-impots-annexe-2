@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-07-20
+Version Consolidée au 1982-07-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15066,11 +15066,11 @@ déclaration annuelle. La demande de remboursement doit être déposée avec cet
 
 ###### Article 242-0 F
 
-A titre transitoire, les assujettis pourront bénéficier, sur option expresse, de remboursements mensuels ou trimestriels de
-leur crédit de taxe déductible dans la limite de la taxe sur la valeur ajoutée calculée sur le montant des exportations et
-opérations assimilées réalisées au cours de la période correspondant à chaque déclaration de chiffre d'affaires. L'option
-pour ce régime est exclusive du bénéfice des dispositions des articles 242-0 A à 242-0 D ; elle est exercée avant le 1er mars
-[*date limite*] pour chaque année civile.
+Les redevables peuvent bénéficier de remboursements mensuels ou ou trimestriels de leur crédit de taxe déductible dans la
+limite de la taxe sur la valeur ajoutée calculée sur le montant des exportations et opérations assimilées réalisées au cours
+de la période correspondant à chaque déclaration de chiffre d'affaires. L'option pour ce régime est exclusive du bénéfice des
+dispositions des articles 242-0 A à 242-0 D ; elle résulte du dépôt de la première demande de remboursement et s'applique au
+trimestre civil au cours duquel elle a été formulée.
 
 **Liens relatifs à cet article**
 
@@ -15081,9 +15081,9 @@ pour ce régime est exclusive du bénéfice des dispositions des articles 242-0 
 	  - CGIAN2 242-0 C
 	  - CGIAN2 242-0 D
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-633 du 21 juillet 1982 - art. 1 (V) JORF 23 JUILLET 1982
 
 
 ##### OBLIGATIONS DES REDEVABLES
