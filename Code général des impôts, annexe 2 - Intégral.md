@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1999-07-01
+Version Consolidée au 2000-03-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1693,6 +1693,188 @@ des revenus mis en paiement.
 	  - Code général des impôts, CGI. - art. 119 bis (V)
 
 
+##### 3-0 bis : Revenus des valeurs mobilières émises hors de France et revenus assimilés
+
+###### Article 50 bis
+
+I.-Pour apprécier si la proportion de 10 % mentionnée au 1 de l'article 123 bis du code général des impôts est atteinte, il y
+a lieu de retenir le pourcentage de la participation de la personne physique constaté à la clôture de l'exercice de la
+personne morale, de l'organisme, de la fiducie ou de l'institution comparable, établi ou constitué hors de France ou, en
+l'absence d'exercice clos au cours d'une année, le 31 décembre. Toutefois, s'il est plus élevé, le pourcentage à retenir est
+celui de la participation détenue pendant au moins 183 jours au cours de l'exercice ou de l'année civile, suivant le cas. 
+
+II.-Lorsqu'une personne physique domiciliée en France n'a pas produit dans les délais prévus la déclaration mentionnée à
+l'article 50 septies et que l'administration établit que cette personne physique a détenu une participation dans une personne
+morale, un organisme, une fiducie ou une institution comparable, établi ou constitué hors de France, dont le pourcentage a
+été égal ou supérieur à celui mentionné au 1 de l'article 123 bis du code général des impôts à un moment quelconque de
+l'exercice de cette personne morale, de cet organisme, de cette fiducie ou de cette institution comparable, autre que la date
+de clôture ou, en l'absence de clôture d'exercice, à un moment quelconque de l'année civile, autre que le 31 décembre, elle
+peut demander à cette personne physique de lui indiquer la durée de détention de cette participation ainsi que les conditions
+et les dates de son acquisition et de sa cession. Si, dans un délai de trente jours, la personne physique ne défère pas à
+cette demande ou fournit une réponse insuffisante, l'administration lui adresse une mise en demeure de produire dans le même
+délai la déclaration prévue à l'article 50 septies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-1156 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 septies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 123 bis (V)
+
+
+###### Article 50 quater
+
+Les bénéfices ou revenus positifs de chaque personne morale, organisme, fiducie ou institution comparable, établi ou
+constitué hors de France, mentionnés au 1 de l'article 123 bis du code général des impôts sont déterminés selon les règles
+fixées au 3 de cet article à partir du bilan de départ établi dans les conditions fixées à l'article 50 ter. Ils sont
+convertis en euros sur la base du taux de change publié par la Banque de France à partir du cours fixé par la Banque centrale
+européenne, en vigueur, suivant le cas, à la clôture de l'exercice ou le 31 décembre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-1156 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 ter (V)
+	  - Code général des impôts, CGI. - art. 123 bis (V)
+
+
+###### Article 50 quinquies
+
+Les montants d'impôts acquittés hors de France, déductibles du revenu réputé constituer un revenu de capitaux mobiliers de la
+personne physique concernée, en application de l'article 123 bis du code général des impôts, sont convertis en euros sur la
+base du taux de change publié par la Banque de France à partir du cours fixé par la Banque centrale européenne, en vigueur,
+suivant le cas, à la clôture de l'exercice de la personne morale, de l'organisme, de la fiducie ou de l'institution
+comparable ou, en l'absence d'exercice clos au cours d'une année, le 31 décembre. Il incombe à la personne physique de
+justifier du paiement effectif de ces impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-1156 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 septies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 123 bis (V)
+
+
+###### Article 50 septies
+
+La personne physique qui est dans le champ d'application de l'article 123 bis du code général des impôts doit produire, dans
+le même délai que la déclaration d'ensemble de ses revenus, une déclaration comportant les renseignements et documents
+suivants : 
+
+a) Le nom ou la raison sociale ainsi que l'adresse du siège social, l'objet, l'activité, le lieu de la résidence fiscale et
+la proportion de la participation mentionnée à l'article 50 bis pour chaque personne morale, organisme ou institution
+comparable, établi ou constitué hors de France et soumis à un régime fiscal privilégié, dans lesquelles elle détient,
+directement ou indirectement au sens du premier alinéa du 2 de l'article 123 bis du code général des impôts, 10 % au moins
+des actions, parts, droits financiers ou droits de vote ; pour chaque fiducie ou institution comparable, le nom ou la raison
+sociale du fiduciaire ou personne exerçant des fonctions comparables, l'adresse de son domicile ou de son siège social et le
+lieu de sa résidence fiscale, l'objet de la fiducie ou de l'institution comparable, la proportion des droits financiers
+détenus directement ou indirectement au sens du premier alinéa du 2 de l'article 123 bis du code général des impôts dans
+cette fiducie ou institution comparable ; 
+
+b) Pour chaque personne morale, organisme, fiducie ou institution comparable, l'ensemble des documents qui sont exigés des
+sociétés passibles de l'impôt sur les sociétés, y compris le bilan et le compte de résultats établis selon les règles fixées
+par les articles 50 ter et 50 quater ; 
+
+c) Le bilan et le compte de résultats de chaque personne morale, organisme, fiducie ou institution comparable fournis à
+l'administration fiscale du pays ou territoire où il est établi ou constitué, dans tous les cas où cette administration
+fiscale exige le dépôt de tels documents ; 
+
+d) Un état faisant apparaître pour chaque personne morale, organisme, fiducie ou institution comparable mentionné au 1 de
+l'article 123 bis du code général des impôts, d'une part, le montant des prélèvements fiscaux déductibles du revenu imposable
+de la personne physique en application de l'article 50 quinquies et, d'autre part, le montant des crédits d'impôt imputables
+sur l'impôt sur le revenu dû par elle en application de l'article 50 sexies ; 
+
+e) Pour chaque personne morale, organisme, fiducie ou institution comparable, le montant cumulé des bénéfices ou revenus
+positifs imposés au titre de l'article 123 bis du code général des impôts et le montant des distributions reçues de cette
+personne morale, organisme, fiducie ou institution comparable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-1156 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 bis (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 quinquies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 sexies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 ter (V)
+	  - Code général des impôts, CGI. - art. 123 bis (V)
+
+
+###### Article 50 sexies
+
+Les prélèvements qui sont effectués conformément aux conventions fiscales internationales sur les distributions à la personne
+physique de bénéfices ou revenus positifs réputés constituer pour elle un revenu de capitaux mobiliers, en application de
+l'article 123 bis du code général des impôts, sont imputables sur l'impôt sur le revenu correspondant audit revenu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-1156 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 octies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 septies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 123 bis (V)
+
+
+###### Article 50 ter
+
+I.-Au titre de la première année d'imposition pour laquelle le régime défini à l'article 123 bis du code général des impôts
+est applicable, la personne physique doit établir un bilan de départ pour chaque personne morale, organisme, fiducie ou
+institution comparable, établi ou constitué hors de France, mentionné au 1 de ce même article. L'actif net de ce bilan sert
+de base à la détermination des résultats de cette personne morale, de cet organisme, de cette fiducie ou de cette institution
+comparable, et notamment de base pour l'imposition minimum prévue au deuxième alinéa du 3 de l'article 123 bis du code
+général des impôts. 
+
+II.-Les éléments figurant au bilan de départ doivent être retenus pour la valeur comptable résiduelle qu'ils comportaient au
+regard de la législation fiscale qui leur était applicable dans le pays ou le territoire concerné à la date d'ouverture de la
+première période d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-1156 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 quater (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 septies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 123 bis (V)
+
+
 ##### 3 bis : Primes de remboursement et intérêts capitalisés
 
 ###### Article 50 A
@@ -2618,7 +2800,322 @@ modéré.
 	  - Décret n°93-1127 1993-09-24
 
 
+##### 2 : Etat à produire par les contribuables relevant du régime des micro-entreprises et du régime spécial déclaratif.
+
+###### Article 74 U
+
+L'état que les contribuables placés sous le régime défini aux articles 50-0 ou 102 ter du code général des impôts doivent
+joindre à la déclaration prévue à l'article 170 du même code mentionne :
+
+1. Les nom, prénom ou raison sociale du contribuable ainsi que le numéro d'identification de l'établissement (n° SIRET) ;
+
+2. L'adresse du lieu d'exploitation et l'adresse personnelle de l'exploitant lorsque celle-ci diffère de la première ;
+
+3. Le chiffre d'affaires réalisé ou les recettes encaissées au titre de l'année civile, en distinguant :
+
+a) Prestations de service ;
+
+b) Activités commerciales autres que les prestations de service ;
+
+c) Activités non commerciales ;
+
+4. Les éléments utiles à l'assiette de la taxe professionnelle :
+
+a) Pour les titulaires de bénéfices industriels et commerciaux, le montant des salaires définis au b du 1° du premier alinéa
+de l'article 1467 du code précité ;
+
+b) Pour les artisans qui remplissent les conditions prévues par le 2° du I de l'article 1468 du code général des impôts, le
+nombre de salariés donnant droit à la réduction prévue audit article ;
+
+5. Les plus ou moins-values réalisées dans le cadre de l'activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 50-0, 102 ter, 170, 1467, 1468
+
+	**Créé par**:
+
+	  - Décret n°2000-195 du 3 mars 2000 - art. 1 () JORF 5 Mars 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+
+###### Article 74 V
+
+L'état mentionné à l'article 74 U doit être complété par chaque contribuable membre du foyer fiscal disposant de revenus
+relevant du régime prévu aux articles 50-0 ou 102 ter du code général des impôts.
+
+En cas de pluralité d'activités ou d'entreprises, le contribuable doit souscrire un état pour chaque lieu d'exploitation.
+
+Cet état est adressé en simple exemplaire, avec la déclaration de revenus, au service des impôts dont dépend le domicile du
+contribuable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 50-0, 102 ter, 74 U
+
+	**Créé par**:
+
+	  - Décret n°2000-195 du 3 mars 2000 - art. 1 () JORF 5 Mars 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 7 () JORF 8 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+
 ##### Section II : Revenu global
+
+###### Article 91 duodecies
+
+Pour l'application des dispositions du 2 du I de l'article 167 bis du code général des impôts, les moins-values constatées
+sur les droits sociaux à la date du transfert du domicile fiscal hors de France sont imputables sur les plus-values
+constatées à cette même date.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 167 bis
+
+	**Créé par**:
+
+	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 mars 2000
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
+
+
+###### Article 91 quaterdecies
+
+Pour l'application du troisième alinéa du 3 du II de l'article 167 bis du code général des impôts, l'impôt acquitté hors de
+France par le contribuable est comparable à l'impôt établi en France à condition d'être un impôt personnel sur le revenu
+assis sur les plus-values de cession de valeurs mobilières ou de droits sociaux et d'être calculé à partir du prix ou de la
+valeur d'acquisition des titres concernés retenu pour l'application du 2 du I de l'article 167 bis précité.
+
+L'imputation sur l'impôt sur le revenu établi en France est effectuée par voie de dégrèvement sur justification du paiement
+de l'impôt acquitté hors de France par le contribuable et des éléments relatifs à sa liquidation. Cet impôt est converti en
+francs français sur la base du taux de change en vigueur à la date de paiement de cet impôt.
+
+Lorsque la cession réalisée hors de France, qui constitue le fait générateur de l'expiration du sursis de paiement prévu au
+II de l'article 167 bis du code général des impôts, est soumise à l'impôt en France en application des dispositions de
+l'article 244 bis B du code général des impôts, cette dernière imposition est établie sur la plus-value déterminée par
+différence entre le prix de cession des titres et leur valeur retenue à la date du transfert du domicile hors de France.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 167 bis, 244 bis B
+
+	**Créé par**:
+
+	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 novodecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 octodecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 septdecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+
+###### Article 91 quindecies
+
+Avant le 1er mars de l'année suivant celle de la transmission, du rachat, du remboursement ou de l'annulation des titres, le
+contribuable acquitte l'impôt dû à raison de l'événement qui entraîne l'expiration partielle ou totale du sursis
+d'imposition. Il joint à l'appui de son paiement une copie de l'avis d'imposition faisant apparaître le montant des droits
+bénéficiant du sursis de paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 mars 2000
+
+
+###### Article 91 septdecies
+
+Le dégrèvement d'office des impositions en sursis afférentes aux titres restés dans le patrimoine du contribuable à la date
+de son retour en France ou, s'agissant de l'impôt en sursis en application du premier alinéa du 1 du II de l'article 167 bis
+du code général des impôts, à l'expiration d'un délai de cinq ans suivant la date de son départ, est subordonné au dépôt de
+la déclaration de revenus souscrite au titre de l'année au cours de laquelle le contribuable est à nouveau résident de France
+ou de l'année d'expiration du délai de cinq ans. Cette déclaration est déposée au centre des impôts des non-résidents.
+
+La levée des garanties correspondantes ne peut être prononcée qu'après le dégrèvement d'office mentionné au premier alinéa.
+
+Le contribuable peut alors prétendre au remboursement des frais de constitution de garantie qu'il a supportés dans les
+conditions prévues aux articles R. 208-3 à R. 208-6 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 167 bis
+	  - Livre des procédures fiscales R208-3 à R208-6
+
+	**Créé par**:
+
+	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 mars 2000
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+
+###### Article 91 sexdecies
+
+Pour l'application du 4 du II de l'article 167 bis du code général des impôts, l'exigibilité de l'impôt en sursis de paiement
+est rétablie lorsque la situation du contribuable n'a pas été régularisée dans les trente jours de la notification d'une mise
+en demeure adressée à son représentant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 167 bis
+
+	**Créé par**:
+
+	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 mars 2000
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
+
+
+###### Article 91 terdecies
+
+Lorsque le contribuable demande le sursis de paiement prévu au deuxième alinéa du 1 bis de l'article 167 ou au premier alinéa
+du 1 du II de l'article 167 bis du code général des impôts, l'impôt afférent aux plus-values de cession ou d'échange de
+valeurs mobilières ou de droits sociaux imposables à raison du transfert du domicile hors de France ou afférent aux plus-
+values constatées à la date du transfert fait l'objet d'une mise en recouvrement spécifique et d'une prise en charge du rôle
+correspondant par le comptable du Trésor des non-résidents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 167, 167 bis
+
+	**Créé par**:
+
+	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 mars 2000
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
+
+
+###### Article 91 undecies
+
+La déclaration provisoire prévue au 2 de l'article 167 du code général des impôts fait apparaître distinctement sur un
+formulaire spécial délivré par l'administration le montant des plus-values en report et des plus-values constatées,
+mentionnées respectivement au 1 bis du même article et à l'article 167 bis du code précité, ainsi que les éléments
+nécessaires à leur détermination.
+
+Cette déclaration spéciale indique en outre la date du transfert du domicile hors de France et l'adresse du nouveau domicile
+fiscal.
+
+Les contribuables qui entendent bénéficier du sursis de paiement prévu au II de l'article 167 bis du code général des impôts
+en font la demande sur la déclaration spéciale prévue au premier alinéa. Celle-ci comporte le nom ou la dénomination sociale
+ainsi que l'adresse du représentant fiscal désigné par le contribuable. Ce représentant s'engage, sur la même déclaration, à
+remplir les formalités et obligations qui lui incombent en vertu des dispositions du 1 du II de l'article précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 167, 167 bis
+
+	**Créé par**:
+
+	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 duodecies (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 novodecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 octodecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 septdecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 mars 2000
+
 
 ##### 0I ter : Créateurs d'entreprises.
 
@@ -3297,21 +3794,21 @@ Dispositions devenues sans objet en conséquence de l'article 11-I F et IV de la
 ###### Article 91 quater
 
 La date d'ouverture du plan d'épargne populaire est celle du premier versement effectué sur le compte ou au titre du contrat
-d'assurance vie, ou, le cas échéant, celle du transfert des sommes figurant sur un plan d'épargne en vue de la retraite.
+d'assurance vie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°90-116 du 5 février 1990 - art. 2 (Ab) JORF 6 février 1990
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 12 (V) JORF 31 décembre 1999
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
+	  - Décret n°2000-477 2000-06-02
 
 
 ###### Article 91 quater A
@@ -6736,335 +7233,6 @@ accompagnée, s'il y a lieu, de l'engagement du nouvel exploitant.
 	  - Décret n°2002-1120 du 2 septembre 2002 - art. 2 () JORF 4 septembre 2002
 
 
-#### Chapitre VI bis : Prélèvement spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion.
-
-###### Article 163 bis
-
-Le prélèvement institué par l'article 235 ter du code général des impôts est dû par les entreprises imposables à l'impôt sur
-le revenu, à raison de leurs bénéfices industriels et commerciaux, ainsi que par les sociétés et personnes morales assimilées
-passibles de l'impôt sur les sociétés, dans la mesure où elles ont réalisé des bénéfices en tant que titulaires,
-cessionnaires ou sous-traitants régulièrement substitués de marchés publics passés à l'occasion de la création d'une force de
-dissuasion, à l'exception de ceux qui se rapportent à l'usine de séparation des isotopes ou aux études et recherches
-concernant l'énergie nucléaire et les engins balistiques.
-
-Sont toutefois exonérées dudit prélèvement des entreprises et sociétés dont le chiffre d'affaires correspondant aux marchés
-définis au premier alinéa n'excède pas, pour une période d'imposition déterminée, 10 millions de F. Dans le cas d'entreprises
-placées sous la dépendance d'autres entreprises ou ayant d'autres entreprises sous leur dépendance, le chiffre d'affaires à
-retenir est celui réalisé par l'ensemble des entreprises considérées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter
-
-	**Anciens textes**:
-
-	  - CGIAN1 23 V 1
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
-
-
-###### Article 163 octies
-
-I. Les contribuables soumis au prélèvement sont tenus de produire une déclaration indiquant distinctement pour chaque période
-d'imposition :
-
-a. La date, la nature et le montant des marchés qu'ils ont souscrits au titre de la force de dissuasion ;
-
-b. La désignation et le montant des marchés qu'ils ont acquis ou sous-traités ;
-
-c. La désignation et le montant des marchés qu'ils ont cédés ou transportés à des sous-traitants ainsi que les noms et
-adresses des cessionnaires ou sous-traitants ;
-
-d. Le chiffre d'affaire total de l'entreprise ;
-
-e. La fraction de ce chiffre d'affaires provenant de chacun des marchés imposables ;
-
-f. Le bénéfice net global déterminé dans les conditions prévues à l'article 163 quater, ainsi que, le cas échéant, la nature
-et le montant de chacune des déductions spéciales visées à l'article 163 quinquies ;
-
-g. Le bénéfice net passible du prélèvement.
-
-II. En cas d'option pour la détermination de l'assiette du prélèvement d'après le régime du bénéfice réel, la déclaration
-doit comporter, outre les renseignements demandés au I, a, b, c et e, l'indication du bénéfice net résultant de l'exécution
-des marchés ou parties de marchés imposables, tel qu'il résulte de la comptabilité de l'entreprise.
-
-III. La déclaration visée au I doit être adressée au service des impôts dans le délai fixé pour la production de la
-déclaration prévue aux articles 53 A et 223 du code général des impôts.
-
-IV. Les déclarations sont vérifiées et peuvent être rectifiées dans les conditions prévues par le livre des procédures
-fiscales en ce qui concerne le contrôle de la comptabilité des entreprises industrielles et commerciales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 53 A, 223
-	  - CGIAN2 163 quater, 163 quinquies
-
-	**Anciens textes**:
-
-	  - CGIAN1 23 V 7
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
-
-
-###### Article 163 octies A
-
-Le prélèvement est assis par voie de rôle par le service des impôts dans les conditions prévues aux articles 10 et 218 du
-code général des impôts. Les rôles sont établis et recouvrés, les délais de répétition sont fixés et les réclamations sont
-présentées, instruites et jugées comme en matière d'impôt sur le revenu.
-
-Toutefois, les sociétés en nom collectif ou en commandite simple ainsi que les sociétés à responsabilité limitée qui ont opté
-pour le régime fiscal des sociétés de personnes dans les conditions prévues au IV de l'article 3 du décret n° 55-594 du 20
-mai 1955 modifié sont assujetties au prélèvement sous une cote unique, à raison de l'ensemble de leurs résultats.
-
-Le prélèvement afférent aux bénéfices réalisés par une société en participation est également établi sous une cote unique au
-nom du coparticipant titulaire, cessionnaire ou sous-traitant régulièrement substitué des marchés exécutés ou, en cas de
-pluralité de titulaires, de cessionnaires ou de sous-traitants régulièrement substitués, sous leur désignation collective.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 10, 218
-	  - Décret n°55-594 1955-05-20 art. 3 IV
-
-	**Anciens textes**:
-
-	  - CGIAN1 23 V 10
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
-
-
-###### Article 163 octies B
-
-Dans le cas de cessation ou de cession d'entreprise ainsi que dans le cas de décès de l'exploitant, les dispositions de
-l'article 201 du code général des impôts sont applicables à la déclaration des faits survenus depuis la fin de la dernière
-période d'imposition, ainsi qu'à l'établissement et au recouvrement du prélèvement y afférent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 201
-
-	**Anciens textes**:
-
-	  - CGIAN1 23 V 11
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
-
-
-###### Article 163 quater
-
-Le bénéfice passible du prélèvement est déterminé forfaitairement à la fin de chaque période retenue pour l'établissement de
-l'impôt sur le revenu en ce qui concerne les bénéfices industriels et commerciaux ou de l'impôt sur les sociétés, en
-appliquant au bénéfice net total sur lequel sont assis lesdits impôts et après déduction, le cas échéant, des divers éléments
-énumérés à l'article 163 quinquies , le rapport constaté entre la fraction du chiffre d'affaires qui provient de l'exécution
-des marchés ou parties de marchés entrant dans le champ d'application de l'article 163 bis et le chiffre d'affaires total
-réalisé pendant la même période.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 23 V 3
-
-	**Cite**:
-
-	  - CGIAN2 163 quinquies, 163 bis
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 163 quinquies
-
-En vue du calcul du prélèvement, sont admis en déduction du bénéfice net total visé à l'article 163 quater, dans la mesure où
-ils n'ont pas été retranchés de ce bénéfice pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés :
-
-1° Les revenus provenant de la cession ou de la concession des licences d'exploitation de brevets, marques de fabrique,
-procédés ou formules de fabrication ;
-
-2° Les produits nets de la location des immeubles figurant à l'actif de l'entreprise et non affectés à l'exploitation;
-
-3° Les revenus des valeurs et capitaux mobiliers figurant à l'actif de l'entreprise ;
-
-4° La rémunération normale du chef d'entreprise ;
-
-5° Les plus-values réalisées sur la cession d'éléments de l'actif immobilisé ou de valeurs constituant le portefeuille.
-
-En outre, les contribuables passibles de l'impôt sur le revenu sont admis à déduire de leur bénéfice net total, en vue de
-l'assiette du prélèvement, les déficits antérieurs de leur entreprise, dans les conditions prévues au troisième alinéa du I
-de l'article 209 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 I
-	  - CGIAN2 163 quater
-
-	**Anciens textes**:
-
-	  - CGIAN1 23 V 4
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
-
-
-###### Article 163 septies
-
-Le prélèvement est calculé en appliquant au bénéfice déterminé conformément aux dispositions des articles 163 quater à 163
-sexies le barème ci-dessous :
-
-50 % de la fraction du bénéfice comprise entre 3 % et 6 % du montant du chiffre d'affaires afférent aux marchés ou parties de
-marchés imposables ;
-
-75 % de la fraction du bénéfice excédant 6 % de ce même montant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 23 V 6
-
-	**Cite**:
-
-	  - CGIAN2 163 quater, 163 quinquies, 163 sexies
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
-	  - HISTO: Edition du 31 mars 1999
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 163 sexies
-
-Les contribuables assujettis au prélèvement sont admis, pour l'assiette de ce dernier, à substituer au bénéfice forfaitaire
-déterminé dans les conditions fixées aux articles 163 quater et 163 quinquies, le bénéfice net réel résultant de l'exécution
-des marchés imposables, à la condition que la comptabilité de leur entreprise fasse apparaître distinctement le montant des
-bénéfices retirés de l'exécution de ces marchés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 23 V 5
-
-	**Cite**:
-
-	  - CGIAN2 163 quater, 163 quinquies
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
-
-
-###### Article 163 ter
-
-I. Les administrations, services et organismes passant un marché entrant dans le champ d'application de l'article 163 bis
-devront, lors de la notification dudit marché ainsi que lors de l'agrément d'un cessionnaire ou sous-traitant, indiquer à
-chaque titulaire, cessionnaire ou sous-traitant, la somme à concurrence de laquelle son marché s'applique à la création d'une
-force de dissuasion.
-
-Les administrations, services et organismes qui passent ces marchés devront en outre, dans les deux mois de leur signature,
-adresser à la direction générale des impôts une déclaration précisant les nom, prénoms ou raison sociale et adresse du
-fournisseur ou de l'entrepreneur, la date du marché, sa nature et la somme à concurrence de laquelle il s'applique à la
-création d'une force de dissuasion. En cas d'agrément d'un cessionnaire ou d'un sous-traitant, la désignation de ce dernier,
-la date de l'agrément et l'objet de la cession ou du sous-traité seront déclarés dans les mêmes conditions.
-
-II. (Disposition périmée).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 23 V 2
-
-	**Cite**:
-
-	  - CGIAN2 163 bis
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
-
-
 #### Chapitre VI ter : Participation des employeurs au développement de la formation professionnelle continue
 
 ##### I : Dispositions générales
@@ -9811,138 +9979,50 @@ continue.
 
 ###### Article 204 quater
 
-Sont exclues du régime simplifié, en matière de taxes sur le chiffre d'affaires :
+Ne peuvent bénéficier des modalités simplifiées de liquidation de la taxe sur la valeur ajoutée :
 
 - les importations ;
 
-- les opérations visées aux 6° et 7° de l'article 257 du code général des impôts ;
+- les opérations visées aux 6°, 7° et 7° bis de l'article 257 du code général des impôts ;
 
 - les opérations effectuées à titre occasionnel.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Cite**:
-
-	  - CGI 257
-
-
-###### Article 204 quinquies
-
-Pour les contribuables placés par option sous le régime simplifié de liquidation des taxes sur le chiffre d'affaires, le
-coefficient prévu au I de l'article 204 ter est égal au rapport existant, l'année précédant celle de l'imposition, entre,
-d'une part, la taxe sur la valeur ajoutée exigible avant déduction de la taxe afférente aux investissements et, d'autre part,
-le chiffre d'affaires total réalisé par l'entreprise.
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 204 ter I
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - HISTO: Edition du 31 mars 2000
 
 	**Modifié par**:
 
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Abrogé par**:
-
-	  - Décret n°99-545 du 30 juin 1999 - art. 17 () JORF 1er juillet 1999
-
-
-###### Article 204 ter
-
-I. Lors du dépôt de la déclaration abrégée prévue à l'article 242 quater, les entreprises soumises au régime simplifié
-d'imposition versent une somme calculée en appliquant au chiffre d'affaires total réalisé au cours de la période d'imposition
-un coefficient (1) égal au rapport existant, l'année précédente, entre la taxe sur la valeur ajoutée exigible avant déduction
-de la taxe afférente aux investissements et le chiffre d'affaires total, puis en retranchant de la somme ainsi obtenue le
-montant de la taxe déductible relative aux investissements réalisés au cours de la période d'imposition ; le montant des
-versements afférents aux autres taxes sur le chiffre d'affaires est calculé au moyen de coefficients propres à chacune de ces
-taxes.
-
-Une des sommes versées en 1993 en application de l'alinéa précédent peut être diminuée d'une somme égale à 10 p. 100 du
-montant de la taxe déductible sur les biens ne constituant pas des immobilisations et les services afférente au dernier mois
-de la période concernée. En cas d'option pour le dépôt d'une déclaration mensuelle, la taxe déductible à prendre en compte
-pour le calcul de cette diminution est celle du mois concerné.
-
-Pour 1994, le calcul du coefficient prévu au premier alinéa est effectué par le redevable sans tenir compte du supplément de
-taxe déductible constaté en 1993 en application du deuxième alinéa de l'article 217.
-
-(Alinéa devenu sans objet)
-
-I bis. Pour le calcul du coefficient déterminé dans la déclaration annuelle de régularisation prévue à l'article 242 sexies
-en ce qui concerne l'année civile 1993 ou aux articles 242 septies A et 242 septies B en ce qui concerne les exercices
-comprenant les droits à déduction du mois de juillet 1993, il est fait abstraction du complément de taxe déductible visé au
-deuxième alinéa du 7 de l'article 271 A du code général des impôts.
-
-II. Pour l'année du début de leur activité, les entreprises nouvelles peuvent calculer le montant de leurs versements en
-appliquant des coefficients provisoires déterminés sous leur responsabilité.
-
-III. En cas de modification importante des conditions d'exploitation des entreprises, celles-ci peuvent être autorisées par
-le service des impôts à procéder à l'ajustement des coefficients visés au I.
-
-(1) Voir art. 242 septies G.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 quater, 217, 271 A, 242 sexies, 242 septies A, 242 septies B, 242 septies G
-
-	**Modifié par**:
-
-	  - Loi n°93-859 1993-06-22 art. 2 Finances rectificative pour 1993 JORF 23 juin 1993
-	  - Décret n°98-1022 du 10 novembre 1998 - art. 4 () JORF 13 novembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Abrogé par**:
-
-	  - Décret n°99-545 du 30 juin 1999 - art. 17 () JORF 1er juillet 1999
+	  - Décret n°99-545 du 30 juin 1999 - art. 2 () JORF 1er juillet 1999
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
 	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1994-02-04 3E-1-94
 
 
 ###### Article 204 ter A
 
-((Les entreprises placées de plein droit ou sur option sous le régime simplifié d'imposition)) (M) peuvent renoncer aux
-modalités simplifiées de liquidation de la taxe sur la valeur ajoutée prévues à l'article 204 ter. 
+1. Les entreprises placées sous le régime simplifié d'imposition mentionné au premier alinéa du I de l'article 267 quinquies
+peuvent renoncer aux modalités simplifiées de liquidation de la taxe sur la valeur ajoutée prévues au 3 de l'article 287 du
+code général des impôts.
 
-L'option est exercée pour cinq ans : elle n'est possible qu'au terme d'une période d'imposition donnant lieu à
-régularisation. Elle doit faire l'objet d'une notification jointe à la première déclaration déposée en application du
-paragraphe I de l'article 287 du code général des impôts.
+Dans ce cas, elles souscrivent leurs déclarations dans les conditions prévues au 2 du même article.
 
-Sauf option pour la déclaration mensuelle de la taxe exercée dans les conditions fixées au II de l'article 242 quater, ces
-entreprises déposent quatre déclarations par an, selon le calendrier précisé à l'article 242 septies A.
-
-Elles indiquent sur la déclaration déposée en avril de chaque année le montant du chiffre d'affaires réalisé au cours de
-l'année civile précédente.
-
-(M) Modification.
+2. L'option, exercée pour deux ans, est notifiée par lettre recommandée avec demande d'avis de réception un mois avant la fin
+d'une période d'imposition donnant lieu au dépôt de la déclaration prévue par les dispositions du 3 de l'article 287 du code
+général des impôts. Elle prend effet le premier jour du mois suivant cette période.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 287 I
-	  - CGIAN2 242 septies A, 204 ter, 242 quater II
+	  - CGI 287, 267 quinquies
 
 	**Modifié par**:
 
-	  - Décret n°98-1022 du 10 novembre 1998 - art. 5 () JORF 13 novembre 1998
+	  - Décret n°99-545 du 30 juin 1999 - art. 1 () JORF 1er juillet 1999
 
 	**Cité par**:
 
@@ -9950,7 +10030,7 @@ l'année civile précédente.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
 
 
 ##### II : Déductions
@@ -11193,29 +11273,29 @@ I. 1. Les demandes de remboursement doivent être déposées au cours du mois de
 2. Pour les assujettis placés sous le régime simplifié d'imposition, le crédit de taxe déductible résulte des énonciations de
 leur déclaration annuelle. La demande de remboursement est déposée avec cette déclaration.
 
-Pour les assujettis qui ont exercé l'option prévue au deuxième alinéa de l'article 204 ter A, le remboursement du crédit de
-taxe déductible apparaissant le 31 décembre peut être demandé dans les conditions déterminées au 1.
+Pour les assujettis qui ont exercé l'option prévue au 2 de l'article 204 ter A, le remboursement du crédit de taxe déductible
+apparaissant le 31 décembre peut être demandé dans les conditions déterminées au 1.
 
-II. 1. Par dérogation aux dispositions du I, une demande de remboursement peut être déposée au titre de chaque trimestre
-civil lorsque chacune des déclarations de ce trimestre fait apparaître un crédit de taxe déductible. La demande de
-remboursement est déposée au cours du mois suivant le trimestre considéré. Elle doit porter sur un montant au moins égal à 5
-000 F.
+II. - Par dérogation aux dispositions du I, les assujettis soumis de plein droit ou sur option au régime normal d'imposition
+peuvent demander un remboursement au titre d'un trimestre civil lorsque chacune des déclarations de ce trimestre fait
+apparaître un crédit de taxe déductible. La demande de remboursement est déposée au cours du mois suivant le trimestre
+considéré. Elle doit porter sur un montant au moins égal à 5 000 F.
 
-2. Pour les assujettis placés sous le régime simplifié d'imposition, les remboursements trimestriels ont un caractère
-provisionnel. Ils donnent lieu à régularisation annuelle.
+III. - Par dérogation aux dispositions du I, les assujettis placés sous le régime d'acomptes prévu au 3 de l'article 287 du
+code général des impôts peuvent demander un remboursement trimestriel du crédit constitué par la taxe déductible ayant grevé
+l'acquisition de biens constituant des immobilisations lorsque son montant est au moins égal à 5 000 F.
 
-Pour les assujettis qui déposent leurs déclarations dans les conditions fixées à l'article 242 septies A, le remboursement du
-crédit de taxe déductible apparaissant le 31 décembre peut être demandé dans les conditions visées au 1 ci-dessus.
+Les remboursements s'effectuent dans les conditions prévues à l'article 242 septies J.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 204 ter A, 242 septies A
+	  - CGI 204 ter A, 287, 242 septies J
 
 	**Modifié par**:
 
-	  - Décret n°91-181 du 19 février 1991 - art. 2 () JORF 20 février 1991
+	  - Décret n°99-545 du 30 juin 1999 - art. 3 () JORF 1er juillet 1999
 
 	**Cité par**:
 
@@ -11224,7 +11304,7 @@ crédit de taxe déductible apparaissant le 31 décembre peut être demandé dan
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 242-0 D
@@ -11261,9 +11341,10 @@ remboursement.
 
 ###### Article 242-0 F
 
-Les redevables peuvent bénéficier de remboursements mensuels ou ou trimestriels de leur crédit de taxe déductible dans la
-limite de la taxe sur la valeur ajoutée calculée sur le montant des exportations et opérations assimilées réalisées au cours
-de la période correspondant à chaque déclaration de chiffre d'affaires.
+A l'exclusion de ceux qui bénéficient des modalités simplifiées de liquidation de la taxe sur la valeur ajoutée prévues au 3
+de l'article 287 du code général des impôts, les redevables peuvent bénéficier de remboursements mensuels ou trimestriels de
+leur crédit de taxe déductible dans la limite de la taxe sur la valeur ajoutée calculée sur le montant des exportations et
+opérations assimilées réalisées au cours de la période correspondant à chaque déclaration de chiffre d'affaires.
 
 Les redevables qui ont demandé, au titre de l'un ou des deux premiers mois d'un trimestre civil un tel remboursement,
 peuvent, lors du dépôt de la dernière demande de ce trimestre, renoncer à ce régime et demander un remboursement dans les
@@ -11273,19 +11354,15 @@ conditions énoncées aux articles 242-0 A à 242-0 D.
 
 	**Cite**:
 
-	  - CGIAN2 242-0 A, 242-0 B, 242-0 C, 242-0 D
+	  - CGI 287, 242-0 A à 242-0 D
 
 	**Modifié par**:
 
-	  - Décret n°88-776 du 22 juin 1988 - art. 1 (V) JORF 29 juin 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°99-545 du 30 juin 1999 - art. 4 () JORF 1er juillet 1999
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 242-0 G
@@ -11751,84 +11828,6 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 ##### 1° : Entreprises dont l'exercice comptable coïncide avec l'année civile
 
-###### Article 242 quater
-
-I. Les déclarations abrégées visées au 3 de l'article 287 du code général des impôts indiquent le montant des opérations
-réalisées et déterminent le versement à effectuer en application de l'article 204 ter. Elles sont déposées selon la
-périodicité suivante :
-
-PERIODE : Janvier, février, mars
-
-DATE DE DEPOT : Avril
-
-PERIODE : Avril, mai, juin
-
-DATE DE DEPOT : Juillet
-
-PERIODE : Juillet, août, septembre
-
-DATE DE DEPOT : Octobre
-
-PERIODE : Octobre, novembre
-
-DATE DE DEPOT : Décembre
-
-La taxe due au titre du mois de décembre est portée sur la déclaration annuelle prévue à l'article 242 sexies.
-
-II. L'option pour la déclaration mensuelle de la taxe prévue au 3 de l'article 287 du code général des impôts est notifiée
-par lettre recommandée avec accusé de réception au service local des impôts un mois avant la fin d'une période d'imposition
-donnant lieu à régularisation. Elle prend effet le mois suivant cette période. Elle est valable pendant deux périodes
-d'imposition et tacitement reconductible à défaut de dénonciation trente jours au moins avant le terme de l'option.
-
-Pour l'application des dispositions de l'alinéa précédent la première option peut être formulée au plus tard au moment du
-dépôt de la déclaration des affaires de janvier 1991. Elle est valable pour la période d'imposition en cours et la suivante.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 sexies, 287 3, 204 ter
-
-	**Modifié par**:
-
-	  - Décret n°91-181 du 19 février 1991 - art. 4 () JORF 20 février 1991
-	  - Décret n°91-181 du 19 février 1991 - art. 8 (V) JORF 20 février 1991
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-	**Abrogé par**:
-
-	  - Décret n°99-545 du 30 juin 1999 - art. 17 () JORF 1er juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 242 quinquies
-
-Les entreprises qui se trouvent placées sous le régime simplifié annexent, à la première des déclarations abrégées prévues à
-l'article 242 quater qu'elles déposent, un document mentionnant les éléments de calcul du coefficient prévu aux 1 et 2 de
-l'article 204 ter.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 quater, 204 ter I, II
-
-	**Abrogé par**:
-
-	  - Décret n°99-545 du 30 juin 1999 - art. 17 () JORF 1er juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-
 ###### Article 242 septies
 
 En cas de cession, de cessation, de redressement ou de liquidation judiciaires, les entreprises sont tenue de souscrire dans
@@ -11852,22 +11851,24 @@ qui n'aurait pas encore été déposée au titre de l'année civile précédente
 
 ###### Article 242 sexies
 
-Les entreprises placées sous le régime simplifié souscrivent ((au plus tard le 30 avril)) (M) de chaque année une
-déclaration, conforme au modèle prescrit par l'administration, faisant ressortir les taxes sur le chiffre d'affaires dues au
-titre de l'année précédente.
+Les entreprises placées sous le régime simplifié souscrivent au plus tard le 30 avril de chaque année la déclaration
+mentionnée au 3 de l'article 287 du code général des impôts suivant le modèle prescrit par l'administration.
 
-(M) Modification.
+Cette déclaration détermine les acomptes exigibles en juillet, octobre, décembre et avril suivants. Les dates de versement
+des acomptes sont fixées par arrêté.
 
-**Nota:**
-
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+(Voir l'article 39 de l'annexe IV).
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 287
+	  - CGIAN4 39
+
 	**Modifié par**:
 
-	  - Décret n°98-1022 du 10 novembre 1998 - art. 2 () JORF 13 novembre 1998
+	  - Décret n°99-545 du 30 juin 1999 - art. 5 () JORF 1er juillet 1999
 
 	**Cité par**:
 
@@ -11875,7 +11876,7 @@ modalités de versement et de remboursement des acomptes dus à compter du 1er j
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
 
 
 ##### 2° : Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile. 
@@ -11883,50 +11884,61 @@ modalités de versement et de remboursement des acomptes dus à compter du 1er j
 ###### Article 242 septies A
 
 1. Les entreprises soumises au régime simplifié d'imposition des taxes sur le chiffre d'affaires qui clôturent leur exercice
-au terme d'un trimestre civil ou qui ont opté pour la déclaration mensuelle prévue au 3 de l'article 287 du code général des
-impôts peuvent, au cours des trois premiers mois d'un exercice, opter pour le dépôt, dans les trois mois qui suivent sa
-clôture, d'une déclaration conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre
-d'affaires dues au titre de cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies.
+au terme d'un mois autre que celui de décembre peuvent, au cours des trois premiers mois d'un exercice, opter pour le dépôt,
+dans les trois mois qui suivent sa clôture, d'une déclaration conforme au modèle prescrit par l'administration et faisant
+ressortir les taxes sur le chiffre d'affaires dues au titre de cet exercice. Cette déclaration se substitue à celle prévue à
+l'article 242 sexies.
 
 L'option est formulée par lettre recommandée avec avis de réception adressée au service local des impôts. Elle est valable
 pour l'exercice au cours duquel elle est formulée et reconduite tacitement pour chacun des exercices suivants. Elle peut être
 dénoncée par lettre recommandée avec avis de réception adressée au service local des impôts dans le délai d'un mois qui suit
 la clôture de l'exercice couvert par cette option.
 
-2. Sauf option pour la déclaration mensuelle exercée dans les conditions fixées au II de l'article 242 quater, les assujettis
-qui ont exercé l'option prévue au 1 déposent leurs déclarations abrégées selon la périodicité suivante :
+2. La déclaration annuelle, déposée dans le délai prévu au 1, détermine les acomptes ultérieurement exigibles selon la
+périodicité suivante :
 
-PERIODE : Avril, mai, juin
+DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Janvier, février, N
 
-DATE DE DEPOT : Juillet
+ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
 
-PERIODE : Juillet, août, septembre
+Avril N, juillet N, octobre N, décembre N
 
-DATE DE DEPOT : Octobre
+DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Avril, mai, N
 
-PERIODE : Octobre, novembre
+ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
 
-DATE DE DEPOT : Décembre
+Juillet N, octobre N, décembre N, avril N + 1
 
-PERIODE : Décembre, janvier, février, mars
+DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Juin, juillet, août, N
 
-DATE DE DEPOT : Avril.
+ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
 
-**Nota:**
+Octobre N, décembre N, avril N + 1, juillet N + 1
 
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Septembre, octobre, N
+
+ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+
+Décembre N, avril N + 1, juillet N + 1, octobre N + 1
+
+DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Novembre, décembre, N
+
+ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+
+Avril N + 1, juillet N + 1, octobre N + 1, décembre N + 1
+
+Lorsque deux déclarations successives déterminent des acomptes pour des mois identiques, la nouvelle périodicité se substitue
+à l'ancienne.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 287 3
-	  - CGIAN2 242 sexies, 242 quater II
+	  - CGI 242 sexies, 287
 
 	**Modifié par**:
 
-	  - Décret n°91-181 du 19 février 1991 - art. 5 () JORF 20 février 1991
+	  - Décret n°99-545 du 30 juin 1999 - art. 6 () JORF 1er juillet 1999
 
 	**Cité par**:
 
@@ -11936,203 +11948,136 @@ modalités de versement et de remboursement des acomptes dus à compter du 1er j
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 242 septies B
 
-Les entreprises qui exercent l'option mentionnée au I de l'article 242 septies A souscrivent, dans les trois premiers mois du
-premier exercice couvert par cette option, une déclaration de régularisation conforme à celle prévue à l'article 242 sexies
-pour la période de l'année antérieure à la date d'ouverture de cet exercice.
-
-**Nota:**
-
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+Les entreprises qui exercent l'option mentionnée à l'article 242 septies A souscrivent, dans les trois premiers mois du
+premier exercice couvert par cette option, une déclaration conforme à celle prévue à l'article 242 sexies pour la période de
+l'année antérieure à la date d'ouverture de cet exercice.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 242 septies A, 242 sexies
-
 	**Modifié par**:
 
-	  - Décret n°91-181 du 19 février 1991 - art. 5 () JORF 20 février 1991
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°99-545 du 30 juin 1999 - art. 7 () JORF 1er juillet 1999
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 242 septies C
 
-Lorsque, pendant la durée d'effet de l'option, un exercice est clôturé en cours de mois, chacune des deux périodes du mois
-donne lieu au dépôt de la déclaration abrégée prévue par l'article 242 quater.
-
-**Nota:**
-
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+Lorsque, la période de référence servant de base au calcul des acomptes est inférieure à douze mois, les acomptes, déterminés
+dans les conditions prévues aux articles 242 sexies et 242 septies A, sont calculés à partir d'une taxe ajustée pour
+correspondre à une période de douze mois.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 242 quater
+	  - CGI 242 sexies, 242 septies A, 287
 
 	**Modifié par**:
 
-	  - Décret n°91-181 du 19 février 1991 - art. 6 () JORF 20 février 1991
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°99-545 du 30 juin 1999 - art. 8 () JORF 1er juillet 1999
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 242 septies D
 
-Lorsque aucun exercice n'a été clôturé au cours d'une année civile, une déclaration de régularisation est déposée ((au plus
-tard le 30 avril)) (M) de l'année suivante. Elle couvre la période écoulée depuis la date de clôture de l'exercice précédent
-jusqu'au 31 décembre de l'année au cours de laquelle aucun exercice n'a été clôturé. Une nouvelle période d'imposition
-s'ouvre le 1er janvier suivant.
-
-(M) Modification.
-
-**Nota:**
-
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+Lorsque aucun exercice n'a été clôturé au cours d'une année civile, une déclaration est déposée au plus tard le 30 avril de
+l'année suivante. Elle couvre la période écoulée depuis la date de clôture de l'exercice précédent jusqu'au 31 décembre de
+l'année au cours de laquelle aucun exercice n'a été clôturé. Une nouvelle période d'imposition s'ouvre le 1er janvier
+suivant.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 287
+
 	**Modifié par**:
 
-	  - Décret n°98-1022 du 10 novembre 1998 - art. 2 () JORF 13 novembre 1998
+	  - Décret n°99-545 du 30 juin 1999 - art. 9 () JORF 1er juillet 1999
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 242 septies E
 
-Les entreprises qui dénoncent l'option prévue au 1 de l'article 242 septies A et restent soumises au régime d'imposition
-simplifié doivent souscrire une déclaration de régularisation pour la période comprise entre la date de clôture du dernier
-exercice couvert par l'option et le 31 décembre de l'année de clôture. Cette déclaration doit être souscrite ((au plus tard
-le 30 avril)) (M) de l'année suivante.
-
-(M) Modification.
-
-**Nota:**
-
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+Les entreprises qui dénoncent l'option prévue à l'article 242 septies A et restent soumises au régime d'imposition simplifié
+doivent souscrire une déclaration pour la période comprise entre la date de clôture du dernier exercice couvert par l'option
+et le 31 décembre de l'année de clôture. Cette déclaration doit être souscrite au plus tard le 30 avril de l'année suivante.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 242 septies A
+	  - CGI 242 septies A, 287
 
 	**Modifié par**:
 
-	  - Décret n°98-1022 du 10 novembre 1998 - art. 2 () JORF 13 novembre 1998
+	  - Décret n°99-545 du 30 juin 1999 - art. 10 () JORF 1er juillet 1999
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 242 septies F
 
-Les entreprises ayant exercé l'option prévue au 1 de l'article 242 septies A qui deviennent imposables d'après le chiffre
-d'affaires réel, doivent souscrire une déclaration de régularisation pour la période comprise entre la date de clôture du
-dernier exercice entièrement couvert par l'option et le 31 décembre de la dernière année d'imposition au régime simplifié.
-Cette déclaration doit être souscrite ((au plus tard le 30 avril)) (M) de l'année suivante.
+1. Les entreprises ayant exercé l'option prévue à l'article 242 septies A qui deviennent imposables, de plein droit ou sur
+option, d'après le chiffre d'affaires réel au 1er janvier de l'année suivant cet exercice, doivent souscrire une déclaration
+pour la période comprise entre la date de clôture du dernier exercice entièrement couvert par l'option et le 31 décembre de
+la dernière année d'imposition au régime simplifié. Cette déclaration doit être souscrite au plus tard le 30 avril de l'année
+suivante.
 
-(M) Modification.
-
-**Nota:**
-
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+2. Les dispositions prévues au 1. sont également applicables aux assujettis qui bénéficient de la franchise de taxe sur la
+valeur ajoutée prévue à l'article 293 B du code général des impôts au titre de l'année civile suivant le dernier exercice
+couvert par l'option prévue à l'article 242 septies A.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 242 septies A
+	  - CGI 242 septies A, 293 B, 287
 
 	**Modifié par**:
 
-	  - Décret n°98-1022 1998-11-10 art. 7 1°, 2° JORF 13 novembre 1998
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°99-545 du 30 juin 1999 - art. 11 () JORF 1er juillet 1999
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 242 septies G
 
-Le coefficient prévu à l'article 204 ter qui sert à déterminer les versements mensuels ou trimestriels d'impôt pendant
-chacune des périodes d'imposition donnant lieu au dépôt d'une déclaration de régularisation est calculé à partir des éléments
-de la période d'imposition couverte par la précédente déclaration de régularisation.
-
-**Nota:**
-
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+En cas de dépôt tardif ou d'absence de dépôt de la déclaration annuelle mentionnée aux articles 242 sexies et 242 septies A,
+les acomptes de la dernière période d'imposition ayant donné lieu à versements sont provisoirement reconduits. Ils donnent
+lieu à régularisation lors du dépôt spontané de la déclaration ou en cas de taxation d'office.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 204 ter
+	  - CGI 242 sexies, 242 septies A, 287
 
+	**Modifié par**:
 
-###### Article 242 septies H
-
-Pour l'application de la franchise ou d'une décote, et lorsque la déclaration de régularisation porte sur une période
-inférieure ou supérieure à douze mois, les chiffres limites prévus à l'article 282 du code général des impôts sont
-respectivement réduits ou augmentés au prorata de la durée de cette période. Chaque mois est compté uniformément pour trente
-jours.
-
-Pour l'application de la décote spéciale, la rémunération du travail et le chiffre d'affaires global sont ceux de la période
-d'imposition qui fait l'objet de la déclaration de régularisation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 282
+	  - Décret n°99-545 du 30 juin 1999 - art. 12 () JORF 1er juillet 1999
 
 	**Liens**:
 
-	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
-	  - HISTO: Edition du 31 mars 1999
 	  - HISTO: Edition du 31 mars 2000
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Abrogé par**:
-
-	  - Décret n°99-545 du 30 juin 1999 - art. 17 () JORF 1er juillet 1999
 
 
 ###### Article 242 septies I
@@ -12169,51 +12114,52 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 ###### Article 242 septies J
 
-Le remboursement prévu par l'article 242-0 A porte sur le crédit de taxe déductible constaté au terme de chaque période
-d'imposition si ce crédit est d'un montant au moins égal à 1.000 F. La demande de remboursement doit être déposée avec la
-déclaration afférente à la période d'imposition. Les remboursements trimestriels ont un caractère provisionnel : ils donnent
-lieu à régularisation lors du dépôt de cette même déclaration.
+Les remboursements prévus au III de l'article 242-0 C ne peuvent être obtenus que sur présentation, avec la demande déposée
+auprès du service local des impôts au cours du mois suivant le trimestre considéré, de la ou des factures ou des documents en
+tenant lieu qui mentionnent notamment la taxe déductible sur les immobilisations à l'origine du crédit.
 
-**Nota:**
+Les remboursements trimestriels ont un caractère provisionnel :
 
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+ils donnent lieu à régularisation lors du dépôt de la déclaration annuelle prévue aux articles 242 sexies et 242 septies A.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 242-0 A
+	  - CGI 242-0 C, 242 sexies, 242 septies A, 287
+
+	**Modifié par**:
+
+	  - Décret n°99-545 1999-06-30 art. 132 JORF 1er juillet 1999
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
 
 ###### Article 242 septies L
 
-En cas de cession, de cessation, de redressement ou de liquidation judiciaires, les entreprises souscrivent ((dans les
-soixante jours)) (M) (1) une déclaration de régularisation pour l'exercice en cours ainsi que, le cas échéant, celle qui
-n'aurait pas encore été déposée au titre d'une période d'imposition précédente.
-
-(M) Modification.
-
-(1) Ces dispositions s'appliquent aux changements de lieu d'imposition réalisés à compter du 1er janvier 1999.
-
-**Nota:**
-
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+En cas de cession, de cessation, de redressement ou de liquidation judiciaires, les entreprises souscrivent dans les soixante
+jours une déclaration pour l'exercice en cours ainsi que, le cas échéant, celle qui n'aurait pas encore été déposée au titre
+d'une période d'imposition précédente.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 287
+
 	**Modifié par**:
 
-	  - Décret n°98-1022 1998-11-10 art. 6 1° JORF 13 novembre 1998
+	  - Décret n°99-545 du 30 juin 1999 - art. 14 () JORF 1er juillet 1999
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
 
 
 ##### II : Organismes sans but lucratif
@@ -12869,8 +12815,8 @@ II. - Pour les terrains compris dans une opération de lotissement ou d'aménage
 toutes les cessions des terrains mentionnés au troisième alinéa du a du 1 du 7° de l'article 257 du code général des impôts.
 
 L'option, ouverte dès la date de décision par l'autorité compétente de réalisation de l'opération d'aménagement de zone ou
-dès la date de l'arrêté de lotissement, est exercée au plus tard lors de la première des cessions mentionnées à l'alinéa
-précédent. Elle vaut pour toute la durée de l'opération.
+dès la date de l'arrêté de lotissement, est exercée au plus tard lors de la première des cessions mentionnées au premier
+alinéa. Elle vaut pour toute la durée de l'opération.
 
 Les collectivités territoriales ou les groupements de collectivités territoriales qui réalisent plusieurs opérations de
 lotissement ou d'aménagement de zone doivent exercer une option pour chacune de ces opérations.
@@ -12881,15 +12827,23 @@ III. - Les collectivités territoriales ou les groupements de collectivités ter
 l'ensemble des obligations qui incombent aux assujettis à la taxe sur la valeur ajoutée. Les règles relatives à l'assiette, à
 la liquidation, au recouvrement, au contrôle et au contentieux de ladite taxe leur sont applicables.
 
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 257, 213
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°99-355 du 3 mai 1999 - art. 1 () JORF 8 mai 1999
+	  - Décret n°2000-477 2000-06-02
+
+	**Modifié par**:
+
+	  - Décret n°2000-477 du 2 juin 2000 - art. 2 () JORF 3 juin 2000
 
 	**Cité par**:
 
@@ -12897,6 +12851,7 @@ la liquidation, au recouvrement, au contrôle et au contentieux de ladite taxe l
 
 	**Liens**:
 
+	  - HISTO: Edition du 31 mars 2000
 	  - TXT_ASSOCIE: Instruction 1999-05-17 8A-4-99
 
 
@@ -13342,56 +13297,86 @@ titre d'activités portant sur lesdits animaux, la facture doit expressément po
 	  - HISTO: Edition du 22 avril 1998
 
 
-### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
+#### Chapitre IV : Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus.
 
-#### Chapitre premier : Régimes simplifiés d'imposition
+###### Article 267 quater H
 
-##### 1° : Taxes sur le chiffre d'affaires.
+I. - Les personnes redevables de la redevance sanitaire pour le contrôle de certaines substances et de leurs résidus prévue à
+l'article 302 bis WC du code général des impôts doivent déposer mensuellement une déclaration conforme au modèle prescrit par
+la direction générale des impôts et comportant les indications nécessaires à l'assiette et à la perception de la redevance.
 
-###### Article 267 quinquies
+Cette déclaration est souscrite auprès de la recette des impôts dont relève le redevable pour le dépôt de ses déclarations de
+taxes sur le chiffre d'affaires. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les
+opérations imposables ont été réalisées. La redevance est acquittée dans le même délai. Toutefois, lorsque le montant annuel
+de l'ensemble des redevances sanitaires exigibles est inférieur à 12 000 F, il est admis que les redevables déposent leurs
+déclarations et s'acquittent de la redevance avant le 25 du mois suivant chaque trimestre civil.
 
-I. Les entreprises dont le chiffre d'affaires n'excède pas les limites fixées par le I de l'article 302 septies A du code
-général des impôts sont passibles des taxes sur le chiffre d'affaires selon un régime simplifié, dans les conditions définies
-ci-après (1).
+II. - Le poids de viande fraîche net mentionné au 1 du I de l'article 302 bis WC du code général des impôts s'entend de celui
+retenu pour l'assiette de la redevance sanitaire de découpage prévue à l'article 302 bis S dudit code.
 
-Elles peuvent cependant opter pour le régime de l'imposition d'après leur chiffre d'affaires réel.
+III. - Les opérations mentionnées au 2 du I de l'article 302 bis WC du code général des impôts s'entendent des opérations de
+mareyage consistant en la modification de l'intégrité anatomique, telle que l'éviscération, l'étêtage, le filetage, le
+hachage ou des opérations de transformation consistant en l'application d'un procédé physique ou chimique, tel que le
+chauffage, le salage, la dessiccation, le marinage.
 
-II. (périmé).
-
-III. 1. ((Les options mentionnées au I)) (M) sont notifiées à l'administration avant le 1er février de la première année au
-titre de laquelle les entreprises désirent appliquer le régime correspondant. L'option est valable pour ladite année et
-l'année suivante pendant lesquelles elle est irrévocable.
-
-Toutefois, les entreprises dont le chiffre d'affaires s'abaisse au-dessous des limites d'application, ((du régime simplifié))
-(M), exercent leur option avant le 1er février de l'année suivante. Cette option est valable pour l'année au cours de
-laquelle elle est exercée et pour l'année précédente.
-
-Pour les entreprises nouvelles l'option doit être exercée dans les trois mois suivant le début de leur activité. Cette option
-est valable jusqu'au 31 décembre de l'année suivante.
-
-2. Les options visées au 1 sont reconduites tacitement par période de deux ans. Elles sont irrévocables pendant cette
-période. Les entreprises qui désirent renoncer à leur option doivent notifier leur choix à l'administration avant le 1er
-février de l'année suivant la période pour laquelle ladite option a été exercée ou reconduite tacitement.
-
-(1) Voir également l'article 204 quater de la présente annexe.
-
-(M) Modification.
+IV. - Les saisies pratiquées par les services d'inspection sanitaire et les exportations ou les expéditions vers les Etats
+membres de la Communauté européenne ne donnent pas lieu au remboursement de la redevance.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 302 septies A I
-	  - CGIAN2 204 quater
+	  - CGI 302 bis WC, 302 bis S
+
+	**Créé par**:
+
+	  - Décret n°99-825 du 17 septembre 1999 - art. 1 () JORF 21 septembre 1999
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°99-825 du 17 septembre 1999 - art. 2 (V)
+	  - HISTO: Edition du 31 mars 2000
+
+
+### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
+
+#### Chapitre premier : Régimes réels d'imposition
+
+##### 1° : Taxes sur le chiffre d'affaires
+
+###### Article 267 quinquies
+
+I. Les redevables de la taxe sur la valeur ajoutée dont le chiffre d'affaires n'excède pas les limites fixées par le I de
+l'article 302 septies A du code général des impôts sont passibles des taxes sur le chiffre d'affaires selon un régime
+simplifié, dans les conditions définies ci-après (1).
+
+Ils peuvent cependant opter pour le régime de l'imposition d'après leur chiffre d'affaires réel.
+
+II. (Dispositions abrogées).
+
+III. 1. L'option mentionnée au I est notifiée à l'administration avant le 1er février de la première année au titre de
+laquelle les redevables désirent appliquer le régime de l'imposition d'après leur chiffre d'affaires réel. L'option est
+valable pour ladite année et l'année suivante pendant lesquelles elle est irrévocable.
+
+Pour les entreprises nouvelles, l'option doit être exercée dans les trois mois suivant le début de leur activité. Cette
+option est valable jusqu'au 31 décembre de l'année suivante.
+
+2. L'option mentionnée au I est reconduite tacitement par période de deux ans. Elle est irrévocable pendant cette période.
+
+Les redevables qui désirent renoncer à leur option doivent notifier leur choix à l'administration avant le 1er février de
+l'année suivant la période pour laquelle ladite option a été exercée ou reconduite tacitement.
+
+(1) Voir également l'article 204 quater de la présente annexe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 septies A
 
 	**Modifié par**:
 
-	  - Décret n°98-1022 1998-11-10 art. 8 1°, 2° JORF 13 novembre 1998
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°99-545 du 30 juin 1999 - art. 15 () JORF 1er juillet 1999
 
 	**Cité par**:
 
@@ -13399,40 +13384,8 @@ février de l'année suivant la période pour laquelle ladite option a été exe
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-
-
-##### 2° : Bénéfices industriels et commerciaux.
-
-###### Article 267 septies B
-
-L'option pour un régime réel d'imposition du bénéfice et l'option pour un régime réel de liquidation des taxes sur le chiffre
-d'affaires ne peuvent être exercées séparément. Il en va de même des renonciations à ces régimes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°98-1022 du 10 novembre 1998 - art. 11 () JORF 13 novembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Abrogé par**:
-
-	  - Décret n°99-545 du 30 juin 1999 - art. 17 () JORF 1er juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
 	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
 
-
-#### Chapitre premier : Régimes réels d'imposition
-
-##### 1° : Taxes sur le chiffre d'affaires
 
 ###### Article 267 septies
 
@@ -14517,55 +14470,6 @@ La comptabilité est présentée à toute réquisition des agents de l'administr
 	  - HISTO: Edition du 11 avril 1997
 
 
-###### Article 283
-
-Tout débitant préposé à la gestion d'un débit de tabacs est seul responsable de l'exploitation de ce débit, notamment des
-commandes passées aux fournisseurs et du paiement des livraisons qui en résultent.
-
-Les débitants ne peuvent recevoir pour la commercialisation des tabacs manufacturés et la publicité concernant ces produits,
-aucun avantage, direct ou indirect, autre que la remise prévue au 3° de l'article 570 du code général des impôts.
-
-La répartition des espaces publicitaires entre les différentes marques est arrêtée, sur le plan national, par un accord entre
-les fabricants, les fournisseurs et les débitants. A défaut d'accord, le litige est soumis à l'arbitrage dans les conditions
-prévues au décret n° 80-354 du 14 mai 1980 relatif à l'arbitrage.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 570 3°
-	  - Loi n°76-616 1976-07-09 ART. 2
-	  - Décret n°80-354 1980-05-14
-
-	**Modifié par**:
-
-	  - Décret n°93-642 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
-
-###### Article 284
-
-Les fabricants et les fournisseurs agréés communiquent leur prix de vente au détail des tabacs manufacturés, pour chacun de
-leurs produits, à la direction générale des douanes et droits indirects et à la direction générale de la concurrence, de la
-consommation et de la répression des fraudes.
-
-Les prix sont homologués par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'économie, et publiés au
-Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°95-295 du 10 mars 1995 - art. 1 () JORF 17 mars 1995
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-
 #### Chapitre II : Tabacs
 
 ##### 0I : Définition des tabacs manufacturés
@@ -14974,6 +14878,56 @@ au débitant, les tabacs commandés (2).
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AD (V)
 
 
+###### Article 283
+
+Tout débitant préposé à la gestion d'un débit de tabacs est seul responsable de l'exploitation de ce débit, notamment des
+commandes passées aux fournisseurs et du paiement des livraisons qui en résultent.
+
+Les débitants ne peuvent recevoir pour la commercialisation des tabacs manufacturés et la publicité concernant ces produits,
+aucun avantage, direct ou indirect, autre que la remise prévue au 3° du I de l'article 570 du code général des impôts.
+
+La répartition des espaces publicitaires entre les différentes marques est arrêtée, sur le plan national, par un accord entre
+les fabricants, les fournisseurs et les débitants. A défaut d'accord, le litige est soumis à l'arbitrage dans les conditions
+prévues au décret n° 80-354 du 14 mai 1980 relatif à l'arbitrage.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 570
+	  - Décret n°80-354 1980-05-14
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 284
+
+Les fabricants et les fournisseurs agréés communiquent leur prix de vente au détail des tabacs manufacturés, pour chacun de
+leurs produits, à la direction générale des douanes et droits indirects.
+
+Les prix sont homologués par arrêté du ministre chargé du budget et publiés au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°99-503 du 16 juin 1999 - art. 1 () JORF 18 juin 1999
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+
 ###### Article 285
 
 En cas de changement de prix de vente, pour les stocks en consignation chez les débitants, la différence entre la valeur de
@@ -15158,42 +15112,6 @@ calculé en divisant les émoluments mentionnés à cet alinéa par le nombre d'
 	  - Code général des impôts, CGI. - art. 631
 
 
-##### II : Compétences du ministre de l'économie, des finances et de l'industrie en matière de contributions indirectes et de réglementations assimilées
-
-###### Article 288
-
-Le ministre de l'économie, des finances et de l'industrie est compétent, seul ou conjointement avec d'autres ministres, pour
-prendre les décisions administratives individuelles relatives à la dispense ou à l'aménagement du cautionnement en matière de
-contributions indirectes, prévu aux deuxièmes alinéas des articles 486, 498 et 615 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 486, 498, 615
-
-	**Créé par**:
-
-	  - Rapport - art. 3 (V) JORF 18 janvier 1997
-
-	**Modifié par**:
-
-	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997 en vigueur le 1er janvier 1998
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997 en vigueur le 1er janvier 1998
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997 en vigueur le 1er janvier 1998
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 18 (V) JORF du 31 décembre 1999
-	  - HISTO: Edition du 22 avril 1998
-	  - HISTO: Edition du 31 mars 2000
-
-
 ##### II : Compétences des directeurs régionaux des douanes et droits indirectes en matière de contributions indirectes et de réglementations assimilées
 
 ###### Article 289
@@ -15213,9 +15131,9 @@ impôts ;
 4. Autorisation spéciale de décharge des quantités de boissons de raisins secs imparfaites ou avariées délivrée aux
 fabricants, prévue par le dernier alinéa de l'article 140 de l'annexe III au code général des impôts ;
 
-5. (Devenu sans objet) (M)
+5. (sans objet)
 
-6. Décisions relatives à l'autorisation prévue à l'article 178 octies A de l'annexe III au code général des impôts ;
+6. (sans objet)
 
 7. Agrément des procédés de dénaturation des essences d'absinthe et produits assimilés, prévu par le premier alinéa de
 l'article 178 P de l'annexe III au code général des impôts ;
@@ -15235,7 +15153,7 @@ au code général des impôts ;
 faire réparer ou transformer un ou plusieurs appareils ou portions d'appareils propres à la distillation, à la fabrication ou
 au repassage d'eaux-de-vie ou d'esprits, prévue par l'article 50 C de l'annexe IV au code général des impôts ;
 
-13. (Devenu sans objet) (M)
+13. (sans objet)
 
 14. Autorisation de remplacement de la couleur blanche par la teinte naturelle d'une capsule représentative de droits, prévue
 par l'article 54-0 B de l'annexe IV au code général des impôts ;
@@ -15253,8 +15171,9 @@ de l'annexe IV au code général des impôts ;
 18. Octroi des dérogations à l'emploi obligatoire des capsules fiscales pour le conditionnement des vins, prévu par le
 deuxième alinéa de l'article 54-0 U de l'annexe IV au code général des impôts ;
 
-19. Autorisation donnée aux marchands en gros de boissons d'apposer eux-mêmes, sur les capsules qu'ils utilisent, le timbre
-et les mentions réglementaires, prévue par le deuxième alinéa de l'article 54-0 V de l'annexe IV au code général des impôts ;
+19. Autorisation donnée aux entrepositaires agréés de boissons d'apposer eux-mêmes, sur les capsules qu'ils utilisent, le
+timbre et les mentions réglementaires, prévue par le deuxième alinéa de l'article 54-0 V de l'annexe IV au code général des
+impôts ;
 
 20. Agrément des machines destinées à insculper et imprimer les timbres et mentions réglementaires sur les capsules
 représentatives des droits indirects sur l'alcool, les vins et cidres, prévu par le deuxième alinéa de l'article 54-0 V de
@@ -15281,12 +15200,9 @@ duodecies de l'annexe IV au code général des impôts ;
 27. Habilitation à apposer des marques fiscales pour les spiritueux, prévue par l'article 54 nonies de l'annexe IV au code
 général des impôts ;
 
-28. Autorisation d'utilisation de bouteilles d'une capacité supérieure à trois litres pour la circulation de spiritueux
-destinés à la consommation de bouche, prévue par les articles 55 B et 55 D de l'annexe IV au code général des impôts ;
+28. (sans objet)
 
-29. Autorisation pour les personnes non titulaires d'une licence permettant la vente de spiritueux, de recevoir sous acquit-
-à-caution les spiritueux nécessaires à la fabrication de leurs produits, prévue par les articles 55 B et 55 C de l'annexe IV
-au code général des impôts ;
+29. (sans objet)
 
 30. Autorisation délivrée aux établissements de spectacles de faire usage de distributeurs automatiques pour la délivrance de
 billets, prévue par l'article 128 de l'annexe IV au code général des impôts ;
@@ -15306,28 +15222,26 @@ général des impôts ;
 
 35. Décisions relatives aux réclamations contentieuses prévues à l'article R. 198-10 du livre des procédures fiscales.
 
-(M) Modification.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 309, 311 bis, 327, 328, 425, 406 A
-	  - CGIAN3 140, 146, 178 octies A, 178 P, 178 AA, 244 ter, 180, 350 quater
-	  - CGIAN4 50 C, 54-0 B, 54-0 F, 54-0 U, 54-0 AA, 54-0 BB, 54-0 C, 54-0 I, 54-0 V, 54-0 Z, 54-0 BN, 54-0 AG, 54-0 BE, 54 nonies, 54 sexies, 54 octies, 54 decies, 54 duodecies, 55 B, 55 C, 55 D, 128, 129, 151, 164 M, 164 AD
+	  - CGI 309, 311 bis, 327, 328, 425
+	  - CGIAN3 140, 178 P, 178 AA, 180, 244 ter, 350 quater
+	  - CGIAN4 50 C, 54-0 B, 54-0 C, 54-0 F, 54-0 I, 54-0 U, 54-0 V, 54-0 Z, 54-0 BN, 54-0 AA, 54-0 AG, 54-0 BB, 54-0 BE, 54 sexies, 54 octies, 54 decies, 54 duodecies, 54 nonies, 128, 129, 151, 164 M, 164 AD
 	  - Livre des procédures fiscales R198-10
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
 
 	**Modifié par**:
 
-	  - Loi - art. 47 (V) JORF 31 décembre 1998
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -15945,86 +15859,6 @@ dispositions qui précèdent.
 	  - HISTO: Edition du 10 août 1987
 
 
-##### II : Timbre des contrats de transport
-
-##### Colis postaux.
-
-###### Article 303
-
-Les récépissés, bulletins d'expédition ou autres pièces en tenant lieu, visés à l'article 935 du code général des impôts
-sont, après le transport effectué, réunis soit au siège social, soit au lieu où les écritures sont centralisées.
-
-Ils y sont conservés selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 935
-	  - Livre des procédures fiscales - art. L102 B (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-	**Modifié par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
-	  - Décret n°2000-477 2000-06-02
-
-
-###### Article 303 A
-
-Il est tenu, au départ, un carnet d'expédition indiquant le numéro d'ordre de l'étiquette, la destination et le nom de
-l'expéditeur; à l'arrivée, un carnet de réception indiquant le numéro d'ordre, la provenance et le nom du destinataire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 237
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-
-###### Article 303 B
-
-Tous les bulletins d'expédition de colis postaux, transportés de l'intérieur à l'extérieur, sont représentés, dans les gares
-frontières ou bureaux assimilés, aux agents des douanes, afin qu'ils s'assurent que ces bulletins sont timbrés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 238
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-
 ##### Section II : Droits de délivrance de documents et perceptions diverses
 
 ##### Permis de chasser.
@@ -16501,6 +16335,59 @@ Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-182
 
 
 #### Chapitre III : Autres droits et taxes
+
+##### 00I : Prélèvement sur les sommes versées par les organismes d'assurance et assimilés à raison des contrats d'assurances en cas de décès
+
+###### Article 306-0 F
+
+I. - Les organismes d'assurance et assimilés qui doivent verser des sommes, rentes ou valeurs quelconques entrant dans le
+champ d'application de l'article 990 I du code général des impôts ne peuvent se libérer de ces sommes, rentes ou valeurs dues
+par eux à raison du décès de l'assuré à chaque bénéficiaire désigné au contrat qu'après avoir adressé à la direction des
+services fiscaux du domicile de l'assuré, dans les soixante jours qui suivent le jour où ils ont eu connaissance du décès de
+celui-ci, une déclaration contenant les informations énumérées au IV de l'article 806 du code général des impôts, en
+précisant au titre de chaque contrat et pour chaque bénéficiaire :
+
+a. L'assiette du prélèvement ;
+
+b. Le montant de l'abattement pratiqué ;
+
+c. Le montant du prélèvement acquitté au titre des sommes, rentes ou valeurs dues à chaque bénéficiaire.
+
+L'obligation faite aux organismes d'assurance et assimilés de déclarer les sommes, rentes ou valeurs dues au jour du décès de
+l'assuré au titre de chaque contrat rachetable qui correspondent aux primes versées à compter du 13 octobre 1998 et le
+montant des primes versées à compter de la même date au titre de chaque contrat non rachetable est satisfaite par la
+communication à l'administration fiscale des éléments suivants :
+
+a. Pour la fraction rachetable de chaque contrat mentionné au I de l'article 990 I précité : la part de la valeur de rachat
+au jour du décès de l'assuré qui correspond aux sommes, rentes ou valeurs dues à raison des primes versées à compter du 13
+octobre 1998 ;
+
+b. Pour la fraction non rachetable de chaque contrat mentionné au I de l'article 990 I précité : le produit résultant de la
+multiplication du montant du capital-décès dû, diminué de la valeur de rachat au jour du décès de l'assuré, par le taux de
+mortalité qui correspond à l'âge de l'assuré lors de son décès dans la table de mortalité applicable à cette date ; pour les
+contrats non rachetables : la prime annuelle ou le montant de la prime unique versée à la souscription du contrat, lorsque
+celle-ci est intervenue à compter du 13 octobre 1998.
+
+II. - Ces déclarations sont établies sur des formules imprimées délivrées sans frais par le service des impôts.
+
+III. - Les mêmes obligations incombent aux organismes d'assurance et assimilés non établis en France et admis à y opérer en
+libre prestation de services. La déclaration souscrite par le représentant fiscal mentionné au III de l'article 990 I du code
+général des impôts est adressée à la direction des services fiscaux du domicile de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 990 I, 806
+
+	**Créé par**:
+
+	  - Décret n°99-1052 du 14 décembre 1999 - art. 1 () JORF 16 décembre 1999
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
 
 ##### 0I : Taxe sur les conventions d'assurance
 
@@ -20137,52 +20024,33 @@ code général des impôts.
 	  - HISTO: Edition du 15 juillet 1988
 
 
-#### Chapitre IV : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.
+#### Chapitre IV : Comité professionnel de développement de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie et centre technique de l'industrie horlogère
 
 ###### Article 345
 
 En vue d'encourager, à titre collectif, dans les industries de l'horlogerie, de la bijouterie, de la joaillerie et de
 l'orfèvrerie, la recherche, l'innovation, la promotion des ventes et l'amélioration des conditions de formation du personnel,
 il est institué jusqu'au 31 décembre 2000 une taxe parafiscale au profit du comité professionnel de développement de
-l'horlogerie.
+l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°96-148 du 22 février 1996 - art. 1 (V) JORF 23 février 1996
+	  - Décret n°96-981 1996-11-07 art. 1 JORF 9 novembre 1999
 
 	**Codifié par**:
 
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 2 () JORF 23 mai 2001
+	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2001-02-06 3Q-2-01
 
-
-###### Article 350
-
-Le produit de la taxe recouvrée par l'administration des impôts et l'administration des douanes est transféré mensuellement
-par chacune d'elles au comité professionnel de développement de l'horlogerie, à charge pour ce dernier d'affecter une partie
-de ces sommes au Centre technique de l'industrie horlogère.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°96-148 du 22 février 1996 - art. 8 (V) JORF 23 février 1996
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-
-
-#### Chapitre IV : Comité professionnel de développement de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie et centre technique de l'industrie horlogère
 
 ###### Article 346
 
@@ -20332,6 +20200,31 @@ limite de 0,30 p. 100.
 
 	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 2 () JORF 23 mai 2001
 	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2001-02-06 3Q-2-01
+
+
+###### Article 350
+
+Le produit de la taxe recouvrée par l'administration des impôts et l'administration des douanes est transféré mensuellement
+par chacune d'elles au comité professionnel de développement de l'horlogerie, de la bijouterie, de la joaillerie et de
+l'orfèvrerie à charge pour ce dernier d'affecter une partie de ces sommes au Centre technique de l'industrie horlogère.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°96-981 1996-11-07 art. 1 JORF 9 novembre 1999
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 2 () JORF 23 mai 2001
+	  - HISTO: Edition du 31 mars 2000
 	  - HISTO: Edition du 31 mars 2001
 	  - TXT_ASSOCIE: Instruction 2001-02-06 3Q-2-01
 
@@ -21298,22 +21191,30 @@ La taxe n'est pas perçue lors de la délivrance des titres de mouvement devant 
 récoltants, coopératives ou distillateurs de profession des eaux-de-vie en provenance des lieux de distillation ainsi que les
 expéditions d'eaux-de-vie à destination des fabricants de produits composés dans les régions d'appellation.
 
-De même, la taxe n'est pas perçue lors de l'établissement des acquits-à-caution devant accompagner des eaux-de-vie chez un
-producteur lui-même redevable de la taxe.
+De même, la taxe n'est pas perçue lors de l'établissement des document mentionnés au I de l'article 302 M du code général des
+impôts devant accompagner des eaux-de-vie chez un producteur lui-même redevable de la taxe.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 302 M
+
 	**Modifié par**:
 
-	  - Décret n°97-1231 du 26 décembre 1997 - art. 3 (V) JORF 28 décembre 1997
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 	**Codifié par**:
 
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2003-298 2003-03-31
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 14 (V) JORF 31 décembre 2002
+	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 31 décembre 2002
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 364 D
@@ -23850,58 +23751,31 @@ matière de droits de douane, suivant le comptable compétent.
 
 ###### Article 383 ter
 
-Les versements effectués en application du 3 de l'article 287 du code général des impôts sont imputés sur l'impôt dû.
+Les versements d'acomptes effectués en application du 3 de l'article 287 du code général des impôts sont imputés sur l'impôt
+dû.
 
-En cas d'insuffisance de versements, le complément d'impôt dû doit être acquitté au moment du dépôt de la déclaration prévue
-à l'article 242 sexies.
+En cas d'insuffisance des versements d'acomptes le complément d'impôt dû doit être acquitté au moment du dépôt de la
+déclaration annuelle.
 
-En cas d'excédent de versements, celui-ci est imputé sur les sommes ultérieurement exigibles.
+En cas d'excédent des versements d'acomptes, celui-ci est imputé sur les acomptes ultérieurement exigibles. Le redevable peut
+toutefois en demander la restitution.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 287
-	  - CGIAN2 242 sexies
 
 	**Modifié par**:
 
-	  - Loi - art. 26 () JORF 30 décembre 1990
-	  - Décret n°91-181 du 19 février 1991 - art. 4 () JORF 19 février 1991
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
-
-### Section III : Enregistrement, publicité foncière, timbre
-
-#### 00I : Droit forfaitaire de délivrance d'ampliation.
-
-###### Article 384-00 A
-
-Le droit forfaitaire prévu par l'article 1018 B du code général des impôts est perçu par voie d'apposition d'un timbre de la
-série unique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1018 B
+	  - Décret n°99-545 du 30 juin 1999 - art. 16 () JORF 1er juillet 1999
 
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 31 () JORF 31 décembre 1999
 
-	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
-
+### Section III : Enregistrement, publicité foncière, timbre
 
 #### I : Dation en paiement
 

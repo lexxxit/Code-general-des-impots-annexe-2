@@ -1,30 +1,24 @@
 # Article 204 ter A
 
-((Les entreprises placées de plein droit ou sur option sous le régime simplifié d'imposition)) (M) peuvent renoncer aux
-modalités simplifiées de liquidation de la taxe sur la valeur ajoutée prévues à l'article 204 ter. 
+1. Les entreprises placées sous le régime simplifié d'imposition mentionné au premier alinéa du I de l'article 267 quinquies
+peuvent renoncer aux modalités simplifiées de liquidation de la taxe sur la valeur ajoutée prévues au 3 de l'article 287 du
+code général des impôts.
 
-L'option est exercée pour cinq ans : elle n'est possible qu'au terme d'une période d'imposition donnant lieu à
-régularisation. Elle doit faire l'objet d'une notification jointe à la première déclaration déposée en application du
-paragraphe I de l'article 287 du code général des impôts.
+Dans ce cas, elles souscrivent leurs déclarations dans les conditions prévues au 2 du même article.
 
-Sauf option pour la déclaration mensuelle de la taxe exercée dans les conditions fixées au II de l'article 242 quater, ces
-entreprises déposent quatre déclarations par an, selon le calendrier précisé à l'article 242 septies A.
-
-Elles indiquent sur la déclaration déposée en avril de chaque année le montant du chiffre d'affaires réalisé au cours de
-l'année civile précédente.
-
-(M) Modification.
+2. L'option, exercée pour deux ans, est notifiée par lettre recommandée avec demande d'avis de réception un mois avant la fin
+d'une période d'imposition donnant lieu au dépôt de la déclaration prévue par les dispositions du 3 de l'article 287 du code
+général des impôts. Elle prend effet le premier jour du mois suivant cette période.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 287 I
-	  - CGIAN2 242 septies A, 204 ter, 242 quater II
+	  - CGI 287, 267 quinquies
 
 	**Modifié par**:
 
-	  - Décret n°98-1022 du 10 novembre 1998 - art. 5 () JORF 13 novembre 1998
+	  - Décret n°99-545 du 30 juin 1999 - art. 1 () JORF 1er juillet 1999
 
 	**Cité par**:
 
@@ -32,4 +26,4 @@ l'année civile précédente.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000

@@ -1,21 +1,23 @@
 # Article 242 sexies
 
-Les entreprises placées sous le régime simplifié souscrivent ((au plus tard le 30 avril)) (M) de chaque année une
-déclaration, conforme au modèle prescrit par l'administration, faisant ressortir les taxes sur le chiffre d'affaires dues au
-titre de l'année précédente.
+Les entreprises placées sous le régime simplifié souscrivent au plus tard le 30 avril de chaque année la déclaration
+mentionnée au 3 de l'article 287 du code général des impôts suivant le modèle prescrit par l'administration.
 
-(M) Modification.
+Cette déclaration détermine les acomptes exigibles en juillet, octobre, décembre et avril suivants. Les dates de versement
+des acomptes sont fixées par arrêté.
 
-**Nota:**
-
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+(Voir l'article 39 de l'annexe IV).
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 287
+	  - CGIAN4 39
+
 	**Modifié par**:
 
-	  - Décret n°98-1022 du 10 novembre 1998 - art. 2 () JORF 13 novembre 1998
+	  - Décret n°99-545 du 30 juin 1999 - art. 5 () JORF 1er juillet 1999
 
 	**Cité par**:
 
@@ -23,4 +25,4 @@ modalités de versement et de remboursement des acomptes dus à compter du 1er j
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
