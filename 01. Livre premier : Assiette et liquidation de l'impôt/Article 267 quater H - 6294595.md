@@ -7,7 +7,7 @@ la direction générale des impôts et comportant les indications nécessaires �
 Cette déclaration est souscrite auprès de la recette des impôts dont relève le redevable pour le dépôt de ses déclarations de
 taxes sur le chiffre d'affaires. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les
 opérations imposables ont été réalisées. La redevance est acquittée dans le même délai. Toutefois, lorsque le montant annuel
-de l'ensemble des redevances sanitaires exigibles est inférieur à 12 000 F, il est admis que les redevables déposent leurs
+de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis que les redevables déposent leurs
 déclarations et s'acquittent de la redevance avant le 25 du mois suivant chaque trimestre civil.
 
 II. - Le poids de viande fraîche net mentionné au 1 du I de l'article 302 bis WC du code général des impôts s'entend de celui
@@ -27,11 +27,11 @@ membres de la Communauté européenne ne donnent pas lieu au remboursement de la
 
 	  - CGI 302 bis WC, 302 bis S
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-825 du 17 septembre 1999 - art. 1 () JORF 21 septembre 1999
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Décret n°99-825 du 17 septembre 1999 - art. 2 (V)
-	  - HISTO: Edition du 31 mars 2000
+	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
+	  - HISTO: Edition du 31 mars 2002

@@ -29,7 +29,7 @@ et comportant les indications nécessaires à l'assiette et à la perception de 
 Cette déclaration est souscrite auprès de la recette des impôts dont relève le redevable pour le dépôt de ses déclarations de
 taxes sur le chiffre d'affaires. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les
 opérations imposables ont été réalisées. La redevance est acquittée dans le même délai. Toutefois, lorsque le montant annuel
-de l'ensemble des redevances sanitaires exigibles est inférieur à 12 000 F, il est admis que les redevables déposent leurs
+de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis que les redevables déposent leurs
 déclarations et s'acquittent de la redevance avant le 25 du mois suivant chaque trimestre civil.
 
 IV. - Les saisies pratiquées par les services d'inspection sanitaire ainsi que les exportations ou les expéditions vers les
@@ -45,18 +45,15 @@ de transformation ultérieures sur les produits.
 
 	  - CGI 302 bis WA, 302 bis WB
 
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
 	**Modifié par**:
 
-	  - Décret n°2001-435 du 21 mai 2001 - art. 3 () JORF 23 mai 2001
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 quaterdecies-0 A (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001

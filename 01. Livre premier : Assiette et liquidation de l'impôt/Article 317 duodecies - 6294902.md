@@ -14,26 +14,24 @@ III. Le paiement de la taxe est constaté au moyen de la délivrance d'une vigne
 délivrance et d'utilisation sont établis par un arrêté ministériel qui fixe, en outre les obligations incombant aux
 propriétaires de véhicules exonérés de la taxe (1).
 
-La délivrance des duplicata de vignettes timbrées donne lieu au paiement d'une taxe de 10 F qui est perçue selon les
+La délivrance des duplicata de vignettes timbrées donne lieu au paiement d'une taxe de 1,50 euro qui est perçue selon les
 modalités fixées par arrêté du ministre chargé du budget (1).
 
-(1) Annexe IV, art. 155 C à 155 J.
+**Nota:**
+
+(1) Voir les articles 155 C à 155 I de l'annexe IV.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°56-875 1956-09-03 art. 4 JORF 4 septembre 1956
+	  - CGIAN4 155 C à 155 I
 
 	**Modifié par**:
 
-	  - Décret n°57-1018 1957-09-17 art. 1 JORF 20 septembre 1957
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 20 juillet 1984
+	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
+	  - HISTO: Edition du 31 mars 2002

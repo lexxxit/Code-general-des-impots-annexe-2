@@ -4,8 +4,8 @@ Sont exonérés de la taxe :
 
 1° Les véhicules ayant plus de vingt-cinq ans d'âge ;
 
-2° Les véhicules mentionnés à l'article R 105 du code de la route, qui sont destinés normalement au transport en commun de
-personnes ;
+2° Les véhicules mentionnés à l'article R. 317-24 du code de la route, qui sont destinés normalement au transport en commun
+de personnes ;
 
 3° Les véhicules affectés au transport des personnes, bénéficiaires d'une autorisation spéciale de stationnement à des
 emplacements réservés sur la voie publique et dont les conditions de transport sont conformes à un tarif réglementaire, ainsi
@@ -31,23 +31,21 @@ L'exonération prévue au 7° est limitée à un seul véhicule par propriétair
 	  - CGI 1599 F
 	  - CGIAN4 155 M
 	  - Décret n°49-1473 1949-11-14 art. 3 2° c
+	  - Code de la route. - art. R317-24 (V)
 	  - Loi n°1919-10-08
-	  - Code de la route R105
-
-	**Créé par**:
-
-	  - Décret n°56-875 1956-09-03 art. 2 JORF 4 septembre 1956
 
 	**Modifié par**:
 
-	  - Décret n°57-1266 1957-12-13 art. 1 JORF 14 décembre 1957
-	  - Loi n°78-1239 du 29 décembre 1978 - art. 31 (P) JORF 30 décembre 1978
-	  - Loi n°83-1179 1983-12-29 art. 24 JORF 30 décembre 1983 Finances pour 1984
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°2001-251 2001-03-22 art. 1, art. 2, art. 5 JORF 25 mars 2001
+	  - Décret n°2001-751 du 27 août 2001 - art. 5 () JORF 28 août 2001
 
 	**Liens**:
 
-	  - HISTO: Edition du 20 juillet 1984
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 31 mars 2002
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
