@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-02-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9032,6 +9032,24 @@ agents chargés du contrôle, à tout moment, et notamment pendant les transport
 
 #### Chapitre premier : Régime économique de l'alcool
 
+###### Article 268
+
+Est interdite la distillation de toute matière première importée, à l'exception des fruits frais autres que les pommes,
+poires ou raisins. Cette interdiction n'est pas applicable aux matières premières originaires et en provenance des Etats
+membres de la communauté économique européenne [*CEE*] ou originaires de pays tiers et mises en libre pratique dans un de ces
+Etats membres.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°82-149 du 11 février 1982 - art. 1 () JORF 12 FEVRIER 1982
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (VD)
+
+
 ###### Article 272
 
 La distillation des mélasses de canne à sucre originaires et en provenance des départements d'outre-mer est interdite en
@@ -14778,22 +14796,6 @@ Dès le début de la récolte, au fur et à mesure des nécessités de la vente,
 
 
 #### REGIME ECONOMIQUE DE L'ALCOOL.
-
-###### Article 268
-
-Est interdite la distillation de toute matière première importée, à l'exception des fruits frais autres que les pommes,
-poires ou raisins.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 269
 
