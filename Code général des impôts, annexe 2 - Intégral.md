@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-05-17
+Version Consolidée au 1983-05-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4965,7 +4965,7 @@ Du domicile ou du siège social pour les autres employeurs.
 
 Doivent être joints à la déclaration [*formalités obligatoires*] :
 
-1o Un état, en double exemplaire, présenté selon le modèle établi par l'administration et comprenant :
+1° Un état, en double exemplaire, présenté selon le modèle établi par l'administration et comprenant :
 
 La liste des conventions passées par l'employeur avec des organismes de formation ainsi que les effectifs concernés et le
 montant des versements effectués en application de ces conventions et retenus au titre de la participation;
@@ -4973,10 +4973,11 @@ montant des versements effectués en application de ces conventions et retenus a
 La liste des organismes agréés dans les conditions prévues à l'article L 950-2-3o du code du travail ayant reçu des
 versements de l'employeur ainsi que le montant de chacun des versements;
 
-La liste et le montant des subventions reçues de l'Etat, dans l'année, par l'employeur au titre de la formation
-professionnelle.
+La liste et le montant des subventions reçues de l'Etat ou de la région, dans l'année, par l'employeur au titre de la
+formation professionnelle ainsi que l'indication du ou, le cas échéant, des organismes agréés ayant reçu des versements de
+l'employeur en application de l'article L. 950-2-3 du code du travail.
 
-2o Le procès-verbal de la délibération du comité d'entreprise prévue à l'article 235 ter F du code général des impôts ou, à
+2° Le procès-verbal de la délibération du comité d'entreprise prévue à l'article 235 ter F du code général des impôts ou, à
 défaut, le procès-verbal de carence prévu à l'article L 433-13 du code du travail ou le procès-verbal de la délibération de
 l'un des organismes prévus à l'article 163 undecies.
 
@@ -4987,11 +4988,16 @@ l'un des organismes prévus à l'article 163 undecies.
 	  - CGI 235 ter F
 	  - CGIAN2 163 undecies
 	  - Code du travail - art. L433-13 (M)
-	  - Code du travail L950-2 3°
+	  - Code du travail - art. L950-2-3 (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-234 1983-03-21 ART. 7 b JORF 26 MARS 1983
+	  - Décret n°83-423 1983-05-30 ART. 8 JORF 31 MAI 1983
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
 ##### IV : Régimes spéciaux
@@ -14791,17 +14797,26 @@ audit article.
 ###### Article 163 quindecies
 
 Dans le cas où il est envisagé de rejeter tout ou partie des dépenses invoquées par un employeur, ce dernier doit recevoir
-notification des conclusions du contrôle effectué et être avisé en même temps qu'il dispose d'un délai de quinze jours, à
+notification des conclusions du contrôle effectué et être avisé en même temps qu'il dispose d'un délai de trente jours, à
 compter de cette notification, pour présenter des observations écrites et demander, le cas échéant, à être entendu. La
-décision du préfet ne peut être prise qu'au vu de ces observations et après audition, le cas échéant, de l'employeur, à moins
-qu'aucune demande écrite ou demande d'audition n'ait été présentée avant l'expiration du délai ci-dessus prévu. La décision
-est motivée; elle est transmise au service des impôts, qui la notifie à l'employeur avec le montant du versement à effectuer.
+décision du premier ministre ou du commissaire de la République de région ne peut être prise qu'au vu de ces observations et
+après audition, le cas échéant, de l'employeur, à moins qu'aucune demande écrite ou demande d'audition n'ait été présentée
+avant l'expiration du délai ci-dessus prévu. La décision est motivée; elle est transmise au service des impôts, qui la
+notifie à l'employeur avec le montant du versement à effectuer.
+
+La procédure déterminée à l'alinéa précédent est applicable aux dispensateurs de formation.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-235 1983-03-21 art. 6 JORF 26 mars 1983
+	  - Décret n°83-423 1983-05-30 art. 9 JORF 31 mai 1983
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°86-1086 1986-10-07
 
 
 #### TAXE SUR LES ENCOURS DE CREDITS.
