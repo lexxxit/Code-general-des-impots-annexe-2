@@ -34,7 +34,7 @@ de l'article 235 ter H bis du code général des impôts ;
 
 f. Versements effectués dans les conditions prévues par le 4° de l'article L. 951-1 du code du travail ;
 
-g. Versements effectués au titre d'une taxe parafiscale affectée à la formation professionnelle ;
+g. (sans objet)
 
 5. Selon le cas, l'insuffisance de contribution au titre de la période considérée, ou l'excédent reportable sur les trois
 années suivantes ou l'insuffisance de contribution versée aux organismes paritaires agréés par l'Etat au titre du congé
@@ -80,12 +80,12 @@ cours de l'année.
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, V JORF 3 juillet 1998
+	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
 
 	**Codifié par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2004-304 2004-03-26
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2004

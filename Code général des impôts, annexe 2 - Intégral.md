@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2003-12-28
+Version Consolidée au 2004-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2288,30 +2288,23 @@ en report d'imposition à la date du 1er janvier 2006.
 ###### Article 74-0 M
 
 1. Le montant des plus-values de cession ou d'échange de valeurs mobilières ou de droits sociaux dont l'imposition a été
-reportée est mentionné, selon le cas, sur la déclaration spéciale prévue à l'article 74-0 F ou à l'article 74 O et souscrite
-au titre de l'année au cours de laquelle l'expiration du report est intervenue. Cette déclaration comporte la désignation des
+reportée est mentionné, selon le cas, sur la déclaration spéciale prévue à l'article 74-0 F ou à l'article 74 SH et souscrite
+au titre de l'anné au cours de laquelle l'expiration du report est intervenue. Cette déclaration comporte la désignation des
 sociétés concernées et, le cas échéant, la désignation de la société ou du groupement interposé qui a réalisé l'opération,
-ainsi que la nature et la date de l'opération.
+ainsi que la nature et la date de l'opération. 
 
 2. Les contribuables joignent à cette déclaration un état conforme à celui mentionné à l'article 74-0 N.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 74-0 F, 74 O, 74-0 N
-
-	**Créé par**:
-
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
 	**Modifié par**:
 
-	  - Décret n°2001-435 du 21 mai 2001 - art. 3 () JORF 23 mai 2001
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74 SH (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F (V)
 
 	**Cité par**:
 
@@ -2319,7 +2312,7 @@ ainsi que la nature et la date de l'opération.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 74-0 N
@@ -2360,522 +2353,270 @@ ainsi que la quote-part des droits détenus dans la société ou le groupement �
 
 ###### Article 74-0 O
 
-Lorsque les titres grevés d'un report d'imposition sont eux-mêmes échangés dans les conditions du quatrième alinéa de
-l'article 150 A bis ou de l'article 150-0 B du code général des impôts, les contribuables doivent joindre à la déclaration
-prévue au 1 de l'article 170 du même code un état établi sur une formule délivrée par l'administration, qui fait apparaître,
-en plus des éléments mentionnés à l'article 74-0 N, la nature et la date de la nouvelle opération d'échange ainsi que le
-nombre de titres remis et de titres reçus lors de cette opération.
+Lorsque les titres grevés d'un report d'imposition sont eux-mêmes échangés dans les conditions du II de l'article 150 UB ou
+de l'article 150-0 B du code général des impôts, les contribuables doivent joindre à la déclaration prévue au 1 de l'article
+170 du même code un état établi sur une formule délivrée par l'administration, qui fait apparaître, en plus des éléments
+mentionnés à l'article 74-0 N, la nature et la date de la nouvelle opération d'échange ainsi que le nombre de titres remis et
+de titres reçus lors de cette opération.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
 	**Cite**:
 
-	  - CGI 150-0 B, 170, 150 A bis
-	  - CGIAN2 74-0 N
-
-	**Créé par**:
-
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 N (V)
+	  - Code général des impôts, CGI. - art. 150 UB (V)
+	  - Code général des impôts, CGI. - art. 150-0 B (V)
+	  - Code général des impôts, CGI. - art. 170 (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### 2 : Biens et droits mobiliers ou immobiliers.
 
-###### Article 74 A
+###### Article 74 SA
 
-Les dispositions des articles 74 B à 74 S s'appliquent aux plus-values imposables en application des articles 150 A à 150 T
-du Code général des impôts.
+Lorsqu'une vente est réalisée sous condition suspensive, la cession est considérée comme effective à la date de la
+réalisation de la condition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 74 SB
+
+Pour l'application de l'article 150 UB du code général des impôts, sont considérées comme sociétés à prépondérance
+immobilière les sociétés dont l'actif est, à la clôture des trois exercices qui précèdent la cession, constitué pour plus de
+50 % de sa valeur réelle par des immeubles ou des droits portant sur des immeubles, non affectés par ces sociétés à leur
+propre exploitation industrielle, commerciale, agricole ou à l'exercice d'une profession non commerciale.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 150 A à 150 T
-	  - CGIAN2 74 B à 74 S
+	  - CGI 150 UB
+
+	**Créé par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Abrogé par**:
 
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 50 (V) JORF 31 décembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
 
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2005
 
 
-###### Article 74 A bis
+###### Article 74 SC
 
-Pour l'application de l'article 150 A bis du code général des impôts, sont considérées comme sociétés à prépondérance
-immobilière les sociétés non cotées en bourse, autres que les sociétés immobilières pour le commerce et l'industrie, dont
-l'actif est constitué pour plus de 50 % de sa valeur par des immeubles ou des droits portant sur des immeubles, non affectés
-à leur propre exploitation industrielle, commerciale, agricole ou à l'exercice d'une profession non commerciale.
+I.-L'indemnité d'expropriation à retenir pour le calcul de la plus-value imposable est constituée par l'ensemble des
+indemnités allouées en espèces ou en nature à un même bénéficiaire, à l'exception de celles qui ne sont pas représentatives
+de la valeur de cession des biens expropriés. 
 
-Les éléments d'actif sont estimés à leur valeur réelle à la date de la cession.
+Les acomptes perçus en application de l'article L. 13-28 du code de l'expropriation pour cause d'utilité publique sont
+rattachés à l'indemnité dont ils constituent un élément. 
 
-**Liens relatifs à cet article**
+Lorsque, dans le cadre des dispositions de l'article L. 13-20 du code précité, l'indemnité a été remplacée par l'attribution
+d'un local de réinstallation, la somme à retenir pour le calcul de la plus-value est constituée par le montant de l'indemnité
+d'expropriation, fixée au préalable. 
 
-	**Cite**:
+II.-S'il est fait application de l'article L. 13-12 du code de l'expropriation pour cause d'utilité publique, le supplément
+de valeur acquis par le reste de la propriété, tel qu'il est fixé par le juge, est considéré comme faisant partie de
+l'indemnité d'expropriation ; en cas de cession ultérieure, il est assimilé à une dépense d'amélioration pour la
+détermination de la plus-value. 
 
-	  - CGI 150 A bis
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 B
-
-Les cessions de droits portant sur des biens autres que les cessions de valeurs mobilières et de droits sociaux de sociétés
-immobilières au sens de l'article 74 A bis, sont traitées comme les cessions de ces biens.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 74 A bis
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 B bis
-
-Les plus-values réalisées à l'occasion de la première cession d'un logement prévue à l'article 150 C du code général des
-impôts sont exonérées de l'impôt sur le revenu, quelle que soit la date de la cession, lorsque celle-ci est motivée par l'un
-des événements suivants :
-
-1° Changement dans la situation de la famille résultant de l'augmentation du nombre des enfants à charge, du divorce ou de la
-séparation de corps, du décès du contribuable ou de l'un des époux soumis à une imposition commune ;
-
-2° Survenance d'une invalidité affectant le contribuable ou l'un des époux soumis à une imposition commune ou un enfant à
-charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L.
-341-4 du code de la sécurité sociale ou ouvrant droit à la carte d'invalidité prévue à l'article L. 241-3 du code de l'action
-sociale et des familles ;
-
-3° Changement de résidence principale justifié par le changement du lieu d'activité professionnelle ou le rapprochement du
-contribuable ou de l'un des époux soumis à une imposition commune du lieu de cette activité ;
-
-4° Changement dans la situation professionnelle du contribuable ou de l'un des époux soumis à une imposition commune
-résultant d'une cessation forcée d'activité ;
-
-5° Départ à la retraite du contribuable ou de l'un des époux soumis à une imposition commune. Bénéficient de la mesure les
-personnes qui ont cessé toute activité professionnelle après avoir atteint l'âge auquel correspond la prise d'effet de la
-pension de vieillesse de leur régime de sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 C
-	  - Code de la sécurité sociale. - art. L341-4 (V)
-	  - Code de l'action sociale et des familles - art. L241-3 (M)
-
-	**Modifié par**:
-
-	  - Rapport au Président de la République relatif à l' - art. 1 (V) JORF 23 décembre 2000
-	  - Rapport au Président de la République relatif à l' - art. 3 (V) JORF 23 décembre 2000
-	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 74 C
-
-Lorsqu'une même cession porte sur des biens pour lesquels sont prévues des règles différentes, l'acte de cession doit
-mentionner le prix de chacun de ces biens.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 D
-
-Le prix de cession et le prix d'acquisition comprennent toutes les charges et indemnités mentionnées au deuxième alinéa du I
-de l'article 683 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 683 I
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 E
-
-Les soultes reçues lors du partage d'une indivision autre que successorale ou conjugale constituent, pour leurs
-bénéficiaires, le prix des droits cédés à cette occasion aux autres co-partageants.
-
-En cas de cession ultérieure d'un bien attribué à charge de soulte dans les mêmes cas, le prix d'acquisition de ce bien est
-corrélativement constitué par la valeur des droits originaires du cédant augmentée du montant de la soulte versée.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 F
-
-L'indemnité d'expropriation à retenir pour le calcul de la plus-value imposable est constituée par l'ensemble des indemnités
-allouées en espèces ou en nature à un même bénéficiaire, à l'exception de celles qui ne sont pas représentatives de la valeur
-de cession des biens expropriés.
-
-Les acomptes perçus en application de l'article L 13-28 du code de l'expropriation pour cause d'utilité publique sont
-rattachés à l'indemnité dont ils constituent un élément.
-
-Lorsque, dans le cadre des dispositions de l'article L 13-20 du code précité, l'indemnité a été remplacée par l'attribution
-d'un local de réinstallation, la somme à retenir pour le calcul de la plus-value est constituée par l'indemnité
-d'expropriation en espèces, fixée au préalable.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Cite**:
-
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-20 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-28 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 G
-
-S'il est fait application de l'article L 13-20 du code de l'expropriation pour cause d'utilité publique, le supplément de
-valeur acquis par le reste de la propriété, tel qu'il est fixé par le juge, est considéré comme faisant partie de l'indemnité
-d'expropriation ; en cas de cession ultérieure, il est assimilé à une dépense d'amélioration pour la détermination de la
-plus-value.
-
-Lorsqu'au contraire une indemnité accessoire est attribuée en raison de la dépréciation du reste de la propriété, cette
-indemnité n'est pas considérée comme faisant partie de l'indemnité d'expropriation; en cas de cession ultérieure du reste de
+Lorsqu'à l'inverse, une indemnité accessoire est attribuée en raison de la dépréciation du reste de la propriété, cette
+indemnité n'est pas considérée comme faisant partie de l'indemnité d'expropriation ; en cas de cession ultérieure du reste de
 la propriété, elle est retranchée du prix d'acquisition.
 
 **Liens relatifs à cet article**
 
+	**Créé par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
 	**Cite**:
 
-	  - Code de l'expropriation L13-20
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-12 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-20 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-28 (V)
 
 
-###### Article 74 H
+###### Article 74 SD
 
 Lorsque la cession porte sur une partie seulement d'un bien, le prix d'acquisition à retenir pour la détermination de la
-plus-value est celui de cette seule partie.
+plus-value imposable est celui de cette seule partie.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TXT_ASSOCIE: CGIAN2 74 J
-	  - HISTO: Edition du 1er janvier 2004
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74 SF (V)
 
 
-###### Article 74 I
+###### Article 74 SE
 
 Si la cession a pour objet la nue-propriété, l'usufruit ou tout autre droit portant sur un bien acquis en pleine propriété,
-la plus-value imposable est déterminée en tenant compte, d'une part, du prix du droit cédé, et d'autre part, du prix
+la plus-value imposable est déterminée en tenant compte, d'une part, du prix du droit cédé et, d'autre part, du prix
 d'acquisition afférent à ce droit. Ce prix d'acquisition est réputé égal à une fraction, appréciée au jour de la cession, du
 prix d'acquisition de la pleine propriété du bien. En cas d'usufruit ou de nue-propriété, cette fraction est déterminée en
-appliquant le barème institué par l'article 762 du code général des impôts.
+appliquant le barème institué par l'article 669 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 669 (V)
+
+
+###### Article 74 SF
+
+Dans les cas prévus aux articles 74 SD et 74 SE, la fraction des charges et indemnités et des frais d'acquisition à retenir
+pour la détermination de la plus-value imposable est la même que celle retenue pour la détermination du prix d'acquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74 SD (V)
+
+
+###### Article 74 SG
+
+I.-Lorsque le bien ou le droit cédé a fait partie du patrimoine privé du cédant avant d'être inscrit à l'actif d'une
+entreprise, la plus-value imposable au titre des articles 150 U à 150 UB du code général des impôts est déterminée par
+différence entre la valeur d'inscription à l'actif au jour de cette inscription et le prix d'acquisition du bien. 
+
+II.-Lorsque le bien ou le droit cédé a été inscrit à l'actif d'une entreprise, puis repris dans le patrimoine privé du
+cédant, le prix d'acquisition à retenir pour la détermination de la plus-value imposable au titre des articles 150 U à 150 UB
+précités s'entend de la valeur réelle du bien au jour du retrait du bien ou du droit de l'actif. 
+
+III.-Lorsque le bien ou le droit a successivement fait partie du patrimoine privé de l'exploitant, a été inscrit à l'actif
+d'une entreprise, puis repris dans le patrimoine privé, la plus-value imposable au titre des articles 150 U à 150 UB précités
+est déterminée à la date de la cession par application successive des dispositions prévues aux I et II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150 U (V)
+
+
+###### Article 74 SH
+
+I. - La déclaration mentionnée à l'article 150 VG du code général des impôts doit être déposée pour chaque bien ou droit cédé
+par le contribuable :
+
+1° En un seul exemplaire en cas de cession d'immeubles ;
+
+2° En double exemplaire en cas de cession de biens meubles ou de droits sociaux. La recette des impôts indique sur chacun
+d'entre eux les références du dépôt et le montant des sommes reçues en paiement de l'impôt afférent à la plus-value telle
+qu'elle a été liquidée sur la déclaration. Un exemplaire de cette déclaration annotée est remis au vendeur ou à son
+mandataire.
+
+II. - La déclaration doit être signée par le cédant ou par son mandataire. Dans ce dernier cas, le mandat doit figurer dans
+l'acte de cession ou être joint à l'appui de la déclaration. Il comporte, outre l'acceptation du mandataire, l'indication des
+nom, prénoms et adresse du mandant, l'habilitation du mandataire à signer les déclarations et, le cas échéant, à verser
+l'impôt correspondant à celles-ci ainsi que la reconnaissance, par le mandant, qu'il demeurera personnellement responsable de
+l'impôt, et notamment des suppléments de droits et pénalités qui pourraient être réclamés à la suite d'un contrôle.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 762
+	  - CGI 150 VG
+
+	**Créé par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 317 A (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 M (V)
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: CGIAN2 74 J
 	  - HISTO: Edition du 1er janvier 2004
 
-	**Abrogé par**:
 
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
+###### Article 74 SI
 
-
-###### Article 74 J
-
-Dans les cas prévus aux articles 74 H et 74 I les charges et indemnités ainsi que les frais d'acquisition sont retenus pour
-la détermination de la plus-value imposable dans la même proportion que le prix d'acquisition lui-même.
+Les pièces justifiant des frais ou charges mentionnés au III de l'article 150 VA et au II de l'article 150 VB du code général
+des impôts sont fournies par le contribuable sur demande de l'administration. Il en est de même des pièces justifiant du
+remploi de l'indemnité pour le bénéfice de l'exonération prévue au 4° du II de l'article 150 U du même code.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Cite**:
 
-	  - CGIAN2 74 H, 74 I
+	  - Code général des impôts, CGI. - art. 150 U (V)
+	  - Code général des impôts, CGI. - art. 150 VA (V)
+	  - Code général des impôts, CGI. - art. 150 VB (V)
 
-	**Abrogé par**:
 
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
+###### Article 74 SJ
 
-	**Liens**:
+L'accomplissement de la formalité de l'enregistrement ou de la formalité fusionnée est subordonné, pour tout acte ou toute
+déclaration constatant la cession à titre onéreux de biens entrant dans le champ d'application des articles 150 U à 150 VH du
+code général des impôts, à la mention dans l'acte ou dans la déclaration :
 
-	  - HISTO: Edition du 1er janvier 2004
+1° De l'adresse du service des impôts dont le cédant dépend pour la déclaration de ses revenus ou bénéfices ou, pour les
+cessions mentionnées aux 1° et 3° du II de l'article 150 VG, de l'adresse de la recette des impôts du domicile du cédant ;
 
+2° Du prix de cession de chacun des biens ;
 
-###### Article 74 K
-
-Les dispositions de l'article 150 I, premier alinéa, du code général des impôts s'appliquent au calcul du prix d'acquisition
-dans le cas où celle-ci est intervenue moyennant une rente viagère.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 I
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 L
-
-Le directeur général des impôts publie chaque année avant le 15 février la variation de l'indice moyen des prix à la
-consommation pour les trente années précédentes. Pour le calcul de la plus-value imposable, il est fait application de la
-dernière variation annuelle publiée par l'institut national des statistiques et des études économiques à la date à laquelle
-la déclaration doit être déposée.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 M
-
-En ce qui concerne les parts de groupements agricoles ou forestiers, l'appréciation des limites prévues au 2° de l'article
-150 D du code général des impôts s'effectue en fonction des droits que ces parts confèrent sur les terrains ou constructions
-possédés par ces groupements. Pour cette appréciation, il est fait état de la valeur vénale des actifs au jour de la cession
-des parts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 D
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 N
-
-Pour les opérations sur droits immobiliers et marchandises prévues à l'article 150 N du code général des impôts, la plus-
-value ou la moins-value est égale à la différence reçue ou versée par l'opérateur sous réserve, le cas échéant, des
-corrections prévues aux articles 150 J à 150 M du code précité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 N, 150 J à 150 M
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 O
-
-Les plus-values imposables sont déclarées sur une formule délivrée par l'administration dans les mêmes conditions que la
-déclaration prévue au 1 de l'article 170 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 170 1
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 P
-
-En cas d'expropriation la déclaration de la plus-value imposable est jointe à celle des revenus de l'année au cours de
-laquelle l'indemnité a été perçue.
-
-Le contribuable peut toutefois, par une mention expresse dans la déclaration de la plus-value, demander que celle-ci soit
-imposée au titre de l'année où a été fixée définitivement l'indemnité.
-
-Dans tous les cas, le délai de reprise fixé par le premier alinéa de l'article L 169 du livre des procédures fiscales court à
-compter de l'année durant laquelle l'indemnité a été perçue.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 2 septembre 1994
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L169 (M)
-
-	**Modifié par**:
-
-	  - Loi n°93-1352 1993-12-29 art. 82 VII Finances pour 1994 JORF 30 décembre 1993
-
-
-###### Article 74 Q
-
-Lorsque le contribuable demande à bénéficier des dispositions de l'article 150 B du code général des impôts, il doit joindre
-sa demande à la déclaration prévue au 1 de l'article 170 du même code, ainsi qu'un état de son patrimoine immobilier, établi
-sur une formule délivrée par l'administration.
-
-Cet état, comprenant le bien cédé, fait mention des dettes contractées, le cas échéant, pour l'acquisition, la réparation ou
-l'amélioration de ce patrimoine, et restant à rembourser au moment de la cession.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 B
-	  - CGIAN2 170 1
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 74 R
-
-Le bénéfice du paiement fractionné est subordonné à une demande expresse du contribuable.
-
-La mise en recouvrement de l'impôt est alors fractionnée par parts égales sur les cinq années suivant celle de la réalisation
-de la plus-value. Elle donne lieu au paiement de l'intérêt, au taux légal, recouvré dans les mêmes conditions et sous les
-mêmes garanties et sanctions que l'impôt en principal.
-
-En cas de transfert du domicile à l'étranger, de redressement ou de liquidation judiciaires ou de non-paiement de l'une des
-fractions de l'impôt, le solde restant dû, augmenté de l'intérêt couru, est exigible immédiatement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 74 O
-
-	**Modifié par**:
-
-	  - Loi n°94-475 du 10 juin 1994 - art. 92 () JORF 11 juin 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 2 septembre 1994
-
-
-###### Article 74 S
-
-L'accomplissement de la "formalité fusionnée" prévue à l'article 647 du code général des impôts ou de la formalité de
-l'enregistrement est subordonné, pour tout acte ou toute déclaration constatant la cession à titre onéreux de biens entrant
-dans le champ d'application des articles 150 A à 150 T du même code à la mention au pied de l'acte ou dans la déclaration :
-
-- de l'adresse du service des impôts dont le cédant dépend éventuellement pour la déclaration de ses revenus ou bénéfices ;
-
-- du prix d'acquisition du bien ou, s'il s'agit d'une acquisition à titre gratuit, du nom du précédent propriétaire, de son
+3° Du prix d'acquisition du bien ou, s'il s'agit d'une acquisition à titre gratuit, du nom du précédent propriétaire, de son
 domicile et, éventuellement, de la date de son décès.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 647, 150 A à 150 T
+	  - CGI 150 U à 150 VH, 150 VG
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004 rectificatif JORF 10 juillet 2004
 
 	**Liens**:
 
@@ -5957,23 +5698,15 @@ les opérations qui font double emploi. La liste de ces opérations est arrêté
 ###### Article 120
 
 1. Le résultat consolidé défini à l'article 116 est, selon le cas, imposé ou reporté dans les conditions prévues
-respectivement au I de l'article 219 du code général des impôts ou aux troisième et quatrième alinéas du I de l'article 209
-du même code.
+respectivement au I de l'article 219 du code général des impôts ou au troisième alinéa du I de l'article 209 du même code.
 
-Toutefois, le montant du déficit consolidé et des amortissements réputés différés reportables à la clôture du dernier
-exercice d'application du régime prévu à l'article 209 quinquies du code général des impôts ne peut être considéré comme une
-charge déductible des bénéfices ultérieurs de la société agréée que pour une fraction ; cette fraction est obtenue en
-appliquant à ce montant le rapport entre, d'une part, le montant des déficits propres de cette société déclarés en
-application du 1 de l'article 128 et, d'autre part, la somme de ces mêmes déficits et de ceux qui sont pris en compte au
-titre des exploitations visées au b et au d du 1 de l'article 116 pour la détermination du résultat consolidé et qui seraient
-reportables en application des règles fiscales françaises.
-
-Pour l'application des dispositions du quatrième alinéa du I de l'article 209 du code général des impôts, la faculté de
-report sans limitation de délai du déficit consolidé d'un exercice s'applique à la partie de ce déficit qui correspond aux
-amortissements régulièrement comptabilisés et réputés différés par le groupe mentionné à l'article 223 A de ce code dans les
-conditions prévues à l'article 223 C du même code et par les exploitations mentionnées au c du 1 de l'article 116 ainsi
-qu'aux amortissements déduits du résultat, déterminé selon les règles prévues aux articles 116 bis et 116 ter, des
-exploitations déficitaires qui sont mentionnées au d du 1 de l'article 116.
+Toutefois, le montant du déficit consolidé reportable à la clôture du dernier exercice d'application du régime prévu à
+l'article 209 quinquies du code général des impôts ne peut être considéré comme une charge déductible des bénéfices
+ultérieurs de la société agréée que pour une fraction ; cette fraction est obtenue en appliquant à ce montant le rapport
+entre, d'une part, le montant des déficits propres de cette société déclarés en application du 1 de l'article 128 et, d'autre
+part, la somme de ces mêmes déficits et de ceux qui sont pris en compte au titre des exploitations visées au b et au d du 1
+de l'article 116 pour la détermination du résultat consolidé et qui seraient reportables en application des règles fiscales
+françaises.
 
 2. (Abrogé).
 
@@ -5990,29 +5723,26 @@ ultérieures de la société agréée que pour une fraction ; cette fraction est
 entre, d'une part, le montant des moins-values nettes à long terme propres de cette société déclarées en application du 1 de
 l'article 128 et, d'autre part, la somme de ces mêmes moins-values nettes à long terme et de celles qui sont prises en compte
 au titre des exploitations visées au b et au d du 1 de l'article 116 pour la détermination des plus-values ou moins-values
-nettes à long terme consolidées et qui seraient reportables en application des règles fiscales françaises (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+nettes à long terme consolidées et qui seraient reportables en application des règles fiscales françaises.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 219, 209, 209 quinquies, 223 A, 223 C, 209 quater, 39 duodecies à 39 quindecies, 223 D
-	  - CGIAN2 116, 128, 116 bis, 116 ter
-
-	**Modifié par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 8 () JORF 20 décembre 1991
+	  - CGI 219, 209, 116, 209 quinquies, 128, 209 quater, 39 duodecies à 39 quindecies, 223
 
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°2004-304 2004-03-26
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Modifié par**:
+
+	  - Loi - art. 89 (V) JORF 31 décembre 2003
 
 
 ##### 5 : Sort des déficits déjà pris en compte
@@ -7946,7 +7676,7 @@ de l'article 235 ter H bis du code général des impôts ;
 
 f. Versements effectués dans les conditions prévues par le 4° de l'article L. 951-1 du code du travail ;
 
-g. Versements effectués au titre d'une taxe parafiscale affectée à la formation professionnelle ;
+g. (sans objet)
 
 5. Selon le cas, l'insuffisance de contribution au titre de la période considérée, ou l'excédent reportable sur les trois
 années suivantes ou l'insuffisance de contribution versée aux organismes paritaires agréés par l'Etat au titre du congé
@@ -7992,15 +7722,15 @@ cours de l'année.
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, V JORF 3 juillet 1998
+	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
 
 	**Codifié par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2004-304 2004-03-26
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 163 quaterdecies
@@ -8615,16 +8345,28 @@ les impôts recouvrés par les comptables de la direction générale des impôts
 
 Pour l'application de l'article 244 bis A du code général des impôts, sont considérées comme sociétés à prépondérance
 immobilière les sociétés non cotées en bourse, autres que les sociétés immobilières pour le commerce et l'industrie, dont
-l'actif est constitué pour plus de 50 % de sa valeur par des immeubles ou des droits portant sur des immeubles, non affectés
-à leur propre exploitation industrielle, commerciale, agricole ou à l'exercice d'une profession non commerciale.
+l'actif est, à la clôture des trois exercices qui précèdent la cession, constitué pour plus de 50 % de sa valeur réelle par
+des immeubles ou des droits portant sur des immeubles, non affectés à leur propre exploitation industrielle, commerciale,
+agricole ou à l'exercice d'une profession non commerciale.
 
-Les éléments d'actif sont estimés à leur valeur réelle à la date de la cession.
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 27-IV et V de la loi n° 2007-1822 du 24 décembre 2007.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 244 bis A
+
+	**Modifié par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Liens**:
+
+	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### IV : Réévaluation des immobilisations non amortissables
@@ -8997,31 +8739,6 @@ l'exercie arrêté le 31 décembre 1976 ou en cours à cette date.
 
 	  - CGI 39 B
 	  - CGIAN2 171 E
-
-
-###### Article 171 K
-
-Les amortissements pratiqués sur des valeurs nettes réévaluées en application de l'article 238 bis-J du code général des
-impôts ne peuvent être réputés du point de vue fiscal régulièrement différés en période déficitaire à concurrence du montant
-de la provision pour réévaluation rapporté aux résultats affectés par ces amortissements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis J
-
-	**Abrogé par**:
-
-	  - Loi - art. 89 (V) JORF 31 décembre 2003
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 171 L
@@ -21479,640 +21196,6 @@ articles 1394 et 1599 ter B du code général des impôts.
 	  - HISTO: Edition du 4 juillet 1992
 
 
-### Titre VI : Taxes parafiscales
-
-#### Chapitre premier : Dispositions générales.
-
-###### Article 335
-
-Les taxes parafiscales sont établies par décret en Conseil d'Etat pris sur le rapport du ministre chargé du budget et du ou
-des ministres intéressés et obligatoirement contresigné par le ministre de l'économie. Ces décrets fixent l'affectation,
-l'assiette, le fait générateur, les règles de liquidation et de recouvrement de ces taxes ainsi que leur durée, qui ne peut
-en aucun cas excéder cinq ans, et leur taux ou une limite maximum pour ce taux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN2 364
-
-	**Modifié par**:
-
-	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
-
-
-###### Article 336
-
-Dans la limite définie par le décret prévu à l'article 335, des arrêtés du ministre chargé du budget, ministre chargé de
-l'économie et du ou des ministres intéressés fixent, s'il y a lieu, le taux de chaque taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 335
-
-	**Anciens textes**:
-
-	  - CGIAN2 365
-
-	**Modifié par**:
-
-	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-
-###### Article 337
-
-Les taxes parafiscales dont l'assiette est commune avec les impôts ou taxes perçus au profit de l'Etat ou de toute autre
-collectivité sont assises, liquidées et recouvrées suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions
-que lesdits impôts et taxes. Les réclamations sont, présentées et jugées comme celles qui concernent ces impôts et taxes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN2 366
-
-	**Modifié par**:
-
-	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
-
-
-###### Article 338
-
-Un prélèvement représentant les frais d'assiette et de perception est effectué au profit du budget général sur tous les
-recouvrements de taxes parafiscales opérés par les administrations de l'Etat. Le taux de ce prélèvement est fixé à 5 % sauf
-dérogation par arrêté du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN2 367
-
-	**Modifié par**:
-
-	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
-
-	**Abrogé par**:
-
-	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 1er janvier 2004
-
-
-#### Chapitre II : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
-
-###### Article 339
-
-Il est institué, pour la période courant du 1er janvier 2001 au 31 décembre 2005, une taxe parafiscale destinée à financer le
-développement des actions de formation professionnelle dans les transports routiers.
-
-La taxe concourt en priorité au financement, d'une part, des formations qualifiantes et, d'autre part, des formations
-professionnelles obligatoires des conducteurs routiers telles qu'instituées par la réglementation et les conventions
-collectives en vigueur. Elle est utilisée pour au moins la moitié de son produit à la formation professionnelle des jeunes de
-moins de vingt-six ans.
-
-Le produit de la taxe est affecté à l'Association pour le développement de la formation professionnelle dans les transports
-(AFT).
-
-La taxe est perçue en addition de celle prévue à l'article 1599 quindecies du code général des impôts lors de la délivrance
-des certificats d'immatriculation des véhicules automobiles de transport de marchandises, des tracteurs routiers et des
-véhicules de transport en commun de personnes, à l'exception des véhicules de collection au sens du dix-neuvième alinéa de
-l'article R. 311-1 du code de la route.
-
-La délivrance des certificats mentionnés aux articles 1599 septdecies et 1599 octodecies du code général des impôts ne donne
-pas lieu au paiement de la présente taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 quindecies, 1599 septdecies, 1599 octodecies
-	  - Code de la route. - art. R311-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2001-251 2001-03-22 art. 1, art. 2, art. 5 JORF 25 mars 2001
-	  - Décret n°2001-751 du 27 août 2001 - art. 5 () JORF 28 août 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 mars 2002
-
-
-###### Article 340
-
-Le montant de la taxe est fixé par arrêté conjoint des ministres chargés du budget et des transports, dans les limites
-suivantes :
-
-1° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur ou égal à 3,5
-tonnes :
-
-29,88 euros ;
-
-2° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est supérieur à 3,5 tonnes et
-inférieur à 6 tonnes : 122,57 euros ;
-
-3° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes
-et inférieur à 11 tonnes : 183,40 euros ;
-
-4° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11
-tonnes, tracteurs routiers et véhicules de transport en commun de personnes :
-
-275,32 euros.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2000-1336 du 26 décembre 2000 - art. 3 (V) JORF 30 décembre 2000
-	  - Règlement CE 1103/97 1997-06-17 art. 5 JO L162 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement CE 2866/98 1998-12-31 art. 1 JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement CE 974/98 1998-05-03 art. 14 JO L139 11 mai 1998 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
-
-
-###### Article 341
-
-La taxe est recouvrée selon les règles et sous les mêmes conditions que la taxe prévue à l'article 1599 quindecies du code
-général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 quindecies
-
-	**Modifié par**:
-
-	  - Décret n°2000-1336 du 26 décembre 2000 - art. 4 (V) JORF 30 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 mars 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
-
-
-#### Chapitre VI : Taxe perçue au profit du centre technique des productions cidricoles.
-
-###### Article 358
-
-Il est institué du 1er septembre 2002 et jusqu'au 31 décembre 2003 une taxe parafiscale au profit du centre technique des
-productions cidricoles.
-
-Cette taxe est destinée à financer les frais de fonctionnement et les actions du centre relatives à la recherche et à
-l'expérimentation en vue de l'amélioration des plantations et vergers, des techniques de production et de traitements
-technologiques des productions cidricoles.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2002-1098 du 28 août 2002 - art. 1 (V) JORF 30 août 2002
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2002
-
-
-###### Article 359
-
-Sont soumis à la taxe prévue à l'article 358, à l'exclusion des produits introduits sur le territoire national en provenance
-d'autres Etats membres de la Communauté européenne, les produits suivants :
-
-1° Pommes à cidre et poires à poiré :
-
-- moûts et concentrés de pommes à cidre et de poires à poiré ;
-
-- jus de pommes à cidre et de poires à poiré ;
-
-a) Cidres aromatisés ou non ;
-
-b) Poirés ;
-
-c) Fermentés de pommes aromatisés ou non ;
-
-d) Fermentés de poires :
-
-- pommeaux et apéritifs à base de cidre et de poiré ;
-
-- calvados et eaux-de-vie de cidre et de poiré.
-
-2° Pommes et poires de table, moûts et concentrés de pommes et poires de table destinés à la fabrication des produits
-suivants :
-
-a) Cidres aromatisés ou non ;
-
-b) Poirés ;
-
-c) Fermentés de pommes aromatisés ou non ;
-
-d) Fermentés de poires ;
-
-e) Apéritifs à base de cidre et de poiré ;
-
-f) Eaux-de-vie de cidre et de poiré.
-
-Les produits semi-transformés ou transformés visés aux 1° et 2° ne sont soumis à la taxe que si la matière première mise en
-oeuvre pour leur fabrication ne l'a pas elle-même été. Cependant, les jus visés au troisième alinéa du 1° sont exonérés de la
-taxe lorsqu'ils sont élaborés à partir de moûts et de concentrés en provenance des autres Etats membres de la Communauté
-européenne.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 358
-
-	**Modifié par**:
-
-	  - Décret n°2002-1098 du 28 août 2002 - art. 2 (V) JORF 30 août 2002
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2002
-
-
-###### Article 360
-
-La taxe est due lors de la délivrance du titre de mouvement légitimant la sortie de la propriété des produits énumérés à
-l'article 359. Elle est acquittée par la personne levant le titre de mouvement mais supportée par l'acheteur et le vendeur,
-chacun pour moitié.
-
-La taxe est perçue pour le compte du centre technique des productions cidricoles par les bureaux de déclaration de la
-direction générale des douanes et droits indirects.
-
-Les frais d'assiette et de perception de la taxe au taux de 5 % du montant des recouvrements sont à la charge du centre et
-décomptés et payés à l'administration dans les conditions réglementaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 359
-
-	**Modifié par**:
-
-	  - Décret n°2002-1098 du 28 août 2002 - art. 3 (V) JORF 30 août 2002
-	  - Décret n°2002-1098 du 28 août 2002 - art. 4 (V) JORF 30 août 2002
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2002
-
-
-###### Article 361
-
-Le montant maximum de la taxe à laquelle sont soumis les produits visés aux 1° et 2° de l'article 359 est fixé à :
-
-1° 0,16 Euros par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
-
-2° 0,17 Euros par hectolitre :
-
-a) De jus de pommes à cidre et de poires à poiré et de moûts de pommes et de poires ;
-
-b) De cidre, aromatisé ou non, à due proportion du cidre contenu dans le produit fini ;
-
-c) De fermenté de pommes à due proportion du fermenté de pommes contenu dans le produit fini ;
-
-d) De poiré ;
-
-e) De fermenté de poires.
-
-3° 3,05 Euros par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré, de pommeaux et d'apéritifs à base
-de cidre et de poiré.
-
-Un arrêté du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre délégué au budget fixe dans la
-limite du montant maximum le montant de la taxe applicable à chaque catégorie de produits.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 359
-
-	**Modifié par**:
-
-	  - Décret n°2002-1098 du 28 août 2002 - art. 5 (V) JORF 30 août 2002
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2002
-
-
-#### Chapitre VII : Taxe parafiscale pour le financement de certains organismes interprofessionnels de vins.
-
-###### Article 361 bis
-
-I. - Il est institué pour la campagne 2002-2003 et pour la campagne 2003-2004 jusqu'au 31 décembre 2003 une taxe parafiscale
-au profit des organismes mentionnés à l'article 1er du décret n° 2002-1629 du 31 décembre 2002.
-
-Cette taxe est destinée à couvrir les dépenses afférentes aux actions d'intérêt interprofessionnel conduites par les
-organismes mentionnés au premier alinéa ainsi que leurs frais de fonctionnement.
-
-II. - La taxe parafiscale est due lors de la délivrance du titre de mouvement légitimant la sortie de chez le producteur des
-vins d'appellation d'origine produits dans la circonscription territoriale de l'organisme bénéficiaire.
-
-Elle est assise sur le volume des vins mentionnés sur le titre de mouvement.
-
-Elle est acquittée par la personne levant le titre de mouvement ; s'il s'agit d'un viticulteur, celui-ci facture le montant
-de la taxe à l'acheteur afin d'en obtenir le remboursement.
-
-III. - Les dispositions des I et II ne sont pas applicables aux vins à appellation d'origine mentionnés à l'article 3 du
-décret n° 2002-1629 du 31 décembre 2002.
-
-IV. - La taxe parafiscale est perçue, pour le compte de chacun des organismes, par les receveurs locaux des douanes.
-
-L'administration reverse aux organismes bénéficiaires le montant de la taxe après déduction dans les conditions
-réglementaires des frais d'assiette et de perception.
-
-V. - Le montant maximum de la taxe est fixé à 0,76 Euros par hectolitre.
-
-Un arrêté conjoint des ministres chargés de l'économie, de l'agriculture et du budget fixe le montant applicable dans la
-limite du montant maximum.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2002-1629 du 31 décembre 2002 - art. 1 (V) JORF 3 janvier 2003
-
-	**Cite**:
-
-	  - Décret n°2002-1629 du 31 décembre 2002 - art. 1, v. init.
-	  - Décret n°2002-1629 du 31 décembre 2002 - art. 3, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 1er janvier 2004
-
-
-#### Chapitre XII : Taxe parafiscale pour le financement des actions du secteur céréalier.
-
-###### Article 363 AE
-
-I. - Il est institué, à compter de la campagne de commercialisation 2000-2001 et jusqu'au 31 décembre 2003, une taxe
-parafiscale à la charge des producteurs, assise sur les quantités de céréales et de riz livrées aux collecteurs agréés et aux
-producteurs grainiers.
-
-II. - Après déduction des frais de recouvrement, le produit de la taxe est affecté de la manière suivante :
-
-a) Une partie, qui ne peut excéder 60 %, est affectée à l'Office national interprofessionnel des céréales pour la couverture
-de ses frais de fonctionnement et pour le financement éventuel des actions entreprises en application de l'article 1er du
-décret n° 53-975 du 30 septembre 1953 modifié relatif à l'organisation du marché des céréales et de l'Office national
-interprofessionnel des céréales ;
-
-b) Une partie, qui ne peut être inférieure à 40 %, est affectée à l'Institut technique des céréales et des fourrages pour
-l'exécution de ses programmes de développement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2003-793 du 21 août 2003 - art. 2 () JORF 24 août 2003
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2003
-
-	**Cite**:
-
-	  - Décret n°53-975 du 30 septembre 1953 - art. 1 (M)
-
-
-###### Article 363 AF
-
-Le fait générateur de la taxe est la livraison des céréales par les producteurs aux collecteurs agréés et aux producteurs
-grainiers.
-
-La taxe est assise sur les tonnages livrés, déduction faite :
-
-a) Pour le blé tendre, l'orge, le seigle, le blé dur, le maïs, le sorgho et le riz, de l'humidité excédant un taux compris
-entre 14 % et 15 % de ces tonnages, fixé par l'arrêté mentionné à l'article 363 AI ;
-
-b) Pour le blé tendre, le blé dur, l'orge, le seigle, le triticale, le maïs, le sorgho et le riz, du pourcentage d'impuretés
-excédant un taux compris entre 0,5 % et 2,5 % des tonnages, selon les céréales, déterminé par l'arrêté mentionné à l'article
-363 AI.
-
-La quantité d'impuretés déduite du tonnage livré pour le calcul de la taxe ne peut toutefois dépasser un pourcentage fixé par
-l'arrêté susmentionné, pour chaque céréale, et compris entre 1 % et 3 %.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 363 AI
-
-	**Modifié par**:
-
-	  - Décret n°2000-1296 du 26 décembre 2000 - art. 3 (V) JORF 29 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 363 AG
-
-Le taux maximal est fixé à :
-
-a) 0,85 Euro par tonne pour le blé tendre, l'orge, le maïs et le blé dur ;
-
-b) 0,79 Euro par tonne pour le seigle, le riz et le triticale ;
-
-c) 0,54 Euro par tonne pour le sorgho et l'avoine.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2000-1296 du 26 décembre 2000 - art. 4 (V) JORF 29 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
-
-
-###### Article 363 AH
-
-La taxe est perçue par prélèvement sur le prix payé aux livreurs par les collecteurs agréés et les producteurs grainiers.
-Elle est reversée à la direction générale des douanes et des droits indirects dans les conditions fixées par l'article 25 du
-décret n° 59-909 du 31 juillet 1959 modifié relatif aux prix, aux modalités de paiement, de stockage et de rétrocession des
-céréales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-909 du 31 juillet 1959 - art. 25 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2000-1296 du 26 décembre 2000 - art. 5 (V) JORF 29 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 363 AI
-
-Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre chargé du budget,
-pris après avis du conseil central de l'Office national interprofessionnel des céréales, fixe les montants de la taxe, dans
-les limites prévues à l'article 363 AG.
-
-Cet arrêté fixe également la répartition du produit de la taxe entre les organismes bénéficiaires visés au II de l'article
-363 AE.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 363 AG, 363 AE
-
-	**Modifié par**:
-
-	  - Décret n°2000-1296 du 26 décembre 2000 - art. 6 (V) JORF 29 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 mars 2001
-
-
 ## Troisième partie : Dispositions communes aux première et deuxième parties
 
 ### Chapitre premier : Obligations des contribuables
@@ -24175,9 +23258,18 @@ l'article 1681 D du code général des impôts, sur les dépôts à vue.
 
 ###### Article 376 sexies
 
-Les prélèvements mensuels sont effectués le 8 de chaque mois ou, s'il s'agit d'un dimanche, d'un jour férié ou d'un jour de
+Les prélèvements mensuels sont effectués le 15 de chaque mois ou, s'il s'agit d'un dimanche, d'un jour férié ou d'un jour de
 fermeture de l'établissement dépositaire, le premier jour ouvrable suivant.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-787 du 21 août 2003 - art. 1 () JORF 24 août 2003 en vigueur le 1er janvier 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 376 ter
