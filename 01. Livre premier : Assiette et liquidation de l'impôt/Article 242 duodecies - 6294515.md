@@ -15,7 +15,7 @@ a) Du document justifiant que le demandeur a précédemment acquitté la taxe su
 neuf qu'il vend : facture d'achat, déclaration d'importation ou document en tenant lieu, certificat délivré par
 l'administration des impôts dans les conditions prévues à l'article 242 quaterdecies ;
 
-b) De la facture de vente ou du document en tenant lieu établi par le demandeur, conformément à l'article 242 undecies ;
+b) De la facture de vente établie par le demandeur, conformément à l'article 242 undecies ;
 
 c) De l'original ou d'une copie certifiée :
 
@@ -32,14 +32,10 @@ Du certificat de radiation de la francisation pour les autres bateaux.
 
 	  - CGI 298 sexies, 242 quaterdecies, 242 undecies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-878 du 25 juin 1993 - art. 1 (V) JORF 3 juillet 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 août 2003

@@ -1,7 +1,7 @@
 # Article 242 undecies
 
-Les factures ou documents en tenant lieu délivrés par les assujettis désignés au II de l'article 298 sexies du code général
-des impôts doivent comporter les éléments suivants :
+Les factures délivrées par les assujettis désignés au II de l'article 298 sexies du code général des impôts doivent comporter
+les éléments suivants :
 
 1° Le nom et l'adresse de l'assujetti qui effectue la livraison ;
 
@@ -47,14 +47,10 @@ de transport n'a pas déjà été mis en circulation, une mention selon laquelle
 
 	  - CGI 298 sexies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-878 du 25 juin 1993 - art. 1 (V) JORF 3 juillet 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 août 2003

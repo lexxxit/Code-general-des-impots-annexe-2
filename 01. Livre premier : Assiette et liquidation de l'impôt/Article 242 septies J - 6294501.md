@@ -1,8 +1,8 @@
 # Article 242 septies J
 
 Les remboursements prévus au III de l'article 242-0 C ne peuvent être obtenus que sur présentation, avec la demande déposée
-auprès du service local des impôts au cours du mois suivant le trimestre considéré, de la ou des factures ou des documents en
-tenant lieu qui mentionnent notamment la taxe déductible sur les immobilisations à l'origine du crédit.
+auprès du service local des impôts au cours du mois suivant le trimestre considéré, de la ou des factures qui mentionnent
+notamment la taxe déductible sur les immobilisations à l'origine du crédit.
 
 Les remboursements trimestriels ont un caractère provisionnel :
 
@@ -12,11 +12,11 @@ ils donnent lieu à régularisation lors du dépôt de la déclaration annuelle 
 
 	**Cite**:
 
-	  - CGI 242-0 C, 242 sexies, 242 septies A, 287
+	  - CGIAN2 242-0 C, 242 sexies, 242 septies A
 
 	**Modifié par**:
 
-	  - Décret n°99-545 1999-06-30 art. 132 JORF 1er juillet 1999
+	  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
 
 	**Cité par**:
 
@@ -24,4 +24,4 @@ ils donnent lieu à régularisation lors du dépôt de la déclaration annuelle 
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 août 2003
