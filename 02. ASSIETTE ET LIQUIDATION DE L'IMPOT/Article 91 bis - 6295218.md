@@ -1,55 +1,4 @@
-# Code général des impôts, annexe 2  
-Version Consolidée au 1971-01-03
-
-# Livre premier : Assiette et liquidation de l'impôt
-
-## Première partie : Impôts d'Etat
-
-### Titre premier : Impôts directs et taxes assimilées
-
-#### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
-
-##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger
-
-##### III : Dispositions communes.
-
-###### Article 125
-
-Les sociétés agréées en vertu de l'article 104 [*bénéfice mondial*] ou de l'article 113 [*bénéfice consolidé*] ne peuvent en
-aucun cas reporter sur leur résultat d'ensemble les déficits subis, selon le cas, par leurs exploitations directes ou par
-leurs exploitations directes et indirectes situées hors de France, au cours d'exercices antérieurs au premier exercice pour
-lequel ces sociétés bénéficient du régime attaché à l'un ou l'autre de ces agréments.
-
-Les déficits des exploitations indirectes situées en France sont pris en considération pour l'assiette du bénéfice consolidé
-dans la mesure où ils sont admis en déduction des bénéfices imposables des sociétés qui les ont subis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 104
-	  - CGIAN2 113
-
-	**Modifié par**:
-
-	  - Décret n°67-774 1967-09-11 ART. 2, ART. 11 JORF 16 SEPTEMBRE 1967
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-# ASSIETTE ET LIQUIDATION DE L'IMPOT
-
-## IMPOTS D'ETAT
-
-### IMPOTS DIRECTS
-
-#### IMPOT SUR LE REVENU
-
-##### REVENU GLOBAL.
-
-###### Article 91 bis
+# Article 91 bis
 
 Pour bénéficier de l'exonération prévue à l'article 163 bis C-I du code général des impôts les titulaires d'actions acquises
 dans les conditions prévues aux articles 208-1 à 208-8 de la loi n° 66-537 du 24 juillet 1966 (1) doivent souscrire un
@@ -89,5 +38,3 @@ intervenus soit la levée de l'option, soit la conversion ou le transfert, soit 
 	**Modifié par**:
 
 	  - Loi n°70-1322 du 31 décembre 1970 - art. 1 () JORF 3 janvier 1971
-
-
