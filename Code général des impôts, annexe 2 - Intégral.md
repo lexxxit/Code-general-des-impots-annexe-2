@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2004-07-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6951,15 +6951,20 @@ titre de la taxe d'apprentissage depuis le 1er janvier de l'année en cours.
 
 ###### Article 140 F
 
-Les demandes d'exonération sont transmises par le service des impôts au préfet qui en saisit le comité départemental de
-l'emploi.
+Les demandes d'exonération sont transmises par le service des impôts au préfet qui en saisit la commission départementale
+compétente en matière d'emploi et d'insertion.
 
-Ce comité est celui du département du lieu de dépôt de la déclaration.
+Cette commission est celle du département du lieu de dépôt de la déclaration.
 
 Toutefois, pour les personnes ou groupements de personnes mentionnés à l'article 1649 quater B quater du code général des
-impôts qui relèvent du service chargé des grandes entreprises, ce comité est celui du département du siège de la direction de
-l'entreprise ou, à défaut, du lieu du principal établissement. S'il s'agit d'un employeur passible de l'impôt sur les
-sociétés, le comité compétent est celui du département du lieu du principal établissement.
+impôts qui relèvent du service chargé des grandes entreprises, cette commission est celle du département du siège de la
+direction de l'entreprise ou, à défaut, du lieu du principal établissement. S'il s'agit d'un employeur passible de l'impôt
+sur les sociétés, la commission compétente est celle du département du lieu du principal établissement.
+
+**Nota:**
+
+Nota : La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30
+art. 3.
 
 **Liens relatifs à cet article**
 
@@ -6967,41 +6972,67 @@ sociétés, le comité compétent est celui du département du lieu du principal
 
 	  - CGI 1649 quater B quater
 
-	**Modifié par**:
-
-	  - Décret n°2003-403 du 29 avril 2003 - art. 1 () JORF 2 mai 2003
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2003
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
+	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
+	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-637 2004-07-01 art. 19 V 4°, art. 41 JORF 2 juillet 2004
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 140 G
 
-La décision du comité départemental est motivée. Le préfet notifie la décision à l'intéressé ainsi que, en cas de rejet, au
-service des impôts.
+La décision de la commission départementale compétente en matière d'emploi et d'insertion est motivée. Le préfet notifie la
+décision à l'intéressé ainsi que, en cas de rejet, au service des impôts.
+
+**Nota:**
+
+Nota : La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30
+art. 3.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2003-403 du 29 avril 2003 - art. 1 () JORF 2 mai 2003
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2003
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 31 août 2004
+	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
+	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 140 H
 
-L'intéressé peut, dans un délai de deux mois à compter de la notification, former un recours contre la décision du comité
-départemental devant la commission spéciale prévue à l'article 227 du code général des impôts.
+L'intéressé peut, dans un délai de deux mois à compter de la notification, former un recours contre la décision de la
+commission départementale compétente en matière d'emploi et d'insertion devant la commission spéciale prévue à l'article 227
+du code général des impôts.
 
-Le préfet peut également former un recours contre les décisions du comité départemental dans les deux mois suivant l'adoption
-de ces décisions.
+Le préfet peut également former un recours contre les décisions de la commission départementale compétente en matière
+d'emploi et d'insertion dans les deux mois suivant l'adoption de ces décisions.
 
-La commission spéciale connaît des décisions des comités départementaux lorsque le montant de l'exonération demandée en
-première instance est supérieur à 150 euros.
+La commission spéciale connaît des décisions des commissions départementales compétentes en matière d'emploi et d'insertion
+lorsque le montant de l'exonération demandée en première instance est supérieur à 150 euros.
+
+**Nota:**
+
+Nota : La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30
+art. 3.
 
 **Liens relatifs à cet article**
 
@@ -7009,14 +7040,21 @@ première instance est supérieur à 150 euros.
 
 	  - CGI 227
 
-	**Modifié par**:
-
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 31 août 2004
+	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
+	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-637 2004-07-01 art. 19 V 6°, 7° JORF 2 juillet 2004
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 140 I
