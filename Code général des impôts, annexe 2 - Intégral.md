@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-05-03
+Version Consolidée au 1983-05-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2315,6 +2315,205 @@ déclaration ou la demande de restitution a été déposée.
 	**Cite**:
 
 	  - CGI 199 ter I, II
+
+
+##### III : Réductions d'impôt
+
+##### Réduction d'impôt en faveur des contribuables titulaires d'un compte d'épargne en actions.
+
+###### Article 95 A
+
+Le bénéfice de la réduction d'impôt prévue à l'article 199 quinquies du code général des impôts est réservé aux contribuables
+qui ouvrent un compte d'épargne en actions à compter du 1er janvier 1983 [*date*].
+
+Sous réserve des dispositions de l'article 163 sexdecies du code précité, seules les valeurs énumérées à l'article 163 octies
+du même code peuvent être déposées sur ce compte.
+
+Il ne peut être ouvert qu'un compte par foyer fiscal au nom du contribuable ou de l'un des époux soumis à une imposition
+commune.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 octies
+	  - CGI 163 sexdecies
+	  - CGI 199 quinquies
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Modifié par**:
+
+	  - Loi n°82-1152 du 30 décembre 1982 - art. 20 (V) JORF 31 DECEMBRE 1982
+	  - Décret n°83-389 du 16 mai 1983 - art. 1 (V) JORF 17 MAI 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
+
+
+###### Article 95 C
+
+Pour les achats fermes et les souscriptions, la date d'effet de l'opération est celle du versement des fonds. En cas de
+versements échelonnés, ceux-ci sont pris en compte au titre de chacune des années ou de chacun des trimestres au cours
+desquels ils sont effectués.
+
+Les autres opérations ne sont retenues que si elles se concluent par l'entrée effective des valeurs dans le patrimoine de
+l'intéressé. La date d'effet est alors celle de la levée des titres.
+
+Le prix d'acquisition à retenir est égal aux sommes versées ou à la valeur de la créance abandonnée en contrepartie de la
+remise du titre ou au total de ces deux éléments. Il est majoré des frais inhérents à l'opération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°83-389 du 16 mai 1983 - art. 3 (V) JORF 17 mai 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+
+###### Article 95 E
+
+Lorsqu'une opération de constitution de société ou d'augmentation de capital n'est pas réalisée et que la souscription a été
+prise en compte conformément à l'article 95 C, le remboursement au souscripteur est assimilé à une cession à titre onéreux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 95 C
+
+	**Créé par**:
+
+	  - Décret n°83-389 du 16 mai 1983 - art. 5 (V) JORF 17 MAI 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
+
+
+###### Article 95 F
+
+Les virements de valeurs entre le compte d'épargne en actions et d'autres comptes appartenant aux membres du foyer fiscal
+sont assimilés, suivant le cas, à des achats ou à des cessions à titre onéreux. Ces virements ne peuvent porter que sur des
+valeurs acquises à titre onéreux.
+
+La date d'effet est celle du virement. Le prix à retenir est la valeur des titres au jour de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°83-389 du 16 mai 1983 - art. 6 (V) JORF 17 MAI 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
+
+
+###### Article 95 G
+
+Le dépôt prévu à l'article 199 quinquies C du code général des impôts doit être effectué au plus tard le jour de l'ouverture
+du compte d'épargne en actions.
+
+Les valeurs qui viennent à entrer dans le champ d'application de l'article 163 octies du même code doivent être déposées dans
+un délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 octies
+	  - CGI 199 quinquies C
+
+	**Créé par**:
+
+	  - Décret n°83-389 du 16 mai 1983 - art. 7 (V) JORF 17 MAI 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
+
+
+###### Article 95 H
+
+Les règles énoncées aux articles 75-0 F, 75-0 G, 75-0 H et 75-0 N relatifs à la détaxation du revenu investi en actions sont
+applicables au régime du compte d'épargne en actions.
+
+Toutefois, le délai prévu au dernier alinéa de l'article 75-0 H est porté à cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 75-0 F
+	  - CGIAN2 75-0 G
+	  - CGIAN2 75-0 H AL. DERNIER
+	  - CGIAN2 75-0 N
+
+	**Créé par**:
+
+	  - Décret n°83-389 du 16 mai 1983 - art. 8 (V) JORF 17 MAI 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
+
+
+###### Article 95 I
+
+La déclaration prévue à l'article 199 quinquies F, deuxième alinéa, du code général des impôts est établie sur un imprimé
+fourni par l'administration et souscrite en même temps que la déclaration de revenus de chacune des années au titre
+desquelles la réduction d'impôt est demandée ou durant lesquelles l'obligation de dépôt subsiste. Elle comprend la liste des
+intermédiaires agréés dépositaires avec, le cas échéant, les numéros des comptes concernés et les renseignements prévus au
+premier alinéa du même article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 quinquies F AL. 2
+
+	**Créé par**:
+
+	  - Décret n°83-389 du 16 mai 1983 - art. 9 (V) JORF 17 MAI 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
 
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
@@ -13721,6 +13920,114 @@ des intérêts de retard ou majorations visés aux articles 1728, 1729 et 1733 d
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 95 B
+
+Les intermédiaires agréés mentionnés aux articles 199 quinquies et 199 quinquies C du code général des impôts sont :
+
+1° Les agents de change ;
+
+La banque française du commerce extérieur ;
+
+La banque de France ;
+
+Les banques inscrites ;
+
+La caisse centrale des banques populaires et les banques populaires agréés par elle ;
+
+La caisse centrale de crédit coopératif ;
+
+La caisse centrale du crédit mutuel et les caisses fédérales du crédit mutuel ;
+
+La caisse des dépôts et consignations pour ses opérations et pour celles des caisses d'épargne réalisées dans le cadre de
+leurs statuts ;
+
+La caisse nationale de crédit agricole et les caisses régionales de crédit agricole mutuel ;
+
+Le crédit foncier communal d'Alsace et de Lorraine ;
+
+Le crédit foncier de France ;
+
+Les établissements financiers autorisés à effectuer des opérations sur titres ;
+
+2° Les entreprises gérant des valeurs acquises dans le cadre de la législation sur les plans d'épargne d'entreprise ou de
+l'actionnariat des salariés ;
+
+Les sociétés dont les actions ne sont pas cotées ou ne sont pas assimilées à des actions cotées pour la souscription de
+celles-ci ;
+
+Les sociétés à responsabilité limitée pour la souscription de leurs parts ;
+
+Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ;
+
+Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 de la loi n°
+66-537 du 24 juillet 1966 sur les sociétés commerciales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 quinquies
+	  - CGI 199 quinquies C
+	  - Loi n°66-537 1966-07-24 ART. 95, ART. 130
+
+	**Créé par**:
+
+	  - Décret n°83-389 1983-05-16 ART. 2 JORF 17 MAI 1983
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+
+###### Article 95 D
+
+Pour les ventes fermes, la date d'effet de l'opération est celle de l'encaissement du prix de vente. En cas de versements
+échelonnés, il est fait application de la règle prévue à l'article 95 C.
+
+Les autres opérations ne sont prises en compte que si elles se concluent par la sortie effective de valeurs du patrimoine du
+cédant. La date est alors celle de la livraison des titres.
+
+Le prix de vente est diminué des frais inhérents à l'opération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 95 C
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°83-389 du 16 mai 1983 - art. 4 (V) JORF 17 MAI 1983
+
+
+###### Article 95 J
+
+L'intermédiaire agréé chez lequel le compte d'épargne en actions a été ouvert ainsi que les intermédiaires agréés
+dépositaires de valeurs mentionnées à l'article 199 quinquies C du code général des impôts doivent adresser à la direction
+des services fiscaux du lieu de l'établissement, avant le 16 février [*date limite*] de chaque année, un état individuel
+établi d'après un modèle fixé par l'administration.
+
+Dans le même délai, il est remis au contribuable duplicata des renseignements figurant sur cet état.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 quinquies C
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°83-389 du 16 mai 1983 - art. 10 (V) JORF 17 MAI 1983
 
 
 #### IMPOTS SUR LE REVENU
