@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-05-18
+Version Consolidée au 1985-07-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5283,7 +5283,7 @@ Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 2
 impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la participation pour leur montant brut, avant déduction
-des retenues, cotisations et contributions visées à l'article 83-1° à 2° ter du code général des impôts.
+des cotisations et contributions visées à l'article 83-1° à 2° ter du code général des impôts.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de professions qui bénéficient, en vertu de l'article
 83-3o, troisième alinéa, du code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant de
@@ -5307,17 +5307,13 @@ l'article 82, deuxième alinéa, du code général des impôts.
 	  - CGI 83 1° A 2° ter
 	  - CGI 83 3° AL. 3
 
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 art. 1
-
 	**Modifié par**:
 
-	  - Ordonnance 82-290 1982-03-30 art. 4 JORF 31 mars 1982
+	  - Loi n°85-695 du 11 juillet 1985 - art. 17 () JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 163 nonies
@@ -11499,6 +11495,33 @@ préfecture de police.
 
 ##### II : Taxe sur les véhicules des sociétés
 
+###### Article 310 C
+
+La taxe sur les véhicules des sociétés est due sans préjudice de la perception de la taxe prévue à l'article 1599 C du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 C
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
 ###### Article 310 D
 
 Sont exonérés de la taxe sur les véhicules des sociétés prévue à l'article 1010 du code général des impôts, les véhicules
@@ -13010,6 +13033,42 @@ modalités fixées par arrêté du ministre chargé du budget (1).
 	**Liens**:
 
 	  - HISTO: Edition du 20 juillet 1984
+
+
+###### Article 317 nonies
+
+La taxe différentielle sur les véhicules à moteur perçue en application de l'article 1599 C du code général des impôts est
+applicable aux véhicules automobiles mentionnés au titre II du livre Ier du code de la route (deuxième partie) et
+immatriculés sur le territoire métropolitain et dans les départements d'outre-mer.
+
+Toutefois, sont dispensés de la taxe, dans les conditions déterminées par un arrêté du ministre chargé du budget, les
+véhicules dont les propriétaires bénéficient de privilèges diplomatiques ou qui ont fait l'objet d'une admission à titre
+temporaire en franchise d'impôt (1).
+
+(1) Annexe IV, art. 155 K et 155 L. Pour les autres véhicules dispensés de la taxe différentielle, voir art. 1599 D du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 C, 1599 D
+	  - CGIAN4 155 K, 155 L
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 
 ###### Article 317 undecies
@@ -17165,31 +17224,6 @@ imposables, les tabacs destinés à l'exportation et les tabacs dits "de vente r
 	  - HISTO: EDITION 1979-07-01
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE
-
-#### AUTRES DROITS ET TAXES.
-
-###### Article 310 C
-
-La taxe sur les véhicules des sociétés est due sans préjudice de la perception de la taxe prévue soit au a *taxe
-différentielle sur les véhicules à moteur*, soit au b *taxe spéciale annuelle sur les véhicules d'une puissance supérieure à
-16 CV* de l'article 1599 C du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 C
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
 
 ### IMPOSITIONS COMMUNALES
@@ -17472,129 +17506,6 @@ l'article 1478 du code général des impôts, une cessation d'activité suivie d
 
 ### IMPOSITIONS DEPARTEMENTALES
 
-###### Article 317 nonies
-
-La taxe différentielle sur les véhicules à moteur perçue en application de l'article 1599 C-a du code général des impôts est
-applicable aux véhicules automobiles mentionnés au titre II du livre Ier du code de la route (deuxième partie) et
-immatriculés sur le territoire métropolitain et dans les départements d'outre-mer [*DOM*].
-
-Toutefois, sont dispensés de la taxe, dans les conditions déterminées par un arrêté du ministre chargé du budget, les
-véhicules dont les propriétaires bénéficient de privilèges diplomatiques ou qui ont fait l'objet d'une admission à titre
-temporaire en franchise d'impôt (1).
-
-(1) Annexe IV, art. 155 K et 155 L. Pour les autres véhicules dispensés de la taxe différentielle, voir art. 1599 D du code
-général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 C a
-	  - CGI 1599 D
-	  - CGIAN4 155 K
-	  - CGIAN4 155 L
-
-	**Créé par**:
-
-	  - Décret n°56-875 1956-07-03 art. 1 JORF 4 septembre 1956
-	  - Loi n°81-734 1981-08-03 art. 9 JORF 4 août 1981
-	  - Loi n°83-1179 1983-12-29 art. 24 JORF 30 décembre 1983 Finances pour 1984
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-
-###### Article 317 quaterdecies
-
-La taxe différentielle [*vignette*] établie par les articles 317 nonies à 317 duodecies ne se cumule pas avec la taxe
-mentionnée à l'article 317 terdecies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 317 decies
-	  - CGIAN2 317 duodecies
-	  - CGIAN2 317 nonies
-	  - CGIAN2 317 terdecies
-	  - CGIAN2 317 undecies
-
-	**Créé par**:
-
-	  - Décret n°56-876 1956-09-03 art. 3 JORF 4 septembre 1956
-	  - Décret n°81-860 du 15 septembre 1981 - art. 3 () JORF 18 septembre 1981
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-	  - Décret n°85-1007 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985, dispositions devenues sans objet
-
-
-###### Article 317 sexdecies
-
-Les dispositions des articles 1840 N quater du code général des impôts et des articles 317 undecies et 317 duodecies sont
-applicables à la taxe prévue à l'article 317 terdecies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1840 N quater
-	  - CGIAN2 317 duodecies
-	  - CGIAN2 317 terdecies
-	  - CGIAN2 317 undecies
-
-	**Créé par**:
-
-	  - Décret n°56-876 1956-09-03 art. 5 JORF 4 septembre 1956
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-	  - Décret n°85-1007 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985 : la taxe spéciale est supprimée
-
-
-###### Article 317 terdecies
-
-Sont exclus du champ d'application de la taxe annuelle sur les véhicules d'une puissance fiscale supérieure à 16 CV instituée
-par l'article 1599 C-b du code général des impôts, les véhicules dispensés de la taxe différentielle par l'article 317
-nonies, deuxième alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 C b
-	  - CGIAN2 317 nonies al. 2
-
-	**Créé par**:
-
-	  - Décret n°56-876 1956-09-03 art. 1 JORF 4 septembre 1956
-	  - Loi n°72-1121 1972-12-20 art. 16 JORF 21 décembre 1972
-	  - Loi n°76-978 du 29 octobre 1976 - art. 4 (V) JORF 31 octobre 1976
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-	  - Décret n°85-1007 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985 : la taxe spéciale est supprimée
-
-
 #### IMPOTS DIRECTS ET TAXES ASSIMILEES.
 
 ###### Article 317 octies
@@ -17615,39 +17526,6 @@ Les taux de la redevance départementale des mines sont calculés conformément 
 	**Codifié par**:
 
 	  - Décret n°84-875 1984-10-01
-
-
-### IMPOSITIONS LOCALES
-
-###### Article 317 quindecies
-
-Sont exonérés de la taxe :
-
-1° Les véhicules mentionnés à l'article 317 decies-2° à 5° ;
-
-2° Les voitures de grande remise régies par le décret n° 55-961 du 15 juillet 1955.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 317 decies 2° 3° 4° 5°
-	  - Décret n°55-961 1955-07-15
-
-	**Créé par**:
-
-	  - Décret n°56-876 1956-09-03 art. 4 JORF 4 septembre 1956
-	  - Loi n°78-1239 du 29 décembre 1978 - art. 31 (P) JORF 30 décembre 1978
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-	  - Décret n°85-1007 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985, dispositions devenues sans objet
 
 
 ### IMPOSITIONS REGIONALES
@@ -17685,11 +17563,8 @@ jour de la période d'imposition.
 
 ###### Article 317 septdecies
 
-Les dispositions des articles 317 nonies et 317 decies et des articles 317 duodecies à 317 sexdecies sont applicables à la
-taxe différentielle sur les véhicules à moteur et à la taxe spéciale sur les voitures particulières d'une puissance fiscale
-supérieure à 16 CV perçues au profit de la région de Corse (1).
-
-(1) Voir également Annexe IV, art. 155 N.
+Les dispositions des articles 317 nonies, 317 decies et 317 duodecies sont applicables à la taxe différentielle sur les
+véhicules à moteur perçue au profit de la région de Corse.
 
 **Liens relatifs à cet article**
 
@@ -17698,19 +17573,18 @@ supérieure à 16 CV perçues au profit de la région de Corse (1).
 	  - CGIAN2 317 decies
 	  - CGIAN2 317 duodecies
 	  - CGIAN2 317 nonies
-	  - CGIAN2 317 quaterdecies
-	  - CGIAN2 317 quindecies
-	  - CGIAN2 317 sexdecies
-	  - CGIAN2 317 terdecies
-	  - CGIAN4 155 N
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 318
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°85-1007 1985-09-24
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-1179 1983-12-29 art. 26 Finances pour 1984 JORF 30 décembre 1983
+	  - Loi n°85-695 1987-07-11 art. 18 I JORF 12 juillet 1985) T(Décret 87-940 1987-11-23 JORF 26 novembre 1987 en vigueur le 10 août 1987
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS.
@@ -17753,7 +17627,7 @@ métayers, dans les rôles auxiliaires prévus à l'article 1660 du code génér
 
 En exécution de l'article 1607 du code général des impôts, sont applicables à la taxe spéciale d'équipement :
 
-1° Les dispositions des articles 1390, premier alinéa, et 1414 dudit code (1);
+1° Les dispositions des articles 1390, premier alinéa, 1414 et 1414 A dudit code (1);
 
 2° Les dispositions des chapitres Ier à IV du livre II du même code relatives au recouvrement des contributions directes.
 
@@ -17765,15 +17639,20 @@ prévoyait.
 
 	**Cite**:
 
-	  - CGI 1390 AL. 1
+	  - CGI 1390 al. 1
 	  - CGI 1398 bis
 	  - CGI 1414
+	  - CGI 1414 A
 	  - CGI 1607
 	  - CGI 1657 A CGI 1929 quinquies
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°85-1007 1985-09-24
+
+	**Modifié par**:
+
+	  - Loi n°86-695 1985-07-11 art. 34 JORF 12 juillet 1985
 
 
 ###### Article 324 bis
@@ -18799,16 +18678,11 @@ et à l'orientation de la production cidricole.
 ###### Article 359
 
 Sont soumis à la taxe prévue à l'article 358 les produits suivants : pommes et poires destinées à la fabrication de produits
-cidricoles, moûts de pommes et de poires, cidres et poirés, calvados, eaux-de-vie de cidre et de poiré et alcools de cidre et
-de poiré réservés à l'Etat.
+cidricoles, moûts de pommes et de poires, cidres et poirés, calvados, eaux-de-vie de cidre et de poiré.
 
 La taxe est perçue dans les départements suivants : Aisne, Calvados, Côtes-du-Nord, Eure, Eure-et-Loir, Finistère, Ille-et-
 Vilaine, Loire-Atlantique, Loiret, Maine-et-Loire, Manche, Mayenne, Morbihan, Oise, Orne, Sarthe, Seine-Maritime, Seine-et-
 Marne, Somme et Yonne.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
 
 **Liens relatifs à cet article**
 
@@ -18816,13 +18690,13 @@ Marne, Somme et Yonne.
 
 	  - CGI 358
 
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
 	**Modifié par**:
 
-	  - Décret n°82-1213 du 30 décembre 1982 - art. 2 (P) JORF 4 JANVIER 1983
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ###### Article 361
@@ -18835,16 +18709,10 @@ Le taux maximum de la taxe est fixé à :
 
 20 F par hectolitre d'alcool pur pour le calvados et les eaux-de-vie de cidre et de poiré;
 
-20 F par hectolitre d'alcool pur pour les alcools de cidre et de poiré réservés à l'Etat.
-
 Un arrêté du ministre de l'économie et des finances, du ministre chargé du budget et du ministre de l'agriculture fixe dans
 la limite de ce taux maximum le taux applicable (1).
 
 (1) Annexe IV, art. 159 AM.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
 
 **Liens relatifs à cet article**
 
@@ -18852,13 +18720,13 @@ la limite de ce taux maximum le taux applicable (1).
 
 	  - CGIAN4 159 AM
 
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
 	**Modifié par**:
 
-	  - Décret n°82-1213 du 30 décembre 1982 - art. 5 (P) JORF 4 JANVIER 1983
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ###### Article 363 A

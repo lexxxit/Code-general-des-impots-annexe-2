@@ -8,7 +8,7 @@ Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 2
 impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la participation pour leur montant brut, avant déduction
-des retenues, cotisations et contributions visées à l'article 83-1° à 2° ter du code général des impôts.
+des cotisations et contributions visées à l'article 83-1° à 2° ter du code général des impôts.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de professions qui bénéficient, en vertu de l'article
 83-3o, troisième alinéa, du code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant de
@@ -32,14 +32,10 @@ l'article 82, deuxième alinéa, du code général des impôts.
 	  - CGI 83 1° A 2° ter
 	  - CGI 83 3° AL. 3
 
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 art. 1
-
 	**Modifié par**:
 
-	  - Ordonnance 82-290 1982-03-30 art. 4 JORF 31 mars 1982
+	  - Loi n°85-695 du 11 juillet 1985 - art. 17 () JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
