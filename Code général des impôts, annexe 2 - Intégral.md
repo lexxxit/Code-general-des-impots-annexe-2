@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1992-01-12
+Version Consolidée au 1992-01-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17090,15 +17090,24 @@ La valeur locative des propriétés non bâties est déterminée à la date du 1
 Dans le département de la Guyane, les travaux d'évaluation ne sont pas effectués pour les propriétés domaniales qui ne sont
 ni concédées, ni exploitées.
 
+Il en est de même pour les terrains cédés aux communes en application des dispositions du 3° de l'article L. 91-2 du code du
+domaine de l'Etat qui ne sont ni concédés ni exploités, tant qu'ils sont exonérés en application des dispositions des
+articles 1394 et 1599 ter B du code général des impôts.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CGIAN2 327 T
+	  - CGI 1394, 1599 ter B
+	  - Code du domaine de l'Etat - art. L91-2 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-46 du 16 janvier 1992 - art. 15 () JORF 17 janvier 1992
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### V : Dispositions transitoires
