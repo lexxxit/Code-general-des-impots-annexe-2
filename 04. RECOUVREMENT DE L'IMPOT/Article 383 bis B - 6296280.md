@@ -1,8 +1,8 @@
 # Article 383 bis B
 
-En application de l'article R 960-31 du code du travail, les excédents de fonds mentionnés à l'article 235 ter HB du code
+En application de l'article R 964-8 du code du travail, les excédents de fonds mentionnés à l'article 235 ter HB du code
 général des impôts et non utilisés au 31 décembre d'un exercice déterminé dans les conditions prévues au deuxième alinéa de
-l'article R 960-31 précité, sont reversés au trésor avant le 30 juin de l'année suivante, accompagnés d'un bordereau
+l'article R 964-8 précité, sont reversés au trésor avant le 30 juin de l'année suivante, accompagnés d'un bordereau
 indiquant, outre la désignation et l'adresse du déclarant, le montant de l'excédent à reverser. Ce bordereau doit être remis
 à la recette des impôts du siège du fonds d'assurance-formation.
 
@@ -18,12 +18,13 @@ du travail.
 
 	  - CGI 235 ter HB
 	  - CGIAN2 163 quindecies
-	  - Code du travail R960-31 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
+	  - Code du travail - art. R964-8 (M)
+	  - Code du travail L961-9 AL. 2
 
 	**Modifié par**:
 
-	  - Loi n°84-130 1984-02-24 art. 11 JORF 25 février 1984
+	  - Décret n°84-738 1984-07-17 art. 17 JORF 29 juillet 1984, entrée en vigueur le 1er juillet 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
