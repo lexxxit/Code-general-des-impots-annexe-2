@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1993-05-16
+Version Consolidée au 1993-07-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12278,14 +12278,18 @@ date de l'opération et le prix de vente.
 Elle est appuyée :
 
 - soit d'un certificat délivré par un officier ministériel attestant que l'objet a été acquis dans une vente publique, et
-mentionnant la date et le prix payé,     - soit d'une facture régulière délivrée par un commerçant résidant en France,     -
-soit d'une facture délivrée par un particulier et visée par la recette des impôts ayant encaissé la taxe,     - soit, lorsque
-l'objet a été acquis par voie de succession ou de donation, d'un extrait de la déclaration ayant servi de base à la
-liquidation des droits de mutation et mentionnant le bien concerné.
+mentionnant la date et le prix payé,
 
-L'acceptation de l'option par l'administration est notifiée en double exemplaire au vendeur qui remet l'un d'eux à la
-personne tenue au paiement de la taxe. Celle-ci se trouve de ce fait déchargée du paiement et conserve cette pièce à l'appui
-de sa propre comptabilité. L'option exercée est irrévocable.
+- soit d'une facture régulière délivrée par un commerçant résidant en France,
+
+- soit d'une facture délivrée par un particulier et visée par la recette des impôts ayant encaissé la taxe,
+
+- soit, lorsque l'objet a été acquis par voie de succession ou de donation, d'un extrait de la déclaration ayant servi de
+base à la liquidation des droits de mutation et mentionnant le bien concerné.
+
+L'acceptation de l'option par l'administration est notifiée en double exemplaire au vendeur. Le cas échéant, celui-ci remet
+l'un d'eux à la personne tenue au paiement de la taxe qui conserve cette pièce à l'appui de sa propre comptabilité. Le
+redevable de la taxe se trouve de ce fait déchargé du paiement. L'option exercée est irrévocable.
 
 Lorsqu'un exportateur se trouvant dans la situation prévue au second alinéa de l'article 302 bis C du code général des impôts
 a acquis le bien auprès d'une personne qui a exercé l'option, la présentation par cet exportateur de la déclaration d'option
@@ -12298,9 +12302,21 @@ visée par les services fiscaux vaut justification du paiement de la taxe.
 	  - CGI 302 bis C AL. 2
 	  - CGI 302 bis E
 
+	**Nouveaux textes**:
+
+	  - CGIAN2 74 S ter
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article transféré sous l'article 74 S ter, édition du 18 août 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition 1979-07-01
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
@@ -21226,15 +21242,18 @@ En cas d'excédent de versements, celui-ci est imputé sur les sommes ultérieur
 
 ###### Article 383 quater
 
-I  Le versement de la taxe prévue à l'article 302 bis A du code général des impôts s'opère [*lieu*] :
+I. - Le versement de la taxe prévue à l'article 302 bis A du code général des impôts est opéré :
 
-- à la recette des impôts normalement compétente pour la perception des taxes sur le chiffre d'affaires, si la taxe est due
-par un intermédiaire ou un acheteur agissant dans le cadre de son activité professionnelle;
+a) A la recette des impôts compétente pour la perception des taxes sur le chiffre d'affaires, si la taxe est due par un
+intermédiaire ou un acheteur agissant dans le cadre de son activité professionnelle ;
 
-- à la recette des impôts dont relève le domicile de l'acheteur, et dans les trente jours [*délai*], en cas d'achat direct
-par un particulier;
+b) A la recette des impôts dont relève le domicile de l'acheteur, et dans les trente jours, en cas d'achat direct par un
+particulier ;
 
-- à la recette des douanes s'il s'agit d'une exportation.
+c) A la recette des impôts dont relève le domicile du vendeur en cas de vente dans un autre Etat membre de la Communauté
+économique européenne ;
+
+d) A la recette des douanes s'il s'agit d'une exportation.
 
 II  Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires ou comme en
 matière de droits de douane, suivant le comptable compétent.
@@ -21245,9 +21264,17 @@ matière de droits de douane, suivant le comptable compétent.
 
 	  - CGI 302 bis A
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - CGIAN2 383 bis E
+
+	**Modifié par**:
+
+	  - Décret n°93-931 du 19 juillet 1993 - art. 1 () JORF 22 juillet 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
 
 
 ### Section III : Enregistrement, publicité foncière, timbre
