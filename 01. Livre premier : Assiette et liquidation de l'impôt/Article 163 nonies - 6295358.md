@@ -1,13 +1,13 @@
 # Article 163 nonies
 
-Sont considérés comme occupant au minimum dix salariés, au sens de l'article 235 ter C du code général des impôts, les
+Sont considérés comme occupant au minimum dix salariés, au sens de l'article 235 ter D du code général des impôts, les
 employeurs occupant des salariés dont le nombre mensuel moyen est au moins égal à dix pendant l'année ou la fraction d'année
 où l'activité est exercée.
 
 Toutefois, ceux de ces employeurs occupant des salariés d'une manière intermittente ou travaillant à domicile ne sont soumis
 à l'obligation de participer que si le montant total des salaires versés pendant l'année est au moins égal à 120 fois le
-salaire mensuel minimum de croissance [*SMIC*]. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année
-considérée, au prorata du nombre de mois pendant lesquels l'activité est exercée.
+salaire mensuel minimum de croissance. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année considérée,
+au prorata du nombre de mois pendant lesquels l'activité est exercée.
 
 Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail entre en compte dans l'effectif du
 personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat et la durée légale de
@@ -18,13 +18,17 @@ d'établissement où il est employé.
 
 	**Cite**:
 
-	  - CGI 235 ter C
+	  - CGI 235 ter D
 	  - Code du travail - art. L212-4-2 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Décret n°81-540 du 12 mai 1981 - art. 3 () JORF 15 MAI 1981
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°92-836 1992-08-27

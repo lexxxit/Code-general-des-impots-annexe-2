@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1992-05-27
+Version Consolidée au 1992-07-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -94,6 +94,63 @@ de la dotation antérieure qui a été rapportée au bénéfice imposable.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 16 F (V)
+
+
+###### Article 16 E
+
+Pour la détermination du bénéfice technique défini au IV de l'article 39 quinquies GA du code général des impôts : 
+
+a) Le montant des primes acquises au cours de l'exercice, diminuées des dotations aux provisions légalement constituées,
+correspond aux primes de l'exercice nettes d'annulation et diminuées de la dotation aux provisions de primes autres que la
+provision pour égalisation ; 
+
+b) La ventilation des charges autres que les frais directement imputables à la branche assurance-crédit est effectuée selon
+les modalités fixées par le plan comptable de l'assurance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-879 du 6 septembre 1991 - art. 1 (V) JORF 8 septembre 1991
+	  - Décret n°91-879 du 6 septembre 1991 - art. 2 (V) JORF 8 septembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 quinquies GA (V)
+
+
+###### Article 16 F
+
+Les dispositions des articles 16 C et 16 D s'appliquent aux provisions constituées par les entreprises d'assurances et de
+réassurances en vertu de l'article 39 quinquies GA du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-879 du 6 septembre 1991 - art. 1 (V) JORF 8 septembre 1991
+	  - Décret n°91-879 du 6 septembre 1991 - art. 2 (V) JORF 8 septembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 16 C (V)
+	  - Code général des impôts, CGI. - art. 39 quinquies GA (V)
 
 
 ##### 5 : Provision pour investissement en faveur des entreprises de presse
@@ -595,12 +652,12 @@ l'accueil, tenir compte de l'état de la personne accueillie ou aider celle-ci �
 
 ###### Article 39 A
 
-La limite de 150.000 F indiquée à l'article 92 B du code général des impôts s'entend de la moyenne des cessions de l'année
-considérée et des deux années précédentes dans les cas suivants :
+La limite de 150.000 F indiquée au I de l'article 92 B du code général des impôts s'entend de la moyenne des cessions de
+l'année considérée et des deux années précédentes dans les cas suivants :
 
 1° Licenciement du contribuable ou de l'un des époux soumis à une imposition commune ; bénéficient de cette disposition les
 personnes qui se trouvent privées d'activité professionnelle pour des raisons indépendantes de leur volonté et sont inscrites
-comme demandeurs d'emploi à l'agence nationale pour l'emploi;
+comme demandeurs d'emploi à l'agence nationale pour l'emploi ;
 
 2° Départ à la retraite ou en préretraite du contribuable ou de l'un des époux soumis à une imposition commune, sous réserve
 que l'intéressé ne poursuive ou ne reprenne aucune activité professionnelle ; les personnes qui partent à la retraite ne
@@ -609,11 +666,11 @@ bénéficient de la mesure que lorsqu'elles n'en ont pas déjà obtenu l'applica
 3° Survenance d'une invalidité affectant le contribuable ou l'un des époux soumis à une imposition commune ou un enfant à
 charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L 341-4
 du code de la sécurité sociale et ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et de
-l'aide sociale;
+l'aide sociale ;
 
 4° Décès du contribuable ou de l'un des époux soumis à une imposition commune ;
 
-5° Divorce ou séparation de corps;
+5° Divorce ou séparation de corps ;
 
 6° Redressement judiciaire ou liquidation de biens du contribuable ou de l'un des époux soumis à une imposition commune ;
 
@@ -629,14 +686,17 @@ portefeuille.
 	  - Code de la famille et de l'aide sociale. - art. 173 (M)
 	  - Code de la sécurité sociale. - art. L341-4 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Cf. : décret 85-494 1985-05-06 art. 1 JORF 11 mai 1985
-
 	**Modifié par**:
 
-	  - Loi n°85-98 1985-01-25 art. 233 JORF 26 janvier 1985
-	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+	  - Loi n°91-716 du 26 juillet 1991 - art. 24 (V) JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### II bis : Bénéfices non commerciaux
@@ -959,30 +1019,33 @@ des revenus mis en paiement.
 
 ###### Article 50 A
 
-Pour l'application de l'article 238 septies B du code général des impôts, le prélèvement prévu à l'article 125 A du même code
-est opéré à la date anniversaire du titre.
+Pour l'application des I à III de l'article 238 septies B du code général des impôts, le prélèvement prévu à l'article 125 A
+du même code est opéré à la date anniversaire du titre. 
 
 Ce prélèvement est pratiqué par la personne chez laquelle les titres ou droits correspondants sont déposés sur le compte
-approvisionné par le contribuable à cet effet.
+approvisionné par le contribuable à cet effet. 
 
 La personne qui pratique le prélèvement est tenue de déclarer à l'administration l'identité, l'adresse des bénéficiaires
 ainsi que les sommes versées pour le compte de chacun d'eux.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 125 A
-	  - CGI 238 septies B
-
-	**Créé par**:
-
-	  - Décret n°86-90 du 21 janvier 1986 - art. 1 (V) JORF 22 janvier 1986
-	  - Décret n°86-90 du 21 janvier 1986 - art. 2 (V) JORF 22 janvier 1986
+	  - Loi - art. 57 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 125 A (V)
+	  - Code général des impôts, CGI. - art. 238 septies B (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### 4 : Emission d'obligations en France par les organismes étrangers ou internationaux. Régime spécial des titres émis avant le 1er janvier 1987
@@ -1717,28 +1780,31 @@ l'impôt, le solde restant dû, augmenté de l'intérêt couru, est exigible imm
 	  - Décret n°86-1086 1986-10-07
 
 
-##### V bis : Dispositions communes
+##### VII : Dispositions communes
+
+##### 1 : Conditions d'exonération des contrats de location ou sous-location de logements.
 
 ###### Article 74 T
 
-Pour l'application des dispositions du I de l'article 15 bis, des premier et deuxième alinéas du III de l'article 35 bis, du
-premier alinéa de l'article 92 L du code général des impôts, les logements doivent répondre aux normes minimales suivantes :
+Pour l'application des dispositions du I de l'article 15 bis, de l'article 15 ter, des premier et deuxième alinéas du III de
+l'article 35 bis, du premier alinéa de l'article 92 L du code général des impôts, les logements doivent répondre aux normes
+minimales suivantes :
 
 a) Avoir une surface habitable d'au moins 9 mètres carrés pour une personne seule et de 7 mètres carrés par personne
 supplémentaire ;
 
 b) Comporter :
 
-1  Un poste d'eau potable ;
+1. Un poste d'eau potable ;
 
-2  Des moyens d'évacuation des eaux usées ;
+2. Des moyens d'évacuation des eaux usées ;
 
-3  Un w.-c. particulier dans les maisons individuelles ou un w.-c. commun situé à l'étage ou au demi-étage dans les immeubles
+3. Un w.-c. particulier dans les maisons individuelles ou un w.-c. commun situé à l'étage ou au demi-étage dans les immeubles
 collectifs ;
 
-4  Un w-c collectif situé à l'étage ou au demi-étage pour une chambre isolée ;
+4. Un w-c collectif situé à l'étage ou au demi-étage pour une chambre isolée ;
 
-5  Un des moyens de chauffage définis à l'article 12 du décret n° 68-976 du 9 novembre 1968.
+5. Un des moyens de chauffage définis à l'article 12 du décret n° 68-976 du 9 novembre 1968.
 
 Ces conditions sont présumées remplies, sauf preuve contraire, pour les logements construits après le 1er septembre 1948 et
 qui ont obtenu un certificat de conformité ainsi que pour les logements appartenant à un organisme d'habitations à loyers
@@ -1748,16 +1814,21 @@ modéré.
 
 	**Cite**:
 
-	  - CGI 92 L, 15 bis, 35 bis
+	  - CGI 92 L, 15 bis, 15 ter, 35 bis
 	  - Décret n°68-976 du 9 novembre 1968 - art. 12 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°90-782 du 3 septembre 1990 - art. 1 (V) JORF 6 septembre 1990
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 16 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°93-1127 1993-09-24
 
 
 ##### Section II : Revenu global
@@ -4691,264 +4762,6 @@ liste vaut indication expresse au sens de l'article 1732 du même code.
 
 ##### II : Régime du bénéfice consolidé
 
-###### Article 114
-
-1. Pour l'application des articles 113 à 123, les exploitations directes [*définition*] s'entendent des succursales, bureaux,
-comptoirs, usines et installations permanentes de toute nature n'ayant pas une personnalité juridique distincte et dans
-lesquels la société ou la personne morale agréée exerce tout ou partie de son activité.
-
-Les exploitations indirectes [*définition*] sont les parts d'intérêts possédées par la société ou la personne morale agréée
-dans des sociétés en participation, des sociétés de personnes et des personnes morales assimilées, ainsi que les
-participations que la société ou la personne morale agréée détient dans des sociétés de capitaux placées sous son contrôle.
-
-2. Sont considérées comme placées sous le contrôle d'une société ou d'une personne morale agréée [*définition*] les sociétés
-de capitaux françaises ou étrangères dans les organes délibérants desquelles la société ou personne morale agréée détient ou
-vient à acquérir 50 % [*pourcentage de participation*] au moins des droits de vote, directement ou indirectement.
-
-Pour l'application de l'alinéa précédent, l'appréciation des droits détenus par l'intermédiaire d'entités consolidables
-s'opère en multipliant successivement, quel que soit le degré de filiation, les pourcentages détenus par chaque société mère.
-
-3. Par dérogation à la règle fixée au 2, un pourcentage inférieur à 50 % peut être retenu lorsque la détention d'une
-participation égale ou supérieure à 50 % est interdite par la législation interne de l'Etat dans lequel la société contrôlée
-est implantée, lorsqu'elle résulte d'accords intervenus entre la France et cet Etat ou lorsqu'elle est imposée par la nature
-même de l'activité du groupe des sociétés contrôlées.
-
-4. La société agréée et ses diverses exploitations indirectes doivent ouvrir et clore leurs exercices aux mêmes dates.
-
-5. Les exploitations indirectes situées en France dont 95 % au moins du capital est détenu directement ou indirectement par
-la société agréée au titre de l'article 209 quinquies du code général des impôts sont assimilées à des exploitations directes
-pour l'assiette des impôts établis sur la réalisation et la distribution de leurs bénéfices lorsqu'elles répondent aux
-conditions définies au deuxième alinéa de l'article 209 sexies du même code (1).
-
-(1) Disposition s'appliquant pour la détermination des résultats des exercices couverts par une décision d'agrément
-intervenue postérieurement au 29 avril 1977.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 quinquies
-	  - CGI 209 sexies
-	  - CGIAN2 113
-	  - CGIAN2 114
-	  - CGIAN2 115
-	  - CGIAN2 116
-	  - CGIAN2 117
-	  - CGIAN2 118
-	  - CGIAN2 119
-	  - CGIAN2 120
-	  - CGIAN2 121
-	  - CGIAN2 122
-	  - CGIAN2 123
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 116
-
-Sous réserve des dispositions des articles 118 à 120, 125 et 126, le résultat d'ensemble de la société agréée est déterminé
-comme suit [*calcul*] :
-
-1. La société agréée fait la somme algébrique :
-
-a. Des résultats de cette société, déterminés dans les conditions de droit commun, ainsi que des plus-values ou moins-values
-à court terme après application de la répartition prévue à l'article 39 quaterdecies-1 du code général des impôts;
-
-b. Des résultats des exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer [*à
-l'étranger*], déterminés dans les conditions prévues aux articles 106 et 107;
-
-c. Des résultats des exploitations indirectes situées en France métropolitaine ou dans les départements d'outre-mer, tels
-qu'ils sont retenus pour l'imposition de ces dernières à l'impôt sur les sociétés dans la proportion correspondant aux droits
-de la société agréée dans la distribution des bénéfices de ces exploitations à la date de clôture de la période d'imposition,
-ou à la date de la distribution des dividendes afférents à cette période d'imposition, si la participation de la société
-agréée est plus forte à cette date qu'à la clôture de la période d'imposition ;
-
-d. De la fraction des résultats des exploitations indirectes situées hors de France [*à l'étranger*] qui correspond aux
-droits de la société agréée dans la distribution des bénéfices de ces exploitations à la date de clôture de la période
-d'imposition ou à la date de distribution des dividendes afférents à cette période d'imposition, si la participation de la
-société est plus forte à cette date qu'à la clôture de la période d'imposition. Ces résultats sont déterminés selon les
-règles prévues aux articles 106 et 107, sous réserve des dispositions de l'article 118.
-
-Un bilan de départ doit être établi pour chacune de ces exploitations dans les conditions prévues à l'article 106,
-lorsqu'elles sont situées hors de la France métropolitaine et des départements d'outre-mer.
-
-2. a. Si la somme visée au 1 est positive, la plus-value nette à long terme dégagée pour l'ensemble du groupe consolidé est
-ajoutée à cette somme pour une part de son montant obtenue en appliquant à ce dernier le rapport existant entre les taux
-réduits d'imposition prévus aux I et II de l'article 39 quindecies du code général des impôts et le taux normal prévu au
-deuxième alinéa de l'article 219-I du même code.
-
-b. Si la somme visée au 1 est négative, la plus-value nette à long terme est, sous réserve des dispositions de l'article
-120-2, utilisée à compenser le déficit correspondant et, pour le surplus, comptée dans le résultat d'ensemble pour une part
-de son montant obtenue en appliquant à ce dernier le rapport existant entre les taux réduits d'imposition prévus aux I et II
-de l'article 39 quindecies du code général des impôts et le taux normal prévu au deuxième alinéa de l'article 219-I du même
-code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 219 I AL. 2
-	  - CGI 39 quaterdecies 1
-	  - CGI 39 quindecies I, II
-	  - CGIAN2 106
-	  - CGIAN2 107
-	  - CGIAN2 118
-	  - CGIAN2 119
-	  - CGIAN2 120 2
-	  - CGIAN2 125
-	  - CGIAN2 126
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 117
-
-En cas de cession par la société agréée de tout ou partie des intérêts détenus dans une exploitation indirecte sise en France
-ou à l'étranger, la plus-value ou moins-value afférente à cette cession est déterminée par référence à la valeur comptable
-des biens de l'exploitation indirecte telle qu'elle résulte du bilan établi pour l'imposition des résultats consolidés.
-
-Toutefois, lorsque l'exploitation indirecte, objet de la cession, a donné lieu pour l'assiette du bénéfice consolidé à
-imputation de résultats déficitaires supérieurs aux résultats bénéficiaires pris en compte, la plus-value ou la moins-value
-de cession est déterminée selon les règles de droit commun. Dans ce cas, l'excédent des déficits est rapporté aux résultats
-d'exploitation de la société agréée au titre de l'exercice de la cession et dans la proportion correspondant au pourcentage
-d'intérêts cédés.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 118
-
-Le résultat de la société agréée, tel qu'il est défini à l'article 116, est, le cas échéant, rectifié de manière à éliminer
-les opérations qui font double emploi ou à annuler les conséquences de distributions de bénéfices effectuées entre sociétés
-membres du groupe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 116
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 120
-
-1. Le résultat d'ensemble défini à l'article 116 est, selon le cas, imposé ou reporté dans les conditions prévues
-respectivement à l'article 219-I ou à l'article 209-I, troisième alinéa, du code général des impôts.
-
-2. Par dérogation à l'article 116-2-b, la plus-value nette à long terme d'ensemble peut, dans la mesure où la société agréée
-n'entend pas l'utiliser pour compenser le déficit, être imposée pour une part de son montant au taux normal prévu au deuxième
-alinéa de l'article 219-I du code général des impôts. Cette part est déterminée en appliquant au montant de cette plus-value
-le rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du même code et le taux
-normal prévu au deuxième alinéa de l'article 219-I précité.
-
-3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
-d'ensemble, rectifiée de manière à éliminer les plus-values ou moins-values à long terme apparues dans les exploitations
-indirectes.
-
-4. La moins-value nette à long terme d'ensemble est soumise au régime prévu à l'article 39 quindecies-I-2 du code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 I AL. 2
-	  - CGI 209 quater
-	  - CGI 219 I AL. 2
-	  - CGI 39 quindecies I 2, II
-	  - CGIAN2 116 2 b
-
-	**Modifié par**:
-
-	  - Loi n°84-1208 du 29 décembre 1984 - art. 15 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-
-###### Article 121
-
-Les déficits et les moins-values nettes à long terme des exploitations directes et indirectes pris en compte pour la
-détermination du résultat consolidé d'une société agréée ne sont pas reportables sur les résultats ultérieurs de ces
-exploitations.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 122
-
-La société agréée est autorisée à imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, au titre de
-chaque exercice, à raison de ses résultats consolidés, les prélèvements fiscaux effectués hors de la France métropolitaine et
-des départements d'outre-mer [*à l'étranger*] sur les bénéfices de ses exploitations directes et indirectes au titre du même
-exercice.
-
-Cette imputation ne peut être effectuée qu'à raison des impôts visés à l'article 111-1 et s'effectue dans les conditions et
-dans les limites prévues audit article.
-
-En ce qui concerne les exploitations indirectes, cette imputation porte sur la fraction des impôts considérés afférente à la
-fraction des résultats pris en compte pour la détermination du résultat consolidé de la société agréée.
-
-Les prélèvements effectués, compte tenu des conventions internationales en vigueur, sur les distributions à la société agréée
-de bénéfices des sociétés contrôlées retenus pour la détermination du résultat d'ensemble de la société agréée, sont ajoutés
-à la somme des impôts de la société distributrice, imputables sur l'impôt sur les sociétés dû par la société agréée. La
-limite de l'imputation est calculée à partir du total ainsi formé.
-
-La fraction du montant des impôts étrangers dont l'imputation est autorisée qui n'a pu être déduite de l'impôt sur les
-sociétés dû par la société agréée peut être reportée dans les conditions prévues à l'article 112.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 111 1
-	  - CGIAN2 112
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 123
-
-Après avoir procédé à l'imputation des impôts visée à l'article 122, la société agréée peut imputer sur le montant de l'impôt
-sur les sociétés dont elle est redevable, au titre de chaque exercice, la fraction de l'impôt sur les sociétés ou des
-prélèvements qui en tiennent lieu afférente à la fraction des bénéfices du même exercice réalisés par chacune de ses
-exploitations indirectes situées en France métropolitaine ou dans les départements d'outre-mer et qui ont été pris en compte
-pour la détermination de son résultat consolidé. Elle peut obtenir la restitution de la fraction de cet impôt ou de ces
-prélèvements qu'il ne lui serait pas possible d'imputer [*remboursement*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 122
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### 1 : Périmètre de consolidation
 
 ###### Article 113
@@ -4986,6 +4799,56 @@ groupe pour la détermination du résultat consolidé (1).
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 134 (P)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 134 A (P)
+
+
+###### Article 114
+
+1. Pour l'application des articles 113 à 123, les exploitations directes s'entendent des succursales, bureaux, comptoirs,
+usines et installations permanentes de toute nature n'ayant pas une personnalité juridique distincte et dans lesquels la
+société ou la personne morale agréée exerce tout ou partie de son activité.
+
+Les exploitations indirectes sont les parts d'intérêts possédées par la société ou la personne morale agréée dans des
+sociétés en participation, des sociétés de personnes et des personnes morales assimilées, ainsi que les participations que la
+société ou la personne morale agréée détient dans des sociétés de capitaux placées sous son contrôle, à l'exception de celles
+qui sont possédées par la société agréée dans des sociétés qui sont membres d'un groupe qu'elle a constitué ou que l'une de
+ses exploitations indirectes a constitué, en application des dispositions des articles 223 A à 223 U du code général des
+impôts (1).
+
+2. Sont considérées comme placées sous le contrôle d'une société ou d'une personne morale agréée les sociétés de capitaux
+françaises ou étrangères dans lesquelles la société ou personne morale agréée détient 50 p. 100 au moins des droits de vote,
+directement ou indirectement ; par exception aux dispositions du deuxième alinéa du 1, les droits de vote détenus par
+l'intermédiaire de sociétés membres d'un groupe constitué par la société agréée ou par l'une de ses exploitations indirectes
+sont pris en compte pour apprécier ce pourcentage.
+
+Pour l'application de l'alinéa précédent, l'appréciation des droits détenus indirectement par la société ou la personne
+morale agréée s'opère en multipliant successivement, quel que soit le degré de filiation, les pourcentages détenus par chaque
+société mère (1).
+
+3. Par dérogation à la règle fixée au 2, un pourcentage inférieur à 50 % peut être retenu lorsque la détention d'une
+participation égale ou supérieure à 50 % est interdite par la législation interne de l'Etat dans lequel la société contrôlée
+est implantée, lorsqu'elle résulte d'accords intervenus entre la France et cet Etat ou lorsqu'elle est imposée par la nature
+même de l'activité du groupe des sociétés contrôlées.
+
+4. La société agréée et ses diverses exploitations indirectes doivent ouvrir et clore leurs exercices aux mêmes dates.
+
+5. (Abrogé) (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 223 A à 223 U
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 2 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 115
@@ -5036,6 +4899,606 @@ la détermination du résultat consolidé ou de la plus-value ou moins-value net
 	**Liens**:
 
 	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 2 : Résultat consolidé. Plus-value ou moins-value nette à long terme consolidée
+
+###### Article 116
+
+Sous réserve des dispositions des articles 118 à 120, 125 et 126, le résultat consolidé de la société agréée est déterminé
+comme suit :
+
+1. La société agréée fait la somme algébrique :
+
+a) Du résultat de cette société, déterminé dans les conditions de droit commun ou, le cas échéant, du résultat d'ensemble
+mentionné à l'article 223 B du code général des impôts lorsque la société a été autorisée à opter, en application des
+dispositions du 2 de l'article 223 P de ce code, pour le régime défini à l'article 223 A du même code ;
+
+b) Du résultat des exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer, déterminé
+dans les conditions prévues aux articles 116 bis et 116 ter de la présente annexe ;
+
+c) Du résultat des exploitations indirectes situées en France métropolitaine ou dans les départements d'outre-mer, tel qu'il
+est retenu pour l'imposition de ces dernières à l'impôt sur les sociétés, dans la proportion correspondant aux droits de la
+société agréée dans la distribution des bénéfices de ces exploitations à la date de clôture de la période d'imposition ou à
+la date de la distribution des dividendes afférents à cette période d'imposition, si la participation de la société agréée
+est plus forte à cette date qu'à la clôture de la période d'imposition ; si une ou plusieurs de ces sociétés ont été
+autorisées à opter, en application des dispositions du 2 de l'article 223 P du code général des impôts, pour le régime de
+groupe défini à l'article 223 A de ce code, le résultat d'ensemble de ce groupe, mentionné à l'article 223 B du même code, se
+substitue au résultat propre de la société ;
+
+d) De la fraction du résultat des exploitations indirectes situées hors de France qui correspond aux droits de la société
+agréée dans la distribution des bénéfices de ces exploitations à la date de clôture de la période d'imposition ou à la date
+de distribution des dividendes afférents à cette période d'imposition, si la participation de la société est plus forte à
+cette date qu'à la clôture de la période d'imposition. Ce résultat est déterminé selon les règles prévues aux articles 116
+bis et 116 ter ci-après.
+
+2. La société agréée fait la somme algébrique des plus-values ou moins-values nettes à long terme déterminées dans les
+conditions prévues aux articles 39 duodecies à 39 quindecies du code général des impôts ou, le cas échéant, à l'article 223 D
+du même code, réalisées ou subies par la société agréée et les exploitations qui sont mentionnées au 1, et retenues dans la
+proportion définie au c et au d du 1.
+
+La plus-value nette à long terme consolidée, après imputation, le cas échéant, des moins-values nettes à long terme
+consolidées reportables des exercices antérieurs, est imposée au taux normal prévu au deuxième alinéa du I de l'article 219
+du code général des impôts dans le rapport existant entre les taux réduits d'imposition des plus-values à long terme et le
+taux normal.
+
+Toutefois, si la somme visée au 1 est négative, la plus-value nette à long terme consolidée, déterminée dans les conditions
+définies à l'alinéa précédent, peut être utilisée à compenser le déficit consolidé correspondant.
+
+3. Les sommes définies au 1 et au 2 ci-dessus sont respectivement minorées ou majorées des plus-values ou moins-values
+résultant de la cession d'éléments de l'actif immobilisé entre les exploitations mentionnées au b et au d du 1, à condition
+que la valeur pour laquelle ces éléments sont inscrits au bilan de l'exploitation cédante ne soit pas modifiée. Cette
+rectification est effectuée dans la plus faible des proportions retenues pour la prise en compte du résultat de
+l'exploitation cédante ou de l'exploitation cessionnaire (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 B, 223 P, 223 A, 39 duodecies à 39 quindecies, 223 D, 219
+	  - CGIAN2 116, 118 à 120, 125, 126, 116 bis, 116 ter
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 4 () JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+###### Article 116 bis
+
+Pour chacune de ses exploitations directes et indirectes situées hors de la France métropolitaine ou des départements
+d'outre-mer, la société agréée doit établir un bilan de départ. L'actif net de ce bilan sert de base à la détermination des
+résultats de ces exploitations au titre de la première période d'imposition pour laquelle le régime défini à l'article 113
+est appliqué.
+
+Les éléments figurant au bilan de départ doivent être retenus pour la valeur exprimée en monnaie locale qu'ils comportaient
+au regard de la législation fiscale française à la date d'effet de l'agrément ou à celle de l'ouverture du premier exercice
+au titre duquel le régime défini à l'article 113 est appliqué.
+
+La valeur des immobilisations amortissables est réputée être celle qui a été portée au bilan de clôture de l'exercice
+précédant celui de l'établissement du bilan de départ. Le compte d'amortissement correspondant est crédité du montant total
+des amortissements portés à ce même bilan.
+
+Les immobilisations dont la durée d'utilisation n'est pas achevée continuent à être amorties selon les modalités prévues au
+2° du 1 de l'article 39 du code général des impôts.
+
+La décision d'agrément peut imposer à la société agréée l'observation de règles ou de méthodes particulières d'évaluation
+afin que le bilan de départ, établi conformément au principe énoncé au deuxième alinéa du présent article, soit sincère au
+regard de la législation fiscale française.
+
+Les provisions pour charges et les charges à payer qui ne sont pas déductibles du résultat en application des dispositions du
+code général des impôts font l'objet d'une inscription distincte au passif du bilan de départ de l'exploitation étrangère
+(1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39
+
+	**Créé par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 5 () JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 du 27 août 1992
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - HISTO: Edition du 4 juillet 1992
+
+
+###### Article 116 ter
+
+Les résultats de chacune des exploitations directes ou indirectes situées hors de la France métropolitaine et des
+départements d'outre-mer sont, sous réserve des dispositions particulières des articles 113 à 134, déterminés selon les
+règles fixées par le code général des impôts en prenant en considération le bilan de départ établi dans les conditions fixées
+à l'article 116 bis. Ces résultats sont convertis en francs français sur la base du taux de change en vigueur à la date de
+clôture de l'exercice.
+
+Pour les exploitations indirectes dont les résultats ont été pris en compte dans le résultat consolidé au titre d'exercice
+clos avant le 1er janvier 1992, les règles définies à l'alinéa précédent s'appliquent aux exercices ouvert à compter du 1er
+janvier 1993. Pour chacune de ces exploitations, la société agréée établit un nouveau bilan de départ ; à cet effet, la
+valeur exprimée en monnaie française de chacun des éléments du bilan de l'exercice clos le 31 décembre 1992 est divisée par
+le cours à cette même date de la monnaie locale concernée.
+
+Le résultat consolidé tel qu'il est défini à l'article 116 est respectivement majoré ou minoré, dans la proportion qui
+correspond aux droits mentionnés aux c et d du même article, des pertes ou gains de change constatés en application du 4 de
+l'article 38 du code général des impôts à raison des créances ou des dettes à plus d'un an qui existent entre des sociétés ou
+exploitations mentionnées à l'article 114 libellées dans la monnaie de l'une ou l'autre des sociétés ou exploitations
+contractantes concernées (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 38
+	  - CGIAN2 114, 116, 116 ter, 113 à 134
+
+	**Créé par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 5 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 6 () JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 3 : Rectification du résultat consolidé
+
+###### Article 118
+
+Le résultat de la société agréée, tel qu'il est défini à l'article 116, est, le cas échéant, rectifié de manière à éliminer
+les opérations qui font double emploi. La liste de ces opérations est arrêtée par le ministre de l'économie et des finances
+(1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 116
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 7 () JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 du 27 août 1992
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 4 : Sort du résultat consolidé et de la plus-value ou moins-value nette à long terme consolidée
+
+###### Article 120
+
+1. Le résultat consolidé défini à l'article 116 est, selon le cas, imposé ou reporté dans les conditions prévues
+respectivement au I de l'article 219 du code général des impôts ou aux troisième et quatrième alinéas du I de l'article 209
+du même code.
+
+Toutefois, le montant du déficit consolidé et des amortissements réputés différés reportables à la clôture du dernier
+exercice d'application du régime prévu à l'article 209 quinquies du code général des impôts ne peut être considéré comme une
+charge déductible des bénéfices ultérieurs de la société agréée que pour une fraction ; cette fraction est obtenue en
+appliquant à ce montant le rapport entre, d'une part, le montant des déficits propres de cette société déclarés en
+application du 1 de l'article 128 et, d'autre part, la somme de ces mêmes déficits et de ceux qui sont pris en compte au
+titre des exploitations visées au b et au d du 1 de l'article 116 pour la détermination du résultat consolidé et qui seraient
+reportables en application des règles fiscales françaises.
+
+Pour l'application des dispositions du quatrième alinéa du I de l'article 209 du code général des impôts, la faculté de
+report sans limitation de délai du déficit consolidé d'un exercice s'applique à la partie de ce déficit qui correspond aux
+amortissements régulièrement comptabilisés et réputés différés par le groupe mentionné à l'article 223 A de ce code dans les
+conditions prévues à l'article 223 C du même code et par les exploitations mentionnées au c du 1 de l'article 116 ainsi
+qu'aux amortissements déduits du résultat, déterminé selon les règles prévues aux articles 116 bis et 116 ter, des
+exploitations déficitaires qui sont mentionnées au d du 1 de l'article 116.
+
+2. (Abrogé).
+
+3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
+consolidée, dans la limite de la plus-value nette à long terme de la société agréée déterminée dans les conditions prévues
+aux articles 39 duodecies à 39 quindecies du même code ou, le cas échéant, à l'article 223 D de ce code, augmentée ou
+diminuée des plus-values ou moins-values de même nature réalisées ou subies par les exploitations directes de la société
+agréée.
+
+4. La moins-value nette à long terme consolidée est soumise au régime prévu au 2 du I de l'article 39 quindecies du code
+général des impôts. Toutefois, le montant de la moins-value nette à long terme reportable à la clôture du dernier exercice
+d'application du régime prévu à l'article 209 quinquies du même code n'est imputable sur les plus-values nettes à long terme
+ultérieures de la société agréée que pour une fraction ; cette fraction est obtenue en appliquant à ce montant le rapport
+entre, d'une part, le montant des moins-values nettes à long terme propres de cette société déclarées en application du 1 de
+l'article 128 et, d'autre part, la somme de ces mêmes moins-values nettes à long terme et de celles qui sont prises en compte
+au titre des exploitations visées au b et au d du 1 de l'article 116 pour la détermination des plus-values ou moins-values
+nettes à long terme consolidées et qui seraient reportables en application des règles fiscales françaises (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 219, 209, 209 quinquies, 223 A, 223 C, 209 quater, 39 duodecies à 39 quindecies, 223 D
+	  - CGIAN2 116, 128, 116 bis, 116 ter
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 8 () JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 5 : Sort des déficits déjà pris en compte
+
+###### Article 121
+
+1. Les déficits et les moins-values nettes à long terme des exploitations mentionnées au b et d du 1 de l'article 116 pris en
+compte pour la détermination du résultat consolidé d'une société agréée ne sont pas reportables sur les résultats ultérieurs
+de ces exploitations.
+
+2. La fraction des déficits et moins-values nettes à long terme prise en compte pour le calcul du résultat consolidé d'un
+exercice antérieur est rapportée par la société agréée lorsqu'ils sont déduits par les exploitations mentionnées au c du 1 de
+l'article 116 ou par les sociétés membres d'un groupe mentionné à l'article 223 A du code général des impôts dans les
+conditions prévues à l'article 223 I de ce code.
+
+Il en est de même des déficits et moins-values à long terme ainsi pris en compte, qui demeurent reportables à la clôture du
+dernier exercice au cours duquel les résultats de ces exploitations sont retenus dans le résultat consolidé, ou en cas de
+baisse des intérêts détenus par la société agréée dans ces exploitations (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 223 A, 223 I
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 9 () JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 6 : Imputation et report des impôts étrangers
+
+###### Article 122
+
+1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, au titre de
+chaque exercice, à raison du résultat consolidé, les prélèvements fiscaux effectués, au titre du même exercice, hors de la
+France métropolitaine et des départements d'outre-mer, sur les bénéfices de ses exploitations directes et indirectes.
+
+Les prélèvements fiscaux s'entendent des impôts de quotité, exprimés en unité monétaire, assis sur un résultat fiscal, non
+déductibles de ce résultat et qui sont versés, à titre définitif et sans contrepartie, au profit d'Etats souverains, d'Etats
+membres d'Etats fédéraux ou confédérés ou de territoires non souverains jouissant de l'autonomie financière par rapport à
+l'Etat souverain dont ils dépendent.
+
+La liste des prélèvements fiscaux définis au premier alinéa est mentionnée dans la décision d'agrément.
+
+Les amendes ou pénalités afférentes à ces impôts, taxes ou droits ne peuvent, en aucun cas, donner lieu à imputation.
+
+2. Les sommes à imputer sont toutefois limitées, pour chaque Etat ou territoire dans lequel la société agréée possède des
+exploitations, au montant de l'impôt français sur les sociétés qui frapperait le résultat, au sens de l'article 116, des
+exploitations situées dans cet Etat ou territoire.
+
+La fraction des sommes excédant cette limite peut être imputée, au titre de l'exercice suivant et dans les mêmes conditions,
+après qu'ont été imputés les prélèvements fiscaux effectués, au titre de cet exercice, dans le même Etat ou territoire ;
+l'imputation de la fraction qui n'a pu être imputée demeure possible, dans les mêmes conditions, au titre des quatre
+exercices suivants.
+
+En ce qui concerne les exploitations indirectes, cette imputation porte sur la fraction des impôts considérés afférente à la
+fraction des résultats pris en compte pour la détermination du résultat consolidé.
+
+3. Si une convention internationale le prévoit, il est accordé aux sociétés agréées un crédit d'impôt destiné à compenser, en
+tout ou en partie, les réductions d'impôts imputables sur l'impôt sur les sociétés français, qui pourraient être consenties
+par des Etats en vue d'assurer leur développement économique.
+
+4. Les prélèvements effectués, compte tenu des conventions internationales en vigueur, sur les distributions à des sociétés
+dont les résultats sont retenus pour la détermination du résultat consolidé sont ajoutés à la somme des impôts de la société
+distributrice, imputables sur l'impôt sur les sociétés dû par la société agréée.
+
+La limite de l'imputation est calculée, au titre de l'exercice sur les bénéfices duquel la distribution est prélevée, à
+partir du total ainsi formé.
+
+5. Les montants des impôts étrangers imputables sont convertis en francs français à la date de clôture de l'exercice au titre
+duquel ils ont été acquittés. Il incombe à la société agréée d'apporter la preuve du paiement effectif de ces impôts. Les
+rappels ou les dégrèvements d'impôts imputables doivent être notifiés à l'administration dans le délai mentionné au 3 de
+l'article 128. Les bases de l'impôt sur les sociétés dû au titre de l'exercice auquel se rapportent ces rappels ou ces
+dégrèvements sont régularisées en conséquence (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 116, 128
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 10 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+###### Article 122 bis
+
+Lorsque le montant de l'impôt sur les sociétés dû par la société agréée au titre d'un exercice à raison du résultat consolidé
+est insuffisant pour permettre la déduction des impôts étrangers ou de la fraction de ces impôts dont l'imputation est
+autorisée, la partie non déduite de ces impôts est ajoutée successivement au montant des impôts étrangers imputables au titre
+des exercices suivants jusqu'au cinquième exercice inclusivement.
+
+Ce report est effectué après imputation des impôts étrangers afférents à chacun de ces exercices, en retenant en priorité les
+impôts afférents aux exercices les plus anciens.
+
+Les impôts qui ne peuvent être imputés ne sont en aucun cas remboursés par le Trésor (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 11 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 7 : Imputation et restitution des impôts français
+
+###### Article 123
+
+1. - Après avoir procédé, conformément aux dispositions des articles 122 et 122 bis, à l'imputation des impôts acquittés, la
+société agréée peut imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, au titre de chaque exercice
+et dans l'ordre suivant :
+
+a) La fraction des crédits d'impôt et de l'imposition forfaitaire annuelle admis en paiement de l'impôt sur les sociétés
+afférent à la part des bénéfices du même exercice réalisés par chacune de ses exploitations indirectes situées en France
+métropolitaine ou dans les départements d'outre-mer et qui ont été pris en compte pour la détermination du résultat
+consolidé ;
+
+b) La fraction de l'impôt sur les sociétés payé par ces exploitations au titre des mêmes bénéfices ;
+
+c) La fraction du précompte qu'elles ont payé à raison de la distribution de bénéfices compris dans le résultat consolidé.
+
+2. La société agréée peut obtenir la restitution de la fraction des sommes qu'il ne lui serait pas possible d'imputer, à
+l'exclusion des crédits d'impôt non restituables en application des dispositions du code général des impôts ou des
+conventions internationales et de l'avoir fiscal (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 122, 122 bis
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 12 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 8 : Rapatriement des bénéfices
+
+###### Article 124
+
+Toute société agréée au titre de l'article 113 peut demander à distraire temporairement du résultat consolidé les résultats
+de celles de ses exploitations directes ou indirectes dont les profits ne peuvent être transférés en France du fait d'une
+interdiction émanant des autorités de l'Etat où elles sont situées (1).
+
+Cette demande doit être formulée en même temps que la demande d'agrément s'il s'agit d'exploitations remplissant alors ces
+conditions. Elle doit être présentée à la clôture de l'exercice au cours duquel est intervenue l'interdiction de transfert
+dans les autres cas.
+
+Lorsque l'interdiction de transfert se trouve levée, les résultats des exploitations considérées doivent être pris en compte
+pour la détermination du bénéfice imposable de la société agréée.
+
+Les résultats de la société agréée ayant servi de base à l'imposition de cette dernière à l'impôt sur les sociétés au titre
+des exercices écoulés, selon le cas, depuis la demande d'agrément ou depuis l'interdiction du transfert, sont revisés en
+conséquence.
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 113
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 13 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 9 : Imputation des déficits antérieurs à l'entrée
+
+###### Article 125
+
+La société agréée en vertu de l'article 113 ne peut en aucun cas reporter sur le résultat consolidé les déficits subis par
+les exploitations mentionnées au b et au d du 1 de l'article 116, au cours d'exercices antérieurs au premier exercice pour
+lequel les résultats de ces exploitations sont pris en compte pour la détermination du résultat consolidé.
+
+Les déficits et moins-values nettes à long terme des exploitations mentionnées au c du 1 de l'article 116, subis au cours des
+exercices mentionnés à l'alinéa précédent, sont pris en considération pour la détermination du résultat consolidé dans la
+mesure où ils sont admis en déduction respectivement des bénéfices et plus-values imposables des sociétés qui les ont subis
+(1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 113, 116
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 14 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 10 : Résultats des exploitations étrangères
+
+###### Article 126
+
+1. Les dispositions particulières du code général des impôts qui autorisent des provisions ou des déductions spéciales ou des
+amortissements exceptionnels ou qui prévoient l'application du régime des plus-values à long terme aux produits de la
+propriété industrielle ne sont pas applicables pour la détermination du résultat des exploitations mentionnées au b et au d
+du 1 de l'article 116.
+
+2. (Abrogé).
+
+3. Lorsque, en vertu des dispositions du code général des impôts, le montant d'une charge déductible est calculé ou limité en
+fonction du bénéfice, du chiffre d'affaires ou du montant des ventes de l'entreprise, la charge totale que la société agréée
+est admise à déduire à ce titre, en vue de la détermination de son résultat consolidé, est limitée au chiffre obtenu par
+l'application de ces dispositions, selon le cas, au résultat consolidé, au chiffre d'affaires consolidé du groupe ou au
+montant consolidé de ses ventes.
+
+Toutefois, pour l'application des dispositions de l'article 39 ter du code général des impôts, le chiffre d'affaires
+consolidé n'est pris en considération qu'à concurrence du montant des ventes des produits marchands extraits des divers
+gisements. Les provisions constituées en application de ce texte peuvent, sauf disposition contraire de la décision
+d'agrément, être employées dans tous pays, Etats ou territoires dans lesquels la société agréée possède des exploitations
+directes ou indirectes dont les résultats doivent être compris dans le résultat consolidé du groupe.
+
+4. Des arrêtés du ministre de l'économie et des finances adapteront, en tant que de besoin, les conditions de forme
+auxquelles peuvent être subordonnées certaines déductions de charges, lorsque l'observation de ces conditions par les
+exploitations directes ou indirectes des sociétés agréées apparaîtra impossible.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 ter
+	  - CGIAN2 116
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 15 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 11 : Précompte.
+
+###### Article 127
+
+1. Pour l'assiette du précompte institué à l'article 223 sexies du code général des impôts, les bénéfices soumis par la
+société agréée à l'impôt sur les sociétés au taux normal prévu au deuxième alinéa du I de l'article 219 de ce code
+s'entendent de ceux qui sont définis à l'article 116.
+
+2. Le précompte n'est pas appliqué aux dividendes versés à la société agréée et prélevés sur des bénéfices compris dans le
+résultat consolidé par des sociétés dont au moins 95 p. 100 du résultat est pris en compte pour la détermination du résultat
+consolidé.
+
+La société agréée ne peut utiliser l'avoir fiscal attaché à ces dividendes en paiement de l'impôt sur les sociétés ou du
+précompte qu'elle doit acquitter (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 sexies, 219
+	  - CGIAN2 116
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 16 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
 	  - HISTO: Edition du 4 juillet 1992
 
 
@@ -5114,213 +5577,40 @@ impôts.
 	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
 
 
-##### III : Dispositions communes.
-
-###### Article 124
-
-Toute société agréée au titre des articles 104 et 113 peut demander à distraire temporairement de son résultat d'ensemble les
-résultats de celles de ses exploitations directes ou indirectes dont les profits ne peuvent être transférés en France du fait
-d'une interdiction émanant des autorités de l'Etat où elles sont situées.
-
-Cette demande doit être formulée en même temps que la demande d'agrément s'il s'agit d'exploitations remplissant alors ces
-conditions. Elle doit être présentée à la clôture de l'exercice au cours duquel est intervenue l'interdiction de transfert
-dans les autres cas.
-
-Lorsque l'interdiction de transfert se trouve levée, les résultats des exploitations considérées doivent être pris en compte
-pour la détermination du bénéfice imposable de la société agréée.
-
-Les résultats de la société agréée ayant servi de base à l'imposition de cette dernière à l'impôt sur les sociétés au titre
-des exercices écoulés, selon le cas, depuis la demande d'agrément ou depuis l'interdiction du transfert, sont revisés en
-conséquence.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 104
-	  - CGIAN2 113
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 125
-
-Les sociétés agréées en vertu de l'article 104 [*bénéfice mondial*] ou de l'article 113 [*bénéfice consolidé*] ne peuvent en
-aucun cas reporter sur leur résultat d'ensemble les déficits subis, selon le cas, par leurs exploitations directes ou par
-leurs exploitations directes et indirectes situées hors de France, au cours d'exercices antérieurs au premier exercice pour
-lequel ces sociétés bénéficient du régime attaché à l'un ou l'autre de ces agréments.
-
-Les déficits des exploitations indirectes situées en France sont pris en considération pour l'assiette du bénéfice consolidé
-dans la mesure où ils sont admis en déduction des bénéfices imposables des sociétés qui les ont subis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 104
-	  - CGIAN2 113
-
-	**Modifié par**:
-
-	  - Décret n°67-774 1967-09-11 ART. 2, ART. 11 JORF 16 SEPTEMBRE 1967
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 126
-
-1. Les dispositions des troisième, cinquième, huitième  et neuvième du 5° du 1 de l'article 39, des articles 39 bis, 39
-quinquies A, 219-II et III et 238 octies du code général des impôts ne sont pas applicables pour la détermination du résultat
-d'ensemble des sociétés agréées en vertu de l'article 104 [*bénéfice mondial*] ou du résultat consolidé des sociétés agréées
-en vertu de l'article 113 [*bénéfice consolidé*], dans la mesure où ces dispositions concerneraient des exploitations
-directes et indirectes situées hors de la France métropolitaine et des départements d'outre-mer.
-
-2. Lorsqu'ils ne sont pas imputables sur l'impôt sur les sociétés dû par la société agréée, les impôts étrangers acquittés
-par les exploitations directes et indirectes des sociétés agréées sont admis en déduction du résultat de ces exploitations.
-Le bénéfice de cette disposition pourra toutefois être retiré, par arrêté du ministre de l'économie et des finances, en ce
-qui concerne les impôts étrangers qui ne sont pas comparables à des impôts, taxes, droits ou prélèvements français admis en
-déduction pour la détermination du bénéfice imposable des entreprises.
-
-3. Lorsque, en vertu des dispositions du code général des impôts, le montant d'une charge déductible est calculé ou limité en
-fonction du bénéfice, du chiffre d'affaires ou du montant des ventes de l'entreprise, la charge totale que la société agréée
-est admise à déduire à ce titre, en vue de la détermination de son résultat d'ensemble ou de son résultat consolidé, est
-limitée au chiffre obtenu par l'application de ces dispositions, selon le cas, au résultat d'ensemble ou au résultat
-consolidé, au chiffre d'affaires consolidé du groupe ou au montant consolidé de ses ventes.
-
-Toutefois, pour l'application des dispositions de l'article 39 ter du code général des impôts, le chiffre d'affaires
-consolidé n'est pris en considération qu'à concurrence du montant des ventes des produits marchands extraits des divers
-gisements. Les provisions constituées en application de ce texte peuvent, sauf disposition contraire de la décision
-d'agrément, être employées dans tous pays, Etats ou territoires dans lesquels la société agréée possède des exploitations
-directes ou indirectes dont les résultats doivent être compris dans le résultat d'ensemble ou dans le résultat consolidé du
-groupe.
-
-4. Des arrêtés du ministre de l'économie et des finances adapteront, en tant que de besoin, les conditions de forme
-auxquelles peuvent être subordonnées certaines déductions de charges, lorsque l'observation de ces conditions par les
-exploitations directes ou indirectes des sociétés agréées apparaîtra impossible.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 219 II, III
-	  - CGI 238 octies
-	  - CGI 39 1 5° AL. 2, AL. 4, AL. 5, AL. 7
-	  - CGI 39 bis
-	  - CGI 39 quinquies A
-	  - CGIAN2 104
-	  - CGIAN2 113
-
-	**Modifié par**:
-
-	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
-###### Article 127
-
-1. Pour l'assiette du précompte visé à l'article 223 sexies du code général des impôts, les bénéfices soumis par la société
-agréée à à l'impôt sur les sociétés au taux normal prévu au deuxième alinéa du I de l'article 219 du code précité s'entendent
-de ceux qui sont définis à l'article 108-1, premier alinéa, et à l'article 116, à l'exclusion, toutefois, des bénéfices des
-exploitations indirectes qui n'auraient pas été mis effectivement à la disposition de ladite société.
-
-2. Le précompte n'est pas appliqué aux dividendes, intérêts et autres produits versés à la société agréée par des sociétés
-membres du groupe et prélevés sur des bénéfices compris dans le résultat consolidé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 219 I
-	  - CGI 223 sexies
-	  - CGIAN2 108 A AL. 1
-	  - CGIAN2 116
-
-	**Modifié par**:
-
-	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
-###### Article 128
-
-1. Les sociétés agréées en vertu de l'article 104 ou de l'article 113 demeurent tenues de souscrire chaque année la
-déclaration prévue à l'article 223 du code général des impôts en ce qui concerne les résultats de leurs exploitations situées
-en France métropolitaine ou dans les départements d'outre-mer. Le délai dans lequel cette déclaration doit être souscrite est
-toutefois prolongé de trois mois en ce qui les concerne.
-
-2. Les sociétés agréées en vertu de l'article 104 doivent souscrire, dans le même délai, la déclaration de leur résultat
-d'ensemble. A cette déclaration doivent être annexés :
-
-Pour chacune des exploitations directes situées hors de France [*à l'étranger*], l'ensemble des documents exigés des sociétés
-passibles de l'impôt sur les sociétés en annexe à la déclaration de leur résultat, y compris le bilan et le compte de
-résultats établis en monnaie française, conformément aux dispositions des articles 103 à 134;
-
-Le bilan et le compte de résultats de chacune de ces exploitations fournis aux administrations fiscales des pays où elles
-sont situées, dans tous les cas où ces administrations exigent le dépôt de ces documents;
-
-Un état faisant apparaître de manière détaillée le mode de calcul du résultat d'ensemble;
-
-Un état faisant apparaître le montant des impôts imputables sur l'impôt sur les sociétés dû par la société agréée.
-
-3. Les sociétés agréées en vertu de l'article 113 doivent souscrire, dans le délai indiqué au 1, la déclaration de leur
-résultat consolidé. A cette déclaration doivent être annexés :
-
-Pour chacune des exploitations directes et indirectes situées hors de France, l'ensemble des documents exigés des sociétés
-passibles de l'impôt sur les sociétés en annexe à la déclaration de leurs résultats, y compris le bilan et le compte de
-résultats établis en monnaie française suivant les règles fixées par les articles 103 à 134;
-
-Le bilan et le compte de résultats de chacune de ces exploitations fournis aux administrations fiscales des pays où elles
-sont situées, dans tous les cas où ces administrations exigent le dépôt de tels documents;
-
-Un état faisant apparaître de manière détaillée le mode de calcul du résultat consolidé;
-
-Un état faisant apparaître le montant des impôts imputables sur l'impôt sur les sociétés dû par la société agréée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223
-	  - CGIAN2 103 A CGIAN2 134
-	  - CGIAN2 104
-	  - CGIAN2 113
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### IV : Agréments.
-
 ###### Article 132
 
-La durée d'application du régime du bénéfice mondial ou de celui du bénéfice consolidé est fixée par la décision d'agrément.
+L'agrément visé à l'article 113 est accordé pour une durée de cinq ans. Il peut être renouvelé par période de trois ans (1).
+
+(1) Cette disposition s'applique aux exercices ouverts à compter du 1er janvier 1992.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGIAN2 113
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 20 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 134
 
-1. Les agréments prévus aux articles 104 [*bénéfice mondial*] et 113 [*bénéfice consolidé*] peuvent être retirés, ou les
-sociétés qui les ont obtenus peuvent en être déchues, par application de l'article 1756 du code général des impôts [*retrait,
-déchéance*].
+1. L'agrément prévu à l'article 113 peut être retiré, ou les sociétés qui l'ont obtenu peuvent en être déchues, par
+application des dispositions de l'article 1756 du code général des impôts (1).
 
-2. Ils peuvent, en outre, bien que les engagements en vue de les obtenir aient été remplis ou que les conditions mises à leur
-octroi aient été respectées, être retirés dans les cas suivants :
+Il peut, bien que les engagements en vue de l'obtenir aient été remplis ou que les conditions mises à son octroi aient été
+respectées, être retiré notamment dans les cas suivants :
 
 a. Lorsqu'une société agréée au titre des articles 113 à 123 est convaincue soit d'avoir constitué des exploitations directes
 ou indirectes hors de France [*à l'étranger*] dans des conditions telles que leurs résultats n'aient pas à être consolidés
@@ -5330,28 +5620,98 @@ moyens de production;
 
 b. Lorsqu'une société agréée au titre des articles 113 à 123 est convaincue d'avoir modifié son pourcentage de participation
 dans une exploitation indirecte à seule fin d'accroître le montant des déficits de cette exploitation qui doivent être pris
-en compte pour la détermination de son résultat d'ensemble;
+en compte pour la détermination du résultat consolidé ;
 
-c. Lorsqu'une société agréée au titre des articles 104 à 112 ou des articles 113 à 123 constitue une exploitation indirecte
-destinée à se substituer à une exploitation directe existante, dans des conditions telles que les résultats de cette
-exploitation indirecte n'ont pas à être compris dans le résultat d'ensemble de la société agréée.
+c. Lorsqu'une société agréée au titre des articles 113 à 123 constitue une exploitation indirecte destinée à se substituer à
+une exploitation directe existante, dans des conditions telles que les résultats de cette exploitation indirecte n'ont pas à
+être compris dans le résultat consolidé de la société agréée.
 
 Le retrait de l'agrément est prononcé par l'autorité qui l'a accordé après consultation du comité consultatif dont la
 composition est prévue à l'article 1653 C du code général des impôts. La société agréée est au préalable informée des faits
 qui lui sont reprochés et peut fournir toute justification à leur égard.
 
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1653 C
-	  - CGI 1756
-	  - CGIAN2 104 A CGIAN2 112
-	  - CGIAN2 113 A CGIAN2 123
+	  - CGI 1756, 1653 C
+	  - CGIAN2 113 à 123
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 21 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### III : Dispositions communes.
+
+###### Article 128
+
+1. Les sociétés agréées en vertu de l'article 113 demeurent tenues de souscrire chaque année la déclaration prévue, selon le
+cas, à l'article 223 ou à l'article 223 Q du code général des impôts (1).
+
+2. (Abrogé) (1).
+
+3. Les sociétés agréées en vertu de l'article 113 doivent souscrire avant la fin du onzième mois suivant la clôture de
+l'exercice la déclaration du résultat consolidé (1). A cette déclaration doivent être annexés :
+
+Pour chacune des exploitations directes et indirectes situées hors de France, l'ensemble des documents exigés des sociétés
+passibles de l'impôt sur les sociétés en annexe à la déclaration de leurs résultats, y compris le bilan et le compte de
+résultats établis en monnaie française suivant les règles fixées par les articles 113 à 134 ;
+
+Le bilan et le compte de résultats de chacune de ces exploitations fournis aux administrations fiscales des pays où elles
+sont situées, dans tous les cas où ces administrations exigent le dépôt de tels documents;
+
+Un état faisant apparaître de manière détaillée le mode de calcul du résultat consolidé;
+
+Un état faisant apparaître le montant des impôts imputables sur l'impôt sur les sociétés dû par la société agréée.
+
+4. Les sociétés agréées en vertu de l'article 113 doivent souscrire dans le délai indiqué au 3 :
+
+1° La déclaration faisant apparaître les imputations opérées pour l'application de l'article 223 sexies du code général des
+impôts ;
+
+2° La déclaration prévue pour le calcul du supplément d'impôt sur les sociétés mentionné au deuxième alinéa du c du I de
+l'article 219 du code général des impôts. "
+
+5. Les sociétés agréées en vertu de l'article 113 doivent produire au service qui a accordé l'agrément :
+
+1° La liste des exploitations directes et indirectes acquises ou créées dont les résultats doivent être pris en compte dans
+le résultat consolidé mentionné à l'article 116, les attestations mentionnées à l'article 131 concernant ces exploitations
+ainsi que la liste des sociétés membres d'un groupe défini à l'article 223 A du code général des impôts ; ces documents
+doivent être adressés avant l'ouverture de l'exercice suivant celui au cours duquel ces exploitations ont été acquises ou
+créées ;
+
+2° La liste des exploitations indirectes dont les résultats ne sont plus pris en compte dans le résultat consolidé ; cette
+liste est adressée au plus tard dans le délai indiqué au 3 (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992 [*date d'application*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 Q, 223, 223 sexies, 219, 223 A
+	  - CGIAN2 113 à 134, 116, 131
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 17 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ##### III : Régime du bénéfice mondial
@@ -6098,123 +6458,74 @@ titres-restaurant l'indication de son nom et de son adresse, si ces mentions n'y
 	  - PEREMPTION: Loi n°2000-1352 2000-12-30 art. 10 II, V Finances pour 2001 JORF 31 décembre 2000
 
 
-#### Chapitre V : Redevance fixe des mines.
+#### Chapitre V bis : Taxe sur les services d'informations ou interactifs à caractère pornographique
 
-###### Article 152
+###### Article 159 A
 
-Le tarif de la redevance fixe des mines est fixé ainsi qu'il suit :
+Sont classés comme services d'informations ou services interactifs à caractère pornographique, au sens du 1 du I de l'article
+235 du code général des impôts, les services de communication audiovisuelle à caractère convivial qui font apparaître une
+orientation pornographique. 
 
-0,50 F par hectare pour les mines de houille;
-
-0,45 F par hectare pour les mines de lignite et de fer;
-
-0,40 F par hectare pour les autres mines.
-
-Lorsqu'une concession ou un permis d'exploitation a été accordé pour plusieurs substances, le tarif applicable est celui
-afférent à la substance la plus imposée.
+Le classement est opéré par arrêté du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - PEREMPTION: Loi - art. 32 ()
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°91-633 du 4 juillet 1991 - art. 1 (V) JORF 10 juillet 1992
 
 	**Codifié par**:
 
 	  - Décret n°92-836 1992-08-27
 
+	**Cité par**:
 
-###### Article 153
-
-La redevance fixe est réglée pour l'année entière par application du tarif prévu à l'article 152, d'après l'étendue, au 1er
-janvier de ladite année, de la concession ou des terrains compris dans le périmètre du permis d'exploitation.
-
-**Liens relatifs à cet article**
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 159 B (V)
 
 	**Cite**:
 
-	  - CGIAN2 152
+	  - Code général des impôts, CGI. - art. 235 (V)
+
+
+###### Article 159 B
+
+La taxe instituée à l'article 235 du code général des impôts est due sur toutes les sommes reçues des utilisateurs par les
+fournisseurs de services d'informations ou interactifs qui ont fait l'objet du classement dans les conditions définies à
+l'article 159 A.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-633 du 4 juillet 1991 - art. 2 (V) JORF 10 juillet 1992
 
 	**Codifié par**:
 
 	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 32 ()
-
-
-###### Article 154
-
-Tout titulaire de droits miniers est tenu de faire parvenir, au plus tard le 31 mars de l'année de l'imposition, une
-déclaration au chef de l'arrondissement minéralogique dans lequel se trouvent situés le ou les titres d'exploitation, ou au
-ministre chargé des mines, si le ou les titres d'exploitation dépendent de plusieurs arrondissements minéralogiques.
-
-Cette déclaration doit indiquer, pour l'année précédente et pour chacun des titres d'exploitation détenus par le redevable,
-le montant total des salaires réglés par lui pour travaux de recherches et d'exploitation et qui, compte tenu des
-dispositions de l'article 231-6 du code général des impôts, auraient servi de base à la taxe sur les salaires prévue par le
-même article.
-
-Le redevable peut toutefois substituer forfaitairement au montant des salaires effectivement réglés la moitié des dépenses,
-frais généraux et amortissements exclus, correspondant à ces travaux.
-
-**Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 231 6
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 32 ()
-	  - HISTO: EDITION 1979-07-01
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 159 A (V)
+	  - Code général des impôts, CGI. - art. 235 (V)
 
 
-###### Article 155
+###### Article 159 C
 
-Le concessionnaire ou titulaire de permis d'exploitation est totalement exonéré de la redevance fixe des mines pour ceux de
-ses titres qui font l'objet de travaux de recherches ou d'exploitation.
+La taxe est constatée, recouvrée et contrôlée comme en matière de taxe sur les salaires. Elle est versée au comptable du
+Trésor avant le 5 de chaque mois, quel que soit le montant dû.
 
-Sont considérés comme faisant l'objet de travaux de recherches ou d'exploitation les titres miniers pour lesquels les sommes,
-déclarées par application de l'article 154 et relatives aux travaux effectués dans l'année précédant l'année d'imposition,
-dépassent deux cents fois le taux de redevance à l'hectare résultant de l'article 152.
+En cas de cession ou de cessation d'activité du fournisseur des services d'informations ou interactifs à caractère
+pornographique, la taxe est immédiatement exigible.
+
+Chaque versement est accompagné d'une déclaration datée et signée par le fournisseur des services d'informations ou
+interactifs à caractère pornographique qui y mentionne son adresse, les caractéristiques du service, la période à laquelle
+s'applique le versement, le montant des sommes imposables et le montant de la taxe.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Créé par**:
 
-	  - CGIAN2 152
-	  - CGIAN2 154
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 32 ()
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-
-###### Article 156
-
-Les sommes déclarées pour les titres ne remplissant pas les conditions fixées à l'article 155 et l'excédent par rapport au
-minimum retenu pour l'exonération totale des sommes déclarées pour les titres remplissant ces conditions sont totalisés. Le
-quotient de ce total par deux cents fois la superficie totalisée des titres ne remplissant pas les conditions de l'article
-155 définit l'exonération partielle ou totale par hectare applicable à ces derniers. Le chiffre exprimant ce quotient est
-arrondi à la dizaine de centimes la plus voisine, toute fraction de dizaine égale ou inférieure à 0,05 F étant négligée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 155
+	  - Décret n°91-633 du 4 juillet 1991 - art. 3 (V) JORF 10 juillet 1992
 
 	**Codifié par**:
 
@@ -6222,72 +6533,7 @@ arrondi à la dizaine de centimes la plus voisine, toute fraction de dizaine ég
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 32 ()
-
-
-###### Article 157
-
-La redevance fixe est due dans la commune du lieu principal d'exploitation.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 32 ()
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-
-###### Article 158
-
-La redevance fixe est établie et recouvrée comme en matière de contributions directes (1).
-
-Toutefois, l'état-matrice des redevances est dressé par le chef de l'arrondissement minéralogique du lieu principal
-d'exploitation et transmis, avant le 1er juin de l'année de l'imposition à la direction des services fiscaux du lieu de
-l'imposition.
-
-(1) Voir livre des procédures fiscales, art. R172 D-1
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R172 D-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 32 ()
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-
-###### Article 159
-
-Les réclamations sont présentées, instruites et jugées comme en matière de contributions directes (1).
-
-(1) Voir toutefois livre des procédures fiscales, art. R198-8.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R198-8
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 32 ()
+	  - HISTO: Edition du 4 juillet 1992
 
 
 #### Chapitre VI : Cotisation perçue au titre de la participation des employeurs à l'effort de construction
@@ -6714,56 +6960,56 @@ II. (Disposition périmée).
 
 ###### Article 163 decies
 
-1. Pour le calcul du montant de la participation prévue à l'article 235 ter E du code général des impôts, sont retenues
+1. Pour le calcul du montant de la participation prévue à l'article 235 ter D du code général des impôts, sont retenues
 toutes les sommes payées par les employeurs à l'ensemble de leur personnel à titre de traitements, salaires, indemnités et
-émoluments, y compris la valeur des avantages en nature, quel que soit le lieu du domicile des bénéficiaires. Sont exclues
-les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis J du code général des impôts.
+émoluments, y compris la valeur des avantages en nature, quel que soit le lieu du domicile des bénéficiaires.
+
+Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis N du code général des impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la participation pour leur montant brut, avant déduction
-des cotisations et contributions visées à l'article 83-1° à 2° ter du code général des impôts.
+des cotisations et contributions visées aux 1° à 2° ter de l'article 83 du code général des impôts.
 
-Toutefois, en ce qui concerne les salariés appartenant aux catégories de professions qui bénéficient, en vertu de l'article
-83-3o, troisième alinéa, du code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant de
-cette déduction supplémentaire peut, pour la détermination de la base de la participation, être défalqué du montant brut des
-sommes susindiquées.
+Toutefois, en ce qui concerne les salariés appartenant aux catégories de professions qui bénéficient, en vertu du troisième
+alinéa du 3° del'article 83 du code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant
+de cette déduction supplémentaire peut, pour la détermination de la base de la participation, être défalqué du montant brut
+des sommes susindiquées.
 
 Lorsque les employeurs usent de cette faculté, la base de la participation est constituée par le montant global des
 rémunérations acquises aux intéressés, y compris les indemnités versées à titre de frais d'emploi, de service, de route et
 autres allocations similaires.
 
-3. L'estimation des rémunérations allouées sous la forme d'avantages en nature est faite conformément aux dispositions de
-l'article 82, deuxième alinéa, du code général des impôts.
+3. L'estimation des rémunérations allouées sous la forme d'avantages en nature est faite conformément aux dispositions du
+deuxième alinéa de l'article 82 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 231 bis C, 231 bis D, 231 bis E, 231 bis F, 231 bis G, 231 bis H, 231 bis I, 231 bis J
-	  - CGI 235 ter E
-	  - CGI 81
-	  - CGI 82 AL. 2
-	  - CGI 83 1° A 2° ter
-	  - CGI 83 3° AL. 3
+	  - CGI 235 ter D, 231 bis C à 231 bis N, 81, 83, 82
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°87-39 du 27 janvier 1987 - art. 34 (V) JORF 28 janvier 1987
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 163 nonies
 
-Sont considérés comme occupant au minimum dix salariés, au sens de l'article 235 ter C du code général des impôts, les
+Sont considérés comme occupant au minimum dix salariés, au sens de l'article 235 ter D du code général des impôts, les
 employeurs occupant des salariés dont le nombre mensuel moyen est au moins égal à dix pendant l'année ou la fraction d'année
 où l'activité est exercée.
 
 Toutefois, ceux de ces employeurs occupant des salariés d'une manière intermittente ou travaillant à domicile ne sont soumis
 à l'obligation de participer que si le montant total des salaires versés pendant l'année est au moins égal à 120 fois le
-salaire mensuel minimum de croissance [*SMIC*]. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année
-considérée, au prorata du nombre de mois pendant lesquels l'activité est exercée.
+salaire mensuel minimum de croissance. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année considérée,
+au prorata du nombre de mois pendant lesquels l'activité est exercée.
 
 Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail entre en compte dans l'effectif du
 personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat et la durée légale de
@@ -6774,16 +7020,20 @@ d'établissement où il est employé.
 
 	**Cite**:
 
-	  - CGI 235 ter C
+	  - CGI 235 ter D
 	  - Code du travail - art. L212-4-2 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Décret n°81-540 du 12 mai 1981 - art. 3 () JORF 15 MAI 1981
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°92-836 1992-08-27
 
 
 ##### II : Employeurs occupant dix salariés et plus
@@ -6818,14 +7068,14 @@ qualité de membre d'un comité d'entreprise.
 ###### Article 163 duodecies
 
 La déclaration prévue à l'article 235 ter J du code général des impôts doit indiquer, outre la désignation et l'adresse du
-déclarant [*mentions obligatoires*] :
+déclarant :
 
 1° Le montant des salaires payés tels qu'ils sont définis à l'article 163 decies;
 
 2° Le montant brut de la contribution incombant à l'employeur;
 
-3° Le montant des dépenses effectivement consenties en vertu des articles L 950-2 et L 950-6 du code du travail ainsi que le
-montant correspondant à la fraction de la participation instituée par l'article L. 950-2 du même code dont l'employeur lié
+3° Le montant des dépenses effectivement consenties en vertu des articles L.951-1 et L.951-11 du code du travail ainsi que le
+montant correspondant à la fraction de la participation instituée par l'article L. 951-1 du même code dont l'employeur lié
 par un engagement de développement de la formation est réputé s'acquitter ;
 
 4° La répartition de ces dépenses selon les catégories suivantes :
@@ -6849,7 +7099,7 @@ Rémunérations versées aux stagiaires par l'entreprise;
 Versements effectués au titre de fonds d'assurance formation et versements à un organisme paritaire agréé en application de
 l'article 235 ter H bis du code général des impôts ;
 
-Versements effectués dans les conditions prévues par l'article L 235-2-4° du code du travail;
+Versements effectués dans les conditions prévues par le 4° de l'article L951-1 du code du travail;
 
 Versements effectués au titre d'une taxe parafiscale affectée à la formation professionnelle;
 
@@ -6860,7 +7110,7 @@ individuel de formation en application de l'article 235 ter H bis du code géné
 6° Eventuellement, le montant restant à reporter au titre des dépenses effectuées au cours de chacune des trois années
 précédentes;
 
-7° Le cas échéant, la majoration prévue à l'article 235 ter G du code général des impôts;
+7° Le cas échéant, la majoration prévue au I de l'article 235 ter G du code général des impôts;
 
 8° Le montant total du versement à effectuer à la caisse du comptable des impôts;
 
@@ -6880,31 +7130,32 @@ c. Par âge ;
 
 d. Par type d'action au sens de l'article L. 900-2 du code du travail ;
 
-12° Le nombre de jeunes travailleurs au sens de l'article L. 931-21 du code du travail qui ont bénéficié d'une formation au
+12° Le nombre de jeunes travailleurs au sens de l'article L. 931-28 du code du travail qui ont bénéficié d'une formation au
 cours de l'année.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 235 ter G I
-	  - CGI 235 ter H bis
-	  - CGI 235 ter J
-	  - CGIAN2 163 decies
+	  - CGI 235 ter J, 163 decies, 235 ter H bis, 235 ter G
 	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L931-21 (T)
-	  - Code du travail - art. L950-2 (M)
-	  - Code du travail - art. L950-6 (T)
+	  - Code du travail - art. L931-28 (M)
+	  - Code du travail - art. L951-1 (M)
+	  - Code du travail - art. L951-11 (M)
 	  - Code du travail - art. R950-7 (M)
-	  - Code du travail L950-2-4°
 
 	**Modifié par**:
 
-	  - Loi n°90-613 du 12 juillet 1990 - art. 26 () JORF 14 juillet 1990
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 163 quaterdecies
@@ -6932,14 +7183,14 @@ Du domicile ou du siège social pour les autres employeurs.
 
 ###### Article 163 terdecies
 
-Doivent être joints à la déclaration [*formalités obligatoires*] :
+Doivent être joints à la déclaration :
 
 1° Un état, en double exemplaire, présenté selon le modèle établi par l'administration et comprenant :
 
 La liste des conventions passées par l'employeur avec des organismes de formation ainsi que les effectifs concernés et le
 montant des versements effectués en application de ces conventions et retenus au titre de la participation;
 
-La liste des organismes agréés dans les conditions prévues à l'article L 950-2-4° du code du travail ayant reçu des
+La liste des organismes agréés dans les conditions prévues au 4° de l'article L.951-1 du code du travail ayant reçu des
 versements de l'employeur ainsi que le montant de chacun des versements;
 
 La liste et le montant des subventions reçues de l'Etat ou de la région, dans l'année, par l'employeur au titre de la
@@ -6950,29 +7201,29 @@ l'employeur en application de l'article 235 ter H bis du code général des imp�
 défaut, le procès-verbal de carence prévu à l'article L 433-13 du code du travail ou le procès-verbal de la délibération de
 l'un des organismes prévus à l'article 163 undecies.
 
-3° Eventuellement les références de l'engagement de développement prévu à l'article L. 950-2-4 du code du travail.
+3° Eventuellement les références de l'engagement de développement prévu à l'article L. 951-5 du code du travail.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 235 ter F
-	  - CGI 235 ter H bis
+	  - CGI 235 ter H bis, 235 ter F
 	  - CGIAN2 163 undecies
 	  - Code du travail - art. L433-13 (M)
-	  - Code du travail L950-2-4°
+	  - Code du travail - art. L951-1 (M)
+	  - Code du travail - art. L951-5 (M)
 
 	**Modifié par**:
 
-	  - Décret n°85-531 1985-04-03 art. 17, JORF 18 mai 1985
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°92-836 1992-08-27 Décret 96-556 1996-06-21
 
 	**Liens**:
 
-	  - HISTO: Code du travail art. R950-20)
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### IV : Régimes spéciaux
@@ -6982,7 +7233,7 @@ l'un des organismes prévus à l'article 163 undecies.
 ###### Article 163 sexdecies
 
 Les employeurs des départements d'outre-mer occupant des salariés à temps incomplet ou d'une manière intermittente, ou
-travaillant à domicile, ne sont soumis à l'obligation de participer instituée par l'article 235 ter C du code général des
+travaillant à domicile, ne sont soumis à l'obligation de participer instituée par l'article 235 ter D du code général des
 impôts, que si le montant total des salaires versés pendant l'année est au moins égal à 520 fois le salaire hebdomadaire
 minimum de croissance applicable dans le département d'outre-mer considéré. En cas de début ou de fin d'activité, ce nombre
 est réduit, pour l'année considérée, au prorata du nombre de semaines pendant lesquelles l'activité est exercée.
@@ -6991,11 +7242,19 @@ est réduit, pour l'année considérée, au prorata du nombre de semaines pendan
 
 	**Cite**:
 
-	  - CGI 235 ter C
+	  - CGI 235 ter D
+
+	**Modifié par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
 
 
 #### Chapitre VI quater : Prélèvement spécial sur les films pornographiques et d'incitation à la violence
@@ -8069,14 +8328,13 @@ l'article 244 quindecies précité court à compter de la date de la création o
 ###### Article 171 U
 
 Pour l'application de l'article 244 undecies du code général des impôts, sont regardées comme des investissements de
-l'entreprise locataire les acquisitions de biens réalisées à son profit à compter du 1er janvier 1981 [*date point de
-départ*] par les sociétés de crédit-bail régies par la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le
-crédit-bail.
+l'entreprise locataire les acquisitions de biens réalisées à son profit à compter du 1er janvier 1981 par les sociétés de
+crédit-bail régies par la loi n° 66-455 du 2 juillet 1966 modifiée relative aux entreprises pratiquant le crédit-bail.
 
 Il en va de même des acquisitions de biens réalisées au profit de l'entreprise locataire du 1er octobre au 31 décembre 1980
-[*période*] par ces mêmes sociétés lorsqu'elles renoncent, selon les modalités prévues à l'article 171 Z, à les prendre en
-compte pour le calcul de la déduction instituée par l'article 1er de la loi n° 79-525 du 3 juillet 1979 relative au soutien
-de l'investissement productif industriel.
+par ces mêmes sociétés lorsqu'elles renoncent, selon les modalités prévues à l'article 171 Z, à les prendre en compte pour le
+calcul de la déduction instituée par l'article 1er de la loi n° 79-525 du 3 juillet 1979 relative au soutien de
+l'investissement productif industriel.
 
 **Liens relatifs à cet article**
 
@@ -8087,13 +8345,20 @@ de l'investissement productif industriel.
 	  - Loi n°66-455 1966-07-02
 	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°81-17 du 10 janvier 1981 - art. 5 (V) JORF 11 JANVIER 1981
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 4 juillet 1992
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°89-1008 du 31 décembre 1989 - art. 2 () JORF 2 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°2003-298 2003-03-31
 
 
 ###### Article 171 V
@@ -8498,101 +8763,6 @@ Transféré sous l'article 260 I de la même annexe.
 	  - CGIAN2 260 I
 
 
-##### 2 : Professions non commerciales.
-
-###### Article 189
-
-L'option pour le paiement de la taxe sur la valeur ajoutée prévue à l'article 260-1° du code général des impôts s'applique à
-l'ensemble des opérations accomplies dans l'exercice de l'une des activités mentionnées aux 5° et 6° du 4 de l'article 261 du
-même code.
-
-Toutefois, lorsqu'une même personne effectue des opérations relevant d'activités de nature différente, l'option peut n'être
-formulée que pour une ou plusieurs de ces activités; elle couvre alors obligatoirement l'ensemble des opérations relevant de
-la ou des activités intéressées.
-
-Chaque activité ou ensemble d'activités couvert par l'option constitue un secteur [*distinct d'activité*] pour l'application
-de l'article 213.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 213
-	  - CGI 260 1°
-	  - CGI 261 4 5°, 6°, 7°
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-06-24
-	  - Décret n°92-836 1992-08-27
-
-	**Modifié par**:
-
-	  - Loi - art. 32 (V) JORF 30 décembre 1990
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°91-716 1991-07-26 art. 5 JORF 27 juillet 1991
-
-
-###### Article 190
-
-L'option exercée couvre obligatoirement une période de cinq années [*durée*], y compris celle au cours de laquelle elle est
-déclarée.
-
-Elle est renouvelable par tacite reconduction, sauf dénonciation à l'expiration de chaque période.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°91-716 1991-07-26 art. 5 JORF 27 juillet 1991
-	  - HISTO: EDITION 1979-07-01
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-
-###### Article 191
-
-L'option et sa dénonciation sont déclarées dans les conditions et selon les modalités prévues par l'article 286-1° du code
-général des impôts pour les assujettis à la taxe sur la valeur ajoutée, en cas de commencement ou de cessation d'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 286 1°
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°91-716 1991-07-26 art. 5 JORF 27 juillet 1991
-	  - HISTO: EDITION 1979-07-01
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-
-###### Article 192
-
-Les personnes qui exercent l'option sont soumises à l'ensemble des obligations qui incombent aux assujettis à la taxe sur la
-valeur ajoutée. Les règles relatives à l'assiette, à la liquidation, au recouvrement, au contrôle et au contentieux de ladite
-taxe leur sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°91-716 1991-07-26 art. 5 JORF 27 juillet 1991
-	  - HISTO: EDITION 1979-07-01
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-
 ##### 3 : Location de locaux nus
 
 ###### Article 193
@@ -8654,25 +8824,144 @@ de ce fait, changé de destination.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
 
 
-##### 3 : Location d'établissement pour les besoins de l'activité d'un industriel, d'un commerçant ou d'un prestataire de services.
-
 ###### Article 195
 
-Les dispositions des articles 191 et 192 [*obligations des personnes qui exercent l'option*] sont applicables aux personnes
-qui exercent l'option visée aux articles 193 et 194.
+L'option et sa dénonciation sont déclarées dans les conditions et selon les modalités prévues par le 1° de l'article 286 du
+code général des impôts pour les assujettis à la taxe sur la valeur ajoutée, en cas de commencement ou de cessation
+d'entreprise.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 191
-	  - CGIAN2 192
-	  - CGIAN2 193
-	  - CGIAN2 194
+	  - CGI 286
+
+	**Modifié par**:
+
+	  - Décret n°67-1126 1967-12-22 art. 3 JORF 24 décembre 1967
+	  - Loi n°91-716 1991-07-26 art. 5 I VIII JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
+
+
+###### Article 195 A
+
+Les personnes qui exercent l'option sont soumises à l'ensemble des obligations qui incombent aux assujettis à la taxe sur la
+valeur ajoutée. Les règles relatives à l'assiette, à la liquidation, au recouvrement, au contrôle et au contentieux de ladite
+taxe leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°67-1126 1967-12-22 art. 4 JORF 24 décembre 1967
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-716 1991-07-26 art. 5 I VIII JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+
+##### 3 bis : Vente d'articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés.
+
+###### Article 195 B
+
+L'option exercée couvre obligatoirement une période de cinq années, y compris celle au cours de laquelle elle est déclarée.
+
+Elle est renouvelable par tacite reconduction, sauf dénonciation à l'expiration de chaque période.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°67-1127 1967-12-22 art. 2, 3, 4 JORF 24 décembre 1967
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°73-1128 1973-12-21 art. 4 II JORF 23 décembre 1973
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 29 () JORF 30 décembre 1978
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 49 (P) JORF 30 décembre 1978
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+
+###### Article 195 D
+
+Les personnes qui exercent l'option sont soumises à l'ensemble des obligations qui incombent aux assujettis à la taxe sur la
+valeur ajoutée. Les règles relatives à l'assiette, à la liquidation, au recouvrement, au contrôle et au contentieux de ladite
+taxe leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°67-1127 1967-12-22 art. 2, 3, 4 JORF 24 décembre 1967
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°73-1128 1973-12-21 art. 4 II JORF 23 décembre 1973
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 29 () JORF 30 décembre 1978
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 49 (P) JORF 30 décembre 1978
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+
+##### 3 bis : Vente d'articles fabriqués par des groupements d'aveugles ou de travailleurs.
+
+###### Article 195 C
+
+L'option et sa dénonciation sont déclarées dans les conditions et selon les modalités prévues par le 1° de l'article 286 du
+code général des impôts pour les assujettis à la taxe sur la valeur ajoutée, en cas de commencement ou de cessation
+d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 286
+
+	**Créé par**:
+
+	  - Décret n°67-1127 1967-12-22 art. 2, 3, 4 JORF 24 décembre 1967
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°73-1128 1973-12-21 art. 4 II JORF 23 décembre 1973
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 29 () JORF 30 décembre 1978
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 49 (P) JORF 30 décembre 1978
 
 
 ##### 5 bis : Personnes qui ont passé un bail à construction
@@ -10246,26 +10535,26 @@ sur la fraction excédant le crédit de référence défini audit article.
 
 ###### Article 242-0 H
 
-L'option prévue aux 1° à 4° de l'article 260 du code général des impôts ainsi qu'à l'article 298 bis du même code est
-reconduite de plein droit pour la période suivant celle au cours ou à l'issue de laquelle les assujettis ayant exercé cette
-option ont bénéficié d'un des remboursements mentionnés aux articles 242-0 A à 242-0 D.
+L'option prévue au 2° de l'article 260 du code général des impôts ainsi qu'à l'article 298 bis du même code est reconduite de
+plein droit pour la période suivant celle au cours ou à l'issue de laquelle les assujettis ayant exercé cette option ont
+bénéficié d'un des remboursements mentionnés aux articles 242-0 A à 242-0 D.
 
 Lorsque l'assujetti par voie d'option ouverte à l'article 193, deuxième alinéa, a bénéficié d'un remboursement, la
-reconduction prend effet à l'expiration de la période définie à l'article 194, deuxième alinéa.
+reconduction prend effet à l'expiration de la période définie au deuxiéme alinéa de l'article 194.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 260 1°, 2°, 3°, 4°
-	  - CGI 298 bis
-	  - CGIAN2 193 AL. 2
-	  - CGIAN2 194 AL. 2
-	  - CGIAN2 242-0 A, 242-0 B, 242-0 C, 242-0 D
-
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 30 (V) JORF 31 DECEMBRE 1979
+	  - Loi n°91-716 1991-07-26 art. 5 I VII JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 242-0 I
@@ -11302,8 +11591,8 @@ trimestrielles pour le paiement de la taxe afférente à leurs opérations.
 
 ###### Article 251
 
-Le bénéfice des dispositions des articles 691, 692, 730, 810-IV-a et 810-V du code général des impôts est subordonné au
-paiement de la taxe lors du dépôt de la déclaration prévue à l'article 250 ci-dessus.
+Le bénéfice des dispositions des articles 691, 692, 730 et du IV de l'article 810 du code général des impôts est subordonné
+au paiement de la taxe lors du dépôt de la déclaration prévue à l'article 250.
 
 Il est également accordé en cas de justification de la prise en charge de cette taxe par le service des impôts compétents.
 
@@ -11314,15 +11603,20 @@ déclaration spéciale souscrite auprès du service des impôts du lieu de la si
 
 	**Cite**:
 
-	  - CGI 691
-	  - CGI 692
-	  - CGI 730
-	  - CGI 810 IV a, V
+	  - CGI 691, 692, 730, 810 IV
 	  - CGIAN2 250
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 12 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 252
@@ -11341,44 +11635,6 @@ versements.
 	**Abrogé par**:
 
 	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
-
-
-###### Article 253
-
-Pour les ventes et apports en société de terrains lotis et de terrains aménagés ou équipés, les redevables peuvent demander à
-appliquer les taux suivants au lieu et place des taux prévus dans le code général des impôts à l'article 281 quinquies, au c
-de l'article 296 bis et au 1-4° du 1 du I de l'article 297 (1):
-
-a. 18,6 % [*pourcentage*] en France continentale ;
-
-b. 7,5 % dans les départements de la Guadeloupe, de la Martinique et de la Réunion ;
-
-c. 8% dans les départements de Corse.
-
-(1) Dispositions applicables à compter du 1er juillet 1986.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 281 quinquies
-	  - CGI 296 bis c
-	  - CGI 297 I 1 4°
-
-	**Modifié par**:
-
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre 1985 en vigueur le 1er juillet 1986
-	  - Décret n°86-414 du 13 mars 1986 - art. 1 (V) JORF 15 mars 1986
-	  - Décret n°86-414 du 13 mars 1986 - art. 2 (V) JORF 15 mars 1986
-	  - Décret n°86-414 du 13 mars 1986 - art. 3 (V) JORF 15 mars 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07 Décret 92-836 1992-08-27
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991
 
 
 ###### Article 254
@@ -11404,11 +11660,11 @@ trimestriellement (1).
 
 ###### Article 255
 
-En cas d'application des dispositions du II de l'article 281 quinquies, du c de l'article 296 bis et du 4° du 1 du I de
-l'article 297, du code général des impôts, il est procédé à une nouvelle liquidation de la taxe sur la valeur ajoutée ayant,
-le cas échéant, grevé la livraison à soi-même de l'immeuble construit sur le terrain précédemment acquis.
+En cas d'application des dispositions du 3 du 7° de l'article 257 du code général des impôts, il est procédé à une nouvelle
+liquidation de la taxe sur la valeur ajoutée ayant, le cas échéant, grevé la livraison à soi-même de l'immeuble construit sur
+le terrain précédemment acquis.
 
-Les dispositions du II de l'article 281 quinquies ne sont pas applicables lorsque les terrains acquis sont attenants à des
+Les dispositions du 3 du 7° de l'article 257 ne sont pas applicables lorsque les terrains acquis sont attenants à des
 terrains dont l'acquisition a été replacée dans le champ d'application de la taxe de publicité foncière ou des droits
 d'enregistrement comme il est dit à l'article 291 ci-après.
 
@@ -11416,19 +11672,16 @@ d'enregistrement comme il est dit à l'article 291 ci-après.
 
 	**Cite**:
 
-	  - CGI 281 quinquies II
-	  - CGI 291
-	  - CGI 296 bis c
-	  - CGI 297 I 1 4°
+	  - CGI 257 7° 3
+	  - CGIAN2 291
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre 1985 en vigueur le 1er juillet 1986
-	  - Décret n°86-414 du 13 mars 1986 - art. 1 (V) JORF 15 mars 1986
+	  - Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
 
 
 ##### IV : Dispositions diverses
@@ -12948,30 +13201,35 @@ calculé en divisant les émoluments mentionnés à cet alinéa par le nombre d'
 
 ##### Mutations soumises à une taxation réduite ou exonérées
 
-##### Opérations concourant à la production ou à la livraison d'immeubles.
+##### 1° : Opérations concourant à la production ou à la livraison d'immeubles.
 
 ###### Article 290
 
 Pour les actes constatant soit des ventes, soit des apports en société de terrains à bâtir ou de biens assimilés à ces
 terrains par l'article 691 du code général des impôts, soit le versement d'indemnités de toute nature aux personnes qui
 exercent sur ces immeubles un droit de propriété ou de jouissance ou qui les occupent en droit ou en fait, l'exonération de
-taxe de publicité foncière ou de droits d'enregistrement prévue à ce texte ainsi qu'à l'article 810-V est subordonnée aux
-conditions, formalités et justifications visées à l'article 691 précité et à l'article 266 bis de l'annexe III audit code.
+taxe de publicité foncière ou de droits d'enregistrement prévue à ce texte est subordonnée aux conditions, formalités et
+justifications visées à l'article 691 précité et à l'article 266 bis de l'annexe III audit code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 691
-	  - CGI 810 V
-	  - CGIAN3 266 bis
+	  - CGIAN3 691, 266 bis
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
 
+	**Modifié par**:
 
-##### 1° : Opérations concourant à la production ou à la livraison d'immeubles.
+	  - Loi - art. 12 () JORF 31 décembre 1991
+
 
 ###### Article 291
 
@@ -12991,14 +13249,13 @@ déduction à l'occasion d'une nouvelle mutation du même immeuble.
 	  - CGIAN2 290
 
 
-##### Régimes spéciaux institués en faveur de l'agriculture.
+##### 2° : Régimes spéciaux institués en faveur de l'agriculture.
 
 ###### Article 291 A
 
 Pour obtenir le bénéfice de la réduction de la taxe de publicité foncière ou du droit d'enregistrement prévue à l'article 709
 du code général des impôts, les parties doivent produire, lors de l'exécution de la formalité de l'enregistrement ou de la
-formalité fusionnée, une copie certifiée conforme de la décision de la commission départementale de réorganisation foncière
-et de remembrement [*formalité obligatoire*].
+formalité fusionnée, une copie certifiée conforme de la décision de la commission départementale d'aménagement foncier.
 
 **Liens relatifs à cet article**
 
@@ -13006,13 +13263,20 @@ et de remembrement [*formalité obligatoire*].
 
 	  - CGI 709
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGIAN1 230
+	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 4 juillet 1992
+	  - PEREMPTION: Loi n°98-1266 1998-12-30 art. 39 I 4 Finances pour 1999 JORF 31 décembre 1998
+
+	**Modifié par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°99-382 1999-05-18
 
 
 ##### II : Mutations de propriété à titre onéreux de meubles : Cessions de droits sociaux
@@ -14550,6 +14814,39 @@ d'intérêt collectif agricole en 1975.
 
 ##### V : Répartition des bases
 
+###### Article 310 HK
+
+Pour l'application du premier alinéa de l'article 1473 du code général des impôts, les véhicules sont rattachés au local ou
+au terrain qui constitue leur lieu de stationnement habituel ou, s'il n'en existe pas, au local où ils sont entretenus et
+réparés par le redevable; à défaut ils sont rattachés au principal établissement de l'entreprise.
+
+En ce qui concerne les contribuables non sédentaires et ceux ayant une installation fixe, mentionnés à l'article 1470 du code
+général des impôts, l'imposition correspondant aux véhicules et aux équipements transportés est établie au lieu prévu à
+l'alinéa précédent ou, à défaut, dans la commune de rattachement, telle qu'elle est définie par l'article 7 de la loi n° 69-3
+du 3 janvier 1969.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1470
+	  - CGI 1473
+	  - Loi n°69-3 du 3 janvier 1969 - art. 7 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1993-02-05 6E-1-93
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 36 () JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+
 ###### Article 310 HL
 
 Les bases d'imposition des entreprises mentionnées à l'article 1474 du code général des impôts sont réparties entre les
@@ -15271,44 +15568,6 @@ général des impôts concerne les usines de traitement des combustibles nucléa
 
 ##### I : Redevance communale des mines
 
-###### Article 311
-
-I Les taux de la redevance communale des mines applicables en 1962 sont égaux aux taux en vigueur en 1961 multipliés par le
-rapport entre le nombre moyen de centimes additionnels aux anciennes contributions directes perçus au profit des départements
-en 1961 et le nombre moyen de ces mêmes centimes perçus en 1960; le nombre moyen est obtenu en divisant la somme des produits
-nets desdits centimes dans tous les départements métropolitains pour l'année de perception en cause par la somme des valeurs
-desdits centimes dans ces départements pour la même année.
-
-Pour chacune des années ultérieures, les taux de la redevance sont calculés suivant les mêmes modalités de telle sorte que
-soit maintenu le rapport entre chacun des taux et le nombre moyen des centimes additionnels aux anciennes contributions
-directes perçues l'année précédente au profit des départements.
-
-II  Les taux de redevance résultant de l'application du I sont fixés chaque année, sur avis conforme du conseil général des
-mines, par arrêté du ministre de l'industrie, du ministre de l'économie et des finances et du ministre de l'intérieur (1).
-
-Ces taux sont exprimés avec trois chiffres significatifs, le troisième chiffre étant augmenté d'une unité si le chiffre
-suivant est égal ou supérieur à cinq.
-
-1)  Pour 1982, arrêté du 5 août 1982 (J.O. N.C. du 1er septembre); pour 1983, arrêté du 30 décembre 1983 (J.O. N.C. du 12
-février 1984)
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1977-07-13
-	  - Arrêté 1978-07-11
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°81-1160 du 30 décembre 1981 - art. 21 (P)
-
-
 ###### Article 311 A
 
 Les tonnages nets des produits extraits chaque année et d'après lesquels sera calculée l'année suivante la redevance
@@ -15394,8 +15653,8 @@ ont fonctionné lesdites exploitations ou explorations.
 
 Cette déclaration fait ressortir, pour chaque exploitation ou exploration et pour l'ensemble de l'année, en le décomposant
 par communes intéressées, le tonnage net du produit extrait, et, s'il y a lieu, le tonnage contenu de chacun des métaux dont
-la taxation est prévue par l'arrêté visé à l'article 311-II, ces divers chiffres étant évalués comme il est prescrit à
-l'article 311.
+la taxation est prévue par l'arrêté visé au II de l'article 1519 du code général des impôts, ces divers chiffres étant
+évalués comme il est prescrit à l'article 311 A.
 
 L'ingénieur en chef, après avoir vérifié la déclaration, transmet à la direction des services fiscaux, pour chaque
 exploitation ou exploration, les éléments nécessaires au calcul des deux redevances départementale et communale, ainsi qu'à
@@ -15405,13 +15664,21 @@ la répartition de la redevance communale (1).
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGIAN1 287
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 21 (P)
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 311 A (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 311 D
@@ -15627,11 +15894,11 @@ règlements de police en temps de neige et de glace.
 
 ###### Article 317 bis
 
-Pour l'application de l'article 1585 C-I-1° du code général des impôts, sont exclues du champ d'application de la taxe locale
-d'équipement les constructions définies ci-après :
+Pour l'application du 1° du I de l'article 1585 C du code général des impôts, sont exclues du champ d'application de la taxe
+locale d'équipement les constructions définies ci-après :
 
 1° Les constructions édifiées par l'Etat, les collectivités locales et leurs groupements, qui sont exemptées de la taxe
-foncière sur les propriétés bâties en application de l'article 1382-1° du code général des impôts;
+foncière sur les propriétés bâties en application du 1° de l'article 1382 du code général des impôts;
 
 2° Les constructions destinées à recevoir une affectation d'assistance, de bienfaisance, de santé, d'enseignement ou
 culturelle, scientifique ou sportive lorsque ces constructions sont édifiées par :
@@ -15652,10 +15919,10 @@ Des caisses primaires et régionales d'assurance maladie et d'assurance vieilles
 des départements d'outre mer, des caisses d'allocations familiales, des unions ou fédérations de caisses, des caisses
 départementales de mutualité sociale agricole, des caisses centrales de secours mutuels agricoles et d'allocations familiales
 mutuelles agricoles, de la caisse nationale d'assurance vieillesse agricole, des services et organismes gérant des régimes
-spéciaux prévus à l'article L 711-1 du code de la sécurité sociale, des institutions de prévoyance prévues à l'article L
-731-1 du même code, des caisses constituées pour l'application des titres II, III, IV du livre VI du même code, concernant le
-régime d'assurance vieillesse des travailleurs non salariés et de l'article L 611-1 du même code, relatif à l'assurance
-maladie maternité des travailleurs non salariés des professions non agricoles;
+spéciaux prévus à l'article L 711-1 du code de la sécurité sociale, des institutions de retraite ou de prévoyance
+complémentaires visées à l'article L 732-1 du même code, des caisses constituées pour l'application des titres II, III, IV du
+livre VI du même code, concernant le régime d'assurance vieillesse des travailleurs non salariés et de l'article L 611-1 du
+même code, relatif à l'assurance maladie maternité des travailleurs non salariés des professions non agricoles;
 
 Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles, dont les statuts ont été approuvés dans les
 conditions prévues à l'article L 122-5 du code de la mutualité.
@@ -15677,21 +15944,25 @@ une activité strictement conforme à leur objet légal ou statutaire.
 
 	**Cite**:
 
-	  - CGI 1585 C I 1°
-	  - Décret n°67-731 1967-08-30 ART. 1
-	  - Code de la sécurité sociale L643 à L683-2
+	  - CGI 1585 C, 1382
+	  - Décret n°67-731 1967-08-30 art. 1
 	  - Code de la sécurité sociale. - art. L611-1 (M)
 	  - Code de la sécurité sociale. - art. L711-1 (M)
-	  - Code de la sécurité sociale. - art. L731-1 (T)
+	  - Code de la sécurité sociale. - art. L732-1 (T)
 	  - Code de la mutualité - art. L122-5 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°87-571 du 23 juillet 1987 - art. 16 () JORF 24 juillet 1987
+	  - Loi n°89-1009 1989-12-31 art. 25 II, art. 27 1° JORF 2 janvier 1990
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 25 () JORF 2 janvier 1990
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 317 quater
@@ -15756,120 +16027,83 @@ l'article R. 112-2 du code de l'urbanisme.
 
 ###### Article 317 sexies
 
-I. Pour la détermination de l'assiette de la taxe locale d'équipement, les constructions sont réparties, au sens des articles
-1585 D et 1585 F du code général des impôts, entre les sept catégories suivantes :
+I. Les valeurs modifiées conformément aux dispositions du I de l'article 1585 D du code général des impôts sont arrondies à
+la dizaine de francs inférieure. Elles sont applicables aux constructions pour lesquelles le permis de construire a été
+notifié ou tacitement délivré, ou, s'il s'agit de constructions soumises à la déclaration prévue à l'article L. 422-2 du code
+de l'urbanisme, pour lesquelles le délai d'opposition dont, en vertu de ce même article, dispose l'autorité compétente en
+matière de permis de construire, est venu à expiration, postérieurement au 1er juillet de chaque année et antérieurement au
+1er juillet de l'année suivante.
 
-Catégories / Valeur par mètre carré de plancher hors-oeuvre.
-
-1° Constructions légères non agricoles et non utilisables pour l'habitation y compris les hangars autres que ceux qui sont
-mentionnés au 3° ci-dessous / 270.
-
-2° Locaux des exploitations agricoles à usage d'habitation des exploitants et de leur personnel :
-
-Autres locaux des exploitations agricoles intéressant la production agricole ou une activité annexe de cette production ;
-
-Bâtiments affectés aux activités de conditionnement et de transformation des coopératives agricoles, viticoles, horticoles,
-ostréicoles et autres / 500.
-
-3° Entrepôts et hangars faisant l'objet d'une exploitation commerciale, industrielle ou artisanale :
-
-Garages et aires de stationnement couvertes faisant l'objet d'une exploitation commerciale ou artisanale ;
-
-Locaux à usage industriel ou artisanal et bureaux y attenant ;
-
-Locaux des villages de vacances et des campings / 800.
-
-4° Locaux d'habitation et leurs annexes construits par les sociétés immobilières créées en application de la loi n° 46-860 du
-30 avril 1946 :
-
-Foyers-hôtels pour travailleurs ;
-
-Locaux d'habitation et leurs annexes bénéficiant d'un prêt aidé à l'accession à la propriété ou d'un prêt locatif aidé ;
-
-Immeubles d'habitation collectifs remplissant les conditions nécessaires à l'octroi de prêts aidés  à l'accession à la
-propriété / 700.
-
-5° Locaux à usage d'habitation principale et leurs annexes bénéficiant d'un prêt conventionné ou remplissant les conditions
-nécessaires à l'octroi d'un tel prêt [*(1)*] / 1.000.
-
-6° Parties des bâtiments hôteliers destinés à l'hébergement des clients / 1.400.
-
-7° Autres constructions soumises à la réglementation du permis de construire / 1.900
-
-Les valeurs définies ci-dessus sont fixées par référence à l'indice du coût de la construction publié par l'Institut national
-de la statistique et des études économiques pour le deuxième trimestre 1986, soit l'indice 859.
-
-Elles sont modifiées comme il est prévu à l'article 1585-D-I du code général des impôts, au 1er novembre de chaque année, en
-fonction du dernier indice du coût de la construction établi par l'Institut national de la statistique et des études
-économiques et publié au Journal officiel.
-
-Les valeurs ainsi modifiées sont arrondies à la dizaine de francs inférieure. Elles sont applicables aux constructions pour
-lesquelles le permis de construire a été notifié ou tacitement délivré, ou, s'il s'agit de constructions soumises à la
-déclaration prévue à l'article L. 422-2 du code de l'urbanisme, pour lesquelles le délai d'opposition dont, en vertu de ce
-même article, dispose l'autorité compétente en matière de permis de construire, est venu à expiration, postérieurement au 1er
-novembre de chaque année et antérieurement au 1er novembre de l'année suivante.
-
-Ces valeurs forfaitaires sont majorées de 10 p. 100 dans les communes de la région d'Ile-de-France, telle qu'elle est définie
-à l'article 1er de la loi n° 76-394 du 6 mai 1976.
-
-II. A défaut de délibération du conseil municipal fixant le taux de la catégorie 1, le taux qui est applicable à cette
-catégorie est celui qui a été fixé antérieurement à la publication du décret n° 81-620 du 20 mai 1981 relatif à la taxe
-locale d'équipement pour la catégorie 2.
+II. A défaut de délibération du conseil municipal fixant le taux de la catégorie 1 visée au 1° du troisième alinéa du I de
+l'article 1585 D, le taux qui est applicable à cette catégorie est celui qui a été fixé antérieurement à la publication du
+décret n° 81-620 du 20 mai 1981 relatif à la taxe locale d'équipement pour la catégorie 2 visée au 2° du troisième alinéa du
+I du même article.
 
 Pour les autres catégories, en l'absence de délibération du conseil municipal ou de l'organe délibérant de l'établissement
 public groupant plusieurs communes, les taux fixés respectivement pour les catégories correspondantes antérieurement à la
 publication du décret précité s'appliquent sans modification.
 
-III. Afin de bénéficier du classement en 4è catégorie, l'intéressé doit fournir au responsable du service de l'Etat chargé de
-l'urbanisme dans le département ou, en cas d'application de l'article R. 421-21 du code de l'urbanisme, au maire :
+III. Afin de bénéficier du classement en 4e catégorie visée au 4° du troisième alinéa du I de l'article 1585 D, l'intéressé
+doit fournir au responsable du service de l'Etat chargé de l'urbanisme dans le département ou, en cas d'application de
+l'article R. 421-21 du code de l'urbanisme, au maire :
 
-- une attestation de l'organisme de financement précisant que le prêt aidé à l'accession à la propriété ou le prêt locatif
-aidé a été octroyé ;
+Une attestation de l'organisme de financement précisant que le prêt aidé à l'accession à la propriété ou le prêt locatif aidé
+a été octroyé ;
 
-- ou, pour les immeubles d'habitation collectifs, une attestation que les constructions satisfont aux conditions nécessaires
-à l'octroi de tels prêts.
+Ou, pour les immeubles d'habitation collectifs, une attestation que les constructions satisfont aux conditions nécessaires à
+l'octroi de tels prêts.
 
 Cette attestation doit être remise à l'autorité ci-dessus désignée dans le délai de quinze mois suivant la notification du
 permis de construire, sa délivrance tacite ou la date à laquelle les travaux soumis à la déclaration prévue à l'article L.
 422-2 du code de l'urbanisme peuvent, en l'absence d'opposition, être exécutés.
 
 A l'expiration de ce délai, faute pour le constructeur de fournir cette attestation, la taxe est liquidée par application de
-la valeur forfaitaire et du taux prévus pour la cinquième catégorie si la construction remplit les conditions nécessaires à
-l'attribution d'un prêt conventionné ; dans le cas contraire, la taxe est liquidée dans les conditions applicables pour la
-septième catégorie.
+la valeur forfaitaire et du taux prévus pour la 5e catégorie visée au 5° du troisième alinéa du I de l'article 1585 D si la
+construction remplit les conditions nécessaires à l'attribution d'un prêt conventionné, ou si les prix de revient ne sont pas
+supérieurs aux prix plafonds prévus pour l'application de l'article R. 331-68 du code de la construction et de l'habitation ;
+dans le cas contraire, la taxe est liquidée dans les conditions applicables pour la 7e catégorie visée au 7° du troisième
+alinéa du I de l'article 1585 D.
 
-IV.  Afin de pouvoir bénéficier du classement en cinquième catégorie et, à défaut de la production d'une justification de
-l'octroi d'un prêt conventionné, l'intéressé doit attester au responsable du service de l'Etat chargé de l'urbanisme dans le
-département ou, en cas d'application de l'article R. 421-21 du code de l'urbanisme, au maire, que la construction satisfait
-aux conditions de prix fixées par la réglementation applicable aux prêts conventionnés.
+IV. Afin de pouvoir bénéficier du classement en 5e catégorie visée au 5° du troisième alinéa du I de l'article 1585 D et à
+défaut de la production d'une justification de l'octroi d'un prêt conventionné, l'intéressé doit attester au responsable du
+service de l'Etat chargé de l'urbanisme dans le département ou, en cas d'application de l'article R. 421-21 du code de
+l'urbanisme, au maire, que la construction satisfait aux conditions de prix fixées par la réglementation applicable aux prêts
+conventionnés.
 
 La justification ou l'attestation précitée doit être remise à l'autorité ci-dessus désignée dans le délai de quinze mois
 suivant la notification du permis de construire, sa délivrance tacite ou la date à laquelle les travaux soumis à la
 déclaration prévue à l'article L. 422-2 du code de l'urbanisme peuvent, en l'absence d'opposition, être exécutés.
 
 A l'expiration de ce délai, faute pour le constructeur de produire l'un ou l'autre de ces documents, la taxe est liquidée par
-application de la valeur forfaitaire et du taux prévus pour la septième catégorie [*(1)*].
+application de la valeur forfaitaire et du taux prévus pour la 7e catégorie visée au 7° du troisième alinéa du I de l'article
+1585 D.
 
-[*(1) Dispositions applicables aux bâtiments ayant fait l'objet de demandes de permis de construire déposées postérieurement
-à la publication du décret n° 87-285 du 22 avril 1987 (J.O. du 25) relatif à la taxe locale d'équipement.*]
+**Nota:**
+
+L'article R. 331-68 du code de la construction et de l'habitation a été abrogé par l'article 3 du décret n° 2001-911 du 4
+octobre 2001.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1585 D 1
-	  - CGI 1585 F
-	  - Loi n°46-860 1946-04-30
-	  - Loi n°76-394 du 6 mai 1976 - art. 1 (M)
+	  - CGI 1585 D
 	  - Décret n°81-620 1981-05-20
 	  - Code de l'urbanisme - art. L422-2 (M)
 	  - Code de l'urbanisme - art. R421-21 (M)
+	  - Code de la construction et de l'habitation. - art. R331-68 (M)
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Décret n°87-285 du 22 avril 1987 - art. 1 (V) JORF 25 avril 1987
-	  - Décret n°87-285 du 22 avril 1987 - art. 2 (V) JORF 25 avril 1987
-	  - Décret n°87-285 du 22 avril 1987 - art. 3 (V) JORF 25 avril 1987
+	  - Loi n°91-716 du 26 juillet 1991 - art. 40 (V) JORF 27 juillet 1991
 
 
 ###### Article 317 ter
@@ -16028,33 +16262,27 @@ souscription.
 	  - HISTO: Edition du 27 octobre 1995
 
 
-##### Redevance départementale des mines.
+##### II : Redevance départementale des mines
 
 ###### Article 317 octies
 
 La redevance départementale des mines instituée par l'article 1587 du code général des impôts est établie dans les conditions
 prévues aux articles 311 A à 311 D en ce qui concerne la redevance communale.
 
-Ses taux sont calculés conformément aux dispositions de l'article 311.
-
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1587
-	  - CGIAN2 311
-	  - CGIAN2 311 A
-	  - CGIAN2 311 B
-	  - CGIAN2 311 C
-	  - CGIAN2 311 D
-
-	**Anciens textes**:
-
-	  - CGIAN2 304
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 21 (P) JORF 31 décembre 1981
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 311 A (V)
+	  - Code général des impôts, CGI. - art. 1587 (V)
 
 
 #### Chapitre II : Taxe sur les véhicules à moteur
@@ -16228,42 +16456,43 @@ détermine à partir de la date de la première mise en circulation. Il s'appré
 	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 
-### Titre III : Impositions régionales
-
-#### Chapitre premier : Enregistrement, publicité foncière et timbre
-
-##### Région de Corse.
-
-###### Article 318
-
-Les dispositions des articles 317 nonies, 317 decies et 317 duodecies sont applicables à la taxe différentielle sur les
-véhicules à moteur perçue au profit de la région de Corse (1).
-
-(1) Voir également Annexe IV, art. 155 bis
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 317 decies
-	  - CGIAN2 317 duodecies
-	  - CGIAN2 317 nonies
-	  - CGIAN4 155 bis
-
-	**Anciens textes**:
-
-	  - CGIAN2 317 septdecies
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
 ### Titre III : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
 
 #### Chapitre premier : Enregistrement, publicité foncière et timbre
 
 ##### Corse.
+
+###### Article 318
+
+Les dispositions des articles 317 nonies, 317 decies et 317 duodecies sont applicables à la taxe différentielle sur les
+véhicules à moteur perçue au profit de la collectivité territoriale de Corse (1).
+
+(1) Voir également Annexe IV, art. 155 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 317 nonies, 317 decies, 317 duodecies
+	  - CGIAN4 155 bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 4 juillet 1992
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 2 (Ab) JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 89 (Ab) JORF 14 mai 1991
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
 
 ###### Article 318 A
 
@@ -17549,99 +17778,133 @@ les entreprises bénéficient de la franchise définie au 1 de l'article 282 pr�
 	  - PEREMPTION: Décret n°91-883 du 9 septembre 1991 - art. 2 () JORF 10 septembre 1991
 
 
-#### Chapitre V : Taxe parafiscale des industries textiles.
+#### Chapitre V : Taxe parafiscale des industries du textile et de la maille.
 
 ###### Article 357 A
 
-En vue d'encourager la promotion des industries textiles, et notamment la recherche, l'innovation et la rénovation des
-structures industrielles et commerciales, est autorisée, dans la limite d'un taux de 0,44 % [*pourcentage*] et jusqu'au 31
-décembre 1990 [*date limite*], la perception au profit du comité de développement et de promotion du textile et de
-l'habillement d'une taxe parafiscale assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et les
-mêmes sanctions que la taxe sur la valeur ajoutée [*TVA*], sous réserve des dispositions des articles 357 B à 357 E.
+En vue d'encourager, à titre collectif, dans les industries du textile et de la maille, la recherche, l'innovation,
+l'amélioration des conditions de formation du personnel et d'information des entreprises, la promotion des exportations
+extra-communautaires, ainsi que les actions culturelles, est autorisée, dans la limite des taux de 0,18 p. 100 pour le
+textile et 0,11 p. 100 pour la maille et jusqu'au 31 décembre 1995, la perception, au profit du comité de développement et de
+promotion du textile et de l'habillement, d'une taxe parafiscale assise, liquidée et recouvrée suivant les mêmes règles, sous
+les mêmes garanties et les mêmes sanctions, que la taxe sur la valeur ajoutée, sous réserve des dispositions des articles 357
+B à 357 E.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 357 B
-	  - CGIAN2 357 C
-	  - CGIAN2 357 D
-	  - CGIAN2 357 E
+	  - CGI 357 B à 357 E
 
 	**Modifié par**:
 
-	  - Décret n°86-159 du 4 février 1986 - art. 1 (V) JORF 6 février 1986
+	  - Décret n°91-793 du 21 août 1991 - art. 1 (P) JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°96-81 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
 
 
 ###### Article 357 B
 
-Sont soumises à la taxe prévue à l'article 357 A, les ventes réalisées par les fabricants et les transformateurs, les
-opérations à façon et les importations pour la consommation portant sur les produits textiles relevant des classes 43 et 44,
-à l'exception des groupes 44-20 à 44-25 de la nomenclature détaillée de produits approuvé par le décret n° 83-831 du 5
-septembre 1983.
+Sont soumises à la taxe prévue à l'article 357 A :
 
-Sont également soumises à cette taxe, les livraisons des produits textiles indiqués au premier alinéa que les entreprises se
-font à elles-mêmes pour être utilisées dans la fabrication de produits ou articles non imposables à cette taxe et contenant
-par rapport à leur poids total plus de 25 % [*pourcentage*] de ces produits.
+Les ventes, y compris à l'exportation, et les livraisons à soi-même réalisées par les fabricants et les transformateurs et
+les opérations à façon portant sur les produits textiles relevant des classes 44-17-01, 44-17-02 et 44-17-04 à 44-17-07,
+44-18 et 44-30 à 44-42 de la nomenclature d'activité et de produits approuvée par le décret n° 83-831 du 5 septembre 1983 et
+les produits en maille relevant des classes 44-20 à 44-25 de la même nomenclature ;
 
-La taxe n'est pas perçue sur les articles importés originaires des Etats membres de la Communauté économique européenne
-[*CEE*] ou mis en libre pratique dans l'un de ceux-ci.
+Les importations pour la consommation d'articles relevant des chapitres ex 50, ex 51, ex 52, ex 53, ex 54, ex 55, ex 56, ex
+57, ex 58, ex 59, ex 60, ex 61, ex 62, ex 63, ex 65, ex 66, ex 70, ex 91 et ex 93 du système harmonisé de désignation et de
+codification des marchandises.
+
+Toutefois, la taxe n'est pas perçue sur :
+
+Les articles importés originaires des Etats membres de la Communauté économique européenne ou mis en libre pratique dans l'un
+de ces Etats ;
+
+Les exportations de produits à destination de pays autres que ceux appartenant à la Communauté économique européenne.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 357 A
+	  - CGI 357 A
 	  - Décret n°83-831 1983-09-05
 
 	**Modifié par**:
 
-	  - Décret n°86-159 du 4 février 1986 - art. 2 (V) JORF 6 février 1986
+	  - Décret n°91-793 1991-08-21 art. 2 JORF 22 août 1991
+	  - Décret n°92-186 1992-06-26 art. 1 JORF 28 février 1992
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 357 C
 
 Les ventes, les opérations à façon et les livraisons à soi-même effectuées par les entreprises imposées à la taxe sur la
-valeur ajoutée [*TVA*] selon le régime du forfait sont exonérées de la taxe prévue à l'article 357 A.
+valeur ajoutée selon le régime du forfait sont exonérées de la taxe prévue à l'article 357 A.
+
+Les ventes soumises à la taxe et réalisées au détail par les fabricants et les transformateurs de produits visés à l'article
+357 B sont imposables à hauteur de 60 p. 100 de leur montant.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 357 A
+	  - CGI 357 A, 357 B
 
 	**Modifié par**:
 
-	  - Décret n°86-159 du 4 février 1986 - art. 3 (V) JORF 6 février 1986
+	  - Décret n°91-793 du 21 août 1991 - art. 3 (P) JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°96-81 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 357 D
 
-Le produit des taxes recouvrées par l'administration des impôts et l'administration des douanes est transféré [*périodicité*]
-mensuellement au comité de développement et de promotion du textile et de l'habillement, à charge pour celui-ci de répartir
-ces ressources, conformément aux missions qui lui sont confiées.
+Les sommes recouvrées par l'administration des impôts et l'administration des douanes sont transférées mensuellement au
+comité de développement et de promotion du textile et de l'habillement créé par le décret n° 84-388 du 22 mai 1984, à charge
+pour celui-ci de répartir ces ressources au bénéfice, notamment :
+
+D'une part, de la recherche technique, à hauteur d'au minimum 45 p. 100 du produit annuel de la taxe ;
+
+D'autre part, d'actions de formation, d'actions culturelles et de valorisation du patrimoine, de promotion de la création et
+d'études économiques à hauteur d'au minimum 15 p. 100 du produit annuel de la taxe.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°84-388 1984-05-22
+
 	**Modifié par**:
 
-	  - Décret n°86-159 du 4 février 1986 - art. 4 (V) JORF 6 février 1986
+	  - Décret n°91-793 du 21 août 1991 - art. 4 (P) JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°96-81 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
 
 
 ###### Article 357 E
@@ -17652,17 +17915,18 @@ Le taux de la taxe est fixé par arrêté conjoint des ministres chargés de l'�
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN4 159 AL quater A
-
 	**Modifié par**:
 
-	  - Décret n°86-159 du 4 février 1986 - art. 4 (V) JORF 6 février 1986
+	  - Décret n°91-793 du 21 août 1991 - art. 5 (P) JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°96-81 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
 
 
 #### Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.
@@ -18147,135 +18411,131 @@ parafiscale prévue à l'article 363 AE.
 	  - Décret n°88-1001 1988-10-20
 
 
-#### Chapitre X : Taxe parafiscale des industries de l'habillement et de la maille.
+#### Chapitre X : Taxe parafiscale des industries de l'habillement
 
 ###### Article 363 N
 
-En vue d'encourager dans les industries de l'habillement et de la maille, et notamment la recherche, l'innovation et la
-rénovation des structures industrielles et commerciales, est autorisée, dans la limite d'un taux de 0,25 %[*pourcentage*] et
-jusqu'au 31 décembre 1990 [*date limite*], la perception au profit du comité de developpement et de promotion du textile et
-de l'habillement d'une taxe parafiscale assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et
-les mêmes sanctions que la taxe sur la valeur ajoutée [*TVA*] sous réserve des articles 363 O à 363 S.
+En vue d'encourager, à titre collectif, dans les industries de l'habillement, la recherche, l'innovation, l'amélioration des
+conditions de formation du personnel et d'information des entreprises, la promotion des exportations extracommunautaires,
+ainsi que les actions culturelles, est autorisée, dans la limite d'un taux de 0,11 p. 100 et jusqu'au 31 décembre 1995, la
+perception, au profit du comité de développement et de promotion du textile et de l'habillement, d'une taxe parafiscale
+assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur la
+valeur ajoutée, sous réserve des articles 363 O à 363 S.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 363 O
-	  - CGIAN2 363 P
-	  - CGIAN2 363 Q
-	  - CGIAN2 363 R
-	  - CGIAN2 363 S
+	  - CGIAN2 363 O à 363 S
 
 	**Modifié par**:
 
-	  - Décret n°86-160 du 4 février 1986 - art. 1 (P) JORF 6 février 1986
+	  - Décret n°91-792 du 21 août 1991 - art. 1 (P) JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°96-82 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 363 O
 
-Sont soumises à cette taxe les ventes et les livraisons à soi-même réalisées par les fabricants et les transformateurs, les
-opérations à façon et les importations pour la consommation portant sur les produits en maille et les articles d'habillement
-relevant respectivement des groupes 44-20 à 44-25 et de la classe 47 de la nomenclature détaillée et de produits approuvée
-par le décret n° 83-831 du 5 septembre 1983.
+Sont soumises à la taxe prévue à l'article 363 N :
 
-La taxe n'est pas perçue sur les articles importés originaires des Etats membres de la Communauté économique européenne
-[*CEE*] ou mis en libre pratique dans l'un de ceux-ci.
+Les ventes, y compris à l'exportation, et les livraisons à soi-même réalisées par les fabricants et les transformateurs et
+les opérations à façon portant sur les articles d'habillement relevant de la classe 47 de la nomenclature d'activité et de
+produits approuvée par le décret n° 83-831 du 5 septembre 1983 ;
+
+Les importations pour la consommation d'articles d'habillement relevant des chapitres ex 39, ex 40, ex 42, ex 43, ex 62, ex
+63, ex 65, ex 66 et ex 96 du système harmonisé de désignation et de codification des marchandises.
+
+Toutefois, la taxe n'est pas perçue sur :
+
+Les articles importés originaires des Etats membres de la Communauté économique européenne ou mis en libre pratique dans l'un
+de ces Etats ;
+
+Les exportations de produits à destination de pays autres que ceux appartenant à la Communauté économique européenne.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 363 N
 	  - Décret n°83-831 1983-09-05
 
 	**Modifié par**:
 
-	  - Décret n°86-160 du 4 février 1986 - art. 2 (P) JORF 6 février 1986
+	  - Décret n°91-792 du 21 août 1991 - art. 2 (P) JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 363 P
 
-Les ventes, les opérations à façon et les livraisons à soi-même effectuées par les entreprises imposées à la taxe sur la
-valeur ajoutée selon le régime du forfait sont exonérées de la taxe instituée par l'article 363 N.
+Les ventes, les opérations à façon et livraisons à soi-même effectuées par les entreprises imposées à la taxe sur la valeur
+ajoutée selon le régime du forfait sont exonérées de la taxe instituée par l'article 363 N.
 
-Les ventes assujetties à la taxe et réalisées au détail par les fabricants et les transformateurs désignés à l'article 363 O
-sont imposables sur 60 % [*pourcentage*] de leur montant.
+Les ventes soumises à la taxe et réalisées au détail par les fabricants et les transformateurs de produits visés à l'article
+363 O sont imposables à hauteur de 60 p. 100 de leur montant.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 363 N
-	  - CGIAN2 363 O
+	  - CGI 363 N, 363 O
 
 	**Modifié par**:
 
-	  - Décret n°86-160 du 4 février 1986 - art. 3 (P) JORF 6 février 1986
+	  - Décret n°91-792 du 21 août 1991 - art. 3 (P) JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
-
-
-###### Article 363 Q
-
-Les entreprises qui produisent à la fois des accessoires du vêtement et des ceintures de maroquinerie relevant respectivement
-des groupes 47-09 et 45-21 de la nomenclature mentionnée à l'article 363 O peuvent, en ce qui concerne l'ensemble des ventes
-de ces articles, demander à être soumises soit à la taxe prévue à l'article 363 N soit à la taxe sur les cuirs (1) si les
-ventes des produits de l'un ou de l'autre groupe pour lequel l'option est demandée représentent plus de 30 % de leur chiffre
-d'affaires total.
-
-Cette option, formulée sur papier libre et adressée à la fois aux services locaux des impôts et aux deux comités
-professionnels intéressés avant le 6 avril 1986 [*date limite*], est valable pour une période de deux ans renouvelable.
-
-(1) Décret 86-162 du 4 février 1986 créant une taxe parafiscale commune au comité interprofessionnel de développement des
-industries du cuir et au centre technique cuir, chaussure, maroquinerie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 N
-	  - CGIAN2 363 O
-	  - Décret n°86-162 1986-02-04
-
-	**Créé par**:
-
-	  - Décret n°86-160 du 4 février 1986 - art. 4 (P) JORF 6 Février 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
 	  - Décret n°92-836 1992-08-27
+	  - Décret n°96-556 1996-06-21
 
 	**Liens**:
 
-	  - PEREMPTION: Décret n°92-836 du 27 août 1992 - art. 2 () JORF 29 août 1992
+	  - DISJONCTION: Décret n°96-82 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 363 R
 
 Les sommes recouvrées par l'administration des impôts et l'administration des douanes sont transférées mensuellement au
-comité du développement et de promotion du textile et de l'habillement à charge pour celui-ci de décider de la répartition de
-ces sommes, conformément aux missions qui lui sont confiées.
+comité de développement et de promotion du textile et de l'habillement créé par le décret n° 84-388 du 22 mai 1984, à charge
+pour celui-ci de répartir ces ressources au bénéfice notamment :
+
+D'une part, de la recherche technique à hauteur d'au minimum 45 p. 100 du produit annuel de la taxe ;
+
+D'autre part, d'actions de formation, de valorisation du patrimoine, de promotion de la création et d'études économiques à
+hauteur d'au minimum 15 p. 100 du produit annuel de la taxe.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°84-388 1984-05-22
+
 	**Modifié par**:
 
-	  - Décret n°86-160 du 4 février 1986 - art. 5 (P) JORF 6 février 1986
+	  - Décret n°91-792 du 21 août 1991 - art. 4 (P) JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°96-82 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 363 S
@@ -18292,11 +18552,17 @@ Le taux de la taxe est fixé par arrêté conjoint des ministres chargés de l'�
 
 	**Modifié par**:
 
-	  - Décret n°86-160 du 4 février 1986 - art. 6 (P) JORF 6 février 1986
+	  - Décret n°91-792 du 21 août 1991 - art. 5 (P) JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°96-82 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
+	  - HISTO: Edition du 4 juillet 1992
 
 
 #### Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.
@@ -18481,12 +18747,7 @@ agréés et aux producteurs grainiers.
 Toutefois, sont exonérées de la taxe les céréales de qualité courante échangées contre des céréales de semence certifiées,
 dans la limite d'un plafond fixé par décret.
 
-II. Les éleveurs-producteurs de céréales peuvent obtenir, dans les conditions prévues au deuxième alinéa du II de l'article
-1618 octies du code général des impôts, la restitution de la taxe correspondant aux quantités de céréales contenues dans les
-aliments qu'ils acquièrent pour la nourriture animale.
-
-Le droit à restitution ne peut s'exercer qu'auprès d'un seul collecteur agréé, dans la limite globale de 150 tonnes par
-campagne et à concurrence des quantités de céréales équivalentes produites par l'éleveur et livrées audit collecteur agréé.
+II. (Sans objet : Loi 90-1169 1990-12-29 art. 51 II).
 
 III. Après déduction des frais de recouvrement, le produit de la taxe est réparti entre l'office national interprofessionnel
 des céréales [*ONIC*], le fonds de solidarité des céréaliculteurs et des éleveurs et l'institut technique des céréales et des
@@ -18500,17 +18761,15 @@ bénéficiaires ; la partie affectée à l'office national interprofessionnel de
 
 	**Cite**:
 
-	  - CGI 1618 octies
 	  - CGIAN2 363 AI
-	  - CGIAN2 363 AK
 
 	**Modifié par**:
 
-	  - Décret n°87-677 du 17 août 1987 - art. 1 (P) JORF 19 août 1987
+	  - Loi n°90-1169 du 29 décembre 1990 - art. 51 ()
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 363 AF
@@ -18732,13 +18991,18 @@ voie hertzienne ne collectant pas de ressources publicitaires et ne diffusant pa
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-826 1987-10-09 art. 1 JORF 10 octobre 1987
+	  - Décret n°90-627 du 11 juillet 1990 - art. 1 () JORF 17 juillet 1992
+	  - Décret n°92-346 du 1 avril 1992 - art. 1 () JORF 2 avril 1992
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 365 A
@@ -20668,9 +20932,9 @@ Trésor public.
 
 ###### Article 378
 
-I. Les sommes prélevées au titre de la retenue à la source prévue à l'article 119 bis-2 du code général des impôts par un
-établissement payeur au cours de chaque trimestre civil font l'objet, dans le mois suivant, d'un versement à la recette des
-impôts du lieu de cet établissement payeur.
+I. Les sommes prélevées au titre de la retenue à la source prévue au 2 de l'article 119 bis du code général des impôts par un
+établissement payeur au cours de chaque mois civil font l'objet, dans les quinze premiers jours du mois suivant, d'un
+versement à la recette des impôts du lieu de cet établissement payeur.
 
 Lorsque l'établissement payeur est la société, l'entreprise ou la collectivité débitrice des revenus, la recette compétente
 est celle du lieu où est souscrite la déclaration des résultats ou revenus.
@@ -20681,20 +20945,38 @@ III. Un arrêté détermine la nature et le contenu des documents que les établ
 la disposition de l'administration en vue du contrôle (1) ; il fixe les conditions dans lesquelles la retenue opérée par les
 succursales de ces établissements peut faire l'objet de versements globaux (2).
 
-(1) Annexe IV, art. 17 et 17 A. 2)  Annexe IV, art. 188 H.
+(1) Annexe IV, art. 17 et 17 A.
+
+(2) Annexe IV, art. 188 H.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 119 bis 2
-	  - CGIAN4 17
-	  - CGIAN4 17 A
-	  - CGIAN4 188 H
+	  - CGIAN4 17, 17 A, 188 H
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 381 A
+
+	**Modifié par**:
+
+	  - Décret n°91-1118 du 28 octobre 1991 - art. 1 (V) JORF 29 octobre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Transféré par**:
+
+	  - Décret n°97-671 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - SPEC_APPLI: Décret n°97-670 du 31 mai 1997 - art. 1 (V)
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 4 juillet 1992
 
 
 #### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source
@@ -21822,6 +22104,33 @@ En cas de partage égal des voix, celle du président est prépondérante.
 	  - Loi n°77-1453 1977-12-29 art. 20 JORF 30 décembre 1977
 
 
+###### Article 396 quindecies
+
+Pour l'exécution des enquêtes auxquelles procèdent les membres du comité du contentieux fiscal douanier et des changes en vue
+de l'élaboration du rapport annuel prévu à l'article L 138 du livre des procédures fiscales, le comité fait appel aux corps
+ou services habilités à contrôler l'activité des services déconcentrés de la direction générale des impôts.
+
+Il peut demander au directeur général des impôts de désigner des agents à cette fin.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L138 (M)
+
+
 ###### Article 396 quinquies
 
 Le comité comprend quatre sections. Chaque section est composée de trois membres.
@@ -21907,33 +22216,6 @@ délibérer que si deux au moins de ses membres, titulaires ou suppléants, sont
 Les sections ou le comité se prononcent à la majorité des voix. En cas de partage égal des voix, le président a voix
 prépondérante.
 
-
-
-### Section II : Juridiction gracieuse
-
-#### Comité du contentieux fiscal, douanier et des changes.
-
-###### Article 396 quindecies
-
-Pour l'exécution des enquêtes auxquelles procèdent les membres du comité du contentieux fiscal douanier et des changes en vue
-de l'élaboration du rapport annuel prévu à l'article L 138 du livre des procédures fiscales, le comité fait appel aux corps
-ou services habilités à contrôler l'activité des services extérieurs de la direction générale des impôts.
-
-Il peut demander au directeur général des impôts de désigner des agents à cette fin.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L138
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
 
 
 ## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.
