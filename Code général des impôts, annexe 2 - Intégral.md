@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1987-10-08
+Version Consolidée au 1987-12-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18911,97 +18911,206 @@ Transfert.
 
 ###### Article 371 AD
 
-Les déclarations reçues par les centres de formalités des entreprises sont conformes à un modèle fixé par arrêté
-interministériel.
+Les déclarations sont présentées au centre compétent en application des articles 371 AA et 371 AB. Si plusieurs centres se
+trouvent compétents, les déclarations sont présentées à l'un d'eux, au choix du déclarant.
 
-Elles sont signées par le déclarant ou par un mandataire muni d'une procuration signée.
+Les déclarations sont établies conformément à un modèle fixé par arrêté interministériel (1). Elles sont signées du déclarant
+ou de son mandataire.
+
+Elles sont accompagnées des pièces justificatives prescrites. Ces pièces sont fournies en original ou, pour celles qui
+doivent être conservées par le déclarant, en copie certifiée conforme par le centre. Lorsque la formalité comporte un dépôt
+d'actes auprès de l'un des organismes destinataires, ces documents sont remis au centre dans la forme exigée pour leur dépôt.
+
+(1) Arrêtés des 21 décembre 1983 (JO du 23), 6 septembre 1985 (JO du 10), 2 février 1988 (JO du 3).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°81-257 1981-03-18 ART. 4 JORF 21 MARS 1981
+	  - Arrêté 1983-12-21
+	  - Arrêté 1985-09-06
+	  - Arrêté 1988-02-02
+	  - CGIAN2 371 AA, 371 AB
+
+	**Modifié par**:
+
+	  - Décret n°87-970 du 3 décembre 1987 - art. 5 () JORF 4 décembre 1987
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 1997-05-28
+
+	**Abrogé par**:
+
+	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 371 AD bis
+
+Le centre est réputé saisi lorsque les déclarations qui lui sont directement remises ou adressées ou transmises par voie
+postale sont établies conformément au modèle prévu à l'article 371 AD, signées du déclarant ou de son mandataire et qu'elles
+comportent les énonciations indispensables pour identifier :
+
+1° Les nom et prénoms du déclarant pour les personnes physiques, la dénomination ou la raison sociale pour les personnes
+morales ;
+
+2° La forme juridique de l'entreprise ;
+
+3° Le siège de l'entreprise ou l'adresse de l'établissement ;
+
+4° L'objet de la déclaration ;
+
+5° Les activités générales de l'entreprise ou de l'établissement ;
+
+6° Le nombre de salariés dans l'entreprise ou l'établissement.
+
+Le centre ne peut refuser les déclarations respectant les conditions ci-dessus énumérées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 371 AD
+
+	**Créé par**:
+
+	  - Décret n°87-970 du 3 décembre 1987 - art. 6 () JORF 4 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 1997-05-28
+
+	**Abrogé par**:
+
+	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 371 AE
 
-Les déclarations sont accompagnées des pièces justificatives exigées à l'appui de la demande. Ces pièces sont fournies soit
-en original, soit en copie certifiée conforme par le centre.
+Le centre, saisi des déclarations en application des dispositions des articles 371 AD et 371 AD bis, remet ou adresse au
+déclarant ou à son mandataire un récépissé le premier jour ouvrable suivant celui du dépôt ou de la réception.
 
-Lorsque la formalité comporte un dépôt d'actes auprès de l'un des organismes destinataires, ces documents sont remis au
-centre dans la forme exigée pour leur dépôt.
+Le récépissé indique :
 
-Après contrôle formel, le centre délivre au déclarant un récépissé de dépôt de la déclaration.
+1° Le centre auquel les déclarations sont, le même jour, transmises si le centre saisi s'estime incompétent ;
 
-Il transmet la déclaration et les pièces sans délai au destinataire de la formalité.
+2° Les organismes auxquels les déclarations sont, le même jour, transmises si le centre estime que les déclarations sont
+complètes et qu'elles sont accompagnées de l'ensemble des pièces justificatives prescrites ;
+
+3° Si le centre estime que les déclarations sont incomplètes ou qu'elles ne sont pas accompagnées d'une ou plusieurs des
+pièces justificatives prescrites, les compléments à apporter dans un délai de cinq jours ouvrables à compter de la réception
+du récépissé par le déclarant, ce délai étant porté à quinze jours lorsque le déclarant ou son mandataire en fait la demande
+au centre dans le délai précédent.
+
+Dès réception des renseignements ou pièces complémentaires demandés en vertu du 3° ou, à défaut de remise de ces compléments
+par le déclarant, au plus tard à l'expiration du délai prévu au 3°, le centre transmet, en l'état, les déclarations et pièces
+justificatives aux organismes destinataires et en avise le déclarant par écrit.
+
+A défaut de transmission par le centre dans les trois jours suivant l'expiration des délais prévus au 1°, au 2° ou à l'alinéa
+précédent, le déclarant peut obtenir la restitution immédiate de son dossier, afin d'en saisir directement les organismes
+destinataires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°81-257 1981-03-18 ART. 5 JORF 21 MARS 1981
+	  - CGIAN2 371 AD, 371 AD bis
+
+	**Modifié par**:
+
+	  - Décret n°87-970 du 3 décembre 1987 - art. 7 () JORF 4 décembre 1987
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 1997-05-28
+
+	**Abrogé par**:
+
+	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 371 AF
 
-L'acceptation de la déclaration par le centre vaut déclaration auprès de l'organisme destinataire de la formalité.
-
-Elle interrompt les délais pour accomplir cette formalité.
+La déclaration présentée ou transmise au centre compétent vaut déclaration auprès de l'organisme destinataire, dès lors
+qu'elle est régulière et complète à l'égard de ce dernier. Elle interrompt les délais à l'égard de cet organisme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-257 1981-03-18 ART. 6 JORF 21 MARS 1981
+	  - Décret n°87-970 du 3 décembre 1987 - art. 8 () JORF 4 décembre 1987
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 1997-05-28
+
+	**Abrogé par**:
+
+	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 371 AG
 
-Les organismes destinataires de la formalité sont seuls compétents pour contrôler la régularité ou apprécier la validité des
-déclarations. Lorsque les déclarations contiennent des demandes au sujet desquelles une décision doit être prise, ils en
-informent le déclarant et le centre.
+Les organismes destinataires des déclarations sont seuls compétents pour en contrôler la régularité ou en apprécier la
+validité. Leur transmission à ces organismes dessaisit le centre en ce qui concerne les formalités à accomplir.
+
+Lorsque les déclarations contiennent des demandes au sujet desquelles une décision doit être prise, les organismes
+destinataires en informent le centre en même temps que le déclarant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-257 1981-03-18 ART. 7 JORF 21 MARS 1981
+	  - Décret n°87-970 du 3 décembre 1987 - art. 9 () JORF 4 décembre 1987
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 1997-05-28
+
+	**Abrogé par**:
+
+	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 371 AH
 
-Le dispositif créant les centres de formalités des entreprises entrera en vigueur dans un délai maximum de quatre ans ; un
-arrêté du premier ministre publié au Journal officiel de la République française fixera la date de mise en vigueur par
-département (1).
+Le dépôt des déclarations prévues à l'article 371 AC est obligatoirement effectué dans les centres de formalités des
+entreprises au terme d'un délai d'un an à compter de la création du centre.
 
-Le dépôt des déclarations prévu à l'article 371 AC est obligatoirement effectué dans les centres de formalités des
-entreprises :
-
-A compter du 1er janvier 1985 pour les centres créés avant le 1er janvier 1984 ;
-
-Au terme d'un délai d'un an à compter de leur création pour les centres créés après le 1er janvier 1984.
-
-En cas de difficulté grave de fonctionnement d'un centre, le Premier ministre prend, par arrêté, toutes mesures de nature à
-assurer la continuité du service.
-
-(1) Arrêtés des 18 mars 1981 (J.O. du 21), 23 juillet 1981 (J.O. des 27 et 28), 23 décembre 1981 (J.O. des 25 et 26), 13
-juillet 1982 (J.O. du 17), 18 juillet 1983 (J.O. N.C. du 20), 30 janvier 1984 (J.O. N.C. du 4 février).
+Toutefois, les dispositions prévues à l'alinéa précédent ne font pas obstacle à la faculté ouverte à tout déclarant de
+présenter directement au greffe du tribunal compétent une demande d'inscription au registre du commerce et des sociétés, sous
+réserve qu'il justifie auprès du greffe avoir préalablement saisi le centre conformément aux dispositions de l'article 371 AD
+bis. Dans ce cas, le greffe avise le centre.
 
 **Liens relatifs à cet article**
 
@@ -19009,15 +19118,25 @@ juillet 1982 (J.O. du 17), 18 juillet 1983 (J.O. N.C. du 20), 30 janvier 1984 (J
 
 	  - Arrêté 1981-03-18
 	  - Arrêté 1981-07-23
-	  - CGI 371 AC
+	  - CGIAN2 371 AC, AD bis
 
 	**Modifié par**:
 
-	  - Décret n°84-405 1984-05-30 art. 2 JORF 31 mai 1984
+	  - Décret n°87-970 du 3 décembre 1987 - art. 10 () JORF 4 décembre 1987
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 1997-05-28
+
+	**Abrogé par**:
+
+	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 15 juillet 1988
 
 
 ### Chapitre II : Sociétés immobilières de copropriété
