@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-07-01
+Version Consolidée au 1986-07-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4569,6 +4569,34 @@ dans la mesure où ils sont admis en déduction des bénéfices imposables des s
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+###### Article 127
+
+1. Pour l'assiette du précompte visé à l'article 223 sexies du code général des impôts, les bénéfices soumis par la société
+agréée à à l'impôt sur les sociétés au taux normal prévu au deuxième alinéa du I de l'article 219 du code précité s'entendent
+de ceux qui sont définis à l'article 108-1, premier alinéa, et à l'article 116, à l'exclusion, toutefois, des bénéfices des
+exploitations indirectes qui n'auraient pas été mis effectivement à la disposition de ladite société.
+
+2. Le précompte n'est pas appliqué aux dividendes, intérêts et autres produits versés à la société agréée par des sociétés
+membres du groupe et prélevés sur des bénéfices compris dans le résultat consolidé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 219 I
+	  - CGI 223 sexies
+	  - CGIAN2 108 A AL. 1
+	  - CGIAN2 116
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ###### Article 128
@@ -16256,31 +16284,6 @@ et leur valeur d'origine.
 	**Créé par**:
 
 	  - Décret n°84-580 du 4 juillet 1984 - art. 2 (V) JORF 11 juillet 1984
-
-
-##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.
-
-###### Article 127
-
-1. Pour l'assiette du précompte visé à l'article 223 sexies du code général des impôts, les bénéfices soumis par la société
-agréée à l'impôt sur les sociétés au taux de 50 % s'entendent de ceux qui sont définis à l'article 108-1, premier alinéa, et
-à l'article 116, à l'exclusion, toutefois, des bénéfices des exploitations indirectes qui n'auraient pas été mis
-effectivement à la disposition de ladite société.
-
-2. Le précompte n'est pas appliqué aux dividendes, intérêts et autres produits versés à la société agréée par des sociétés
-membres du groupe et prélevés sur des bénéfices compris dans le résultat consolidé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 sexies
-	  - CGIAN2 108 A AL. 1
-	  - CGIAN2 116
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 #### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES
