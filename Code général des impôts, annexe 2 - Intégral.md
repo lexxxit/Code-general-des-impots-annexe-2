@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-11-05
+Version Consolidée au 1982-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17256,6 +17256,36 @@ fiscales.
 
 ## IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES.
 
+###### Article 339
+
+Il est institué au profit de l'association pour le développement de la formation professionnelle dans les transports une taxe
+parafiscale qui est perçue, en addition à la taxe édictée par l'article 1635 bis G du code général des impôts, lors de la
+délivrance des certificats d'immatriculation des véhicules de transport de marchandises dont le poids total autorisé en
+charge excède 3,5 tonnes, des tracteurs routiers et des véhicules de transport en commun de voyageurs.
+
+Les certificats visés aux articles 1635 bis I et 1635 bis J du code précité ne donnent pas lieu au paiement de la taxe.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1635 bis G
+	  - CGI 1635 bis I
+	  - CGI 1635 bis J
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
+
+
 ###### Article 340
 
 Les montants de la taxe sont fixés par arrêté du ministre de l'économie et des finances et du ministre des transports (1)
@@ -17284,6 +17314,30 @@ tracteurs routiers : 450 F.
 	**Modifié par**:
 
 	  - Décret n°80-1092 1980-12-29 ART. 1 JORF 30 DECEMBRE 1980
+
+
+###### Article 341
+
+La taxe est recouvrée selon les mêmes règles et sous les mêmes conditions que la taxe prévue à l'article 1635 bis G du code
+général des impôts.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1635 bis G
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
 
 
 ###### Article 352
@@ -18537,42 +18591,6 @@ dérogation par arrêté du ministre chargé du budget.
 
 
 ### TAXES PARAFISCALES.
-
-###### Article 339
-
-Il est institué au profit de l'association pour le développement de la formation professionnelle dans les transports une taxe
-parafiscale qui est perçue, en addition à la taxe édictée par l'article 968 du code général des impôts, lors de la délivrance
-des certificats d'immatriculation des véhicules de transport de marchandises dont le poids total autorisé en charge excède
-3,5 tonnes, des tracteurs routiers et des véhicules de transport en commun de voyageurs.
-
-Les certificats visés à l'article 968-V et VI précité ne donnent pas lieu au paiement de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 968 V, VI
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 341
-
-La taxe est recouvrée selon les mêmes règles et sous les mêmes conditions que la taxe prévue à l'article 968 du code général
-des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 968
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 345
 
