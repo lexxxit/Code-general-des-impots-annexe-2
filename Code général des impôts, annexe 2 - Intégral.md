@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-05-31
+Version Consolidée au 1983-06-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2129,6 +2129,45 @@ ministre de l'économie et des finances.
 	**Abrogé par**:
 
 	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+
+##### *PERSONNES BENEFICIAIRES DE LA DEDUCTION*
+
+###### Article 86
+
+Peuvent bénéficier des dispositions de l'article 85 :
+
+1° (Devenu sans objet) ;
+
+2° Les personnes qui ont souscrit un contrat de crédit différé et obtenu un prêt dans les conditions prévues à la loi n°
+52-332 du 24 mars 1952 modifiée et au décret n° 52-1326 du 15 décembre 1952 modifié.
+
+Les dispositions du présent article ne peuvent toutefois s'appliquer qu'aux contribuables qui font construire des immeubles
+ou parties d'immeubles affectés à leur habitation principale ou à celle de leurs descendants ou ascendants, avec le bénéfice,
+soit des primes à la construction prévues aux articles R 311-1 et R 324-1 au code de la construction et de l'habitation, soit
+de prêts consentis en exécution des articles R 431-1 à R 431-6 du même code aux sociétés coopératives d'habitations à loyer
+modéré ou aux sociétés de crédit immobilier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 85
+	  - Loi n°52-332 1952-03-24
+	  - Décret n°52-1326 1952-12-15
+	  - Code de la construction et de l'habitation R311-1, R324-1, R431-1 à R431-6
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Modifié par**:
+
+	  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
 
 
 ##### IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés
@@ -13823,36 +13862,6 @@ dans le plan d'épargne d'entreprise.
 	  - Code du travail - art. L443-5 (M)
 	  - Code du travail - art. L443-6 (M)
 	  - Code du travail - art. L443-7 (M)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 86
-
-Peuvent bénéficier des dispositions de l'article 85 :
-
-1° Les personnes qui ont déposé des fonds à un compte d'épargne-crédit et obtenu un prêt dans les conditions prévues par les
-articles L 315-8 à L 315-18 et R 315-43 à R 315-68 du code de la construction et de l'habitation;
-
-2° Les personnes qui ont souscrit un contrat de crédit différé et obtenu un prêt dans les conditions prévues à la loi no
-52-332 du 24 mars 1952 modifiée et au décret no 52-1326 du 15 décembre 1952 modifié.
-
-Les dispositions du présent article ne peuvent toutefois s'appliquer qu'aux contribuables qui font construire des immeubles
-ou parties d'immeubles affectés à leur habitation principale ou à celle de leurs descendants ou ascendants, avec le bénéfice,
-soit des primes à la construction prévues aux articles R 311-1 et R 324-1 au code de la construction et de l'habitation, soit
-de prêts consentis en exécution des articles R 431-1 à R 431-6 du même code aux sociétés coopératives d'habitations à loyer
-modéré ou aux sociétés de crédit immobilier.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 85
-	  - Loi n°52-332 1952-03-24
-	  - Décret n°52-1326 1952-12-15
-	  - Code de la construction et de l'habitation L315-8 à L315-18, R315-43 à R315-68, R311-1, R324-1, R431-1 à R431-6
 
 	**Liens**:
 
