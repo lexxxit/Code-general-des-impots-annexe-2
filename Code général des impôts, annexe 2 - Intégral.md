@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-07-01
+Version Consolidée au 1982-07-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9415,6 +9415,36 @@ prévues à l'article 568 du code général des impôts et versée à l'administ
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 283
+
+Tout débitant préposé à la gestion d'un débit de tabacs est seul responsable de l'exploitation de ce débit, notamment des
+commandes passées aux fournisseurs et du paiement des livraisons qui en résultent.
+
+Dans les débits, la publicité en faveur des tabacs manufacturés, qui obéit aux règles de l'article 2 de la loi n° 76-616 du 9
+juillet 1976 relative à la lutte contre le tabagisme, ne peut se faire en dehors des vitrines désignées par l'administration
+fiscale. Toute autre forme de publicité ou de promotion est interdite à l'intérieur des débits, notamment dans les
+rayonnages, ces derniers étant destinés à la simple présentation des produits.
+
+Les débitants ne peuvent recevoir pour la commercialisation des tabacs manufacturés et la publicité concernant ces produits,
+aucun avantage, direct ou indirect, autre que la remise prévue à l'article 570-3° du code général des impôts.
+
+La répartition des espaces publicitaires entre les différentes marques est arrêtée, sur le plan national, par un accord entre
+les fabricants, les fournisseurs et les débitants. A défaut d'accord, le litige est soumis à l'arbitrage dans les conditions
+prévues au décret n° 80-354 du 14 mai 1980 relatif à l'arbitrage.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 570 3°
+	  - Loi n°76-616 1976-07-09 ART. 2
+	  - Décret n°80-354 1980-05-14
+
+	**Modifié par**:
+
+	  - Décret n°82-616 du 16 juillet 1982 - art. 1 (V) JORF 20 JUILLET 1982
+
+
 ###### Article 284
 
 Les prix de vente au détail des tabacs sont fixés par arrêté du ministre de l'économie et des finances.
@@ -15408,36 +15438,6 @@ longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins u
 ### MONOPOLES FISCAUX
 
 #### TABACS.
-
-###### Article 283
-
-Tout débitant préposé à la gestion d'un débit de tabacs est seul responsable de l'exploitation de ce débit, notamment des
-commandes passées aux fournisseurs et du paiement des livraisons qui en résultent.
-
-Dans les débits, la publicité en faveur des tabacs manufacturés, qui obéit aux règles de l'article 2 de la loi n° 76-616 du 9
-juillet 1976 relative à la lutte contre le tabagisme, ne peut se faire en dehors des vitrines désignées par l'administration
-fiscale. Toute autre forme de publicité ou de promotion est interdite à l'intérieur des débits, notamment dans les
-rayonnages, ces derniers étant destinés à la simple présentation des produits.
-
-Les débitants ne peuvent recevoir pour la commercialisation des tabacs manufacturés et la publicité concernant ces produits,
-aucun avantage, direct ou indirect, autre que la remise prévue à l'article 570-3° du code général des impôts.
-
-La répartition des espaces publicitaires entre les différentes marques est arrêtée, sur le plan national, par un accord entre
-les fabricants, les fournisseurs et les débitants ou, à défaut d'accord, par arrêté du ministre de l'économie et des
-finances. Toutefois les modalités actuelles de publicité dans les débits restent en vigueur jusqu'au 1er juillet 1977.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 570 3°
-	  - Loi n°76-616 1976-07-09 ART. 2
-	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 286 C
 
