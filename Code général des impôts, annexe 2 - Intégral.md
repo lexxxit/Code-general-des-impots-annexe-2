@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-04-01
+Version Consolidée au 1984-05-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18032,25 +18032,35 @@ selon le régime du forfait sont exonérées de la taxe prévue à l'article 357
 ###### Article 357 D
 
 Le produit de la taxe recouvrée par l'administration des impôts et l'administration des douanes est transféré mensuellement
-au comité interprofessionnel de rénovation des industries du textile et de l'habillement à charge pour lui de reverser une
-partie de ces sommes à l'institut textile de France et au centre technique de la teinture et du nettoyage.
+au comité de développement et de promotion du textile et de l'habillement, à charge pour celui-ci de répartir ces ressources,
+conformément aux missions qui lui sont confiées, entre les aides aux entreprises, les actions collectives de promotion,
+l'institut textile de France et le centre technique de la teinture et du nettoyage.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°82-1242 1982-12-31 ART. 4 JORF 13 JANVIER 1983
+	  - Décret n°84-389 1984-05-22 art. 1 JORF 25 mai 1984
 
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 357 E
 
-Les modalités d'application des articles 357 A à 357 D, le taux de la taxe et la répartition de son produit entre les
-organismes bénéficiaires sont fixés par arrêtés conjoints du ministre de l'économie, du ministre chargé du budget et du
-ministre chargé de l'industrie.
+Les modalités d'application des articles 357 A à 357 D, et notamment le taux de la taxe, sont fixées par arrêtés conjoints du
+ministre de l'économie, des finances et du budget et du ministre de l'industrie et de la recherche (1).
+
+(1) Voir annexe IV, art. 159 AL quater A.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
 
 **Liens relatifs à cet article**
 
@@ -18060,14 +18070,15 @@ ministre chargé de l'industrie.
 	  - CGIAN2 357 B
 	  - CGIAN2 357 C
 	  - CGIAN2 357 D
+	  - CGIAN4 159 AL quater A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1242 1983-12-31 ART. 5 JORF 13 JANVIER 1983
+	  - Décret n°84-389 1984-05-22 art. 1 JORF 25 mai 1984
 
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 358
@@ -18665,6 +18676,59 @@ au centre technique du cuir.
 	**Modifié par**:
 
 	  - Décret n°82-1243 1982-12-31 ART. 1 JORF 13 JANVIER 1983
+
+
+###### Article 363 R
+
+Les sommes recouvrées par l'administration des impôts et l'administration des douanes sont transférées mensuellement au
+comité du développement et de promotion du textile et de l'habillement à charge pour celui-ci de décider de la répartition de
+ces sommes, conformément aux missions qui lui sont confiées, entre les aides aux entreprises, les actions collectives de
+promotion, l'institut textile de France et le centre d'études techniques des industries de l'habillement.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-390 1984-05-22 art. 1 JORF 25 mai 1984
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
+###### Article 363 S
+
+Les modalités d'application des articles 363 N à 363 R, et notamment le taux de la taxe, sont fixées par arrêtés conjoints du
+ministre de l'économie, des finances et du budget et du ministre de l'industrie et de la recherche (1).
+
+(1) Annexe IV, art. 159 AL sexies
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 N
+	  - CGIAN2 363 O
+	  - CGIAN2 363 P
+	  - CGIAN2 363 Q
+	  - CGIAN2 363 R
+	  - CGIAN4 159 AL sexies
+
+	**Modifié par**:
+
+	  - Décret n°84-390 1984-05-22 art. 1 JORF 25 mai 1984
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 363 T
@@ -19443,55 +19507,6 @@ VI  (Abrogé)
 	**Modifié par**:
 
 	  - Loi n°82-1126 du 29 décembre 1982 - art. 28 () JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
-
-
-###### Article 363 R
-
-Les sommes recouvrées par l'administration des impôts et l'administration des douanes sont transférées mensuellement au
-comité interprofessionnel de rénovation des industries du textile et de l'habillement à charge pour lui de reverser une
-partie de ces sommes à l'institut textile de France et au centre technique des industries de l'habillement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°82-1243 1982-12-31 ART. 1 JORF 13 JANVIER 1983
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-
-###### Article 363 S
-
-Les modalités d'application des articles 363 N à 363 R et notamment le taux de la taxe et la répartition de son produit entre
-les organismes bénéficiaires désignés à l'article 363 R sont fixées par arrêtés conjoints du ministre de l'économie, du
-ministre du budget, et du ministre de l'industrie (1).
-
-(1) Annexe IV, art. 159 AL sexies
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 N
-	  - CGIAN2 363 O
-	  - CGIAN2 363 P
-	  - CGIAN2 363 Q
-	  - CGIAN2 363 R
-	  - CGIAN4 159 AL sexies
-
-	**Créé par**:
-
-	  - Décret n°80-1014 1980-12-15 ART. 6 JORF 18 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Modifié par**:
-
-	  - Décret n°82-1243 1982-12-31 ART. 1 JORF 13 JANVIER 1983
 
 
 ## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*
