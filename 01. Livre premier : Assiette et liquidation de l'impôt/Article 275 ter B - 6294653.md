@@ -1,7 +1,7 @@
 # Article 275 ter B
 
 La demande d'agrément en qualité d'organisme de contrôle est déposée auprès de la direction générale des douanes et droits
-indirects et de la direction générale des stratégies industrielles du ministère de l'industrie, qui l'instruisent
+indirects et de la direction générale de l'industrie, des technologies de l'information et des postes qui l'instruisent
 conjointement.
 
 Est jointe à la demande une description des moyens et des méthodes de contrôle et d'essai qui seront mis en oeuvre par
@@ -14,19 +14,19 @@ annuels si l'antériorité de l'organisme le permet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 3 (V) JORF 1er avril 1995
-
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°99-382 1999-05-18
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J terdecies (V)
 
+	**Modifié par**:
+
+	  - Décret n°98-979 1998-11-01 art. 1 JORF 3 novembre 1998
+
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 mars 1999

@@ -11,10 +11,10 @@ ventes qu'ils consentent à leurs membres et les déductions correspondantes que
 déclaration afférente aux opérations du dernier mois ou du dernier trimestre.
 
 Les organismes qui ne réalisent des opérations imposables qu'à titre occasionnel sont dispensés de souscrire les déclarations
-prévues aux 1° et 2° de l'article 286 du code général des impôts. Ils souscrivent les déclarations prescrites par l'article
-287 de ce code, dans les trente jours suivant la réalisation des opérations imposables, auprès du service des impôts dont
-dépend leur siège. En ce qui concerne les ventes qu'ils consentent à leurs membres, les règles du troisième alinéa sont
-applicables.
+prévues aux 1° et 2° du I de l'article 286 du code général des impôts. Ils souscrivent les déclarations prescrites par
+l'article 287 de ce code, dans les trente jours suivant la réalisation des opérations imposables, auprès du service des
+impôts dont dépend leur siège. En ce qui concerne les ventes qu'ils consentent à leurs membres, les règles du troisième
+alinéa sont applicables.
 
 Lorsqu'ils organisent une manifestation de bienfaisance ou de soutien pour laquelle ils entendent bénéficier de l'exonération
 prévue au c du 1° du 7 de l'article 261 du code général des impôts, les organismes mentionnés aux troisième et quatrième
@@ -31,17 +31,12 @@ des recettes et des dépenses afférentes à la manifestation.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 1999
 
 	**Modifié par**:
 
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 43 () JORF 30 décembre 1978
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 49 (P) JORF 30 décembre 1978
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 47 (V) JORF 30 décembre 1990
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 32 () JORF 19 juillet 1992
-	  - Loi - art. 27 () JORF 5 janvier 1993
+	  - Loi - art. 7 (V) JORF 31 décembre 1998
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°99-382 1999-05-18

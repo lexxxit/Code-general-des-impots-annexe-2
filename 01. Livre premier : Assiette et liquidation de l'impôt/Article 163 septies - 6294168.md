@@ -1,7 +1,7 @@
 # Article 163 septies
 
 Le prélèvement est calculé en appliquant au bénéfice déterminé conformément aux dispositions des articles 163 quater à 163
-sexies et arrondi à la dizaine de francs inférieure le barème ci-dessous :
+sexies le barème ci-dessous :
 
 50 % de la fraction du bénéfice comprise entre 3 % et 6 % du montant du chiffre d'affaires afférent aux marchés ou parties de
 marchés imposables ;
@@ -20,8 +20,11 @@ marchés imposables ;
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°99-382 1999-05-18
+	  - Décret n°2000-477 2000-06-02
 
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
+	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
+	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000

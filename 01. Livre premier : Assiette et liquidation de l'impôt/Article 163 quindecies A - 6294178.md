@@ -1,11 +1,13 @@
 # Article 163 quindecies A
 
-- La déclaration prévue à l'article 235 ter KD du code général des impôts doit indiquer, outre la désignation et l'adresse du
-déclarant :
+Conformément à l'article R. 950-23 du code du travail, la déclaration prévue à l'article 235 ter KD du code général des
+impôts doit indiquer, outre la désignation et l'adresse du déclarant :
 
-1° Le montant des salaires payés tels qu'ils sont définis au premier alinéa de l'article 235 ter KA du même code ;
+1° Le montant des rémunérations versées telles qu'elles sont définies au premier alinéa de l'article 235 ter KA du même
+code ;
 
-2° Le montant des salaires payés tels qu'ils sont définis au premier alinéa de l'article L. 931-20-1 du code du travail ;
+2° Le montant des rémunérations versées telles qu'elles sont définies au premier alinéa de l'article L. 931-20-1 du code du
+travail ;
 
 3° L'assiette de la contribution à laquelle sont assujetties les personnes mentionnées au premier alinéa de l'article L.
 953-1 du même code, et effectuant leur versement à un organisme collecteur visé à l'article 235 ter KA du code général des
@@ -37,15 +39,16 @@ Cette déclaration doit être rédigée en un exemplaire sur un imprimé fourni 
 	  - Code du travail - art. L931-20 (M)
 	  - Code du travail - art. L931-20-1 (M)
 	  - Code du travail - art. L953-1 (M)
+	  - Code du travail - art. R950-23 (T)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-326 du 12 mars 1993 - art. 2 () JORF 13 mars 1993
+	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, V JORF 3 juillet 1998
 
 	**Codifié par**:
 
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°99-382 1999-05-18
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 mars 1999

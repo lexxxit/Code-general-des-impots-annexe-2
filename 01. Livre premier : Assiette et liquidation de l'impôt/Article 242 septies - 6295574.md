@@ -1,10 +1,8 @@
 # Article 242 septies
 
-En cas de cession, de cessation, de changement de lieu d'imposition, ((de redressement ou de liquidation judiciaires)) (M),
-les entreprises sont tenue de souscrire dans les trente jours la déclaration visée à l'article 242 sexies relative à l'année
-en cours ainsi que, le cas échéant, celle qui n'aurait pas encore été déposée au titre de l'année civile précédente.
-
-(M) Modification de la loi.
+En cas de cession, de cessation, de redressement ou de liquidation judiciaires, les entreprises sont tenue de souscrire dans
+les soixante jours la déclaration visée à l'article 242 sexies relative à l'année en cours ainsi que, le cas échéant, celle
+qui n'aurait pas encore été déposée au titre de l'année civile précédente.
 
 **Liens relatifs à cet article**
 
@@ -12,14 +10,10 @@ en cours ainsi que, le cas échéant, celle qui n'aurait pas encore été dépos
 
 	  - CGI 242 sexies
 
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
 	**Modifié par**:
 
-	  - Loi n°94-475 du 10 juin 1994 - art. 92 () JORF 11 juin 1994
+	  - Décret n°98-1022 1998-11-10 art. 6 1° JORF 13 novembre 1998
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°94-899 1994-10-17
+	  - HISTO: Edition du 31 mars 1999

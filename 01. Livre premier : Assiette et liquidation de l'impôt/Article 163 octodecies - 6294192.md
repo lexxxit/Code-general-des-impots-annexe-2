@@ -3,7 +3,20 @@
 Les entreprises redevables du prélèvement le versent au plus tard à la date d'expiration du délai prévu pour le dépôt de leur
 déclaration annuelle de résultats.
 
-Toutefois les entreprises imposées selon le régime du forfait acquittent le prélèvement au plus tard le 31 mars de l'année
-suivant celle au titre de laquelle ce prélèvement est dû si leurs forfaits de bénéfice et de chiffre d'affaires ont été fixés
-à cette date et, dans le cas contraire, dans les trente jours de la fixation définitive de ceux-ci.
+**Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi - art. 7 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 sexies (P)

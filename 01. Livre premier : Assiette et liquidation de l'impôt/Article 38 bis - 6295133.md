@@ -1,7 +1,7 @@
 # Article 38 bis
 
 I. Les petites et moyennes entreprises placées sous le régime du bénéfice réel avec obligations allégées défini à l'article
-302 septies A bis du code général des impôts souscrivent, avant le 1er avril de chaque année, la déclaration prévue à
+302 septies A bis du code général des impôts souscrivent, au plus tard le 30 avril de chaque année, la déclaration prévue à
 l'article 53 A du même code.
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés en vertu de l'article 206 du code général des impôts,
@@ -18,17 +18,10 @@ au code général des impôts.
 	  - CGI 53 A
 	  - CGIAN3 38 III
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°98-1022 du 10 novembre 1998 - art. 2 () JORF 13 novembre 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 20 juillet 1984
-	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
-	  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+	  - HISTO: Edition du 31 mars 1999
