@@ -4,13 +4,13 @@
 toutes les sommes payées par les employeurs à l'ensemble de leur personnel à titre de traitements, salaires, indemnités et
 émoluments, y compris la valeur des avantages en nature, quel que soit le lieu du domicile des bénéficiaires.
 
-Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis N du code général des impôts.
+Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis O du code général des impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la participation pour leur montant brut, avant déduction
 des cotisations et contributions visées aux 1° à 2° ter de l'article 83 du code général des impôts.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de professions qui bénéficient, en vertu du troisième
-alinéa du 3° del'article 83 du code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant
+alinéa du 3° de l'article 83 du code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant
 de cette déduction supplémentaire peut, pour la détermination de la base de la participation, être défalqué du montant brut
 des sommes susindiquées.
 
@@ -25,16 +25,16 @@ deuxième alinéa de l'article 82 du code général des impôts.
 
 	**Cite**:
 
-	  - CGI 235 ter D, 231 bis C à 231 bis N, 81, 83, 82
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
-
-	**Modifié par**:
-
-	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
+	  - CGI 235 ter D, 231 bis C à 231 bis O, 81, 83, 82
 
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°93-923 du 19 juillet 1993 - art. 13 () JORF 21 juillet 1993

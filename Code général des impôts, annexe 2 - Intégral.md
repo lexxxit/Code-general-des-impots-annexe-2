@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1993-07-22
+Version Consolidée au 1993-08-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1783,6 +1783,89 @@ l'impôt, le solde restant dû, augmenté de l'intérêt couru, est exigible imm
 	  - Décret n°86-1086 1986-10-07
 
 
+##### VI : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité
+
+###### Article 74 S bis
+
+Les redevables de la taxe prévue à l'article 150 V bis du code général des impôts doivent déposer dans les trente jours de la
+vente ou dans les délais prévus pour les déclarations de chiffre d'affaires une déclaration en double exemplaire conforme au
+modèle établi par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 V bis
+
+	**Anciens textes**:
+
+	  - CGIAN2 267 quater D
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Créé par**:
+
+	  - Décret n°93-231 1993-07-19 art. 2 JORF 22 juillet 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 74 S ter
+
+Lorsque le vendeur exerce l'option prévue à l'article 150 V sexies du code général des impôts, il doit souscrire, auprès du
+service des impôts dont il dépend pour l'impôt sur le revenu, une déclaration d'option en double exemplaire selon un modèle
+établi par l'administration.
+
+La déclaration mentionne l'identité de l'acquéreur et, le cas échéant, de l'intermédiaire chargé de la vente ainsi que la
+date de l'opération et le prix de vente.
+
+Elle est appuyée :
+
+Soit d'un certificat délivré par un officier ministériel attestant que l'objet a été acquis dans une vente publique, et
+mentionnant la date et le prix payé,
+
+Soit d'une facture régulière délivrée par un commerçant résidant en France,
+
+Soit d'une facture délivrée par un particulier et visée par la recette des impôts ayant encaissé la taxe,
+
+Soit, lorsque l'objet a été acquis par voie de succession ou de donation, d'un extrait de la déclaration ayant servi de base
+à la liquidation des droits de mutation et mentionnant le bien concerné.
+
+L'acceptation de l'option par l'administration est notifiée en double exemplaire au vendeur. Le cas échéant, celui-ci remet
+l'un d'eux à la personne tenue au paiement de la taxe qui conserve cette pièce à l'appui de sa propre comptabilité. Le
+redevable de la taxe se trouve de ce fait déchargé du paiement. L'option exercée est irrévocable.
+
+Lorsqu'un exportateur se trouvant dans la situation prévue au deuxième alinéa de l'article 150 V quater du code général des
+impôts a acquis le bien auprès d'une personne qui a exercé l'option, la présentation par cet exportateur de la déclaration
+d'option visée par les services fiscaux vaut justification du paiement de la taxe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 V sexies, 150 V quater
+
+	**Anciens textes**:
+
+	  - CGIAN2 267 quater E
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Créé par**:
+
+	  - Décret n°93-231 1993-07-19 art. 2 JORF 22 juillet 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ##### VII : Dispositions communes
 
 ##### 1 : Conditions d'exonération des contrats de location ou sous-location de logements.
@@ -3440,60 +3523,6 @@ commune.
 	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
 
 
-###### Article 95 B
-
-Les intermédiaires agréés mentionnés aux articles 199 quinquies et 199 quinquies C du code général des impôts sont :
-
-1° La Banque de France ;
-
-La Caisse des dépôts et consignations ;
-
-Les établissements de crédit ;
-
-Les sociétés de bourse ;
-
-Les établissements visés à l'article 99 de la loi 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit ;
-
-2° Les entreprises gérant des valeurs acquises dans le cadre de la législation sur les plans d'épargne d'entreprise ou de
-l'actionnariat des salariés ;
-
-Les sociétés dont les actions ne sont pas cotées ou ne sont pas assimilées à des actions cotées pour la souscription de
-celles-ci ;
-
-Les sociétés à responsabilité limitée pour la souscription de leurs parts ;
-
-Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ;
-
-Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 de la loi n°
-66-537 du 24 juillet 1966 sur les sociétés commerciales.
-
-Les sociétés coopératives et leurs unions mentionnées à l'article 199 quinquies-0 A du code général des impôts pour la
-souscription ou la cession de leurs parts ou actions.
-
-Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre
-Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 quinquies
-	  - CGI 199 quinquies C
-	  - CGI 199 quinquies-0 A
-	  - Code rural livre V titre Ier
-	  - Loi n°66-537 1966-07-24 art. 95, art. 130
-	  - Loi n°84-46 1984-01-24 art. 99
-
-	**Modifié par**:
-
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
 ###### Article 95 C
 
 Pour les achats fermes et les souscriptions, la date d'effet de l'opération est celle du versement des fonds. En cas de
@@ -3730,151 +3759,49 @@ relatif au traitement automatisé TD/RCM (J.O. du 15).
 	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
 
 
-#### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
+##### 199 quinquies C du code général des impôts sont :    1° La Banque de France ;    La Caisse des dépôts et consignations ;    Les établissements de crédit ;    Les sociétés de bourse ;    Les établissements visés au troisième alinéa du 2 de l'article 18 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ;
 
-##### Section I : Détermination du bénéfice imposable
+###### Article 95 B
 
-###### Article 96
+2° Les entreprises gérant des valeurs acquises dans le cadre de la législation sur les plans d'épargne d'entreprise ou de
+l'actionnariat des salariés ;
 
-1. Pour la détermination du bénéfice servant de base à l'impôt sur les sociétés, les sociétés françaises par actions qui ont
-été constituées ou qui ont procédé à des augmentations de capital depuis la date d'entrée en vigueur du décret no 57-967 du
-29 août 1957 jusqu'au 31 décembre 1965, peuvent déduire les sommes effectivement allouées à titre de dividende aux actions
-émises à l'occasion desdites opérations et représentant des apports en numéraire.
+Les sociétés dont les actions ne sont pas cotées ou ne sont pas assimilées à des actions cotées pour la souscription de
+celles-ci ;
 
-Toutefois, cette faculté ne peut être exercée, en ce qui concerne les sociétés qui ont procédé à l'augmentation de leur
-capital plus de trois ans après leur constitution, que pendant chacun des sept premiers exercices suivant la réalisation de
-l'augmentation de capital [*délai*] et, en ce qui concerne les sociétés qui se sont constituées ou les sociétés qui ont
-procédé à l'augmentation de leur capital moins de trois ans après leur constitution, qu'à partir du quatrième exercice et
-jusque, inclusivement, au dixième exercice suivant celui de leur constitution.
+Les sociétés à responsabilité limitée pour la souscription de leurs parts ;
 
-En outre, le montant de la déduction afférente aux sommes distribuées au cours d'un de ces exercices ne peut excéder 5 %
-[*pourcentage*] du capital appelé et non remboursé correspondant aux apports visés au premier alinéa, augmenté, s'il y a
-lieu, des primes d'émission versées par les actionnaires et inscrites au bilan de la société.
+Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ;
 
-2. L'application des dispositions du 1 est subordonnée aux deux conditions suivantes :
+Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 de la loi n°
+66-537 du 24 juillet 1966 sur les sociétés commerciales.
 
-1° Que la constitution de la société ou l'augmentation de capital ait été agréée par arrêté du ministre de l'économie et des
-finances, pris après avis du conseil de direction du fonds de développement économique et social;
+Les sociétés coopératives et leurs unions mentionnées à l'article 199 quinquies-0 A du code général des impôts pour la
+souscription ou la cession de leurs parts ou actions.
 
-2° Que l'ensemble des actions de la société ait été introduit à la cote du second marché d'une bourse de valeurs avant
-l'expiration d'un délai de trois ans à compter de l'augmentation de son capital, en ce qui concerne les sociétés qui ont
-procédé à l'augmentation de leur capital plus de trois ans après leur constitution, ou d'un délai de six ans à compter de sa
-constitution [*point de départ*], en ce qui concerne les sociétés qui se sont constituées et les sociétés qui ont procédé à
-une augmentation de leur capital moins de trois ans après leur constitution. Cette deuxième condition n'est pas suspensive.
-Si elle n'est pas réalisée, la société se trouvera déchue du bénéfice des dispositions prévues au 1 à compter du jour où elle
-en aura profité.
-
-3. En ce qui concerne les augmentations de capital en numéraire, l'opération est considérée comme réalisée au sens du 1, à la
-date de la signature de la déclaration notariée de souscription et de versement prévue à l'article 78 de la loi no 66-537 du
-24 juillet 1966.
-
-**Nota:**
-
-[*Nota - L'article 25 de la loi n° 88-70 du 22 janvier 1988 dispose que dans tous les textes législatifs et réglementaires en
-vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" et "chambre syndicale des agents de change" par
-"Conseil des bourses de valeurs"*].
+Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre
+Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°57-967 1957-08-29
-	  - Loi n°66-537 1966-07-24 ART. 78
+	  - CGI 199 quinquies-0 A
+	  - Loi n°66-537 1966-07-24 art. 95, art. 130
+	  - Loi n°84-46 1984-01-24 art. 18
 
 	**Modifié par**:
 
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
-	  - Modifications incorporées à la date du 18 août 1993
+	  - Loi n°92-665 du 16 juillet 1992 - art. 44 () JORF 17 juillet 1992
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993
+	  - Décret n°94-899 1994-10-17
 
 
-###### Article 97
+#### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
 
-Dans le cas où une société a procédé, après la publication du décret n° 57-967 du 29 août 1957 et avant de réaliser une
-augmentation de capital dans les conditions prévues à l'article 96, à une réduction de son capital non motivée par des pertes
-sociales, les dividendes alloués aux actions représentatives de cette augmentation et correspondant à des apports en
-numéraire sont exclus du bénéfice des dispositions de cet article dans la mesure où ces apports n'excèdent pas le montant de
-la réduction.
-
-De même en sont exclus les dividendes alloués aux actions représentatives d'une augmentation de capital réalisée dans les
-conditions prévues à l'article 96 et correspondant à des apports en numéraire, dans la mesure où ces apports n'excèdent pas
-le montant d'une réduction de capital non motivée par des pertes sociales, qui serait consécutive à cette augmentation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 96
-	  - Décret n°57-967 1957-08-29
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993 modifications incorporées à la date du 18 août 1993
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 98
-
-Les dispositions des articles 145 et 216-I et II du code général des impôts ne sont pas applicables aux dividendes attribués,
-postérieurement à la publication de la loi no 61-1396 du 21 décembre 1961, aux actions émises à l'occasion de constitutions
-ou d'augmentations de capital de sociétés ayant reçu l'agrément prévu à l'article 96, dans la mesure où ces dividendes ont
-été déduits, en vertu du même article, pour la détermination du bénéfice imposable desdites sociétés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 145
-	  - CGI 216 I, II
-	  - CGI 96
-	  - Loi n°61-1396 1961-12-21
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993 modifications incorporées à la date du 18 août 1993
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 99
-
-Par dérogation aux dispositions des articles 109 et 110 du code général des impôts, les sommes distraites du bénéfice
-imposable en application des dispositions de l'article 96 [*déduction des sommes allouées à titre de dividende aux actions
-émises à l'occasion d'augmentations de capital et représentant des apports en numéraire*] sont considérées comme des revenus
-distribués pour l'établissement de l'impôt sur le revenu.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 109
-	  - CGI 110
-	  - CGIAN2 96
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993 modifications incorporées à la date du 18 août 1993
-	  - HISTO: EDITION 1979-07-01
-
+##### Section I : Détermination du bénéfice imposable
 
 ###### Article 100
 
@@ -3933,206 +3860,6 @@ au cours des exercices ou périodes d'imposition définis au premier alinéa.
 	  - PEREMPTION: Décret n°95-1281 du 11 décembre 1995 - art. 3 () JORF 13 décembre 1995
 	  - HISTO: EDITION 1979-07-01
 	  - HISTO: Edition du 27 octobre 1995
-
-
-##### Régime fiscal temporaire des dividendes alloués aux actions représentant des apports en numéraire.
-
-###### Article 102 A
-
-Les actions représentatives d'apports en numéraire, mentionnées à l'article 214 A-I du code général des impôts, sont celles
-dont le montant est libéré en espèces ou par compensation avec des créances liquides et exigibles sur la société émettrice ou
-qui proviennent de la conversion d'obligations souscrites en numéraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article sans objet, modifications incorporées à la date du 18 août 1993
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 102 B
-
-I. Une société par actions est considérée comme constituée [*date de constitution*] :
-
-a. Si elle ne fait pas publiquement appel à l'épargne, au jour de la signature des statuts par les actionnaires;
-
-b. Si elle fait publiquement appel à l'épargne, au jour de la tenue de l'assemblée générale constitutive prévue à l'article
-79 de la loi no 66-537 du 24 juillet 1966 sur les sociétés commerciales.
-
-II. Une augmentation de capital faite dans les conditions prévues à l'article 192 modifié de la loi du 24 juillet 1966, est
-considérée comme réalisée :
-
-a. A la date du certificat du dépositaire ou à la date de la signature du contrat de garantie conclu dans les conditions
-prévues à l'article 191-1 de la loi précitée en cas d'augmentation de capital par émission d'actions à souscrire en
-numéraire ;
-
-b. A la date du certificat du notaire ou du commissaire aux comptes qui tient lieu du certificat du dépositaire en cas de
-libération des actions par compensation de créances sur la société.
-
-III. En cas de conversion d'obligations en actions, l'augmentation de capital est considérée comme réalisée :
-
-a. Au jour du certificat mentionné au II-b, si les obligations sont convertibles pendant une période déterminée ;
-
-b. A la date de la demande de conversion, si les obligations sont convertibles à tout moment.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 ART. 79, ART. 191 1, ART. 192
-
-	**Modifié par**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 2 () JORF 4 janvier 1983
-	  - Décret n°83-363 1983-05-02 art. 6 JORF 3 mai 1983
-	  - Modifications incorporées à la date du 18 août 1993
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article sans objet
-
-
-###### Article 102 C
-
-Les dividendes déductibles au titre d'un exercice sont ceux mis en paiement au cours de cet exercice.
-
-En cas de versement d'acomptes à valoir sur les dividendes, la déduction est opérée sur les résultats fiscaux de l'exercice
-de mise en paiement du solde.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article sans objet, modifications incorporées à la date du 18 août 1993
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 102 D
-
-I Dans le cas où une augmentation de capital réalisée entre le 1er janvier 1977 et le 31 décembre 1992 a été précédée,
-postérieurement au 15 novembre 1976, d'une réduction de capital non motivée par des pertes ou d'un prélèvement opéré sur le
-compte "Primes d'émission", les dividendes alloués aux actions nouvelles n'ouvrent droit au régime de déduction que si ces
-opérations entraînent en définitive un accroissement de fonds propres. En outre, ils ne peuvent être admis en déduction qu'en
-proportion du rapport existant entre cet accroissement des fonds propres et les apports correspondant à l'augmentation de
-capital.
-
-II Lorsqu'une société qui s'est constituée ou a augmenté son capital entre le 1er janvier 1977 et le 31 décembre 1992
-procède, suivant les cas prévus à l'article 214-A-I-2 du code général des impôts, moins de sept, dix, huit ou six ans après
-la réalisation de ces opérations à une réduction de son capital non motivée par des pertes ou à un prélèvement sur le compte
-"Primes d'émission", il est fait application des règles prévues au I.
-
-La fraction des dividendes alloués aux actions nouvelles qui n'ouvre pas droit au régime de déduction est, en ce qui concerne
-les dividendes ayant déjà bénéficié de ce régime, rapportée aux résultats des exercices de déduction. Les suppléments
-d'imposition ainsi calculés sont majorés selon les règles prévues pour les intérêts de retard à l'article 1727 du code
-général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1727
-	  - CGI 214 A I 2
-
-	**Modifié par**:
-
-	  - Loi - art. 87 () JORF 30 décembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993
-
-
-###### Article 102 E
-
-Pour le calcul de la limite de 7,5 % prévue à l'article 214 A-I-3 du code général des impôts, le montant du capital et celui
-des primes d'émission à retenir sont ceux qui figurent au bilan de clôture de l'exercice au titre duquel les dividendes sont
-distribués.
-
-Dans les cas prévus au I et II de l'article 102 D, la base de calcul de cette limite est constituée par l'accroissement des
-fonds propres résultant des opérations mentionnées audit article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 214 A I 3
-	  - CGIAN2 102 D I, II
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article sans objet
-	  - SPEC_APPLI: L'ARTICLE 102 E DE L'ANNEXE II EST MODIFIE PAR CONSEQUENCE DE LA MODIFICATION DE L'ARTICLE 214 A DU CGI
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 69 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
-	  - Modifications incorporées à la date du 18 août 1993
-
-
-###### Article 102 F
-
-Les dividendes reçus par une société mère d'une filiale qui bénéficie du régime spécial de déduction sont exclus du régime
-des sociétés mères et filiales prévu aux articles 145 et 216-I et II du code général des impôts, proportionnellement au
-montant des dividendes venant en déduction du bénéfice imposable de la filiale par rapport au montant global des dividendes
-mis en paiement au cours de l'exercice considéré.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 145
-	  - CGI 216 I, II
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article sans objet, modifications incorporées à la date du 18 août 1993
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 102 G
-
-Les fonds propres correspondant aux actions admises au bénéfice du régime spécial doivent être inscrits en comptabilité sur
-une ligne distincte du sous-compte "Capital appelé non amorti" et s'il y a lieu, du compte "Primes d'émission".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993 modifications incorporées à la date du 18 août 1993
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### 1° : Bénéfice imposable des caisses de crédit agricole.
@@ -6967,13 +6694,13 @@ II. (Disposition périmée).
 toutes les sommes payées par les employeurs à l'ensemble de leur personnel à titre de traitements, salaires, indemnités et
 émoluments, y compris la valeur des avantages en nature, quel que soit le lieu du domicile des bénéficiaires.
 
-Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis N du code général des impôts.
+Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis O du code général des impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la participation pour leur montant brut, avant déduction
 des cotisations et contributions visées aux 1° à 2° ter de l'article 83 du code général des impôts.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de professions qui bénéficient, en vertu du troisième
-alinéa du 3° del'article 83 du code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant
+alinéa du 3° de l'article 83 du code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant
 de cette déduction supplémentaire peut, pour la détermination de la base de la participation, être défalqué du montant brut
 des sommes susindiquées.
 
@@ -6988,19 +6715,19 @@ deuxième alinéa de l'article 82 du code général des impôts.
 
 	**Cite**:
 
-	  - CGI 235 ter D, 231 bis C à 231 bis N, 81, 83, 82
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
-
-	**Modifié par**:
-
-	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
+	  - CGI 235 ter D, 231 bis C à 231 bis O, 81, 83, 82
 
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°93-923 du 19 juillet 1993 - art. 13 () JORF 21 juillet 1993
 
 
 ###### Article 163 nonies
@@ -7300,16 +7027,13 @@ suivant celle au titre de laquelle ce prélèvement est dû si leurs forfaits de
 
 ###### Article 163 septdecies
 
-Le prélèvement spécial de 30 % prévu par l'article 235 ter L du code général des impôts sur la fraction des bénéfices
-industriels et commerciaux imposables à l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de
-la distribution ou de la représentation de films pornographiques ou d'incitation à la violence est liquidé par les
-entreprises qui réalisent ces bénéfices. Ces entreprises l'acquittent spontanément auprès de la recette des impôts dont elles
-relèvent (1).
+Le prélèvement spécial prévu par l'article 235 ter L du code général des impôts sur la fraction des bénéfices industriels et
+commerciaux imposables à l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de la distribution
+ou de la représentation de films pornographiques ou d'incitation à la violence est liquidé par les entreprises qui réalisent
+ces bénéfices. Ces entreprises l'acquittent spontanément auprès de la recette des impôts dont elles relèvent.
 
 La période d'imposition est, pour chaque redevable, celle qui est retenue pour l'établissement soit de l'impôt sur le revenu
 dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt sur les sociétés.
-
-(1) Le taux de 25 % s'applique aux bénéfices des exercices ouverts à compter du 1er janvier 1990.
 
 **Liens relatifs à cet article**
 
@@ -7317,13 +7041,17 @@ dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt su
 
 	  - CGI 235 ter L
 
-	**Modifié par**:
-
-	  - Loi - art. 13 (V) JORF 30 décembre 1990
-
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi - art. 35 (V) JORF 31 décembre 1992
 
 
 ###### Article 163 vicies
@@ -9163,20 +8891,33 @@ bénéficié d'un remboursement de crédit de la taxe sur la valeur ajoutée.
 
 Pour les entreprises soumises à la taxe sur la valeur ajoutée selon le régime forfaitaire, la déduction des taxes ayant grevé
 les biens et services utilisés pour les besoins de l'exploitation est évaluée lors de la fixation du forfait en tenant compte
-des règles prévues pour les entreprises assujetties sur le chiffre d'affaires réel.
+des règles prévues pour les entreprises assujetties sur le chiffre d'affaires réel sous réserve des dispositions du 6 de
+l'article 271 A du code général des impôts.
 
-Toutefois, pour les biens ne constituant pas des immobilisations et les services, la déduction de la taxe est effectuée selon
+Toutefois, pour les biens ne constituant pas des immobilisation et les services, la déduction de la taxe est effectuée selon
 les modalités prévues à l'article 208.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 271 A
 	  - CGIAN2 208
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi n°98-1266 1999-12-30 art. 7 I 1 Finances pour 1999 JORF 31 décembre 1999
 
 	**Modifié par**:
 
-	  - Décret n°93-117 du 28 janvier 1993 - art. 1 () JORF 29 janvier 1993
+	  - Loi n°93-859 1993-06-22 art. 2 II IV Finances rectificative pour 1993 JORF 23 juin 1993 en vigueur le 1er juillet 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+	  - Décret n°99-382 1999-05-18
 
 
 ###### Article 204
@@ -9502,10 +9243,10 @@ l'immeuble, la date de l'ouverture du droit à déduction se substitue à cette 
 vue de la vente est utilisé directement par l'assujetti, la date de la première utilisation se substitue à celle de
 l'acquisition ou de l'achèvement.
 
-II. Les dispositions du premier alinéa du I s'appliquent aux autres biens constituant des immobilisations qui sont cédés,
-apportés ou ont disparu avant le commencement de la quatrième année qui suit celle de leur acquisition, de leur importation
-ou de leur première utilisation. Toutefois, la diminution est d'un cinquième au lieu d'un dixième par année civile ou
-fraction d'année civile.
+II. Les dispositions du I s'appliquent aux autres biens constituant des immobilisations qui sont cédés, apportés ou ont
+disparu avant le commencement de la quatrième année qui suit celle de leur acquisition, de leur importation ou de leur
+première utilisation. Toutefois, la diminution est d'un cinquième au lieu d'un dixième par année civile ou fraction d'année
+civile.
 
 III. L'obligation prévue au présent article peut être transférée à une société absorbante ou à une société bénéficiaire de
 l'apport du bien.
@@ -9536,7 +9277,11 @@ précédent propriétaire était en droit de déduire.
 
 	**Modifié par**:
 
-	  - Décret n°89-301 1989-05-11 art. 1, art. 2 JORF 13 mai 1989
+	  - Décret n°89-301 1989-05-11 art. 2 JORF 13 mai 1989
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
 
 	**Cité par**:
 
@@ -10122,20 +9867,28 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 ###### Article 230
 
-1 La taxe sur la valeur ajoutée [*TVA*] ayant grevé les biens et services que les assujettis à cette taxe acquièrent ou
-qu'ils se livrent à eux-mêmes n'est déductible que si ces biens et services sont nécessaires à l'exploitation. [**] Jusqu'au
-31 décembre 1996, la taxe ayant grevé les dépenses relatives à des biens et à des services ne peut donner lieu à déduction
-lorsque le pourcentage de l'utilisation de ces biens et services pour les besoins privés de l'assujetti ou pour ceux de son
-personnel ou plus généralement à des fins étrangères à son entreprise est supérieur à 90 p. 100 de leur utilisation totale.
+1. La taxe sur la valeur ajoutée ayant grevé les biens et services que les assujettis à cette taxe acquièrent ou qu'ils se
+livrent à eux-mêmes n'est déductible que si ces biens et services sont nécessaires à l'exploitation. Jusqu'au 31 décembre
+1996, la taxe ayant grevé les dépenses relatives à des biens et à des services ne peut donner lieu à déduction lorsque le
+pourcentage de l'utilisation de ces biens et services pour les besoins privés de l'assujetti ou pour ceux de son personnel ou
+plus généralement à des fins étrangères à son entreprise est supérieur à 90 p. 100 de leur utilisation totale.
 
-2 En outre, l'exercice du droit à déduction est limité ou réduit dans les conditions fixées ci-après en ce qui concerne
-certaines entreprises et certains biens ou services.
+2. En outre, l'exercice du droit à déduction est limité ou réduit dans les conditions fixées aux articles 231 à 242 en ce qui
+concerne certaines entreprises et certains biens ou services.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
 	**Modifié par**:
 
-	  - Décret n°93-641 du 27 mars 1993 - art. 1 (V) JORF 28 mars 1993
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### A : Limitations concernant certaines entreprises
@@ -10428,37 +10181,6 @@ demande des assujettis. Le remboursement porte sur le crédit de taxe déductibl
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
 
 
-###### Article 242-0 B
-
-Pour les assujettis dont les déclarations de chiffre d'affaires ont fait apparaître des crédits de taxe déductible en 1971,
-le remboursement prévu à l'article 242-0 A est limité à la fraction du crédit excédant un crédit de référence. Ce crédit de
-référence est égal aux trois quarts du quotient obtenu en divisant la somme des crédits figurant sur les déclarations
-relatives aux affaires de 1971 par le nombre total de déclarations déposées au titre de la même année [*calcul*].
-
-Les dispositions du présent article ne s'appliquent plus aux demandes de remboursement présentées à compter du 1er janvier
-1988.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242-0 A
-
-	**Modifié par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 25 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Modifications incorporées à la date du 18 août 1993
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993
-
-
 ###### Article 242-0 C
 
 I. 1. Les demandes de remboursement doivent être déposées au cours du mois de janvier et porter sur un montant au moins égal
@@ -10568,18 +10290,21 @@ conditions énoncées aux articles 242-0 A à 242-0 D.
 ###### Article 242-0 G
 
 Lorsqu'un redevable perd cette qualité, le crédit de taxe déductible dont il dispose peut faire l'objet d'un remboursement
-pour son montant total. Toutefois, pour les redevables mentionnés à l'article 240-0 B, ce remboursement ne peut porter que
-sur la fraction excédant le crédit de référence défini audit article.
+pour son montant total.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 242-0 B
-
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 29 (V) JORF 31 DECEMBRE 1979
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 25 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 242-0 H
@@ -11444,9 +11169,9 @@ modalités de versement et de remboursement des acomptes dus à compter du 1er j
 
 ###### Article 242 octies
 
-Les organismes agissant sans but lucratif, désignés à l'article 261-7-1°-a du code général des impôts, demeurent soumis,
-lorsqu'ils réalisent des opérations imposables à la taxe sur la valeur ajoutée, aux obligations prévues aux articles 286 à
-289 du code général des impôts, sous réserve des dispositions des alinéas suivants.
+Les organismes agissant sans but lucratif, désignés au a du 1° du 7 de l'article 261 du code général des impôts, demeurent
+soumis, lorsqu'ils réalisent des opérations imposables à la taxe sur la valeur ajoutée, aux obligations prévues aux articles
+286 à 289 C du code général des impôts, sous réserve des dispositions des alinéas suivants.
 
 Ces organismes doivent se conformer, le cas échéant, aux dispositions de l'article 290 quater du même code.
 
@@ -11455,13 +11180,14 @@ ventes qu'ils consentent à leurs membres et les déductions correspondantes que
 déclaration afférente aux opérations du dernier mois ou du dernier trimestre.
 
 Les organismes qui ne réalisent des opérations imposables qu'à titre occasionnel sont dispensés de souscrire les déclarations
-prévues à l'article 286-1° et 2° du code général des impôts. Ils souscrivent les déclarations prescrites par l'article 287 de
-ce code, dans les trente jours suivant la réalisation des opérations imposables, auprès du service des impôts dont dépend
-leur siège. En ce qui concerne les ventes qu'ils consentent à leurs membres, les règles du troisième alinéa sont applicables.
+prévues aux 1° et 2° de l'article 286 du code général des impôts. Ils souscrivent les déclarations prescrites par l'article
+287 de ce code, dans les trente jours suivant la réalisation des opérations imposables, auprès du service des impôts dont
+dépend leur siège. En ce qui concerne les ventes qu'ils consentent à leurs membres, les règles du troisième alinéa sont
+applicables.
 
 Lorsqu'ils organisent une manifestation de bienfaisance ou de soutien pour laquelle ils entendent bénéficier de l'exonération
-prévue à l'article 261-7-1°-c du code général des impôts, les organismes mentionnés aux troisième et quatrième alinéas en
-informent le service des impôts de leur siège au moins vingt-quatre heures avant le début de la manifestation [*délai*].
+prévue au c du 1° du 7 de l'article 261 du code général des impôts, les organismes mentionnés aux troisième et quatrième
+alinéas en informent le service des impôts de leur siège au moins vingt-quatre heures avant le début de la manifestation.
 
 Dans les trente jours qui suivent une manifestation exonérée, les organisateurs adressent au même service un relevé détaillé
 des recettes et des dépenses afférentes à la manifestation.
@@ -11470,16 +11196,257 @@ des recettes et des dépenses afférentes à la manifestation.
 
 	**Cite**:
 
-	  - CGI 261 7 1° a, c
-	  - CGI 286 1°, 2°
-	  - CGI 287
-	  - CGI 288
-	  - CGI 289
-	  - CGI 290 quater
+	  - CGI 261 7, 286 à 289 C, 290 quater, 287
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 43 () JORF 30 décembre 1978
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 49 (P) JORF 30 décembre 1978
+	  - Loi n°90-1169 du 29 décembre 1990 - art. 47 (V) JORF 30 décembre 1990
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 32 () JORF 19 juillet 1992
+	  - Loi - art. 27 () JORF 5 janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+
+##### III : Factures
+
+###### Article 242 nonies
+
+Les factures ou les documents en tenant lieu établis par les assujettis doivent être datés et numérotés et faire apparaître :
+
+Le nom du vendeur ou du prestataire et celui du client ainsi que leurs adresses respectives ;
+
+La date de l'opération ;
+
+Pour chacun des biens livrés ou des services rendus, la quantité, la dénomination précise, le prix unitaire hors taxes et le
+taux de taxe sur la valeur ajoutée légalement applicable ;
+
+Tous rabais, remises ou ristournes dont le principe est acquis et le montant chiffrable lors de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1244 1992-11-27 art. 1, art. 3 JORF 28 novembre 1992, en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. Sommaire (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+##### IV : Personnes ne remplissant plus les conditions pour bénéficier du régime dérogatoire prévu au 2° du I de l'article 256 bis
+
+###### Article 242 decies
+
+Dès lors qu'elles ne peuvent plus bénéficier du régime dérogatoire prévu au 2° du I de l'article 256 bis du code général des
+impôts, les personnes visées audit 2° sont tenues d'en informer par écrit et sans délai le service des impôts auprès duquel
+elles déposent leur déclaration de bénéfices ou, à défaut, celui dont relève leur principal établissement.
+
+En outre ces personnes doivent remplir un document dont le modèle est fourni par l'administration, sauf lorsqu'elles ont déjà
+satisfait à l'obligation de déclaration d'existence prévue au 1° de l'article 286 du code général des impôts et qu'elles
+détiennent le numéro d'identification de leur établissement délivré par l'INSEE.
+
+Conformément au 2° de l'article 286 ter du code général des impôts, le service des impôts leur attribue un numéro individuel
+d'identification.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 256 bis, 286, 286 ter
+
+	**Créé par**:
+
+	  - Décret n°93-643 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+##### V : Opérations intracommunautaires portant sur des moyens de transport neufs ou d'occasion
+
+###### Article 242 duodecies
+
+Pour les assujettis visés au IV de l'article 298 sexies du code général des impôts, le remboursement de la taxe sur la valeur
+ajoutée qu'ils ont acquittée lors de l'achat du moyen de transport, de son importation ou de son acquisition
+intracommunautaire, s'effectue au vu d'une demande établie sur un imprimé dont le modèle est fixé par l'administration.
+
+Le demandeur établit que le moyen de transport est affecté aux besoins d'un résident d'un autre Etat membre.
+
+La demande est déposée auprès du centre des impôts dans le ressort duquel est situé le siège de l'activité ou, à défaut, le
+domicile.
+
+Le remboursement est subordonné à la production, à l'appui de la demande :
+
+a) Du document justifiant que le demandeur a précédemment acquitté la taxe sur la valeur ajoutée sur le moyen de transport
+neuf qu'il vend : facture d'achat, déclaration d'importation ou document en tenant lieu, certificat délivré par
+l'administration des impôts dans les conditions prévues à l'article 242 quaterdecies ;
+
+b) De la facture de vente ou du document en tenant lieu établi par le demandeur, conformément à l'article 242 undecies ;
+
+c) De l'original ou d'une copie certifiée :
+
+De la carte grise annotée conformément à la réglementation applicable en matière d'immatriculation des véhicules terrestres à
+moteur ;
+
+Du certificat de radiation de l'immatriculation pour les aéronefs et les bateaux destinés à la navigation intérieure ;
+
+Du certificat de radiation de la francisation pour les autres bateaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 298 sexies, 242 quaterdecies, 242 undecies
+
+	**Créé par**:
+
+	  - Décret n°93-878 du 25 juin 1993 - art. 1 (V) JORF 3 juillet 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 242 undecies
+
+Les factures ou documents en tenant lieu délivrés par les assujettis désignés au II de l'article 298 sexies du code général
+des impôts doivent comporter les éléments suivants :
+
+1° Le nom et l'adresse de l'assujetti qui effectue la livraison ;
+
+2° Le nom et l'adresse de l'acquéreur, ainsi que l'indication du nom de l'Etat membre à destination duquel le moyen de
+transport neuf est expédié ou transporté ;
+
+3° L'identification complète du moyen de transport :
+
+a) Nature ;
+
+b) Genre ;
+
+c) Marque ;
+
+d) Type ;
+
+e) Numéro dans la série du type ;
+
+f) Cylindrée ou puissance pour un véhicule terrestre ;
+
+g) Poids total au décollage pour un aéronef ;
+
+h) Longueur, vitesse maximale pour un bateau et, le cas échéant, puissance du ou des moteurs ;
+
+i) Date de première mise en circulation ou, pour les bateaux, date du permis de navigation ou, pour les aéronefs, date de
+délivrance du premier certificat de navigabilité ou certificat de navigabilité export ;
+
+j) Numéro ou marque d'immatriculation ;
+
+4° La date de la livraison ;
+
+5° La distance parcourue (véhicules terrestres), le nombre d'heures de vol effectuées (aéronefs), le nombre d'heures de
+navigation effectuées (bateaux) entre la date de première mise en circulation et celle de la livraison ou, lorsque le moyen
+de transport n'a pas déjà été mis en circulation, une mention selon laquelle le bien n'a fait l'objet d'aucune utilisation ;
+
+6° Le prix de vente hors taxe sur la valeur ajoutée ;
+
+7° La mention : "exonération de la taxe sur la valeur ajoutée, art. 298 sexies du code général des impôts".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 298 sexies
+
+	**Créé par**:
+
+	  - Décret n°93-878 du 25 juin 1993 - art. 1 (V) JORF 3 juillet 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+##### V : Moyens de transport neufs.
+
+###### Article 242 quaterdecies
+
+I. Pour l'application de l'article 242 terdecies :
+
+1° L'assujetti et la personne morale non assujettie, autres qu'une personne bénéficiant du régime dérogatoire prévu au 2° du
+I de l'article 256 bis du code général des impôts, demandent au centre des impôts, dans le ressort duquel ils ont le siège de
+leur activité, la délivrance d'un certificat indiquant, selon le cas, que la taxe doit être portée sur leur déclaration de
+chiffre d'affaires ou qu'au vu des renseignements communiqués, l'acquisition n'est pas taxable ;
+
+2° Les personnes autres que celles qui sont mentionnées au 1° demandent à la recette des impôts de leur domicile ou du siège
+de leur activité, la délivrance d'un certificat justifiant, selon le cas, que la taxe sur la valeur ajoutée exigible a été
+acquittée auprès de cette recette ou qu'au vu des renseignements communiqués, aucune taxe n'est due au titre de cette
+opération.
+
+II. Les certificats délivrés par la recette ou le service des impôts sont conformes aux modèles prescrits par
+l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 242 terdecies, 256 bis
+
+	**Créé par**:
+
+	  - Décret n°93-878 du 25 juin 1993 - art. 4 (V) JORF 3 juillet 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 242 terdecies
+
+I. Un certificat délivré par l'administration fiscale doit être obligatoirement présenté pour obtenir l'immatriculation ou la
+francisation d'un moyen de transport visé au 1 du III de l'article 298 sexies du code général des impôts et provenant d'un
+autre Etat membre de la Communauté économique européenne.
+
+II. Pour les moyens de transport qui ne sont pas soumis à immatriculation, ce certificat doit être conservé par l'utilisateur
+pour être présenté à toute demande de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 298 sexies
+
+	**Créé par**:
+
+	  - Décret n°93-878 du 25 juin 1993 - art. 3 (V) JORF 3 juillet 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
 
 
 ##### Section IV : Dispositions particulières aux opérations concourant à la production ou à la livraison d'immeubles
@@ -12235,90 +12202,6 @@ titre d'activités portant sur lesdits animaux, la facture doit expressément po
 	  - HISTO: Edition du 18 août 1993
 
 
-#### Chapitre II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité
-
-###### Article 267 quater D
-
-Les redevables de la taxe prévue à l'article 302 bis A du code général des impôts doivent déposer dans les trente jours de la
-vente ou dans les délais prévus pour les déclarations de chiffre d'affaires une déclaration en double exemplaire conforme au
-modèle établi par l'administration [*formalité obligatoire*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 bis A
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 74 S bis
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Transféré par**:
-
-	  - Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article transféré sous l'article 74 S bis, édition du 18 août 1993
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 267 quater E
-
-Lorsque le vendeur exerce l'option prévue à l'article 302 bis E du code général des impôts, il doit souscrire, auprès du
-service des impôts dont il dépend pour l'impôt sur le revenu, une déclaration d'option en double exemplaire selon un modèle
-établi par l'administration.
-
-La déclaration mentionne l'identité de l'acquéreur et, le cas échéant, de l'intermédiaire chargé de la vente ainsi que la
-date de l'opération et le prix de vente.
-
-Elle est appuyée :
-
-- soit d'un certificat délivré par un officier ministériel attestant que l'objet a été acquis dans une vente publique, et
-mentionnant la date et le prix payé,
-
-- soit d'une facture régulière délivrée par un commerçant résidant en France,
-
-- soit d'une facture délivrée par un particulier et visée par la recette des impôts ayant encaissé la taxe,
-
-- soit, lorsque l'objet a été acquis par voie de succession ou de donation, d'un extrait de la déclaration ayant servi de
-base à la liquidation des droits de mutation et mentionnant le bien concerné.
-
-L'acceptation de l'option par l'administration est notifiée en double exemplaire au vendeur. Le cas échéant, celui-ci remet
-l'un d'eux à la personne tenue au paiement de la taxe qui conserve cette pièce à l'appui de sa propre comptabilité. Le
-redevable de la taxe se trouve de ce fait déchargé du paiement. L'option exercée est irrévocable.
-
-Lorsqu'un exportateur se trouvant dans la situation prévue au second alinéa de l'article 302 bis C du code général des impôts
-a acquis le bien auprès d'une personne qui a exercé l'option, la présentation par cet exportateur de la déclaration d'option
-visée par les services fiscaux vaut justification du paiement de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 bis C AL. 2
-	  - CGI 302 bis E
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 74 S ter
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Transféré par**:
-
-	  - Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993, article transféré sous l'article 74 S ter, édition du 18 août 1993
-
-	**Liens**:
-
-	  - HISTO: Edition 1979-07-01
-
-
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
 
 #### Chapitre premier : Régimes simplifiés d'imposition
@@ -12428,6 +12311,80 @@ régime simplifié de liquidation des taxes sur le chiffre d'affaires.
 
 
 ### Titre III : Contributions indirectes
+
+#### Chapitre 0I : Boisson. Vins et cidres
+
+##### Section unique : Production
+
+##### 1° : Déclarations
+
+###### Article 267 octies
+
+Les déclarations prévues aux articles 407 et 408 de récolte et de stocks de vins prévues aux articles 407 et 408 du code
+général des impôts et qui renferment en outre les indications fixées par décrets (1) sont établies sur des imprimés mis à la
+disposition des déclarants et déposées à la mairie qui en donne récépissé. Une copie de ces déclarations reste en mairie et
+doit être communiquée à tout requérant. 
+
+Les autres exemplaires sont transmis, par les soins de la mairie, au service des douanes et droits indirects dans le ressort
+duquel sont situées les exploitations intéressées. Ce service ne peut délivrer des titres de mouvement au déclarant pour une
+quantité de vin supérieure à celle qu'il a déclarée. 
+
+Le relevé nominatif des déclarations établi d'après leur ordre de dépôt, est affiché à la mairie. 
+
+Dès le début de la récolte, au fur et à mesure des nécessités de la vente, des déclarations partielles peuvent être faites
+dans les mêmes conditions que ci-dessus, sauf l'affichage qui a lieu après la déclaration totale.
+
+**Nota:**
+
+(1) Voir l'article 169 bis de l'annexe III.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 407, 408
+	  - CGIAN3 169 bis
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 42 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 169 bis (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+##### 2° : Mesurage des appareils et vaisseaux
+
+###### Article 267 nonies
+
+Les détenteurs d'appareils et de vaisseaux affectés à la production, au logement et au transport de liquides soumis à un
+droit indirect sont tenus de présenter au service des douanes et droits indirects dont ils relèvent, pour chacun de ces
+appareils ou vaisseaux et avant toute utilisation, le certificat de mesurage établi et remis au détenteur par le service des
+instruments de mesure en application de l'article 1er du décret n° 70-791 du 2 septembre 1970 et de tenir ensuite ce document
+à la disposition des agents chargés du contrôle, à tout moment, et notamment pendant les transports pour les récipients
+affectés au transport.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°791 1970-09-02 ART. 1
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 43 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
 
 #### Chapitre premier : Régime économique de l'alcool
 
@@ -12543,6 +12500,40 @@ avec avis de réception adressée au bureau de garantie dont ils dépendent. Ell
 #### Chapitre II : Monopoles fiscaux
 
 ##### Section unique : Tabacs
+
+##### 0I : Définition des tabacs manufacturés.
+
+###### Article 275 E bis
+
+Sont considérés comme autres tabacs à fumer :
+
+1° Le tabac coupé ou fractionné d'une autre façon, filé ou pressé en plaques, qui est susceptible d'être fumé en l'état sans
+transformation industrielle ultérieure, pour lequel 75 p. 100 au moins en poids des particules de tabac présentent une
+largeur de coupe supérieure ou égale à 1 millimètre ;
+
+2° Les déchets de tabac conditionnés pour la vente au détail, pour lesquels 75 p. 100 au moins en poids des particules de
+tabac présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
+
+3° Jusqu'au 31 décembre 1997, les tabacs visés au dernier alinéa de l'article 275 E.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 275 E
+
+	**Créé par**:
+
+	  - Décret n°93-424 du 18 mars 1993 - art. 5 () JORF 24 mars 1993
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E ter (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
 
 ##### I : Régime économique.
 
@@ -14428,6 +14419,104 @@ toutes les opérations d'une même catégorie définies au premier alinéa de ce
 	  - Code général des impôts, CGI. - art. 1465 (V)
 
 
+###### Article 310 HB octies
+
+I. Les installations de désulfuration du gazole et du fioul lourd [*gas-oil, fuel*] ainsi que les installations de conversion
+profonde du fioul lourd en gazole, en fioul domestique ou en carburants pour automobiles, susceptibles d'être exonérées de
+taxe professionnelle en application de l'article 1464 E du code général des impôts, sont celles définies au A du II et
+répondant aux caractéristiques techniques définies au B du II.
+
+Les seuils fixés au B du II seront modifiés, en tant que de besoin, par un arrêté conjoint du ministre du budget et du
+ministre de l'industrie et du commerce extérieur en fonction de l'évolution des techniques et des réglementations nationales
+ou communautaires.
+
+II. A. - Les unités susceptibles d'être exonérées de taxe professionnelle sont les suivantes :
+
+1. Unités de désulfuration :
+
+Unités d'hydrodésulfuration ou d'hydrotraitement des gazoles ou produits équivalents ;
+
+Unités d'hydrodésulfuration ou d'hydrotraitement des fiouls lourds ou résidus lourds pétroliers ;
+
+Unités d'hydrodésulfuration ou d'hydrotraitement des charges des unités de craquage catalytique ou d'huiles désasphaltées ;
+
+2. Unités de conversion profonde :
+
+Unités d'hydrocraquage catalytique ou d'hydroconversion des fiouls lourds ou résidus pétroliers.
+
+3. Unités connexes :
+
+Unités de lavage aux amines ou de traitement des effluents gazeux pour extraction de l'hydrogène sulfuré ;
+
+Unités de récupération de soufre ou de traitement de l'hydrogène sulfuré avec récupération du soufre ;
+
+Unités de traitement des gaz de queue d'une ligne d'unités de récupération de soufre en série ;
+
+Unités de purification de l'hydrogène ;
+
+Unités de production d'hydrogène :
+
+Vaporéformage du naphta ;
+
+Oxydation partielle de résidus pétroliers.
+
+L'unité s'entend de l'ensemble constitué d'un ou plusieurs réacteurs, dans lesquels s'opère l'un des processus réactionnels
+définis ci-dessus, associés ou non à des matériels tels que, notamment, pompes, compresseurs, échangeurs, décanteurs,
+régénérateurs, séparateurs, absorbeurs, stabilisateurs, fours.
+
+B.1. Les unités mentionnées au A et énumérées ci-dessous sont assujetties aux prescriptions techniques suivantes :
+
+a) Unités d'hydrodésulfuration ou d'hydrotraitement des gazoles ou produits équivalents : teneur en soufre totale des
+produits obtenus :
+
+inférieure ou égale à 0,05 p. 100 en masse ;
+
+b) Unités d'hydrodésulfuration ou d'hydrotraitement des charges des unités de craquage catalytique, d'huiles désasphaltées,
+des fiouls lourds ou résidus lourds pétroliers : teneur en soufre totale des produits obtenus : inférieure ou égale à 1 p.
+100 en masse ;
+
+c) Unités de récupération de soufre ou de traitement de l'hydrogène sulfuré avec récupération du soufre : taux de
+récupération défini au 2 : supérieur ou égal à 98 p. 100 ;
+
+d) Unités de traitement des gaz de queue d'une ligne d'unités de récupération de soufre en série : taux de récupération
+défini au 2 :
+
+supérieur ou égal à 98 p. 100.
+
+2. Le taux de récupération cité aux c et d du 1 est défini comme le rapport entre la production totale de soufre et la
+quantité totale de soufre contenue dans le gaz à traiter, exprimées en masse, pour une ligne d'unités de récupération de
+soufre en série, éventuellement complétée par une unité de traitement des gaz de queue.
+
+3. Les méthodes d'essais normalisées suivantes doivent être utilisées pour déterminer les spécifications énoncées au 1 :
+
+Teneur en soufre des gazoles ou produits équivalents : NF T 60 142 ;
+
+Teneur en soufre des fiouls lourds ou résidus lourds pétroliers :
+
+NF M 07 025.
+
+Ou toute autre norme nationale d'un Etat membre de la Communauté économique européenne reconnue équivalente.
+
+En cas de modification de l'une des normes ci-dessus, l'homologation de la norme modifiée entraîne substitution des
+dispositions de cette dernière à celles de la norme précédente pour l'application des spécifications définies au 1. L'arrêté
+d'homologation fixe le cas échéant des délais d'application et des dispositions transitoires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1464 E
+
+	**Créé par**:
+
+	  - Décret n°93-299 du 4 mars 1993 - art. 1 (V) JORF 10 mars 1993
+	  - Décret n°93-299 du 4 mars 1993 - art. 2 (V) JORF 10 mars 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+
 ###### Article 310 HB quater
 
 Les zones dans lesquelles l'aménagement du territoire justifie une exonération temporaire de taxe professionnelle en faveur
@@ -14645,6 +14734,39 @@ des locaux professionnels dont ils disposent.
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 310 HF
+
+Pour la détermination de la valeur locative qui sert de base à la taxe professionnelle :
+
+1° Les magasins généraux et entrepôts dont la valeur locative n'est retenue que dans les bases d'imposition de l'exploitant
+s'entendent de ceux dont la création, la gestion et la cession sont réglementées par l'ordonnance n° 45-1744 du 6 août 1945;
+
+2° Le prix de revient des immobilisations est celui qui doit être retenu pour le calcul des amortissements;
+
+3° La valeur locative des biens faisant l'objet d'un contrat de crédit-bail mobilier est déterminée d'après leur prix de
+revient stipulé dans l'acte.
+
+4° Les limites de 400.000 F et d'un million de francs s'apprécient pour l'ensemble de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Cite**:
+
+	  - Ordonnance 45-1744 1945-08-06
+
+	**Modifié par**:
+
+	  - Loi - art. 95 () JORF 31 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+
 ###### Article 310 HG
 
 Pour les contribuables non sédentaires et les contribuables ayant une installation fixe, mentionnés à l'article 1470 du code
@@ -14711,35 +14833,6 @@ Les bases de la taxe professionnelle et des taxes additionnelles à celle-ci son
 	**Codifié par**:
 
 	  - Décret n°99-382 1999-05-18
-
-
-##### Base d'imposition.
-
-###### Article 310 HF
-
-Pour la détermination de la valeur locative qui sert de base à la taxe professionnelle :
-
-1° Les magasins généraux et entrepôts dont la valeur locative n'est retenue que dans les bases d'imposition de l'exploitant
-s'entendent de ceux dont la création, la gestion et la cession sont réglementées par l'ordonnance n° 45-1744 du 6 août 1945;
-
-2° Le prix de revient des immobilisations est celui qui doit être retenu pour le calcul des amortissements;
-
-3° La valeur locative des biens faisant l'objet d'un contrat de crédit-bail mobilier est déterminée d'après leur prix de
-revient stipulé dans l'acte; cette valeur n'est pas modifiée lorsque, à l'expiration du contrat, les biens sont acquis par le
-locataire;
-
-4° Les limites de 400.000 F et d'un million de francs s'apprécient pour l'ensemble de l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - Ordonnance 45-1744 1945-08-06
 
 
 ##### IV : Disposition transitoire
@@ -18031,30 +18124,30 @@ maximum le taux applicable (1) à chaque catégorie de produits. "
 
 ###### Article 361 bis
 
-Il est institué pour les campagnes 1990-1991 et 1991-1992 une taxe parafiscale au profit des organismes interprofessionnels
-de vins mentionnés à l'article 1er du décret n° 90-1039 du 22 novembre 1990.
+Il est institué pour les campagnes 1992-1993 à 1996-1997 une taxe parafiscale au profit des organismes interprofessionnels de
+vins mentionnés à l'article 1er du décret n° 92-1385 du 30 décembre 1992.
 
 Cette taxe est destinée à couvrir les dépenses afférentes aux actions d'intérêt interprofessionnel conduites par ces
 organismes, ainsi que leurs frais de fonctionnement.
 
-II. La taxe est due [*fait générateur*] lors de la délivrance du titre de mouvement légitimant la sortie de chez le
-producteur des vins d'appellation d'origine produits dans la circonscription territoriale de l'organisme bénéficiaire.
+II. La taxe est due lors de la délivrance du titre de mouvement légitimant la sortie de chez le producteur des vins
+d'appellation d'origine produits dans la circonscription territoriale de l'organisme bénéficiaire.
 
-Elle est assise [*assiette*] sur le volume des vins mentionné sur le titre de mouvement.
+Elle est assise sur le volume des vins mentionné sur le titre de mouvement.
 
 Elle est acquittée par la personne levant le titre de mouvement ; s'il s'agit d'un viticulteur, celui-ci facture le montant
 de la taxe à l'acheteur afin d'en obtenir le remboursement.
 
-III. La taxe est perçue [*perception*], pour le compte de chacun des organismes, par les comptables de la direction générale
-des douanes et droits indirects.
+III. La taxe est perçue, pour le compte de chacun des organismes, par les comptables de la direction générale des douanes et
+droits indirects.
 
 L'administration reverse aux organismes bénéficiaires le montant de la taxe après déduction, dans les conditions
 réglementaires, des frais d'assiette et de perception.
 
-IV. Le montant maximum de la taxe est fixé à 7 F par hectolitre.
+IV. Le montant maximum de la taxe est fixé à 6 F par hectolitre.
 
-Un arrêté conjoint du ministre d'Etat, ministre de l'économie, des finances et du budget, et du ministre de l'agriculture et
-de la forêt fixe le montant applicable dans la limite du montant maximum (1).
+Un arrêté conjoint du ministre de l'économie et des finances, du ministre du budget  et du ministre de l'agriculture et du
+développement rural fixe le montant applicable dans la limite du montant maximum (1).
 
 (1) Voir annexe IV art. 159 AM bis.
 
@@ -18067,8 +18160,11 @@ de la forêt fixe le montant applicable dans la limite du montant maximum (1).
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 54 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+	  - Décret n°92-1385 1992-12-30 art. 1 à 4 JORF 31 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
 
 
 #### Chapitre VIII : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.
@@ -18107,28 +18203,41 @@ articles 363 B et 363 B bis.
 
 ###### Article 363 B
 
-I. Sont soumises à la taxe prévue à l'article 363 A les ventes, y compris à l'exportation, réalisées par les fabricants de
-produits relevant de la classe 49, à l'exclusion du groupe 49-04, de la nomenclature détaillée de produits approuvés par le
-décret n° 83-831 du 5 septembre 1983.
+I. - Sont soumises à la taxe prévue à l'article 363 A, les livraisons situées en France en application du a du I de l'article
+258 du code général des impôts y compris les exportations, les livraisons exonérées en vertu du I de l'article 262 ter du
+code général des impôts ou les livraisons dans un lieu situé dans un autre Etat membre de la Communauté économique européenne
+[*CEE*] en application de l'article 258 A du même code, réalisées par les fabricants des produits d'ameublement relevant de
+la classe 36-1 de la Nomenclature d'activités françaises approuvée par le décret n° 92-1129 du 2 octobre 1992, à l'exclusion
+des produits relevant des postes 36-11-13 pour les sièges pliants à ossature métallique, 36-11-14 pour les parties de sièges
+pliants à ossature métallique, 36-12-11 pour le mobilier métallique de magasin, 36-14-11 pour les mobiliers métalliques,
+36-14-14 pour les meubles en matière plastique, 36-14-15 pour les mécanismes et accessoires métalliques divers et 36-15 pour
+la literie de la même nomenclature. "
 
 II. Les ventes effectuées par les entreprises imposées à la taxe sur la valeur ajoutée selon le régime du forfait sont
 exonérées de la taxe.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - HISTO: )
+	  - DISJONCTION: Décret n°95-1281 du 11 décembre 1995 - art. 2 () JORF 13 décembre 1995
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 27 octobre 1995
+
 	**Cite**:
 
-	  - CGI 363 A
-	  - Décret n°83-831 1983-09-05
-
-	**Modifié par**:
-
-	  - Décret n°91-349 1991-04-10 art. 2, art. 3 JORF 11 avril 1991
-	  - Décret n°91-349 du 10 avril 1991 - art. 3 (V) JORF 11 avril 1991
+	  - CGI 258, 262 ter, 258 A, 363 A
+	  - Décret n°92-1129 1992-10-02
 
 	**Codifié par**:
 
 	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
+
+	**Modifié par**:
+
+	  - Décret n°93-1040 du 2 septembre 1993 - art. 3 () JORF 4 septembre 1993
 
 
 ###### Article 363 B bis
@@ -18164,40 +18273,39 @@ Le taux de la taxe est fixé par arrêté conjoint des ministres chargés de l'�
 
 #### Chapitre IX : Fonds national de développement agricole
 
-##### Taxe parafiscale sur certaines viandes.
+##### Section I : Taxe parafiscale sur certaines viandes.
 
 ###### Article 363 D
 
-I. Il est institué au profit de l'association nationale pour le développement agricole [*ANDA organisme bénéficiaire*], pour
-être versée au fonds national de développement agricole, une taxe parafiscale sur les viandes de veau, de boeuf, de mouton,
-de porc, des espèces chevaline, asine et de leurs croisements, à l'exclusion des produits importés.
+I. Il est institué, jusqu'au 31 décembre 1995, une taxe parafiscale sur les viandes de veau, boeuf, mouton, porc et animaux
+des espèces chevaline et asine et de leurs croisements, perçue au profit de l'Association nationale pour le développement
+agricole, pour être versée au Fonds national de développement agricole. Cette taxe n'est perçue que sur les viandes provenant
+d'animaux d'origine française au sens des dispositions du règlement communautaire du 14 décembre 1990 susvisé.
 
-Cette taxe est applicable jusqu'au 31 décembre 1992 [*date limite*].
+II. La taxe est à la charge de l'agriculteur ou de l'éleveur dernier propriétaire de l'animal. Elle est acquittée lors de la
+présentation de cet animal à l'abattage. Toutefois, en cas d'abattage à façon, la taxe est acquittée par le tiers abatteur
+pour le compte du propriétaire.
 
-II. Cette taxe est à la charge de l'agriculteur ou de l'éleveur dernier propriétaire de l'animal. Elle est acquittée par la
-personne qui présente cet animal à l'abattage. Toutefois, en cas d'abattage à façon, la taxe est acquittée par le tiers
-abatteur pour le compte du propriétaire.
+La taxe est perçue dans les établissements d'abattage publics et privés sur les abattages opérés en vue de la vente.
 
-III. Les taux maxima de la taxe sont les suivants :
+III. Le montant maximum de la taxe est fixé à :
 
-- Pour la viande de boeuf et la viande de veau ainsi que pour les viandes des espèces chevaline, asine et de leurs
-croisements : 0,40 % du prix d'orientation communautaire défini pour un kilogramme de poids vif de gros bovin ;
+49,50 F par tonne pour la viande de boeuf, la viande de veau u et les viandes des espèces chevaline, asine et de leurs
+croisements ;
 
-- Pour la viande de porc : 0,40 % du prix de base communautaire par kilogramme de viande de porc abattu ;
+52,50 F par tonne pour la viande de porc ;
 
-- Pour la viande de mouton : 0,15 % du prix de base communautaire par kilogramme de viande de mouton.
+46,50 F par tonne pour la viande de mouton.
 
-Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe les montants de la taxe effectivement
-perçue par espèce dans les limites prévues ci-dessus (1).
+Un arrêté conjoint des ministres chargés de l'économie, du budget et de l'agriculture fixe, chaque année, dans les limites
+prévues ci-dessus les montants de la taxe.
 
-IV. La taxe est perçue dans les établissements d'abattage publics et privés sur les abattages opérés en vue de la vente.
+IV. La taxe est constatée et recouvrée suivant les règles et sous les garanties, privilèges et sanctions prévus en matière de
+taxe à la valeur ajoutée.
 
-Elle est constatée et recouvrée suivant les mêmes règles, sous les mêmes garanties, privilèges et sanctions qu'en matière de
-taxe sur la valeur ajoutée. Pour son assiette et sa liquidation, sont applicables les dispositions des articles 111 quater A,
-111 quater B, 111 quater C, 111 quater E, 111 quater F, 111 quater G, 111 quater H et 111 quater I du chapitre IV de l'annexe
-III au code général des impôts.
-
-(1) Annexe IV, art. 159 AO.
+Pour son assiette et sa liquidation, sont applicables les dispositions des articles 111 quater A, 111 quater B, 111 quater C,
+111 quater E, 111 quater F, 111 quater G, 111 quater H et 111 quater I du chapitre IV de l'annexe III au code général des
+impôts.
 
 **Liens relatifs à cet article**
 
@@ -18208,34 +18316,42 @@ III au code général des impôts.
 
 	**Modifié par**:
 
-	  - Décret n°91-470 du 14 mai 1991 - art. 1 (V) JORF 17 mai 1991
+	  - Décret n°92-1459 du 31 décembre 1992 - art. 1 (P) JORF 1er janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1996-01-26 3Q-1-96
 
 
-##### Taxe parafiscale sur les vins.
+##### Section II : Taxe parafiscale sur les vins.
 
 ###### Article 363 E
 
-I. - Il est institué au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds national
-de développement agricole, une taxe parafiscale sur les vins, applicable jusqu'au 31 décembre 1992 [*date limite*].
+I. Il est institué au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds national de
+développement agricole, une taxe parafiscale sur les vins, applicable jusqu'au 31 décembre 1995.
 
-II. - La taxe est due par les producteurs au moment de la délivrance du titre de mouvement permettant l'enlèvement des vins à
-la propriété ou par les négociants vinificateurs lors de la déclaration de fabrication. Ces derniers ont la possibilité d'en
-retenir le montant sur le prix des raisins ou des moûts utilisés pour ces fabrications.
+II. La taxe est due par les producteurs au moment de la délivrance du titre de mouvement permettant l'enlèvement des vins à
+la propriété ou par les négociants vinificateurs lors de la déclaration de fabrication . Ces derniers ont la possibilité d'en
+retenir le montant sur le prix des raisins ou des moûts utilisés pour ces fabrications, à l'exclusion des acquisitions
+intracommunautaires de raisin et de moût.
 
-III. - Pour les vins d'appellation d'origine contrôlée, le montant maximal de la taxe est fixé à 2,10 F par hectolitre. Pour
-les vins délimités de qualité supérieure, le montant maximal de la taxe est fixé à 1,35 F par hectolitre.
+III. Le montant maximum de la taxe est fixé à :
 
-Pour les autres vins, le montant de la taxe par hectolitre de vin est au plus égal à 2,70 p. 100 du prix d'orientation du
-degré hectolitre fixé par le Conseil des communautés européennes pour les vins de type R. 1 au sens du règlement n° 340-79 en
-date du 5 février 1979 dudit conseil.
+2,50 F par hectolitre pour les vins d'appellation d'origine contrôlée ;
 
-Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe dans ces limites les montants de la taxe
-effectivement perçue. Toute augmentation du montant de la taxe effectivement perçue sur les vins mentionnés au II du présent
-article donne lieu à l'augmentation, au moins dans les mêmes proportions, du montant de la taxe effectivement perçue sur les
-vins mentionnés au I.
+1,60 F par hectolitre pour les vins délimités de qualité supérieure ;
 
-IV. - La taxe est liquidée et recouvrée par la direction générale des douanes et droits indirects suivant les règles, sous
-les garanties et sanctions prévues pour les impôts indirects sur les boissons.
+0,80 F par hectolitre pour les autres vins.
+
+Un arrêté conjoint du ministre de l'économie et des finances, du ministre de l'agriculture et du développement rural et du
+ministre du budget fixe, chaque année, dans ces limites, les montants de la taxe (1).
+
+IV. La taxe est liquidée et recouvrée suivant les règles et sous les garanties, privilèges et sanctions prévus pour les
+impôts indirects sur les boissons.
 
 (1) Annexe IV, art. 159 AP.
 
@@ -18244,11 +18360,14 @@ les garanties et sanctions prévues pour les impôts indirects sur les boissons.
 	**Cite**:
 
 	  - CGIAN4 159 AP
-	  - Règlement 340-79 1979-02-05 communautés européennes
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 55 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°92-1458 du 31 décembre 1992 - art. 1 (P) JORF 1er janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
 
 
 ##### Taxe parafiscale sur les graines oléagineuses.
@@ -18684,83 +18803,84 @@ européenne.
 
 ###### Article 363 AE
 
-Est autorisée au titre de la campagne de commercialisation 1987-1988 et pendant les quatre campagnes suivantes la perception
+I. Est autorisée au titre de la campagne de commercialisation 1992-1993 et pendant les deux campagnes suivantes la perception
 d'une taxe parafiscale à la charge des producteurs, assise sur les quantités de céréales et de riz livrées aux collecteurs
 agréés et aux producteurs grainiers.
 
-Toutefois, sont exonérées de la taxe les céréales de qualité courante échangées contre des céréales de semence certifiées,
-dans la limite d'un plafond fixé par décret.
+Toutefois, pour la campagne 1992-1993, sont exonérées de la taxe les céréales de qualité courante échangées contre des
+céréales de semences certifiées, dans la limite d'un plafond fixé par décret.
 
-II. (Sans objet : Loi 90-1169 1990-12-29 art. 51 II).
+II. Après déduction des frais de recouvrement, le produit de la taxe est réparti de la façon suivante :
 
-III. Après déduction des frais de recouvrement, le produit de la taxe est réparti entre l'office national interprofessionnel
-des céréales [*ONIC*], le fonds de solidarité des céréaliculteurs et des éleveurs et l'institut technique des céréales et des
-fourrages.
+Une partie, qui ne peut excéder 60 p. 100, est affectée à l'Office national interprofessionnel des céréales pour la
+couverture de ses frais de fonctionnement et pour le financement éventuel des actions entreprises en application de l'article
+1er du décret du 30 septembre 1953 modifié ;
 
-Un arrêté, pris dans les formes prévues à l'article 363 AI, fixe la répartition du produit de la taxe entre les organismes
-bénéficiaires ; la partie affectée à l'office national interprofessionnel des céréales ne peut être inférieure à 48 %
-[*pourcentage minimal*], celle affectée à l'institut technique des céréales et des fourrages ne peut être inférieure à 12 %.
+Une partie, qui ne peut être inférieure à 40 p. 100, est affectée à l'institut technique des céréales et des fourrages, pour
+l'exécution de ses programmes de développement. "
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 363 AI
+	  - Décret n°53-978 du 30 septembre 1953 - art. 1, v. init.
 
 	**Modifié par**:
 
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 51 ()
+	  - Décret n°92-1122 du 2 octobre 1992 - art. 1 (MMN) JORF 10 octobre 1992
 
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°93-1127 1993-09-24
 
 
 ###### Article 363 AF
 
-Le fait générateur [*définition*] de la taxe est la livraison de céréales par les producteurs aux collecteurs agréés et aux
-producteurs grainiers.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°82-733 du 23 août 1982 - art. 2 (P) JORF 25 AOUT 1982
-
-
-###### Article 363 AG
-
-" Pour le blé tendre, l'orge, le maïs et le seigle, le taux maximal de la taxe est fixé à 0,80 p. 100 du prix d'intervention
-diminué du montant du prélèvement de coresponsabilité.
-
-" Pour le blé dur, le sorgho, l'avoine et le riz, les taux maximaux de la taxe sont les suivants :
-
-" 0,60 p. 100 du prix d'intervention diminué du montant du prélèvement de coresponsabilité pour le blé dur et le sorgho ;
-
-" 0,60 p. 100 du prix de seuil diminué du montant du prélèvement de coresponsabilité pour l'avoine ;
-
-" 0,60 p. 100 du prix d'intervention pour le riz.
-
-" Pour le triticale, le montant à la tonne de la taxe applicable est égal au montant en valeur absolue de la taxe perçue à la
-tonne de seigle, tel que ce montant résulte des dispositions qui précèdent. "
+Le fait générateur de la taxe est la livraison des céréales par les producteurs aux collecteurs agréés et aux producteurs
+grainiers.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°87-677 du 17 août 1987 - art. 3 (P) JORF 19 août 1987
+	  - Décret n°92-1122 du 2 octobre 1992 - art. 3 (MMN) JORF 10 octobre 1992
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-1127 1993-09-24
+
+
+###### Article 363 AG
+
+Le taux maximal est fixé à :
+
+6,10 F par tonne pour le blé tendre ;
+
+6,10 F par tonne pour l'orge ;
+
+6,10 F par tonne pour le maïs ;
+
+6,05 F par tonne pour le blé dur ;
+
+5,65 F par tonne pour le seigle ;
+
+3,85 F par tonne pour le sorgho ;
+
+3,85 F par tonne pour l'avoine ;
+
+5,75 F par tonne pour le riz ;
+
+5,65 F par tonne pour le triticale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1122 du 2 octobre 1992 - art. 4 (MMN) JORF 10 octobre 1992
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
 
 
 ###### Article 363 AH
@@ -18777,44 +18897,41 @@ décret du 31 juillet 1959 relatif aux prix et modalités de paiement, de stocka
 
 	**Modifié par**:
 
+	  - Décret n°93-1122 1992-10-02 art. 5 JORF 10 octobre 1992
 	  - Décret n°93-310 du 9 mars 1993 - art. 59 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
 	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 363 AI
 
-" Pour chaque campagne, un arrêté (1) conjoint du ministre d'Etat, ministre de l'économie et des finances, du ministre chargé
-du budget et du ministre de l'agriculture, pris après avis du conseil central de l'Office national interprofessionnel des
-céréales, fixe les modalités d'application des articles 363 AE à 363 AH.
+Pour chaque campagne, un arrêté conjoint du ministre de l'économie et des finances, du ministre du budget et du ministre de
+l'agriculture et de la forêt, pris après avis du conseil central de l'office national interprofessionnel des céréales, fixe
+les montants de la taxe, dans les limites fixées à l'article 363 AG.
 
-" Il fixe notamment les montants de la taxe, en francs par tonne de céréales, dans les limites obtenues en appliquant les
-taux maximaux définis à l'article 363 AG aux prix directeurs en vigueur au début des campagnes de commercialisation
-concernées, ces prix étant convertis en francs français sur la base du taux de conversion de l'ECU dans le secteur agricole à
-la date du 1er juillet de l'année civile en cours.
-
-" Cet arrêté fixe également la répartition du produit de la taxe entre les organismes bénéficiaires visés à l'article 363 AE.
-"
-
-(1) Pour la campagne 1987-1988, arrêté du 17 août 1987 (JO du 19).
+Cet arrêté fixe également la répartition du produit de la taxe entre les organismes bénéficiaires mentionnés au II de
+l'article 363 AE.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1987-08-17
-	  - CGIAN2 363 AE
-	  - CGIAN3 363 AF
-	  - CGIAN3 363 AG
-	  - CGIAN3 363 AH
+	  - CGIAN2 363 AG, 363 AE
 
 	**Modifié par**:
 
-	  - Décret n°87-677 du 17 août 1987 - art. 5 (P) JORF 19 août 1987
+	  - Décret n°92-1122 du 2 octobre 1992 - art. 6 (MMN) JORF 10 octobre 1992
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-1127 1993-09-24
 
 
 #### Chapitre XIII : Taxe parafiscale perçue au profit du bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré.
@@ -18922,26 +19039,28 @@ de-vie.
 
 ###### Article 365
 
-Il est institué, jusqu'au 30 septembre 1992, une taxe parafiscale sur la publicité diffusée par voie de radiodiffusion sonore
-et de télévision.
+Il est institué, à compter du 1er octobre 1992 et pour une durée de cinq ans, une taxe parafiscale sur la publicité diffusée
+par voie de radiodiffusion sonore et de télévision.
 
 Cette taxe est destinée à financer un fonds d'aide aux titulaires d'une autorisation de service de radiodiffusion sonore par
-voie hertzienne ne collectant pas de ressources publicitaires et ne diffusant pas de messages publicitaires.
+voie hertzienne dont les ressources commerciales provenant de messages diffusés à l'antenne et présentant le caractère de
+publicité de marque ou de parrainage sont inférieures à 20 p. cent de leur chiffre d'affaires total.
+
+Cette taxe a pour objet de favoriser l'expression radiophonique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°90-627 du 11 juillet 1990 - art. 1 () JORF 17 juillet 1992
-	  - Décret n°92-346 du 1 avril 1992 - art. 1 () JORF 2 avril 1992
+	  - Décret n°92-1053 du 30 septembre 1992 - art. 1 (V) JORF 1er octobre 1992
 
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°93-1127 1993-09-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - SPEC_APPLI: Décret n°97-1030 du 13 novembre 1997 - art. 1 (V)
 
 
 ###### Article 365 A
@@ -18967,59 +19086,130 @@ assurent la régie de ces messages publicitaires.
 
 ###### Article 365 B
 
-Le tarif d'imposition est fixé par arrêté conjoint des ministres chargés de l'économie, des finances, du budget et de la
-communication. Il est fixé par paliers de recettes trimestrielles perçues par les régies assujetties dans les limites
-suivantes :
+Un  arrêté conjoint des ministres chargés du budget et de la communication fixe le tarif d'imposition par paliers de recettes
+trimestrielles perçues par les régies assujetties, dans les limites suivantes :
 
 I. - Publicité radiodiffusée
 
-De 300 000 F à 1,5 million inclus : 3.450 F De 1,5  à   3 millions inclus     : 8.620 F De   3 à   6 millions inclus     :
-18.110 F De   6 à   9 millions inclus     : 31.050 F De   9 à  15 millions inclus     : 51.750 F De  15 à  21 millions
-inclus     : 81.940 F De  21 à  30 millions inclus    : 117.300 F De  30 à  45 millions inclus    : 172.500 F De  45 à  60
-millions inclus    : 250.120 F De  60 à  90 millions inclus    : 357.070 F De  90 à 120 millions inclus    : 500.250 F De 120
-à 150 millions inclus    : 672.750 F De 150 à 180 millions inclus    : 828.000 F De 180 à 210 millions inclus    : 983.250 F
-De 210 à 240 millions inclus  : 1.138.500 F De 240 à 270 millions inclus  : 1.293.750 F De 270 à 300 millions inclus  :
-1.449.000 F De 300 à 330 millions inclus  : 1.604.250 F De 330 à 360 millions inclus  : 1.759.500 F De 360 à 390 millions
-inclus  : 1.914.750 F De 390 à 420 millions inclus  : 2.070.000 F Au-dessus de 420 millions     : 2.259.750 F
+De 300 000 F à 1,5 million inclus : 3.450 F
+
+De 1,5  à 3 millions inclus : 8.620 F
+
+De   3 à   6 millions inclus : 18.110 F
+
+De   6 à   9 millions inclus : 31.050 F
+
+De   9 à  15 millions inclus : 51.750 F
+
+De  15 à  21 millions inclus : 81.940 F
+
+De  21 à  30 millions inclus : 117.300 F
+
+De  30 à  45 millions inclus : 172.500 F
+
+De  45 à  60 millions inclus : 250.120 F
+
+De  60 à  90 millions inclus : 357.070 F
+
+De  90 à 120 millions inclus : 500.250 F
+
+De 120 à 150 millions inclus : 672.750 F
+
+De 150 à 180 millions inclus : 828.000 F
+
+De 180 à 210 millions inclus : 983.250 F
+
+De 210 à 240 millions inclus : 1.138.500 F
+
+De 240 à 270 millions inclus : 1.293.750 F
+
+De 270 à 300 millions inclus : 1.449.000 F
+
+De 300 à 330 millions inclus : 1.604.250 F
+
+De 330 à 360 millions inclus : 1.759.500 F
+
+De 360 à 390 millions inclus : 1.914.750 F
+
+De 390 à 420 millions inclus : 2.070.000 F
+
+Au-dessus de 420 millions : 2.259.750 F
 
 II. - Publicité télévisée
 
-Jusqu'à 3 millions inclus         : 4.430 F De   3 à   6 millions inclus     : 13.140 F De   6 à  15 millions inclus     :
-31.050 F De  15 à  30 millions inclus     : 78.860 F De  30 à  60 millions inclus    : 181.370 F De  60 à 120 millions
-inclus    : 413.010 F De 120 à 180 millions inclus    : 813.210 F De 180 à 240 millions inclus  : 1.271.570 F De 240 à 300
-millions inclus  : 1.641.210 F De 300 à 360 millions inclus  : 2.030.570 F De 360 à 420 millions inclus  : 2.434.710 F De 420
-à 480 millions inclus  : 2.809.290 F De 480 à 540 millions inclus  : 3.203.570 F De 540 à 600 millions inclus  : 3.597.860 F
-De 600 à 660 millions inclus  : 3.992.140 F De 660 à 720 millions inclus  : 4.386.400 F De 720 à 780 millions inclus  :
-4.780.710 F De 780 à 840 millions inclus  : 5.175.000 F De 840 à 900 millions inclus  : 5.569.270 F
+Jusqu'à 3 millions inclus : 4.430 F
 
-Au-dessus de 900 millions     : 5.963.570 F.
+De   3 à   6 millions inclus : 13.140 F
+
+De   6 à  15 millions inclus : 31.050 F
+
+De  15 à  30 millions inclus : 78.860 F
+
+De  30 à  60 millions inclus : 181.370 F
+
+De  60 à 120 millions inclus : 413.010 F
+
+De 120 à 180 millions inclus : 813.210 F
+
+De 180 à 240 millions inclus : 1.271.570 F
+
+De 240 à 300 millions inclus : 1.641.210 F
+
+De 300 à 360 millions inclus : 2.030.570 F
+
+De 360 à 420 millions inclus : 2.434.710 F
+
+De 420 à 480 millions inclus : 2.809.290 F
+
+De 480 à 540 millions inclus : 3.203.570 F
+
+De 540 à 600 millions inclus : 3.597.860 F
+
+De 600 à 660 millions inclus : 3.992.140 F
+
+De 660 à 720 millions inclus : 4.386.400 F
+
+De 720 à 780 millions inclus : 4.780.710 F
+
+De 780 à 840 millions inclus : 5.175.000 F
+
+De 840 à 900 millions inclus : 5.569.270 F
+
+Au-dessus de 900 millions : 5.963.570 F.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-826 du 9 octobre 1987 - art. 2 (V) JORF 10 octobre 1987
+	  - Décret n°92-1053 du 30 septembre 1992 - art. 2 (V) JORF 1er octobre 1992
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-1030 du 13 novembre 1997 - art. 1 (V)
 
 
 ###### Article 365 C
 
-La taxe est assise, liquidée et recouvrée, pour le compte du fonds de soutien à l'expression radiophonique, par la direction
-générale des impôts selon les mêmes règles, garanties et sanctions que celles qui sont prévues pour la taxe sur la valeur
-ajoutée.
+La taxe est assise, liquidée et recouvrée, pour le compte du fonds par la direction générale des impôts selon les mêmes
+règles, garanties et sanctions que celles qui sont prévues pour la taxe sur la valeur ajoutée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-826 du 9 octobre 1987 - art. 4 (V) JORF 10 octobre 1987
+	  - Décret n°92-1053 du 30 septembre 1992 - art. 4 (V) JORF 1er octobre 1992
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-1030 du 13 novembre 1997 - art. 1 (V)
 
 
 ###### Article 365 D
@@ -19066,40 +19256,6 @@ est chargé du versement des aides à leurs bénéficiaires.
 ## Troisième partie : Dispositions communes aux première et deuxième parties
 
 ### Chapitre premier : Obligations des contribuables
-
-#### Section I bis : Façonniers.
-
-###### Article 370 B
-
-Le registre prévu à l'article 1649 ter C du code général des impôts est conservé dans chaque établissement ou lieu de
-stockage. Il indique pour chacun des donneurs d'ordres les entrées, les sorties ainsi que les stocks de produits détenus.
-
-Tous autres registres ou documents présentant les mêmes indications tiennent lieu dudit registre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 ter C
-
-	**Anciens textes**:
-
-	  - CGIAN2 368 D
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - PEREMPTION: Loi n°92-677 du 17 juillet 1992 - art. 28 () JORF 19 juillet 1993, article sans objet
-
-	**Créé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-	  - Décret n°93-1127 1993-09-24
-
 
 #### Section II : Forains
 
@@ -21052,43 +21208,34 @@ de l'article R 950-21 du code du travail.
 
 ###### Article 383
 
-L'ensemble des droits exigibles au titre de la taxe sur les salaires en application des dispositions de l'article 231-1 et 2
-bis du code général des impôts et des articles 141 à 143 de la présente annexe est versé globalement au Trésor dans les
-conditions et délais et sous les sanctions prévus aux articles 1679, 1679 bis, 1727, 1728, 1729, 1731 et 1736 du code général
-des impôts et 50, 51, 369 et 374-1 de l'annexe III à ce code.
+L'ensemble des droits exigibles au titre de la taxe sur les salaires en application des dispositions des 1 et 2 bis de
+l'article 231 du code général des impôts et des articles 141 à 143 de la présente annexe est versé globalement au Trésor dans
+les conditions et délais et sous les sanctions prévus aux articles 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731 et 1736 du
+code général des impôts et 50, 51, 369 et au 1 de l'article 374 de l'annexe III à ce code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1679
-	  - CGI 1679 bis
-	  - CGI 1727
-	  - CGI 1728
-	  - CGI 1729
-	  - CGI 1731
-	  - CGI 1736
-	  - CGI 231 1, 2 bis
-	  - CGIAN2 141
-	  - CGIAN2 142
-	  - CGIAN2 143
-	  - CGIAN3 369
-	  - CGIAN3 374 1
-	  - CGIAN3 50
-	  - CGIAN3 51
-
-	**Modifié par**:
-
-	  - Loi n°86-1317 1986-12-30 art. 81 II Finances pour 1987 JORF 31 décembre 1987
-	  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+	  - CGI 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1736, 231
+	  - CGIAN2 141 à 143
+	  - CGIAN3 50, 51, 369, 374
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-1127 1993-09-24
+
+	**Modifié par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 #### VI : Participation des employeurs au développement de la formation professionnelle continue
@@ -21116,6 +21263,33 @@ annexe.
 	**Liens**:
 
 	  - HISTO: Edition du 15 juillet 1985
+
+
+###### Article 383 bis D
+
+Les fonds recueillis par les organismes collecteurs en application de l'article 235 ter GC du code général des impôts qui ne
+sont pas employés conformément à l'article R. 964-6 du code du travail ou affectés au financement des dépenses énumérées à
+l'article 1er du décret n° 85-253 du 20 février 1985 ainsi que les fonds en excédent non versés dans les conditions définies
+à l'article 2 du même décret, font l'objet d'un versement d'égal montant au Trésor public. La procédure applicable est celle
+de l'article R. 950-21 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter GC
+	  - Décret n°85-253 du 20 février 1985 - art. 1 (M)
+	  - Décret n°85-253 du 20 février 1985 - art. 2 (M)
+	  - Code du travail - art. R950-21 (M)
+	  - Code du travail - art. R964-6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 92 () JORF 30 janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
 
 
 ##### 1° : Fonds d'assurance-formation.
@@ -21183,25 +21357,43 @@ délai minimum de cinq ans après la clôture de l'exercice pour être présent�
 	  - Code du travail - art. R964-9 (M)
 
 
-###### Article 383 bis D
+#### VII : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.
 
-Les dispositions de l'article 382 A sont applicables aux fonds recueillis par les organismes collecteurs en application de
-l'article 235 ter GC du code général des impôts.
+###### Article 383 bis E
+
+I. Le versement de la taxe prévue à l'article 150 V bis du code général des impôts est opéré :
+
+a) A la recette des impôts compétente pour la perception des taxes sur le chiffre d'affaires, si la taxe est due par un
+intermédiaire ou un acheteur agissant dans le cadre de son activité professionnelle ;
+
+b) A la recette des impôts dont relève le domicile de l'acheteur, et dans les trente jours, en cas d'achat direct par un
+particulier ;
+
+c) A la recette des impôts dont relève le domicile du vendeur en cas de vente dans un autre Etat membre de la Communauté
+économique européenne ;
+
+d) A la recette des douanes s'il s'agit d'une exportation.
+
+II. Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires ou comme en
+matière de droits de douane, suivant le comptable compétent.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 235 ter GC
-	  - CGIAN2 382 A
+	  - CGI 150 V bis
+
+	**Anciens textes**:
+
+	  - CGIAN2 383 quater
 
 	**Créé par**:
 
-	  - Décret n°85-253 du 20 février 1985 - art. 4 (Ab) JORF 21 février 1985
+	  - Décret n°93-931 du 19 juillet 1993 - art. 1 () JORF 22 juillet 1993
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°93-1127 1993-09-24
 
 
 ### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -21236,45 +21428,6 @@ En cas d'excédent de versements, celui-ci est imputé sur les sommes ultérieur
 	**Liens**:
 
 	  - HISTO: Edition du 24 juin 1991
-
-
-#### II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.
-
-###### Article 383 quater
-
-I. - Le versement de la taxe prévue à l'article 302 bis A du code général des impôts est opéré :
-
-a) A la recette des impôts compétente pour la perception des taxes sur le chiffre d'affaires, si la taxe est due par un
-intermédiaire ou un acheteur agissant dans le cadre de son activité professionnelle ;
-
-b) A la recette des impôts dont relève le domicile de l'acheteur, et dans les trente jours, en cas d'achat direct par un
-particulier ;
-
-c) A la recette des impôts dont relève le domicile du vendeur en cas de vente dans un autre Etat membre de la Communauté
-économique européenne ;
-
-d) A la recette des douanes s'il s'agit d'une exportation.
-
-II  Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires ou comme en
-matière de droits de douane, suivant le comptable compétent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 bis A
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 383 bis E
-
-	**Modifié par**:
-
-	  - Décret n°93-931 du 19 juillet 1993 - art. 1 () JORF 22 juillet 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
 
 
 ### Section III : Enregistrement, publicité foncière, timbre
