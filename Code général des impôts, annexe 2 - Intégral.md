@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1979-07-01
+Version Consolidée au 1979-07-01 00:00:01 +0200
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4652,17 +4652,6 @@ Transféré sous l'article 260 G de la même annexe.
 	**Nouveaux textes**:
 
 	  - CGIAN2 260 G
-
-
-###### Article 183
-
-Transféré sous l'article 260 H de la même annexe.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 260 H
 
 
 ###### Article 184
