@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-12-30
+Version Consolidée au 1981-01-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4979,6 +4979,196 @@ artisanales soit par les personnes physiques ou morales exerçant une activité 
 	  - Arrêté 1979-02-14
 	  - CGI 238 bis J II AL. 1
 	  - CGIAN2 171 E
+
+
+##### VI : Déduction fiscale pour investissement
+
+###### Article 171 AA
+
+Pour bénéficier de la déduction à raison de l'acquisition d'un bien pris en location à l'état neuf, l'entreprise locataire
+fournit à l'appui de l'état prévu à l'article 171 X une attestation délivrée par le vendeur. Cette attestation indique la
+nature du bien, certifie que ce dernier a été donné en location à l'entreprise à l'état neuf et sans discontinuité et précise
+que l'opération entraîne l'obligation pour lui de procéder à la réintégration de la déduction dans les conditions prévues à
+l'article 244 quindecies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quindecies
+	  - CGIAN2 171 X
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Créé par**:
+
+	  - Décret n°81-17 1981-01-11 art. 11 JORF 11 janvier 1981
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 171 U
+
+Pour l'application de l'article 244 undecies du code général des impôts, sont regardées comme des investissements de
+l'entreprise locataire les acquisitions de biens réalisées à son profit à compter du 1er janvier 1981 [*date point de
+départ*] par les sociétés de crédit-bail régies par la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le
+crédit-bail.
+
+Il en va de même des acquisitions de biens réalisées au profit de l'entreprise locataire du 1er octobre au 31 décembre 1980
+[*période*] par ces mêmes sociétés lorsqu'elles renoncent, selon les modalités prévues à l'article 171 Z, à les prendre en
+compte pour le calcul de la déduction instituée par l'article 1er de la loi n° 79-525 du 3 juillet 1979 relative au soutien
+de l'investissement productif industriel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies
+	  - CGIAN2 171 Z
+	  - Loi n°66-455 1966-07-02
+	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Décret n°81-17 du 10 janvier 1981 - art. 5 (V) JORF 11 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 171 W
+
+En cas de cession d'une immobilisation dont l'acquisition par l'entreprise qui en était locataire a donné droit à la
+déduction en vertu du troisième alinéa de l'article 244 quindecies du code général des impôts, le délai de régularisation de
+cinq ans prévu au deuxième alinéa du même article court à compter de la date de la création ou de l'acquisition du bien par
+le bailleur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quindecies
+
+	**Créé par**:
+
+	  - Décret n°81-17 du 10 janvier 1981 - art. 7 (V) JORF 11 janvier 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 171 X
+
+Les entreprises qui pratiquent la déduction joignent à la déclaration de leurs résultats un état dont le modèle est fixé par
+l'administration. Cet état fait apparaître, pour chaque bien dont la valeur entre dans la base de calcul de la déduction, la
+date d'acquisition ou de création, la nature du bien, son prix de revient et le montant de déduction à laquelle son
+acquisition ou sa création ouvre droit au titre de l'exercice considéré ainsi que, s'il s'agit d'un bien acquis ou loué, la
+désignation du fournisseur ou du bailleur et le numéro et la date de la facture.
+
+La déduction pratiquée par une entreprise à raison des investissements qu'elle a réalisés du 1er octobre au 31 décembre 1980
+emporte renonciation à l'aide prévue par l'article 1er de la loi n° 79-525 du 3 juillet 1979 relative au soutien de
+l'investissement productif industriel.
+
+Lorsqu'une entreprise créée en 1978 ou en 1979 prend en compte pour le calcul de l'aide prévue par la loi précitée des
+investissements susceptibles de donner lieu à la déduction instituée par l'article 244 undecies du code général des impôts,
+elle est réputée renoncer au bénéfice de cette déduction pour les investissements en cause.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies
+	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Décret n°81-17 du 10 janvier 1981 - art. 8 (V) JORF 11 janvier 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 171 Y
+
+Pour bénéficier, conformément à l'article 171 T, de la déduction à raison de l'acquisition de biens transmis dans le cadre
+d'une cession totale ou partielle d'entreprise, l'acquéreur doit fournir, à l'appui de l'état prévu à l'article 171 X, une
+attestation délivrée par le cédant. Cette attestation indique la nature des biens transmis, leur date de création ou
+d'acquisition, le prix de cession et le montant de la réintégration effectuée par le cédant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 171 T, 171 X
+
+	**Créé par**:
+
+	  - Décret n°81-17 du 10 janvier 1981 - art. 9 (V) JORF 11 janvier 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 171 Z
+
+Pour bénéficier de la déduction à raison de leurs investissements financés par voie de crédit-bail, les entreprises
+locataires fournissent à l'appui de l'état prévu à l'article 171 X une attestation délivrée par la société de crédit-bail.
+Cette attestation indique la nature du bien loué, sa date d'acquisition et la valeur d'origine pour laquelle il est inscrit
+au bilan de la société bailleresse.
+
+Pour les investissements réalisés du 1er octobre au 31 décembre 1980, la délivrance de l'attestation prévue au premier alinéa
+emporte renonciation des sociétés de crédit-bail à prendre en compte les biens correspondants pour le calcul de l'excédent
+net d'investissement donnant droit à la déduction instituée par l'article 1er de la loi n° 79-525 du 3 juillet 1979 relative
+au soutien de l'investissement productif industriel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 171 X
+	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Décret n°81-17 du 10 janvier 1981 - art. 10 (V) JORF 11 janvier 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -13108,6 +13298,27 @@ code général des impôts et, dans le second cas, de celles qui sont prévues a
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+#### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*.
+
+###### Article 171 V
+
+En cas de résiliation d'un contrat de crédit-bail, sans rachat du bien loué, avant l'expiration d'un délai de cinq ans ou de
+restitution du bien loué dans le même délai, à l'expiration de la période de location, l'entreprise locataire doit rapporter
+au résultat imposable de l'exercice au cours duquel a lieu l'opération une somme égale à 10 % [*pourcentage*] du prix de
+revient du bien loué, diminué du montant des amortissements que l'entreprise aurait pu pratiquer si elle avait été
+propriétaire de ce bien.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°81-17 du 10 janvier 1981 - art. 6 (V) JORF 11 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES
