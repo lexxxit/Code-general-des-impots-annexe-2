@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-07-23
+Version Consolidée au 1982-08-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11377,6 +11377,67 @@ Les biens constituant des immobilisations n'ouvrent pas droit à déduction de l
 	  - HISTO: EDITION 1979-07-01
 
 
+#### Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.
+
+###### Article 363 Z
+
+Sont exonérées de la taxe [*hors champ d'application*] prévue par l'article 363 Y :
+
+a. Les céréales exportées ;
+
+b. Les céréales de semence certifiées échangées contre des céréales de qualité courante, dans la limite d'un plafond fixé par
+décret.
+
+La taxe est remboursée sur les céréales mises en oeuvre pour la fabrication de produits bénéficiant de la restitution à la
+production, prévue à l'article 11 du règlement n° 2727-75 du 29 octobre 1975 modifié du conseil de la Communauté économique
+européenne.
+
+Les produits dérivés des céréales, importés ou exportés, donnent lieu respectivement à la perception ou au remboursement de
+la taxe compte tenu des quantités de céréales correspondantes prévues par les règlements de la Communauté économique
+européenne.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CEE Règlement N° 2727-75 1975-10-29 ART. 11 CONSEIL
+	  - CGIAN2 363 Y
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°82-732 du 23 août 1982 - art. 2 (V) JORF 25 AOUT 1982
+
+
+#### Chapitre XII : Taxe parafiscale pour le financement des actions du secteur céréalier.
+
+###### Article 363 AF
+
+Le fait générateur [*définition*] de la taxe est la livraison de céréales par les producteurs aux collecteurs agréés et aux
+producteurs grainiers.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°82-733 du 23 août 1982 - art. 2 (P) JORF 25 AOUT 1982
+
+
 ## Troisième partie : Dispositions communes aux première et deuxième parties
 
 ### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales
@@ -17460,6 +17521,212 @@ ministre de l'agriculture (1) dans la limite maximum de :
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 363 AC
+
+La taxe est perçue par la direction générale des impôts. Elle est établie et recouvrée selon les règles et sous les garanties
+et sûretés prévues en matière de contributions indirectes, dans les conditions et délais fixés par l'article 25 du décret n°
+59-909 du 31 juillet 1959 relatif aux prix et modalités de paiement, de stockage et de rétrocession des céréales.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Cite**:
+
+	  - Décret n°59-909 du 31 juillet 1959 - art. 25 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°82-732 du 23 août 1982 - art. 5 (V) JORF 25 AOUT 1982
+
+
+###### Article 363 AG
+
+Pour le blé dur, le seigle, le sorgho, l'avoine et le riz, les taux maxima de la taxe sont :
+
+a. 0,8 % du prix d'intervention du blé dur, du seigle et du riz ;
+
+b. 0,8 % du prix de seuil du sorgho et de l'avoine.
+
+**Nota:**
+
+[La table des matières est modifiée par le décret de codification 85-1007 1985-09-24].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Décret n°82-733 du 23 août 1982 - art. 3 (P) JORF 25 août 1982
+
+
+###### Article 363 AH
+
+Pour le blé tendre, l'orge et le maïs, la taxe comporte un taux de base dont le maximum est fixé à 1 % du prix
+d'intervention.
+
+Des compléments de taxe peuvent être appliqués aux livraisons effectuées par un même livreur au titre d'une même campagne et
+qui globalement excèdent 100 tonnes. Le taux de ces compléments, qui ne peut dépasser 0,67 % du prix d'intervention, peut
+lui-même faire l'objet, dans cette limite, d'une modulation en deux ou plusieurs tranches, selon les quantités globales
+livrées par chaque livreur au cours de la campagne.
+
+Dans le cas où les prix d'intervention des trois céréales ne sont pas identiques, le taux  maximum des compléments de taxe ne
+peut excéder 0,67 % du prix d'intervention le moins élevé.
+
+La détermination des compléments de taxe se fait en tenant compte de toutes les livraisons taxées effectuées au titre de la
+campagne par un même livreur, quels que soient les lieux d'exploitation et de livraison, et déclarées par les collecteurs
+agréés conformément au décret du 23 décembre 1936 relatif aux obligations incombant aux coopératives de blé et aux négociants
+inscrits modifié et au décret du 21 novembre 1951 relatif aux obligations incombant aux organismes stockeurs de céréales.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1936-12-23
+	  - Décret n°1951-11-21
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°82-733 du 23 août 1982 - art. 4 (P) JORF 25 AOUT 1982
+
+
+###### Article 363 AI
+
+La taxe, à l'exception des compléments prévus à l'article 363 AH, est perçue par prélèvement sur le prix payé aux livreurs
+par les collecteurs agréés et les producteurs grainiers et reversée à la direction générale des impôts, dans les conditions
+fixées par l'article 25 du décret n° 59-909 du 31 juillet 1959 relatif aux prix et modalités de paiement, de stockage et de
+rétrocession des céréales.
+
+Les compléments exigibles au titre des deuxième, troisième et quatrième alinéas de l'article 363 AH sont liquidés, constatés
+et recouvrés directement auprès des livreurs, à l'issue de la campagne, par la direction générale des impôts comme en matière
+de contributions indirectes, sous les garanties et sûretés propres à cette administration.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 AH AL. 2, AL. 3, AL. 4
+	  - Décret n°59-909 du 31 juillet 1959 - art. 25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°82-733 du 23 août 1982 - art. 5 (P) JORF 25 AOUT 1982
+
+
+###### Article 363 AJ
+
+Pour l'application des dispositions prévues aux articles 363 AH et 363 AI, sont considérés comme livreurs [*définition*], les
+propriétaires exploitants, fermiers, métayers récoltant du blé, de l'orge ou du maïs, ainsi que les personnes ou sociétés qui
+reçoivent du blé, de l'orge ou du maïs en paiement de fermages ou services.
+
+Dans le cas de métayage ou de bail à portion de fruits, le bailleur, d'une part, et le métayer ou colon partiaire, d'autre
+part, sont autorisés à livrer séparément la part de récolte qui leur revient.
+
+En cas d'indivision successorale en ligne directe, chacun des cohéritiers est autorisé à livrer sous son nom la partie de la
+récolte qui lui revient, sous réserve qu'il soit présent sur l'exploitation et y participe personnellement.
+
+En ce qui concerne les groupements agricoles d'exploitation en commun, la livraison effectuée par ces groupements est
+répartie entre les associés en fonction de leur part respective dans le capital social.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 AH, 363 AI
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°82-733 du 23 août 1982 - art. 6 (P) JORF 25 août 1982
+
+
+###### Article 363 AK
+
+Un arrêté conjoint du ministre de l'économie et des finances, du ministre chargé du budget, et du ministre de l'agriculture
+pris après avis du conseil central de l'office national interprofessionnel des céréales [*ONIC*] fixe les modalités
+d'application des articles 363 AE à 363 AJ, et notamment celles de la modulation prévue au deuxième alinéa de l'article 363
+AH.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 AE, 363 AF, 363 AG, 363 AH, 363 AI, 363 AJ
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°82-733 du 23 août 1982 - art. 7 (P) JORF 25 août 1982
+
+
+###### Article 363 AL
+
+Un arrêté, pris dans les formes prévues à l'article 363 AK, fixe pour chaque campagne les montants de la taxe et de ses
+compléments en francs par tonne de céréales, dans les limites obtenues en appliquant les taux maxima définis aux articles 363
+AG et 363 AH aux prix directeurs en vigueur au début des campagnes de commercialisation concernées, ces prix étant convertis
+en francs français sur la base du taux de conversion de l'Ecu dans le secteur agricole à la date du 1er juillet de l'année
+civile en cours.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 AG
+	  - CGIAN2 363 AH
+	  - CGIAN2 363 AK
+
+	**Créé par**:
+
+	  - Décret n°82-733 1982-08-23 ART. 8 JORF 25 AOUT 1982
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+
 ###### Article 363 B
 
 I  Cette taxe est assise et recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe
@@ -18118,6 +18385,34 @@ l'avitaillement des navires et aéronefs.
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 363 Y
+
+Est autorisée, au cours de la campagne de commercialisation 1982-1983 et pendant les quatre campagnes suivantes [*durée,
+période*], la perception d'une taxe parafiscale destinée à la couverture des dépenses nationales de stockage et
+d'intervention sur le marché des céréales.
+
+Cette taxe [*assiette*] est perçue auprès des collecteurs agréés et des producteurs grainiers, sur toute les quantités de blé
+tendre, de blé dur, d'orge et de maïs rétrocédées ou mises en oeuvre. Elle est également perçue auprès des importateurs sur
+les quantités de ces céréales importées.
+
+Cette taxe est supportée en totalité par les utilisateurs et son produit est attribué à l'office national interprofessionnel
+des céréales [*ONIC*].
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°82-732 du 23 août 1982 - art. 1 (V) JORF 25 AOUT 1982
+
+
 ###### Article 364
 
 Les taxes parafiscales sont établies par décret en Conseil d'Etat pris sur le rapport du ministre chargé du budget et du ou
@@ -18506,6 +18801,38 @@ Son taux est fixé à     0,6 % du montant hors taxe des ventes en 1982 ;
 	**Codifié par**:
 
 	  - Décret n°82-881 1982-10-15
+
+
+###### Article 363 AE
+
+Est autorisée, au cours de la campagne de commercialisation 1982-1983 et pendant les quatre campagnes suivantes [*durée,
+période*], la perception d'une taxe parafiscale à la charge des producteurs assise sur les quantités de céréales et de riz
+livrées aux collecteurs agréés et aux producteurs grainiers.
+
+Toutefois, sont exonérées de la taxe les céréales de qualité courante échangées contre des céréales de semence certifiées,
+dans la limite d'un plafond fixé par décret.
+
+Après déduction des frais de recouvrement, le produit de la taxe est réparti entre l'office national interprofessionnel des
+céréales [*ONIC*], le fonds de solidarité des céréaliculteurs et des éleveurs et l'institut technique des céréales et des
+fourrages.
+
+Un arrêté, pris dans les formes prévues à l'article 363 AK, fixe la répartition du produit de la taxe entre les organismes
+bénéficiaires ; la partie affectée à l'office national interprofessionnel des céréales ne peut être inférieure à 48 %
+[*pourcentage minimal*], celle affectée à l'institut technique des céréales et des fourrages ne peut être inférieure à 12 %.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 AK
+
+	**Créé par**:
+
+	  - Décret n°82-733 1982-08-23 ART. 1 JORF 25 AOUT 1982
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 363 D
