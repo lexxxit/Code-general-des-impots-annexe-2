@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-12-30
+Version Consolidée au 1982-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1441,6 +1441,42 @@ durant laquelle l'indemnité a été perçue [*point de départ*].
 ##### Section II : Revenu global
 
 ##### 0I bis : Détaxation du revenu investi en actions.
+
+###### Article 75-0 E
+
+Les opérations prévues aux articles 163 sexies à 163 terdecies du code général des impôts et à raison desquelles les
+personnes physiques qui ont leur domicile fiscal en France peuvent bénéficier de la détaxation du revenu investi sont
+classées en trois groupes :
+
+a. Achats d'actions cotées ou assimilées de sociétés françaises, de certificats pétroliers cotés, de droits ou bons de
+souscription ou d'attribution attachés à ces titres, d'actions de sociétés d'investissement à capital variable [*SICAV*] ;
+
+b. Achats de parts de fonds communs de placement ;
+
+c. Souscriptions aux opérations de constitution ou d'augmentation de capital en numéraire réalisées par des sociétés par
+actions ou des sociétés à responsabilité limitée françaises, sous réserve des dispositions de l'article 163 sexdecies du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 sexies à 163 terdecies, 163 sexdecies
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 22 avril 1998
+
+	**Modifié par**:
+
+	  - Loi n°82-1152 du 30 décembre 1982 - art. 20 (V) JORF 31 décembre 1982
+
 
 ###### Article 75-0 F
 
@@ -13083,38 +13119,6 @@ des fractions de l'impôt, le solde restant dû, augmenté de l'intérêt couru,
 
 
 ##### REVENU GLOBAL.
-
-###### Article 75-0 E
-
-Les opérations prévues aux articles 163 sexies à 163 terdecies du code général des impôts et à raison desquelles les
-personnes physiques qui ont leur domicile fiscal en France peuvent bénéficier de la détaxation du revenu investi sont
-classées en trois groupes :
-
-a. Achats d'actions cotées ou assimilées de sociétés françaises, de certificats pétroliers cotés, de droits ou bons de
-souscription ou d'attribution attachés à ces titres, d'actions de sociétés d'investissement à capital variable [*SICAV*];
-
-b. Achats de parts de fonds communs de placement;
-
-c. Souscriptions aux opérations de constitution ou d'augmentation de capital en numéraire réalisées par des sociétés par
-actions ou des sociétés à responsabilité limitée françaises.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 decies
-	  - CGI 163 duodecies
-	  - CGI 163 nonies
-	  - CGI 163 octies
-	  - CGI 163 septies
-	  - CGI 163 sexies
-	  - CGI 163 terdecies
-	  - CGI 163 undecies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 75-0 H
 
