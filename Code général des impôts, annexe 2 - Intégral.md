@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2001-04-21
+Version Consolidée au 2002-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19462,11 +19462,11 @@ l'article R. 112-2 du code de l'urbanisme.
 ###### Article 317 sexies
 
 I. Les valeurs modifiées conformément aux dispositions du I de l'article 1585 D du code général des impôts sont arrondies à
-la dizaine de francs inférieure. Elles sont applicables aux constructions pour lesquelles le permis de construire a été
-notifié ou tacitement délivré, ou, s'il s'agit de constructions soumises à la déclaration prévue à l'article L. 422-2 du code
-de l'urbanisme, pour lesquelles le délai d'opposition dont, en vertu de ce même article, dispose l'autorité compétente en
-matière de permis de construire, est venu à expiration, postérieurement au 1er juillet de chaque année et antérieurement au
-1er juillet de l'année suivante.
+l'euro le plus proche, la fraction égale à 0,5 étant comptée pour 1. Elles sont applicables aux constructions pour lesquelles
+le permis de construire a été notifié ou tacitement délivré, ou, s'il s'agit de constructions soumises à la déclaration
+prévue à l'article L. 422-2 du code de l'urbanisme, pour lesquelles le délai d'opposition dont, en vertu de ce même article,
+dispose l'autorité compétente en matière de permis de construire, est venu à expiration, postérieurement au 1er juillet de
+chaque année et antérieurement au 1er juillet de l'année suivante.
 
 II. A défaut de délibération du conseil municipal fixant le taux de la catégorie 1 visée au 1° du troisième alinéa du I de
 l'article 1585 D, le taux qui est applicable à cette catégorie est celui qui a été fixé antérieurement à la publication du
@@ -19512,11 +19512,6 @@ A l'expiration de ce délai, faute pour le constructeur de produire l'un ou l'au
 application de la valeur forfaitaire et du taux prévus pour la 7e catégorie visée au 7° du troisième alinéa du I de l'article
 1585 D.
 
-**Nota:**
-
-L'article R. 331-68 du code de la construction et de l'habitation a été abrogé par l'article 3 du décret n° 2001-911 du 4
-octobre 2001.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -19527,17 +19522,13 @@ octobre 2001.
 	  - Code de l'urbanisme - art. R421-21 (M)
 	  - Code de la construction et de l'habitation. - art. R331-68 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
-
-	**Modifié par**:
-
-	  - Loi n°91-716 du 26 juillet 1991 - art. 40 (V) JORF 27 juillet 1991
+	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
 
 
 ###### Article 317 ter
@@ -21161,24 +21152,24 @@ la direction générale des douanes et droits indirects.
 Le montant maximum de la taxe à laquelle sont soumis les produits visés aux 1° et 2° du premier alinéa de l'article 359 est
 fixé à :
 
-1° 0,80 F par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
+1° 0,12 euros par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
 
-2° 1,10 F par hectolitre :
+2° 0,17 euros par hectolitre :
 
 a. de jus de pommes à cidre et de poires à poiré et de moûts de pommes et de poires ;
 
 b. de cidre, aromatisé ou non, à due proportion du cidre contenu dans le produit fini ;
 
-c. de fermenté de pommes, aromatisé ou non, à due proportion du fermenté de pommes contenu dans le produit fini ;
+c. de fermenté de pommes, à due proportion du fermenté de pommes contenu dans le produit fini ;
 
 d. de poiré ;
 
 e. de fermenté de poires.
 
-3° 20 F par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré, de pommeaux et d'apéritifs à base de
-cidre et de poiré.
+3° 3,05 euros par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré, de pommeaux et d'apéritifs à base
+de cidre et de poiré.
 
-Un arrêté du ministre de l'économie, du ministre du budget et du ministre de l'agriculture et de la pêche fixe, dans la
+Un arrêté du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre chargé du budget fixe, dans la
 limite du montant maximum, le montant de la taxe applicable à chaque catégorie de produits.
 
 **Liens relatifs à cet article**
@@ -21189,15 +21180,7 @@ limite du montant maximum, le montant de la taxe applicable à chaque catégorie
 
 	**Modifié par**:
 
-	  - Décret n°97-808 du 29 août 1997 - art. 5 (V) JORF 30 août 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
+	  - Règlement CE 1103/97 1997-06-17 art. 5, Règlement CE n°974/98 1998-05-03 art. 14, Règlement CE 2866/98 1998-12-31 art. 1 en vigueur le 1er janvier 2002
 
 
 #### Chapitre VII : Taxe parafiscale pour le financement de certains organismes interprofessionnels de vins.
@@ -24164,8 +24147,7 @@ du code général des impôts.
 2. Cette déclaration est adressée à la recette des impôts dont dépend le lieu d'établissement de l'impôt sur les sociétés,
 dans le même délai que la déclaration des résultats.
 
-La déclaration, souscrite sur des imprimés fournis par l'administration, fait apparaître distinctement le montant en monnaie
-française :
+La déclaration, souscrite sur des imprimés fournis par l'administration, fait apparaître distinctement le montant en euros :
 
 - des bénéfices et plus-values à retenir pour l'assiette de l'impôt sur les sociétés ;
 
@@ -24180,6 +24162,14 @@ française :
 	**Cite**:
 
 	  - CGI 115 quinquies
+
+	**Modifié par**:
+
+	  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
 
 
 ###### Article 380
@@ -24199,7 +24189,7 @@ Elle mentionne, pour chaque distribution :
 
 - sa date ;
 
-- son montant en monnaie française d'après le cours des changes du jour de la mise en paiement.
+- son montant en euros d'après le cours des changes du jour de la mise en paiement.
 
 III. La société est tenue de produire, à l'appui de sa demande de révision, des copies, accompagnées, le cas échéant, de
 traductions en langue française, des décisions ou délibérations relatives aux distributions ainsi mentionnées, ainsi que des
@@ -24212,6 +24202,14 @@ l'exercice.
 
 	  - CGI 109
 	  - CGIAN2 379
+
+	**Modifié par**:
+
+	  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
 
 
 ###### Article 381
