@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1991-05-17
+Version Consolidée au 1991-06-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -541,6 +541,52 @@ sur les titres-restaurant si cette mention n'a pas été apposée par l'employeu
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 81 (V)
+
+
+##### 2° Rémunération de l'accueil à domicile
+
+###### Article 39 bis
+
+Pour l'application de l'article 80 octies du code général des impôts, la rémunération pour services rendus prévue à l'article
+6 de la loi n° 89-475 du 10 juillet 1989 doit être fixée dans les conditions suivantes :
+
+a) La rémunération journalière des services rendus est supérieure ou égale à deux fois le minimum garanti mentionné à
+l'article L. 141-8 du code du travail, et inférieure ou égale à un plafond fixé par le président du conseil général du
+département où a lieu l'hébergement ;
+
+b) L'indemnité représentative des frais d'entretien courant de la personne accueillie est supérieure ou égale à deux fois le
+minimum garanti, et inférieure ou égale à cinq fois ce même minimum.
+
+La majoration pour sujétions particulières dont peut faire l'objet la rémunération journalière des services rendus doit être
+justifiée par la disponibilité supplémentaire dont doit faire preuve la personne agréée pour assurer la continuité de
+l'accueil, tenir compte de l'état de la personne accueillie ou aider celle-ci à accomplir certains actes de la vie courante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 80 octies
+	  - Loi n°89-475 1989-07-10 art. 6
+	  - Code du travail - art. L141-8 (AbD)
+
+	**Créé par**:
+
+	  - Décret n°90-503 du 22 juin 1990 - art. 1 (Ab) JORF 24 juin 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°2001-435 2001-05-21
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 3 (V) JORF 23 décembre 2000
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### II bis : Bénéfices des professions non commerciales
@@ -1671,6 +1717,49 @@ l'impôt, le solde restant dû, augmenté de l'intérêt couru, est exigible imm
 	  - Décret n°86-1086 1986-10-07
 
 
+##### V bis : Dispositions communes
+
+###### Article 74 T
+
+Pour l'application des dispositions du I de l'article 15 bis, des premier et deuxième alinéas du III de l'article 35 bis, du
+premier alinéa de l'article 92 L du code général des impôts, les logements doivent répondre aux normes minimales suivantes :
+
+a) Avoir une surface habitable d'au moins 9 mètres carrés pour une personne seule et de 7 mètres carrés par personne
+supplémentaire ;
+
+b) Comporter :
+
+1  Un poste d'eau potable ;
+
+2  Des moyens d'évacuation des eaux usées ;
+
+3  Un w.-c. particulier dans les maisons individuelles ou un w.-c. commun situé à l'étage ou au demi-étage dans les immeubles
+collectifs ;
+
+4  Un w-c collectif situé à l'étage ou au demi-étage pour une chambre isolée ;
+
+5  Un des moyens de chauffage définis à l'article 12 du décret n° 68-976 du 9 novembre 1968.
+
+Ces conditions sont présumées remplies, sauf preuve contraire, pour les logements construits après le 1er septembre 1948 et
+qui ont obtenu un certificat de conformité ainsi que pour les logements appartenant à un organisme d'habitations à loyers
+modéré.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 L, 15 bis, 35 bis
+	  - Décret n°68-976 du 9 novembre 1968 - art. 12 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°90-782 du 3 septembre 1990 - art. 1 (V) JORF 6 septembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+
 ##### Section II : Revenu global
 
 ##### 0I bis : Détaxation du revenu investi en actions.
@@ -2482,9 +2571,9 @@ l'expiration du délai de reprise fixé par l'article L. 169 du livre des procé
 ###### Article 81 bis
 
 I. L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour
-leur compte en application des articles 7 à 21 de l'ordonnance n° 86-1134 du 21 octobre 1986, relative à l'intéressement et à
-la participation des salariés aux résultats de l'entreprise et à l'actionnariat des salariés donnent lieu à la délivrance
-d'un certificat distinct, conformément aux dispositions de l'article 77.
+leur compte en application des articles 7 à 21 de l'ordonnance n° 86-1134 modifiée du 21 octobre 1986, relative à
+l'intéressement et à la participation des salariés aux résultats de l'entreprise et à l'actionnariat des salariés donnent
+lieu à la délivrance d'un certificat distinct, conformément aux dispositions de l'article 77.
 
 II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA  du code général des impôts, le
 certificat est établi pour la totalité de l'avoir fiscal ou du crédit d'impôt au  nom de l'organisme chargé de la
@@ -2501,6 +2590,11 @@ III. La demande de restitution, accompagnée du certificat, est adressée au ser
 La restitution est opérée au profit de cet organisme, à charge pour lui d'employer les sommes correspondantes de la même
 façon que les revenus auxquels elles se rattachent.
 
+**Nota:**
+
+NOTA : Loi 94-640 1994-07-25 art. 33 IV : les articles 7 à 21 de l'ordonnance 86-1134 du 21 octobre 1986 sont codifiés sous
+les articles L442-1 à L442-16 du code du travail.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -2509,15 +2603,9 @@ façon que les revenus auxquels elles se rattachent.
 	  - CGIAN2 77
 	  - Ordonnance 86-1134 1986-10-21 art. 7 à art. 21
 
-	**Modifié par**:
-
-	  - Ordonnance 86-1134 1986-10-21 art. 7 à art. 21, art. 33 JORF 23 octobre 1986
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
-	  - Décret n°87-544 du 17 juillet 1987 - art. 30 (T) JORF 18 juillet 1987
-
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°91-883 1991-09-09
 
 
 ###### Article 82
@@ -3862,15 +3950,15 @@ de mise en paiement du solde.
 
 ###### Article 102 D
 
-I. Dans le cas où une augmentation de capital réalisée entre le 1er janvier 1977 et le 31 décembre 1987 a été précédée,
+I Dans le cas où une augmentation de capital réalisée entre le 1er janvier 1977 et le 31 décembre 1992 a été précédée,
 postérieurement au 15 novembre 1976, d'une réduction de capital non motivée par des pertes ou d'un prélèvement opéré sur le
 compte "Primes d'émission", les dividendes alloués aux actions nouvelles n'ouvrent droit au régime de déduction que si ces
 opérations entraînent en définitive un accroissement de fonds propres. En outre, ils ne peuvent être admis en déduction qu'en
 proportion du rapport existant entre cet accroissement des fonds propres et les apports correspondant à l'augmentation de
 capital.
 
-II. Lorsqu'une société qui s'est constituée ou a augmenté son capital entre le 1er janvier 1977 et le 31 décembre 1987
-procède, suivant les cas prévus à l'article 214-A-I-2 du code général des impôts, moins de sept ans ou moins de dix ans après
+II Lorsqu'une société qui s'est constituée ou a augmenté son capital entre le 1er janvier 1977 et le 31 décembre 1992
+procède, suivant les cas prévus à l'article 214-A-I-2 du code général des impôts, moins de sept, dix, huit ou six ans après
 la réalisation de ces opérations à une réduction de son capital non motivée par des pertes ou à un prélèvement sur le compte
 "Primes d'émission", il est fait application des règles prévues au I.
 
@@ -3888,11 +3976,16 @@ général des impôts.
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 2 I, VI JORF 9 juillet 1987
+	  - Loi - art. 87 () JORF 30 décembre 1990
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993
 
 
 ###### Article 102 E
@@ -5719,34 +5812,6 @@ par l'administration, dans chaque département, au siège de l'une des caisses l
 	  - Décret n°81-866 1981-09-15
 
 
-##### Section V : Sociétés de capital-risque.
-
-###### Article 140 ter
-
-Les sociétés de capital-risque mentionnées au 3° septies de l'article 208 du code général des impôts doivent distribuer 50 %
-au moins des produits et plus-values nets exonérés d'impôt sur les sociétés dès que le montant de leurs réserves, majoré des
-sommes reportées à nouveau, atteint la moitié de leur capital, diminué, le cas échéant, des incorporations de réserves,
-bénéfices ou provisions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 208 3° septies
-
-	**Créé par**:
-
-	  - Décret n°85-1102 du 9 octobre 1985 - art. 5 (Ab) JORF 17 octobre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°90-1168 1990-12-29 art. 95 Finances pour 1991 JORF 30 décembre 1990
-
-
 #### Chapitre II bis : Taxe d'apprentissage
 
 ##### I : Déclaration des employeurs
@@ -7067,7 +7132,9 @@ années suivantes ou l'insuffisance de contribution versée aux organismes parit
 individuel de formation en application de l'article 235 ter H bis du code général des impôts ;
 
 6° Eventuellement, le montant restant à reporter au titre des dépenses effectuées au cours de chacune des trois années
-précédentes;     7° Le cas échéant, la majoration prévue à l'article 235 ter G du code général des impôts;
+précédentes;
+
+7° Le cas échéant, la majoration prévue à l'article 235 ter G du code général des impôts;
 
 8° Le montant total du versement à effectuer à la caisse du comptable des impôts;
 
@@ -7087,7 +7154,7 @@ c. Par âge ;
 
 d. Par type d'action au sens de l'article L. 900-2 du code du travail ;
 
-12° Le nombre de jeunes travailleurs au sens de l'article L. 931-14 du code du travail qui ont bénéficié d'une formation au
+12° Le nombre de jeunes travailleurs au sens de l'article L. 931-21 du code du travail qui ont bénéficié d'une formation au
 cours de l'année.
 
 **Liens relatifs à cet article**
@@ -7099,7 +7166,7 @@ cours de l'année.
 	  - CGI 235 ter J
 	  - CGIAN2 163 decies
 	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L931-14 (T)
+	  - Code du travail - art. L931-21 (T)
 	  - Code du travail - art. L950-2 (M)
 	  - Code du travail - art. L950-6 (T)
 	  - Code du travail - art. R950-7 (M)
@@ -7107,11 +7174,11 @@ cours de l'année.
 
 	**Modifié par**:
 
-	  - Décret n°85-531 1985-04-03 art. 16 JORF 18 mai 1985, Code du travail art. R950-19
+	  - Loi n°90-613 du 12 juillet 1990 - art. 26 () JORF 14 juillet 1990
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°91-883 1991-09-09
 
 
 ###### Article 163 quaterdecies
@@ -7245,7 +7312,7 @@ suivant celle au titre de laquelle ce prélèvement est dû si leurs forfaits de
 
 ###### Article 163 septdecies
 
-Le prélèvement spécial de 25 % prévu par l'article 235 ter L du code général des impôts sur la fraction des bénéfices
+Le prélèvement spécial de 30 % prévu par l'article 235 ter L du code général des impôts sur la fraction des bénéfices
 industriels et commerciaux imposables à l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de
 la distribution ou de la représentation de films pornographiques ou d'incitation à la violence est liquidé par les
 entreprises qui réalisent ces bénéfices. Ces entreprises l'acquittent spontanément auprès de la recette des impôts dont elles
@@ -7264,11 +7331,11 @@ dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt su
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 8 Finances pour 1990 JORF 30 décembre 1989
+	  - Loi - art. 13 (V) JORF 30 décembre 1990
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°91-883 1991-09-09
 
 
 ###### Article 163 vicies
@@ -8570,6 +8637,84 @@ utilisation du bien ou lorsque la prestation de service est effectuée.
 	  - Décret n°89-301 1989-05-11 art. 5 JORF 13 mai 1989
 
 
+##### 3° : Prestations d'hébergement fournies dans les résidences de tourisme classées
+
+###### Article 176
+
+L'application des dispositions du a du 4° de l'article 261 D du code général des impôts à une résidence de tourisme classée
+est subordonnée à l'engagement de son exploitant soit de dépenser, pendant les vingt-quatre premiers mois d'exploitation, une
+somme au moins égale à 1,5 p. 100 des recettes d'exploitation de la résidence pour la recherche de la clientèle étrangère,
+soit de conclure pendant la même période avec des organisateurs de voyages ou de séjours des contrats de mise à disposition
+tels que 20 p. 100 au moins des unités d'hébergement de la résidence soient réservés à des touristes étrangers.
+
+L'engagement est souscrit sur papier libre et remis au service des impôts dont relève l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 261 D
+
+	**Créé par**:
+
+	  - Décret n°91-352 du 11 avril 1991 - art. 2 () JORF 13 avril 1991
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D421-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 177
+
+Dans le délai de trois mois qui suit l'expiration de la période mentionnée à l'article 176, l'exploitant de la résidence de
+tourisme classée doit justifier auprès du service des impôts qu'il a rempli son engagement en produisant un état
+récapitulatif des dépenses qu'il a engagées ou des contrats qu'il a conclus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 176
+
+	**Créé par**:
+
+	  - Décret n°91-352 du 11 avril 1991 - art. 2 () JORF 13 avril 1991
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 178
+
+Lorsque la condition de location par un contrat d'une durée d'au moins neuf ans cesse d'être remplie ou lorsque l'engagement
+de promotion touristique à l'étranger mentionné à l'article 176 n'est pas respecté, le redevable ou ses ayants droit sont
+replacés sous le régime de l'exonération de taxe sur la valeur ajoutée à compter de la date à laquelle ils ont été soumis à
+cette taxe pour cette location.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 176
+
+	**Créé par**:
+
+	  - Décret n°91-352 du 11 avril 1991 - art. 2 () JORF 13 avril 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2009-510 du 5 mai 2009 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
 ##### II : Opérations imposables sur option
 
 ###### Article 179
@@ -8632,8 +8777,8 @@ Transféré sous l'article 260 I de la même annexe.
 ###### Article 189
 
 L'option pour le paiement de la taxe sur la valeur ajoutée prévue à l'article 260-1° du code général des impôts s'applique à
-l'ensemble des opérations accomplies dans l'exercice de l'une des activités mentionnées aux 5°, 6°, ou 7° de l'article 261-4
-du même code.
+l'ensemble des opérations accomplies dans l'exercice de l'une des activités mentionnées aux 5° et 6° du 4 de l'article 261 du
+même code.
 
 Toutefois, lorsqu'une même personne effectue des opérations relevant d'activités de nature différente, l'option peut n'être
 formulée que pour une ou plusieurs de ces activités; elle couvre alors obligatoirement l'ensemble des opérations relevant de
@@ -8652,11 +8797,16 @@ de l'article 213.
 
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°91-883 1991-06-24
+	  - Décret n°92-836 1992-08-27
 
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 13 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+	  - Loi - art. 32 (V) JORF 30 décembre 1990
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°91-716 1991-07-26 art. 5 JORF 27 juillet 1991
 
 
 ###### Article 190
@@ -8797,132 +8947,6 @@ qui exercent l'option visée aux articles 193 et 194.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-##### 4 : Opérations portant sur les déchets neufs d'industrie et les matières de récupération.
-
-###### Article 196
-
-L'option pour le paiement de la taxe sur la valeur ajoutée prévue à l'article 260-3° du code général des impôts est ouverte
-aux entreprises qui possèdent une installation permanente et dont le montant du chiffre d'affaires annuel, quelle que soit la
-nature de l'activité exercée, est au moins égal à la limite fixée pour les ventes par l'article 302 ter-1 du même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 260 3°
-	  - CGI 302 ter 1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 33 () JORF 30 décembre 1990
-
-
-###### Article 197
-
-L'option pour le paiement de la taxe sur la valeur ajoutée s'applique aux opérations de vente, de commission, de courtage
-portant sur les déchets neufs d'industrie et sur les matières de récupération.
-
-Toutefois les opérations portant sur des déchets neufs d'industrie et des matières de récupération constitués par des métaux
-ou alliages désignés par arrêté du ministre de l'économie et des finances (1) sont soumises au régime prévu par l'article 277
-du code général des impôts.
-
-L'option s'applique à l'ensemble des opérations définies ci-dessus réalisées par l'entreprise.
-
-1)  Annexe IV, art. 29 bis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 277
-	  - CGIAN4 29 bis
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 33 () JORF 30 décembre 1990
-
-
-###### Article 198
-
-Les entreprises définies à l'article 196 qui désirent opter pour le paiement de la taxe sur la valeur ajoutée doivent le
-demander par lettre recommandée avec demande d'accusé de réception au directeur des services fiscaux et présenter à son
-agrément une caution solvable qui s'engage, solidairement avec l'entreprise, à payer la taxe sur la valeur ajoutée facturée
-au titre des opérations réalisées pendant la période couverte par l'option [*formalités obligatoires*].
-
-Le directeur statue sur la demande dans le délai de deux mois et peut dispenser l'entreprise de la constitution de caution.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 196
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 33 () JORF 30 décembre 1990
-
-
-###### Article 199
-
-L'option est valable à compter du premier jour du mois qui suit celui au cours duquel le directeur notifie sa décision [*date
-point de départ, date d'effet*] et jusqu'à l'expiration de la deuxième année civile suivante.
-
-Au terme de cette période, la demande peut être renouvelée dans les conditions fixées à l'article 198. L'option est alors
-valable pour une nouvelle période d'une durée égale à celle qui est prévue au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 198
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 33 () JORF 30 décembre 1990
-
-
-###### Article 200
-
-1  Au cours de la période définie à l'article 199, l'option qui a été garantie par une caution devient immédiatement caduque
-si celle-ci dénonce son engagement.
-
-2  L'option devient caduque si l'entreprise qui a été initialement dispensée de fournir caution ne peut, à la première
-demande du directeur des services fiscaux, présenter une caution à l'agrément de celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 199
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 33 () JORF 30 décembre 1990
-
-
-###### Article 201
-
-Les redevables admis à l'option sont soumis aux obligations qui incombent aux assujettis à la taxe sur la valeur ajoutée.
-
-Les règles relatives à l'assiette, à la liquidation, au recouvrement, au contrôle et au contentieux de ladite taxe leur sont
-applicables.
-
-En outre, ils doivent mentionner sur leurs factures ou tous autres documents en tenant lieu la date d'effet de l'option qui
-leur a été accordée ainsi que l'autorité administrative dont elle émane.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 33 () JORF 30 décembre 1990
 
 
 ##### 5 bis : Personnes qui ont passé un bail à construction
@@ -9261,21 +9285,38 @@ le service des impôts à procéder à l'ajustement des coefficients visés au I
 Les entreprises visées au 1er alinéa du I de l'article 267 quinquies peuvent renoncer aux modalités simplifiées de
 liquidation de la taxe sur la valeur ajoutée prévues à l'article 204 ter. 
 
-L'option est exercée pour cinq ans [*durée*] : elle n'est possible qu'au terme d'une période d'imposition donnant lieu à
+L'option est exercée pour cinq ans : elle n'est possible qu'au terme d'une période d'imposition donnant lieu à
 régularisation. Elle doit faire l'objet d'une notification jointe à la première déclaration déposée en application du
-paragraphe I de l'article 287 du code précité.
+paragraphe I de l'article 287 du code général des impôts.
+
+Sauf option pour la déclaration mensuelle de la taxe exercée dans les conditions fixées au II de l'article 242 quater, ces
+entreprises déposent quatre déclarations par an, selon le calendrier précisé à l'article 242 septies A.
+
+Elles indiquent sur la déclaration déposée en avril de chaque année le montant du chiffre d'affaires réalisé au cours de
+l'année civile précédente.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 287 I
-	  - CGIAN2 204 ter
-	  - CGIAN2 267 quinquies I al. 1
+	  - CGIAN2 267 quinquies I, 242 septies A, 204 ter, 242 quater II
+
+	**Modifié par**:
+
+	  - Décret n°91-181 du 19 février 1991 - art. 1 () JORF 20 février 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ##### II : Déductions
@@ -9343,11 +9384,23 @@ sous réserve des dispositions des articles 210, 215 et 221.
 
 Le droit à déduction prend naissance lorsque la taxe déductible devient exigible chez le redevable.
 
+Toutefois, les personnes qui effectuent des opérations occasionnelles soumises à la taxe sur la valeur ajoutée n'exercent le
+droit à déduction qu'au moment de la livraison.
+
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Article sans objet, modification incorporée dans l'édition du 2 septembre 1994
 
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 2 (V) JORF 31 DECEMBRE 1979
+	  - Décret n°91-352 1991-04-119 art. 3 JORF 13 avril 1991
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
 
 	**Cité par**:
 
@@ -9862,7 +9915,7 @@ figurer sur les déclarations ultérieures déposées avant le 31 décembre de l
 2. Lorsque le montant de la taxe déductible ainsi mentionné sur une déclaration excède le montant de la taxe due d'après les
 éléments qui figurent sur cette déclaration, l'excédent de taxe dont l'imputation ne peut être faite est reporté, jusqu'à
 épuisement, sur la ou les déclarations suivantes. Toutefois, cet excédent peut faire l'objet de remboursements dans les
-conditions fixées par les articles 242-0 A à 242-0 L et par l'article 271-4 du code général des impôts.
+conditions fixées par les articles 242-0 A à 242-0 K et par l'article 271-4 du code général des impôts.
 
 3. Les régularisations de déductions auxquelles les assujettis procèdent doivent également être mentionnées distinctement sur
 ces déclarations.
@@ -9874,11 +9927,19 @@ ces déclarations.
 	  - CGI 271 4
 	  - CGIAN2 208
 	  - CGIAN2 217
-	  - CGIAN2 242-0 A 242-0 L
+	  - CGIAN2 242-0 à 242-0 K
 
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 18 (V) JORF 31 DECEMBRE 1979
+	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ##### D : Dispositions diverses.
@@ -10502,7 +10563,7 @@ janvier 1972 ainsi que les droits à déduction visés au premier alinéa.
 
 ###### Article 242-0 J
 
-Toute personne qui demande le bénéfice des dispositions des articles 242-0 A à 242-0 L peut, à la demande de
+Toute personne qui demande le bénéfice des dispositions des articles 242-0 A à 242-0 K peut, à la demande de
 l'administration, être tenue de présenter une caution solvable qui s'engage, solidairement avec elle, à reverser les sommes
 dont elle aurait obtenu indûment le remboursement.
 
@@ -10510,11 +10571,19 @@ dont elle aurait obtenu indûment le remboursement.
 
 	**Cite**:
 
-	  - CGIAN2 242-0 A A CGIAN2 242-0 L
+	  - CGIAN2 242-0 A à CGIAN2 242-0 K
+
+	**Modifié par**:
+
+	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 242-0 K
@@ -10882,163 +10951,68 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 	  - HISTO: Edition du 15 juin 1990
 
 
-##### Section III bis : Calcul de la taxe.
-
-###### Article 242 ter A
-
-Pour l'application de l'article 279-b sexies du code général des impôts sont considérés comme concerts [*définition*] : les
-tours de chant, les récitals ou les harmonies de voix ou d'instruments ou les deux ensemble, caractérisés par la présence
-effective d'un ou plusieurs musiciens ou chanteurs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 279 b sexies
-
-	**Créé par**:
-
-	  - Décret n°84-1090 du 7 décembre 1984 - art. 1 (V) JORF 8 décembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
-
-
-###### Article 242 ter B
-
-L'établissement au titre duquel l'agrément est demandé doit être titulaire d'une licence de débit de boissons et satisfaire
-aux prescriptions de l'ordonnance n° 45-2339 du 13 octobre 1945 relative aux spectacles.
-
-La demande d'agrément est établie d'après un modèle fixé par arrêté conjoint du ministre de l'économie, des finances et du
-budget et du ministre chargé de la culture. Elle comporte l'engagement de l'exploitant de donner au minimum vingt concerts
-par an dans l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-2339 1945-10-13
-
-	**Créé par**:
-
-	  - Décret n°84-1090 du 7 décembre 1984 - art. 2 (V) JORF 8 décembre 1984
-	  - Décret n°84-1090 du 7 décembre 1984 - art. 3 (V) JORF 8 décembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
-
-
-###### Article 242 ter C
-
-Le taux réduit [*relatif aux concerts*] s'applique aux opérations réalisées à compter de la date de notification à
-l'exploitant de la décision d'agrément.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-1090 du 7 décembre 1984 - art. 4 (V) JORF 8 décembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
-
-
-###### Article 242 ter D
-
-En cas de changement d'exploitant [*d'établissement dans lequel les concerts sont soumis au taux réduit*], l'agrément peut
-être transféré au nouvel exploitant si ce dernier en fait la demande et prend l'engagement prévu à l'article 242 ter B.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 ter B
-
-	**Créé par**:
-
-	  - Décret n°84-1090 du 7 décembre 1984 - art. 5 (V) JORF 8 décembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
-
-
-###### Article 242 ter E
-
-Lorsque l'agrément est demandé par un établissement [*dans lequel les concerts sont soumis au taux réduit*] qui n'a pas
-exercé, depuis une année civile au moins, l'activité définie à l'article 279-b sexies du code général des impôts, le
-pourcentage prévu au deuxième alinéa de cet article est déterminé provisoirement par l'exploitant et donne lieu à
-régularisation dès que l'établissement dispose d'éléments comptables portant sur une année civile entière.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 279 b sexies
-
-	**Créé par**:
-
-	  - Décret n°84-1090 du 7 décembre 1984 - art. 6 (V) JORF 8 décembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
-
-
-###### Article 242 ter F
-
-Sans préjudice de l'application de l'article 1756 du code général des impôts, le maintien de l'agrément [*des établissements
-dans lesquels les concerts sont soumis au taux réduit*] est subordonné au respect des dispositions de l'article 290 quater du
-même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1756
-	  - CGI 290 quater
-
-	**Créé par**:
-
-	  - Décret n°84-1090 du 7 décembre 1984 - art. 7 (V) JORF 8 décembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
-
-
 ##### Section III ter : Obligations des redevables
 
 ##### I : Régime simplifié d'imposition
 
 ##### 1° : Entreprises dont l'exercice comptable coïncide avec l'année civile
+
+###### Article 242 quater
+
+I. Les déclarations abrégées visées au 3 de l'article 287 du code général des impôts indiquent le montant des opérations
+réalisées et déterminent le versement à effectuer en application de l'article 204 ter. Elles sont déposées selon la
+périodicité suivante :
+
+PERIODE : Janvier, février, mars
+
+DATE DE DEPOT : Avril
+
+PERIODE : Avril, mai, juin
+
+DATE DE DEPOT : Juillet
+
+PERIODE : Juillet, août, septembre
+
+DATE DE DEPOT : Octobre
+
+PERIODE : Octobre, novembre
+
+DATE DE DEPOT : Décembre
+
+La taxe due au titre du mois de décembre est portée sur la déclaration annuelle prévue à l'article 242 sexies.
+
+II. L'option pour la déclaration mensuelle de la taxe prévue au 3 de l'article 287 du code général des impôts est notifiée
+par lettre recommandée avec accusé de réception au service local des impôts un mois avant la fin d'une période d'imposition
+donnant lieu à régularisation. Elle prend effet le mois suivant cette période. Elle est valable pendant deux périodes
+d'imposition et tacitement reconductible à défaut de dénonciation trente jours au moins avant le terme de l'option.
+
+Pour l'application des dispositions de l'alinéa précédent la première option peut être formulée au plus tard au moment du
+dépôt de la déclaration des affaires de janvier 1991. Elle est valable pour la période d'imposition en cours et la suivante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242 sexies, 287 3, 204 ter
+
+	**Modifié par**:
+
+	  - Décret n°91-181 du 19 février 1991 - art. 4 () JORF 20 février 1991
+	  - Décret n°91-181 du 19 février 1991 - art. 8 (V) JORF 20 février 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Abrogé par**:
+
+	  - Décret n°99-545 du 30 juin 1999 - art. 17 () JORF 1er juillet 1999
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2000
+
 
 ###### Article 242 quinquies
 
@@ -11076,27 +11050,6 @@ précédente.
 
 ##### Entreprises dont l'exercice comptable coïncide avec l'année civile.
 
-###### Article 242 quater
-
-Les entreprises placées sous le régime simplifié prévu à l'article 267 quinquies, sont dispensées de souscrire les
-déclarations prévues à l'article 287-1 du code général des impôts. Elles doivent toutefois remettre, dans les délais et
-conditions fixés par cet article, une déclaration abrégée, conforme au modèle prescrit par l'administration, indiquant le
-montant des opérations qu'elles ont réalisées et déterminant le versement à effectuer en application de l'article 204 ter
-[*mentions*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 204 ter
-	  - CGIAN2 267 quinquies
-	  - CGIAN2 287 1
-
-	**Liens**:
-
-	  - HISTO: Edition 1979-07-01
-
-
 ###### Article 242 septies
 
 En cas de cession, de cessation, de changement de lieu d'imposition ou de redressement judiciaire, les entreprises sont tenue
@@ -11119,95 +11072,6 @@ que, le cas échéant, celle qui n'aurait pas encore été déposée au titre de
 
 
 ##### Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile - Régime optionnel.
-
-###### Article 242 septies B
-
-Les entreprises qui exercent l'option mentionnée à l'article 242 septies A souscrivent, dans les trois premiers mois du
-premier exercice couvert par cette option [*délai*], une déclaration de régularisation conforme à celle prévue à l'article
-242 sexies pour la période de l'année antérieure à la date d'ouverture de cet exercice.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 septies A
-	  - CGIAN2 242 sexies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 242 septies C
-
-Lorsque, pendant la durée d'effet de l'option, un exercice est clôturé en cours de mois ou de trimestre civil, chacune des
-deux périodes du mois ou du trimestre donne lieu au dépôt de la déclaration abrégée prévue par l'article 242 quater.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 quater
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 242 septies E
-
-Les entreprises qui dénoncent l'option prévue à l'article 242 septies A et restent soumises au régime d'imposition simplifié
-doivent souscrire une déclaration de régularisation pour la période comprise entre la date de clôture du dernier exercice
-couvert par l'option et le 31 décembre de l'année de clôture. Cette déclaration doit être souscrite avant le 1er avril de
-l'année suivante [*date limite*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 septies A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 242 septies F
-
-Les entreprises ayant exercé l'option prévue à l'article 242 septies A qui deviennent imposables selon le régime forfaitaire
-ou d'après le chiffre d'affaires réel, doivent souscrire une déclaration de régularisation pour la période comprise entre la
-date de clôture du dernier exercice entièrement couvert par l'option et le 31 décembre de la dernière année d'imposition au
-régime simplifié. Cette déclaration doit être souscrite avant le 1er avril de l'année suivante [*date limite*]. Toutefois,
-lorsqu'il s'agit d'une entreprise dont le chiffre d'affaires s'abaisse au-dessous de la limite d'application du régime du
-forfait et qui n'opte pas pour le régime simplifié, la déclaration doit être souscrite avant le 1er avril de la deuxième
-année d'imposition au forfait.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 septies A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 242 septies K
-
-Les entreprises ayant exercé l'option prévue à l'article 242 septies A indiquent sur la déclaration abrégée déposée au titre
-du mois de décembre ou du dernier trimestre de l'année le montant du chiffre d'affaires réalisé au cours de l'année civile.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 septies A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 242 septies L
 
@@ -11287,6 +11151,65 @@ modalités de versement et de remboursement des acomptes dus à compter du 1er j
 	  - HISTO: Edition du 24 juin 1991
 
 
+###### Article 242 septies B
+
+Les entreprises qui exercent l'option mentionnée au I de l'article 242 septies A souscrivent, dans les trois premiers mois du
+premier exercice couvert par cette option, une déclaration de régularisation conforme à celle prévue à l'article 242 sexies
+pour la période de l'année antérieure à la date d'ouverture de cet exercice.
+
+**Nota:**
+
+NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
+modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242 septies A, 242 sexies
+
+	**Modifié par**:
+
+	  - Décret n°91-181 du 19 février 1991 - art. 5 () JORF 20 février 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 242 septies C
+
+Lorsque, pendant la durée d'effet de l'option, un exercice est clôturé en cours de mois, chacune des deux périodes du mois
+donne lieu au dépôt de la déclaration abrégée prévue par l'article 242 quater.
+
+**Nota:**
+
+NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
+modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242 quater
+
+	**Modifié par**:
+
+	  - Décret n°91-181 du 19 février 1991 - art. 6 () JORF 20 février 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
 ###### Article 242 septies D
 
 Lorsque aucun exercice n'a été clôturé au cours d'une année civile, une déclaration de régularisation est déposée avant le
@@ -11294,6 +11217,61 @@ Lorsque aucun exercice n'a été clôturé au cours d'une année civile, une dé
 décembre de l'année au cours de laquelle aucun exercice n'a été clôturé. Une nouvelle période d'imposition s'ouvre le 1er
 janvier suivant.
 
+
+
+###### Article 242 septies E
+
+Les entreprises qui dénoncent l'option prévue au 1 de l'article 242 septies A et restent soumises au régime d'imposition
+simplifié doivent souscrire une déclaration de régularisation pour la période comprise entre la date de clôture du dernier
+exercice couvert par l'option et le 31 décembre de l'année de clôture. Cette déclaration doit être souscrite avant le 1er
+avril de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242 septies A
+
+	**Modifié par**:
+
+	  - Décret n°91-181 du 19 février 1991 - art. 5 () JORF 20 février 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 242 septies F
+
+Les entreprises ayant exercé l'option prévue au 1 de l'article 242 septies A qui deviennent imposables selon le régime
+forfaitaire ou d'après le chiffre d'affaires réel, doivent souscrire une déclaration de régularisation pour la période
+comprise entre la date de clôture du dernier exercice entièrement couvert par l'option et le 31 décembre de la dernière année
+d'imposition au régime simplifié. Cette déclaration doit être souscrite avant le 1er avril de l'année suivante. Toutefois,
+lorsqu'il s'agit d'une entreprise dont le chiffre d'affaires s'abaisse au-dessous de la limite d'application du régime du
+forfait et qui n'opte pas pour le régime simplifié, la déclaration doit être souscrite avant le 1er avril de la deuxième
+année d'imposition au forfait.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242 septies A
+
+	**Modifié par**:
+
+	  - Décret n°91-181 du 19 février 1991 - art. 5 () JORF 20 février 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 242 septies G
@@ -16234,6 +16212,102 @@ Les modalités techniques d'application du présent article sont fixées par arr
 
 #### Chapitre premier : Impôts directs et taxes assimilées
 
+##### I : Taxe foncière sur les propriétés bâties.
+
+###### Article 317 septies B
+
+Pour bénéficier des exonérations ou prolongations d'exonération prévues aux articles 1586 A et 1586 B du code général des
+impôts, le redevable de la taxe foncière sur les propriétés bâties doit adresser au service des impôts du lieu de situation
+des biens une déclaration comportant tous les éléments d'identification.
+
+Pour les immeubles mentionnés au 3° de l'article L. 351-2 du code de la construction et de l'habitation, la déclaration doit
+indiquer le mode de financement de la construction, de l'acquisition ou des travaux d'amélioration de l'immeuble, et être
+accompagnée des pièces justificatives.
+
+Dans le cas d'un bail à réhabilitation, la déclaration doit être accompagnée des documents justifiant que le bail a pris
+effet dans les conditions prescrites par l'article L. 252-3 du code de la construction et de l'habitation.
+
+La déclaration doit être conforme à un modèle établi par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1586 A, 1586 B
+	  - Code de la construction et de l'habitation. - art. L252-3 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 328 E
+
+	**Créé par**:
+
+	  - Décret n°91-397 du 23 avril 1991 - art. 1 (V) JORF 27 avril 1991
+
+	**Transféré par**:
+
+	  - Décret n°95-828 du 28 juin 1995 - art. 1 () JORF 5 juillet 1995
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+###### Article 317 septies C
+
+La déclaration doit être souscrite avant le 1er mars de la première année à compter de laquelle le redevable de la taxe
+foncière sur les propriétés bâties peut, au titre de l'immeuble concerné, bénéficier des dispositions de l'article 1586 A ou
+de l'article 1586 B du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1586 A, 1586 B
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 328 F
+
+	**Créé par**:
+
+	  - Décret n°91-397 du 23 avril 1991 - art. 1 (V) JORF 27 avril 1991
+
+	**Transféré par**:
+
+	  - Décret n°95-828 du 28 juin 1995 - art. 1 () JORF 5 juillet 1995
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+###### Article 317 septies D
+
+Lorsque la déclaration est souscrite après l'expiration du délai prévu à l'article précédent, l'exonération ou la
+prolongation d'exonération ne s'applique que pour la période restant à courir après le 31 décembre de l'année de la
+souscription.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 328 G
+
+	**Créé par**:
+
+	  - Décret n°91-397 du 23 avril 1991 - art. 1 (V) JORF 27 avril 1991
+
+	**Transféré par**:
+
+	  - Décret n°95-828 du 28 juin 1995 - art. 1 () JORF 5 juillet 1995
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
 ##### Redevance départementale des mines.
 
 ###### Article 317 octies
@@ -16750,35 +16824,6 @@ c. Contribution des assurés : 2 % des primes versées au 3° de l'article 305 A
 	  - Décret n°87-940 1987-11-23
 
 
-###### Article 322 B
-
-Sur le montant des encaissements effectués par le service des impôts au titre des contributions visées aux articles 322 et
-322 A, il est opéré un prélèvement de 2 %.
-
-Ce prélévement sert à couvrir, dans les limites et conditions fixées par arrêté du ministre chargé des finances, les dépenses
-de matériel et de personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 305 AC
-
-	**Cite**:
-
-	  - CGIAN2 322
-	  - CGIAN2 322 A
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°91-883 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 38 () JORF 28 décembre 1988
-
-
 ##### Contribution pour les véhicules étrangers.
 
 ###### Article 322 C
@@ -16955,73 +17000,6 @@ c. Contribution des assurés, somme forfaitaire maximum de 2,50 F par personne g
 	**Codifié par**:
 
 	  - Décret n°87-940 1987-11-23
-
-
-###### Article 323 B
-
-Sur le montant des encaissements effectués par le service des impôts au titre des contributions visées à l'article 323, il
-est opéré un prélèvement de 2 % [*pourcentage*].
-
-Ce prélèvement sert à couvrir dans les limites et conditions fixées par arrêté du ministre chargé des finances, les dépenses
-de matériel et de personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 323
-	  - Code rural 366 ter
-	  - Décret n°68-170 1968-02-19 ART. 22
-
-	**Anciens textes**:
-
-	  - CGIAN2 327
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23 Décret 91-883 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 38 () JORF 28 décembre 1988
-
-
-##### Section III : Fonds de garantie contre les actes de terrorisme.
-
-###### Article 325
-
-Le fonds de garantie prévu à l'article 1628 quinquies est alimenté par une contribution assise sur les primes ou cotisations
-des contrats d'assurance de biens (1) souscrits auprès d'une entreprise ayant obtenu l'agrément prévu par l'article L321-1 du
-code des assurances.
-
-Cette contribution est recouvrée par les entreprises d'assurances suivant les mêmes règles, sous les mêmes garanties et
-sanctions que la taxe sur les conventions d'assurances. Elle est versée à la recette des impôts suivant les modalités prévues
-pour ladite taxe et reversée au fonds de garantie, déduction faite de 2% pour frais d'assiette et de perception.
-
-Le taux de la contribution est fixé, chaque année, par arrêté du ministre chargé de l'économie et des finances (1).
-
-(1) Voir annexe IV, art. 159 quinquies A.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1628 quater II
-	  - CGIAN1 305 AA
-	  - Code rural 366 ter
-	  - Décret n°68-170 1968-02-19 ART. 22
-
-	**Modifié par**:
-
-	  - Décret n°86-1111 du 15 octobre 1986 - art. 4 (Ab) JORF 16 octobre 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies A (M)
 
 
 ### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers
@@ -17455,6 +17433,31 @@ bâties et de taxe d'habitation. Le conseil municipal peut porter le seuil d'exo
 	**Liens**:
 
 	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 332 A
+
+Par dérogation à l'article 310 H, la valeur locative moyenne à prendre en compte pour l'application des dispositions du
+deuxième alinéa de l'article 331 et de l'article 332 est, à compter de 1991, celle retenue pour l'établissement des rôles de
+1989, majorée en 1990 et chacune des années suivantes proportionnellement à la variation des valeurs locatives des logements
+résultant de l'application des articles 1518 et 1518 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-1127 du 17 décembre 1990 - art. 1 (V) JORF 21 décembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 H (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 331 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 332 (V)
+	  - Code général des impôts, CGI. - art. 1518 (V)
 
 
 ##### IV : Règles d'évaluation de la valeur locative des biens imposables
@@ -17951,11 +17954,10 @@ dérogation par arrêté du ministre chargé du budget.
 
 ###### Article 339
 
-Il est institué jusqu'au [*date limite*] 31 décembre 1990 au profit de l'association pour le développement de la formation
-professionnelle dans les transports une taxe parafiscale qui est perçue, en addition à la taxe édictée par l'article 1599
-quindecies du code général des impôts, lors de la délivrance des certificats d'immatriculation des véhicules de transport de
-marchandises dont le poids total autorisé en charge excède 3,5 tonnes, des tracteurs routiers et des véhicules de transport
-en commun de voyageurs.
+Il est institué jusqu'au 31 décembre 1995 au profit de l'Association pour le développement de la formation professionnelle
+dans les transports une taxe parafiscale qui est perçue, en addition à la taxe édictée par l'article 1599 quindecies du code
+général des impôts, lors de la délivrance des certificats d'immatriculation des véhicules automobiles de transport de
+marchandises, des tracteurs routiers et des véhicules de transport en commun de personnes.
 
 La délivrance des certificats visés aux articles 1599 septdecies et 1599 octodecies du code précité ne donnent pas lieu au
 paiement de la taxe.
@@ -17964,51 +17966,55 @@ paiement de la taxe.
 
 	**Cite**:
 
-	  - CGI 1599 quindecies, 1599 septdecies, 1599 octodecies
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 1635 bis G, 1635 bis I et 1635 bis J
-	  - HISTO: Edition du 15 juillet 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - CGI 1599 octodecies
+	  - CGI 1599 quindecies
+	  - CGI 1599 septdecies
 
 	**Modifié par**:
 
-	  - Décret n°88-1001 1988-10-20 art. 3 JORF 22 octobre 1988
+	  - Décret n°91-47 du 14 janvier 1991 - art. 1 (V) JORF 16 janvier 1991
+	  - Décret n°91-47 du 14 janvier 1991 - art. 2 (V) JORF 16 janvier 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 340
 
-Les montants de la taxe sont fixés par arrêté conjoint du ministre de l'économie des finances et du budget et du ministre de
-l'urbanisme, du logement et des transports (1), dans la limite des maxima suivants :
+Les montants de la taxe sont fixés par arrêté conjoint du ministre d'Etat, ministre de l'économie, des finances et du budget,
+du ministre de l'équipement, du logement, des transports et de la mer et du ministre délégué au budget, dans la limite des
+maxima suivants :
 
-1° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur à 6 tonnes : 430
-F ;
+1° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur ou égal à 3,5
+tonnes :
 
-2° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes
-et inférieur à 11 tonnes : 645 F ;
+148 F ;
 
-3° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11
-tonnes, tracteurs routiers et véhicules de transport en commun de voyageurs :  965 F .
+2° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est supérieur à 3,5 tonnes et
+inférieur à 6 tonnes : 608 F ;
 
-(1) Annexe IV, art. 159 septies
+3° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes
+et inférieur à 11 tonnes : 912 F ;
+
+4° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11
+tonnes, tracteurs routiers et véhicules de transport en commun de personnes :
+
+1 368 F.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN4 159 septies
-
 	**Modifié par**:
 
-	  - Décret n°85-1525 du 31 décembre 1985 - art. 3 (V) JORF 9 janvier 1986
+	  - Décret n°91-47 du 14 janvier 1991 - art. 3 (V) JORF 16 janvier 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°91-883 1991-09-09
 
 
 ###### Article 341
@@ -18039,175 +18045,18 @@ code général des impôts.
 	  - HISTO: Edition du 15 juillet 1988
 
 
-#### Chapitre III : Fonds d'orientation et de régularisation des marchés agricoles - Taxe sur les produits résineux et produits dérivés.
-
-###### Article 342
-
-a. Il est institué au profit du fonds d'orientation et de régularisation des marchés agricoles une taxe parafiscale perçue
-dans les limites des taux fixés ci-dessous sur les produits résineux énumérés ci-après par référence au tarif des douanes :
-
-<table>
-  <tbody><tr>
-    <td> :===============:====================================:============:</td>
-  </tr>
-  <tr>
-    <td> :    NUMEROS    :                                    :            :</td>
-  </tr>
-  <tr>
-    <td> : du tarif des  :                                    : TAUX par   :</td>
-  </tr>
-  <tr>
-    <td> :  droits de    :  DESIGNATION DES PRODUITS          :  quintal   :</td>
-  </tr>
-  <tr>
-    <td> :   douane      :                                    :            :</td>
-  </tr>
-  <tr>
-    <td> : d'importation :                                    :     F      :</td>
-  </tr>
-  <tr>
-    <td> :---------------:------------------------------------:------------:</td>
-  </tr>
-  <tr>
-    <td> : 38-05 A et B  : Tall oil brut et autre             :   1,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-07 A       : Essence de térébenthine            :   1,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-07 B       : Essence de papeterie au sulfate,   :            :</td>
-  </tr>
-  <tr>
-    <td> :               :   dipenthène brut                  :   1,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-07 C       : Autres                             :   1,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-08 A       : Colophane (y compris les           :            :</td>
-  </tr>
-  <tr>
-    <td> :               :   produits dits brais résineux)    :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-08 B       : Essence de colophane et huile de  :            :</td>
-  </tr>
-  <tr>
-    <td> :               :   colophane                        :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-08 C       : Autres                             :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> : Ex. 38-09 B   : Liants à base de résineux naturels :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> : Ex. 39-05 B   : Gommes esters provenant d'acides   :            :</td>
-  </tr>
-  <tr>
-    <td> :               :    résiniques                      :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> :=================================================================:</td>
-  </tr>
-</tbody></table>
-
-b. La taxe est due par les personnes qui fabriquent, font fabriquer ou importent en France les produits imposables.
-
-c. En ce qui concerne les produits fabriqués en France, la taxe est exigible au stade de la première vente ou, pour les
-entreprises intégrées, du transfert de ces produits aux ateliers de transformation.
-
-En ce qui concerne les produits importés, la taxe est exigible lors de la mise à la consommation.
-
-d. Le fait générateur de la taxe est la livraison, le transfert ou la mise à la consommation des produits.
-
-e. La taxe ne peut être perçue qu'une seule fois, quel que soit le nombre des transformations subies par le produit ou le
-nombre des transactions ; un arrêté du ministre de l'économie et des finances précisera, en tant que de besoin, les modalités
-d'application de cette disposition.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: CONSEQUENCE DE LA MODIFICATION DU TARIF DES DOUANES
-	  - PEREMPTION: Décret n°91-883 du 9 septembre 1991 - art. 2 () JORF 10 septembre 1991
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-	  - Décret n°91-883 1991-09-09
-
-
-###### Article 343
-
-Dans les limites fixées à l'article 342-a, un arrêté interministériel détermine les taux de la taxe parafiscale applicables
-aux diverses catégories de produits (1).
-
-1) Annexe IV, art. 159 AJ.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 342 a
-	  - CGIAN4 159 AJ
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°91-883 du 9 septembre 1991 - art. 2 () JORF 10 septembre 1991
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 344
-
-En ce qui concerne les produits fabriqués en France, le recouvrement de la taxe parafiscale est assuré pour le compte du
-fonds et par la direction générale des impôts [*autorité compétente*], suivant les mêmes règles, sous les mêmes garanties et
-les mêmes sanctions que la taxe sur la valeur ajoutée ; toutefois, les dispositions de l'article 282 du code général des
-impôts ne sont pas applicables.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 282
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°91-883 du 9 septembre 1991 - art. 2 () JORF 10 septembre 1991
-	  - HISTO: EDITION 1979-07-01
-
-
 #### Chapitre IV : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.
 
 ###### Article 345
 
-Il est institué jusqu'au 31 décembre 1990 [*date limite*] au profit du comité professionnel de développement de l'horlogerie
+Il est institué jusqu'au 31 décembre 1995 [*date limite*] au profit du comité professionnel de développement de l'horlogerie
 et du centre technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de vente, de livraison ou
-d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume, définis à l'article 346,
-réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
+d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume, mentionnés à l'article
+346, réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
 
-Cette taxe parafiscale ne s'applique pas aux articles d'occasion, ni aux articles exportés. Sa perception sur les articles
-importés de la Communauté économique européenne [*CEE*] donne lieu à remboursement.
+Cette taxe parafiscale ne s'applique pas aux articles d'occasion, ni aux articles exportés hors de la Communauté économique
+européenne. Sa perception sur les articles importés de la Communauté économique européenne [*CEE*] donne lieu à
+remboursement.
 
 **Liens relatifs à cet article**
 
@@ -18217,11 +18066,11 @@ importés de la Communauté économique européenne [*CEE*] donne lieu à rembou
 
 	**Modifié par**:
 
-	  - Décret n°86-163 du 4 février 1986 - art. 1 (V) JORF 6 février 1986
+	  - Décret n°91-350 du 10 avril 1991 - art. 1 (V) JORF 11 avril 1991,
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°91-883 1991-09-09
 
 
 ###### Article 346
@@ -18256,50 +18105,46 @@ c. Des produits suivants rangés sous la rubrique 34-01-15 "munis d'un moteur sy
 
 ###### Article 347
 
-Le taux de la taxe est fixé par un arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie dans la
-limite de 0,55 % [*pourcentage*] de la valeur de vente pour le comité professionnel de développement de l'horlogerie et de
-0,25 % de la valeur de vente pour le centre technique de l'industrie horlogère (1).
-
-(1) Annexe IV, art. 159 AL bis.
+Le taux de la taxe est fixé par un arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie, dans la
+limite de 0,80 p. 100 de la valeur de vente. Le produit de la taxe est versé au comité professionnel de développement de
+l'horlogerie.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN4 159 AL bis
-
 	**Modifié par**:
 
-	  - Décret n°86-163 du 4 février 1986 - art. 3 (V) JORF 6 février 1986
+	  - Décret n°91-350 du 10 avril 1991 - art. 3 (V) JORF 11 avril 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 348
 
-Sous réserve des dispositions des articles 349 et 350, la taxe est assise, liquidée et recouvrée comme en matière de taxe sur
-la valeur ajoutée.
+La taxe est assise, liquidée et recouvrée comme en matière de taxe sur la valeur ajoutée.
 
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+Elle n'est pas mise en recouvrement lorsque la cotisation due au titre d'un exercice par l'entreprise qui en est redevable
+est inférieure à 100 F.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 349
-	  - CGIAN2 350
-
 	**Modifié par**:
 
-	  - Décret n°81-903 1981-10-15 ART. 1 JORF 7 OCTOBRE 1981
+	  - Décret n°91-350 du 10 avril 1991 - art. 4 (V) JORF 11 avril 1991
+	  - Décret n°91-350 du 10 avril 1991 - art. 5 (V) JORF 11 avril 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 349
@@ -18625,9 +18470,8 @@ maximum le taux applicable (1) à chaque catégorie de produits. "
 
 ###### Article 361 bis
 
-Il est institué pour la période de la campagne 1988-1989 non couverte par le décret n° 84-663 du 17 juillet 1984 et pour la
-campagne 1989-1990 une taxe parafiscale au profit des organismes interprofessionnels de vins mentionnés à l'article 1er du
-décret n° 89-596 du 29 août 1989.
+Il est institué pour les campagnes 1990-1991 et 1991-1992 une taxe parafiscale au profit des organismes interprofessionnels
+de vins mentionnés à l'article 1er du décret n° 90-1039 du 22 novembre 1990.
 
 Cette taxe est destinée à couvrir les dépenses afférentes aux actions d'intérêt interprofessionnel conduites par ces
 organismes, ainsi que leurs frais de fonctionnement.
@@ -18657,29 +18501,35 @@ de la forêt fixe le montant applicable dans la limite du montant maximum (1).
 	**Cite**:
 
 	  - CGIAN4 159 AM bis
-	  - Décret n°84-663 1984-07-17
-	  - Décret n°89-596 du 29 août 1989 - art. 1 (V)
+	  - Décret n°90-1039 1990-11-22 art. 1
 
 	**Modifié par**:
 
-	  - Décret n°89-596 du 29 août 1989 - art. 1 (V) JORF 30 août 1989
+	  - Décret n°90-1039 du 22 novembre 1990 - art. 1 (V) JORF 24 novembre 1990
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°91-883 1991-09-09
 
 
 #### Chapitre VIII : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.
 
 ###### Article 363 A
 
-En vue d'encourager la promotion des industries de l'ameublement, et notamment la recherche, l'innovation et la rénovation
-des structures industrielles, est autorisée, dans la limite d'un taux de 0,35 % [*pourcentage*] et jusqu'au 31 décembre 1990
-[*date limite*], la perception au profit du comité de développement des industries françaises de l'ameublement d'une taxe
-parafiscale assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et sanctions que la taxe sur la
-valeur ajoutée [*TVA*] sous réserve des articles 363 B et 363 B bis.
+En vue d'encourager la promotion des industries de l'ameublement, et notamment la recherche et l'innovation, est autorisée,
+dans la limite d'un taux de 0,35 % [*pourcentage*] et jusqu'au 31 décembre 1995 [*date limite*], la perception au profit du
+comité de développement des industries françaises de l'ameublement d'une taxe parafiscale assise, liquidée et recouvrée
+suivant les mêmes règles, sous les mêmes garanties et sanctions que la taxe sur la valeur ajoutée [*TVA*] sous réserve des
+articles 363 B et 363 B bis.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: )
+	  - DISJONCTION: Décret n°95-1281 du 11 décembre 1995 - art. 2 () JORF 13 décembre 1995
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 27 octobre 1995
 
 	**Cite**:
 
@@ -18688,11 +18538,12 @@ valeur ajoutée [*TVA*] sous réserve des articles 363 B et 363 B bis.
 
 	**Modifié par**:
 
-	  - Décret n°86-158 du 4 février 1986 - art. 1 (V) JORF 6 février 1986
+	  - Décret n°91-349 1991-04-10 art. 1 JORF 11 avril 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
 
 
 ###### Article 363 B
@@ -18701,10 +18552,8 @@ I. Sont soumises à la taxe prévue à l'article 363 A les ventes, y compris à 
 produits relevant de la classe 49, à l'exclusion du groupe 49-04, de la nomenclature détaillée de produits approuvés par le
 décret n° 83-831 du 5 septembre 1983.
 
-II. Les biens constituant des immobilisations n'ouvrent pas droit à déduction de la taxe parafiscale dont ils sont grevés.
-
-III. Les ventes effectuées par les entreprises imposées à la taxe sur la valeur ajoutée [*TVA*] selon le régime du forfait
-sont exonérées de la taxe.
+II. Les ventes effectuées par les entreprises imposées à la taxe sur la valeur ajoutée selon le régime du forfait sont
+exonérées de la taxe.
 
 **Liens relatifs à cet article**
 
@@ -18715,32 +18564,43 @@ sont exonérées de la taxe.
 
 	**Modifié par**:
 
-	  - Décret n°86-158 du 4 février 1986 - art. 2 (V) JORF 6 février 1986
-	  - Décret n°86-158 du 4 février 1986 - art. 3 (V) JORF 6 février 1986
-	  - Décret n°86-158 du 4 février 1986 - art. 4 (V) JORF 6 février 1986
+	  - Décret n°91-349 1991-04-10 art. 2, art. 3 JORF 11 avril 1991
+	  - Décret n°91-349 du 10 avril 1991 - art. 3 (V) JORF 11 avril 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°91-883 1991-09-09
 
 
 ###### Article 363 B bis
 
-Le produit de la taxe prévue à l'article 363 A est recouvré par l'administration des impôts.
+Le produit de la taxe recouvrée par l'administration des impôts est transféré mensuellement au comité de développement des
+industries françaises de l'ameublement.
 
-Son taux est fixé par arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie (1).
-
-Annexe IV, art. 159 AL quater.
+Le taux de la taxe est fixé par arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: )
+	  - DISJONCTION: Décret n°95-1281 du 11 décembre 1995 - art. 2 () JORF 13 décembre 1995
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 27 octobre 1995
 
 	**Cite**:
 
 	  - CGIAN4 159 AL quater
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-158 du 4 février 1986 - art. 5 (V) JORF 6 février 1986
+	  - Décret n°91-349 1991-04-10 art. 4, art. 5 JORF 11 avril 1991
+	  - Décret n°91-349 du 10 avril 1991 - art. 5 (V) JORF 11 avril 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
 
 
 #### Chapitre IX : Fonds national de développement agricole
@@ -21780,7 +21640,7 @@ l'article 235 ter GC du code général des impôts.
 
 ###### Article 383 ter
 
-Les versements mensuels ou trimestriels effectués en application de l'article 242 quater sont imputés sur l'impôt dû.
+Les versements effectués en application du 3 de l'article 287 du code général des impôts sont imputés sur l'impôt dû.
 
 En cas d'insuffisance de versements, le complément d'impôt dû doit être acquitté au moment du dépôt de la déclaration prévue
 à l'article 242 sexies.
@@ -21791,12 +21651,21 @@ En cas d'excédent de versements, celui-ci est imputé sur les sommes ultérieur
 
 	**Cite**:
 
-	  - CGIAN2 242 quater
+	  - CGI 287
 	  - CGIAN2 242 sexies
+
+	**Modifié par**:
+
+	  - Loi - art. 26 () JORF 30 décembre 1990
+	  - Décret n°91-181 du 19 février 1991 - art. 4 () JORF 19 février 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 24 juin 1991
 
 
 #### II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.
