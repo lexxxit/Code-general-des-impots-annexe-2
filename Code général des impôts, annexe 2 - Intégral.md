@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-01-10
+Version Consolidée au 1988-01-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -767,6 +767,34 @@ renseignements portés sur la déclaration prévue au 2° du 1.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2001
+
+
+##### Obligations des intermédiaires financiers.
+
+###### Article 39 H
+
+Les sociétés de bourse et les établissements de crédit ou organismes habilités à détenir et à négocier des valeurs mobilières
+pour le compte des particuliers doivent déclarer à l'administration le montant global, compte non tenu des frais, des ventes
+des titres ou des droits visés à l'article 92-B du code général des impôts effectuées par chacun de leurs clients.
+
+Ces renseignements doivent parvenir, avant le 16 février de chaque année pour les opérations de l'année précédente, à la
+direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils figurent sur la
+déclaration prévue au 1 de l'article 242 ter du même code lorsque celle-ci doit être souscrite.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 242 ter
+	  - CGI 92 B
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 
 ##### III : Revenus des capitaux mobiliers
@@ -1767,6 +1795,50 @@ doit être employé en valeurs et droits définis à cet article.
 
 	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
 	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 75-0 H
+
+Les achats d'actions de sociétés françaises traitées sur le marché hors cote des bourses de valeurs, ouvrent droit au
+bénéfice de la détaxation lorsque ces actions sont inscrites sur une liste établie chaque année par arrêté du ministre de
+l'économie (1). L'arrêté prend effet à compter du 1er janvier de l'année suivant celle de sa publication.
+
+Pour être inscrites, ces actions doivent, durant chacune des deux périodes successives de douze mois s'achevant le 30
+septembre précédant la date d'établissement de la liste, avoir fait l'objet d'au moins cinquante cotations à la bourse de
+Paris ou vingt-cinq cotations sur les autres bourses.
+
+En outre, le montant cumulé des transactions dont ces actions ont fait l'objet au cours de ces vingt-quatre mois doit être au
+moins égal à 500.000 F pour la bourse de Paris ou à 200.000 F pour les autres bourses. Pour l'application des deuxième et
+troisième alinéas sont retenus la fréquence des cotations et le volume des transactions enregistrés par le conseil des
+bourses de valeurs.
+
+Sauf inscription au second marché (2) ou à la cote officielle, les actions sont maintenues sur la liste pendant les quatre
+années suivant celle de leur première inscription même si elles ne remplissent plus les conditions prévues ci-dessus.
+
+(1) Arrêtés des 19 décembre 1986 (JO du 31) et 23 décembre 1987 (JO du 27).
+
+(2) Le second marché des bourses de valeurs a remplacé le compartiment spécial du marché hors cote des bourses de valeurs
+(loi n° 83-1 du 3 janvier 1983, art. 47).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1986-12-19
+	  - Arrêté 1987-12-23
+	  - Loi n°83-1 du 3 janvier 1983 - art. 47, v. init.
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Loi n°88-70 1988-01-22 art. 25-I JORF 23 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 75-0 I
@@ -3073,6 +3145,60 @@ commune.
 	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
 
 
+###### Article 95 B
+
+Les intermédiaires agréés mentionnés aux articles 199 quinquies et 199 quinquies C du code général des impôts sont :
+
+1° La Banque de France ;
+
+La Caisse des dépôts et consignations ;
+
+Les établissements de crédit ;
+
+Les sociétés de bourse ;
+
+Les établissements visés à l'article 99 de la loi 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
+établissements de crédit ;
+
+2° Les entreprises gérant des valeurs acquises dans le cadre de la législation sur les plans d'épargne d'entreprise ou de
+l'actionnariat des salariés ;
+
+Les sociétés dont les actions ne sont pas cotées ou ne sont pas assimilées à des actions cotées pour la souscription de
+celles-ci ;
+
+Les sociétés à responsabilité limitée pour la souscription de leurs parts ;
+
+Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ;
+
+Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 de la loi n°
+66-537 du 24 juillet 1966 sur les sociétés commerciales.
+
+Les sociétés coopératives et leurs unions mentionnées à l'article 199 quinquies-0 A du code général des impôts pour la
+souscription ou la cession de leurs parts ou actions.
+
+Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre
+Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 quinquies
+	  - CGI 199 quinquies C
+	  - CGI 199 quinquies-0 A
+	  - Code rural livre V titre Ier
+	  - Loi n°66-537 1966-07-24 art. 95, art. 130
+	  - Loi n°84-46 1984-01-24 art. 99
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 ###### Article 95 C
 
 Pour les achats fermes et les souscriptions, la date d'effet de l'opération est celle du versement des fonds. En cas de
@@ -3312,6 +3438,68 @@ relatif au traitement automatisé TD/RCM (J.O. du 15).
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
 
 ##### Section I : Détermination du bénéfice imposable
+
+###### Article 96
+
+1. Pour la détermination du bénéfice servant de base à l'impôt sur les sociétés, les sociétés françaises par actions qui ont
+été constituées ou qui ont procédé à des augmentations de capital depuis la date d'entrée en vigueur du décret no 57-967 du
+29 août 1957 jusqu'au 31 décembre 1965, peuvent déduire les sommes effectivement allouées à titre de dividende aux actions
+émises à l'occasion desdites opérations et représentant des apports en numéraire.
+
+Toutefois, cette faculté ne peut être exercée, en ce qui concerne les sociétés qui ont procédé à l'augmentation de leur
+capital plus de trois ans après leur constitution, que pendant chacun des sept premiers exercices suivant la réalisation de
+l'augmentation de capital [*délai*] et, en ce qui concerne les sociétés qui se sont constituées ou les sociétés qui ont
+procédé à l'augmentation de leur capital moins de trois ans après leur constitution, qu'à partir du quatrième exercice et
+jusque, inclusivement, au dixième exercice suivant celui de leur constitution.
+
+En outre, le montant de la déduction afférente aux sommes distribuées au cours d'un de ces exercices ne peut excéder 5 %
+[*pourcentage*] du capital appelé et non remboursé correspondant aux apports visés au premier alinéa, augmenté, s'il y a
+lieu, des primes d'émission versées par les actionnaires et inscrites au bilan de la société.
+
+2. L'application des dispositions du 1 est subordonnée aux deux conditions suivantes :
+
+1° Que la constitution de la société ou l'augmentation de capital ait été agréée par arrêté du ministre de l'économie et des
+finances, pris après avis du conseil de direction du fonds de développement économique et social;
+
+2° Que l'ensemble des actions de la société ait été introduit à la cote du second marché d'une bourse de valeurs avant
+l'expiration d'un délai de trois ans à compter de l'augmentation de son capital, en ce qui concerne les sociétés qui ont
+procédé à l'augmentation de leur capital plus de trois ans après leur constitution, ou d'un délai de six ans à compter de sa
+constitution [*point de départ*], en ce qui concerne les sociétés qui se sont constituées et les sociétés qui ont procédé à
+une augmentation de leur capital moins de trois ans après leur constitution. Cette deuxième condition n'est pas suspensive.
+Si elle n'est pas réalisée, la société se trouvera déchue du bénéfice des dispositions prévues au 1 à compter du jour où elle
+en aura profité.
+
+3. En ce qui concerne les augmentations de capital en numéraire, l'opération est considérée comme réalisée au sens du 1, à la
+date de la signature de la déclaration notariée de souscription et de versement prévue à l'article 78 de la loi no 66-537 du
+24 juillet 1966.
+
+**Nota:**
+
+[*Nota - L'article 25 de la loi n° 88-70 du 22 janvier 1988 dispose que dans tous les textes législatifs et réglementaires en
+vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" et "chambre syndicale des agents de change" par
+"Conseil des bourses de valeurs"*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°57-967 1957-08-29
+	  - Loi n°66-537 1966-07-24 ART. 78
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+	  - Modifications incorporées à la date du 18 août 1993
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993
+
 
 ###### Article 97
 
@@ -13057,6 +13245,117 @@ préfecture de police.
 
 ##### I : Bourses de valeurs
 
+###### Article 305
+
+Les déclarations prescrites par l'article 982 du code général des impôts sont faites sur un registre spécial, tant au service
+des impôts du siège de l'établissement principal des assujettis qu'au bureau du siège de chacune des agences et succursales
+qu'ils possèdent.
+
+Les déclarations qui sont faites au siège de l'établissement principal sont signées par le chef de l'établissement ou en
+vertu de sa procuration. S'il s'agit d'une société, elles sont signées par ses représentants légaux ou en vertu de leur
+procuration. Elles font connaître, s'il y a lieu, les noms des associés solidairement responsables, et rappellent le titre
+constitutif de la société. Elles contiennent la désignation de chacune des agences et succursales.
+
+Les déclarations qui sont faites au siège des agences et succursales contiennent la désignation de l'établissement principal.
+
+En cas de changement de siège, soit de l'établissement principal, soit d'une agence ou succursale, de même qu'en cas de
+création d'une agence ou succursale nouvelle, des déclarations préalables en sont faites par les assujettis aux services des
+impôts et dans les formes ci-dessus déterminées.
+
+Les agréments de sociétés de bourse sont consignées au registre prévu au présent article. Cette mention équivaut, en ce qui
+les concerne, à la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 982
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Loi n°88-70 1988-01-22 art. 4, art. 6, art. 25 JORF 23 janvier 1988
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 305 A
+
+Le répertoire, dont la tenue est prescrite également par l'article 982 du code général des impôts et dont le modèle est donné
+ci-après (modèle A), présente, pour chaque opération, dans des colonnes distinctes, les indications ci-après :
+
+1° Numéro d'ordre ;
+
+2° Date de l'opération ;
+
+3° Nom du donneur d'ordre ;
+
+4° Catégorie à laquelle appartient l'opération, savoir :
+
+Achat ou vente au comptant ;
+
+Achat ou vente à terme ferme ;
+
+Achat ou vente à prime ;
+
+Report ;
+
+Opération d'ordre ayant pour objet de compenser entre elles, au point de vue du règlement des comptes, deux ou plusieurs
+opérations antérieures ;
+
+5° Lorsqu'il s'agit d'une opération à terme, date de l'échéance ;
+
+6° Nature des titres ;
+
+7° Nombre ou montant des titres ;
+
+8° Taux de l'opération ;
+
+9° Valeur totale des titres sur lesquels a porté l'opération ;
+
+10° Valeur totale des titres, déduction faite des versements restant à effectuer sur les titres non entièrement libérés ;
+
+11° S'il y a lieu, soit le nom de la société de bourse qui a concouru à l'opération, soit le nom et le domicile du mandataire
+substitué par l'intermédiaire duquel l'opération a été faite, soit le nom et le domicile de la personne qui en a fait la
+contrepartie, lorsque ces deux derniers sont au nombre des personnes désignées dans l'article 982 du code général des
+impôts ;
+
+12° Montant du droit afférent à l'opération, sauf en ce qui concerne :
+
+a Les opérations à prime ;
+
+b Les opérations d'ordre prévues au 4° ;
+
+c Les opérations qui donnent lieu à la désignation de la société de bourse qui a effectué l'opération ou du mandataire
+substitué.
+
+MODELE DE REPERTOIRE (Modèle A) [*non reproduit*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 982
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 305 B
 
 Le répertoire peut être divisé en deux volumes, l'un destiné à l'inscription des opérations au comptant, l'autre destiné à
@@ -13080,6 +13379,63 @@ Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-182
 
 	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
 	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 305 C
+
+Les extraits du répertoire prévus à l'article 983 du code général des impôts et dont le modèle est donné ci-après (modèle B)
+sont établis le 10 et le 25 de chaque mois. Ils sont certifiés par le débiteur et comprennent, dans l'ordre des numéros,
+toutes les opérations portées au répertoire entre ces deux dates. N'y sont toutefois portées que pour mémoire les opérations
+au comptant ayant moins de dix jours de date et les opérations à terme dont l'échéance ne serait pas survenue depuis dix
+jours au moins.
+
+Les opérations qui ne figurent sur l'extrait que pour mémoire, aux termes de la disposition qui précède, sont reprises en
+tête de l'extrait suivant.
+
+MODELE D'EXTRAIT (Modèle B)
+
+MENTIONS OBLIGATOIRES
+
+Numéro du répertoire (col. 1)
+
+Date de l'opération (col. 2)
+
+Nature de l'opération (1) (col. 3)
+
+Echéance (col. 4)
+
+Montant de l'opération (2) (col. 5)
+
+Désignation (3) ou du prestataire de services d'investissement ou du mandataire substitué ou de la personne qui a fait la
+contrepartie de l'opération (col. 6)
+
+Numéro au répertoire des opérations compensées (col. 7)
+
+Montant du droit (col. 8)
+
+Total des opérations (col. 1 à 5)
+
+Total des droits (col. 6 à 8).
+
+(1) Opérations au comptant, ou opérations à terme, ou prime abandonnée, ou report, ou compensation.
+
+(2) Valeur des titres, déduction faite du non-libéré, ou valeur des primes abandonnées.
+
+(3) Avec numéros de bordereau ou de répertoire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 983
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 121 KN (P)
 
 
 ###### Article 305 D
@@ -13142,6 +13498,49 @@ présentant les opérations à terme et les reports.
 
 	  - HISTO: Edition du 10 août 1987
 	  - HISTO: Edition du 1er janvier 2005
+
+
+###### Article 305 F
+
+Les extraits du répertoire sont produits :
+
+1° Entre le 10 et le 15;
+
+2° Entre le 25 et le dernier jour de chaque mois.
+
+Le dépôt des extraits est accompagné de la consignation des droits, calculés sur le pied de 6 p. 1.000 du montant des
+opérations qui y sont portées, si le redevable ne préfère produire des extraits comportant la perception immédiate des
+droits, c'est-à-dire présentant, pour chaque opération, le décompte des droits, accompagné, le cas échéant, de l'indication
+soit du nom de la société de bourse qui a concouru à l'opération, ainsi que de la date et du numéro du bordereau qu'il en a
+délivré, soit du nom et du domicile du mandataire substitué, par l'intermédiaire duquel l'opération a été faite, ainsi que de
+la date et du numéro sous lesquels l'opération figure au répertoire de ce dernier, soit du nom et du domicile de la personne
+qui a fait la contrepartie de l'opération, ainsi que de la date et du numéro sous lesquels l'opération figure à son
+répertoire, soit, en ce qui concerne les opérations d'ordre prévues à l'article 305 A, des numéros sous lesquels figurent au
+répertoire les opérations qu'il s'agit de compenser.
+
+Les versements afférents aux opérations fermes qui porteraient sur des valeurs cotées à terme à la bourse de la place sur
+laquelle l'assujetti exerce son industrie et qui figureraient à l'extrait pour une échéance plus éloignée que celle qui est
+prévue, pour ces valeurs, par les réglements des sociétés de bourse de ladite place, doivent, si ces opérations ne sont
+appuyées d'un bordereau de société de bourse certifiant la date de l'échéance, être effectués sur le pied d'un bordereau pour
+chacune des échéances prévues par les règlements ci-dessus mentionnés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 305 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 305 G
@@ -13624,6 +14023,44 @@ rédaction antérieure à la loi n° 80-10 du 10 janvier 1980, qui étaient en v
 
 
 ##### III : Base d'imposition
+
+###### Article 310 HC
+
+Pour la détermination de la base d'imposition de la taxe professionnelle, l'imposition des recettes concerne notamment :
+
+- les titulaires de bénéfices non commerciaux [*BNC*] même lorsqu'ils ont opté, au regard de l'impôt sur le revenu, pour le
+régime fiscal des salariés ;
+
+- les personnes qui, à titre habituel, donnent des conseils et servent d'intermédiaires pour la gestion ou le règlement
+d'intérêts privés ;
+
+- les commissionnaires, les courtiers, les intermédiaires pour l'achat, la souscription ou la vente d'immeubles, de fonds de
+commerce, d'actions ou parts de sociétés immobilières, ainsi que les agents de change (1) et remisiers.
+
+(1) Jusqu'au 31 décembre 1991, les activités visées à l'article 979 du code général des impôts sont exercées par les agents
+de change et les sociétés de bourse (loi n° 88-70 du 22 janvier 1988, art. 1er et 24.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 979
+	  - Loi n°88-70 1988-01-22 art. 1, art. 24
+	  - Loi n°88-70 du 22 janvier 1988 - art. 24 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
 
 ###### Article 310 HD
 
@@ -19657,188 +20094,6 @@ exerce, en droit ou en fait, directement ou par personne interposée et sous que
 
 ## IMPOTS D'ETAT
 
-### IMPOTS DIRECTS
-
-#### IMPOT SUR LE REVENU
-
-##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.
-
-###### Article 39 H
-
-Les agents de change et les établissements de crédit ou organismes habilités à détenir et à négocier des valeurs mobilières
-pour le compte des particuliers doivent déclarer à l'administration le montant global, compte non tenu des frais, des ventes
-des titres ou des droits visés à l'article 92-B du code général des impôts effectuées par chacun de leurs clients.
-
-Ces renseignements doivent parvenir, avant le 16 février de chaque année pour les opérations de l'année précédente, à la
-direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils figurent sur la
-déclaration prévue au 1 de l'article 242 ter du même code lorsque celle-ci doit être souscrite.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 242 ter
-	  - CGI 92 B
-
-	**Modifié par**:
-
-	  - Décret n°85-201 du 13 février 1985 - art. 1 () JORF 15 février 1985
-
-
-##### REVENU GLOBAL.
-
-###### Article 75-0 H
-
-Les achats d'actions de sociétés françaises traitées sur le marché hors cote des bourses de valeurs, ouvrent droit au
-bénéfice de la détaxation lorsque ces actions sont inscrites sur une liste établie chaque année par arrêté du ministre de
-l'économie (1). L'arrêté prend effet à compter du 1er janvier de l'année suivant celle de sa publication [*date*].
-
-Pour être inscrites, ces actions doivent, durant chacune des deux périodes successives de douze mois s'achevant le 30
-septembre précédant la date d'établissement de la liste, avoir fait l'objet d'au moins cinquante cotations [*nombre*] à la
-bourse de Paris ou vingt-cinq cotations sur les autres bourses.
-
-En outre, le montant cumulé des transactions dont ces actions ont fait l'objet au cours de ces vingt-quatre mois doit être au
-moins égal à 500.000 F pour la bourse de Paris ou à 200.000 F pour les autres bourses.
-
-Pour l'application des deuxième et troisième alinéas sont retenus la fréquence des cotations et le volume des transactions
-enregistrés par la chambre syndicale des agents de change.
-
-Sauf inscription au second marché (2) ou à la cote officielle, les actions sont maintenues sur la liste pendant les quatre
-années suivant celle de leur première inscription même si elles ne remplissent plus les conditions prévues ci-dessus.
-
-(1) Arrêtés des 16 décembre 1981 (JO N.C. du 19) et 24 décembre 1982 (JO N.C. du 31).
-
-(2) Le second marché des bourses de valeurs a remplacé le compartiment spécial du marché hors cote des bourses de valeurs
-(loi n° 83-1 du 3 janvier 1983, art. 47).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1981-12-16
-	  - Arrêté 1982-12-24
-	  - Loi n°83-1 du 3 janvier 1983 - art. 47, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Modifié par**:
-
-	  - Loi n°83-1 1983-01-03 ART. 47 JORF 4 JANVIER 1983
-
-
-##### CALCUL DE L'IMPOT.
-
-###### Article 95 B
-
-Les intermédiaires agréés mentionnés aux articles 199 quinquies et 199 quinquies C du code général des impôts sont :
-
-1° La Banque de France ;
-
-Les établissements de crédits ;
-
-La Caisse des dépôts et consignations ;                    t          Les agents de change ;          Les établissements
-visés à l'article 99 de la loi 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ;
-
-2° Les entreprises gérant des valeurs acquises dans le cadre de la législation sur les plans d'épargne d'entreprise ou de
-l'actionnariat des salariés ;
-
-Les sociétés dont les actions ne sont pas cotées ou ne sont pas assimilées à des actions cotées pour la souscription de
-celles-ci ;
-
-Les sociétés à responsabilité limitée pour la souscription de leurs parts ;
-
-Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ;
-
-Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 de la loi n°
-66-537 du 24 juillet 1966 sur les sociétés commerciales.          Les sociétés coopératives et leurs unions mentionnées à
-l'article 199 quinquies-0 A du code général des impôts pour la souscription ou la cession de leurs parts ou actions.
-Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre
-Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
-
-**Nota:**
-
-[*Nota - L'article 25 de la loi n° 88-70 du 22 janvier 1988 dispose que dans tous les textes législatifs et réglementaires en
-vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" et "chambre syndicale des agents de change" par
-"Conseil des bourses de valeurs"*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 quinquies
-	  - CGI 199 quinquies C
-	  - CGI 199 quinquies-0 A
-	  - Code rural livre V titre Ier
-	  - Loi n°66-537 1966-07-24 art. 95, art. 130
-	  - Loi n°84-46 1984-01-24 art. 99
-
-	**Modifié par**:
-
-	  - Décret n°85-1233 1985-11-22 art. 1 JORF 26 novembre 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
-
-
-#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*
-
-##### DETERMINATION DU BENEFICE IMPOSABLE.
-
-###### Article 96
-
-1. Pour la détermination du bénéfice servant de base à l'impôt sur les sociétés, les sociétés françaises par actions qui ont
-été constituées ou qui ont procédé à des augmentations de capital depuis la date d'entrée en vigueur du décret no 57-967 du
-29 août 1957 jusqu'au 31 décembre 1965, peuvent déduire les sommes effectivement allouées à titre de dividende aux actions
-émises à l'occasion desdites opérations et représentant des apports en numéraire.
-
-Toutefois, cette faculté ne peut être exercée, en ce qui concerne les sociétés qui ont procédé à l'augmentation de leur
-capital plus de trois ans après leur constitution, que pendant chacun des sept premiers exercices suivant la réalisation de
-l'augmentation de capital [*délai*] et, en ce qui concerne les sociétés qui se sont constituées ou les sociétés qui ont
-procédé à l'augmentation de leur capital moins de trois ans après leur constitution, qu'à partir du quatrième exercice et
-jusque, inclusivement, au dixième exercice suivant celui de leur constitution.
-
-En outre, le montant de la déduction afférente aux sommes distribuées au cours d'un de ces exercices ne peut excéder 5 %
-[*pourcentage*] du capital appelé et non remboursé correspondant aux apports visés au premier alinéa, augmenté, s'il y a
-lieu, des primes d'émission versées par les actionnaires et inscrites au bilan de la société.
-
-2. L'application des dispositions du 1 est subordonnée aux deux conditions suivantes :
-
-1o Que la constitution de la société ou l'augmentation de capital ait été agréée par arrêté du ministre de l'économie et des
-finances, pris après avis du conseil de direction du fonds de développement économique et social;
-
-2o Que l'ensemble des actions de la société ait été introduit à une cote d'agents de change avant l'expiration d'un délai de
-trois ans à compter de l'augmentation de son capital, en ce qui concerne les sociétés qui ont procédé à l'augmentation de
-leur capital plus de trois ans après leur constitution, ou d'un délai de six ans à compter de sa constitution [*point de
-départ*], en ce qui concerne les sociétés qui se sont constituées et les sociétés qui ont procédé à une augmentation de leur
-capital moins de trois ans après leur constitution. Cette deuxième condition n'est pas suspensive. Si elle n'est pas
-réalisée, la société se trouvera déchue du bénéfice des dispositions prévues au 1 à compter du jour où elle en aura profité.
-
-3. En ce qui concerne les augmentations de capital en numéraire, l'opération est considérée comme réalisée au sens du 1, à la
-date de la signature de la déclaration notariée de souscription et de versement prévue à l'article 78 de la loi no 66-537 du
-24 juillet 1966.
-
-**Nota:**
-
-[*Nota - L'article 25 de la loi n° 88-70 du 22 janvier 1988 dispose que dans tous les textes législatifs et réglementaires en
-vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" et "chambre syndicale des agents de change" par
-"Conseil des bourses de valeurs"*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°57-967 1957-08-29
-	  - Loi n°66-537 1966-07-24 ART. 78
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
-
-
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES
 
 #### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*
@@ -20940,482 +21195,7 @@ longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins u
 	  - Décret n°82-881 1982-10-15
 
 
-### DROITS DE TIMBRE.
-
-#### IMPOT SUR LES OPERATIONS DE BOURSE.
-
-###### Article 305
-
-Les déclarations prescrites par l'article 982 du code général des impôts sont faites sur un registre spécial, tant au service
-des impôts du siège de l'établissement principal des assujettis qu'au bureau du siège de chacune des agences et succursales
-qu'ils possèdent.
-
-Les déclarations qui sont faites au siège de l'établissement principal sont signées par le chef de l'établissement ou en
-vertu de sa procuration. S'il s'agit d'une société, elles sont signées par ses représentants légaux ou en vertu de leur
-procuration. Elles font connaître, s'il y a lieu, les noms des associés solidairement responsables, et rappellent le titre
-constitutif de la société. Elles contiennent la désignation de chacune des agences et succursales.
-
-Les déclarations qui sont faites au siège des agences et succursales contiennent la désignation de l'établissement principal.
-
-En cas de changement de siège, soit de l'établissement principal, soit d'une agence ou succursale, de même qu'en cas de
-création d'une agence ou succursale nouvelle, des déclarations préalables en sont faites par les assujettis aux services des
-impôts et dans les formes ci-dessus déterminées.
-
-Les nominations d'agents de change sont consignées au registre prévu au présent article. Cette mention équivaut, en ce qui
-les concerne, à la déclaration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 982
-
-	**Anciens textes**:
-
-	  - CGIAN1 239
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
-###### Article 305 A
-
-Le répertoire, dont la tenue est prescrite également par l'article 982 du code général des impôts et dont le modèle est donné
-ci-après (modèle A), présente, pour chaque opération, dans des colonnes distinctes, les indications ci-après :
-
-1° Numéro d'ordre;
-
-2° Date de l'opération;
-
-3° Nom du donneur d'ordre;
-
-4° Catégorie à laquelle appartient l'opération, savoir :
-
-- achat ou vente au comptant,     - achat ou vente à terme ferme,     - achat ou vente à prime,     - report,     - opération
-d'ordre ayant pour objet de compenser entre elles, au point de vue du règlement des comptes, deux ou plusieurs opérations
-antérieures ;
-
-5° Lorsqu'il s'agit d'une opération à terme, date de l'échéance ;
-
-6° Nature des titres ;
-
-7° Nombre ou montant des titres ;
-
-8° Taux de l'opération ;
-
-9° Valeur totale des titres sur lesquels a porté l'opération ;
-
-10° Valeur totale des titres, déduction faite des versements restant à effectuer sur les titres non entièrement libérés ;
-
-11° S'il y a lieu, soit le nom de l'agent de change qui a concouru à l'opération, soit le nom et le domicile du mandataire
-substitué par l'intermédiaire duquel l'opération a été faite, soit le nom et le domicile de la personne qui en a fait la
-contrepartie, lorsque ces deux derniers sont au nombre des personnes désignées dans l'article 982 du code général des
-impôts ;
-
-12° Montant du droit afférent à l'opération, sauf en ce qui concerne :
-
-a  Les opérations à prime;
-
-b  Les opérations d'ordre prévues au 4°;
-
-c  Les opérations qui donnent lieu à la désignation de l'agent de change qui a effectué l'opération ou du mandataire
-substitué.
-
-MODELE DE REPERTOIRE (Modèle A) ------------------------------------------------------------ : NUMERO  : DATE de     : NOM
-du  : NATURE de   :          :
-
-<table>
-  <tbody><tr>
-    <td> : D'ORDRE : l'opération : donneur : l'opération : ECHEANCE :</td>
-  </tr>
-  <tr>
-    <td> :         :             : d'ordre :    (1)      :          :</td>
-  </tr>
-  <tr>
-    <td> :    1    :      2      :    3    :     4       :    5     :</td>
-  </tr>
-  <tr>
-    <td> :---------:-------------:---------:-------------:----------:</td>
-  </tr>
-  <tr>
-    <td> :         :             :         :             :          :</td>
-  </tr>
-  <tr>
-    <td> :         :             :         :             :          :</td>
-  </tr>
-  <tr>
-    <td> :         :             :         :             :          :</td>
-  </tr>
-  <tr>
-    <td> :         :             :         :             :          :</td>
-  </tr>
-</tbody></table>
-
------------------------------------------------------------- : (1) Achat au comptant, ou vente au comptant, ou achat à  :
-
-<table>
-  <tbody><tr>
-    <td> : terme ferme, ou vente à terme ferme, ou achat à prime,   :</td>
-  </tr>
-  <tr>
-    <td> : ou vente à prime, ou report, ou achat-compensation, ou   :</td>
-  </tr>
-  <tr>
-    <td> : vente-compensation.                                      :</td>
-  </tr>
-</tbody></table>
-
-------------------------------------------------------------
-
-MODELE DE REPERTOIRE (Modèle A) ------------------------------------------------- : NATURE  : NOMBRE ou   : TAUX de     :
-VALEUR  :
-
-<table>
-  <tbody><tr>
-    <td> :   des   : montant des : l'opération : des     :</td>
-  </tr>
-  <tr>
-    <td> : titres  :   titres    :             :  titres :</td>
-  </tr>
-  <tr>
-    <td> :    6    :      7      :      8      :    9    :</td>
-  </tr>
-  <tr>
-    <td> :---------:-------------:-------------:---------:</td>
-  </tr>
-  <tr>
-    <td> :         :             :             :         :</td>
-  </tr>
-  <tr>
-    <td> :         :             :             :         :</td>
-  </tr>
-  <tr>
-    <td> :         :             :             :         :</td>
-  </tr>
-  <tr>
-    <td> :         :             :             :         :</td>
-  </tr>
-  <tr>
-    <td> :         :             :             :         :</td>
-  </tr>
-  <tr>
-    <td> :         :             :             :         :</td>
-  </tr>
-  <tr>
-    <td> :         :             :             :         :</td>
-  </tr>
-  <tr>
-    <td> :         :             :             :         :</td>
-  </tr>
-</tbody></table>
-
--------------------------------------------------
-
-MODELE DE REPERTOIRE (Modèle A) :-------------------------------------------:
-
-<table>
-  <tbody><tr>
-    <td> : VALEUR     :  NOM           :             :</td>
-  </tr>
-  <tr>
-    <td> :   des      : ou de l'agent  :             :</td>
-  </tr>
-  <tr>
-    <td> : titres     : de change      :   MONTANT   :</td>
-  </tr>
-  <tr>
-    <td> : déduction  :  ou du         :             :</td>
-  </tr>
-  <tr>
-    <td> : faite du   : mandataire     :     du      :</td>
-  </tr>
-  <tr>
-    <td> : non-libéré :  substitué     :             :</td>
-  </tr>
-  <tr>
-    <td> :            :  ou de la      :   droit     :</td>
-  </tr>
-  <tr>
-    <td> :            : personne qui   :             :</td>
-  </tr>
-  <tr>
-    <td> :            : a fait la      :             :</td>
-  </tr>
-  <tr>
-    <td> :            : contrepartie   :             :</td>
-  </tr>
-  <tr>
-    <td> :            : de l'opération :             :</td>
-  </tr>
-  <tr>
-    <td> :   10       :       11       :      12     :</td>
-  </tr>
-  <tr>
-    <td> :------------:----------------:-------------:</td>
-  </tr>
-  <tr>
-    <td> :            :                :             :</td>
-  </tr>
-  <tr>
-    <td> :            :                :             :</td>
-  </tr>
-  <tr>
-    <td> :  a         :                :             :</td>
-  </tr>
-  <tr>
-    <td> :            :                :             :</td>
-  </tr>
-  <tr>
-    <td> :            :                :             :</td>
-  </tr>
-  <tr>
-    <td> :            :                :             :</td>
-  </tr>
-</tbody></table>
-
----------------------------------------------
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 982
-
-	**Anciens textes**:
-
-	  - CGIAN1 240
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
-###### Article 305 C
-
-Les extraits du répertoire prévus à l'article 983 du code général des impôts et dont le modèle est donné ci-après (modèle B)
-sont établis le 10 et le 25 de chaque mois. Ils sont certifiés par le débiteur et comprennent, dans l'ordre des numéros,
-toutes les opérations portées au répertoire entre ces deux dates. N'y sont toutefois portées que pour mémoire les opérations
-au comptant ayant moins de dix jours de date et les opérations à terme dont l'échéance ne serait pas survenue depuis dix
-jours au moins.
-
-Les opérations qui ne figurent sur l'extrait que pour mémoire, aux termes de la disposition qui précède, sont reprises en
-tête de l'extrait suivant.
-
-MODELE D'EXTRAIT (Modèle B) ------------------------------------------------------------------- :              MENTIONS
-OBLIGATOIRES                              :
-
-<table>
-  <tbody><tr>
-    <td> :-----------------------------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> : NUMERO     :  DATE       :  NATURE     :          :  MONTANT    :</td>
-  </tr>
-  <tr>
-    <td> :   du       :   de        :   de        : ECHEANCE :    de       :</td>
-  </tr>
-  <tr>
-    <td> : répertoire : l'opération : l'opération :          : l'opération :</td>
-  </tr>
-  <tr>
-    <td> :            :             :    (1)      :          :     (2)     :</td>
-  </tr>
-  <tr>
-    <td> :    1       :      2      :     3       :     4    :      5      :</td>
-  </tr>
-  <tr>
-    <td> :------------:-------------:-------------:----------:-------------:</td>
-  </tr>
-  <tr>
-    <td> :            :             :             :          :             :</td>
-  </tr>
-  <tr>
-    <td> :            :             :             :          :             :</td>
-  </tr>
-  <tr>
-    <td> :            :             :             :          :             :</td>
-  </tr>
-  <tr>
-    <td> :            :             :             :          :             :</td>
-  </tr>
-  <tr>
-    <td> :            :             :             :          :             :</td>
-  </tr>
-  <tr>
-    <td> :            :             :             :          :             :</td>
-  </tr>
-  <tr>
-    <td> :            :             :             :          :-------------:</td>
-  </tr>
-  <tr>
-    <td> :           TOTAL DES OPERATIONS ...                :             :</td>
-  </tr>
-</tbody></table>
-
-------------------------------------------------------------------:
-
-<table>
-  <tbody><tr>
-    <td> : (1) Opérations au comptant, ou opérations à terme, ou prime     :</td>
-  </tr>
-  <tr>
-    <td> :     abandonnée, ou report, ou compensation.                     :</td>
-  </tr>
-  <tr>
-    <td> : (2) Valeur des titres, déduction faite du non-libéré, ou valeur :</td>
-  </tr>
-  <tr>
-    <td> :     des primes abandonnées.                                     :</td>
-  </tr>
-</tbody></table>
-
--------------------------------------------------------------------
-
-MODELE D'EXTRAIT (MODELE B) -------------------------------------------------------------------- :   DESIGNATION
-(3)                 :  NUMERO        :  MONTANT    :
-
-<table>
-  <tbody><tr>
-    <td> :    ou de l'agent de change        : au répertoire  :             :</td>
-  </tr>
-  <tr>
-    <td> : ou du mandataire substitué        :      des       :     du      :</td>
-  </tr>
-  <tr>
-    <td> : ou de la personne qui a fait      :  opérations    :             :</td>
-  </tr>
-  <tr>
-    <td> : la contrepartie de l'opération    : compensées     :   droit     :</td>
-  </tr>
-  <tr>
-    <td> :             6                     :      7         :      8      :</td>
-  </tr>
-  <tr>
-    <td> :-----------------------------------:----------------:-------------:</td>
-  </tr>
-  <tr>
-    <td> :                                   :                :             :</td>
-  </tr>
-  <tr>
-    <td> :                                   :                :             :</td>
-  </tr>
-  <tr>
-    <td> :                                   :                :             :</td>
-  </tr>
-  <tr>
-    <td> :                                   :                :             :</td>
-  </tr>
-  <tr>
-    <td> :                                   :                :             :</td>
-  </tr>
-  <tr>
-    <td> :                                   :                :-------------:</td>
-  </tr>
-  <tr>
-    <td> :                 TOTAL DES DROITS ...               :             :</td>
-  </tr>
-  <tr>
-    <td> :------------------------------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> : (3) Avec numéros de bordereau ou de répertoire.                  :</td>
-  </tr>
-</tbody></table>
-
---------------------------------------------------------------------
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 983
-
-	**Anciens textes**:
-
-	  - CGIAN1 242
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 121 KN (P)
-
-
-###### Article 305 F
-
-Les extraits du répertoire sont produits :
-
-1° Entre le 10 et le 15;
-
-2° Entre le 25 et le dernier jour de chaque mois.
-
-Le dépôt des extraits est accompagné de la consignation des droits, calculés sur le pied de 6 p. 1.000 du montant des
-opérations qui y sont portées, si le redevable ne préfère produire des extraits comportant la perception immédiate des
-droits, c'est-à-dire présentant, pour chaque opération, le décompte des droits, accompagné, le cas échéant, de l'indication
-soit du nom de l'agent de change qui a concouru à l'opération, ainsi que de la date et du numéro du bordereau qu'il en a
-délivré, soit du nom et du domicile du mandataire substitué, par l'intermédiaire duquel l'opération a été faite, ainsi que de
-la date et du numéro sous lesquels l'opération figure au répertoire de ce dernier, soit du nom et du domicile de la personne
-qui a fait la contrepartie de l'opération, ainsi que de la date et du numéro sous lesquels l'opération figure à son
-répertoire, soit, en ce qui concerne les opérations d'ordre prévues à l'article 305 A, des numéros sous lesquels figurent au
-répertoire les opérations qu'il s'agit de compenser.
-
-Les versements afférents aux opérations fermes qui porteraient sur des valeurs cotées à terme à la bourse de la place sur
-laquelle l'assujetti exerce son industrie et qui figureraient à l'extrait pour une échéance plus éloignée que celle qui est
-prévue, pour ces valeurs, par les réglements des agents de change de ladite place, doivent, si ces opérations ne sont
-appuyées d'un bordereau d'agent de change certifiant la date de l'échéance, être effectués sur le pied d'un bordereau pour
-chacune des échéances prévues par les règlements ci-dessus mentionnés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 245
-
-	**Cite**:
-
-	  - CGIAN2 305 A
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
-
-### IMPOSITIONS COMMUNALES
-
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES.
-
-###### Article 310 HC
-
-Pour la détermination de la base d'imposition de la taxe professionnelle, l'imposition des recettes concerne notamment :
-
-- les titulaires de bénéfices non commerciaux [*BNC*] même lorsqu'ils ont opté, au regard de l'impôt sur le revenu, pour le
-régime fiscal des salariés;
-
-- les personnes qui, à titre habituel, donnent des conseils et servent d'intermédiaires pour la gestion ou le règlement
-d'intérêts privés;
-
-- les commissionnaires, les courtiers, les intermédiaires pour l'achat, la souscription ou la vente d'immeubles, de fonds de
-commerce, d'actions ou parts de sociétés immobilières, ainsi que les agents de change et remisiers.
-
-**Nota:**
-
-[*Nota - L'article 25 de la loi n° 88-70 du 22 janvier 1988 dispose que dans tous les textes législatifs et réglementaires en
-vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" et "chambre syndicale des agents de change" par
-"Conseil des bourses de valeurs"*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-	  - HISTO: EDITION 1979-07-01
-	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
-
 
 ### IMPOSITIONS REGIONALES
 
