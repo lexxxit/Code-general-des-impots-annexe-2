@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1981-12-16
+Version Consolidée au 1981-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2631,6 +2631,188 @@ ne répondent pas aux conditions du 5° du 1 de l'article 39 du code général d
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 39 (V)
+
+
+##### Section I bis : Bénéfices réalisés par l'intermédiaire de sociétés établies dans des pays à régime fiscal privilégié
+
+###### Article 102 S
+
+Les droits détenus indirectement par l'entreprise visée à l'article 209 B-I du code général des impôts s'entendent des droits
+détenus par l'intermédiaire d'une chaîne de participations. L'appréciation du pourcentage des droits ainsi détenus s'opère en
+multipliant entre eux les taux de participation successifs.
+
+Les droits détenus indirectement comprennent également ceux détenus par les personnes physiques ou morales qui ont avec
+l'entreprise des liens de nature à établir une véritable communauté d'intérêts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 B I
+	  - Décret n°81-1173 1981-12-31
+
+	**Créé par**:
+
+	  - Décret n°81-1173 du 30 décembre 1981 - art. 1 (V) JORF 31 décembre 1981
+
+	**Abrogé par**:
+
+	  - Loi - art. 107 () JORF 31 décembre 1993
+	  - Décret n°94-282 du 5 avril 1994 - art. 1 () JORF 12 avril 1994
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+
+###### Article 102 T
+
+L'entreprise est soumise à l'impôt sur les sociétés [*IS*] sur les résultats bénéficiaires de la société établie hors de
+France [*à l'étranger*] dans la proportion des droits sociaux détenus directement et indirectement, à l'exclusion des droits
+indirectement détenus par l'intermédiaire d'autres entreprises assujetties à l'impôt sur les sociétés en France, au titre de
+l'article 209 B du code général des impôts et à raison des mêmes bénéfices.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 B
+	  - Décret n°81-1173 1981-12-31
+
+	**Créé par**:
+
+	  - Décret n°81-1173 du 30 décembre 1981 - art. 2 (V) JORF 31 DECEMBRE 1981
+
+
+###### Article 102 U
+
+I. Au titre de la première période d'imposition pour laquelle le régime défini à l'article 209 B du code général des impôts
+est applicable, l'entreprise doit établir un bilan de départ pour chacune des sociétés établies hors de France [*à
+l'étranger*] visées audit article. L'actif net de ce bilan sert de base à la détermination des résultats de ces sociétés.
+
+II. Les éléments figurant au bilan de départ doivent être retenus [*évaluation*] pour la valeur comptable résiduelle qu'ils
+comportaient au regard de la législation fiscale du pays ou territoire concerné à la date d'ouverture de la première période
+d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 B
+	  - Décret n°81-1173 1981-12-31
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 V (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 Z (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°81-1173 du 30 décembre 1981 - art. 3 (V) JORF 31 DECEMBRE 1981
+
+
+###### Article 102 V
+
+Les résultats de chacune des sociétés établies hors de France [*à l'étranger*] sont déterminés selon les règles fixées par le
+code général des impôts à partir du bilan de départ établi dans les conditions fixées à l'article 102 U. Ils sont convertis
+en francs français sur la base du taux de change en vigueur à la clôture de l'exercice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 102 U
+	  - Décret n°81-1173 1981-12-31
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°81-1173 du 30 décembre 1981 - art. 4 (V) JORF 31 DECEMBRE 1981
+
+
+###### Article 102 W
+
+Les montants d'impôts étrangers imputables sur le montant de l'impôt sur les sociétés dont l'entreprise française est
+redevable au titre des bénéfices d'une ou plusieurs sociétés établies hors de France sont convertis en francs français sur la
+base du taux de change en vigueur à la date de clôture de l'exercice de la ou des sociétés établies hors de France. Il
+incombe à l'entreprise française d'apporter la preuve de leur paiement effectif [*charge de la preuve*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 ZB (V)
+
+	**Cite**:
+
+	  - Décret n°81-1173 1981-12-31
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°81-1173 du 30 décembre 1981 - art. 5 (V) JORF 31 DECEMBRE 1981
+
+
+###### Article 102 X
+
+Les prélèvements effectués conformément aux conventions fiscales internationales sur les distributions à l'entreprise
+française de bénéfices ayant fait l'objet d'une imposition en vertu de l'article 209 B du code général des impôts sont
+également imputables sur le montant de l'impôt sur les sociétés [*IS*] dû au titre de cette imposition.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 B
+	  - Décret n°81-1173 1981-12-31
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 ZB (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°81-1173 du 30 décembre 1981 - art. 6 (V) JORF 31 DECEMBRE 1981
+
+
+###### Article 102 Y
+
+Dans la limite de la quote-part des bénéfices des sociétés établies hors de France sur laquelle elle a été soumise à
+l'imposition prévue à l'article 209 B du code général des impôts, l'entreprise française retranche de son bénéfice net total
+les dividendes et produits de participation reçus de ces sociétés.
+
+A cette fin, elle tient un compte séparé pour chaque société établie hors de France [*à l'étranger*] faisant apparaître le
+montant cumulé des bénéfices soumis à l'impôt sur les sociétés [*IS*] et des distributions reçues de ladite société
+postérieurement à la première application de l'article 209 B du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 B
+	  - Décret n°81-1173 1981-12-31
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°81-1173 du 30 décembre 1981 - art. 7 (V) JORF 31 DECEMBRE 1981
 
 
 ##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger
@@ -13085,6 +13267,65 @@ concurrence de l'impôt qui frapperait isolément des exploitations situées dan
 	  - Décret n°88-1052 du 18 novembre 1988 - art. 1 (V) JORF 22 novembre 1988
 
 
+#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES
+
+##### BENEFICES REALISES PAR L'INTERMEDIAIRE DE SOCIETES ETABLIES DANS DES PAYS A REGIME FISCAL PRIVILEGIE *PARADIS FISCAL* (*).
+
+###### Article 102 Z
+
+I. Les entreprises qui entrent dans le champ d'application de l'article 209 B du code général des impôts doivent produire,
+dans le même délai que la déclaration de leurs résultats, une déclaration [*formalité obligatoire*] comportant les
+renseignements et documents suivants [*mentions*] :
+
+a. Le nom ou la raison sociale ainsi que l'adresse du siège social des sociétés établies dans un Etat étranger ou un
+territoire situé hors de France dont le régime fiscal est privilégié et dans lesquelles elles détenaient, directement ou
+indirectement, à la clôture de l'exercice de ces sociétés, 25 % au moins des actions ou parts [*pourcentage minimal de
+participation*] ;
+
+b. Pour chacune des sociétés concernées, l'ensemble des documents qui sont exigés des sociétés passibles de l'impôt sur les
+sociétés [*IS*] y compris le bilan et le compte de résultats établis suivant les règles fixées par les articles 102 U et 102
+V ;
+
+c. Un état faisant apparaître de manière détaillée les résultats établis suivant les règles fixées par le code général des
+impôts ;
+
+d. Le bilan et le compte de résultats de chacune des sociétés fournis aux administrations fiscales des pays où elles sont
+situées, dans tous les cas où ces administrations exigent le dépôt de tels documents ;
+
+e. Un état faisant apparaître le montant des prélèvements imputables sur l'impôt sur les sociétés dû par l'entreprise
+française ;
+
+f. Un état faisant apparaître le montant cumulé des bénéfices ayant fait l'objet d'une imposition séparée et le montant
+cumulé des distributions reçues des sociétés établies hors de France.
+
+II. Toutefois, les entreprises qui estiment relever des dispositions de l'article 209 B-II du code général des impôts peuvent
+se limiter à indiquer dans leur déclaration la liste de leurs participations mentionnée au a du I. La production de cette
+liste vaut indication expresse au sens du deuxième alinéa de l'article 1728 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1728 AL. 2
+	  - CGI 209 B II
+	  - CGIAN2 102 U
+	  - CGIAN2 102 V
+	  - Décret n°81-1173 1981-12-31
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°81-1173 du 30 décembre 1981 - art. 8 (V) JORF 31 DECEMBRE 1981
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 ZA (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
+
+
 #### TAXE D'APPRENTISSAGE.
 
 ###### Article 140 A
@@ -13766,6 +14007,24 @@ code général des impôts et, dans le second cas, de celles qui sont prévues a
 
 
 #### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*.
+
+###### Article 171 Q
+
+La date de réalisation des investissements [*définition*] donnant droit à la déduction fiscale de 10 % prévue à l'article 244
+undecies du code général des impôts s'entend, pour les biens achetés, de la date à laquelle l'entreprise en est devenue
+propriétaire ou, en cas de réserve de propriété au profit du fournisseur, de la date de livraison du bien. Pour les biens
+créés par l'entreprise, la date de réalisation est celle à laquelle leur fabrication est achevée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies
+
+	**Créé par**:
+
+	  - Décret n°81-17 du 10 janvier 1981 - art. 1 (V) JORF 11 JANVIER 1981
+
 
 ###### Article 171 V
 
