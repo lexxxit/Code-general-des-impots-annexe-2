@@ -1,21 +1,19 @@
 # Article 275 bis J
 
-Le fabricant habilité, en la personne du responsable de la production, prélève, d'une manière aléatoire, des échantillons
-dans tous les lots d'ouvrages produits selon un plan d'échantillonnage défini dans la convention. Ces échantillons sont tenus
-à la disposition des agents de l'administration durant un délai fixé dans la convention afin que soient pratiqués les essais
-et contrôles jugés nécessaires. Ces agents peuvent également prélever des échantillons à tous les stades de la fabrication
-lors de visites inopinées.
+Le professionnel habilité prélève, de manière aléatoire, des échantillons dans les lots d'ouvrages sur lesquels il appose le
+poinçon selon un plan d'échantillonnage défini dans la convention.
+
+Ces échantillons sont tenus à la disposition des agents de l'administration durant un délai fixé dans la convention
+d'habilitation afin que soient pratiqués les essais et contrôles jugés nécessaires. Ces agents peuvent également, lors de
+contrôles inopinés, prélever des échantillons sur les ouvrages en cours de fabrication ou sur les ouvrages détenus par le
+professionnel.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-212 du 21 février 1995 - art. 9 (V) JORF 28 février 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004

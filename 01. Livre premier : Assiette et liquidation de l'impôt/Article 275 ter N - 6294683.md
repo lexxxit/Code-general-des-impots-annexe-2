@@ -1,18 +1,15 @@
 # Article 275 ter N
 
-Les organismes de contrôle agréés portent sans délai à la connaissance de la direction générale des douanes et droits
-indirects toute irrégularité qui affecte la garantie publique des ouvrages en alliage d'or.
+Les organismes de contrôle agréés portent, sans délai et par tous moyens, à la connaissance de la direction régionale des
+douanes et droits indirects de rattachement dont ils dépendent toute irrégularité qui affecte la garantie des ouvrages en
+métaux précieux.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-342 du 27 mars 1995 - art. 15 (V) JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004

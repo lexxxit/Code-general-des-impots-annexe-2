@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-06-01
+Version Consolidée au 2004-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14498,9 +14498,15 @@ vigueur, au besoin après distillation ou toute opération donnant des résultat
 
 ###### Article 275 bis B
 
-Le fabricant qui souhaite être habilité à apposer lui-même les poinçons de titre de la garantie d'Etat sur les ouvrages qu'il
-produit, adresse à la direction générale des douanes et droits indirects une demande écrite accompagnée du cahier des charges
-mentionné à l'article 275 bis C.
+Les professionnels, notamment les fabricants, importateurs, acquéreurs intracommunautaires, commissaires-priseurs,
+responsables d'un crédit municipal ou d'une société de ventes volontaires de meubles aux enchères publiques et
+commissionnaires en garantie qui souhaitent être habilités à apposer eux-mêmes les poinçons de titre de la garantie sur les
+ouvrages en métaux précieux qu'ils produisent ou sur les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon
+de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace
+économique européen ou en Turquie, par un organisme indépendant selon des normes offrant des garanties suffisantes
+d'information du consommateur, qu'ils importent, introduisent en provenance d'un autre Etat membre de l'Union européenne,
+vendent ou qui leur sont confiés, doivent déposer une demande auprès de la direction régionale des douanes et droits
+indirects dont ils dépendent. Est joint à cette demande le cahier des charges mentionné à l'article 275 bis C.
 
 Lorsque le dossier de candidature est complet, le directeur régional des douanes et droits indirects en délivre récépissé. Le
 rejet de la demande d'habilitation est motivé.
@@ -14511,47 +14517,56 @@ rejet de la demande d'habilitation est motivé.
 
 	  - CGIAN2 275 bis C
 
-	**Modifié par**:
-
-	  - Décret n°97-1195 1997-12-24 art. 7 19°, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
-
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 6 (V)
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis C
 
-La convention d'habilitation ne peut être conclue entre le fabricant et l'administration que lorsque les conditions suivantes
-sont remplies :
+La convention d'habilitation est conclue avec le directeur régional des douanes et droits indirects du ressort dont relève le
+professionnel. La conclusion d'une convention d'habilitation est subordonnée aux conditions suivantes :
 
-1° Le cahier des charges présenté décrit par catégorie de produits la procédure et les méthodes de contrôle interne assurant
-en permanence le titre des alliages utilisés et des ouvrages produits. Le ministre chargé du budget arrête les spécifications
-techniques et de gestion de cette procédure ainsi que la qualification des personnels responsables de son application ;
+1° Le professionnel doit respecter un cahier des charges décrivant l'organisation de l'entreprise, la procédure et les
+méthodes de contrôle permettant de s'assurer du titre des ouvrages, les méthodes utilisées pour apposer le poinçon de
+garantie, ainsi que la qualification des personnes responsables de leur application. Un arrêté du ministre chargé du budget
+définit les spécifications techniques de ce cahier des charges ;
 
-2° Le poinçonnage est effectué dans un local présentant des mesures de sécurité adaptées au transport des ouvrages dans
-l'entreprise et à l'entreposage des marchandises avant et après apposition du poinçon de titre. Ce local dispose d'un coffre
-destiné à recevoir les poinçons de la garantie d'État fournis par l'administration.
+2° Le professionnel doit recourir à des organismes de contrôle agréés mentionnés au II de l'article 535 du code général des
+impôts ou à des organismes de contrôle indépendants établis dans d'autres Etats membres de l'Union européenne, dans d'autres
+Etats parties à l'accord instituant l'Espace économique européen ou en Turquie, offrant des garanties suffisantes
+d'information du consommateur pour contrôler le titre des ouvrages sur lesquels il entend apposer le poinçon de garantie s'il
+ne souhaite pas effectuer ce contrôle lui-même. Il doit déclarer ces organismes à la direction régionale des douanes et
+droits indirects ;
+
+3° Le professionnel doit effectuer le poinçonnage des ouvrages dans un local présentant des mesures de sécurité adaptées au
+transport des ouvrages dans l'entreprise, à leur entreposage avant et après apposition du poinçon de garantie et à la
+conservation des poinçons fournis par l'administration.
 
 L'administration peut vérifier sur pièces et sur place, dans les conditions visées à l'article L. 36 du livre des procédures
-fiscales, la capacité du fabricant à respecter le cahier des charges présenté ainsi que l'existence et la sécurité du local
-de la marque.
+fiscales, la capacité du professionnel à respecter le cahier des charges présenté ainsi que l'existence et la sécurité du
+local de la marque.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°95-212 du 21 février 1995 - art. 2 (V) JORF 28 février 1995
+	  - CGI 535
+	  - CGI Livre des procédures fiscales L36
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -14562,29 +14577,24 @@ de la marque.
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L36 (M)
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis D
 
-Le fabricant habilité doit informer l'administration de tout projet de modification au sein de l'entreprise ayant une
-incidence sur les conditions d'application de la convention et portant notamment sur l'organisation de l'entreprise, la
-fabrication et le local de marque. La déclaration en est faite au plus tard quarante jours avant la date envisagée pour sa
-mise en oeuvre.
+Le professionnel habilité doit informer la direction régionale des douanes et droits indirects dont il dépend de toute
+modification des conditions auxquelles était subordonnée la conclusion de la convention. La déclaration en est faite au plus
+tard quarante jours avant la date envisagée pour sa mise en oeuvre.
 
 Le directeur régional des douanes et droits indirects dispose d'un délai de trente jours à compter de la réception de l'avis
-du fabricant pour lui faire connaître son agrément ou son opposition à la modification projetée. Il peut, le cas échéant,
+du professionnel pour lui faire connaître son agrément ou son opposition à la modification projetée. Il peut, le cas échéant,
 proposer un avenant à la convention.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°97-1195 1997-12-24 art. 7 20°, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -14592,50 +14602,64 @@ proposer un avenant à la convention.
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis E
 
-Le fabricant habilité est tenu d'informer l'administration dans les meilleurs délais de toute difficulté ou incident pouvant
-affecter le titre des ouvrages, survenu dans la fabrication, ainsi que les mesures prises pour y remédier. Les ouvrages
-produits à l'occasion de ces incidents sont portés au bureau de garantie pour y être essayés et marqués. Il en est de même de
-tout ouvrage fabriqué selon des méthodes différentes de celles prévues par la convention.
+Le professionnel habilité est tenu d'informer la direction régionale des douanes et droits indirects dont il dépend, par tous
+moyens et dans les meilleurs délais, de toute difficulté ou incident pouvant affecter le titre des ouvrages produits,
+importés, introduits en provenance d'un autre Etat membre de l'Union européenne, d'un autre Etat partie à l'accord instituant
+l'Espace économique européen ou de Turquie, vendus ou confiés, ainsi que les mesures prises pour y remédier. Les ouvrages
+dont le titre est affecté sont portés à un organisme de contrôle agréé mentionné au II de l'article 535 du code général des
+impôts ou au bureau de garantie pour y être essayés et marqués. Il en est de même de tout ouvrage fabriqué selon des méthodes
+différentes de celles prévues par la convention d'habilitation.
 
-Le fabricant habilité informe par écrit et dans les meilleurs délais l'administration de tout événement ayant une incidence
-sur l'application de la convention.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°95-212 du 21 février 1995 - art. 4 (V) JORF 28 février 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-
-###### Article 275 bis F
-
-Les fabricants habilités utilisent les poinçons de la garantie d'Etat fabriqués par la direction des monnaies et médailles en
-application de l'article 186 de l'annexe III au code général des impôts, sauf autorisation spéciale de marquage par d'autres
-méthodes délivrée par le directeur régional des douanes et droits indirects aux conditions qu'il détermine. Ils leur sont
-remis par la direction nationale de la garantie et des services industriels.
+Le professionnel habilité informe par écrit et dans les meilleurs délais l'administration de tout événement ayant une
+incidence sur l'application de la convention.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 535
+
+	**Modifié par**:
+
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 275 bis F
+
+Le professionnel habilité utilise les poinçons de garantie fabriqués par la direction des Monnaies et médailles en
+application de l'article 186 de l'annexe III au code général des impôts, sauf autorisation spéciale de marquage par d'autres
+méthodes délivrée par le directeur régional des douanes et droits indirects aux conditions qu'il détermine. Ils lui sont
+remis par la direction régionale des douanes et droits indirects de rattachement ou la direction des Monnaies et médailles.
+
+Il s'assure du bon état des poinçons dont il a la charge et contrôle qu'ils ne sortent pas du local utilisé pour le
+poinçonnage des ouvrages. Il remet à la direction régionale des douanes et droits indirects dont il dépend les poinçons usés
+ou les renvoie à la direction des Monnaies et médailles, après en avoir informé l'administration des douanes.
+
+Toute disparition de ces poinçons doit être signalée immédiatement à la direction régionale des douanes et droits indirects
+dont le professionnel dépend qui procède à une enquête. Pendant la durée de l'enquête, l'application de la convention est
+suspendue. Il appartient, pendant ce délai, au professionnel de faire apposer le poinçon de garantie par un bureau de
+garantie ou un organisme de contrôle agréé mentionné à l'article 548 du code général des impôts. Si la responsabilité du
+professionnel est établie à l'issue de cette enquête, la convention est résiliée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 548
 	  - CGIAN3 186
 
 	**Modifié par**:
 
-	  - Décret n°97-1195 1997-12-24 art. 7 21°, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -14647,36 +14671,31 @@ remis par la direction nationale de la garantie et des services industriels.
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis G
 
-Le fabricant habilité établit et tient à jour une liste des personnes ayant accès au local de la marque. Il informe
-l'administration de tout changement. Le responsable du poinçonnage, nommément désigné par l'organe dirigeant de l'entreprise,
-est chargé de la gestion et de la manipulation des poinçons. Il assure également la commande des poinçons neufs et l'échange
-des poinçons usagés. Il a seul accès au coffre contenant les poinçons. La convention peut prévoir, pour les entreprises dont
-la dimension le justifie, la désignation de plusieurs responsables du poinçonnage.
+Le professionnel habilité établit et tient à jour une liste des personnes désignées pour le marquage des ouvrages. Il informe
+la direction régionale des douanes et droits indirects dont il dépend de tout changement. Il désigne un ou, si la dimension
+de l'entreprise le justifie, plusieurs responsables chargés de la gestion et de la manipulation des poinçons.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-212 du 21 février 1995 - art. 6 (V) JORF 28 février 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis H
 
-Lorsque les ouvrages sont dispensés du poinçon de garantie en application des b et c de l'article 524 bis du code général des
-impôts, ils sont accompagnés d'un document descriptif, à en-tête du fabricant, mentionnant le métal et le titre.
+Lorsque les ouvrages sont dispensés du poinçon de garantie en application des a, b  et c  de l'article 524 bis  du code
+général des impôts, ils sont accompagnés d'un document descriptif, à en-tête du professionnel mentionnant le métal et le
+titre.
 
 **Liens relatifs à cet article**
 
@@ -14684,74 +14703,68 @@ impôts, ils sont accompagnés d'un document descriptif, à en-tête du fabrican
 
 	  - CGI 524 bis
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-212 du 21 février 1995 - art. 7 (V) JORF 28 février 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis I
 
-Le fabricant habilité tient une comptabilité des ouvrages produits et marqués et adresse mensuellement un relevé de sa
-production à l'administration.
+Le professionnel habilité tient une comptabilité des ouvrages produits, importés, introduits en provenance d'un autre Etat
+membre de l'Union européenne, vendus ou confiés. Il adresse à la direction régionale des douanes et droits indirects dont il
+dépend, selon une périodicité fixée dans la convention et au moins une fois par an, un état comportant le nombre des ouvrages
+essayés, le nombre des ouvrages marqués par type de métal et le nombre des ouvrages reconnus aux titres non légaux. Ces
+éléments d'information sont tenus à jour en permanence et doivent être accessibles à l'administration qui peut les consulter
+à tout moment.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-212 du 21 février 1995 - art. 8 (V) JORF 28 février 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis J
 
-Le fabricant habilité, en la personne du responsable de la production, prélève, d'une manière aléatoire, des échantillons
-dans tous les lots d'ouvrages produits selon un plan d'échantillonnage défini dans la convention. Ces échantillons sont tenus
-à la disposition des agents de l'administration durant un délai fixé dans la convention afin que soient pratiqués les essais
-et contrôles jugés nécessaires. Ces agents peuvent également prélever des échantillons à tous les stades de la fabrication
-lors de visites inopinées.
+Le professionnel habilité prélève, de manière aléatoire, des échantillons dans les lots d'ouvrages sur lesquels il appose le
+poinçon selon un plan d'échantillonnage défini dans la convention.
+
+Ces échantillons sont tenus à la disposition des agents de l'administration durant un délai fixé dans la convention
+d'habilitation afin que soient pratiqués les essais et contrôles jugés nécessaires. Ces agents peuvent également, lors de
+contrôles inopinés, prélever des échantillons sur les ouvrages en cours de fabrication ou sur les ouvrages détenus par le
+professionnel.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-212 du 21 février 1995 - art. 9 (V) JORF 28 février 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis K
 
-La convention peut être résiliée à tout moment par le directeur régional des douanes et droits indirects en cas de manquement
-par le fabricant habilité aux engagements souscrits ou aux obligations résultant des articles 275 bis B à 275 bis L ou en cas
-de disparition d'un ou plusieurs poinçons de titre.
+Il est mis fin à la convention d'habilitation à la demande du professionnel sous réserve de respecter un préavis d'un mois à
+compter de la réception de l'avis par le directeur régional des douanes et droits indirects.
 
-Sans préjudice des dispositions du premier alinéa, il peut être mis fin à la convention par le fabricant ou le directeur
-régional des douanes et droits indirects sous réserve de respecter un préavis de trois mois à compter de l'envoi de l'avis à
-l'autre partie.
-
-Le fabricant habilité remet alors immédiatement les poinçons de titre qu'il détient à l'administration, sur simple demande de
-celle-ci.
+Le directeur régional des douanes et droits indirects peut résilier d'office la convention d'habilitation si le professionnel
+ne remplit plus les conditions auxquelles était subordonnée sa conclusion ou s'il a manqué aux obligations résultant des
+articles 275 bis B à 275 bis L. Le professionnel est préalablement informé des motifs susceptibles d'entraîner la résiliation
+de la convention et est mis à même de présenter ses observations dans un délai de quinze jours. La décision de résiliation
+est motivée. La résiliation prend effet à l'expiration d'un délai d'un mois à compter de la notification de la décision de
+résiliation. A l'expiration de ce délai, le professionnel remet immédiatement les poinçons de titre qu'il détient à
+l'administration et ne peut plus apposer le poinçon de garantie sur les ouvrages qu'il détient.
 
 **Liens relatifs à cet article**
 
@@ -14761,7 +14774,7 @@ celle-ci.
 
 	**Modifié par**:
 
-	  - Décret n°97-1195 1997-12-24 art. 7 22, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -14769,7 +14782,7 @@ celle-ci.
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis L
@@ -14795,55 +14808,52 @@ Les conventions sont passées pour un an et renouvelables par tacite reconductio
 
 ###### Article 275 ter
 
-Les organismes de contrôle agréés prévus à l'article 530 bis du code général des impôts ont en France leur siège social,
-s'ils ont la forme de personnes morales, et leur établissement, s'ils sont des personnes physiques. Ils y disposent des
-moyens d'exécution des opérations de contrôle préalables à la délivrance de la garantie publique. Ils sont en mesure d'agir
-sur tout le territoire national. Ils ne peuvent sous-traiter d'activité à l'étranger.
+Les organismes de contrôle mentionnés au II de l'article 535 du code général des impôts doivent obtenir un agrément pour
+pouvoir apposer le poinçon de garantie français sur les ouvrages en métaux précieux dépourvus d'un tel poinçon ou d'un
+poinçon de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant
+l'Espace économique européen ou en Turquie, par un organisme indépendant selon des normes offrant des garanties suffisantes
+d'information du consommateur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°95-342 du 27 mars 1995 - art. 1 (V) JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - CGI 535
 
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 6 (V)
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 530 bis
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 ter A
 
-Les organismes de contrôle et leurs dirigeants doivent notamment présenter toutes garanties d'indépendance juridique,
-technique et financière vis-à-vis des fabricants et des professions liées au commerce des ouvrages contenant des métaux
-précieux. Le personnel de ces organismes doit comprendre des cadres qualifiés de laboratoire chargés des méthodes de la
-détermination du titre.
+Les organismes de contrôle agréés doivent être établis sur le territoire national. Ils doivent être à jour de leurs
+obligations fiscales et douanières. Ils doivent souscrire une assurance couvrant leur responsabilité civile professionnelle.
+Le personnel de ces organismes doit comprendre des cadres qualifiés de laboratoires chargés des méthodes de la détermination
+du titre. Ils doivent respecter les prévisions du cahier des charges mentionnées au deuxième alinéa de l'article 275 ter B.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°95-342 du 27 mars 1995 - art. 2 (V) JORF 1er avril 1995
+	  - CGI 275 ter B
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 ter B
@@ -14852,32 +14862,28 @@ La demande d'agrément en qualité d'organisme de contrôle est déposée auprè
 indirects et de la direction générale de l'industrie, des technologies de l'information et des postes qui l'instruisent
 conjointement.
 
-Est jointe à la demande une description des moyens et des méthodes de contrôle et d'essai qui seront mis en oeuvre par
-l'organisme et, notamment, des méthodes statistiques et d'évaluation périodique du système de contrôle interne de la qualité
-employées.
+Est joint à la demande un cahier des charges décrivant l'organisation de l'organisme, la procédure et les méthodes de
+contrôle et d'essai permettant de s'assurer du titre des ouvrages ainsi que les méthodes utilisées pour apposer le poinçon de
+garantie. Les spécifications techniques de ce cahier des charges sont définies par un arrêté du ministre chargé du budget.
 
 La demande doit en outre être accompagnée des documents suivants : extrait du registre du commerce et des sociétés,
-organigramme faisant apparaître les responsabilités et les structures de décision de l'organisme, ses trois derniers comptes
+organigramme faisant apparaître les responsabilités et les structures de décision de l'organisme, ses deux derniers comptes
 annuels si l'antériorité de l'organisme le permet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J terdecies (V)
 
-	**Modifié par**:
-
-	  - Décret n°98-979 1998-11-01 art. 1 JORF 3 novembre 1998
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 ter C
@@ -14885,29 +14891,25 @@ annuels si l'antériorité de l'organisme le permet.
 L'agrément est délivré par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'industrie publié au
 Journal officiel.
 
-Le retrait peut intervenir, dans les mêmes formes, à la demande de l'organisme.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-342 du 27 mars 1995 - art. 4 (V) JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 ter D
 
-En cas de violation des obligations définies aux articles 275 ter à 275 ter P, l'agrément est retiré par arrêté conjoint du
-ministre chargé du budget et du ministre chargé de l'industrie. L'arrêté est motivé et mention du retrait de l'agrément faite
-au Journal officiel. Le refus d'agrément est motivé après que l'intéressé ou son conseil a été mis à même de présenter ses
-observations dans un délai de quinze jours.
+Le retrait de l'agrément est prononcé par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'industrie
+et mentionné au Journal officiel. L'arrêté de retrait d'agrément est motivé. Le retrait peut intervenir à la demande de
+l'organisme. Il peut également être décidé d'office par l'administration si l'organisme ne remplit plus les conditions
+auxquelles était subordonné l'agrément ou s'il a manqué aux obligations résultant des articles 275 ter à 275 ter P. Dans ce
+cas, l'organisme est préalablement informé des motifs susceptibles d'entraîner le retrait de l'agrément et est mis à même de
+présenter ses observations dans un délai de trente jours.
 
 Lorsqu'un organisme ne remplit plus les conditions prévues par les articles 275 ter à 275 ter P, il est tenu de demander le
 retrait de son agrément et de cesser sans délai de délivrer la garantie.
@@ -14918,72 +14920,57 @@ retrait de son agrément et de cesser sans délai de délivrer la garantie.
 
 	  - CGIAN2 275 ter à 275 ter P
 
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 5 (V) JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-
-###### Article 275 ter E
-
-Les organismes de contrôle agréés sont placés sous le contrôle du directeur général des douanes et droits indirects et du
-directeur général des stratégies industrielles qui peuvent, l'un ou l'autre, sans délai, à titre conservatoire, suspendre
-l'agrément d'un organisme de contrôle qui ne respecte pas ses obligations. La procédure de retrait est immédiatement engagée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 6 (V) JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-
-###### Article 275 ter F
-
-La description mentionnée au deuxième alinéa de l'article 275 ter B doit être tenue à jour et mise à la disposition de
-l'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 275 ter B
-
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 7 (V) JORF 1er avril 1995
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 275 ter E
+
+Les organismes de contrôle agréés sont placés sous le contrôle du directeur général des douanes et droits indirects et du
+directeur général de l'industrie, des technologies de l'information et des postes qui peuvent, l'un ou l'autre, sans délai, à
+titre conservatoire, suspendre l'agrément d'un organisme de contrôle qui ne respecte pas ses obligations. La procédure de
+retrait est immédiatement engagée.
+
+**Nota:**
+
+NOTA : Décret 2005-52 2005-01-26 art. 7 :
+
+Dans toutes les dispositions à caractère réglementaire relatives à la sécurité industrielle ou la métrologie, les mots : "
+direction de l'action régionale et de la petite et moyenne industrie " sont remplacés par les mots : " direction de l'action
+régionale, de la qualité et de la sécurité industrielle " et les mots :
+
+" directeur de l'action régionale et de la petite et moyenne industrie " sont remplacés par les mots : " directeur de
+l'action régionale, de la qualité et de la sécurité industrielle ".
+
+Dans toutes les autres dispositions à caractère réglementaire, les mots : " direction de l'action régionale et de la petite
+et moyenne industrie " et " direction générale de l'industrie, des technologies de l'information et des postes " sont
+remplacés par les mots : " direction générale des entreprises ", et les mots : " directeur de l'action régionale et de la
+petite et moyenne industrie " et " directeur général de l'industrie, des technologies de l'information et des postes " sont
+remplacés par les mots : " directeur général des entreprises ".
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+
+	**Liens**:
+
 	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 ter G
 
-L'organisme de contrôle agréé et les fabricants qu'il habilite utilisent les poinçons de titre fournis par la direction des
-monnaies et médailles, conformément à l'article 186 de l'annexe III au code général des impôts, sauf autorisation spéciale
-délivrée par l'administration aux conditions qu'elle détermine. Les poinçons portent un signe caractéristique particulier à
-l'établissement de l'organisme qui délivre la garantie. Ce signe est enregistré auprès de la direction nationale de la
-garantie et des services industriels au moment de l'agrément de l'organisme.
+L'organisme de contrôle agréé utilise les poinçons de titre fournis par la direction des monnaies et médailles, conformément
+à l'article 186 de l'annexe III au code général des impôts, sauf autorisation spéciale délivrée par l'administration aux
+conditions qu'elle détermine. Les poinçons portent un signe caractéristique propre à l'ensemble des organismes qui délivrent
+la garantie. Ce signe est enregistré auprès de la direction régionale des douanes et droits indirects dont ils dépendent au
+moment de l'agrément de l'organisme.
 
 **Liens relatifs à cet article**
 
@@ -14991,13 +14978,9 @@ garantie et des services industriels au moment de l'agrément de l'organisme.
 
 	  - CGIAN3 186
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-342 1995-03-27 art. 8 JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -15008,236 +14991,124 @@ garantie et des services industriels au moment de l'agrément de l'organisme.
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 ter H
 
-L'organisme de contrôle agréé fournit à l'administration, dans les conditions fixées par arrêté du ministre du budget, un
-compte rendu des activités et des contrôles qu'il a exercés en application de l'article 530 bis du code général des impôts
-ainsi qu'un relevé des ouvrages contrôlés et marqués par lui ou sous sa responsabilité.
+L'organisme de contrôle agréé fournit à la direction régionale des douanes et droits indirects dont il dépend un relevé
+semestriel énonçant le nombre d'ouvrages essayés, le nombre d'ouvrages dont la garantie a été refusée par type de métal et le
+nombre d'ouvrages marqués par type de métal. Ce relevé doit distinguer les ouvrages contrôlés et marqués par lui pour le
+compte de professionnels non habilités et les ouvrages essayés et, le cas échéant, marqués pour le compte de professionnels
+habilités par une convention passée avec l'administration dans les conditions prévues à l'article 535 du code général des
+impôts. Il doit également fournir une liste mentionnant le nom et l'adresse de ses clients en distinguant les professionnels
+habilités de ceux qui ne le sont pas. Ces éléments d'information doivent être tenus à jour en permanence et doivent être
+accessibles à l'administration qui peut les consulter à tout moment.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 530 bis
+	  - CGI 535
 
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 9 (V) JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-
-###### Article 275 ter I
-
-La mise en oeuvre du système de contrôle interne de la qualité donne lieu, par le fabricant, à la rédaction de cahiers des
-charges soumis à l'approbation de l'organisme agréé, portant chacun sur une catégorie de produits identifiée. Ces cahiers des
-charges définissent les modalités de la garantie du titre au cours du processus de production et les procédures mises en
-oeuvre à l'initiative de l'organisme de contrôle agréé, en conformité avec les spécifications techniques annexées au décret
-n° 95-342 du 27 mars 1995. Ils sont tenus à la disposition de l'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°95-342 1995-03-27 annexe
-
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 10 (V) JORF 1er avril 1995
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 275 ter J
-
-Les fabricants informent l'organisme de contrôle agréé des modifications susceptibles d'affecter leur système de contrôle
-interne de la qualité. Toute modification du système de contrôle interne de la qualité d'un fabricant donne lieu à la
-rédaction d'un avenant au cahier des charges.
-
-L'organisme de contrôle agréé peut suspendre pour deux mois au plus l'habilitation donnée à un fabricant en cas de violation
-par celui-ci de ses obligations. Le poinçon de titre est alors apposé dans les conditions prévues au 2° de l'article 530 bis
-du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 530 bis
-
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 11 (V) JORF 1er avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 275 ter K
-
-L'organisme de contrôle agréé procède au moins une fois par an à l'évaluation du système de contrôle interne de la qualité
-afin de constater que le cahier des charges rédigé par le fabricant est respecté. A la suite de ces évaluations, l'organisme
-de contrôle agréé rédige un rapport qui est communiqué à ce fabricant.
-
-Il procède également, dans l'intervalle, à des visites de contrôle inopinées chez le fabricant. Ces visites donnent lieu à la
-rédaction d'un rapport qui est communiqué à ce fabricant.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 12 (V) JORF 1er avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
 	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 ter L
 
-Il est institué un comité consultatif de la garantie publique composé des représentants des organismes de contrôle agréés,
-des organisations professionnelles représentatives des fabricants, de la direction générale des douanes et droits indirects,
-de la direction générale de l'industrie, des technologies de l'information et des postes et de la direction générale de la
-concurrence, de la consommation et de la répression des fraudes. Ce comité peut être consulté par les ministres chargés du
-budget et de l'industrie sur les problèmes techniques liés au contrôle des titres et à l'apposition des poinçons de titre. Un
-arrêté conjoint de ces ministres en précise la composition et les modalités de fonctionnement.
+Il est institué un comité consultatif de la garantie composé des représentants des organismes de contrôle agréés, des
+organisations professionnelles représentatives, de la direction générale des douanes et droits indirects, de la direction
+générale de l'industrie, des technologies de l'information et des postes et de la direction générale de la concurrence, de la
+consommation et de la répression des fraudes. Ce comité peut être consulté par les ministres chargés du budget et de
+l'industrie sur les problèmes techniques liés au contrôle des titres et à l'apposition des poinçons de titre. Un arrêté
+conjoint de ces ministres en précise la composition et les modalités de fonctionnement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-41 2003-01-08 art. 1 JORF 15 janvier 2003
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 ter M
 
 Les organismes de contrôle agréés garantissent le titre des ouvrages selon les trois modalités suivantes :
 
-1° Ils apposent eux-mêmes le poinçon de titre ;
+1° Ils apposent eux-mêmes, après essais, le poinçon de titre sur les ouvrages dépourvus du poinçon de garantie français ou
+d'un poinçon de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant
+l'Espace économique européen ou en Turquie, par un organisme indépendant suivant des normes offrant des garanties suffisantes
+d'information du consommateur ;
 
-2° Ils autorisent, sous leur contrôle, le fabricant à apposer le poinçon de titre ;
+2° Ils essaient et, le cas échéant, marquent les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon de titre
+apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace économique
+européen ou en Turquie, par un organisme indépendant suivant des normes offrant des garanties suffisantes d'information du
+consommateur apportés par des professionnels habilités par une convention passée avec l'administration dans les conditions
+prévues à l'article 535 du code général des impôts ;
 
-3° Pour les ouvrages dispensés de poinçon en application du b et du c de l'article 524 bis du code général des impôts, ils
-délivrent un document certifiant le titre de l'ouvrage ou autorisent le fabricant à attester celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 524 bis
-
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 14 (V) JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-
-###### Article 275 ter N
-
-Les organismes de contrôle agréés portent sans délai à la connaissance de la direction générale des douanes et droits
-indirects toute irrégularité qui affecte la garantie publique des ouvrages en alliage d'or.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 15 (V) JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-
-###### Article 275 ter O
-
-Les organismes de contrôle agréés ne peuvent refuser d'habiliter un fabricant ou mettre fin à une habilitation, ou refuser de
-certifier les ouvrages d'un fabricant, que sur décision motivée préalablement communiquée à la direction générale des douanes
-et droits indirects.
-
-Dans le cas où un fabricant est dans l'impossibilité de faire garantir le titre de ses ouvrages selon une des modalités
-prévues à l'article 275 ter M, la direction nationale de la garantie et des services industriels remplit ce service.
+3° Pour les ouvrages dispensés de poinçon en application des b et c de l'article 524 bis du code général des impôts, ils
+délivrent un document certifiant le titre de l'ouvrage.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 275 ter M
+	  - CGI 535, 524 bis
 
-	**Créé par**:
-
-	  - Décret n°95-342 du 27 mars 1995 - art. 16 (V) JORF 1er avril 1995
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 275 ter N
+
+Les organismes de contrôle agréés portent, sans délai et par tous moyens, à la connaissance de la direction régionale des
+douanes et droits indirects de rattachement dont ils dépendent toute irrégularité qui affecte la garantie des ouvrages en
+métaux précieux.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+
+	**Liens**:
+
 	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 ter P
 
-Les organismes de contrôle agréés tiennent une comptabilité matières des poinçons de titre dont ils ont la charge. Cette
-comptabilité fait apparaître la date d'acquisition des poinçons, leur détenteur et le lieu de leur utilisation. Les poinçons
-de titre usagés ainsi que ceux détenus par un organisme dont l'agrément est retiré sont remis à la direction générale des
-douanes et droits indirects pour être détruits ou renvoyés à la direction des monnaies et médailles.
+Les organismes de contrôle agréés déclarent immédiatement à la direction régionale des douanes et droits indirects dont ils
+dépendent toute disparition des poinçons de titre dont ils ont la charge. L'administration procède à une enquête. Pendant la
+durée de l'enquête, l'agrément est suspendu. Si la responsabilité de l'organisme est établie à l'issue de l'enquête
+administrative, l'administration engage une procédure de retrait d'agrément. Les poinçons de titre usagés ainsi que ceux
+détenus par un organisme dont l'agrément est retiré sont remis à la direction régionale des douanes et droits indirects dont
+dépend l'organisme pour être détruits ou renvoyés à la direction des monnaies et médailles, après information de
+l'administration des douanes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-342 1995-03-27 art. 17 JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
 
 
 #### Chapitre II : Tabacs

@@ -1,8 +1,14 @@
 # Article 275 bis B
 
-Le fabricant qui souhaite être habilité à apposer lui-même les poinçons de titre de la garantie d'Etat sur les ouvrages qu'il
-produit, adresse à la direction générale des douanes et droits indirects une demande écrite accompagnée du cahier des charges
-mentionné à l'article 275 bis C.
+Les professionnels, notamment les fabricants, importateurs, acquéreurs intracommunautaires, commissaires-priseurs,
+responsables d'un crédit municipal ou d'une société de ventes volontaires de meubles aux enchères publiques et
+commissionnaires en garantie qui souhaitent être habilités à apposer eux-mêmes les poinçons de titre de la garantie sur les
+ouvrages en métaux précieux qu'ils produisent ou sur les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon
+de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace
+économique européen ou en Turquie, par un organisme indépendant selon des normes offrant des garanties suffisantes
+d'information du consommateur, qu'ils importent, introduisent en provenance d'un autre Etat membre de l'Union européenne,
+vendent ou qui leur sont confiés, doivent déposer une demande auprès de la direction régionale des douanes et droits
+indirects dont ils dépendent. Est joint à cette demande le cahier des charges mentionné à l'article 275 bis C.
 
 Lorsque le dossier de candidature est complet, le directeur régional des douanes et droits indirects en délivre récépissé. Le
 rejet de la demande d'habilitation est motivé.
@@ -13,16 +19,16 @@ rejet de la demande d'habilitation est motivé.
 
 	  - CGIAN2 275 bis C
 
-	**Modifié par**:
-
-	  - Décret n°97-1195 1997-12-24 art. 7 19°, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
-
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 6 (V)
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2004

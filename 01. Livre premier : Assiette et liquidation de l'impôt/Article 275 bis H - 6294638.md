@@ -1,7 +1,8 @@
 # Article 275 bis H
 
-Lorsque les ouvrages sont dispensés du poinçon de garantie en application des b et c de l'article 524 bis du code général des
-impôts, ils sont accompagnés d'un document descriptif, à en-tête du fabricant, mentionnant le métal et le titre.
+Lorsque les ouvrages sont dispensés du poinçon de garantie en application des a, b  et c  de l'article 524 bis  du code
+général des impôts, ils sont accompagnés d'un document descriptif, à en-tête du professionnel mentionnant le métal et le
+titre.
 
 **Liens relatifs à cet article**
 
@@ -9,14 +10,10 @@ impôts, ils sont accompagnés d'un document descriptif, à en-tête du fabrican
 
 	  - CGI 524 bis
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-212 du 21 février 1995 - art. 7 (V) JORF 28 février 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004

@@ -1,21 +1,15 @@
 # Article 275 bis G
 
-Le fabricant habilité établit et tient à jour une liste des personnes ayant accès au local de la marque. Il informe
-l'administration de tout changement. Le responsable du poinçonnage, nommément désigné par l'organe dirigeant de l'entreprise,
-est chargé de la gestion et de la manipulation des poinçons. Il assure également la commande des poinçons neufs et l'échange
-des poinçons usagés. Il a seul accès au coffre contenant les poinçons. La convention peut prévoir, pour les entreprises dont
-la dimension le justifie, la désignation de plusieurs responsables du poinçonnage.
+Le professionnel habilité établit et tient à jour une liste des personnes désignées pour le marquage des ouvrages. Il informe
+la direction régionale des douanes et droits indirects dont il dépend de tout changement. Il désigne un ou, si la dimension
+de l'entreprise le justifie, plusieurs responsables chargés de la gestion et de la manipulation des poinçons.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-212 du 21 février 1995 - art. 6 (V) JORF 28 février 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004

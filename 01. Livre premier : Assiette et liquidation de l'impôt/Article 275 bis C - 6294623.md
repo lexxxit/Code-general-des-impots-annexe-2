@@ -1,29 +1,38 @@
 # Article 275 bis C
 
-La convention d'habilitation ne peut être conclue entre le fabricant et l'administration que lorsque les conditions suivantes
-sont remplies :
+La convention d'habilitation est conclue avec le directeur régional des douanes et droits indirects du ressort dont relève le
+professionnel. La conclusion d'une convention d'habilitation est subordonnée aux conditions suivantes :
 
-1° Le cahier des charges présenté décrit par catégorie de produits la procédure et les méthodes de contrôle interne assurant
-en permanence le titre des alliages utilisés et des ouvrages produits. Le ministre chargé du budget arrête les spécifications
-techniques et de gestion de cette procédure ainsi que la qualification des personnels responsables de son application ;
+1° Le professionnel doit respecter un cahier des charges décrivant l'organisation de l'entreprise, la procédure et les
+méthodes de contrôle permettant de s'assurer du titre des ouvrages, les méthodes utilisées pour apposer le poinçon de
+garantie, ainsi que la qualification des personnes responsables de leur application. Un arrêté du ministre chargé du budget
+définit les spécifications techniques de ce cahier des charges ;
 
-2° Le poinçonnage est effectué dans un local présentant des mesures de sécurité adaptées au transport des ouvrages dans
-l'entreprise et à l'entreposage des marchandises avant et après apposition du poinçon de titre. Ce local dispose d'un coffre
-destiné à recevoir les poinçons de la garantie d'État fournis par l'administration.
+2° Le professionnel doit recourir à des organismes de contrôle agréés mentionnés au II de l'article 535 du code général des
+impôts ou à des organismes de contrôle indépendants établis dans d'autres Etats membres de l'Union européenne, dans d'autres
+Etats parties à l'accord instituant l'Espace économique européen ou en Turquie, offrant des garanties suffisantes
+d'information du consommateur pour contrôler le titre des ouvrages sur lesquels il entend apposer le poinçon de garantie s'il
+ne souhaite pas effectuer ce contrôle lui-même. Il doit déclarer ces organismes à la direction régionale des douanes et
+droits indirects ;
+
+3° Le professionnel doit effectuer le poinçonnage des ouvrages dans un local présentant des mesures de sécurité adaptées au
+transport des ouvrages dans l'entreprise, à leur entreposage avant et après apposition du poinçon de garantie et à la
+conservation des poinçons fournis par l'administration.
 
 L'administration peut vérifier sur pièces et sur place, dans les conditions visées à l'article L. 36 du livre des procédures
-fiscales, la capacité du fabricant à respecter le cahier des charges présenté ainsi que l'existence et la sécurité du local
-de la marque.
+fiscales, la capacité du professionnel à respecter le cahier des charges présenté ainsi que l'existence et la sécurité du
+local de la marque.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°95-212 du 21 février 1995 - art. 2 (V) JORF 28 février 1995
+	  - CGI 535
+	  - CGI Livre des procédures fiscales L36
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -34,8 +43,4 @@ de la marque.
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L36 (M)
+	  - HISTO: Edition du 31 août 2004

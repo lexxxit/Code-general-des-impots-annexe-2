@@ -2,27 +2,30 @@
 
 Les organismes de contrôle agréés garantissent le titre des ouvrages selon les trois modalités suivantes :
 
-1° Ils apposent eux-mêmes le poinçon de titre ;
+1° Ils apposent eux-mêmes, après essais, le poinçon de titre sur les ouvrages dépourvus du poinçon de garantie français ou
+d'un poinçon de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant
+l'Espace économique européen ou en Turquie, par un organisme indépendant suivant des normes offrant des garanties suffisantes
+d'information du consommateur ;
 
-2° Ils autorisent, sous leur contrôle, le fabricant à apposer le poinçon de titre ;
+2° Ils essaient et, le cas échéant, marquent les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon de titre
+apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace économique
+européen ou en Turquie, par un organisme indépendant suivant des normes offrant des garanties suffisantes d'information du
+consommateur apportés par des professionnels habilités par une convention passée avec l'administration dans les conditions
+prévues à l'article 535 du code général des impôts ;
 
-3° Pour les ouvrages dispensés de poinçon en application du b et du c de l'article 524 bis du code général des impôts, ils
-délivrent un document certifiant le titre de l'ouvrage ou autorisent le fabricant à attester celui-ci.
+3° Pour les ouvrages dispensés de poinçon en application des b et c de l'article 524 bis du code général des impôts, ils
+délivrent un document certifiant le titre de l'ouvrage.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 524 bis
+	  - CGI 535, 524 bis
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-342 du 27 mars 1995 - art. 14 (V) JORF 1er avril 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2004
