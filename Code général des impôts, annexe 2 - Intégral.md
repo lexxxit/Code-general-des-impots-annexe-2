@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-07-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12933,6 +12933,39 @@ par le premier alinéa de cette disposition doit être pris par le titulaire des
 	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
 
 
+##### Section II : Impositions ayant le permis de construire pour fait générateur
+
+###### Article 317 septies A
+
+La détermination de l'assiette et la liquidation des impositions dont la délivrance du permis de construire constitue le fait
+générateur sont effectuées par le responsable du service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas
+d'application de l'article R. 424-1 du code de l'urbanisme, par le maire.
+
+Les modalités techniques d'application du présent article sont fixées par arrêté du ministre chargé de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 38 : Code de l'urbanisme art. R424-1, art. R424-3, JORF 7 janvier 1984 en vigueur le 1er avril 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 du 24 septembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme R424-1
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ### Titre II : Impositions départementales
 
 #### Chapitre II : Taxe sur les véhicules à moteur
@@ -17683,7 +17716,13 @@ du code général des impôts pour l'alimentation du fonds de garantie sont assi
 1° La contribution des sociétés d'assurances ou des assureurs est proportionnelle aux sommes recouvrées par eux au titre de
 la contribution des assurés visée au 3°;
 
-2° (Abrogé);
+2° La contribution des responsables d'accidents corporels, non bénéficiaires d'une assurance, est assise sur le montant total
+des indemnités mises à leur charge à titre de réparation des dommages résultant de ces accidents. Sont considérées comme
+bénéficiaires d'une assurance [*définition*] au sens du présent article, les personnes dont la responsabilité civile
+résultant d'accidents de chasse ou de destruction des animaux nuisibles est couverte par un contrat d'assurance. En cas
+d'instance judiciaire la décision doit faire apparaître si le responsable est ou non bénéficiaire d'une assurance . La
+décision de justice ou la transaction doit opérer le cas échéant une ventilation entre les indemnités dues à titre de
+réparation des dommages résultant d'accidents corporels et celles qui sont dues à titre de réparation des dégâts matériels ;
 
 3° La contribution des assurés est fixée à une somme forfaitaire par personne garantie pour sa responsabilité civile
 résultant d'accidents de chasse ou de destruction des animaux nuisibles.
@@ -17697,16 +17736,20 @@ dispositions de l'article 305 AA de l'annexe I au code général des impôts.
 
 	  - CGI 1628 quater II
 	  - CGIAN1 305 AA
-	  - Décret n°68-170 1968-02-19 ART. 22
 	  - Code rural 366 ter
+	  - Décret n°68-170 1968-02-19 ART. 22
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies A (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°85-1007 1985-09-12 : code des assurances art. R420-38
 
 
 ###### Article 326
@@ -17714,10 +17757,14 @@ dispositions de l'article 305 AA de l'annexe I au code général des impôts.
 Les taux et quotité des contributions visées à l'article 325 sont fixés par décret (1) rendu sur la proposition du ministre
 de l'économie et des finances dans la limite des maxima ci-après :
 
-Contribution des sociétés d'assurances : 12 % de la totalité des charges des opérations du fonds de garantie afférentes à la
-chasse et à la destruction des animaux nuisibles;
+a. Contribution des sociétés d'assurances : 12 % de la totalité des charges des opérations du fonds de garantie afférentes à
+la chasse et à la destruction des animaux nuisibles ;
 
-Contribution des assurés, somme forfaitaire maximum de 2,50 francs par personne garantie.
+b. Contribution des responsables d'accidents corporels non assurés : 10 % des indemnités restant à leur charge. Toutefois, ce
+taux est ramené à 5 % lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des
+articles 393 à 395 du code rural ;
+
+c. Contribution des assurés, somme forfaitaire maximum de 2,50 F par personne garantie.
 
 1) Annexe III, art. 340 sexies.
 
@@ -17726,17 +17773,16 @@ Contribution des assurés, somme forfaitaire maximum de 2,50 francs par personne
 	**Cite**:
 
 	  - CGIAN2 325
-	  - CGIAN3 340 sexies
-	  - Code rural 366 ter
+	  - Code rural 393 à code rural 395
 	  - Décret n°68-170 1968-02-19 ART. 22
-
-	**Modifié par**:
-
-	  - Décret n°83-482 1983-06-09 ART. 14 JORF 14 JUIN 1983
 
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°85-1007 1985-09-24
+
+	**Modifié par**:
+
+	  - Décret n°85-1007 1985-09-24 : Code des assurances aer. R420-39
 
 
 ###### Article 327
@@ -20635,6 +20681,42 @@ considérée comme refusée.
 
 #### I bis : Versement pour dépassement du plafond légal de densité (1).
 
+###### Article 384 B
+
+Comme il est dit à l'article R333-5 du code de l'urbanisme, le montant du versement pour dépassement du plafond légal de
+densité est calculé par le responsable du service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas
+d'application de l'article R 424-1 du même code, par le maire.
+
+En cas de désaccord sur la valeur du terrain, le versement est provisoirement liquidé sur la base de l'estimation
+administrative.
+
+(1) Voir la note (1) de l'article 1723 octies du CGI.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la loi n° 2014-1655 du 29 décembre 2014.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 8 JORF 21 juillet 1984
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
+	  - HISTO: Edition du 15 juillet 1985
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 D (P)
+
+	**Cite**:
+
+	  - Code de l'urbanisme
+	  - Code de l'urbanisme - art. R333-5
+
+
 ###### Article 384 E
 
 Comme il est dit à l'article R 333-8 du code de l'urbanisme, lorsque la modification du permis de construire entraîne une
@@ -21380,27 +21462,6 @@ de l'article 163 quindecies.
 
 
 ### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.
-
-###### Article 384 B
-
-Comme il est dit à l'article R333-5 du code de l'urbanisme, le montant du versement pour dépassement du plafond légal de
-densité est calculé par le service départemental de l'équipement ou, en cas d'application de l'article R 421-22 du même code,
-par le maire [*autorité compétente*].
-
-En cas de désaccord sur la valeur du terrain, le versement est provisoirement liquidé sur la base de l'estimation
-administrative.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R333-5 (M)
-	  - Code de l'urbanisme - art. R421-22 (M)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 384 ter
 
