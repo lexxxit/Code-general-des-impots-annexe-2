@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-07-01
+Version Consolidée au 1984-07-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3265,6 +3265,69 @@ ne répondent pas aux conditions du 5° du 1 de l'article 39 du code général d
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 39 (V)
+
+
+##### 3° : Bénéfice imposable du fonds de garantie des banques populaires.
+
+###### Article 102 RA
+
+Les plus-values ou moins-values réalisées par le fond de garantie des banques populaires lors de la cession d'éléments
+d'actif immobilisé ou de titres de placement ne sont prises en compte pour le calcul de l'impôt sur les sociétés que pour
+leur fraction acquise à compter du 1er janvier 1984.
+
+Pour les titres cotés, cette fraction est calculée en retenant comme prix de revient leur cours moyen pendant le mois de
+décembre 1983.
+
+Pour les titres de participation non cotés et les autres éléments d'actif immobilisé ainsi que pour les titres de placement
+non cotés, la fraction acquise à compter du 1er janvier 1984 est calculée en proportion de la durée de détention du bien
+depuis cette date par rapport à sa durée totale de détention. En outre, pour les biens amortissables détenus depuis plus de
+deux ans, la partie de la plus-value ou moins-value réputée à court terme ne peut excéder le montant des amortissements
+déduits à compter du 1er janvier 1984 pour le calcul de l'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-580 du 4 juillet 1984 - art. 1 (V) JORF 11 juillet 1984
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2001-420 du 15 mai 2001 - art. 27 (V) JORF 16 mai 2001
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 2002
+
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06
+	  - Décret n°84-875 1984-10-01
+
+
+###### Article 102 RC
+
+Les autres provisions existant au bilan de clôture de l'exercice 1983 sont regardées comme des réserves exonérées de l'impôt
+si elles ne répondent pas aux conditions du 5° du 1 de l'article 39 du code général des impôts ou si elles deviennent sans
+objet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 1
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°2002-923 2002-06-06
+
+	**Créé par**:
+
+	  - Décret n°84-580 du 4 juillet 1984 - art. 3 (V) JORF 11 juillet 1984
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 2002
+	  - PEREMPTION: Loi n°2001-420 du 15 mai 2001 - art. 27 (V) JORF 16 mai 2001
 
 
 ##### Section I bis : Bénéfices réalisés par l'intermédiaire de sociétés établies dans des pays à régime fiscal privilégié
@@ -14653,6 +14716,27 @@ général des impôts.
 	**Modifié par**:
 
 	  - Loi n°82-1126 du 29 décembre 1982 - art. 69 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+
+###### Article 102 RB
+
+La provision pour dépréciation du portefeuille prévue aux trois derniers alinéas du 5° du 1 de l'article 39 du code général
+des impôts doit être égale, au 1er janvier 1984, à la différence entre la valeur des titres à la clôture de l'exercice 1983
+et leur valeur d'origine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 1 5°
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-580 du 4 juillet 1984 - art. 2 (V) JORF 11 juillet 1984
 
 
 ##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.
