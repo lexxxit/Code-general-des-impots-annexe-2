@@ -1,11 +1,11 @@
 # Article 275 bis B
 
-Le fabricant qui souhaite être habilité à apposer lui-même les poinçons de titre de la garantie d'État sur les ouvrages qu'il
+Le fabricant qui souhaite être habilité à apposer lui-même les poinçons de titre de la garantie d'Etat sur les ouvrages qu'il
 produit, adresse à la direction générale des douanes et droits indirects une demande écrite accompagnée du cahier des charges
 mentionné à l'article 275 bis C.
 
-Lorsque le dossier de candidature est complet, l'administration en délivre récépissé. Le rejet de la demande d'habilitation
-est motivé.
+Lorsque le dossier de candidature est complet, le directeur régional des douanes et droits indirects en délivre récépissé. Le
+rejet de la demande d'habilitation est motivé.
 
 **Liens relatifs à cet article**
 
@@ -13,13 +13,9 @@ est motivé.
 
 	  - CGIAN2 275 bis C
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-212 du 21 février 1995 - art. 1 (V) JORF 28 février 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°97-1195 1997-12-24 art. 7 19°, art. 13 en vigueur le 1er janvier 1998, JORF 27 décembre 1997
 
 	**Cité par**:
 
@@ -29,4 +25,4 @@ est motivé.
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 22 avril 1998
