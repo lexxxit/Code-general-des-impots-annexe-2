@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-03-22
+Version Consolidée au 1982-03-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13994,6 +13994,60 @@ b. D'un état comportant indication de l'emploi de la provision, dans l'année q
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 171-0 bis F
+
+En cas de vente en l'état futur d'achèvement avant le 1er janvier 1982 d'un immeuble ou d'une fraction d'immeuble qui a été
+achevé et livré à compter de cette date, le prélèvement liquidé provisoirement au moment de la vente est imputé sur le
+prélèvement de 50 % exigible à raison des profits dégagés par cette vente.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
+	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°89-801 1989-10-27
+
+	**Créé par**:
+
+	  - Décret n°82-263 du 23 mars 1982 - art. 3 (V) JORF 25 mars 1982
+
+
+###### Article 171-0 bis G
+
+Les règles définies aux articles 171-0 bis D à 171-0 bis F sont applicables en cas de cession d'actions ou de parts d'une
+société visée à l'article 1655 ter du code général des impôts [*société immobilière de copropriété*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1655 ter
+	  - CGIAN2 171-0 bis D A CGIAN2 171-0 bis F
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
+	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°89-801 1989-10-27
+
+	**Créé par**:
+
+	  - Décret n°82-263 du 23 mars 1982 - art. 2 (V) JORF 25 mars 1982
+	  - Décret n°82-263 du 23 mars 1982 - art. 3 (V) JORF 25 mars 1982
+	  - Décret n°82-263 du 23 mars 1982 - art. 4 (V) JORF 25 mars 1982
 
 
 #### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*.
