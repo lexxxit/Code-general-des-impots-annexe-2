@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-07-15
+Version Consolidée au 1988-09-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8886,6 +8886,27 @@ l'ensemble de ces services est déductible en fonction du pourcentage général 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### 7 : Bailleurs de biens ruraux
+
+###### Article 202
+
+L'option pour le paiement de la taxe sur la valeur ajoutée exercée par les personnes qui donnent en location, en vertu d'un
+bail enregistré, des terres et bâtiments d'exploitation à usage agricole prend effet le premier jour du mois au cours duquel
+elle est déclarée. Elle couvre obligatoirement une période de soixante mois.
+
+L'option est renouvelable par tacite reconduction pour une même durée, sauf si le bailleur y renonce trente jours au moins
+avant l'expiration de la période.
+
+L'option est reconduite de plein droit  pour la période suivant celle au cours ou à l'issue de laquelle le bailleur a
+bénéficié d'un remboursement de crédit de la taxe sur la valeur ajoutée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-928 du 19 septembre 1988 - art. 1 (V) JORF 21 septembre 1988
 
 
 ##### Section II : Assiette de la taxe
@@ -21658,64 +21679,6 @@ fiscales.
 	**Cite**:
 
 	  - CGI R196-2
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-## IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES.
-
-###### Article 364
-
-Les taxes parafiscales sont établies par décret en Conseil d'Etat pris sur le rapport du ministre chargé du budget et du ou
-des ministres intéressés et obligatoirement contresigné par le ministre de l'économie. Ces décrets fixent l'affectation,
-l'assiette, le fait générateur, les règles de liquidation et de recouvrement de ces taxes ainsi que leur durée, qui ne peut
-en aucun cas excéder cinq ans, et leur taux ou une limite maximum pour ce taux.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 335
-
-	**Modifié par**:
-
-	  - Décret n°80-854 du 30 octobre 1980 - art. 14 () JORF 1 NOVEMBRE 1980
-	  - Décret n°80-854 du 30 octobre 1980 - art. 2 (V) JORF 1 NOVEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 365
-
-Dans la limite définie par le décret prévu à l'article 364, des arrêtés du ministre chargé du budget, ministre chargé de
-l'économie et du ou des ministres intéressés fixent, s'il y a lieu, le taux de chaque taxe.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 336
-
-	**Cite**:
-
-	  - CGIAN2 364
-
-	**Modifié par**:
-
-	  - Décret n°80-854 du 30 octobre 1980 - art. 14 () JORF 1 NOVEMBRE 1980
-	  - Décret n°80-854 du 30 octobre 1980 - art. 3 (V) JORF 1 NOVEMBRE 1980
 
 	**Codifié par**:
 
