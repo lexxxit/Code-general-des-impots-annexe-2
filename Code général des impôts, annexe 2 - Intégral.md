@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1996-05-12
+Version Consolidée au 1996-07-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -54,6 +54,72 @@ la déclaration qui en tient lieu, à la recette des impôts où la présentatio
 	  - CGI 647, 35, 244 bis
 
 
+##### 3 : Amortissement des biens d'investissement ouvrant droit à déduction de la taxe sur la valeur ajoutée
+
+###### Article 15
+
+En ce qui concerne les biens d'investissement ouvrant droit à déduction de la taxe sur la valeur ajoutée, en application des
+dispositions de l'article 271 du code général des impôts, les amortissements sont, pour l'assiette de l'impôt, calculés sur
+la base du prix d'achat ou de revient déterminé conformément aux dispositions de l'article 229 de la présente annexe.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 271
+	  - CGIAN2 229
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+
+##### 4 : Amortissement des immobilisations destinées à la recherche scientifique ou technique
+
+###### Article 16
+
+Sont considérées comme opérations de recherches scientifiques ou techniques, en vue de l'application des dispositions du 1 de
+l'article 39 quinquies A du code général des impôts, les activités ayant le caractère de recherches fondamentales, de
+recherches appliquées ou d'opérations de développement, effectuées soit en bureaux d'études ou de calcul, soit en
+laboratoires, soit en ateliers pilotes, soit en stations expérimentales, ou encore opérées dans des circonstances spéciales
+dans le cadre d'installations agricoles ou industrielles et ayant pour objet : 
+
+La découverte et la mise au point de nouvelles techniques de production, de nouveaux procédés et appareils de fabrication,
+ainsi que le perfectionnement de tous appareils et procédés de fabrication déjà utilisés ; 
+
+La découverte et la mise au point de nouveaux procédés et appareils de contrôle des fabrications, ainsi que le
+perfectionnement des procédés et appareils de contrôle déjà utilisés ; 
+
+La découverte de nouveaux produits pour des applications nouvelles ou déjà connues, ainsi que la découverte de nouvelles
+applications de produits déjà connus ; 
+
+L'obtention de nouvelles variétés végétales ou de races animales ; 
+
+La découverte et l'utilisation de matières premières nouvelles ; 
+
+L'amélioration des facteurs de production et de rentabilité économiques, notamment l'automatisation et la recherche
+opérationnelle ainsi que l'amélioration des méthodes et techniques de production, de conservation et de transformation des
+produits, aux divers points de vue de la qualité des rendements et de la productivité ; 
+
+L'amélioration des appareils et des techniques dans les domaines médical et vétérinaire ; 
+
+L'amélioration des conditions humaines de travail et de vie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 quinquies A (V)
+
+
 ##### 4 bis : Provisions pour risques afférents à certaines opérations d'assurance et de réassurance
 
 ###### Article 16 A
@@ -89,6 +155,26 @@ et de réassurance, émises au cours de l'exercice :
 	**Liens**:
 
 	  - HISTO: Edition du 2 septembre 1994
+
+
+###### Article 16 B
+
+Le bénéfice technique net de cession à retenir pour le calcul de la dotation annuelle est déterminé avant d'appliquer la
+réintégration prévue au troisième alinéa de l'article 39 quinquies G du code général des impôts. Il s'entend de la différence
+entre, d'une part, les primes de l'exercice nettes d'annulation et diminuées de la dotation aux provisions de primes et,
+d'autre part, le montant des charges de sinistres nettes de recours augmenté des frais directement imputables à la branche
+considérée ainsi que d'une quote-part des autres charges ventilées selon les modalités fixées au plan comptable de
+l'assurance.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 quinquies G (V)
 
 
 ###### Article 16 C
@@ -129,6 +215,23 @@ de la dotation antérieure qui a été rapportée au bénéfice imposable.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 16 F (V)
+
+
+###### Article 16 D
+
+En ce qui concerne les entreprises d'assurance, les règles de représentation habituelle des provisions techniques prévues aux
+articles 153 et suivants du décret du 30 décembre 1938 modifié s'appliquent aux provisions constituées en vertu de l'article
+39 quinquies G du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 quinquies G (V)
 
 
 ###### Article 16 E
@@ -218,6 +321,45 @@ chacun des deux exercices suivants.
 
 ##### 6 : Amortissement dégressif des biens d'équipement
 
+###### Article 22
+
+Les entreprises passibles de l'impôt sur les sociétés ou de l'impôt sur le revenu au titre des bénéfices industriels et
+commerciaux peuvent amortir suivant un système dégressif-dans les conditions fixées aux articles 23 à 25-les immobilisations
+acquises ou fabriquées par elles à compter du 1er janvier 1960 et énumérées ci-après : 
+
+Matériels et outillages utilisés pour des opérations industrielles de fabrication, de transformation ou de transport ; 
+
+Matériels de manutention ; 
+
+Installations destinées à l'épuration des eaux et à l'assainissement de l'atmosphère ; 
+
+Installations productrices de vapeur, chaleur ou énergie ; 
+
+Installations de sécurité et installations à caractère médico-social ; 
+
+Machines de bureau, à l'exclusion des machines à écrire ; 
+
+Matériels et outillages utilisés à des opérations de recherche scientifique ou technique ; 
+
+Installations de magasinage et de stockage sans que puissent y être compris les locaux servant à l'exercice de la
+profession ; 
+
+Immeubles et matériels des entreprises hôtelières. 
+
+Sont exclus du bénéfice de l'amortissement dégressif les biens qui étaient déjà usagés au moment de leur acquisition par
+l'entreprise ainsi que ceux dont la durée normale d'utilisation est inférieure à trois ans.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 23 (V)
+
+
 ###### Article 23
 
 Le montant de l'annuité d'amortissement afférente à chacune des immobilisations énumérées à l'article 22 peut être
@@ -300,7 +442,54 @@ du prix (Voir art. 39 AA du code général des impôts).
 	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
 
 
+###### Article 25
+
+1. Les amortissements calculés dans les conditions fixées à l'article 23, qui auraient été différés au cours d'exercices
+déficitaires, peuvent être prélevés en franchise d'impôt sur les résultats des premiers exercices suivants qui laissent
+apparaître un bénéfice suffisant, en plus de l'annuité afférente à ces exercices. Cette dernière annuité est alors calculée
+en partant du chiffre obtenu en retranchant de la valeur résiduelle comptable le montant des amortissements qui, précédemment
+différés, sont ainsi admis en déduction. 
+
+2. Les amortissements différés au cours d'exercices bénéficiaires peuvent être prélevés en franchise d'impôt dans les
+conditions prévues au 2° de l'article 23, sur les résultats des exercices suivants, mais seulement dans la mesure où ils
+excèdent le montant de l'amortissement linéaire afférent aux immobilisations considérées. 
+
+L'amortissement linéaire ainsi différé pourra être pratiqué soit au taux linéaire habituel après l'expiration de la durée
+normale d'utilisation des éléments correspondants si ces éléments sont encore en service, soit en totalité au moment de la
+mise hors de service desdits éléments.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 23 (V)
+
+
 ##### 7 : Plus-values provenant de cessions d'éléments de l'actif immobilisé
+
+###### Article 26
+
+Les dispositions du 2 de l'article 39 terdecies du code général des impôts sont applicables pour la détermination des
+résultats des exercices ou périodes d'imposition ouverts à compter du 1er septembre 1965.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 terdecies 2
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+
 
 ###### Article 27
 
@@ -333,7 +522,94 @@ périodes d'imposition définis au premier alinéa.
 	  - TXT_ASSOCIE: La référence à l'article 39 sexdecies a été supprimée : conséquence de la loi n°1467 du 30 décembre 1977
 
 
+###### Article 28
+
+1. Par dérogation aux dispositions des articles 26 et 27, le régime d'imposition défini aux articles 39 duodecies, 39
+terdecies, aux 1, 2 et 3 de l'article 39 quaterdecies, aux premier à troisième alinéas du 1 et au 2 du I de l'article 39
+quindecies du code général des impôts peut être appliqué, sur la demande des entreprises, aux plus-values provenant de
+cessions d'éléments de l'actif immobilisé réalisées pendant l'exercice ou la période d'imposition en cours à la date du 1er
+septembre 1965.
+
+La même option est ouverte aux entreprises pour les plus-values dont l'imposition a été différée en vertu de l'article 40 du
+code général des impôts et qui n'ont pas encore été remployées à la date susvisée.
+
+2. L'option doit être formulée dans une note annexée à la déclaration des résultats de l'exercice ou de la période
+d'imposition en cours à la date du 1er septembre 1965.
+
+Cette note doit comporter toutes les précisions utiles pour déterminer la nature et le mode de calcul des plus-values pour
+lesquelles l'application du régime visé au 1 est demandée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+
+
+###### Article 29
+
+Les plus-values ayant fait l'objet de l'option prévue à l'article 28 sont soumises à l'impôt au titre de l'exercice ou de la
+période d'imposition en cours à la date du 1er septembre 1965, sous réserve de l'étalement prévu aux 1, 2 et 3 de l'article
+39 quaterdecies du code général des impôts en ce qui concerne les plus-values à court terme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 quaterdecies
+	  - CGIAN2 28
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+
+
+###### Article 29 A
+
+Les plus moins-values dégagées lors de la cession d'un bien ayant bénéficié de l'aide fiscale à l'investissement instituée
+par l'article 1er de la loi n° 75-408 du 29 mai 1975 sont calculées d'après leur prix de revient diminué de l'aide obtenue. 
+
+La fraction de la plus-value correspondant au montant de l'aide fiscale constitue une plus-value à court terme au sens du 2
+de l'article 39 duodecies du code général des impôts. 
+
+Si l'imputation ou le remboursement, effectués dans les conditions prévues à l'article 1er de la loi précitée interviennent
+après la cession du bien, l'aide fiscale correspondante est soumise à l'impôt au titre de l'exercice d'imputation ou de
+remboursement ; elle peut bénéficier de l'étalement applicable aux plus-values à court terme en vertu du 1 de l'article 39
+quaterdecies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°75-408 du 29 mai 1975 - art. 1 (V)
+	  - Code général des impôts, CGI. - art. 39 duodecies (V)
+	  - Code général des impôts, CGI. - art. 39 quaterdecies (V)
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+
 ##### 8 : Amortissement des biens donnés en location ou mis à disposition
+
+###### Article 30
+
+Les biens donnés en location sont amortis sur leur durée normale d'utilisation, quelle que soit la durée de la location.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
 
 ###### Article 31
 
@@ -396,6 +672,86 @@ valeur d'origine des immobilisations amortissables et répartie entre elles prop
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 39 quinquies FA (V)
+
+
+##### 9 : Contrôle des frais généraux - Obligations des entreprises
+
+###### Article 33
+
+L'administration peut demander à l'entreprise de justifier que les dépenses visées à l'article 54 quater du code général des
+impôts sont nécessitées par sa gestion :
+
+1° Lorsqu'elles excèdent le montant des bénéfices imposables de l'exercice ;
+
+2° Lorsqu'elles augmentent dans une proportion supérieure à celle de ces bénéfices.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 54 quater
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
+
+
+###### Article 34
+
+Les bénéfices imposables visés à l'article 33 sont déterminés en faisant abstraction :
+
+a. Des plus-values ou moins-values provenant de la cession des éléments de l'actif immobilisé ;
+
+b. Des déficits reportables des exercices antérieurs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 33
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+
+###### Article 35
+
+La comparaison prévue au 2° de l'article 33 est faite par référence à l'exercice qui précède immédiatement celui au cours
+duquel les dépenses litigieuses ont été exposées.
+
+Lorsque les deux exercices ont une durée différente, les chiffres afférents à l'exercice de référence sont ajustés au prorata
+de la durée de l'exercice pour lequel la comparaison est effectuée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 33
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+
+###### Article 36
+
+Le relevé des frais généraux prévu à l'article 54 quater du code général des impôts doit comporter les renseignements propres
+à l'exercice pour lequel il est fourni et ceux qui se rapportent à l'exercice précédent.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 54 quater (V)
 
 
 ##### 11 : Passage du régime du bénéfice réel ou du régime simplifié au régime du forfait - Exercice clos en cours d'année.
