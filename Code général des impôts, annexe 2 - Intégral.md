@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-01-01
+Version Consolidée au 1985-01-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7255,6 +7255,28 @@ le service des impôts à procéder à l'ajustement des coefficients visés au I
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 204 ter A
+
+Les entreprises visées au 1er alinéa du I de l'article 267 quinquies peuvent renoncer aux modalités simplifiées de
+liquidation de la taxe sur la valeur ajoutée prévues à l'article 204 ter. 
+
+L'option est exercée pour cinq ans [*durée*] : elle n'est possible qu'au terme d'une période d'imposition donnant lieu à
+régularisation. Elle doit faire l'objet d'une notification jointe à la première déclaration déposée en application du
+paragraphe I de l'article 287 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 287 I
+	  - CGIAN2 204 ter
+	  - CGIAN2 267 quinquies I al. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
+
+
 ##### II : Déductions
 
 ##### 1 : Modalités d'exercice
@@ -9005,6 +9027,35 @@ montant des opérations qu'elles ont réalisées et déterminant le versement à
 
 
 ##### Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile - Régime optionnel.
+
+###### Article 242 septies A
+
+Les entreprises imposées selon le régime simplifié de liquidation des taxes sur le chiffre d'affaires peuvent, au cours des
+trois premiers mois d'un exercice, opter pour le dépôt, dans les trois mois qui suivent sa clôture [*délai d'option*], d'une
+déclaration conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre d'affaires dues au
+titre de cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies. 
+
+L'option est formulée par lettre recommandée avec avis de réception adressée au service local des impôts. Elle est valable
+pour l'exercice au cours duquel elle est formulée et reconduite tacitement pour chacun des exercices suivants. Elle peut être
+dénoncée par lettre recommandée avec avis de réception adressée au service local des impôts dans le délai d'un mois qui suit
+la clôture de l'exercice couvert par cette option.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242 sexies
+
+	**Modifié par**:
+
+	  - Décret n°85-109 du 28 janvier 1985 - art. 2 () JORF 29 janvier 1985
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies E (Ab)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies F (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
+
 
 ###### Article 242 septies B
 
@@ -16777,35 +16828,6 @@ l'année en cours ainsi que, le cas échéant, celle qui n'aurait pas encore ét
 	**Modifié par**:
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 99 (V) JORF 30 décembre 1983
-
-
-###### Article 242 septies A
-
-Les entreprises imposées selon le régime simplifié de liquidation des taxes sur le chiffre d'affaires peuvent, au cours du
-premier mois d'un exercice, opter pour le dépôt, dans les trois mois qui suivent sa clôture [*délai d'option*], d'une
-déclaration conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre d'affaires dues au
-titre de cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies. 
-
-L'option est formulée par lettre recommandée avec avis de réception adressée au service local des impôts. Elle est valable
-pour l'exercice au cours duquel elle est formulée et reconduite tacitement pour chacun des exercices suivants. Elle peut être
-dénoncée par lettre recommandée avec avis de réception adressée au service local des impôts dans le délai d'un mois qui suit
-la clôture de l'exercice couvert par cette option.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 sexies
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies E (Ab)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies F (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
-
-	**Liens**:
-
-	  - HISTO: Edition 1979-07-01
 
 
 ###### Article 242-0 B
