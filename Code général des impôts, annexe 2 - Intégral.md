@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-10-16
+Version Consolidée au 1986-10-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4916,6 +4916,34 @@ par l'administration, dans chaque département, au siège de l'une des caisses l
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+##### Section V : Sociétés de capital-risque.
+
+###### Article 140 ter
+
+Les sociétés de capital-risque mentionnées au 3° septies de l'article 208 du code général des impôts doivent distribuer 50 %
+au moins des produits et plus-values nets exonérés d'impôt sur les sociétés dès que le montant de leurs réserves, majoré des
+sommes reportées à nouveau, atteint la moitié de leur capital, diminué, le cas échéant, des incorporations de réserves,
+bénéfices ou provisions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 208 3° septies
+
+	**Créé par**:
+
+	  - Décret n°85-1102 du 9 octobre 1985 - art. 5 (Ab) JORF 17 octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°90-1168 1990-12-29 art. 95 Finances pour 1991 JORF 30 décembre 1990
 
 
 #### Chapitre II bis : Taxe d'apprentissage
