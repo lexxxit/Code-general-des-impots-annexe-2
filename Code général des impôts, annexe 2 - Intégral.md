@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1987-04-25
+Version Consolidée au 1987-06-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2641,6 +2641,49 @@ modéré ou aux sociétés de crédit immobilier.
 
 
 ##### IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés
+
+###### Article 91 bis
+
+Pour bénéficier de l'exonération prévue au I de l'article 163 bis C du code général des impôts, les titulaires d'actions
+acquises dans les conditions prévues aux articles 208-1 à 208-8, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les
+sociétés commerciales doivent joindre à la déclaration souscrite au titre des revenus de l'année au cours de laquelle
+l'option a été levée une note mentionnant :
+
+a. La raison sociale et le siège de la société dont les actions ont été acquises ;
+
+b. Les dates d'attribution et de levée de l'option et le nombre d'actions acquises.
+
+La société déclare au service des impôts dont elle dépend les conversions au porteur et transferts de propriété ou de
+garantie, totaux ou partiels, des actions acquises ; au terme de la période d'indisponibilité elle produit une attestation
+indiquant le nombre d'actions effectivement conservées par le salarié pendant cette période. En cas d'apport des actions à
+une société créée dans les conditions prévues à l'article 220 quater du code précité, les obligations définies au deuxième
+alinéa incombent à cette société et s'appliquent aux actions remises en rémunération de l'apport. L'apport n'interrompt pas
+la période d'indisponibilité.
+
+Les déclarations prévues aux deuxième et troisième alinéas sont produites au plus tard le 31 mars de l'année qui suit celle
+au cours de laquelle sont respectivement intervenus soit la conversion ou le transfert, soit l'expiration de la période
+d'indisponibilité.
+
+**Nota:**
+
+La table des matières de cet article a été modifiée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 bis C I
+	  - CGI 220 quater
+	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
+
 
 ###### Article 91 ter
 
@@ -16428,48 +16471,6 @@ dans le plan d'épargne d'entreprise.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 91 bis
-
-Pour bénéficier de l'exonération prévue au I de l'article 163 bis C du code général des impôts, les titulaires d'actions
-acquises dans les conditions prévues aux articles 208-1 à 208-8-1 de la loi n° 66-537 du 24 juillet 1966 (1) doivent joindre
-à la déclaration souscrite au titre des revenus de l'année au cours de laquelle l'option a été levée une note mentionnant :
-
-a. La raison sociale et le siège de la société dont les actions ont été acquises ;
-
-b. Les dates d'attribution et de levée de l'option et le nombre d'actions acquises.
-
-La société déclare au service des impôts dont elle dépend les conversions au porteur et transferts de propriété ou de
-garantie, totaux ou partiels, des actions acquises ; au terme de la période d'indisponibilité elle produit une attestation
-indiquant le nombre d'actions effectivement conservées par le salarié pendant cette période. En cas d'apport des actions à
-une société créée dans les conditions prévues à l'article 220 quater du code précité, les obligations définies au deuxième
-alinéa incombent à cette société et s'appliquent aux actions remises en rémunération de l'apport. L'apport n'interrompt pas
-la période d'indisponibilité.
-
-Les déclarations prévues aux deuxième et troisième alinéas sont produites au plus tard le 31 mars de l'année qui suit celle
-au cours de laquelle sont respectivement intervenus soit la conversion ou le transfert, soit l'expiration de la période
-d'indisponibilité.
-
-**Nota:**
-
-La table des matières de cet article a été modifiée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 bis C I
-	  - CGI 220 quater
-	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8
-
-	**Modifié par**:
-
-	  - Décret n°84-1074 du 23 novembre 1984 - art. 1 (V) JORF 5 décembre 1984
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
-
-
 ##### CALCUL DE L'IMPOT.
 
 ###### Article 93
@@ -17050,47 +17051,6 @@ formation d'apprentis dans la limite prévue à l'article 140 K, avec le nom et 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### TAXE SUR LES SALAIRES
-
-##### OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES.
-
-###### Article 145 bis
-
-Le bénéfice de l'exonération [*de taxe sur les salaires*] prévue à l'article 231 bis H du code général des impôts est
-subordonné aux conditions prévues à l'article 91 bis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 231 bis H
-	  - CGIAN2 91 bis
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°87-416 1987-06-17 art. 24-II JORF 18 juin 1987 : dispositions devenues sans objet
-
-
-###### Article 145 ter
-
-Dans les cas prévus à l'article 91 ter il peut être exceptionnellement disposé des actions avant l'expiration du délai fixé à
-l'article 231 bis H du code général des impôts sans perte du bénéfice de l'exonération [*de taxe sur les salaires*] prévue
-audit article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 231 bis H
-	  - CGIAN2 91 ter
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 24 (V) JORF 18 juin 1987 : dispositions devenues sans objet
 
 
 #### TAXE SUR LES ENCOURS DE CREDITS.
