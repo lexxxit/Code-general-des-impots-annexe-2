@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-11-26
+Version Consolidée au 1985-12-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -563,12 +563,12 @@ considérée et des deux années précédentes dans les cas suivants :
 personnes qui se trouvent privées d'activité professionnelle pour des raisons indépendantes de leur volonté et sont inscrites
 comme demandeurs d'emploi à l'agence nationale pour l'emploi;
 
-2° Mise à la retraite du contribuable ou de l'un des époux soumis à une imposition commune ; bénéficient de la mesure les
-personnes qui ont cessé toute activité professionnelle après avoir atteint l'âge auquel correspond la prise d'effet de la
-pension vieillesse de leur régime de sécurité sociale ;
+2° Départ à la retraite ou en préretraite du contribuable ou de l'un des époux soumis à une imposition commune, sous réserve
+que l'intéressé ne poursuive ou ne reprenne aucune activité professionnelle ; les personnes qui partent à la retraite ne
+bénéficient de la mesure que lorsqu'elles n'en ont pas déjà obtenu l'application à l'occasion de leur départ en préretraite.
 
 3° Survenance d'une invalidité affectant le contribuable ou l'un des époux soumis à une imposition commune ou un enfant à
-charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L 310
+charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L 341-4
 du code de la sécurité sociale et ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et de
 l'aide sociale;
 
@@ -576,7 +576,7 @@ l'aide sociale;
 
 5° Divorce ou séparation de corps;
 
-6° Règlement judiciaire ou liquidation de biens du contribuable ou de l'un des époux soumis à une imposition commune ;
+6° Redressement judiciaire ou liquidation de biens du contribuable ou de l'un des époux soumis à une imposition commune ;
 
 7° Tout autre évènement exceptionnel affectant la situation personnelle, familiale ou professionnelle du contribuable et
 revêtant un caractère de gravité tel qu'il contraigne le contribuable, pour y faire face, à liquider tout ou partie de son
@@ -588,11 +588,16 @@ portefeuille.
 
 	  - CGI 92 B
 	  - Code de la famille et de l'aide sociale. - art. 173 (M)
-	  - Code de la sécurité sociale L310
+	  - Code de la sécurité sociale. - art. L341-4 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Cf. : décret 85-494 1985-05-06 art. 1 JORF 11 mai 1985
 
 	**Modifié par**:
 
-	  - Décret n°83-897 1983-10-06 ART. 2 JORF 9 OCTOBRE 1983
+	  - Loi n°85-98 1985-01-25 art. 233 JORF 26 janvier 1985
+	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
 
 
 ##### II bis : Bénéfices non commerciaux
@@ -17267,13 +17272,13 @@ Des caisses primaires et régionales d'assurance maladie et d'assurance vieilles
 des départements d'outre mer, des caisses d'allocations familiales, des unions ou fédérations de caisses, des caisses
 départementales de mutualité sociale agricole, des caisses centrales de secours mutuels agricoles et d'allocations familiales
 mutuelles agricoles, de la caisse nationale d'assurance vieillesse agricole, des services et organismes gérant des régimes
-spéciaux prévus à l'article L 3 du code de la sécurité sociale, des institutions de prévoyance prévues à l'article L 4 du
-code de la sécurité sociale, des caisses constituées pour l'application du livre VIII du code de la sécurité sociale
-concernant le régime d'assurance vieillesse des travailleurs non salariés et de l'article 12 de la loi n° 66-509 du 12
-juillet 1966 relative à l'assurance maladie maternité des travailleurs non salariés des professions non agricoles;
+spéciaux prévus à l'article L 711-1 du code de la sécurité sociale, des institutions de prévoyance prévues à l'article L
+731-1 du même code, des caisses constituées pour l'application des titres II, III, IV du livre VI du même code, concernant le
+régime d'assurance vieillesse des travailleurs non salariés et de l'article L 611-1 du même code, relatif à l'assurance
+maladie maternité des travailleurs non salariés des professions non agricoles;
 
-Des sociétés mutualistes, des unions de sociétés mutualistes ou des fédérations d'unions de telles sociétés, dont les statuts
-ont été approuvés dans les conditions prévues à l'article 4 du code de la mutualité;
+Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles, dont les statuts ont été approuvés dans les
+conditions prévues à l'article L 122-5 du code de la mutualité.
 
 3° Les constructions édifiées par les établissements publics du culte dans les départements du Bas-Rhin, du Haut-Rhin ou de
 la Moselle;
@@ -17293,16 +17298,23 @@ une activité strictement conforme à leur objet légal ou statutaire.
 	**Cite**:
 
 	  - CGI 1585 C I 1°
-	  - Loi n°66-509 du 12 juillet 1966 - art. 12, v. init.
 	  - Décret n°67-731 1967-08-30 ART. 1
-	  - Code de la sécurité sociale L643 A Code de la sécurité sociale L683-2
-	  - Code de la mutualité 4
+	  - Code de la sécurité sociale L643 à L683-2
+	  - Code de la sécurité sociale. - art. L611-1 (M)
+	  - Code de la sécurité sociale. - art. L711-1 (M)
+	  - Code de la sécurité sociale. - art. L731-1 (T)
+	  - Code de la mutualité - art. L122-5 (Ab)
 	  - Loi n°1933-01-14 ART. 35
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°85-773 du 25 juillet 1985 - art. 1 (V) JORF 26 juillet 1985
+	  - Décret n°85-1353 1985-12-17 art. 2, art. 3 JORF 21 décembre 1985
+	  - Décret n°85-1353 du 17 décembre 1985 - art. 3 (V) JORF 21 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 317 quater
@@ -21102,6 +21114,27 @@ agents des impôts peuvent établir les bases d'imposition et le décompte des d
 	**Abrogé par**:
 
 	  - Décret n°2011-1302 du 14 octobre 2011 - art. 4
+
+
+## Chapitre II bis : Sûretés et privilèges
+
+### Section II : Redressement judiciaire.
+
+###### Article 396 bis A
+
+Les cessions de rang de privilège ou d'hypothèque ou l'abandon de ces sûretés prévus par l'article 1929 septies du code
+général des impôts peuvent, sans extinction préalable de la créance, être accordés aprés consultation de la commission
+départementale des chefs des services financiers. Les frais afférents à ces opérations sont à la charge du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1929 septies
+
+	**Créé par**:
+
+	  - Décret n°85-1353 1985-12-27 art. 180 JORF 21 décembre 1985
 
 
 ## Chapitre II ter : Dégrèvements et restitutions d'impôts
