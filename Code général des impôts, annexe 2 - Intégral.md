@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1989-05-13
+Version Consolidée au 1989-07-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5433,6 +5433,35 @@ qui lui sont reprochés et peut fournir toute justification à leur égard.
 	  - HISTO: EDITION 1979-07-01
 
 
+##### V : Dispositions particulières à l'exploitation d'hydrocarbures.
+
+###### Article 134 ter
+
+La partie des impôts étrangers non imputée au titre d'un exercice clos avant le 1er janvier 1982 ne peut être reportée sur
+les exercices postérieurs que dans la limite des sommes qui auraient résulté de l'application de l'article 134 bis (1).
+
+(1) Dispositions applicables aux exercices clos après le 31 décembre 1981 *date d'effet*.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 134 bis
+
+	**Créé par**:
+
+	  - Décret n°81-381 du 21 avril 1981 - art. 1 () JORF 22 AVRIL 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°89-801 1989-10-27
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989, incorporé dans l'annexe 2 le 14 juillet 1989
+
+
 ##### Section III : Imputation de l'impôt sur le revenu (retenue à la source) sur le montant de l'impôt sur les sociétés
 
 ###### Article 135
@@ -7147,25 +7176,24 @@ conditions prévues au même article.
 
 ###### Article 165
 
-Pour l'application des articles 219-II, 235 quater-I, I bis et I ter et 238 octies du code général des impôts, les immeubles
-sont considérés comme achevés à la date de délivrance du récépissé de la déclaration prévue aux articles [*R 460-1 à *]R
-460-4 du code de l'urbanisme (1).
+Pour l'application du I de l'article 219 et de l'article 238 octies du code général des impôts, les immeubles sont considérés
+comme achevés à la date de délivrance du récépissé de la déclaration prévue aux articles R. 460-4 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+	**Modifié par**:
+
+	  - Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+
 	**Cite**:
 
-	  - CGI 219 II
-	  - CGI 235 quater I, I bis, I ter
-	  - CGI 238 octies
-	  - Code de l'urbanisme - art. R460-1 (M)
-	  - Code de l'urbanisme - art. R460-2 (M)
-	  - Code de l'urbanisme - art. R460-3 (M)
-	  - Code de l'urbanisme - art. R460-4 (M)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Code général des impôts, CGI. - art. 219 (MMN)
+	  - Code général des impôts, CGI. - art. 238 octies (V)
+	  - Code de l'urbanisme - art. R460-4 (Ab)
 
 
 ###### Article 166
@@ -7184,43 +7212,41 @@ de la construction et de l'habitation sont remplies.
 
 ###### Article 167
 
-Lorsque la cession d'actions ou de parts de sociétés visées à l'article 1655 ter du code général des impôts [*sociétés
-immobilières de copropriété*] porte sur des titres donnant droit à l'attribution d'immeuble ou de fraction d'immeuble non
-encore achevé, cette cession peut néanmoins être assimilée à une vente d'immeuble achevé pour l'application des articles 219-
-II, 235 quater-I, I bis et I ter et 238 octies dudit code lorsque les conditions suivantes sont remplies :
+Lorsque la cession d'actions ou de parts de sociétés visées à l'article 1655 ter du code général des impôts porte sur des
+titres donnant droit à l'attribution d'immeuble ou de fraction d'immeuble non encore achevé, cette cession peut néanmoins
+être assimilée à une vente d'immeuble achevé pour l'application du II de l'article 219 et del'article 238 octies dudit code
+lorsque les conditions suivantes sont remplies :
 
-a. La cession est postérieure à l'achèvement des fondations de l'immeuble;
+a) La cession est postérieure à l'achèvement des fondations de l'immeuble ;
 
-b. Le contrat de cession - qui devra revêtir la forme d'un acte authentique à compter d'une date qui sera fixée par arrêté du
-ministre de l'économie et des finances (1) - précise :
+b) Le contrat de cession - qui devra revêtir la forme d'un acte authentique à compter d'une date qui sera fixée par arrêté du
+ministre de l'économie et des finances précise :
 
-1o La consistance et les conditions techniques d'exécution des travaux;
+1° La consistance et les conditions techniques d'exécution des travaux ;
 
-2o Le prix à payer au cédant tant pour la cession des titres que pour le remboursement des sommes qu'il a déjà versées à la
-société;
+2° Le prix à payer au cédant tant pour la cession des titres que pour le remboursement des sommes qu'il a déjà versées à la
+société ;
 
-3o Les versements qui restent à faire à la société pour achever l'immeuble ou la fraction d'immeuble auquel les actions ou
+3° Les versements qui restent à faire à la société pour achever l'immeuble ou la fraction d'immeuble auquel les actions ou
 parts cédées donnent vocation à la date de la cession, sous réserve de l'application au coût de construction des clauses de
-variation stipulées dans les marchés et les contrats conclus par la société;
+variation stipulées dans les marchés et les contrats conclus par la société ;
 
-c. Le cédant s'engage vis-à-vis du cessionnaire à couvrir les appels de fonds de la société correspondant au coût de
-construction dans la mesure où les versements exigés à ce titre excéderaient le montant des versements définis au b-3o.
+c) Le cédant s'engage vis-à-vis du cessionnaire à couvrir les appels de fonds de la société correspondant au coût de
+construction dans la mesure où les versements exigés à ce titre excéderaient le montant des versements définis au 3° du b.
 
 Cet engagement doit être garanti par une caution solidaire donnée par un établissement de crédit ou une société de caution
 mutuelle constituée conformément aux dispositions de la loi modifiée du 13 mars 1917.
 
 A défaut de pouvoir fournir cette caution, l'intéressé doit constituer un cautionnement en numéraire dans un organisme
 habilité à cet effet et désigné dans le contrat. Le montant de ce cautionnement doit être au moins égal à 10 % du montant des
-versements restant à faire à la société tels qu'ils sont définis au b-3o. Le cautionnement doit être maintenu jusqu'à la date
-de règlement des comptes de construction de la société [*durée*]. Toutefois, il peut être libéré à l'expiration d'un délai
-d'un an après l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les actions ou parts cédées, si le
-cessionnaire n'a intenté aucune action dans ce délai à l'encontre du cédant;
+versements restant à faire à la société tels qu'ils sont définis au 3° du b. Le cautionnement doit être maintenu jusqu'à la
+date de règlement des comptes de construction de la société. Toutefois, il peut être libéré à l'expiration d'un délai d'un an
+après l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les actions ou parts cédées, si le cessionnaire
+n'a intenté aucune action dans ce délai à l'encontre du cédant ;
 
-d. La société de construction doit intervenir à l'acte de cession et justifier qu'elle bénéficie de l'engagement pris par un
+d) La société de construction doit intervenir à l'acte de cession et justifier qu'elle bénéficie de l'engagement pris par un
 établissement de crédit ou une société de caution mutuelle constituée conformément aux dispositions de la loi modifiée du 13
 mars 1917, de répondre aux appels de fonds de la société en cas de défaillance des associés.
-
-1)  Arrêté à émettre.
 
 **Liens relatifs à cet article**
 
@@ -7228,80 +7254,79 @@ mars 1917, de répondre aux appels de fonds de la société en cas de défaillan
 
 	  - CGI 1655 ter
 	  - CGI 219 II
-	  - CGI 235 quater I, I bis, I ter
 	  - CGI 238 octies
-	  - Loi n°1917-03-13 MODIFIEE
+	  - Loi n°1917-03-13
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°89-801 1989-10-27
 
 	**Modifié par**:
 
-	  - Loi n°84-46 1984-01-24 art. 15, art. 94 II JORF 25 janvier 1984
+	  - Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
 
 
 ###### Article 168
 
-Les dispositions des articles 219-II, 235 quater-I, cinquième alinéa, et 238 octies-I du code général des impôts ne sont pas
-applicables aux plus-values provenant de ventes d'immeubles ou de cession d'actions ou de parts qui ont été précédées de
-versements d'acomptes ou d'avances faits, à quelque titre que ce soit, directement ou par personne interposée.
+Les dispositions du II de l'article 219 et du I de l'article 238 octies du code général des impôts ne sont pas applicables
+aux plus-values provenant de ventes d'immeubles ou de cession d'actions ou de parts qui ont été précédées de versements
+d'acomptes ou d'avances faits, à quelque titre que ce soit, directement ou par personne interposée.
 
 Ne sont pas considérés comme des acomptes ou avances au sens de l'alinéa précédent les dépôts de garantie effectués,
 préalablement à la conclusion d'une vente ou d'une cession, à un compte spécial ouvert au nom de l'acquéreur par un organisme
-habilité à cet effet, sous réserve que ces dépôts n'excèdent pas 5 % [*pourcentage, montant limite*] du prix de la vente ou
-de la cession.
+habilité à cet effet, sous réserve que ces dépôts n'excèdent pas 5 % du prix de la vente ou de la cession.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 219 II
-	  - CGI 235 quater I AL. 5
 	  - CGI 238 octies I
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+	**Modifié par**:
+
+	  - Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989 : Conséquence de la suppression de l'article 235 quater du code général des impôts
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 14 juillet 1989
 
 
 ###### Article 169
 
-Sous réserve des dispositions de l'article 171-O bis D, en cas de vente d'un immeuble en l'état futur d'achèvement définie à
-l'article 166, la plus-value est réputée réalisée à la date de délivrance du récépissé de la déclaration visée à l'article
-165.
+En cas de vente d'un immeuble en l'état futur d'achèvement définie à l'article 166, la plus-value est réputée réalisée à la
+date de délivrance du récépissé de la déclaration visée à l'article 165.
 
-Toutefois, lorsqu'il est exigible, le prélèvement prévu à l'article 235 quater-I, I bis et I ter du code général des impôts
-est provisoirement liquidé au moment de la cession sur une base égale à 10 % du prix de vente de l'immeuble ou de la fraction
-d'immeuble en l'état futur d'achèvement. Il est procédé à la régularisation du prélèvement finalement dû par le redevable
-dans le mois suivant celui de la date de la réalisation définitive de la plus-value, telle qu'elle est définie au premier
-alinéa.
-
-Par dérogation aux dispositions de l'alinéa qui précède le cédant peut être dispensé d'effectuer la liquidation provisoire
-s'il fournit des garanties pour le paiement définitif du prélèvement et si ces garanties sont estimées suffisantes par
-l'administration.
-
-Lorsqu'il a constitué le cautionnement prévu à l'article 167-c, troisième alinéa, le cédant des droits sociaux peut différer
-le paiement de l'impôt afférent à la plus-value réalisée jusqu'à la libération de ce cautionnement, sans que ledit paiement
-puisse être reporté au-delà d'un an après l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les actions
-ou parts cédées [*délai*].
+Lorsqu'il a constitué le cautionnement prévu au troisième alinéa du c de l'article 167, le cédant des droits sociaux peut
+différer le paiement de l'impôt afférent à la plus-value réalisée jusqu'à la libération de ce cautionnement, sans que ledit
+paiement puisse être reporté au-delà d'un an après l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les
+actions ou parts cédées.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 165
-	  - CGIAN2 166
-	  - CGIAN2 167 c AL. 3
-	  - CGIAN2 171-O bis D CGI 235 quater I, I bis, I ter
+	  - CGIAN2 165, 166, 167
 
 	**Codifié par**:
 
-	  - Décret n°82-881 1982-10-15
+	  - Décret n°89-801 1989-10-27
 
 	**Modifié par**:
 
-	  - Décret n°82-263 du 23 mars 1982 - art. 4 (V) JORF 25 MARS 1982
+	  - Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
 
 
 ###### Article 170
@@ -7319,25 +7344,28 @@ La construction des immeubles qui composent le groupe doit constituer une opéra
 faisant l'objet d'un accord préalable unique ou d'un permis de construire unique.
 
 Cette opération doit être réalisée sur un terrain appartenant à une seule personne physique ou morale, à une copropriété
-régie par la loi no 65-557 du 10 juillet 1965 ou à une indivision.
+régie par la loi n° 65-557 du 10 juillet 1965 ou à une indivision.
 
 La superficie développée des immeubles ou parties d'immeubles affectés ou destinés à être affectés à l'habitation doit être
 égale aux trois quarts au moins de la superficie développée totale des immeubles composant le groupe.
 
-Lorsque cette dernière condition n'est pas remplie, chaque immeuble doit être considéré isolément pour l'application des
-articles 235 quater et 238 octies du code général des impôts.
+Lorsque cette dernière condition n'est pas remplie, chaque immeuble doit être considéré isolément pour l'application de
+l'article 238 octies du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 235 octies
-	  - CGI 235 quater
+	  - CGI 238 octies
 	  - Loi n°65-557 1965-07-10
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°89-801 1989-10-27
+
+	**Modifié par**:
+
+	  - Décret n°89-801 1989-10-27 : Conséquence de la suppression de l'article 235 quater du code général des impôts, incorporé le 14 juillet 1989
 
 
 ##### II : Participation des salariés aux résultats de l'entreprise
@@ -16566,6 +16594,61 @@ première réunion.
 
 ##### A : Accidents de circulation.
 
+###### Article 322
+
+Conformément à l'article R. 421-27 du code des assurances, les contributions prévues pour l'alimentation du fonds de garantie
+créé au profit des victimes d'accidents d'automobile et prévu à l'article 1628 quater du code général des impôts sont assises
+et recouvrées dans les conditions suivantes :
+
+1° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
+et rappels compris et annulations déduites, relatives à l'assurance des véhicules terrestres à moteur et des remorques ou
+semi-remorques des véhicules. Elle est liquidée et recouvrée par le fonds de garantie;
+
+2° La contribution des responsables d'accidents causés par l'utilisation  des véhicules visés au 1°, non bénéficiaire d'une
+assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des dommages résultant de
+ces accidents.
+
+La contribution est recouvrée sous les mêmes garanties qu'en matière de droits d'enregistrement par la direction générale des
+impôts sur la notification qui lui est faite par le fonds de garantie.
+
+La contribution doit être acquitée dans un délai d'un mois à compter de la réclamation adressée par la direction générale des
+impôts;
+
+3° La contribution des assurés est assise sur toutes les primes ou cotisations qu'ils versent aux entreprises d'assurance
+mentionnées à l'article L. 421-2 du code des assurances pour l'assurance des risque de responsabilité civile résultant
+d'accidents causés par les véhicules définis au 1°. Elle est perçue par les entreprises d'assurance et recouvrée selon les
+modalités fixées par arrêté du ministre du budget (1).
+
+Un décret en Conseil d'Etat détermine les modalités d'assiette de la contribution éxigée pour les véhicules étrangers (2).
+
+(1) Annexe IV, art. 159 quinquies.
+
+(2) Articles 322 C à 322 F .
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1628 quater
+	  - CGIAN2 322 C à CGIAN2 322 F
+	  - CGIAN4 159 quinquies
+	  - Code des assurances - art. L421-2 (M)
+	  - Code des assurances - art. R421-27 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
+
 ###### Article 322 A
 
 Les taux des contributions visées à l'article  322 sont fixés par décret rendu sur la proposition du ministre de l'économie
@@ -16655,6 +16738,37 @@ appartenant à l'Etat français.
 	**Codifié par**:
 
 	  - Décret n°87-940 1987-11-23
+	  - Décret n°95-1281 1995-12-11
+
+	**Abrogé par**:
+
+	  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+###### Article 322 D
+
+Les contrats souscrits, pour l'assurance des risques de responsabilité civile résultant d'accidents dans lesquels sont
+impliqués des véhicules à moteur étrangers, auprès des sociétés d'assurances ou assureurs mentionnés à l'article L 421-2 du
+code des assurances, donnent lieu au versement de la contribution prévue au 3° de l'article 322.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 322
+	  - Code des assurances - art. L421-2 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988 incorporé à l'annexe 2 le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
 	  - Décret n°95-1281 1995-12-11
 
 	**Abrogé par**:
@@ -17072,10 +17186,14 @@ cette proportion.
 
 ###### Article 328 A
 
-Dans les deux mois [*délai*] qui suivent la réception des décisions des collectivités locales relatives aux taux et aux
-produits des quatre taxes directes locales, les services fiscaux adressent au commissaire de la République du département
-d'implantation la liste des établissements dont les bases d'imposition sont soumises à écrêtement avec l'indication, pour
-chacun d'eux, des sommes qui reviennent au fonds départemental de taxe professionnelle.
+Dans les deux mois qui suivent la réception des décisions des collectivités locales relatives aux taux et aux produits des
+quatre taxes directes locales, les services fiscaux adressent au préfet du département d'implantation la liste des
+établissements dont les bases d'imposition sont soumises à écrêtement avec l'indication, pour chacun d'eux, des sommes qui
+reviennent au fonds départemental de taxe professionnelle.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de l'article 2-4.3.1 de la loi n° 2009-1673 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -17083,9 +17201,22 @@ chacun d'eux, des sommes qui reviennent au fonds départemental de taxe professi
 
 	  - CGIAN2 327 C
 
+	**Modifié par**:
+
+	  - Décret n°88-988 du 17 octobre 1988 - art. 2 (V) JORF 19 octobre 1988
+	  - Décret n°88-988 du 17 octobre 1988 - art. 8 (V) JORF 19 octobre 1988
+
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°89-801 1989-10-27
+
+	**Abrogé par**:
+
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
 
 
 ###### Article 328 B
@@ -18347,6 +18478,8 @@ et à l'orientation de la production cidricole.
 
 " Poirés ;
 
+" Fermentés de pommes aromatisés ou non ;
+
 " Fermentés de poires ;
 
 " Apéritifs à base de cidre et de poiré ;
@@ -18379,11 +18512,11 @@ première mise en oeuvre pour leur fabrication ne l'a pas elle-même été. "
 
 	**Modifié par**:
 
-	  - Décret n°88-576 du 6 mai 1988 - art. 2 (V) JORF 7 mai 1988
+	  - Décret n°88-576 du 6 mai 1988 - art. 2 (V) JORF 7 mai 1988, incorporé à l'annexe 2 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°89-801 1989-10-27
 
 
 ###### Article 360
@@ -19253,6 +19386,110 @@ la date du 1er juillet de l'année civile en cours.
 	  - Décret n°88-1001 1988-10-20
 
 
+#### Chapitre XIII : Taxe parafiscale perçue au profit du bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré.
+
+###### Article 364
+
+Il est institué jusqu'au 31 décembre 1992 une taxe parafiscale au profit du Bureau national interprofessionnel des calvados
+et eaux-de-vie de cidre et de poiré.
+
+" Cette taxe est destinée à financer les frais de fonctionnement et les actions du bureau relatives à l'orientation de la
+production et à la promotion de la qualité des calvados et eaux-de-vie de cidre et de poiré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-577 du 6 mai 1988 - art. 1 (P) JORF 7 mai 1988, incorporé le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+
+###### Article 364 A
+
+Sont soumis à la taxe les calvados et eaux-de-vie de cidre et de poiré bénéficiant d'une appellation contrôlée ou
+réglementée, ainsi que les produits composés élaborés avec ces calvados et eaux-de-vie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-577 du 6 mai 1988 - art. 2 (P) JORF 7 mai 1988, incorporé le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+
+###### Article 364 B
+
+La taxe est perçue au moment de la délivrance des titres de mouvement demandés par les producteurs et fabricants de produits
+visés à l'article 364 A en vue de leur mise à la consommation.
+
+" La taxe est perçue pour le compte du Bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré
+par les bureaux de déclaration de la direction générale des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 364
+
+	**Créé par**:
+
+	  - Décret n°88-577 du 6 mai 1988 - art. 3 (P) JORF 7 mai 1988
+	  - Décret n°88-577 du 6 mai 1988 - art. 4 (P) JORF 7 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+
+###### Article 364 C
+
+La taxe n'est pas perçue lors de la délivrance des titres de mouvement devant légitimer le retour dans les chais des
+récoltants, coopératives ou distillateurs de profession des eaux-de-vie en provenance des lieux de distillation ainsi que les
+expéditions d'eaux-de-vie à destination des fabricants de produits composés dans les régions d'appellation.
+
+" De même, la taxe n'est pas perçue lors de l'établissement des acquits-à-caution devant accompagner des eaux-de-vie chez un
+producteur lui-même redevable de la taxe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-577 du 6 mai 1988 - art. 3 (P) JORF 7 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+
+###### Article 364 D
+
+Le montant maximum de la taxe est fixé à :
+
+" 32 F par hectolitre d'alcool pur pour les calvados et les produits composés élaborés avec ces calvados ;
+
+" 18 F par hectolitre d'alcool pur pour les eaux-de-vie de cidre ou de poiré et les produits composés élaborés avec ces eaux-
+de-vie.
+
+" Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe, dans ces limites, le montant applicable
+à chacune des deux catégories de produits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-577 du 6 mai 1988 - art. 5 (P) JORF 7 mai 1988, incorporé le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+
 ## Troisième partie : Dispositions communes aux première et deuxième parties
 
 ### Chapitre premier : Obligations des contribuables
@@ -19702,8 +19939,10 @@ conditions prévues au présent article.
 L'agrément est délivré pour une période de trois ans. Il peut être renouvelé selon la procédure prévue aux articles 371 F à
 371 H sur demande présentée au plus tôt six mois avant l'expiration de l'agrément en cours [*délai*].
 
-Lors de l'examen de cette demande, il sera tenu compte de l'action exercée par le centre pour améliorer la gestion des
-entreprises adhérentes et s'assurer de la sincérité des résultats qu'elles déclarent.
+Le renouvellement de l'agrément intervient, à l'exception du premier renouvellement, tous les six ans.
+
+Lors de l'examen de la demande de renouvellement de l'agrément, il sera tenu compte de l'action exercée par le centre pour
+améliorer la gestion des entreprises adhérentes et s'assurer de la sincérité des résultats qu'elles déclarent.
 
 **Liens relatifs à cet article**
 
@@ -19713,9 +19952,9 @@ entreprises adhérentes et s'assurer de la sincérité des résultats qu'elles d
 	  - CGIAN2 371 G
 	  - CGIAN2 371 H
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 17 (V) JORF 28 décembre 1989, incorporé à l'annexe 2 le 14 juillet 1989
 
 
 ###### Article 371 K
@@ -20139,8 +20378,10 @@ L'absence de décision dans le délai fixé vaut acceptation de la demande [*tac
 L'agrément est délivré pour une période de trois ans. Il peut être renouvelé selon la procédure prévue aux articles 371 R à
 371 T sur demande présentée au plus tôt six mois avant l'expiration de l'agrément en cours [*délai*].
 
-Lors de l'examen de cette demande, il sera tenu compte de l'action exercée par l'association pour améliorer la connaissance
-des revenus des adhérents.
+Le renouvellement de l'agrément intervient, à l'exception du premier renouvellement, tous les six ans.
+
+Lors de l'examen de la demande de renouvellement de l'agrément, il sera tenu compte de l'action exercée par l'association
+pour améliorer la connaissance des revenus des adhérents.
 
 **Liens relatifs à cet article**
 
@@ -20150,9 +20391,13 @@ des revenus des adhérents.
 	  - CGIAN2 371 S
 	  - CGIAN2 371 T
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 17 (V) JORF 28 décembre 1988 incorporé à l'annexe 2 le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
 
 
 ###### Article 371 V
@@ -20904,539 +21149,6 @@ exerce, en droit ou en fait, directement ou par personne interposée et sous que
 
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
-
-## IMPOTS D'ETAT
-
-### IMPOTS DIRECTS ET TAXES ASSIMILEES
-
-#### TAXE SUR LES ENCOURS DE CREDITS.
-
-###### Article 163 A
-
-Les crédits [*définition*] mentionnés à l'article 235 ter N du code général des impôts s'entendent des crédits définis à la
-classe 2 de l'annexe au règlement comptable des établissements de crédit établi par la commission bancaire.
-
-Ces crédits sont comptabilisés à la date du 31 décembre de l'année précédant celle de l'imposition, après règlement de
-l'échéance.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter N
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-	  - Décret n°89-801 1989-10-27
-
-	**Modifié par**:
-
-	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
-
-
-###### Article 163 C
-
-Les crédits accordés à des collectivités publiques [*définition*] mentionnés à l'article 235 ter O du code général des impôts
-sont ceux consentis soit aux collectivités locales et à leurs groupements, soit aux établissements publics non dotés du
-caractère industriel ou commercial, soit à des Etats étrangers ou à des institutions publiques internationales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter O
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
-	  - HISTO: EDITION 1979-07-01
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
-
-
-###### Article 163 D
-
-Les crédits à l'exportation [*définition*] mentionnés à l'article 235 ter O du code général des impôts comprennent, qu'ils
-soient accordés à des fournisseurs français ou à des acheteurs étrangers, les crédits de préfinancement d'exportation, les
-crédits de mobilisation de créances nées à court ou à moyen terme sur l'étranger et les crédits à long terme à l'exportation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter O
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
-	  - HISTO: EDITION 1979-07-01
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
-
-
-###### Article 163 E
-
-Les crédits à moyen ou à long terme à l'équipement des entreprises dont les taux sont bonifiés [*définition*], mentionnés à
-l'article 235 ter O du code général des impôts, sont ceux qui, accordés par les établissements prêteurs à des entreprises de
-toute nature en vue de leur équipement, donnent lieu, de la part de l'Etat ou d'une collectivité publique, à une aide
-destinée à réduire les taux d'intérêt. Cette aide prend l'une des formes suivantes :
-
-Versement à l'établissement prêteur d'une subvention ou d'une prime directement liée à une réduction des taux d'intérêt;
-
-Attribution à l'établissement prêteur d'une ressource provenant de prêts du fonds de développement économique et social
-(FDES), ou du produit d'émissions obligataires réalisées ou garanties par l'Etat ou une collectivité publique;
-
-Octroi d'une garantie de l'Etat ou d'une collectivité publique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter O
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
-
-
-###### Article 163 F
-
-Les crédits à moyen ou à long terme au logement dont les taux sont bonifiés ou font l'objet d'une réglementation particulière
-[*définition*], qui sont mentionnés à l'article 235 ter O du code général des impôts, comprennent notamment :
-
-Les prêts accordés aux organismes d'HLM en application des chapitres Ier et II du titre III du livre IV du code de la
-construction et de l'habitation;
-
-Les prêts à la construction accordés en application des chapitres Ier et IV du titre Ier du livre III du code de la
-construction et de l'habitation ;
-
-Les prêts légaux d'épargne-logement, d'épargne-crédit et d'épargne-construction accordés en application du chapitre V du
-titre Ier du livre III du code de la construction et de l'habitation;
-
-Les prêts ouvrant droit à l'aide personnalisée au logement, accordés en application du titre III du livre III du code de la
-construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter O
-	  - Code de la construction L311-1 A Code de la construction L311-14
-	  - Code de la construction L315-1 A Code de la construction L315-32
-	  - Code de la construction L431-1 A Code de la construction R432-6
-	  - Code de la construction R311-1 A Code de la construction R311-66
-	  - Code de la construction R314-1 A Code de la construction R314-27
-	  - Code de la construction R315-1 A Code de la construction R315-82
-	  - Code de la construction R331-1 A Code de la construction R331-77
-	  - Code de la construction R431-1 A Code de la construction R432-9
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
-
-
-###### Article 163 G
-
-Pour l'application de l'article 235 ter P du code général des impôts, les sociétés issues de fusions ou de scissions ayant
-pris effet après le 31 décembre 1978 sont imposées à la taxe sur les encours dans les mêmes conditions que les entreprises ou
-établissements existant avant le 1er janvier 1979 [*date*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter P
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
-
-
-#### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES.
-
-###### Article 171
-
-Les contribuables passibles du prélèvement prévu à l'article 235 quater-I, I bis et I ter du code général des impôts sont
-tenus de souscrire une déclaration donnant toutes les indications relatives à la détermination de la base du prélèvement et à
-la liquidation de celui-ci.
-
-Cette déclaration est établie conformément au modèle fixé par l'administration. Elle est souscrite en double exemplaire.
-
-Elle est déposée à la recette des impôts compétente en même temps que l'acte constatant la cession ou la déclaration y
-afférente, lorsque la cession dont résulte la plus-value fait l'objet d'un acte, ou d'une déclaration, soumis à la formalité
-de l'enregistrement.
-
-Dans les situations visées à l'article 169, deuxième et troisième alinéas, elle est souscrite dans le délai prévu pour la
-liquidation définitive du prélèvement dû par le redevable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 quater I, I bis, I ter
-	  - CGIAN2 169 AL. 2, AL. 3
-
-	**Liens**:
-
-	  - PEREMPTION: Conséquence de la suppression des articles 235 quater à 235 nonies du code général des impôts, incorporé le 14 juillet 1989
-	  - HISTO: EDITION 1979-07-01
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
-
-
-###### Article 171-0 bis
-
-Pour l'application de l'article 235 quinquies-III 2° du code général des impôts [*concernant le prélèvement obligatoire des
-profits de construction*], les immeubles sont considérés comme achevés à la date de délivrance du récépissé de la déclaration
-prévue aux articles R 460-1 à R 460-4 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
-	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
-	  - HISTO: Edition du 14 juillet 1989
-
-	**Cite**:
-
-	  - CGI 235 quinquies III 2°
-	  - Code de l'urbanisme R460-1 A Code de l'urbanisme R460-4
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-	  - Décret n°89-801 1989-10-27
-
-	**Créé par**:
-
-	  - Décret n°82-263 du 23 mars 1982 - art. 1 (V) JORF 25 mars 1982
-
-
-###### Article 171-0 bis A
-
-1. Les acomptes du prélèvement prévu à l'article 235 quinquies-II du code général des impôts sont liquidés, au taux de 3,33
-%, sur le montant des cessions réalisées au cours de chaque trimestre.
-
-2. Le redevable des acomptes est tenu de souscrire, en double exemplaire, une déclaration établie conformément à un modèle
-fixé par l'administration. Elle est déposée à la recette des impôts auprès de laquelle doit être acquitté le prélèvement dans
-les dix premiers jours suivant l'expiration de chaque trimestre.
-
-Le paiement des acomptes accompagne le dépôt de la déclaration.
-
-3. Par dérogation aux dispositions des 1 et 2, le redevable est dispensé de déposer la déclaration relative aux acomptes et
-d'acquitter ces derniers s'il fournit des garanties estimées suffisantes par l'administration pour le paiement définitif du
-prélèvement.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
-	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
-	  - HISTO: Edition du 14 juillet 1989
-
-	**Cite**:
-
-	  - CGI 235 quinquies II
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-	  - Décret n°89-801 1989-10-27
-
-	**Créé par**:
-
-	  - Décret n°82-263 du 23 mars 1982 - art. 5 (V) JORF 25 mars 1982
-
-
-###### Article 171-0 bis B
-
-1. Le représentant agréé mentionné à l'article 235 octies du code général des impôts s'engage à remplir les formalités
-auxquelles sont soumises les personnes passibles du prélèvement et des acomptes et à acquitter ce prélèvement et ces acomptes
-en leur lieu et place.
-
-2. Les déclarations relatives aux acomptes et au prélèvement doivent comporter la mention du représentant agréé et être
-visées par ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 octies
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
-	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
-	  - HISTO: Edition du 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-	  - Décret n°89-801 1989-10-27
-
-	**Créé par**:
-
-	  - Décret n°82-263 du 23 mars 1982 - art. 6 (V) JORF 25 mars 1982
-
-
-###### Article 171-0 bis C
-
-Pour tout acte ou déclaration constatant la cession par les personnes physiques ou morales visées à l'article 235 octies du
-code général des impôts, d'immeubles ou de fractions d'immeubles qu'elles ont construits, de droits immobiliers s'y
-rapportant ou d'actions ou parts de sociétés visées à l'article 1655 ter du même code [*sociétés immobilières de
-copropriété*], l'accomplissement de la formalité fusionnée prévue à l'article 647 du code précité ou de la formalité de
-l'enregistrement est subordonné à la mention, au pied de l'acte ou de la déclaration et, le cas échéant, dans l'extrait prévu
-à l'article 860 du code général des impôts :
-
-Du caractère occasionnel ou habituel des activités de construction-vente du cédant ;
-
-Dans le cas où celui-ci déclare se livrer à des opérations habituelles, de l'identité, de l'adresse, du domicile ou du siège
-social du représentant agréé, ainsi que la date de son agrément.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1655 ter
-	  - CGI 235 octies
-	  - CGI 647
-	  - CGI 860
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
-	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
-	  - HISTO: Edition du 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-	  - Décret n°89-801 1989-10-27
-
-	**Créé par**:
-
-	  - Décret n°82-263 du 23 mars 1982 - art. 7 (V) JORF 25 mars 1982
-
-
-###### Article 171-0 bis D
-
-Pour l'application de l'article 235 quater du code général des impôts, en cas de vente d'un immeuble à construire livré avant
-le 1er janvier 1982, l'immeuble est réputé achevé, nonobstant les dispositions des articles 165 et 169, au plus tard à la
-date de la livraison.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 165
-	  - CGI 169
-	  - CGI 235 quater
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
-	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
-	  - HISTO: Edition du 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-	  - Décret n°89-801 1989-10-27
-
-	**Créé par**:
-
-	  - Décret n°82-263 du 23 mars 1982 - art. 4 (V) JORF 25 mars 1982
-
-
-###### Article 171-0 bis E
-
-Lorsqu'un immeuble ou une fraction d'immeuble a été vendu et achevé, au sens des articles 165 et 169, avant le 1er janvier
-1982, mais livré à compter de cette date, le produit net correspondant à cette vente n'est pas compris dans les résultats
-servant d'assiette au prélèvement de 50 %.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 165
-	  - CGI 169
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
-	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-	  - Décret n°89-801 1989-10-27
-
-	**Créé par**:
-
-	  - Décret n°82-263 du 23 mars 1982 - art. 2 (V) JORF 25 mars 1982
-
-
-###### Article 171-0 bis F
-
-En cas de vente en l'état futur d'achèvement avant le 1er janvier 1982 d'un immeuble ou d'une fraction d'immeuble qui a été
-achevé et livré à compter de cette date, le prélèvement liquidé provisoirement au moment de la vente est imputé sur le
-prélèvement de 50 % exigible à raison des profits dégagés par cette vente.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
-	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
-	  - HISTO: Edition du 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-	  - Décret n°89-801 1989-10-27
-
-	**Créé par**:
-
-	  - Décret n°82-263 du 23 mars 1982 - art. 3 (V) JORF 25 mars 1982
-
-
-###### Article 171-0 bis G
-
-Les règles définies aux articles 171-0 bis D à 171-0 bis F sont applicables en cas de cession d'actions ou de parts d'une
-société visée à l'article 1655 ter du code général des impôts [*société immobilière de copropriété*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1655 ter
-	  - CGIAN2 171-0 bis D A CGIAN2 171-0 bis F
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
-	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
-	  - HISTO: Edition du 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-	  - Décret n°89-801 1989-10-27
-
-	**Créé par**:
-
-	  - Décret n°82-263 du 23 mars 1982 - art. 2 (V) JORF 25 mars 1982
-	  - Décret n°82-263 du 23 mars 1982 - art. 3 (V) JORF 25 mars 1982
-	  - Décret n°82-263 du 23 mars 1982 - art. 4 (V) JORF 25 mars 1982
-
-
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS.
-
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE
-
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.
-
-###### Article 322
-
-Conformément à l'article R. 420-27 du code des assurances, les contributions prévues pour l'alimentation du fonds de garantie
-créé au profit des victimes d'accidents d'automobile et prévu à l'article 1628 quater du code général des impôts sont assises
-et recouvrées dans les conditions suivantes :
-
-1° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
-et rappels compris et annulations déduites, relatives à l'assurance des véhicules terrestres à moteur et des remorques ou
-semi-remorques des véhicules. Elle est liquidée et recouvrée par le fonds de garantie;
-
-2° La contribution des responsables d'accidents causés par l'utilisation  des véhicules visés au 1°, non bénéficiaire d'une
-assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des dommages résultant de
-ces accidents.
-
-La contribution est recouvrée sous les mêmes garanties qu'en matière de droits d'enregistrement par la direction générale des
-impôts sur la notification qui lui est faite par le fonds de garantie.
-
-La contribution doit être acquitée dans un délai d'un mois à compter de la réclamation adressée par la direction générale des
-impôts;
-
-3° La contribution des assurés est assise sur toutes les primes ou cotisations qu'ils versent aux entreprises d'assurance
-mentionnées à l'article L. 420-2 du code des assurances pour l'assurance des risque de responsabilité civile résultant
-d'accidents causés par les véhicules définis au 1°. Elle est perçue par les entreprises d'assurance et recouvrée selon les
-modalités fixées par arrêté du ministre du budget (1).
-
-Un décret en Conseil d'Etat détermine les modalités d'assiette de la contribution éxigée pour les véhicules étrangers (2).
-
-(1) Annexe IV, art. 159 quinquies.
-
-(2) Articles 322 C à 322 F .
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1628 quater
-	  - CGIAN1 305 AE à CGIAN1 305 AG
-	  - CGIAN4 159 quinquies
-	  - Code des assurances - art. L420-2 (T)
-	  - Code des assurances R420-27
-
-	**Anciens textes**:
-
-	  - CGIAN1 305 AA
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
-##### CONTRIBUTION POUR LES VEHICULES ETRANGERS.
-
-###### Article 322 D
-
-Les contrats souscrits, pour l'assurance des risques de responsabilité civile résultant d'accidents dans lesquels sont
-impliqués des véhicules à moteur étrangers, auprès des sociétés d'assurances ou assureurs mentionnés à l'article L 420-2 du
-code des assurances, donnent lieu au versement de la contribution prévue à l'article 322.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 305 AE
-
-	**Cite**:
-
-	  - CGIAN2 322
-	  - Code des assurances - art. L420-2 (T)
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
 
