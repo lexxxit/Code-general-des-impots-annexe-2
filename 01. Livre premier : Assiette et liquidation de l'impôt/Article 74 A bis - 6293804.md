@@ -1,0 +1,22 @@
+# Article 74 A bis
+
+Pour l'application de l'article 150 A bis du code général des impôts, sont considérées comme sociétés à prépondérance
+immobilière les sociétés non cotées en bourse, autres que les sociétés immobilières pour le commerce et l'industrie, dont
+l'actif est constitué pour plus de 50 % de sa valeur par des immeubles ou des droits portant sur des immeubles, non affectés
+à leur propre exploitation industrielle, commerciale, agricole ou à l'exercice d'une profession non commerciale.
+
+Les éléments d'actif sont estimés à leur valeur réelle à la date de la cession.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 A bis
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
