@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1979-12-31
+Version Consolidée au 1980-01-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8545,6 +8545,34 @@ est appréciée en fonction des recettes.
 	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
 
 
+###### Article 310 HE
+
+Les recettes servant à calculer la base d'imposition des redevables définis à l'article 310 HC s'entendent, selon le cas, de
+celles retenues pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés ; il n'est pas tenu compte des
+honoraires, courtages ou commissions rétrocédés à des tiers, lorsque ces sommes ont fait l'objet de la déclaration prévue par
+l'article 240 du code général des impôts.
+
+Les redevables qui exercent leur activité dans plusieurs communes où ils disposent de locaux professionnels doivent déclarer
+séparément, et sous leur responsabilité, les recettes se rapportant à chacune d'elles ; à défaut de pouvoir procéder à une
+localisation exacte, les redevables sont autorisés à répartir leurs recettes totales proportionnellement à la valeur locative
+des locaux professionnels dont ils disposent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 240
+	  - CGIAN2 310 HC
+
+	**Modifié par**:
+
+	  - Loi n°80-10 du 10 janvier 1980 - art. 19 (V) JORF 11 janvier 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ###### Article 310 HH
 
 Pour les entreprises qui exercent une partie de leur activité en dehors du territoire national et qui disposent en France de
@@ -8744,6 +8772,64 @@ est souscrite par l'ancien exploitant.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+
+
+###### Article 310 HR
+
+La déclaration récapitulative prévue par l'article 1477 du code général des impôts est adressée au service des impôts auprès
+duquel est produite la déclaration annuelle de résultats.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1477
+
+	**Modifié par**:
+
+	  - Loi n°80-10 du 10 janvier 1980 - art. 19 (V) JORF 11 janvier 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 83 () JORF 31 décembre 2002
+	  - HISTO: Edition du 1er janvier 2003
+
+
+##### VII : Annualité de la taxe
+
+###### Article 310 HS
+
+Pour effectuer les corrections à apporter à la valeur locative des immobilisations et au montant des salaires, en application
+des II à V de l'article 1478 du code général des impôts, tout mois commencé est considéré comme un mois entier.
+
+Cette règle est également applicable à la détermination des recettes prises en compte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1478 III à V
+
+	**Modifié par**:
+
+	  - Loi n°80-10 du 10 janvier 1980 - art. 19 (V) JORF 11 janvier 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D422-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
 
 
 ##### Section III : Règles d'évaluation de la valeur locative des biens imposables
@@ -13792,33 +13878,6 @@ taxe professionnelle, pour la période restant à courir.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 310 HE
-
-Les recettes servant à calculer la base d'imposition des redevables définis à l'article 310 HC s'entendent, selon le cas, de
-celles retenues pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés; il n'est pas tenu compte des
-honoraires, courtages ou commissions rétrocédés à des tiers, lorsque ces sommes ont fait l'objet de la déclaration prévue par
-l'article 240 du code général des impôts.
-
-Les redevables qui exercent leur activité dans plusieurs communes où ils disposent de locaux professionnels doivent déclarer
-séparément, et sous leur responsabilité, les recettes se rapportant à chacune d'elles; à défaut de pouvoir procéder à une
-localisation exacte, les redevables sont autorisés à répartir leurs recettes totales proportionnellement à la valeur locative
-des locaux professionnels dont ils disposent.
-
-En cas de création d'activité en cours d'année, la base d'imposition est calculée d'après les recettes de cette année; pour
-l'imposition de l'année suivante, le montant des recettes est corrigé afin de correspondre à une année pleine.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 240
-	  - CGIAN2 310 HC
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 310 HG
 
 Pour les contribuables non sédentaires et les contribuables ayant une installation fixe, mentionnés à l'article 1470 du code
@@ -13839,45 +13898,6 @@ après abattement de 25.000 F [*montant*].
 
 	  - CGI 1469 1°, 3°, 4°
 	  - CGI 1470
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 310 HR
-
-La déclaration récapitulative prévue par l'article 1477 du code général des impôts doit être souscrite avant le 1er octobre
-de chaque année [*date limite*] ; elle est adressée au service des impôts auprès duquel est  produite la déclaration annuelle
-de résultats.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1477
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 310 HS
-
-Pour effectuer les corrections à apporter à la valeur locative des immobilisations et au montant des salaires, en application
-de l'article 1478-3° et 4° du code général des impôts, tout mois commencé est considéré comme un mois entier.
-
-Cette règle est également applicable à la détermination des recettes prises en compte.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1478 3°, 4°
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D422-1 (V)
 
 	**Liens**:
 
