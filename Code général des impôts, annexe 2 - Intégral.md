@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-03-05
+Version Consolidée au 2004-03-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2082,11 +2082,12 @@ compte auprès d'un intermédiaire habilité, un document établi par ce dernier
 
 ###### Article 74-0 G
 
-Pour l'application des dispositions des 12 et 13 de l'article 150-0 D du code général des impôts, les contribuables qui
-entendent imputer les pertes constatées en cas d'annulation de valeurs mobilières, de droits sociaux ou de titres assimilés
-doivent joindre à la déclaration spéciale des plus-values mentionnée à l'article 74-0 F :
+Pour l'application des dispositions des 12 et 13 de l'article 150-0 D du code général des impôts, les contribuables doivent
+joindre à la déclaration spéciale des plus-values prévue à l'article 74-0 F :
 
-a) La copie d'un des jugements mentionnés au premier alinéa du 12 de l'article 150-0 D du code général des impôts ;
+a) Soit la copie d'un extrait d'un des jugements mentionnés au premier alinéa du 12 de l'article 150-0 D du code général des
+impôts ou au deuxième alinéa, en cas d'exercice de l'option prévue à cet alinéa, soit la copie de l'une des formalités
+assurant la publicité de ces jugements dans les conditions prévues à l'article 21 du décret n° 85-1388 du 27 décembre 1985 ;
 
 b) Une copie d'un document justifiant du nombre de titres détenus à la date du jugement ;
 
@@ -2098,14 +2099,36 @@ c) Le montant des pertes constatées ainsi que les éléments nécessaires à le
 
 	  - CGI 150-0 D
 	  - CGIAN2 74-0 F
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 21 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
+	  - Décret n°2004-222 du 11 mars 2004 - art. 1 () JORF 14 mars 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 74-0 G bis
+
+L'option prévue au deuxième alinéa du 12 de l'article 150-0 D du code général des impôts est formulée sur la déclaration
+mentionnée à l'article 74-0 F.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-222 du 11 mars 2004 - art. 1 () JORF 14 mars 2004
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F (V)
+	  - Code général des impôts, CGI. - art. 150-0 D bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 74-0 H
@@ -3051,22 +3074,53 @@ l'article 163 octodecies A du code général des impôts doit joindre à sa déc
 
 1° La copie du reçu de sa souscription en numéraire au capital initial ou à l'augmentation de capital de la société ;
 
-2° La copie d'un des jugements mentionnés au deuxième alinéa du I de l'article précité accompagnée, le cas échéant, de la
-copie du jugement mentionné au premier alinéa du II bis du même article.
+2° Soit la copie d'un extrait d'un des jugements mentionnés au deuxième alinéa du I de l'article 163 octodecies A du code
+général des impôts ou au troisième alinéa, en cas d'exercice de l'option prévue à cet alinéa, accompagnée, le cas échéant, de
+la copie d'un extrait du jugement mentionné au premier alinéa du II bis du même article, soit la copie de l'une des
+formalités assurant la publicité de ces jugements dans les conditions prévues à l'article 21 du décret n° 85-1388 du 27
+décembre 1985.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 163 octodecies A
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 21 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-584 du 6 juillet 1994 - art. 1 () JORF 13 juillet 1994
+	  - Décret n°2004-222 du 11 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 75-0 Y bis
+
+L'option prévue au troisième alinéa du I de l'article 163 octodecies A du code général des impôts est formulée sur papier
+libre. Elle est jointe à la déclaration mentionnée à l'article 170 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 octodecies A, 170
+
+	**Créé par**:
+
+	  - Décret n°2004-222 du 11 mars 2004 - art. 2 () JORF 14 mars 2004
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 59 III, VI Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 59 (V) JORF 27 décembre 2006
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 
 ##### I : Crédit d'impôt - Paiement des revenus de capitaux mobiliers - Obligations des établissements payeurs - Plans d'épargne d'entreprise
