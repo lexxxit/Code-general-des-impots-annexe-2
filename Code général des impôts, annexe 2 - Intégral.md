@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-06-29
+Version Consolidée au 1982-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9206,6 +9206,108 @@ degrés Celsius.
 
 ##### Section unique : Tabacs
 
+##### 0I : Définition des tabacs manufacturés.
+
+###### Article 275 A
+
+Sont considérés comme tabacs manufacturés :
+
+1° Les cigares et les cigarillos ;
+
+2° Les cigarettes ;
+
+3° Le tabac à fumer ;
+
+4° Le tabac à priser ;
+
+5° Le tabac à mâcher, tels que définis aux articles 275 B à 275 G.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 275 B A CGIAN2 275 G
+
+	**Créé par**:
+
+	  - Décret n°82-553 du 29 juin 1982 - art. 2 (V) JORF 1 JUILLET 1982
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 septies (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+
+###### Article 275 D
+
+Sont considérés comme cigarettes les rouleaux de tabac susceptibles d'être fumés en l'état qui ne sont ni des cigares ou des
+cigarillos tels qu'ils sont définis à l'article 275 B ni des produits qui sont assimilés à ceux-ci en vertu de l'article 275
+C.
+
+Un rouleau de tabac visé au premier alinéa est considéré, pour l'application du droit de consommation prévu aux articles 575
+et 575 A du code général des impôts, comme deux cigarettes lorsqu'il a une longueur, filtre et embout non compris, supérieure
+à 9 centimètres sans dépasser 18 centimètres, comme trois cigarettes lorsqu'il a une longueur, filtre et embout non compris,
+supérieure à 18 centimètres sans dépasser 27 centimètres et ainsi de suite.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 575
+	  - CGI 575 A
+	  - CGIAN2 275 B
+	  - CGIAN2 275 C
+
+	**Créé par**:
+
+	  - Décret n°82-553 du 29 juin 1982 - art. 5 (V) JORF 1 JUILLET 1982
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+
+###### Article 275 E
+
+Sont considérés comme tabacs à fumer :
+
+1° Le tabac coupé ou fractionné d'une autre façon, filé ou pressé en plaques, qui est susceptible d'être fumé sans
+transformation industrielle ultérieure ;
+
+2° Les déchets de tabac conditionnés pour la vente au détail, qui ne relèvent pas des articles 275 B, 275 C et 275 D et qui
+sont susceptibles d'être fumés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 275 B
+	  - CGIAN2 275 C
+	  - CGIAN2 275 D
+
+	**Créé par**:
+
+	  - Décret n°82-553 du 29 juin 1982 - art. 6 (V) JORF 1 JUILLET 1982
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E bis (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E ter (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+
 ##### I : Régime économique.
 
 ###### Article 276
@@ -15260,6 +15362,49 @@ La surtaxe de compensation n'est pas exigible sur les boissons simplement fermen
 	  - Décret n°86-1086 1986-10-07
 
 
+#### MONOPOLES FISCAUX
+
+##### TABACS.
+
+###### Article 275 B
+
+Sont considérés comme cigares ou cigarillos, s'ils sont susceptibles d'être fumés en l'état :
+
+1° Les rouleaux de tabac constitués entièrement de tabac naturel ;
+
+2° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ;
+
+3° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares et d'une sous-cape, toutes deux en tabac
+reconstitué relevant de la sous-position 24.02 E du tarif douanier commun de la communauté économique européenne [*CEE*],
+lorsque au moins 60 % en poids des particules de tabac ont une largeur et une longueur supérieures à 1,75 millimètre et
+lorsque la cape est apposée en hélice avec un angle aigu minimal de 30 degrés par rapport à l'axe longitudinal du cigare ;
+
+4° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares, en tabac reconstitué relevant de la sous-
+position 24.02 E du tarif douanier commun de la communauté économique européenne, lorsque leur masse unitaire sans filtre ni
+embout est égale ou supérieure à 2,3 grammes et si au moins 60 % en poids des particules de tabac ont une largeur et une
+longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins un tiers de leur longueur est égal ou supérieur à
+34 millimètres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°82-553 du 29 juin 1982 - art. 3 (V) JORF 1 JUILLET 1982
+
+	**Cité par**:
+
+	  - Arrêté du 26 décembre 2007 (V)
+	  - Arrêté du 26 décembre 2007 - art. 1 (VT)
+	  - Arrêté du 26 décembre 2007 - art. 2 (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+
 ### MONOPOLES FISCAUX
 
 #### TABACS.
@@ -15288,39 +15433,6 @@ finances. Toutefois les modalités actuelles de publicité dans les débits rest
 	  - CGI 570 3°
 	  - Loi n°76-616 1976-07-09 ART. 2
 	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 286 A
-
-Les tabacs manufacturés sont répartis entre les différents groupes prévus à l'article 575 du code général des impôts selon
-les règles ci-après :
-
-- constituent des cigares   les rouleaux de tabacs destinés à être fumés et comportant une enveloppe extérieure en tabac
-naturel ou en tabac reconstitué ; dans ce dernier cas l'enveloppe doit être enroulée en hélice et recouvrir une sous-cape en
-tabac, naturel ou reconstitué ;
-
-- constituent des cigarettes   les autres rouleaux de tabacs destinés à être fumés ;
-
-- constituent des tabacs à fumer   les tabacs coupés, ou fractionnés de toute autre manière, pouvant être fumés en l'état
-dans une pipe ou après avoir été roulés dans une feuille de papier ;
-
-- constituent des tabacs à priser   et des tabacs à mâcher les tabacs spécialement préparés à cet effet et ne pouvant être
-fumés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 575
-	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-	**Abrogé par**:
-
-	  - Décret n°82-553 du 29 juin 1982 - art. 1 (V) JORF 1 JUILLET 1982
 
 	**Liens**:
 
@@ -15792,55 +15904,6 @@ considérée comme refusée.
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
-
-### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES.
-
-###### Article 310 HA
-
-Pour l'application de la taxe professionnelle et des taxes additionnelles :
-
-- le montant des recettes est calculé toutes taxes comprises;
-
-- le nombre de salariés est calculé sur l'année civile précédente, et pour l'ensemble de l'entreprise; pour le calcul de ce
-nombre, les travailleurs à mi-temps ou saisonniers sont retenus à concurrence de la durée de leur travail;
-
-- les apprentis sous contrat [*définition*] s'entendent des titulaires d'un contrat d'apprentissage passé dans les conditions
-fixées par le chapitre III de la loi n° 71-576 du 16 juillet 1971; les handicapés physiques [*définition*] s'entendent des
-travailleurs handicapés reconnus par la commission départementale technique d'orientation et de reclassement professionnel
-mentionnée par l'article L 323-11 du code du travail ;
-
-- les dispositions de l'article 1468 et de l'article 1636 A-2° du code général des impôts concernent les chefs d'entreprises
-artisanales tenus de s'inscrire au répertoire des métiers;
-
-- l'établissement [*définition*] s'entend de toute installation utilisée par une entreprise en un lieu déterminé, ou d'une
-unité de production intégrée dans un ensemble industriel ou commercial lorsqu'elle peut faire l'objet d'une exploitation
-autonome;
-
-- les véhicules [*définition*] s'entendent de tous engins circulant à l'extérieur d'une installation, sur terre, dans l'air
-ou sur les eaux;
-
-- la période de référence à retenir pour déterminer les immobilisations et les recettes d'un redevable est constituée par
-l'année précédant celle au titre de laquelle l'imposition est établie, ou par l'exercice clos au cours de cette même année
-précédente lorsque sa durée est égale à douze mois mais ne coincide pas avec l'année civile.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1468
-	  - CGI 1636 A 2°
-	  - Loi n°71-576 1971-07-16 CHAPITRE III
-	  - Code du travail - art. L323-11 (M)
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G bis (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G quater (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ### IMPOSITIONS COMMUNALES
 
