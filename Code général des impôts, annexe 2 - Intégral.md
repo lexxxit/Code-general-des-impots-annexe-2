@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-07-31
+Version Consolidée au 1986-10-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13525,6 +13525,48 @@ détermine à partir de la date de la première mise en circulation. Il s'appré
 	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 
+### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers à l'exception des taxes parafiscales
+
+#### Chapitre II : Enregistrement, publicité foncière et timbre
+
+##### Section III : Fonds de garantie contre les actes de terrorisme.
+
+###### Article 325
+
+Le fonds de garantie prévu à l'article 1628 quinquies est alimenté par une contribution assise sur les primes ou cotisations
+des contrats d'assurance de biens (1) souscrits auprès d'une entreprise ayant obtenu l'agrément prévu par l'article L321-1 du
+code des assurances.
+
+Cette contribution est recouvrée par les entreprises d'assurances suivant les mêmes règles, sous les mêmes garanties et
+sanctions que la taxe sur les conventions d'assurances. Elle est versée à la recette des impôts suivant les modalités prévues
+pour ladite taxe et reversée au fonds de garantie, déduction faite de 2% pour frais d'assiette et de perception.
+
+Le taux de la contribution est fixé, chaque année, par arrêté du ministre chargé de l'économie et des finances (1).
+
+(1) Voir annexe IV, art. 159 quinquies A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1628 quater II
+	  - CGIAN1 305 AA
+	  - Code rural 366 ter
+	  - Décret n°68-170 1968-02-19 ART. 22
+
+	**Modifié par**:
+
+	  - Décret n°86-1111 du 15 octobre 1986 - art. 4 (Ab) JORF 16 octobre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies A (M)
+
+
 ### Titre VI : Taxes parafiscales
 
 #### Chapitre II : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
@@ -18241,55 +18283,6 @@ première réunion [*date*].
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 325
-
-Pour l'application des dispositions de l'article 366 ter du code rural, les contributions prévues à l'article 1628 quater-II
-du code général des impôts pour l'alimentation du fonds de garantie sont assises dans les conditions suivantes :
-
-1° La contribution des sociétés d'assurances ou des assureurs est proportionnelle aux sommes recouvrées par eux au titre de
-la contribution des assurés visée au 3°;
-
-2° La contribution des responsables, non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteinte à la
-personne, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des dommages résultant de
-ces accidents. Sont considérées comme bénéficiaires d'une assurance [*définition*] au sens du présent article, les personnes
-dont la responsabilité civile résultant d'accidents de chasse ou de destruction des animaux nuisibles est couverte par un
-contrat d'assurance. En cas d'instance judiciaire la décision doit faire apparaître si le responsable est ou non bénéficiaire
-d'une assurance . La décision de justice ou la transaction doit opérer le cas échéant une ventilation entre les indemnités
-dues à titre de réparation des dommages résultant d'atteintes à la personne et celles qui sont dues à titre de réparation de
-dommages aux biens ;
-
-3° La contribution des assurés est fixée à une somme forfaitaire par personne garantie pour sa responsabilité civile
-résultant d'accidents de chasse ou de destruction des animaux nuisibles.
-
-Ces contributions sont liquidées et recouvrées selon les modalités prévues en matière automobile en application des
-dispositions de l'article 305 AA de l'annexe I au code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1628 quater II
-	  - CGIAN1 305 AA
-	  - Décret n°68-170 1968-02-19 ART. 22
-	  - Code rural 366 ter
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 4 JORF 18 janvier 1981) M(Décret 86-452 1986-03-14 art. 26 JORF 16 mars 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-1087 1986-10-07 art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies A (M)
-
-
 ###### Article 326
 
 Les taux et quotité des contributions visées à l'article 325 sont fixés par décret (1) rendu sur la proposition du ministre
@@ -19808,90 +19801,6 @@ chargement des marchandises. Il doit être conservé par le destinataire.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-### ARTISANS *DEFINITION*.
-
-###### Article 369
-
-Les artisans qui ont recours à un outillage mécanique mû par la force motrice peuvent être considérés comme artisans au sens
-des dispositions de l'article 1649 quater A du code général des impôts, lorsque l'emploi de cet outillage ne modifie pas le
-caractère de leur activité. Il en est ainsi lorsque cet outillage se compose de machines dont le fonctionnement requiert
-l'intervention personnelle et constante de celui qui les utilise et met en jeu son attention, son habileté professionnelle ou
-même sa force musculaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 quater A
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°69-1161 1969-12-24 art. 5 I Finances pour 1970 JORF 27 décembre 1969
-	  - SPEC_APPLI: Décret n°86-1086 du 7 octobre 1986 - art. 3, v. init.
-	  - HISTO: EDITION 1979-07-01
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-
-###### Article 371
-
-Les artisans peuvent, sans perdre la qualité d'artisan au sens des dispositions de l'article 1649 quater A du code général
-des impôts, avoir recours, pour l'écoulement de leur production, à des méthodes de vente commerciales et, notamment,
-employer, en sus des concours autorisés par les articles 1649 quater A-2° et 1649 quater B du code précité, un représentant
-de commerce à la condition que ce dernier ne participe en aucune façon à la production et qu'il ne travaille pas
-exclusivement pour leur compte.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 quater A 2°
-	  - CGI 1649 quater B
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°69-1161 1969-12-24 art. 5 I Finances pour 1970 JORF 27 décembre 1969
-	  - SPEC_APPLI: Décret n°86-1086 du 7 octobre 1986 - art. 3, v. init.
-	  - HISTO: EDITION 1979-07-01
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-
-### ARTISANS.
-
-###### Article 370
-
-Sont considérés comme artisans [*définition*], au sens des dispositions de l'article 1649 quater A du code général des
-impôts, les artisans qui constituent des stocks de matières premières, à la condition que ces stocks ne soient pas hors de
-proportion avec les besoins normaux de leur entreprise et qu'aucun caractère spéculatif ne s'attache à leur acquisition,
-lesdites matières n'étant pas destinées à être revendues en l'état.
-
-La constitution de stocks de produits finis par les artisans qui travaillent sans commandes préalables n'est pas non plus de
-nature à leur faire perdre la qualité d'artisan au sens des dispositions de l'article 1649 quater A précité, lorsque ces
-stocks, en rapport avec les possibilités de leur production, le sont aussi avec celles d'un écoulement normal des objets ou
-produits fabriqués.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 quater A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°69-1161 1969-12-24 art. 5 I Finances pour 1970 JORF 27 décembre 1969
-	  - SPEC_APPLI: Décret n°86-1086 du 7 octobre 1986 - art. 3, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
 
 
 # Livre II : Recouvrement de l'impôt
