@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1991-03-22
+Version Consolidée au 1991-04-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8719,6 +8719,41 @@ taxe leur sont applicables.
 
 ##### 3 : Location de locaux nus
 
+###### Article 193
+
+L'option prévue au premier alinéa et au b du deuxième alinéa du 2° de l'article 260 du code général des impôts est ouverte
+même lorsque l'immeuble n'est pas encore achevé.
+
+Les personnes qui donnent en location plusieurs immeubles ou ensembles d'immeubles doivent exercer une option distincte pour
+chaque immeuble ou ensemble d'immeubles.
+
+Dans les immeubles ou ensembles d'immeubles comprenant à la fois des locaux nus donnés en location ouvrant droit à l'option
+en application du 2° de l'article 260 du code général des impôts et d'autres locaux, l'option ne s'étend pas à ces derniers
+mais elle s'applique globalement à l'ensemble des locaux de la première catégorie.
+
+Chaque immeuble ou ensemble d'immeubles constitue un secteur d'activité pour l'application de l'article 213.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 260
+	  - CGIAN2 213
+
+	**Modifié par**:
+
+	  - Décret n°91-352 du 11 avril 1991 - art. 1 () JORF 13 avril 1991
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+	  - TXT_ASSOCIE: Instruction 1999-12-22 3D-6-99
+
+
 ###### Article 194
 
 L'option exercée couvre obligatoirement une période de dix années, y compris celle au cours de laquelle elle est déclarée.
@@ -8744,39 +8779,6 @@ de ce fait, changé de destination.
 
 
 ##### 3 : Location d'établissement pour les besoins de l'activité d'un industriel, d'un commerçant ou d'un prestataire de services.
-
-###### Article 193
-
-L'option pour le paiement de la taxe sur la valeur ajoutée prévue à l'article 260-2° du code général des impôts est ouverte à
-toute personne qui donne en location un immeuble nu pour les besoins de l'activité d'un industriel, d'un commerçant ou d'un
-prestataire de services.
-
-L'option est ouverte au cas où l'immeuble n'est pas encore achevé.
-
-Les personnes qui donnent en location plusieurs immeubles ou ensembles d'immeubles doivent exercer une option distincte pour
-chaque immeuble ou ensemble d'immeubles.
-
-Dans les immeubles ou ensembles d'immeubles comprenant à la fois des locaux nus destinés à l'usage d'un industriel, d'un
-commerçant ou d'un prestataire de services, et des locaux destinés à d'autres usages, l'option ne s'étend pas à ces derniers;
-mais elle s'applique globalement à l'ensemble des locaux de la première catégorie.
-
-Chaque immeuble ou ensemble d'immeubles constitue un secteur [*distinct*] d'activité pour l'application de l'article 213.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 260 2°
-	  - CGIAN2 213
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 195
 
@@ -10069,118 +10071,6 @@ Il en est de même de celles qui vendent des oeuvres d'art originales.
 	  - PEREMPTION: Loi n°94-1163 1994-12-29 art. 16-XI JORF 30 décembre 1994
 
 
-##### Fourniture de logement en meublé et en garni.
-
-###### Article 233
-
-1. Les loueurs en meublé ou en garni et les personnes réalisant des locations considérées comme des opérations de fourniture
-de logement en meublé au sens de l'article 260 D du code général des impôts peuvent déduire la taxe ayant grevé les biens
-constituant les immobilisations de la taxe due sur les recettes de location. En aucun cas, cette déduction ne peut donner
-lieu à remboursement (1). Il en est de même de ceux qui, ayant acheté ou construit un immeuble en vue de sa vente, le donnent
-en location sous quelque forme que ce soit.
-
-2. Les limitations prévues au 1 ne s'appliquent pas aux hôtels classés de tourisme ainsi qu'aux villages de vacances agréés.
-
-(1) Voir toutefois CGI, art. 273 bis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 260 D, 273 bis
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 89 (P) JORF 31 décembre 1981 en vigueur le 1er janvier 1982
-	  - Modification directe incorporée dans l'édition du 24 juin 1991
-
-	**Abrogé par**:
-
-	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
-
-
-##### Résidences de tourisme classées.
-
-###### Article 233-0 A
-
-Le bénéfice des dispositions du II de l'article 273 bis du code général des impôts est subordonné à l'engagement de
-l'exploitant de la résidence de tourisme classée soit de dépenser, pendant les vingt-quatre premiers mois d'exploitation, une
-somme au moins égale à 1,5 % des recettes d'exploitation de la résidence pour la recherche de la clientèle étrangère soit de
-conclure avec des organisateurs de voyages ou de séjours des contrats de mise à disposition tels que 20 % au moins des unités
-d'hébergement de la résidence soient réservés à des touristes étrangers.
-
-L'engagement est souscrit sur papier libre et remis au service des impôts dont relève l'exploitant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 273 bis II
-
-	**Créé par**:
-
-	  - Décret n°84-491 du 22 juin 1984 - art. 1 (V) JORF 26 juin 1984
-
-	**Abrogé par**:
-
-	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
-
-	**Modifié par**:
-
-	  - Modification directe incorporée dans l'édition du 24 juin 1991
-
-
-###### Article 233-0 B
-
-Dans un délai de trois mois qui suit l'expiration de la période mentionnée à l'article 233-0 A, l'exploitant de la résidence
-de tourisme classée doit justifier auprès du service des impôts qu'il a rempli son engagement en produisant un état
-récapitulatif des dépenses qu'il a engagées ou des contrats qu'il a conclus.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 233-0 A
-
-	**Créé par**:
-
-	  - Décret n°84-491 du 22 juin 1984 - art. 2 (V) JORF 26 juin 1984
-
-	**Abrogé par**:
-
-	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
-
-	**Modifié par**:
-
-	  - Modification directe incorporée dans l'édition du 24 juin 1991
-
-
-###### Article 233-0 C
-
-Lorsque les engagements n'ont pas été respectés, le bénéficiaire du remboursement ou ses ayants droit reversent la différence
-entre la taxe sur la valeur ajoutée remboursée et celle effectivement acquittée à raison des loyers perçus depuis le début de
-la location, indépendamment, s'il y a lieu, des régularisations prévues en application de l'article 273 du code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 273
-
-	**Créé par**:
-
-	  - Décret n°84-491 du 22 juin 1984 - art. 3 (V) JORF 26 juin 1984
-
-	**Abrogé par**:
-
-	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
-
-	**Modifié par**:
-
-	  - Modification directe incorporée dans l'édition du 24 juin 1991
-
-
 ##### 3° : Entreprises bénéficiant d'atténuations d'impôt : franchise en impôt.
 
 ###### Article 235
@@ -10631,50 +10521,24 @@ dont elle aurait obtenu indûment le remboursement.
 
 Ne peuvent prétendre au bénéfice des remboursements prévus aux articles 242-0 A à 242-0 D ;
 
-1° Les assujettis qui peuvent se prévaloir de l'article 298-4-4° du code général des impôts ;
+1° Les assujettis qui peuvent se prévaloir du 4° du 4 de l'article 298 du code général des impôts ;
 
-2° Les personnes qui réalisent des opérations soumises à la taxe sur la valeur ajoutée à titre occasionnel.
+2° (Abrogé).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 298 4 4°
-	  - CGIAN2 242-0 A
-	  - CGIAN2 242-0 B
-	  - CGIAN2 242-0 C
-	  - CGIAN2 242-0 D
+	  - CGIAN2 242-0 A à 242-0 D
 
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 242-0 L
-
-Les dispositions des articles 242-0 A à 242-0 K sont applicables aux crédits de taxe sur la valeur ajoutée déductible des
-établissements publics.
-
-Lorsque les demandes de remboursement excèdent un million de francs, la décision de restitution est prononcée par le ministre
-de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242-0 A A CGIAN2 242-0 K
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
-
-	**Modifié par**:
-
-	  - Modification directe incorporée dans l'édition du 24 juin 1991
+	  - HISTO: Edition du 24 juin 1991
 
 
 ##### 2 ter : Remboursement de la taxe aux assujettis établis hors de France
