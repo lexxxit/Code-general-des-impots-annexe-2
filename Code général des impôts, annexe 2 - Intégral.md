@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-09-01
+Version Consolidée au 1985-09-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18930,9 +18930,8 @@ AG et 363 AH aux prix directeurs en vigueur au début des campagnes de commercia
 en francs français sur la base du taux de conversion de l'Ecu dans le secteur agricole à la date du 1er juillet de l'année
 civile en cours.
 
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+Pour le triticale, le montant à la tonne de la taxe applicable est égal au montant en valeur absolue de la taxe perçue à la
+tonne de seigle, tel que ce montant résulte des dispositions qui précèdent.
 
 **Liens relatifs à cet article**
 
@@ -18942,13 +18941,13 @@ civile en cours.
 	  - CGIAN2 363 AH
 	  - CGIAN2 363 AK
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°82-733 1982-08-23 ART. 8 JORF 25 AOUT 1982
+	  - Décret n°85-1017 1985-09-24 art. 1 JORF 25 septembre 1985
 
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 363 B
@@ -18974,112 +18973,161 @@ recouvrement.
 
 ###### Article 363 E
 
-I  Il est institué sur les vins une taxe parafiscale au profit du fonds national de développement agricole.
+I. Il est institué au profit de l'association nationale pour le pour le développement agricole [*ANDA*], pour être versée au
+fonds national de développement agricole [*FNDA*], une taxe parafiscale sur les vins.
 
-II  Pour les vins d'appellation contrôlée et les vins délimités de qualité supérieure le montant maximum de la taxe est fixé
-à 1 F par hectolitre.
+Cette taxe est applicable jusqu'au 31 décembre 1987 [*date limite*].
 
-Pour les autres vins le montant de la taxe par hectolitre est au plus égal à 4 % du prix d'orientation par degré-hectolitre
-fixé pour les vins de table par le conseil des communautés européennes.
+II. La taxe est due [*fait générateur*] par les producteurs au moment de la délivrance du titre de mouvement permettant
+l'enlèvement des vins à la propriété ou par les négociants vinificateurs lors de la déclaration de fabrication. Ces derniers
+ont la possibilité d'en retenir le montant sur le prix des raisins ou des moûts utilisés pour ces fabrications.
 
-Un arrêté conjoint du ministre de l'agriculture et du ministre de l'économie et des finances fixe les montants de la taxe
-dans la limite des maximums ci-dessus (1).
+III.  Pour les vins d'appellation d'origine contrôlée, le montant maximum de la taxe est fixé à 2,10 F par hectolitre. Pour
+les vins délimité de qualité supérieure [*VDQS*] le montant maximum de la taxe est fixé à 1,35 F par hectolitre.
 
-III La taxe est liquidée et recouvrée par les agents de la direction générale des impôts [*autorités compétentes*].
+Pour les autres vins le montant de la taxe par hectolitre de vin est au plus égal à [*pourcentage*] 2,70 % du prix
+d'orientation du degré-hectolitre fixé, pour les vins de type R1 au sens du règlement n° 340-79 du 5 février 1979, par le
+conseil des communautés européennes [*CEE*].
 
-Elle est due par les producteurs au moment de la délivrance du titre de mouvement permettant l'enlèvement des vins à la
-propriété ou par les négociants vinificateurs lors de la déclaration de fabrication. Ces derniers ont la possibilité d'en
-retenir le montant sur le prix des raisins ou des moûts utilisés pour ces fabrications.
+Un arrêté du ministre de l'agriculture et du ministre de        e l'économie, des finances et du budget fixe les montants de
+la taxe effectivement perçue dans les limites prévues ci-dessus (1). Toute augmentation du montant de la taxe effectivement
+perçue sur les vins mentionnés au deuxième alinéa donne lieu à l'augmentation, au moins dans les mêmes proportions, du
+montant de la taxe effectivement perçue sur les vins mentionnés au prremier alinéa.
 
-Le recouvrement de la taxe est effectué selon les règles, sous les garanties et sous les sanctions prévues pour les impôts
-indirects sur les boissons (2).
+IV. La taxe est liquidée et recouvrée par la direction générale des impôts suivant  les règles, sous les garanties et
+sanctions prévues pour les impôts indirects sur les boissons.
 
-1) Annexe IV, art. 159 AP.
-
-2) Taxe nouvelle instituée à compter du 1er mai 1977 (ancienne taxe sur certains vins et certaines eaux-de-vie abrogée à
-compter de la même date).
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+(1) Annexe IV, art. 159 AP.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGIAN4 159 AP
+	  - Règlement 340-79 1979-02-05 communautés européennes
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°85-1014 du 24 septembre 1985 - art. 1 (P) JORF 25 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 363 F
 
-I. Il est institué au profit du fonds national de développement agricole et à la charge des producteurs une taxe parafiscale
-sur les oléagineux.
+I. Il est institué au profit de l'association nationale pour le developpement agricole [*ANDA*], pour être versée au fonds
+national de développement agricole [*FNDA*] , une taxe parafiscale sur les graines oléagineuses : colza, navette, tournesol
+et soja, et sur les graines protéagineuses, pois, fève, féverole et lupin doux, livrées par les producteurs aux
+intermédiaires agréés ou aux organismes collecteurs.
 
-II. Le montant maximum de la taxe est fixé à :
+Cette taxe est applicable pour une durée de trois campagnes à compter de la campagne de commercialisation 1985-1986 pour le
+colza la navette et le tournesol et de deux campagnes à compter de la campagne de commercialisation 1986-1987 pour le soja,
+les pois, fève, féverole et lupin doux.
 
-1,2 % du prix d'intervention communautaire applicable au colza par tonne de graines de colza ;
+II. La taxe est mise à la charge des producteurs [*redevables*]. Elle est retenue [*fait générateur*] par les intermédiaires
+agrées ou par les organismes collecteurs lors du paiement des graines oléagineuses et protéagineuses aux producteurs. Le
+poids des graines à la reception est, pour le calcul de la taxe, ramené à la qualité type arrêtée pour chaque campagne par le
+conseil des communautés européennes conformément aux dispositions des règlements n° 136-66 du 22 septembre 1966 modifié,
+1614-79 du 24 juillet 1979 et 1431-82 du 18 mai 1982 modifié.
 
-1,2 % du prix d'intervention communautaire applicable à la navette par tonne de graines de navette ;
+III. Les taux maximum de la taxe sont les suivants :
 
-1,2 % du prix d'intervention communautaire applicable au tournesol par tonne de graines de tournesol.
+a. Pour les graines de colza, navette et tournesol : 1 % du prix d'intervention fixé par le conseil des communautés
+européennes ;
 
-Le montant de la taxe effectivement perçue à la suite de l'entrée en vigueur du présent décret est fixé à 0,5 % des prix
-d'intervention communautaire par tonne de graines de colza, de navette et de tournesol.
+b. Pour les graines de soja : 1% [*pourcentage*] du prix d'objectif fixé par les mêmes autorités ;
 
-Le décret fixant le régime financier des oléagineux peut modifier le taux dans la limite des pourcentages maximums fixée au
-premier alinéa.
+c. Pour les graines de pois, fève, féverole et lupin doux :
 
-Pour chaque campagne le décret fixant le régime financier des oléagineux constate :
+0,95 % du prix minimum fixé par les mêmes autorités.
 
-Les prix d'intervention de base en vigueur à l'ouverture des campagnes de commercialisation ;
+Un arrêté du ministre de l'économie, des finances et du budget et du ministre de l'agriculture fixe les montants de la taxe
+effectivement perçue dans les limites prévues ci-dessus (1).
 
-Le taux de conversion en francs français de l'ECU en vigueur à cette date dans le secteur agricole, et détermine sur ces
-bases le montant de la taxe exprimé en francs par tonne à percevoir sur les graines oléagineuses pour la campagne.
+IV. La taxe est perçue par la direction générale des impôts auprés des intermédiaires agréés ou des organismes collecteurs.
+Elle est établie et recouvrée selon les règles et sous les garanties et sanctions prévues en matière de contributions
+indirectes.
 
-En cours de campagne, le montant de la taxe peut être modifié par décret en raison des variations des prix d'intervention de
-base ou de la valeur en francs français de l'ECU dans le secteur agricole.
+Les sommes exigibles sont liquidées sur production, par les intermédiaires agréés ou les organismes collecteurs, de
+déclarations conformes aux modèles fixés par la direction générales des impôts et transmises à cette administration dans les
+dix premiers jours du mois suivant celui au titre duquel la taxe est applicable. Elle doivent être acquittées au plus tard
+[*date limite*] le 25 du mois de la déclaration.
 
-Ces montants calculés à partir des prix d'intervention de base définis ci-dessus sont arrondis au décime le plus proche.
-
-III. La taxe est assise sur le poids à la réception des graines oléagineuses livrées par les producteurs aux intermédiaires
-agréés, ramené à la qualité type arrêtée, pour chaque campagne, par le conseil des communautés économiques européennes,
-conformément aux dispositions de l'article 22 du règlement n° 136/66/CEE.
-
-IV. La taxe est perçue par la direction générale des impôts auprès des intermédiaires agréés. Elle est établie et recouvrée
-selon les règles et sous les garanties et sanctions prévues en matière de contributions indirectes.
-
-Les sommes exigibles sont liquidées sur production par les intermédiaires agréés de déclarations conformes aux modèles fixés
-par la direction générale des impôts et transmises à cette administration dans les dix premiers jours du mois suivant celui
-au titre duquel la taxe est applicable.
-
-Elles doivent être obligatoirement acquittées au plus tard le 25 du mois de la déclaration [*date limite*].
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+(1) Pour la campagne 1985-1986, arrêté du 24 septembre 1985  (J.O. du 25).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CEE Règlement 136-66 ART. 22
+	  - Arrêté 1985-09-24
+	  - CEE Règlement 136-66 1966-09-22
+	  - CEE Règlement 1431-82 1982-05-18
+	  - CEE Règlement 1614-79 1979-07-24
 
 	**Modifié par**:
 
-	  - Décret n°75-724 du 6 août 1975 - art. 1 (V) JORF 9 AOUT 1975
-	  - Décret n°75-724 du 6 août 1975 - art. 2 (V) JORF 9 AOUT 1975
-	  - Décret n°75-724 du 6 août 1975 - art. 3 (V) JORF 9 AOUT 1975
-	  - Décret n°75-724 du 6 août 1975 - art. 4 (V) JORF 9 AOUT 1975
-	  - Décret n°75-724 du 6 août 1975 - art. 6 (V) JORF 9 AOUT 1975
-	  - Décret n°78-884 1978-08-22 ART. 1 JORF 27 AOUT 1978
+	  - Décret n°85-1012 du 24 septembre 1985 - art. 1 (V) JORF 25 septembre 1985
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 363 FA
+
+I. Il est institué au profit de l'association nationale pour le developpement agricole [*ANDA*], pour être versée au fonds
+national de développement agricole [*FNDA*], une taxe parafiscale sur les céréales livrées par les producteurs aux
+collecteurs agréés et aux producteurs grainiers et soumises à la taxe percue pour le financement des actions du secteur
+céréalier prévue à l'article 363 AE.
+
+Cette taxe est applicable jusqu'à la fin de la campagne 1987-1988.
+
+II. La taxe est mise à la charge des producteurs [*redevables*]. Elle est retenue [*fait générateur*] par les collecteurs
+agréés et les producteurs grainiers lors du paiement des céréales aux producteurs.
+
+III. Pour le blé tendre, l'orge et le maïs, la taxe comporte un taux de base. Pour le blé tendre et l'orge, le maximum de ce
+taux de base est de 1,11 % [*pourcentage*] du prix d'intervention fixé par le conseil des communautés européennes. Pour le
+maïs, ce maximum est de 1,02 % du prix d'intervention fixé par le conseil.
+
+Des compléments de taxe peuvent être appliqués aux livraisons de blé tendre, d'orge et de maïs effectués par un même livreur
+au titre d'une même campagne qui globalement excèdant 100 tonnes. Des compléments à un taux majoré peuvent être appliqués aux
+livraisons excédant 300 tonnes. Le taux de ces compléments ne peut dépasser, pour le blé tendre et l'orge 0,38 % et, pour le
+maîs, 0,35 % du prix d'intervention. La détermination des compléments de taxe mentionnés ci-dessus se fait en tenant compte
+de toutes les livraisons taxées effectuées au titre de la campagne par un même livreur, quels que soient les lieux
+d'exploitation et de livraison, et déclarées par les collecteurs agrées. Les compléments de taxe sont calculés au prorata des
+quantités de blé tendre, d'orge et de maïs livrées par chaque livreur.
+
+Pour le blé dur, le seigle, le sorgho et le riz, le taux maximum de la taxe applicable est de 0,60 % du prix d'intervention
+fixé par les autorités communautaires.
+
+Pour l'avoine, le taux maximum est de 0,60 % du prix de seuil fixé par les mêmes autorités.
+
+Un arrêté du ministre de l'économie, des finances et du budget et du ministre de l'agriculture fixe les montants de la taxe
+effectivement perçues dans les limites prévues ci-dessus (1).
+
+Pour le triticale, le montant à la tonne de la taxe applicable est égal au montant en valeur absolue de la taxe perçue à la
+tonne de seigle, tel que ce montant résulte des dispositions qui précèdent.
+
+La taxe est assise, liquidée et recouvrée par la direction générale des impôts dans les mêmes conditions que la taxe
+parafiscale prévue à l'article 363 AE.
+
+(1) Pour la campagne 1985-1986, arrêté du 24 septembre 1985  (J.O. du 25).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 363 AE
+
+	**Modifié par**:
+
+	  - Décret n°85-1011 du 24 septembre 1985 - art. 1 (P) JORF 25 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 363 N
@@ -19878,54 +19926,52 @@ développement de l'horlogerie et de 0,25 % de la valeur de vente pour le centre
 
 ###### Article 363 D
 
-I  Il est perçu, au profit du fonds national de développement agricole, une taxe parafiscale sur certaines viandes d'animaux
-de boucherie et de charcuterie, à l'exclusion des produits importés.
+I. Il est institué au profit de l'association nationale pour le développement agricole [*ANDA organisme bénéficiaire*], pour
+être versée au fonds national de développement agricole, une taxe parafiscale sur les viandes de veau, de boeuf, de mouton,
+de porc, des espèces chevaline, asine et de leurs croisements, à l'exclusion des produits importés.
 
-Cette taxe, à la charge de l'agriculteur ou de l'éleveur dernier propriétaire de l'animal, est acquittée par la personne qui
-présente cet animal à l'abattage. Toutefois, en cas d'abattage à façon, la taxe est acquittée par le tiers abatteur pour le
-compte du propriétaire.
+Cette taxe est applicable jusqu'au 31 décembre 1987 [*date limite*].
 
-II  (Abrogé)
+II. Cette taxe est à la charge de l'agriculteur ou de l'éleveur dernier propriétaire de l'animal. Elle est acquittée par la
+personne qui présente cet animal à l'abattage. Toutefois, en cas d'abattage à façon, la taxe est acquittée par le tiers
+abatteur pour le compte du propriétaire.
 
-III  La taxe est perçue dans les établissements d'abattage publics et privés sur les abattages opérés en vue de la vente.
+III. Les taux maxima de la taxe sont les suivants :
 
-IV  La taxe est assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que
-la taxe de protection sanitaire et d'organisation des marchés des viandes, prévue par l'article 302 bis F du code général des
-impôts.
+- Pour la viande de boeuf et la viande de veau ainsi que pour les viandes des espèces chevaline, asine et de leurs
+croisements :
 
-V  Le taux maximum de la taxe est fixé ainsi qu'il suit par kilogramme de viande nette :
+0,60 % du prix d'orientation communautaire défini pour un kilogramme de poids vif de gros bovin ;
 
-- pour la viande de boeuf et la viande de veau : 0,23 % du prix d'orientation communautaire défini pour un kilogramme de
-poids vif de gros bovin;
+- Pour la viande de porc : 0,60 % du prix de base communautaire par kilogramme de viande de porc abattu ;
 
-- pour la viande de porc : 0,25 % du prix de base communautaire par kilogramme de viande de porc abattu;
+- Pour la viande de mouton : 0,25 % du prix de base communautaire par kilogramme de viande de mouton.
 
-- pour la viande de mouton : 0,09 % du prix de base communautaire par kilogramme de viande de mouton.
+Un arrêté du ministre de l'économie, des finances et du budget et du ministre de l'agriculture fixe les montants de la taxe
+effectivement perçue par espèce dans les limites prévues ci-dessus (1).
 
-Un arrêté conjoint du ministre de l'économie et des finances et du ministre de l'agriculture fixe le taux de la taxe dans la
-limite des maxima ci-dessus (1) et les montants en F/kilogramme net applicables pour une année civile et par espèce compte
-tenu des modalités mentionnées à l'article 302 bis G du code général des impôts.
+IV. La taxe est perçue dans les établissements d'abattage publics et privés sur les abattages opérés en vue de la vente.
 
-VI  (Abrogé)
+Elle est assise, liquidée et recouvrée par la direction générale des impôts, suivant les mêmes règles et sous les mêmes
+garanties et les mêmes sanctions que la taxe de protection sanitaire et d'organisation des marchés des viandes, prévue aux
+article 302 bis F  à 302 bis J du code général des impôts
 
-1) Annexe IV, art. 159 AO.
+(1) Annexe IV, art. 159 AO.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 302 bis F
-	  - CGI 302 bis G
+	  - CGI 302 bis F à CGI 302 bis J
 	  - CGIAN4 159 AO
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-	  - Décret n°85-1007 1985-09-24
 
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 28 () JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+	  - Décret n°85-1016 du 24 septembre 1985 - art. 1 (P) JORF 25 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*
