@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1998-04-22
+Version Consolidée au 1998-11-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -971,28 +971,39 @@ Le relevé des frais généraux prévu à l'article 54 quater du code général 
 
 ###### Article 38
 
-Lorsqu'un contribuable cesse d'être soumis au régime de l'imposition d'après le bénéfice réel ou au régime simplifié désigné
-à l'article 267 septies A, l'impôt dû au titre de l'année précédant celle pour laquelle l'intéressé devient taxable selon le
-mode forfaitaire doit porter sur les résultats effectivement réalisés jusqu'au 31 décembre de ladite année.
+Lorsqu'un contribuable cesse d'être soumis ((à un régime réel d'imposition)) (M), l'impôt dû au titre de l'année précédant
+celle pour laquelle l'intéressé devient taxable selon le mode forfaitaire doit porter sur les résultats effectivement
+réalisés jusqu'au 31 décembre de ladite année.
 
 Si l'exercice clos au cours de l'année considérée ne coincide pas avec l'année civile, la déclaration des résultats acquis
-entre la date de clôture de cet exercice et le 31 décembre doit parvenir à l'administration avant le 1er mars de la seconde
-année au titre de laquelle le contribuable se trouve placé sous le régime du forfait en raison d'une diminution de son
-chiffre d'affaires ou d'une augmentation des limites prévues à l'article 302 ter du code général des impôts. En ce qui
+entre la date de clôture de cet exercice et le 31 décembre doit parvenir à l'administration ((au plus tard le 30 avril)) (M)
+de la seconde année au titre de laquelle le contribuable se trouve placé sous le régime du forfait en raison d'une diminution
+de son chiffre d'affaires ou d'une augmentation des limites prévues à l'article 302 ter du code général des impôts. En ce qui
 concerne l'impôt sur le revenu, le bénéfice correspondant à cette déclaration fait l'objet d'une imposition distincte établie
 d'après le taux moyen effectivement appliqué aux autres revenus de l'intéressé soumis à l'impôt au titre de l'année de
-clôture du dernier exercice soumis au bénéfice réel ou au régime simplifié désigné à l'article 267 septies A.
+clôture du dernier exercice soumis ((à un régime réel d'imposition)) (M).
+
+(M) Modification du Décret 98-1022.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 302 ter
-	  - CGIAN2 267 septies A
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+	  - HISTO: Edition du 31 mars 1999
+
+	**Modifié par**:
+
+	  - Décret n°98-1022 du 10 novembre 1998 - art. 1 () JORF 13 novembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
 
 
 ##### 12 : Régime simplifié d'imposition
@@ -12644,15 +12655,28 @@ et qui désirent y renoncer.
 
 ###### Article 267 septies B
 
-L'option pour le régime simplifié de bénéfice réel et l'option pour le régime simplifié de liquidation des taxes sur le
-chiffre d'affaires prévu à l'article 302 septies A du code général des impôts ne peuvent être exercées séparément. Il en va
-de même des renonciations à ces régimes.
+L'option pour un régime réel d'imposition du bénéfice et l'option pour un régime réel de liquidation des taxes sur le chiffre
+d'affaires ne peuvent être exercées séparément. Il en va de même des renonciations à ces régimes.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 302 septies A
+	  - Décret n°98-1022 du 10 novembre 1998 - art. 11 () JORF 13 novembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+	**Abrogé par**:
+
+	  - Décret n°99-545 du 30 juin 1999 - art. 17 () JORF 1er juillet 1999
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
 
 
 #### Chapitre premier : Régimes réels d'imposition
