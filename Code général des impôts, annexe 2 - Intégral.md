@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-10-05
+Version Consolidée au 1980-11-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16132,6 +16132,114 @@ l'avitaillement des navires et aéronefs.
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 364
+
+Les taxes parafiscales sont établies par décret en Conseil d'Etat pris sur le rapport du ministre chargé du budget et du ou
+des ministres intéressés et obligatoirement contresigné par le ministre de l'économie. Ces décrets fixent l'affectation,
+l'assiette, le fait générateur, les règles de liquidation et de recouvrement de ces taxes ainsi que leur durée, qui ne peut
+en aucun cas excéder cinq ans, et leur taux ou une limite maximum pour ce taux.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 335
+
+	**Modifié par**:
+
+	  - Décret n°80-854 du 30 octobre 1980 - art. 14 () JORF 1 NOVEMBRE 1980
+	  - Décret n°80-854 du 30 octobre 1980 - art. 2 (V) JORF 1 NOVEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 365
+
+Dans la limite définie par le décret prévu à l'article 364, des arrêtés du ministre chargé du budget, ministre chargé de
+l'économie et du ou des ministres intéressés fixent, s'il y a lieu, le taux de chaque taxe.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 336
+
+	**Cite**:
+
+	  - CGIAN2 364
+
+	**Modifié par**:
+
+	  - Décret n°80-854 du 30 octobre 1980 - art. 14 () JORF 1 NOVEMBRE 1980
+	  - Décret n°80-854 du 30 octobre 1980 - art. 3 (V) JORF 1 NOVEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 366
+
+Les taxes parafiscales dont l'assiette est commune avec les impôts ou taxes perçus au profit de l'Etat ou de toute autre
+collectivité sont assises, liquidées et recouvrées suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions
+que lesdits impôts et taxes. Les réclamations sont, présentées et jugées comme celles qui concernent ces impôts et taxes.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 337
+
+	**Modifié par**:
+
+	  - Décret n°80-854 du 30 octobre 1980 - art. 14 () JORF 1 NOVEMBRE 1980
+	  - Décret n°80-854 du 30 octobre 1980 - art. 6 (V) JORF 1 NOVEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 367
+
+Un prélèvement représentant les frais d'assiette et de perception est effectué au profit du budget général sur tous les
+recouvrements de taxes parafiscales opérés par les administrations de l'Etat. Le taux de ce prélèvement est fixé à 5 % sauf
+dérogation par arrêté du ministre chargé du budget.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 338
+
+	**Modifié par**:
+
+	  - Décret n°80-854 du 30 octobre 1980 - art. 11 (V) JORF 1 NOVEMBRE 1980
+	  - Décret n°80-854 du 30 octobre 1980 - art. 14 () JORF 1 NOVEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ### TAXES PARAFISCALES.
 
 ###### Article 339
@@ -16466,76 +16574,6 @@ VI  (Abrogé)
 	  - CGI 302 bis F
 	  - CGI 302 bis G
 	  - CGIAN4 159 AO
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 364
-
-Les taxes parafiscales sont établies par décret en conseil d'Etat pris sur le rapport du ministre de l'économie et des
-finances et du ou des ministres intéressés; ces décrets fixent les règles générales d'assiette et de recouvrement de ces
-taxes ainsi que leur taux ou leur taux maximal.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 365
-
-Dans le cadre défini par le décret prévu à l'article 364, des arrêtés du ministre de l'économie et des finances et du ou des
-ministres intéressés fixent les modalités d'assiette et de recouvrement de chaque taxe ainsi que, s'il y a lieu, son taux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 364
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 366
-
-La perception des taxes parafiscales au-delà du 31 décembre de l'année de leur institution doit être autorisée chaque année
-par la loi de finances [*autorisation obligatoire*]. A cet effet, la liste des taxes parafiscales fait l'objet d'un état
-annexé à ladite loi.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 367
-
-Les taxes parafiscales dont l'assiette est commune avec les impôts ou taxes perçues au profit de l'Etat ou de toute autre
-collectivité publique sont assises et recouvrées suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions
-que lesdits impôts et taxes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 368
-
-(Voir art. 1647-I du CGI).
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 368 B (P)
 
 	**Liens**:
 
