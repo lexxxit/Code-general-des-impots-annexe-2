@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2002-08-06
+Version Consolidée au 2002-08-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1852,37 +1852,38 @@ valeurs.
 ###### Article 60 A
 
 Pour l'application de l'article 163 quinquies C du code général des impôts l'actionnaire joint à sa déclaration de revenus un
-relevé indiquant :
+relevé indiquant : 
 
 1° Le nombre d'actions de la société de capital-risque souscrites ou acquises, la date et le montant global de la
-souscription ou de l'acquisition ;
+souscription ou de l'acquisition ; 
 
-2° Le nombre et le montant de ces actions qu'il entend conserver pendant cinq ans ;
+2° Le nombre et le montant de ces actions qu'il entend conserver pendant cinq ans ; 
 
-3° Le nombre et le montant des actions cédées ainsi que la date de la cession ;
+3° Le nombre et le montant des actions cédées ainsi que leurs dates d'acquisition et de cession en distinguant, d'une part,
+les cessions réalisées avant l'expiration du délai de conservation de cinq ans ou portant sur des titres pour lesquels
+l'engagement de conservation n'a pas été pris et, d'autre part, celles réalisées après l'expiration de ce délai ; 
 
-4° Le montant des produits réinvestis dans la société de capital-risque sous forme de souscription ou d'achat d'actions ;
+4° Le montant des produits réinvestis dans la société de capital-risque sous forme de souscription ou d'achat d'actions ; 
 
 5° La date et le montant des dépôts effectués sur le compte bloqué ouvert à son nom dans la société de capital-risque ainsi
-que le montant et la date des retraits éventuels.
+que le montant et la date des retraits éventuels ; 
+
+6° En cas de non-respect du délai de conservation ou de la condition de réinvestissement, le détail des sommes précédemment
+exonérées qui doivent être ajoutées au revenu imposable de l'année de rupture de l'engagement.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2002-1030 du 29 juillet 2002 - art. 2 () JORF 6 août 2002
+
 	**Cite**:
 
-	  - CGI 163 quinquies C
-
-	**Créé par**:
-
-	  - Décret n°85-1102 du 9 octobre 1985 - art. 6 (Ab) JORF 17 octobre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Code général des impôts, CGI. - art. 163 quinquies C (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 60 B
@@ -4695,6 +4696,305 @@ déclaration ou la demande de restitution a été déposée.
 	  - CGI 199 ter I, II
 
 
+##### III : Réductions d'impôt
+
+###### Article 95 K
+
+Les investissements productifs neufs réalisés dans les départements et territoires d'outre-mer, dans la collectivité
+départementale de Mayotte, la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie qui ouvrent
+droit à la réduction d'impôt prévue au I de l'article 199 undecies B du code général des impôts sont les acquisitions ou
+créations d'immobilisations corporelles, neuves et amortissables, affectées aux activités relevant des secteurs mentionnés au
+premier alinéa du I de cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 95 M
+
+Les activités qui relèvent du secteur de la maintenance mentionné au premier alinéa du I de l'article 199 undecies B du code
+général des impôts sont celles qui concourent, pour l'essentiel, à l'entretien ou à la réparation du matériel technique de
+production de biens ou de services exploité dans l'un des secteurs mentionnés à ce même alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 95 N
+
+Les activités qui relèvent du secteur de la production audiovisuelle et cinématographique mentionné au premier alinéa du I de
+l'article 199 undecies B du code général des impôts sont celles qui concourent directement à la création ou à l'extension
+outre-mer soit d'établissements qui y assurent la production d'oeuvres audiovisuelles et cinématographiques, soit
+d'industries techniques de production de telles oeuvres. Le secteur de la diffusion comprend les activités qui concourent
+directement à la création ou à l'extension d'établissements implantés outre-mer et qui y assurent la diffusion d'oeuvres
+audiovisuelles et cinématographiques, quel que soit le support technique utilisé, à l'exclusion des activités d'achat-revente
+et de la location des supports techniques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D333-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 95 O
+
+Les activités qui relèvent du secteur des services informatiques mentionné au premier alinéa du I de l'article 199 undecies B
+du code général des impôts sont celles qui concourent à la gestion et à la maintenance informatique, à la création de
+logiciels, à la fourniture d'accès à internet, à l'hébergement de sites et à la création de services en ligne sur internet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 95 P
+
+Les activités de navigation de croisière exclues du secteur du tourisme mentionné au premier alinéa du I de l'article 199
+undecies B du code général des impôts sont celles qui sont organisées sur des navires autorisés à embarquer plus de cinquante
+passagers.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 95 Q
+
+La réduction d'impôt prévue au I de l'article 199 undecies B du code général des impôts est pratiquée au titre de l'année au
+cours de laquelle l'immobilisation est créée par l'entreprise ou lui est livrée ou est mise à sa disposition dans le cadre
+d'un contrat de crédit-bail.
+
+Elle est déterminée en tenant compte du montant des subventions publiques obtenues ou demandées et non encore accordées au 31
+décembre de l'année mentionnée au premier alinéa. S'il y a lieu, la régularisation de la réduction d'impôt est effectuée au
+titre de la même année sur demande du contribuable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D333-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 95 R
+
+La limite prévue au septième alinéa du I de l'article 199 undecies B du code général des impôts s'applique au montant total
+des investissements réalisés au titre de la même année.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 95 S
+
+La réduction d'impôt prévue au I de l'article 199 undecies B du code général des impôts n'est pas imputable sur l'impôt
+résultant de la reprise des réductions d'impôt antérieurement pratiquées effectuée en application des huitième, dixième et
+onzième alinéas de ce même I, des dispositions prévues à l'article 199 undecies et du 7 de l'article 199 undecies A du même
+code, ainsi que des réintégrations au revenu net global des sommes antérieurement déduites conformément au dispositif prévu à
+l'article 163 tervicies du même code.
+
+De même, la créance sur l'Etat prévue au I de l'article 199 undecies B ne peut être utilisée pour le paiement de l'impôt
+résultant des reprises de réductions d'impôt et des réintégrations au revenu net global mentionnées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B, 199 undecies, 163 tervicies, 199 undecies A
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D333-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 95 T
+
+Les contribuables qui bénéficient de la réduction d'impôt prévue au I de l'article 199 undecies B du code général des impôts
+doivent joindre à la déclaration des revenus de l'année au titre de laquelle la réduction d'impôt est pratiquée un état
+faisant apparaître pour chaque investissement à raison duquel elle est pratiquée :
+
+a) Le nom et l'adresse du siège social de l'entreprise propriétaire de l'investissement ou, lorsque ce dernier fait l'objet
+d'un contrat de crédit-bail, de celle qui en est locataire ;
+
+b) S'il y a lieu, le pourcentage des droits aux résultats détenus directement ou indirectement par le contribuable dans la
+société ou le groupement propriétaire de l'investissement ;
+
+c) La nature précise de l'investissement ;
+
+d) Le prix de revient hors taxe de l'investissement et le montant des subventions publiques obtenues ou demandées et non
+encore accordées pour son financement ;
+
+e) La date à laquelle l'investissement a été livré ou, s'il s'agit d'un bien créé par l'entreprise, à laquelle il a été
+achevé ou, s'il s'agit d'un bien faisant l'objet d'un contrat de crédit-bail, à laquelle il a été mis à sa disposition ;
+
+f) La ou les dates de décision d'octroi des subventions publiques ;
+
+g) Le nom, l'adresse et la nature de l'activité de l'établissement dans lequel l'investissement est exploité ;
+
+h) S'il y a lieu, la copie de la décision d'agrément.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 95 U
+
+Le taux de rétrocession mentionné au onzième alinéa du I de l'article 199 undecies B du code général des impôts est calculé
+par le rapport existant entre :
+
+a) Au numérateur, la différence entre, d'une part, le montant hors taxes de l'investissement diminué de la fraction de son
+prix de revient financée par une subvention publique et, d'autre part, la valeur actualisée de l'ensemble des sommes mises à
+la charge du locataire lui permettant d'obtenir la disposition du bien et d'en acquérir la propriété au terme de la
+location ;
+
+b) Au dénominateur, le montant de la réduction d'impôt.
+
+La valeur actualisée des sommes payées par le locataire est déterminée en retenant un taux d'actualisation égal à la moyenne
+pondérée, en fonction du montant des emprunts, des taux d'intérêts des emprunts souscrits pour le financement de
+l'investissement par le bailleur. Lorsque les emprunts sont rémunérés par un taux d'intérêt variable, seul le premier taux
+connu est retenu pour le calcul de la moyenne. Il n'est pas tenu compte pour ce calcul de l'avantage consenti en application
+de ces mêmes dispositions par les associés ou membres de cette entreprise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+##### III : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer
+
+###### Article 95 L
+
+Les activités qui relèvent du secteur de l'industrie mentionné au premier alinéa du I de l'article 199 undecies B du code
+général des impôts sont celles qui concourent directement à l'élaboration ou à la transformation de biens corporels
+mobiliers. Est assimilée à de telles activités l'extraction des minerais figurant sur une liste fixée par arrêté du ministre
+chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies B
+
+	**Créé par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2004-203 du 3 mars 2004 - art. 1 () JORF 5 mars 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2002
+
+
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
 
 ##### Section I : Détermination du bénéfice imposable
@@ -6562,10 +6862,45 @@ est effectuée au titre de l'exercice au cours duquel intervient la décision co
 
 ###### Article 140 quater
 
-Les investissements productifs réalisés dans les départements et territoires d'outre-mer et dans les collectivités
-territoriales de Mayotte et de Saint-Pierre-et-Miquelon mentionnés aux I, II et II bis de l'article 217 undecies du code
-général des impôts s'entendent des acquisitions ou créations d'immobilisations corporelles amortissables, affectées aux
-activités relevant des secteurs mentionnés à cet article.
+Les investissements productifs réalisés dans les départements et territoires d'outre-mer, dans la collectivité départementale
+de Mayotte, la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie mentionnés aux I, II et II bis
+de l'article 217 undecies du code général des impôts s'entendent des acquisitions ou créations d'immobilisations corporelles,
+neuves et amortissables, affectées aux activités relevant des secteurs mentionnés à cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 217 undecies
+
+	**Modifié par**:
+
+	  - Décret n°2002-582 du 24 avril 2002 - art. 2 () JORF 26 avril 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 140 quaterdecies
+
+Le taux de rétrocession mentionné au 5° du I de l'article 217 undecies du code général des impôts est calculé par le rapport
+existant entre :
+
+a) Au numérateur, la différence entre, d'une part, le montant hors taxe de l'investissement diminué de la fraction de son
+prix de revient financée par une subvention publique et, d'autre part, la valeur actualisée de l'ensemble des sommes mises à
+la charge du locataire lui permettant d'obtenir la disposition du bien et d'en acquérir la propriété au terme de la
+location ;
+
+b) Au dénominateur, la valeur actualisée des économies d'impôt sur les sociétés procurée par la déduction pratiquée au titre
+de l'investissement, par l'imputation du déficit procuré par la location du bien acquis et de la moins-value réalisée lors de
+la cession de ce bien et des titres de la société bailleresse.
+
+La valeur actualisée des sommes payées par le locataire est déterminée en retenant un taux d'actualisation égal à la moyenne
+pondérée, en fonction du montant des emprunts, des taux d'intérêts des emprunts souscrits pour le financement de
+l'investissement par le bailleur. Lorsque les emprunts sont rémunérés par un taux d'intérêt variable, seul le premier taux
+connu est retenu pour le calcul de la moyenne. Il n'est pas tenu compte pour ce calcul de l'avantage consenti en application
+de ces mêmes dispositions par les associés ou membres de cette entreprise.
 
 **Liens relatifs à cet article**
 
@@ -6575,11 +6910,11 @@ activités relevant des secteurs mentionnés à cet article.
 
 	**Créé par**:
 
-	  - Décret n°99-157 du 5 mars 1999 - art. 2 () JORF 6 mars 1999
+	  - Décret n°2002-582 du 24 avril 2002 - art. 4 () JORF 26 avril 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 140 quinquies
@@ -6587,34 +6922,42 @@ activités relevant des secteurs mentionnés à cet article.
 Les activités qui relèvent du secteur d'activité de l'industrie mentionné au premier alinéa du I et au premier alinéa du II
 de l'article 217 undecies du code général des impôts sont celles qui concourent directement à l'élaboration ou à la
 transformation de biens corporels mobiliers. Est assimilée à de telles activités l'extraction des minerais figurant sur une
-liste fixée par arrêté du ministre chargé du budget.
+liste fixée par arrêté du ministre chargé du budget (1).
 
-Les activités qui relèvent du secteur de la maintenance au profit d'activités industrielles mentionné au troisième alinéa du
-I et au deuxième alinéa du II de l'article 217 undecies du code général des impôts sont celles qui concourent à l'entretien
-ou à la réparation du matériel de production exploité dans le secteur industriel défini au premier alinéa.
+Les activités qui relèvent du secteur des services informatiques mentionné à l'article 217 undecies du code général des
+impôts sont celles qui concourent à la gestion et à la maintenance informatiques, à la création de logiciels, à la fourniture
+d'accès à internet, à l'hébergement de sites et à la création de services en ligne sur internet.
+
+Les activités de navigation de croisière exclues du secteur du tourisme mentionné à l'article 217 undecies du code général
+des impôts sont celles qui sont organisées sur des navires autorisés à embarquer plus de cinquante passagers.
+
+Les activités qui relèvent du secteur de la maintenance mentionné à l'article 217 undecies du code général des impôts sont
+celles qui concourent, pour l'essentiel, à l'entretien ou à la réparation du matériel technique de production de biens ou de
+services exploité dans l'un des secteurs mentionnés à cet article.
+
+**Nota:**
+
+(1) Voir l'article 23 L ter de l'annexe IV.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 217 undecies
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-
-	**Créé par**:
-
-	  - Loi - art. 89 (V) JORF 31 décembre 1998
-	  - Loi n°98-1266 1998-12-30 art. 89 I 2°, 3° Finances pour 1999 JORF 31 décembre 1998
+	  - CGIAN4 23 L ter
 
 	**Modifié par**:
 
-	  - Décret n°99-157 du 5 mars 1999 - art. 2 () JORF 6 mars 1999
+	  - Décret n°2002-582 du 24 avril 2002 - art. 3 () JORF 26 avril 2002
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2004-203 du 3 mars 2004 - art. 3 (V) JORF 5 mars 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 140 septies
@@ -6976,9 +7319,9 @@ paiement, en indiquant le montant de la partie de la taxe dont il est demandé e
 
 ###### Article 140 K
 
-Ainsi qu'il est dit au premier alinéa de l'article R. 119-1 du code du travail, le montant de la fraction de la taxe
-d'apprentissage obligatoirement réservée au développement de l'apprentissage en application de l'article 227 du code général
-des impôts est fixé à 40 %.
+Ainsi qu'il est dit à l'article R. 119-1 du code du travail, le montant de la fraction de la taxe d'apprentissage
+obligatoirement réservée au développement de l'apprentissage en application de l'article 227 du code général des impôts est
+fixé à 40 %.
 
 **Liens relatifs à cet article**
 
@@ -6987,43 +7330,31 @@ des impôts est fixé à 40 %.
 	  - CGI 227
 	  - Code du travail - art. R119-1 (M)
 
-	**Nouveaux textes**:
-
-	  - CGIAN3 50-0 bis (2ème phrase)
-
 	**Modifié par**:
 
-	  - Décret n°96-1052 du 5 décembre 1996 - art. 1 () JORF 8 décembre 1996
-	  - Décret n°96-1052 du 5 décembre 1996 - art. 3 (V) JORF 8 décembre 1996
+	  - Décret n°2002-597 du 24 avril 2002 - art. 7 () JORF 27 avril 2002
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - PEREMPTION: Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 140 K bis
 
-Ainsi qu'il est dit aux alinéas premier à trois de l'article R. 119-4 du code du travail, l'obligation faite aux personnes ou
-aux entreprises employant un apprenti de verser, en application du deuxième alinéa de l'article 226 bis du code général des
-impôts, un concours au centre de formation d'apprentis ou à la section d'apprentissage où est inscrit cet apprenti s'applique
-dans la limite de la fraction de la taxe d'apprentissage réservée au développement de l'apprentissage mentionnée à l'article
-140 K, après imputation du versement au Trésor public mentionné à l'article 140 K ter.
-
-Le montant minimum par apprenti de ce concours est fixé par arrêté des ministres chargés du travail, de la formation
-professionnelle, de l'éducation, de l'agriculture et du budget par référence à une fraction du coût moyen par apprenti des
-formations en apprentissage, déterminée après consultation du comité de coordination des programmes régionaux d'apprentissage
-et de formation professionnelle continue (1).
+Ainsi qu'il est dit aux premier et deuxième alinéas de l'article R. 119-4 du code du travail, l'obligation faite aux
+personnes ou aux entreprises employant un apprenti de verser, en application du deuxième alinéa de l'article 226 bis du code
+général des impôts, un concours au centre de formation d'apprentis ou à la section d'apprentissage où est inscrit cet
+apprenti s'applique dans la limite de la fraction de la taxe d'apprentissage réservée au développement de l'apprentissage
+mentionnée à l'article 140 K, après imputation du versement au Trésor public mentionné à l'article 140 K ter.
 
 Les versements prévus au présent article sont effectués postérieurement au versement au Trésor public mentionné à l'article
-140 K ter et préalablement à toutes autres dépenses libératoires (2).
-
-(1) Voir l'article 23 I ter de l'annexe IV.
-
-(2) Dispositions applicables à la taxe d'apprentissage versée à compter du 1er janvier 1997.
+140 K ter et préalablement à toutes autres dépenses libératoires.
 
 **Liens relatifs à cet article**
 
@@ -7033,32 +7364,29 @@ Les versements prévus au présent article sont effectués postérieurement au v
 	  - CGIAN2 140 K, 140 K ter
 	  - Code du travail - art. R119-4 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-148 1997-02-17 art. 1 3°, art. 2 JORF 19 février 1997
-	  - Décret n°97-148 du 17 février 1997 - art. 2 (V) JORF 19 février 1997
+	  - Décret n°2002-597 du 24 avril 2002 - art. 10 () JORF 27 avril 2002
 
 	**Codifié par**:
 
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2002-1207 2002-09-27
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 140 K ter
 
 Ainsi qu'il est dit à l'article R. 119-5 du code du travail, le montant de la fraction de la taxe d'apprentissage
 obligatoirement réservée à une péréquation entre les centres de formation d'apprentis ou sections d'apprentissage en
-application de l'article 226 B du code général des impôts est fixé à 8 % de la taxe due en raison des rémunérations versées
+application de l'article 226 B du code général des impôts est fixé à 10 % de la taxe due en raison des rémunérations versées
 pendant l'année précédente.
 
 Le versement au Trésor public prévu à l'article 226 B du code général des impôts s'impute sur la fraction de la taxe
 d'apprentissage réservée au développement de l'apprentissage mentionnée à l'article 140 K ; il est effectué préalablement à
 toutes les dépenses libératoires.
-
-(dispositions applicables à la taxe d'apprentissage versée à compter du 1er janvier 1997).
 
 **Liens relatifs à cet article**
 
@@ -7068,17 +7396,17 @@ toutes les dépenses libératoires.
 	  - CGIAN2 140 K
 	  - Code du travail - art. R119-5 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2002-597 du 24 avril 2002 - art. 11 () JORF 27 avril 2002
+
 	**Codifié par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2002-1207 2002-09-27
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-
-	**Modifié par**:
-
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, V JORF 3 juillet 1998
+	  - HISTO: Edition du 31 août 2002
 
 
 ##### IV : Régimes spéciaux.
@@ -7091,30 +7419,26 @@ d'apprentissage est réduit au montant, fixé à l'article 140 K, de la fraction
 l'apprentissage.
 
 Les versements effectués au titre des articles 140 K bis et 140 K ter s'imputent sur cette fraction. Le montant du versement
-mentionné à l'article 140 K ter est de 20 % de ladite fraction.
-
-(Dispositions applicables à la taxe d'apprentissage versée à compter du 1er janvier 1997).
+mentionné à l'article 140 K ter est de 25 % de ladite fraction.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 140 K, 140 K bis, 140 K ter
 	  - Loi n°71-578 du 16 juillet 1971 - art. 9 (V)
 	  - Code du travail - art. R119-33-1 (M)
 
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-
 	**Modifié par**:
 
-	  - Décret n°97-222 1997-03-13 art. 2 I, II JORF 14 mars 1997
-	  - Décret n°97-222 du 13 mars 1997 - art. 2 () JORF 14 mars 1997
+	  - Décret n°2002-597 du 24 avril 2002 - art. 11 () JORF 27 avril 2002
 
 	**Codifié par**:
 
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2002-1207 2002-09-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 140 N
@@ -9499,6 +9823,460 @@ lorsque toutes les conditions prévues pour son obtention sont remplies.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2002
+
+
+##### VII bis : Sociétés de capital-risque
+
+###### Article 171 AL
+
+Pour l'application des dispositions du premier alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, en cas
+de dépassement d'une des limites relatives au total de bilan, au chiffre d'affaires hors taxes des prestations de services
+accessoires et au bénéfice afférent à ces prestations, le dépassement s'apprécie par référence à la moyenne de cette limite
+constatée l'année du dépassement et l'année précédente. Cette disposition n'est pas applicable lorsque le dépassement est
+constaté à la clôture du premier exercice d'option pour le régime prévu au deuxième alinéa du 3° septies de l'article 208 du
+code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 171 AM
+
+Pour l'appréciation du quota de 50 % prévu au troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet
+1985 :
+
+a) La situation nette comptable d'une société de capital-risque s'apprécie après déduction de la valeur nette comptable des
+participations détenues dans d'autres sociétés de capital-risque ;
+
+b) Lorsqu'une société dont les titres ou droits sont inclus dans le quota de 50 % fait l'objet d'une liquidation judiciaire,
+de l'ouverture d'une procédure de redressement judiciaire ou de la constatation d'une dépréciation, les titres ou droits en
+cause sont réputés maintenus à l'actif de la société de capital-risque pour leur valeur d'acquisition pendant cinq ans à
+compter du jugement ou de la constatation de la provision ;
+
+c) Lorsque des titres ou droits inclus dans le quota de 50 % font l'objet d'une cession, les titres ou droits cédés sont
+réputés maintenus à l'actif de la société de capital-risque pour leur valeur nette comptable pendant une durée de deux ans à
+compter de la date de la cession ;
+
+d) Lorsque des titres ou droits reçus en échange de titres ou droits inclus dans le quota de 50 % ne sont pas eux-mêmes
+éligibles à ce quota, les titres ou droits remis à l'échange sont réputés maintenus à l'actif de la société de capital-risque
+pour leur valeur nette comptable pendant une durée de deux ans à compter de l'échange ou jusqu'à la fin de la période pendant
+laquelle la société de capital-risque s'est engagée à conserver les titres dans son actif si cette durée est supérieure ;
+
+e) Les droits représentatifs d'un placement financier dans des entités mentionnées au d du 1° de l'article 1er-1 de la loi n°
+85-695 du 11 juillet 1985 sont pris en compte à proportion de l'investissement direct de ces entités dans des titres
+éligibles au quota de 50 %, à l'exclusion des droits dans d'autres entités de même nature. Cette proportion d'investissement
+direct s'apprécie par référence :
+
+1° Soit au dernier inventaire de l'actif connu desdites entités ;
+
+2° Soit aux engagements statutaires ou contractuels d'investissement direct pris par ces entités ;
+
+f) Ne sont pas prises en compte les participations détenues par la société de capital-risque pour le compte de tiers ou
+financées grâce au concours de tiers qui en assument les risques financiers.
+
+**Nota:**
+
+NOTA : Loi 2005-845 2005-07-26 art. 165 II :
+
+Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
+redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
+et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
+plans de sauvegarde ou de redressement judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-1030 du 29 juillet 2002 - art. 4, v. init.
+	  - HISTO: Edition du 31 août 2002
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 decies (V)
+
+
+###### Article 171 AN
+
+En cas de non-respect du quota de 50 % prévu au troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet
+1985 lors d'un inventaire mentionné au I de l'article 171 AS, la société de capital-risque ne perd pas le bénéfice de son
+régime fiscal si elle régularise sa situation au plus tard lors de l'inventaire suivant sous réserve, d'une part, qu'elle en
+ait informé le service des impôts auprès duquel elle dépose sa déclaration de résultats dans le mois qui suit l'inventaire
+ayant fait apparaître que le quota n'a pas été respecté et, d'autre part, qu'il s'agisse du premier manquement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 171 AS
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-1030 du 29 juillet 2002 - art. 4, v. init.
+	  - HISTO: Edition du 31 août 2002
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 AQ (V)
+
+
+###### Article 171 AO
+
+Une société de capital-risque ne peut employer en titres d'une même société plus de 25 % de sa situation nette comptable
+appréciée comme indiqué à l'article 171 AM. Si ce pourcentage est dépassé du fait d'une diminution de la situation nette
+comptable, la société de capital-risque doit régulariser sa situation au plus tard à l'expiration du cinquième exercice qui
+suit celui du dépassement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 171 AM
+
+	**Créé par**:
+
+	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-1030 du 29 juillet 2002 - art. 4, v. init.
+	  - HISTO: Edition du 31 août 2002
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 AQ (V)
+
+
+###### Article 171 AP
+
+Pour les sociétés mentionnées au b du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, la condition relative à
+l'exclusivité de l'objet est remplie lorsque les parts, actions, obligations remboursables, obligations convertibles ou
+titres participatifs émis par des sociétés dont les titres sont éligibles au quota prévu au troisième alinéa du 1° du même
+article ainsi que les avances en comptes courants à ces sociétés représentent 90 % de l'actif.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+	**Cite**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+
+
+###### Article 171 AQ
+
+I. - A compter de la clôture du cinquième exercice suivant celui au titre duquel une société a opté pour l'un des régimes
+prévus au 3° septies de l'article 208 du code général des impôts ou lorsqu'une augmentation de capital est effectuée
+postérieurement, à compter de la clôture du cinquième exercice suivant celui au cours duquel elle est intervenue, une société
+de capital-risque peut, sur décision de son assemblée générale extraordinaire, mettre fin à son activité d'investissement
+après en avoir informé le service des impôts mentionné à l'article 171 AN.
+
+II. - A compter de l'ouverture du premier exercice d'effet de la décision mentionnée au I, la société de capital-risque :
+
+a) N'est plus tenue au respect ni du quota de 50 % prévu au troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du
+11 juillet 1985 ni de la limite de 25 % mentionnée à l'article 171 AO ;
+
+b) Ne peut plus procéder à de nouvelles augmentations de capital ;
+
+c) Doit cesser ses activités de prestations de services accessoires ;
+
+d) Ne peut réinvestir qu'en parts, actions, obligations remboursables, obligations convertibles ou titres participatifs ainsi
+qu'en avances en comptes courants dans des sociétés non admises aux négociations sur un marché réglementé ou dans des entités
+visées au d du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 dont les titres ou droits figurent déjà à son
+actif.
+
+III. - A compter de l'ouverture de l'exercice suivant le début de la période mentionnée au II, la société de capital-risque
+peut limitativement détenir à son actif :
+
+a) Des parts, actions, obligations remboursables, obligations convertibles, titres participatifs de sociétés non admises aux
+négociations sur un marché réglementé, des avances en comptes courants à ces mêmes sociétés ainsi que des droits dans des
+entités visées au d du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 ;
+
+b) Les biens meubles et immeubles nécessaires à son fonctionnement ;
+
+c) Le placement d'une trésorerie au plus égale à 20 % de sa situation nette comptable.
+
+En outre, les sommes à répartir aux actionnaires au titre d'un exercice peuvent être conservées et placées jusqu'à leur
+répartition qui doit intervenir au plus tard à la clôture de l'exercice suivant leur réalisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-1030 du 29 juillet 2002 - art. 4, v. init.
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 171 AR
+
+L'option prévue au 4° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 pour le régime fiscal du deuxième alinéa du
+3° septies de l'article 208 du code général des impôts s'effectue par lettre simple adressée au service des impôts auprès
+duquel la société de capital-risque dépose sa déclaration de résultats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D341-4 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 171 AS
+
+I. - Les sociétés de capital-risque joignent à leur déclaration de résultats un état permettant d'apprécier le respect, au 30
+juin, au 31 décembre et à la clôture de l'exercice s'il est clos à une date différente, du quota prévu au troisième alinéa du
+1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985. Cet état, établi sur papier libre, mentionne la nature et le
+montant des investissements éligibles au quota ainsi que les éléments constitutifs de la situation nette comptable telle
+qu'elle est définie à l'article 171 AM.
+
+II. - Les sociétés de capital-risque qui réalisent des prestations de services accessoires au sens du premier alinéa du 1° de
+l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 joignent à leur déclaration de résultats un relevé indiquant, pour
+l'exercice considéré, le montant du chiffre d'affaires hors taxes et du bénéfice retirés de ces prestations.
+
+III. - Les sociétés de capital-risque joignent à leur déclaration de résultats un état, établi selon un modèle fourni par
+l'administration, des bénéfices et réserves distribuables réalisés ou constituées à compter de l'ouverture du premier
+exercice au titre duquel elles ont opté pour le régime fiscal du deuxième alinéa du 3° septies de l'article 208 du code
+général des impôts. Pour les sociétés de capital-risque qui étaient précédemment soumises au régime fiscal du premier alinéa
+du 3° septies de cet article, l'état inclut les réserves distribuables constituées sous ce dernier régime.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 208
+	  - CGIAN2 171 AM
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+	**Créé par**:
+
+	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+
+
+##### VIII : Réductions d'impôts pour l'achat de biens culturels
+
+###### Article 171 BA
+
+Lorsque le prix de cession d'un bien culturel ayant le caractère de trésor national a fait l'objet d'un accord entre l'Etat
+et le propriétaire en application de l'article 9-1 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits soumis à
+certaines restrictions de circulation et à la complémentarité entre les services de police, de gendarmerie et de douane, le
+ministre chargé de la culture, s'il estime que l'acquisition de ce bien peut donner lieu aux versements mentionnés à
+l'article 238 bis-0 A du code général des imp<cb>ts, publie un avis au Journal officiel de la République française. Cet avis
+informe les entreprises susceptibles de bénéficier de la réduction d'impot prévue par le même article qu'elles peuvent
+présenter une offre de versement en faveur de l'achat de ce bien.
+
+</cb>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis-0 A
+	  - Loi n°92-1477 1992-12-31 art. 9-1
+
+	**Créé par**:
+
+	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 171 BB
+
+L'entreprise qui souhaite bénéficier de la réduction d'impôt mentionnée à l'article 171 BA adresse son offre au ministre
+chargé de la culture, en indiquant notamment le montant du versement envisagé.
+
+Le ministre dispose d'un délai d'un mois à compter de la réception de cette offre pour instruire celle-ci. S'il estime que
+l'offre ne peut être acceptée, il en informe l'entreprise avant l'expiration de ce délai. Dans le cas contraire, il saisit le
+ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 171 BA
+
+	**Créé par**:
+
+	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 171 BC
+
+La décision conjointe des ministres chargés de la culture et du budget est notifiée à l'entreprise, par lettre recommandée
+avec demande d'avis de réception, dans les trois mois suivant la présentation de l'offre. A défaut de notification d'une
+décision dans ce délai, l'offre est réputée rejetée.
+
+Lorsque l'offre est acceptée, l'entreprise procède au versement auprès de l'agent comptable de la Réunion des musées
+nationaux, dans les conditions définies par la décision. Il en est délivré récépissé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 171 BD
+
+En cas de résolution de la vente d'un bien culturel pour lequel une offre de versement a été acceptée, en application des
+dispositions du septième alinéa de l'article 9-1 de la loi du 31 décembre 1992 précitée, le bénéfice de la réduction d'impôt
+demeure acquis à l'entreprise qui a procédé à des versements, dans les conditions suivantes.
+
+Le ministre chargé de la culture et le ministre chargé du budget proposent à l'entreprise d'affecter ses versements à
+l'acquisition d'autres trésors nationaux dans les douze mois qui suivent. Si l'entreprise refuse, elle perd le bénéfice de la
+réduction d'impôt. Les sommes qu'elle a versées lui sont alors restituées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°92-1477 1992-12-31 art. 9-1
+
+	**Créé par**:
+
+	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 171 BE
+
+L'entreprise qui souhaite bénéficier de la réduction d'impôt pour acquisition de biens culturels prévue à l'article 238 bis-0
+AB du code général des impôts adresse sa demande en deux exemplaires au ministre chargé de la culture. Celui-ci transmet l'un
+des exemplaires au ministre chargé du budget et procède aussitôt à l'instruction de la demande.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis-0 AB
+
+	**Créé par**:
+
+	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 171 BF
+
+Dans le cas où l'entreprise, pour quelque motif que ce soit, n'acquiert pas le bien en cause, elle en informe immédiatement
+le ministre chargé de la culture et le ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 171 BG
+
+Le ministre chargé de la culture saisit la commission consultative des trésors nationaux mentionnée à l'article 5 du décret
+n° 93-124 du 29 janvier 1993 relatif aux biens culturels soumis à certaines restrictions de circulation, afin qu'elle se
+prononce sur la valeur d'acquisition du bien.
+
+Il soumet en outre la question de l'intérêt du classement de ce bien, selon le cas, à l'avis de la Commission supérieure des
+monuments historiques prévue par le décret n° 94-87 du 28 janvier 1994 relatif à la Commission supérieure des monuments
+historiques ou à celui de la Commission supérieure des archives mentionnée à l'article 2 du décret n° 79-1040 du 3 décembre
+1979 relatif à la sauvegarde des archives privées présentant du point de vue de l'Histoire un intérêt public.
+
+Le ministre chargé de la culture transmet sans délai les avis prévus aux premier et deuxième alinéas au ministre chargé du
+budget.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°79-1040 du 3 décembre 1979 - art. 2 (V)
+	  - Décret n°93-124 1993-01-29 art. 5
+	  - Décret n°94-87 1994-01-28
+
+	**Créé par**:
+
+	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+
+	**Cité par**:
+
+	  - Code du patrimoine. - art. R111-23 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 171 BH
+
+La décision du ministre chargé du budget est notifiée à l'entreprise par lettre recommandée avec demande d'avis de réception.
+Le ministre chargé de la culture en est informé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -20067,6 +20845,34 @@ jour de la période d'imposition.
 
 ### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers
 
+#### Chapitre premier : Impôts directs et taxes assimilées
+
+##### Section IV : Taxe pour frais de chambres de métiers.
+
+###### Article 321 bis
+
+Le dépassement du produit du droit additionnel prévu au sixième alinéa de l'article 1601 du code général des impôts est
+subordonné à la conclusion de conventions conclues avec l'Etat. La convention mentionne les actions ou les investissements à
+réaliser et les engagements correspondants de la chambre de métiers. Aucun dépassement ne peut être accordé si les
+engagements de la chambre au titre de la convention précédente n'ont pas été respectés. L'autorité compétente pour autoriser
+le dépassement du produit du droit additionnel et signer la convention est le préfet du département dans lequel la chambre de
+métiers a son siège.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1601
+
+	**Créé par**:
+
+	  - Décret n°2002-585 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
 #### Chapitre II : Enregistrement, publicité foncière et timbre
 
 ##### Section I : Fonds de garantie des assurances obligatoires de dommages
@@ -21236,14 +22042,14 @@ général des impôts.
 	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
 
 
-#### Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.
+#### Chapitre VI : Taxe perçue au profit du centre technique des productions cidricoles.
 
 ###### Article 358
 
-Il est institué jusqu'au 31 août 2002 une taxe parafiscale au profit du comité des fruits à cidre et des productions
-cidricoles.
+Il est institué du 1er septembre 2002 et jusqu'au 31 décembre 2003 une taxe parafiscale au profit du centre technique des
+productions cidricoles.
 
-Cette taxe est destinée à financer les frais de fonctionnement et les actions du comité relatives à la recherche et à
+Cette taxe est destinée à financer les frais de fonctionnement et les actions du centre relatives à la recherche et à
 l'expérimentation en vue de l'amélioration des plantations et vergers, des techniques de production et de traitements
 technologiques des productions cidricoles.
 
@@ -21251,39 +22057,41 @@ technologiques des productions cidricoles.
 
 	**Modifié par**:
 
-	  - Décret n°97-808 du 29 août 1997 - art. 1 (V) JORF 30 août 1997
+	  - Décret n°2002-1098 du 28 août 2002 - art. 1 (V) JORF 30 août 2002
 
 	**Codifié par**:
 
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2004-304 2004-03-26
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 359
 
-Sont soumis à la taxe prévue à l'article 358, à l'exclusion des produits introduits en provenance d'autres Etats membres de
-la Communauté européenne, les produits suivants :
+Sont soumis à la taxe prévue à l'article 358, à l'exclusion des produits introduits sur le territoire national en provenance
+d'autres Etats membres de la Communauté européenne, les produits suivants :
 
 1° Pommes à cidre et poires à poiré :
 
-a) Moûts et concentrés de pommes à cidre et de poires à poiré ;
+- moûts et concentrés de pommes à cidre et de poires à poiré ;
 
-b) Jus de pommes à cidre et de poires à poiré ;
+- jus de pommes à cidre et de poires à poiré ;
 
-c) Cidres aromatisés ou non ;
+a) Cidres aromatisés ou non ;
 
-d) Poirés ;
+b) Poirés ;
 
-e) Fermentés de pommes aromatisés ou non ;
+c) Fermentés de pommes aromatisés ou non ;
 
-f) Fermentés de poires ;
+d) Fermentés de poires :
 
-g) Pommeaux et apéritifs à base de cidre et de poiré ;
+- pommeaux et apéritifs à base de cidre et de poiré ;
 
-h) Calvados et eaux-de-vie de cidre et de poiré ;
+- calvados et eaux-de-vie de cidre et de poiré.
 
 2° Pommes et poires de table, moûts et concentrés de pommes et poires de table destinés à la fabrication des produits
 suivants :
@@ -21301,27 +22109,29 @@ e) Apéritifs à base de cidre et de poiré ;
 f) Eaux-de-vie de cidre et de poiré.
 
 Les produits semi-transformés ou transformés visés aux 1° et 2° ne sont soumis à la taxe que si la matière première mise en
-oeuvre pour leur fabrication ne l'a pas elle-même été. Cependant, les jus visés au b du 1° sont exonérés de la taxe
-lorsqu'ils sont élaborés à partir de moûts et de concentrés en provenance des autres Etats membres de la Communauté
+oeuvre pour leur fabrication ne l'a pas elle-même été. Cependant, les jus visés au troisième alinéa du 1° sont exonérés de la
+taxe lorsqu'ils sont élaborés à partir de moûts et de concentrés en provenance des autres Etats membres de la Communauté
 européenne.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 358
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
+	  - CGIAN2 358
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2002-1098 du 28 août 2002 - art. 2 (V) JORF 30 août 2002
+
+	**Codifié par**:
+
+	  - Décret n°2004-304 2004-03-26
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 360
@@ -21330,53 +22140,11 @@ La taxe est due lors de la délivrance du titre de mouvement légitimant la sort
 l'article 359. Elle est acquittée par la personne levant le titre de mouvement mais supportée par l'acheteur et le vendeur,
 chacun pour moitié.
 
-Elle est perçue pour le compte du comité des fruits à cidre et des productions cidricoles par les bureaux de déclaration de
-la direction générale des douanes et droits indirects.
+La taxe est perçue pour le compte du centre technique des productions cidricoles par les bureaux de déclaration de la
+direction générale des douanes et droits indirects.
 
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 359
-	  - CGIAN2 358
-
-	**Modifié par**:
-
-	  - Décret n°97-808 du 29 août 1997 - art. 3 (V) JORF 30 août 1997
-	  - Décret n°97-808 du 29 août 1997 - art. 4 (V) JORF 30 août 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 361
-
-Le montant maximum de la taxe à laquelle sont soumis les produits visés aux 1° et 2° de l'article 359 est fixé à :
-
-1° 0,12 euros par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
-
-2° 0,17 euros par hectolitre :
-
-a. de jus de pommes à cidre et de poires à poiré et de moûts de pommes et de poires ;
-
-b. de cidre, aromatisé ou non, à due proportion du cidre contenu dans le produit fini ;
-
-c. de fermenté de pommes, à due proportion du fermenté de pommes contenu dans le produit fini ;
-
-d. de poiré ;
-
-e. de fermenté de poires.
-
-3° 3,05 euros par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré, de pommeaux et d'apéritifs à base
-de cidre et de poiré.
-
-Un arrêté du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre chargé du budget fixe, dans la
-limite du montant maximum, le montant de la taxe applicable à chaque catégorie de produits.
+Les frais d'assiette et de perception de la taxe au taux de 5 % du montant des recouvrements sont à la charge du centre et
+décomptés et payés à l'administration dans les conditions réglementaires.
 
 **Liens relatifs à cet article**
 
@@ -21384,17 +22152,65 @@ limite du montant maximum, le montant de la taxe applicable à chaque catégorie
 
 	  - CGIAN2 359
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2002-1098 du 28 août 2002 - art. 3 (V) JORF 30 août 2002
+	  - Décret n°2002-1098 du 28 août 2002 - art. 4 (V) JORF 30 août 2002
+
+	**Codifié par**:
+
+	  - Décret n°2004-304 2004-03-26
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 361
+
+Le montant maximum de la taxe à laquelle sont soumis les produits visés aux 1° et 2° de l'article 359 est fixé à :
+
+1° 0,16 Euros par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
+
+2° 0,17 Euros par hectolitre :
+
+a) De jus de pommes à cidre et de poires à poiré et de moûts de pommes et de poires ;
+
+b) De cidre, aromatisé ou non, à due proportion du cidre contenu dans le produit fini ;
+
+c) De fermenté de pommes à due proportion du fermenté de pommes contenu dans le produit fini ;
+
+d) De poiré ;
+
+e) De fermenté de poires.
+
+3° 3,05 Euros par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré, de pommeaux et d'apéritifs à base
+de cidre et de poiré.
+
+Un arrêté du ministre chargé de l'économie, du ministre chargé de l'agriculture et du ministre délégué au budget fixe dans la
+limite du montant maximum le montant de la taxe applicable à chaque catégorie de produits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 359
+
+	**Modifié par**:
+
+	  - Décret n°2002-1098 du 28 août 2002 - art. 5 (V) JORF 30 août 2002
+
+	**Codifié par**:
+
+	  - Décret n°2004-304 2004-03-26
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2002
 
 
 #### Chapitre VII : Taxe parafiscale pour le financement de certains organismes interprofessionnels de vins.

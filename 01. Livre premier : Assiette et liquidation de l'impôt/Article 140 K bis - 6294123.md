@@ -1,22 +1,13 @@
 # Article 140 K bis
 
-Ainsi qu'il est dit aux alinéas premier à trois de l'article R. 119-4 du code du travail, l'obligation faite aux personnes ou
-aux entreprises employant un apprenti de verser, en application du deuxième alinéa de l'article 226 bis du code général des
-impôts, un concours au centre de formation d'apprentis ou à la section d'apprentissage où est inscrit cet apprenti s'applique
-dans la limite de la fraction de la taxe d'apprentissage réservée au développement de l'apprentissage mentionnée à l'article
-140 K, après imputation du versement au Trésor public mentionné à l'article 140 K ter.
-
-Le montant minimum par apprenti de ce concours est fixé par arrêté des ministres chargés du travail, de la formation
-professionnelle, de l'éducation, de l'agriculture et du budget par référence à une fraction du coût moyen par apprenti des
-formations en apprentissage, déterminée après consultation du comité de coordination des programmes régionaux d'apprentissage
-et de formation professionnelle continue (1).
+Ainsi qu'il est dit aux premier et deuxième alinéas de l'article R. 119-4 du code du travail, l'obligation faite aux
+personnes ou aux entreprises employant un apprenti de verser, en application du deuxième alinéa de l'article 226 bis du code
+général des impôts, un concours au centre de formation d'apprentis ou à la section d'apprentissage où est inscrit cet
+apprenti s'applique dans la limite de la fraction de la taxe d'apprentissage réservée au développement de l'apprentissage
+mentionnée à l'article 140 K, après imputation du versement au Trésor public mentionné à l'article 140 K ter.
 
 Les versements prévus au présent article sont effectués postérieurement au versement au Trésor public mentionné à l'article
-140 K ter et préalablement à toutes autres dépenses libératoires (2).
-
-(1) Voir l'article 23 I ter de l'annexe IV.
-
-(2) Dispositions applicables à la taxe d'apprentissage versée à compter du 1er janvier 1997.
+140 K ter et préalablement à toutes autres dépenses libératoires.
 
 **Liens relatifs à cet article**
 
@@ -26,15 +17,14 @@ Les versements prévus au présent article sont effectués postérieurement au v
 	  - CGIAN2 140 K, 140 K ter
 	  - Code du travail - art. R119-4 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-148 1997-02-17 art. 1 3°, art. 2 JORF 19 février 1997
-	  - Décret n°97-148 du 17 février 1997 - art. 2 (V) JORF 19 février 1997
+	  - Décret n°2002-597 du 24 avril 2002 - art. 10 () JORF 27 avril 2002
 
 	**Codifié par**:
 
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2002-1207 2002-09-27
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2002

@@ -1,9 +1,9 @@
 # Article 140 quater
 
-Les investissements productifs réalisés dans les départements et territoires d'outre-mer et dans les collectivités
-territoriales de Mayotte et de Saint-Pierre-et-Miquelon mentionnés aux I, II et II bis de l'article 217 undecies du code
-général des impôts s'entendent des acquisitions ou créations d'immobilisations corporelles amortissables, affectées aux
-activités relevant des secteurs mentionnés à cet article.
+Les investissements productifs réalisés dans les départements et territoires d'outre-mer, dans la collectivité départementale
+de Mayotte, la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie mentionnés aux I, II et II bis
+de l'article 217 undecies du code général des impôts s'entendent des acquisitions ou créations d'immobilisations corporelles,
+neuves et amortissables, affectées aux activités relevant des secteurs mentionnés à cet article.
 
 **Liens relatifs à cet article**
 
@@ -11,10 +11,10 @@ activités relevant des secteurs mentionnés à cet article.
 
 	  - CGI 217 undecies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-157 du 5 mars 1999 - art. 2 () JORF 6 mars 1999
+	  - Décret n°2002-582 du 24 avril 2002 - art. 2 () JORF 26 avril 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 août 2002
