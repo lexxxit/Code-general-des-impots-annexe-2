@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1993-08-18
+Version Consolidée au 1993-09-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17678,56 +17678,57 @@ code général des impôts.
 
 Il est institué jusqu'au 31 décembre 1995 [*date limite*] au profit du comité professionnel de développement de l'horlogerie
 et du centre technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de vente, de livraison ou
-d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume, mentionnés à l'article
-346, réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
+d'échange (à l'identique ou à l'équivalent) situées en France en application du a du I de l'article 258 du code général des
+impôts y compris les livraisons exonérées en vertu du I de l'article 262 ter du même code ou les livraisons dans un lieu
+situé dans un autre Etat membre de la Communauté économique européenne en application de l'article 258 A de ce code des
+produits de l'horlogerie de petit ou de gros volume, mentionnés à l'article 346, réalisées par les personnes assujetties à la
+taxe sur la valeur ajoutée.
 
-Cette taxe parafiscale ne s'applique pas aux articles d'occasion, ni aux articles exportés hors de la Communauté économique
-européenne. Sa perception sur les articles importés de la Communauté économique européenne [*CEE*] donne lieu à
+Cette taxe parafiscale ne s'applique ni aux articles d'occasion ni aux articles exportés hors de la Communauté économique
+européenne [*CEE*]. Sa perception sur les articles qui ont fait l'objet d'une acquisition intracommunautaire donne lieu à
 remboursement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 346
+	  - CGI 258, 262 ter, 258 A, 346
 
 	**Modifié par**:
 
-	  - Décret n°91-350 du 10 avril 1991 - art. 1 (V) JORF 11 avril 1991,
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°93-1040 du 2 septembre 1993 - art. 1 () JORF 4 septembre 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 346
 
-Les opérations passibles de la taxe parafiscale sont celles visées à l'article 345 et portant sur les produits figurant au
-groupe 34-01 de la nomenclature approuvée par le décret n° 83-831 du 5 septembre 1983 à l'exclusion :
+Les opérations passibles de la taxe parafiscale horlogère sont celles visées à l'article 345 et portant sur les produits
+figurant au groupe 33-5 de la classification des produits français approuvée par le décret n° 92-1129 du 2 octobre 1992, à
+l'exclusion :
 
-a. De l'ensemble des produits mentionnés à la rubrique 34-01-12 ;
+a) De l'ensemble des produits mentionnés aux sous-catégories Z 33-50-13 et Z 33-50-92 ;
 
-b. Des produits visés à la rubrique 34-01-13 sous l'appellation "appareils de contrôle et compteurs de temps à mouvement
-singulier d'horlogerie ou à moteur synchrone tels que enregistreurs de présence, horodateurs, contrôleurs de rondes,
-minutiers, compteurs de secondes" ;
+b) Des produits visés à la sous-catégorie Z 33-50-15 sous l'appellation appareils de contrôle et compteurs de temps à
+mouvement singulier d'horlogerie ou à moteur synchrone tels que enregistreurs de présence, horodateurs, contrôleurs de
+rondes, minutiers, compteurs de secondes ;
 
-c. Des produits suivants rangés sous la rubrique 34-01-15 "munis d'un moteur synchrone permettant de déclencher un mécanisme
-à temps donné tels que interrupteurs horaires, horaires, horloges de commutation."
+c) Des produits suivants rangés sous les sous-catégories Z 33-50-22 et Z 33-50-25 munis d'un moteur synchrone permettant de
+déclencher un mécanisme à temps donné tels que interrupteurs horaires, horodateurs, horloges de commutation.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGIAN2 345
-	  - Décret n°83-831 1983-09-05
+	  - Décret n°92-1129 1992-10-02
 
 	**Modifié par**:
 
-	  - Décret n°86-163 du 4 février 1986 - art. 2 (V) JORF 6 février 1986
+	  - Décret n°93-1040 du 2 septembre 1993 - art. 1 () JORF 4 septembre 1993
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 347
@@ -17863,19 +17864,19 @@ B à 357 E.
 
 Sont soumises à la taxe prévue à l'article 357 A :
 
-Les ventes, y compris à l'exportation, et les livraisons à soi-même réalisées par les fabricants et les transformateurs et
-les opérations à façon portant sur les produits textiles relevant des classes 44-17-01, 44-17-02 et 44-17-04 à 44-17-07,
-44-18 et 44-30 à 44-42 de la nomenclature d'activité et de produits approuvée par le décret n° 83-831 du 5 septembre 1983 et
-les produits en maille relevant des classes 44-20 à 44-25 de la même nomenclature ;
+Les livraisons situées en France en application du a du I de l'article 258 du code général des impôts y compris les
+livraisons exonérées en vertu du I de l'article 262 ter du même code ou les livraisons dans un lieu situé dans un autre Etat
+membre de la Communauté économique européenne en application de l'article 258 A de ce code, les livraisons à soi-même
+réalisées par les fabricants et les transformateurs et les opérations à façon portant sur les produits textiles et les
+produits en maille mentionnés à l'annexe I au décret d'adaptation à la réglementation communautaire de la taxe parafiscale
+relative à ces produits.    Les importations pour la consommation d'articles relevant des chapitres ex 50, ex 51, ex 52, ex
+53, ex 54, ex 55, ex 56, ex 57, ex 58, ex 59, ex 60, ex 61, ex 62, ex 63, ex 65, ex 66, ex 70, ex 91 et ex 93 du système
+harmonisé de désignation et de codification des marchandises.
 
-Les importations pour la consommation d'articles relevant des chapitres ex 50, ex 51, ex 52, ex 53, ex 54, ex 55, ex 56, ex
-57, ex 58, ex 59, ex 60, ex 61, ex 62, ex 63, ex 65, ex 66, ex 70, ex 91 et ex 93 du système harmonisé de désignation et de
-codification des marchandises.
+Toutefois la taxe n'est pas perçue sur :
 
-Toutefois, la taxe n'est pas perçue sur :
-
-Les articles importés originaires des Etats membres de la Communauté économique européenne ou mis en libre pratique dans l'un
-de ces Etats ;
+Les articles qui font l'objet d'une acquisition intracommunautaire ou qui sont mis en libre pratique dans un des Etats
+membres de la Communauté économique européenne [*CEE*] ;
 
 Les exportations de produits à destination de pays autres que ceux appartenant à la Communauté économique européenne.
 
@@ -17883,17 +17884,12 @@ Les exportations de produits à destination de pays autres que ceux appartenant 
 
 	**Cite**:
 
-	  - CGI 357 A
-	  - Décret n°83-831 1983-09-05
+	  - CGIAN2 357 A, 258, 262 ter, 258 A
 
 	**Modifié par**:
 
-	  - Décret n°91-793 1991-08-21 art. 2 JORF 22 août 1991
-	  - Décret n°92-186 1992-06-26 art. 1 JORF 28 février 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°93-1040 du 2 septembre 1993 - art. 2 () JORF 4 septembre 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 357 C
@@ -18503,17 +18499,19 @@ valeur ajoutée, sous réserve des articles 363 O à 363 S.
 
 Sont soumises à la taxe prévue à l'article 363 N :
 
-Les ventes, y compris à l'exportation, et les livraisons à soi-même réalisées par les fabricants et les transformateurs et
-les opérations à façon portant sur les articles d'habillement relevant de la classe 47 de la nomenclature d'activité et de
-produits approuvée par le décret n° 83-831 du 5 septembre 1983 ;
+Les livraisons situées en France en application du a du I de l'article 258 du code général des impôts y compris les
+livraisons exonérées en vertu du I de l'article 262 ter du même code ou les livraisons dans un lieu situé dans un autre Etat
+membre de la Communauté économique européenne en application de l'article 258 A de ce code, les livraisons à soi-même
+réalisées par les fabricants et les transformateurs et les opérations à façon portant sur les articles d'habillement
+mentionnés à l'annexe II du décret adaptant à la réglementation communautaire la taxe parafiscale relative à ces produits.
 
 Les importations pour la consommation d'articles d'habillement relevant des chapitres ex 39, ex 40, ex 42, ex 43, ex 62, ex
 63, ex 65, ex 66 et ex 96 du système harmonisé de désignation et de codification des marchandises.
 
-Toutefois, la taxe n'est pas perçue sur :
+Toutefois la taxe n'est pas perçue sur :
 
-Les articles importés originaires des Etats membres de la Communauté économique européenne ou mis en libre pratique dans l'un
-de ces Etats ;
+Les articles qui font l'objet d'acquisitions intracommunautaires ou qui sont mis en libre pratique dans un des Etats membres
+de la Communauté économique européenne [*CEE*];
 
 Les exportations de produits à destination de pays autres que ceux appartenant à la Communauté économique européenne.
 
@@ -18521,16 +18519,14 @@ Les exportations de produits à destination de pays autres que ceux appartenant 
 
 	**Cite**:
 
-	  - CGI 363 N
+	  - CGI 258, 262 ter, 258 A
+	  - CGIAN2 363 N
 	  - Décret n°83-831 1983-09-05
 
 	**Modifié par**:
 
-	  - Décret n°91-792 du 21 août 1991 - art. 2 (P) JORF 22 août 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°93-1040 du 2 septembre 1993 - art. 4 () JORF 4 septembre 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 363 P
