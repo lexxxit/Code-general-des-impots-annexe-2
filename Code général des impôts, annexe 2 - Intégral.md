@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-05-25
+Version Consolidée au 1984-05-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13370,16 +13370,14 @@ Des centres de formalités des entreprises sont créés :
 
 1° Par les chambres de commerce et d'industrie :
 
-- pour les commerçants et les sociétés commerciales à l'exclusion de ceux qui sont assujettis à l'inscription au répertoire
-des métiers ;
+- pour les commerçants et les sociétés commerciales à l'exclusion de ceux qui sont assujettis à l'immatriculation au
+répertoire des métiers ;
 
-- pour les groupements d'intérêt économique ;
+Pour les groupements d'intérêt économique ;
 
 2° Par les chambres de métiers :
 
-- pour les entreprises artisanales ;
-
-- pour les commerçants et les sociétés commerciales également assujettis à l'inscription au répertoire des métiers ;
+- pour les personnes physiques et les sociétés assujetties à l'immatriculation au répertoire des métiers ;
 
 3° Par les greffes des tribunaux de commerce ou des tribunaux de grande instance statuant commercialement :
 
@@ -13400,13 +13398,13 @@ commerciaux ou à l'impôt sur les sociétés, dès lors que ceux-ci ne relèven
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-257 1981-03-18 ART. 2 JORF 21 MARS 1981
+	  - Décret n°84-405 1984-05-30 art. 1 JORF 31 mai 1984
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 371 AB
@@ -13650,7 +13648,18 @@ Le dispositif créant les centres de formalités des entreprises entrera en vigu
 arrêté du premier ministre publié au Journal officiel de la République française fixera la date de mise en vigueur par
 département (1).
 
-(1) Arrêté du 18 mars 1981 (J.O. du 21) ; arrêté du 23 juillet 1981 (J.O. des 27 et 28).
+Le dépôt des déclarations prévu à l'article 371 AC est obligatoirement effectué dans les centres de formalités des
+entreprises :
+
+A compter du 1er janvier 1985 pour les centres créés avant le 1er janvier 1984 ;
+
+Au terme d'un délai d'un an à compter de leur création pour les centres créés après le 1er janvier 1984.
+
+En cas de difficulté grave de fonctionnement d'un centre, le Premier ministre prend, par arrêté, toutes mesures de nature à
+assurer la continuité du service.
+
+(1) Arrêtés des 18 mars 1981 (J.O. du 21), 23 juillet 1981 (J.O. des 27 et 28), 23 décembre 1981 (J.O. des 25 et 26), 13
+juillet 1982 (J.O. du 17), 18 juillet 1983 (J.O. N.C. du 20), 30 janvier 1984 (J.O. N.C. du 4 février).
 
 **Liens relatifs à cet article**
 
@@ -13658,14 +13667,15 @@ département (1).
 
 	  - Arrêté 1981-03-18
 	  - Arrêté 1981-07-23
+	  - CGI 371 AC
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-257 1981-03-18 ART. 9 JORF 21 MARS 1981
+	  - Décret n°84-405 1984-05-30 art. 2 JORF 31 mai 1984
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°84-875 1984-10-01
 
 
 ### Chapitre II : Sociétés immobilières de copropriété
