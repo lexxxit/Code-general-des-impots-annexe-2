@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1993-03-11
+Version Consolidée au 1993-03-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12411,68 +12411,6 @@ régime simplifié de liquidation des taxes sur le chiffre d'affaires.
 
 ### Titre III : Contributions indirectes
 
-#### Chapitre 01 : Boissons - Vins et cidres
-
-##### Production
-
-##### Déclarations.
-
-###### Article 267 octies
-
-Les déclarations prévues aux articles 407 et 408 de récolte et de stocks de vins prévues aux articles 407 et 408 du code
-général des impôts et qui renferment en outre les indications fixées par décrets (1) sont établies sur des imprimés mis à la
-disposition des déclarants et déposées à la mairie qui en donne récépissé. Une copie de ces déclarations reste en mairie et
-doit être communiquée à tout requérant.
-
-Les autres exemplaires sont transmis, par les soins de la mairie, au service des impôts dans le ressort duquel sont situées
-les exploitations intéressées. Ce service ne peut délivrer des titres de mouvement au déclarant pour une quantité de vin
-supérieure à celle qu'il a déclarée.
-
-Le relevé nominatif des déclarations établi d'après leur ordre de dépôt, est affiché à la mairie.
-
-Dès le début de la récolte, au fur et à mesure des nécessités de la vente, des déclarations partielles peuvent être faites
-dans les mêmes conditions que ci-dessus, sauf l'affichage qui a lieu après la déclaration totale.
-
-(1) Annexe III, art. 169 bis
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 407
-	  - CGI 408
-	  - CGIAN3 169 bis
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 169 bis (Ab)
-
-
-##### Mesurage des appareils et vaisseaux.
-
-###### Article 267 nonies
-
-Les détenteurs d'appareils et de vaisseaux affectés à la production, au logement et au transport de liquides soumis à un
-droit indirect sont tenus de présenter au service des impôts dont ils relèvent, pour chacun de ces appareils ou vaisseaux et
-avant toute utilisation, le certificat de mesurage établi et remis au détenteur par le service des instruments de mesure en
-application de l'article 1er du décret n° 70-791 du 2 septembre 1970 et de tenir ensuite ce document à la disposition des
-agents chargés du contrôle, à tout moment, et notamment pendant les transports pour les récipients affectés au transport.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°791 1970-09-02 ART. 1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 #### Chapitre premier : Régime économique de l'alcool
 
 ###### Article 268
@@ -12587,143 +12525,6 @@ avec avis de réception adressée au bureau de garantie dont ils dépendent. Ell
 #### Chapitre II : Monopoles fiscaux
 
 ##### Section unique : Tabacs
-
-##### 0I : Définition des tabacs manufacturés.
-
-###### Article 275 A
-
-Sont considérés comme tabacs manufacturés :
-
-1° Les cigares et les cigarillos ;
-
-2° Les cigarettes ;
-
-3° Le tabac à fumer ;
-
-4° Le tabac à priser ;
-
-5° Le tabac à mâcher, tels que définis aux articles 275 B à 275 G.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 275 B A CGIAN2 275 G
-
-	**Créé par**:
-
-	  - Décret n°82-553 du 29 juin 1982 - art. 2 (V) JORF 1 JUILLET 1982
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 septies (V)
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-
-###### Article 275 B
-
-Sont considérés comme cigares ou cigarillos, s'ils sont susceptibles d'être fumés en l'état :
-
-1° Les rouleaux de tabac constitués entièrement de tabac naturel ;
-
-2° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ;
-
-3° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares et d'une sous-cape, toutes deux en tabac
-reconstitué relevant de la sous-position 24-03-91 du tarif douanier commun de la communauté économique européenne [*CEE*],
-lorsque au moins 60 % en poids des particules de tabac ont une largeur et une longueur supérieures à 1,75 millimètre et
-lorsque la cape est apposée en hélice avec un angle aigu minimal de 30 degrés par rapport à l'axe longitudinal du cigare ;
-
-4° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares, en tabac reconstitué relevant de la sous-
-position 24-03-91 du tarif douanier commun de la communauté économique européenne, lorsque leur masse unitaire sans filtre ni
-embout est égale ou supérieure à 2,3 grammes et si au moins 60 % en poids des particules de tabac ont une largeur et une
-longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins un tiers de leur longueur est égal ou supérieur à
-34 millimètres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-	**Cité par**:
-
-	  - Arrêté du 26 décembre 2007 (V)
-	  - Arrêté du 26 décembre 2007 - art. 1 (VT)
-	  - Arrêté du 26 décembre 2007 - art. 2 (VT)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
-
-
-###### Article 275 D
-
-Sont considérés comme cigarettes les rouleaux de tabac susceptibles d'être fumés en l'état qui ne sont ni des cigares ou des
-cigarillos tels qu'ils sont définis à l'article 275 B ni des produits qui sont assimilés à ceux-ci en vertu de l'article 275
-C.
-
-Un rouleau de tabac visé au premier alinéa est considéré, pour l'application du droit de consommation prévu aux articles 575
-et 575 A du code général des impôts, comme deux cigarettes lorsqu'il a une longueur, filtre et embout non compris, supérieure
-à 9 centimètres sans dépasser 18 centimètres, comme trois cigarettes lorsqu'il a une longueur, filtre et embout non compris,
-supérieure à 18 centimètres sans dépasser 27 centimètres et ainsi de suite.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 575
-	  - CGI 575 A
-	  - CGIAN2 275 B
-	  - CGIAN2 275 C
-
-	**Créé par**:
-
-	  - Décret n°82-553 du 29 juin 1982 - art. 5 (V) JORF 1 JUILLET 1982
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-
-###### Article 275 E
-
-Sont considérés comme tabacs à fumer :
-
-1° Le tabac coupé ou fractionné d'une autre façon, filé ou pressé en plaques, qui est susceptible d'être fumé sans
-transformation industrielle ultérieure ;
-
-2° Les déchets de tabac conditionnés pour la vente au détail, qui ne relèvent pas des articles 275 B, 275 C et 275 D et qui
-sont susceptibles d'être fumés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 275 B
-	  - CGIAN2 275 C
-	  - CGIAN2 275 D
-
-	**Créé par**:
-
-	  - Décret n°82-553 du 29 juin 1982 - art. 6 (V) JORF 1 JUILLET 1982
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E bis (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E ter (V)
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
 
 ##### I : Régime économique.
 
@@ -12858,6 +12659,81 @@ Les prix de vente au détail des tabacs sont fixés par arrêté du ministre de 
 
 ##### 0I : Définition des tabacs manufacturés
 
+###### Article 275 A
+
+Sont considérés comme tabacs manufacturés :
+
+1° Les cigares et les cigarillos ;
+
+2° Les cigarettes ;
+
+3° Le tabac fine coupe destiné à rouler les cigarettes ;
+
+4° Les autres tabacs à fumer ;
+
+4° Le tabac à priser ;
+
+5° Le tabac à mâcher,
+
+tels que définis aux articles 275 B à 275 G.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 275 B à 275 G
+
+	**Modifié par**:
+
+	  - Décret n°93-424 du 18 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 septies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 275 B
+
+Sont considérés comme cigares ou cigarillos, s'ils sont susceptibles d'être fumés en l'état :
+
+1° Les rouleaux de tabac constitués entièrement de tabac naturel ;
+
+2° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ;
+
+3° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares et d'une sous-cape, toutes deux en tabac
+reconstitué lorsque au moins 60 % en poids des particules de tabac ont une largeur et une longueur supérieures à 1,75
+millimètre et lorsque la cape est apposée en hélice avec un angle aigu minimal de 30 degrés par rapport à l'axe longitudinal
+du cigare ;
+
+4° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares, en tabac reconstitué lorsque leur masse
+unitaire sans filtre ni embout est égale ou supérieure à 2,3 grammes et si au moins 60 % en poids des particules de tabac ont
+une largeur et une longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins un tiers de leur longueur est
+égal ou supérieur à 34 millimètres.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-424 du 18 mars 1993 - art. 2 () JORF 24 mars 1993
+
+	**Cité par**:
+
+	  - Arrêté du 26 décembre 2007 (V)
+	  - Arrêté du 26 décembre 2007 - art. 1 (VT)
+	  - Arrêté du 26 décembre 2007 - art. 2 (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 275 C
 
 Les produits constitués partiellement de substances autres que le tabac et répondant aux autres critères de l'article 275 B
@@ -12891,6 +12767,79 @@ Ou d'une cape en tabac reconstitué.
 	**Liens**:
 
 	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 275 D
+
+Sont considérés comme cigarettes les rouleaux de tabac susceptibles d'être fumés en l'état qui ne sont ni des cigares ou des
+cigarillos tels qu'ils sont définis à l'article 275 B ni des produits qui sont assimilés à ceux-ci en vertu de l'article 275
+C.
+
+Un rouleau de tabac visé au premier alinéa est considéré, pour l'application du droit de consommation prévu aux articles 575
+et 575 A du code général des impôts, comme deux cigarettes lorsqu'il a une longueur, filtre et embout non compris, supérieure
+à 9 centimètres sans dépasser 18 centimètres, comme trois cigarettes lorsqu'il a une longueur, filtre et embout non compris,
+supérieure à 18 centimètres sans dépasser 27 centimètres et ainsi de suite.
+
+Sont également considérés comme cigarettes les rouleaux de tabac qui, par une simple manipulation non industrielle, sont
+glissés dans des tubes à cigarettes ou enveloppés dans des feuilles de papier à cigarettes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 575, 575 A
+	  - CGIAN2 275 B, 275 C
+
+	**Modifié par**:
+
+	  - Décret n°93-424 du 18 mars 1993 - art. 3 () JORF 24 mars 1993
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 275 E
+
+Sont considérés comme tabacs fine coupe destinés à rouler les cigarettes :
+
+1° Le tabac coupé ou fractionné d'une autre façon, filé ou pressé en plaques, qui est susceptible d'être fumé sans
+transformation industrielle ultérieure pour lequel plus de 25 % en poids des particules de tabac présentent une largeur de
+coupe inférieure à 1 millimètre ;
+
+2° Les déchets de tabac conditionnés pour la vente au détail, qui ne relèvent pas des articles 275 B, 275 C et 275 D, qui
+sont susceptibles d'être fumés et pour lesquels plus de 25 % en poids des particules de tabac présentent une largeur de coupe
+inférieure à 1 millimètre.
+
+Jusqu'au 31 décembre 1997, les tabacs du type de ceux visés aux 1° et 2° pour lesquels 75 % au moins en poids des particules
+de tabac présentent une largeur de coupe supérieure ou égale à 0,8 millimètre et qui, antérieurement au 1er janvier 1993,
+n'ont pas été vendus ni destinés à être vendus pour rouler les cigarettes ne sont pas considérés comme des tabacs fine coupe
+destinés à rouler les cigarettes, mais comme des autres tabacs à fumer tels que définis à l'article 275 E bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 275 B, 275 C, 275 D, 275 E bis
+
+	**Modifié par**:
+
+	  - Décret n°93-424 du 18 mars 1993 - art. 4 () JORF 24 mars 1993
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E bis (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E ter (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 275 F
