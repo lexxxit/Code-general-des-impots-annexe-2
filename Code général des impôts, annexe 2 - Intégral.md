@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-07-15
+Version Consolidée au 1985-09-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10491,6 +10491,31 @@ Etats membres.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (VD)
 
 
+###### Article 270
+
+Pour l'application de l'article 362 du code général des impôts, les rhums et tafias des départements d'outre-mer introduits
+en France continentale et en Corse en sus du contingent légal sont assujettis à une soulte dont le tarif est fixé par arrêté
+du ministre de l'économie et des finances en accord avec le ministre chargé des départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 362
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, en vigueur le 1er septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
 ###### Article 272
 
 La distillation des mélasses de canne à sucre originaires et en provenance des départements d'outre-mer est interdite en
@@ -17070,127 +17095,6 @@ Dès le début de la récolte, au fur et à mesure des nécessités de la vente,
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### REGIME ECONOMIQUE DE L'ALCOOL.
-
-###### Article 269
-
-Le service des alcools peut laisser aux producteurs, sur leur demande, la libre disposition des alcools réservés à l'Etat,
-moyennant le paiement d'une soulte dont le taux ne peut excéder la différence entre le prix de vente le plus élevé des
-alcools d'Etat et le prix d'achat le plus bas de ces mêmes alcools acquis au cours de la campagne précédente. Ces règles sont
-également applicables aux importateurs de ces mêmes alcools originaires et en provenance des Etats membres de la Communauté
-économique européenne ou originaires de pays tiers et mis en libre pratique dans un de ces Etats membres.
-
-Les modalités d'application du présent article sont fixées par arrêté du ministre de l'économie et des finances et, le cas
-échéant, en accord avec le ministre chargé des départements d'outre-mer .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, en vigueur le 1er septembre 1985 : cet article devient sans objet
-
-
-###### Article 270
-
-Pour l'application de l'article 388 du code général des impôts, les rhums et tafias des départements d'outre-mer introduits
-en France continentale et en Corse en sus du contingent légal sont assujettis, au profit du service des alcools, à une soulte
-dont le tarif est fixé par arrêté du ministre de l'économie et des finances en accord avec le ministre chargé des
-départements d'outre-mer [*DOM*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 388
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 271
-
-La redevance applicable aux usages industriels autres que médicamenteux ou alimentaires est exigible, d'une part, sur les
-alcools assimilés mentionnés à l'article 401 du code général des impôts, sauf nécessité de fabrication constatée par le
-laboratoire central du ministère de l'économie et des finances, d'autre part, sur les produits fabriqués au moyen d'alcool
-assimilé lorsqu'ils ont été importés en franchise de la surtaxe prévue à l'article 273. Son taux ne peut excéder la
-différence entre le prix de vente des alcools d'Etat pour l'usage considéré et le prix d'achat le plus faible de ces mêmes
-alcools d'Etat, pour la campagne précédente.
-
-La redevance applicable à la fabrication des boissons alcoolisées est exigible sur les seules eaux-de-vie libres susceptibles
-de concurrencer les alcools d'Etat dans leurs débouchés. Son taux ne peut excéder la différence entre le prix de vente le
-plus élevé des alcools d'Etat et le prix d'achat le plus bas des alcools d'origine agricole produits dans le cadre des
-contingents au cours de la campagne précédente.
-
-Pour l'application des dispositions qui précèdent sont considérés comme acquis du service des alcools, les alcools entrant
-dans le champ d'application des articles 386 et 388 du code général des impôts et des articles 269, 270 et 273 de la présente
-annexe.
-
-Le montant et les modalités d'application de la redevance sont fixés, pour chaque catégorie d'alcools, par arrêté du ministre
-de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 386
-	  - CGI 388
-	  - CGI 401
-	  - CGIAN2 269
-	  - CGIAN2 270
-	  - CGIAN2 273
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, en vigueur le 1er septembre 1985 : cet article devient sans objet
-
-
-###### Article 273
-
-Les dispositions de l'article 385 du code général des impôts s'appliquent aux alcools éthyliques non utilisables ou non
-consommables en l'état.
-
-L'importation en France continentale et en Corse des produits utilisables ou consommables en l'état contenant de l'alcool
-éthylique est subordonnée au paiement d'une surtaxe de compensation. Toutefois, sous réserve des dispositions de l'article 44
-du traité relatif à l'adhésion aux communautés européennes du royaume du Danemark, de l'Irlande et du Royaume-Uni de Grande-
-Bretagne et d'Irlande du Nord, les mêmes produits sont exonérés de cette surtaxe lorsqu'ils sont originaires et en provenance
-d'un Etat membre de la Communauté économique européenne ou lorsqu'ils sont originaires de pays tiers et mis en libre pratique
-dans un de ces Etats membres. La surtaxe de compensation est également applicable aux produits à base d'alcool non éthylique
-pour la fabrication desquels la réglementation française exige l'emploi d'alcool éthylique.
-
-Le tarif de la surtaxe de compensation est égal, pour l'alcool pur contenu dans le produit importé, à la différence entre le
-prix d'achat le moins élevé pratiqué par le service des alcools à la fin de la campagne précédente et le prix de vente des
-alcools destinés à l'usage correspondant.
-
-La surtaxe de compensation n'est pas exigible sur les boissons simplement fermentées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 385
-	  - TRAITE 1972-01-22 CEE
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 JUILLET 1985, en vigueur le 1er septembre 1985 : cet article devient sans objet
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
 
 
 #### MONOPOLES FISCAUX
