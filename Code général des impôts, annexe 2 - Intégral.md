@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-05-06
+Version Consolidée au 1988-05-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17861,6 +17861,78 @@ Le taux de la taxe est fixé par arrêté conjoint des ministres chargés de l'�
 
 #### Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.
 
+###### Article 358
+
+Il est institué jusqu'au 31 août 1992 une taxe parafiscale au profit du comité des fruits à cidre et des productions
+cidricoles [*bénéficiaire*].
+
+Cette taxe est destinée à financer les frais de fonctionnement et les actions du comité relatives à la rénovation du verger
+et à l'orientation de la production cidricole.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-576 du 6 mai 1988 - art. 1 (V) JORF 7 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 359
+
+" Sont soumis à la taxe prévue à l'article 358 les produits suivants :
+
+" 1° Pommes à cidre et poires à poiré :
+
+" Moûts et concentrés de pommes à cidre et de poires à poiré ;
+
+" Jus de pommes à cidre et de poires à poiré ;
+
+" Cidres aromatisés ou non ;
+
+" Poirés ;
+
+" Fermentés de poires ;
+
+" Apéritifs à base de cidre et de poiré ;
+
+" Calvados et eaux-de-vie de cidre et de poiré ;
+
+" 2° Pommes et poires de table, moûts et concentrés de pommes et poires de table destinés à la fabrication des produits
+suivants :
+
+" Cidres aromatisés ou non ;
+
+" Poirés ;
+
+" Fermentés de pommes aromatisés ou non ;
+
+" Fermentés de poires ;
+
+" Apéritifs à base de cidre et de poiré ;
+
+" Eaux-de-vie de cidre et de poiré.
+
+" Les produits semi-transformés ou transformés visés aux 1° et 2° ci-dessus ne sont soumis à la taxe que si la matière
+première mise en oeuvre pour leur fabrication ne l'a pas elle-même été. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 358
+
+	**Modifié par**:
+
+	  - Décret n°88-576 du 6 mai 1988 - art. 2 (V) JORF 7 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 ###### Article 360
 
 La taxe est due lors de la délivrance du titre de mouvement légitimant la sortie de la propriété des produits énumérés à
@@ -21547,53 +21619,6 @@ général des impôts.
 	**Modifié par**:
 
 	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
-
-
-###### Article 358
-
-Il est institué, à compter du 1er septembre 1982 et pour une durée de cinq ans, une taxe parafiscale au profit du comité des
-fruits à cidre et des productions cidricoles [*bénéficiaire*].
-
-Cette taxe est destinée à financer les frais de fonctionnement et les actions du comité relatives à la rénovation du verger
-et à l'orientation de la production cidricole.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Modifié par**:
-
-	  - Décret n°82-1213 du 30 décembre 1982 - art. 1 (P) JORF 4 JANVIER 1983
-
-
-###### Article 359
-
-Sont soumis à la taxe prévue à l'article 358 les produits suivants : pommes et poires destinées à la fabrication de produits
-cidricoles, moûts de pommes et de poires, cidres et poirés, calvados, eaux-de-vie de cidre et de poiré.
-
-La taxe est perçue dans les départements suivants : Aisne, Calvados, Côtes-du-Nord, Eure, Eure-et-Loir, Finistère, Ille-et-
-Vilaine, Loire-Atlantique, Loiret, Maine-et-Loire, Manche, Mayenne, Morbihan, Oise, Orne, Sarthe, Seine-Maritime, Seine-et-
-Marne, Somme et Yonne.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 358
-
-	**Modifié par**:
-
-	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
 
 
 ###### Article 363 AC
