@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-06-05
+Version Consolidée au 1983-06-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16421,31 +16421,6 @@ différentielle sur les véhicules à moteur*, soit au b *taxe spéciale annuell
 
 #### REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE.
 
-###### Article 310 F ter
-
-I  Il n'y a pas lieu à recouvrement des avances, redevances, droits et taxes afférents aux mesures conservatoires faites avec
-le bénéfice de l'aide judiciaire, à moins qu'ils soient mis, en vertu de la loi ou par une décision de justice, à la charge
-d'une partie autre que le bénéficiaire de l'aide.
-
-Il en est de même en cas de désistement, de péremption ou de radiation de l'instance et de transaction intervenue en cours
-d'instance.
-
-Toutefois, les dispositions des alinéas précédents ne font pas obstacle au recouvrement des droits, taxes et pénalités
-éventuellement dus par le bénéficiaire de l'aide sur les actes et titres produits par lui pour justifier de ses droits et
-qualités.
-
-II  En cas de retrait de l'aide judiciaire, le service des impôts procède au recouvrement, dans les proportions
-éventuellement fixées par la décision de retrait, des avances faites par le Trésor et des redevances, droits et taxes dont le
-bénéficiaire de l'aide avait été dispensé, ainsi que, s'il y a lieu, au recouvrement des droits, taxes et pénalités dus par
-ce bénéficiaire sur les actes et titres produits par lui pour justifier de ses droits et qualités.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 310 G
 
 I  L'acquéreur, le donataire, l'héritier ou le légataire, qui désire bénéficier de l'exonération de droits et taxes prévue à
@@ -20752,46 +20727,6 @@ garanti suivant les modalités définies à l'article L 333-11, deuxième et tro
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
-
-
-###### Article 384-0 A
-
-I. En matière d'aide judiciaire, le recouvrement des sommes prévues à l'article 1090 C du code général des impôts est opéré
-au vu d'un exécutoire délivré par le secrétaire de la juridiction, selon les modalités fixées par les articles 91 et suivants
-du décret n° 72-809 du 1er septembre 1972, à moins que le jugement ne contienne liquidation des dépens.
-
-Lorsqu'il y a lieu à recouvrement sur le bénéficiaire de l'aide judiciaire de droits, taxes et pénalités dus sur les actes et
-titres produits par lui pour justifier de ses droits et qualités, il est délivré un exécutoire séparé.
-
-En ce qui concerne le tribunal des conflits, le conseil d'Etat et les tribunaux administratifs, les expéditions de jugements
-et ordonnances de taxe revêtues de la formule exécutoire tiennent lieu des exécutoires prévus aux alinéas précédents.
-
-II. Le bénéficiaire de l'aide peut concourir aux actes de poursuites en recouvrement des frais, conjointement avec le service
-des impôts, lorsque ce concours est utile à l'exécution des décisions rendues ou à la conservation de leurs effets.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1090 C
-	  - Décret n°72-809 1972-09-01 ART. 91 ET S.
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384-0 B
-
-Les frais, faits avec le bénéfice de l'aide judiciaire, des procédures d'exécution et des instances nées de cette exécution
-entre le bénéficiaire de l'aide et la partie poursuivie sont, même si ces procédures ou instances ont été discontinuées ou
-suspendues pendant plus d'une année, réputés dus par la partie poursuivie sauf justifications ou décisions contraires.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ## SURETES ET PRIVILEGES.
