@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1989-04-14
+Version Consolidée au 1989-05-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8365,6 +8365,22 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 	  - HISTO: Edition du 10 août 1987
 
 
+###### Article 175
+
+La taxe due en application du 8° de l'article 257 du code général des impôts est exigible à la date de la première
+utilisation du bien ou lorsque la prestation de service est effectuée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 257
+
+	**Modifié par**:
+
+	  - Décret n°89-301 1989-05-11 art. 5 JORF 13 mai 1989
+
+
 ##### II : Opérations imposables sur option
 
 ###### Article 179
@@ -8510,6 +8526,32 @@ taxe leur sont applicables.
 	**Codifié par**:
 
 	  - Décret n°92-836 1992-08-27
+
+
+##### 3 : Location de locaux nus
+
+###### Article 194
+
+L'option exercée couvre obligatoirement une période de dix années, y compris celle au cours de laquelle elle est déclarée.
+
+Dans le cas d'option au titre d'un immeuble non encore achevé, la durée de l'option s'étend obligatoirement jusqu'au 31
+décembre de la neuvième année qui suit celle au cours de laquelle l'immeuble a été achevé.
+
+Elle est renouvelable par tacite reconduction, sauf dénonciation à l'expiration de chaque période.
+
+Toutefois, lorsque tout ou partie des immeubles intéressés cesse, au cours de la période couverte par l'option, d'être
+destiné à un usage pour lequel celle-ci est possible, la dénonciation est obligatoire en ce qui concerne les locaux qui ont,
+de ce fait, changé de destination.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°89-301 1989-05-11 art. 3 JORF 13 mai 1989
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
 
 
 ##### 3 : Location d'établissement pour les besoins de l'activité d'un industriel, d'un commerçant ou d'un prestataire de services.
@@ -9197,18 +9239,14 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 I. Lorsque des immeubles sont cédés ou apportés avant le commencement de la neuvième année qui suit celle de leur acquisition
 ou de leur achèvement et que la cession ou l'apport ne sont pas soumis à la taxe sur le prix total ou la valeur totale de
-l'immeuble, l'assujetti est redevable d'une fraction de la taxe initialement déduite. Cette fraction est égale au montant de
-la déduction initiale diminuée d'un dixième par année civile ou fraction d'année civile écoulée depuis la date à laquelle
+l'immeuble, l'assujetti est redevable d'une fraction de la taxe antérieurement déduite. Cette fraction est égale au montant
+de la déduction diminuée d'un dixième par année civile ou fraction d'année civile écoulée depuis la date à laquelle
 l'immeuble a été acquis ou achevé. Sont assimilés à une cession ou un apport la cessation de l'activité ou la cessation des
 opérations ouvrant droit à déduction ainsi que le transfert entre différents secteurs d'activités d'un assujetti prévus à
 l'article 213. Lorsque le droit à déduction n'a été ouvert qu'après la date de l'acquisition ou de l'achèvement de
 l'immeuble, la date de l'ouverture du droit à déduction se substitue à cette date. Lorsqu'un immeuble acquis ou construit en
 vue de la vente est utilisé directement par l'assujetti, la date de la première utilisation se substitue à celle de
 l'acquisition ou de l'achèvement.
-
-En ce qui concerne les bailleurs d'immeubles qui ont bénéficié des dispositions de l'article 233 C, dernier alinéa, la
-fraction de la taxe dont l'assujetti est redevable est égale au montant de la taxe qui a initialement grevé le bien diminuée
-d'un dixième par année civile ou fraction d'année civile.
 
 II. Les dispositions du premier alinéa du I s'appliquent aux autres biens constituant des immobilisations qui sont cédés,
 apportés ou ont disparu avant le commencement de la quatrième année qui suit celle de leur acquisition, de leur importation
@@ -9240,12 +9278,11 @@ précédent propriétaire était en droit de déduire.
 	  - CGIAN2 223 1
 	  - CGIAN2 226 3°
 	  - CGIAN2 226 bis
-	  - CGIAN2 233 C
 	  - Décret n°75-102 1975-02-20
 
 	**Modifié par**:
 
-	  - Décret n°84-502 du 26 juin 1984 - art. 1 (V) JORF 28 juin 1984
+	  - Décret n°89-301 1989-05-11 art. 1, art. 2 JORF 13 mai 1989
 
 	**Cité par**:
 
@@ -9353,6 +9390,50 @@ est définitivement arrêté avant le 25 avril de l'année suivante [*date limit
 	**Modifié par**:
 
 	  - Décret n°79-1163 du 29 décembre 1979 - art. 9 (V) JORF 31 DECEMBRE 1979
+
+
+###### Article 215
+
+I. Lorsque le rapport entre le montant annuel des recettes afférentes à des opérations ouvrant droit à déduction et le
+montant des recettes afférentes à l'ensemble des opérations réalisées par l'assujetti [*pourcentage général de déduction*]
+diminue de plus de dix centièmes dans les neuf années qui suivent celle de l'achèvement ou de l'acquisition d'un immeuble,
+l'assujetti est redevable d'une fraction de la taxe initialement déduite. Cette fraction est égale au dixième de la
+différence entre le produit de la taxe qui a grevé l'immeuble par le rapport initial et le produit de la même taxe par le
+rapport de l'année considérée. Les assujettis qui cessent de réaliser exclusivement des opérations ouvrant droit à déduction
+sont tenus à la même obligation.
+
+Lorsque le rapport entre le montant annuel des recettes afférentes à des opérations ouvrant droit à déduction et le montant
+des recettes afférentes à l'ensemble des opérations réalisées par l'assujetti augmente de plus de dix centièmes dans les neuf
+années qui suivent celle de l'acquisition ou de l'achèvement d'un immeuble, l'assujetti peut opérer une déduction
+complémentaire. Celle-ci est égale au dixième de la différence entre le produit de la taxe qui a grevé l'immeuble par le
+rapport de l'année considérée et le produit de la même taxe par le rapport initial.
+
+Lorsque le droit à déduction n'a été ouvert qu'après la date de l'achèvement ou de l'acquisition de l'immeuble, la date de
+l'ouverture du droit à déduction se substitue à cette date. Lorsqu'un immeuble acquis ou construit en vue de la vente est
+utilisé directement par l'assujetti, la date de la première utilisation se substitue à celle de l'acquisition ou de
+l'achèvement.
+
+II. Les dispositions du I sont applicables aux autres biens constituant des immobilisations. Toutefois, la période de quatre
+années suivant celle de l'acquisition, de l'importation ou de la première utilisation des biens est substituée à la période
+de neuf années et la fraction de taxe due ou la déduction complémentaire sont calculées par cinquièmes au lieu de dixièmes.
+
+III. L'obligation résultant du présent article doit être accomplie avant le 25 avril de l'année suivante [*date limite*]. La
+déduction complémentaire est effectuée dans le même délai.
+
+IV. Les dispositions du présent article ne concernent pas les immeubles pour lesquels la déduction initiale ne pouvait plus
+donner lieu à régularisation à la date d'entrée en vigueur du décret n° 75-102 du 20 février 1975 modifiant certaines
+dispositions relatives aux conditions de déduction de la taxe sur la valeur ajoutée qui a grevé des biens constituant des
+immobilisations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°75-102 1975-02-20
+
+	**Modifié par**:
+
+	  - Décret n°89-301 1989-05-11 art. 2 JORF 13 mai 1989
 
 
 ##### c : Dispositions applicables aux entreprises qui utilisent des biens dont elles ne sont pas propriétaires.
@@ -10013,6 +10094,28 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 	**Codifié par**:
 
 	  - L'abrogation sera codifiée ultérieurement
+
+
+###### Article 238
+
+N'est pas déductible la taxe ayant grevé :
+
+1° des biens cédés sans rémunération ou moyennant une rémunération très inférieure à leur prix normal, notamment à titre de
+commission, salaire, gratification, rabais, bonification, cadeau, quelle que soit la qualité du bénéficiaire ou la forme de
+la distribution, sauf quand il s'agit de biens de très faible valeur ;
+
+2° des biens et services utilisés pour les publicités de la nature de celles qui sont prohibées en vertu des articles L. 17,
+L. 18 et L. 20 du code des débits de boissons et des mesures contre l'alcoolisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des débits de boissons L17, L18, L20
+
+	**Modifié par**:
+
+	  - Décret n°89-301 1989-05-11 art. 4 JORF 13 mai 1989
 
 
 ###### Article 240
@@ -21253,271 +21356,6 @@ société visée à l'article 1655 ter du code général des impôts [*société
 	  - Décret n°82-263 du 23 mars 1982 - art. 2 (V) JORF 25 mars 1982
 	  - Décret n°82-263 du 23 mars 1982 - art. 3 (V) JORF 25 mars 1982
 	  - Décret n°82-263 du 23 mars 1982 - art. 4 (V) JORF 25 mars 1982
-
-
-### TAXES SUR LE CHIFFRE D'AFFAIRES
-
-#### TAXE SUR LA VALEUR AJOUTEE *TVA*
-
-##### CHAMP D'APPLICATION
-
-###### Article 175
-
-La taxe due en application de l'article 257-8° du code général des impôts est exigible à la date de la première utilisation
-du bien.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 257 8°
-
-	**Anciens textes**:
-
-	  - CGIAN2 178 C
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
-###### Article 194
-
-L'option exercée couvre obligatoirement une période de cinq années, y compris celle au cours de laquelle elle est déclarée.
-
-Dans le cas d'option au titre d'un immeuble non encore achevé, la durée de l'option s'étend obligatoirement jusqu'au 31
-décembre de la quatrième année qui suit celle au cours de laquelle l'immeuble a été achevé.
-
-Elle est renouvelable par tacite reconduction, sauf dénonciation à l'expiration de chaque période.
-
-Toutefois, lorsque tout ou partie des immeubles intéressés cesse, au cours de la période couverte par l'option, d'être
-destiné à un usage pour lequel celle-ci est possible, la dénonciation est obligatoire en ce qui concerne les locaux qui ont,
-de ce fait, changé de destination.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### LIQUIDATION DE LA TAXE.
-
-###### Article 215
-
-I. Lorsque le rapport entre le montant annuel des recettes afférentes à des opérations ouvrant droit à déduction et le
-montant des recettes afférentes à l'ensemble des opérations réalisées par l'assujetti [*pourcentage général de déduction*]
-diminue de plus de dix centièmes dans les neuf années qui suivent celle de l'achèvement ou de l'acquisition d'un immeuble,
-l'assujetti est redevable d'une fraction de la taxe initialement déduite. Cette fraction est égale au dixième de la
-différence entre le produit de la taxe qui a grevé l'immeuble par le rapport initial et le produit de la même taxe par le
-rapport de l'année considérée. Les assujettis qui cessent de réaliser exclusivement des opérations ouvrant droit à déduction
-sont tenus à la même obligation.
-
-Lorsque le rapport entre le montant annuel des recettes afférentes à des opérations ouvrant droit à déduction et le montant
-des recettes afférentes à l'ensemble des opérations réalisées par l'assujetti augmente de plus de dix centièmes dans les neuf
-années qui suivent celle de l'acquisition ou de l'achèvement d'un immeuble, l'assujetti peut opérer une déduction
-complémentaire. Celle-ci est égale au dixième de la différence entre le produit de la taxe qui a grevé l'immeuble par le
-rapport de l'année considérée et le produit de la même taxe par le rapport initial.
-
-Les dispositions du premier alinéa sont applicables aux bailleurs d'immeubles. Toutefois, la période de quatorze années est
-substituée à la période de neuf années et la fraction de taxe dont ils sont redevables ou la déduction complémentaire sont
-calculées par quinzièmes au lieu de dixièmes.
-
-Lorsque le droit à déduction n'a été ouvert qu'après la date de l'achèvement ou de l'acquisition de l'immeuble, la date de
-l'ouverture du droit à déduction se substitue à cette date. Lorsqu'un immeuble acquis ou construit en vue de la vente est
-utilisé directement par l'assujetti, la date de la première utilisation se substitue à celle de l'acquisition ou de
-l'achèvement.
-
-II. Les dispositions du I sont applicables aux autres biens constituant des immobilisations. Toutefois, la période de quatre
-années suivant celle de l'acquisition, de l'importation ou de la première utilisation des biens est substituée à la période
-de neuf années et la fraction de taxe due ou la déduction complémentaire sont calculées par cinquièmes au lieu de dixièmes.
-
-III. L'obligation résultant du présent article doit être accomplie avant le 25 avril de l'année suivante [*date limite*]. La
-déduction complémentaire est effectuée dans le même délai.
-
-IV. Les dispositions du présent article ne concernent pas les immeubles pour lesquels la déduction initiale ne pouvait plus
-donner lieu à régularisation à la date d'entrée en vigueur du décret n° 75-102 du 20 février 1975 modifiant certaines
-dispositions relatives aux conditions de déduction de la taxe sur la valeur ajoutée qui a grevé des biens constituant des
-immobilisations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°75-102 1975-02-20
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 10 (V) JORF 31 DECEMBRE 1979
-
-
-###### Article 233 A
-
-Les dispositions des articles 233 B à 233 E s'appliquent aux entreprises qui louent des immeubles qu'elles ont acquis ou fait
-construire et qui, à raison de cette location, sont assujetties de plein droit ou par option à la taxe sur la valeur ajoutée
-(1).
-
-Les entreprises dont l'objet n'est pas limité à la location d'immeubles ou qui louent plusieurs immeubles ou ensembles
-d'immeubles doivent constituer, pour chaque immeuble ou ensemble d'immeubles, un secteur d'activité qui est considéré comme
-une entreprise distincte au regard du droit à déduction.
-
-(1) Ces dispositions ne s'appliquent qu'aux immeubles acquis ou livrés à soi-même après la date d'entrée en vigueur du décret
-n° 79-310 du 9 avril 1979.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 233 B
-	  - CGIAN2 233 C
-	  - CGIAN2 233 D
-	  - CGIAN2 233 E
-	  - Décret n°79-310 1979-04-09
-
-	**Abrogé par**:
-
-	  - Décret n°89-301 1989-05-11 art. 2 JORF 13 mai 1989
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 233 B
-
-Les entreprises mentionnées à l'article 233 A ne peuvent déduire qu'une fraction de la taxe sur la valeur ajoutée qui a grevé
-l'acquisition ou la construction de leurs immeubles, lorsque le montant annuel des recettes provenant de la location de ces
-immeubles est inférieur au quinzième de la valeur de ces mêmes biens définie à l'article 233 E.
-
-Si les recettes de l'entreprise ou du secteur constitué par application de l'article 233 A, deuxième alinéa, sont soumises à
-la taxe sur la valeur ajoutée dans leur totalité, cette fraction est égale au montant de la taxe qui a grevé l'immeuble ou
-l'ensemble d'immeubles, affecté du pourcentage qui résulte du rapport existant entre le montant annuel des recettes soumises
-à la taxe et le quinzième de la valeur de l'immeuble ou de l'ensemble d'immeubles. Un pourcentage provisoire tiré des
-prévisions de l'exploitant peut être appliqué par celui-ci, en tant que de besoin, jusqu'au 31 décembre de l'année suivant
-celle du début de l'assujettissement ou de la création du secteur [*distinct*] d'activité.
-
-Si les recettes de l'entreprise ou du secteur constitué par application de l'article 233 A, deuxième alinéa, ne sont pas
-soumises à la taxe sur la valeur ajoutée dans leur totalité, le dénominateur du rapport défini à l'article 212 ne peut être
-inférieur au quinzième de la valeur de l'immeuble ou de l'ensemble d'immeubles.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 212
-	  - CGIAN2 233 A AL. 2
-	  - CGIAN2 233 E
-
-	**Abrogé par**:
-
-	  - Décret n°89-301 1989-05-11 art. 2 JORF 13 mai 1989
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 233 C
-
-Les entreprises désignées à l'article 233 B, deuxième alinéa, doivent procéder à une régularisation lorsqu'il existe un écart
-de plus de dix centièmes entre le pourcentage de déduction initial appliqué à l'immeuble ou à l'ensemble d'immeubles et le
-pourcentage déterminé au titre, soit de l'année au cours de laquelle le droit à déduction a pris naissance, soit au cours
-d'une des quatorze années suivantes.
-
-Si la variation est positive, l'entreprise peut opérer une déduction complémentaire. Celle-ci est égale au quinzième de la
-différence entre la déduction calculée sur la base du pourcentage dégagé à la fin de l'année considérée et le montant de la
-déduction initiale.
-
-Si la variation est négative, l'entreprise doit opérer un reversement de taxe. Celui-ci est égal au quinzième de la
-différence entre la déduction initiale et la déduction calculée sur la base du pourcentage dégagé à la fin de l'année
-considérée.
-
-Le même reversement est exigé en ce qui concerne les immeubles qui, initialement, ont donné lieu à une déduction totale.
-
-Cette déduction complémentaire ou ce reversement doivent intervenir avant le 25 avril de l'année suivante.
-
-Toutefois, lorsque le montant des recettes taxées réalisées depuis l'année d'ouverture du droit à déduction relatif à
-l'immeuble ou à l'ensemble d'immeubles a atteint la valeur de ces biens, l'entreprise peut opérer la déduction de la taxe non
-encore déduite, au plus tard le 25 avril de l'année suivante [*date limite, délai*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 233 B AL. 2
-
-	**Abrogé par**:
-
-	  - Décret n°89-301 1989-05-11 art. 2 JORF 13 mai 1989
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 233 D
-
-Les entreprises cessent d'être soumises aux dispositions des articles 233 B et C à l'expiration de la quatorzième année qui
-suit celle au cours de laquelle le droit à déduction afférent à l'immeuble ou à l'ensemble d'immeubles a pris naissance.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 233 B
-	  - CGIAN2 233 C
-
-	**Abrogé par**:
-
-	  - Décret n°89-301 1989-05-11 art. 2 JORF 13 mai 1989
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 233 E
-
-La valeur des immeubles   s'entend de la base d'imposition de ces biens à la taxe sur la valeur ajoutée diminuée de la valeur
-du terrain ainsi que des charges financières.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°89-301 1989-05-11 art. 2 JORF 13 mai 1989
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 238
-
-N'est pas déductible la taxe ayant grevé :
-
-1° des biens cédés et des services rendus sans rémunération ou moyennant une rémunération très inférieure à leur prix normal,
-notamment à titre de commission, salaire, gratification, rabais, bonification, cadeau, quelle que soit la qualité du
-bénéficiaire ou la forme de la distribution, sauf quand il s'agit de biens de très faible valeur ;
-
-2° des biens et services utilisés pour les publicités de la nature de celles qui sont prohibées en vertu des articles L. 17,
-L. 18 et L. 20 du code des débits de boissons et des mesures contre l'alcoolisme.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des débits de boissons L17
-	  - Code des débits de boissons L18
-	  - Code des débits de boissons L20
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 26 (V) JORF 31 DECEMBRE 1979
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS.
