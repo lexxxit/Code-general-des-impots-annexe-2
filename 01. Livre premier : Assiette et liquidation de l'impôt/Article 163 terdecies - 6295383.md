@@ -18,6 +18,8 @@ l'employeur en application de l'article 235 ter H bis du code général des imp�
 défaut, le procès-verbal de carence prévu à l'article L 433-13 du code du travail ou le procès-verbal de la délibération de
 l'un des organismes prévus à l'article 163 undecies.
 
+3° Eventuellement les références de l'engagement de développement prévu à l'article L. 950-2-4 du code du travail.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -30,8 +32,12 @@ l'un des organismes prévus à l'article 163 undecies.
 
 	**Modifié par**:
 
-	  - Loi n°84-130 1984-02-24 art. 26, art. 29 JORF 25 février 1984
+	  - Décret n°85-531 1985-04-03 art. 17, JORF 18 mai 1985
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Code du travail art. R950-20)

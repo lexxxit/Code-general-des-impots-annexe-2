@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-03-05
+Version Consolidée au 1985-05-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5390,7 +5390,9 @@ déclarant [*mentions obligatoires*] :
 
 2° Le montant brut de la contribution incombant à l'employeur;
 
-3° Le montant des dépenses effectivement consenties en vertu des articles L 950-2 et L 950-6 du code du travail;
+3° Le montant des dépenses effectivement consenties en vertu des articles L 950-2 et L 950-6 du code du travail ainsi que le
+montant correspondant à la fraction de la participation instituée par l'article L. 950-2 du même code dont l'employeur lié
+par un engagement de développement de la formation est réputé s'acquitter ;
 
 4° La répartition de ces dépenses selon les catégories suivantes :
 
@@ -5418,7 +5420,8 @@ Versements effectués dans les conditions prévues par l'article L 235-2-4° du 
 Versements effectués au titre d'une taxe parafiscale affectée à la formation professionnelle;
 
 5° Selon le cas, l'insuffisance de contribution au titre de la période considérée, ou l'excédent reportable sur les trois
-années suivantes;
+années suivantes ou l'insuffisance de contribution versée aux organismes paritaires agréés par l'Etat au titre du congé
+individuel de formation en application de l'article 235 ter H bis du code général des impôts ;
 
 6° Eventuellement, le montant restant à reporter au titre des dépenses effectuées au cours de chacune des trois années
 précédentes;     7° Le cas échéant, la majoration prévue à l'article 235 ter G du code général des impôts;
@@ -5433,19 +5436,16 @@ au maintien d'une rémunération;
 
 11° La répartition de ces stagiaires :
 
-Par sexe;
+a. Par sexe ;
 
-Par catégorie d'emploi;
+b. Par catégorie d'emploi ;
 
-Par type de stages au sens de l'article L 900-2 du code du travail;
+c. Par âge ;
 
-Selon qu'ils ont bénéficié d'une formation dans l'entreprise elle-même ou en application de conventions conclues avec des
-organismes de formation.
+d. Par type d'action au sens de l'article L. 900-2 du code du travail ;
 
-12° Le nombre de jeunes travailleurs, âgés de moins de vingt ans et ayant moins de deux ans d'ancienneté dans l'entreprise,
-qui ont bénéficié d'une formation au cours de l'année.
-
-Cette déclaration doit être rédigée, en double exemplaire, sur un imprimé fourni par l'administration.
+12° Le nombre de jeunes travailleurs au sens de l'article L. 931-14 du code du travail qui ont bénéficié d'une formation au
+cours de l'année.
 
 **Liens relatifs à cet article**
 
@@ -5456,6 +5456,7 @@ Cette déclaration doit être rédigée, en double exemplaire, sur un imprimé f
 	  - CGI 235 ter J
 	  - CGIAN2 163 decies
 	  - Code du travail - art. L900-2 (M)
+	  - Code du travail - art. L931-14 (T)
 	  - Code du travail - art. L950-2 (M)
 	  - Code du travail - art. L950-6 (T)
 	  - Code du travail - art. R950-7 (M)
@@ -5463,11 +5464,11 @@ Cette déclaration doit être rédigée, en double exemplaire, sur un imprimé f
 
 	**Modifié par**:
 
-	  - Loi n°84-130 1984-02-24 art. 26, art. 29 JORF 25 février 1984
+	  - Décret n°85-531 1985-04-03 art. 16 JORF 18 mai 1985, Code du travail art. R950-19
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°85-1007 1985-09-24
 
 
 ###### Article 163 quaterdecies
@@ -5513,6 +5514,8 @@ l'employeur en application de l'article 235 ter H bis du code général des imp�
 défaut, le procès-verbal de carence prévu à l'article L 433-13 du code du travail ou le procès-verbal de la délibération de
 l'un des organismes prévus à l'article 163 undecies.
 
+3° Eventuellement les références de l'engagement de développement prévu à l'article L. 950-2-4 du code du travail.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -5525,11 +5528,15 @@ l'un des organismes prévus à l'article 163 undecies.
 
 	**Modifié par**:
 
-	  - Loi n°84-130 1984-02-24 art. 26, art. 29 JORF 25 février 1984
+	  - Décret n°85-531 1985-04-03 art. 17, JORF 18 mai 1985
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Code du travail art. R950-20)
 
 
 ##### IV : Régimes spéciaux
@@ -20583,6 +20590,31 @@ l'exception de toute majoration ou pénalité.
 
 #### VI : Participation des employeurs au développement de la formation professionnelle continue
 
+###### Article 383 bis A
+
+Les versements au Trésor public mentionnés aux articles 235 ter G et 235 ter H bis du code général des impôts doivent être
+effectués à la recette des impôts compétente en application des dispositions de l'article 163 quaterdecies de la présente
+annexe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter G, 235 H bis
+
+	**Modifié par**:
+
+	  - Décret n°85-531 1985-04-03 art. 18 JORF 18 mai 1985 : code du travail art. R950-22
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ##### Fonds d'assurance-formation.
 
 ###### Article 383 bis D
@@ -21388,23 +21420,6 @@ impôts et 50, 51, 369 et 374-1 de l'annexe III à ce code.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 383 bis A
-
-Les versements mentionnés à l'article 235 ter G du code général des impôts doivent être effectués à la recette des impôts
-compétente en application des dispositions de l'article 163 quaterdecies de la présente annexe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter G
-	  - CGIAN2 163 quaterdecies
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 383 bis B
