@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1981-01-11
+Version Consolidée au 1981-02-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15423,6 +15423,91 @@ calculés de la même manière.
 
 ### FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE.
 
+###### Article 327 B
+
+Pour l'application de l'écrêtement des bases de la taxe professionnelle prévu au I de l'article 1648 A du code général des
+impôts :
+
+1° Sous réserve des dispositions du III de l'article précité, l'établissement s'entend de l'ensemble des installations
+utilisées par un assujetti dans une même commune, soit qu'elles soient établies en un même endroit, soit qu'elles soient
+affectées à la même activité ou à des activités connexes ou complémentaires ;
+
+2° Le nombre d'habitants à retenir est celui de la population totale, telle qu'elle ressort du dernier recensement général ou
+complémentaire en tenant compte, le cas échéant, des mouvements de population calculés en application du décret n° 64-255 du
+16 mars 1964 fixant le chiffre de la population à prendre en considération pour l'application des lois d'organisation
+municipale ;
+
+3° La moyenne des bases de taxe professionnelle par habitant constatée pour une année donnée au niveau national est égale au
+rapport existant entre :
+
+a. d'une part, le total national des bases nettes de taxe professionnelle, imposées au profit des communes et des fonds
+départementaux, au titre de l'année précédente ;
+
+b. et, d'autre part, le nombre d'habitants calculé au niveau national dans les conditions fixées au 2° ;
+
+4° Les bases de taxe professionnelle des établissements bénéficiaires d'une exonération temporaire décidée par la commune en
+application de l'article 1465 du code général des impôts ne sont prises en considération qu'à raison de la partie non
+exonérée ;
+
+5° Le taux en vigueur dans la commune s'entend du taux d'imposition résultant des décisions de la commune augmenté, le cas
+échéant, de celui du syndicat de communes et du district recourant aux dispositions de l'article L 251-4, alinéa 2, du code
+des communes ;
+
+6° Les contributions budgétaires s'entendent de l'ensemble des contributions versées par la commune à un groupement de
+communes ou à d'autres communes et des contributions visées à l'article L 251-4, alinéa 2, du code des communes, dès lors
+qu'elles sont calculées par référence à tout ou partie du produit communal de la taxe professionnelle. Lorsqu'elles ne sont
+calculées que pour partie par référence au produit communal de la taxe professionnelle, leur montant n'est retenu que dans
+cette proportion.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1465
+	  - CGI 1648 A I, III
+	  - Code des communes L251-4 AL. 2
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 328
+
+	**Modifié par**:
+
+	  - Décret n°81-120 du 6 février 1981 - art. 1 (Ab) JORF 10 FEVRIER 1981
+	  - Décret n°81-120 du 6 février 1981 - art. 8 (Ab) JORF 10 FEVRIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 327 C
+
+Dans les deux mois [*délai*] qui suivent la réception des décisions des collectivités locales relatives aux taux et aux
+produits des quatre taxes directes locales, les services fiscaux adressent au préfet du département d'implantation la liste
+des établissements dont les bases d'imposition sont soumises à écrêtement avec l'indication, pour chacun d'eux, des sommes
+qui reviennent au fonds départemental de taxe professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 10 FEVRIER 1981)
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 328 A
+
+	**Modifié par**:
+
+	  - Décret n°81-120 du 6 février 1981 - art. 2 (Ab) JORF
+	  - Décret n°81-120 du 6 février 1981 - art. 8 (Ab) JORF
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ###### Article 327 D
 
 Les établissements mentionnés à l'article 1648 A-III du code général des impôts sont notamment ceux qui ont pour objet :
@@ -15452,54 +15537,6 @@ Les établissements mentionnés à l'article 1648 A-III du code général des im
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°81-866 1981-09-15 (décret de codification) : a modifié la table des matières de cet article
-	  - HISTO: EDITION 1979-07-01
-
-
-### DISPOSITIONS DIVERSES.
-
-###### Article 327 B
-
-Pour l'application de l'écrêtement prévu à l'article 1648 A du code général des impôts :
-
-1° Le nombre d'habitants à retenir est celui de la population totale telle qu'elle ressort du dernier recensement général ou
-complémentaire en tenant compte, le cas échéant, des mouvements de population calculés en application du décret n° 64-255 du
-16 mars 1964 fixant le chiffre de la population à prendre en considération pour l'application des lois d'organisation
-municipale;
-
-2° Les bases de taxe professionnelle des établissements bénéficiaires d'une exonération temporaire décidée par la commune en
-application de l'article 1465 du même code ne sont prises en considération qu'à raison de la partie non exonérée;
-
-3° Les ressources communales affectées à un fonds départemental de la taxe professionnelle s'entendent du produit des bases
-excédentaires par les taux d'imposition résultant des décisions de la commune et, le cas échéant, du syndicat de communes et
-du district recourant aux dispositions de l'article L 251-4 du code des communes;     4° Les impositions perçues au profit
-des organismes mentionnés à l'article 4 de la loi n° 70-610 du 10 juillet 1970 tendant à faciliter la création
-d'agglomérations nouvelles ne sont pas soumises à écrêtement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1465
-	  - CGI 1648 A
-	  - CODE DES COMMUNES. - art. L251-4 (Ab)
-	  - Décret n°64-255 1964-03-16
-	  - Loi n°70-610 du 10 juillet 1970 - art. 4 (Ab)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 C
-
-Dès l'homologation des rôles, les services fiscaux adressent au préfet la liste des établissements dont les bases
-d'imposition donnent lieu à écrêtement, avec l'indication, pour chacun d'eux, des sommes qui reviennent au fonds
-départemental de la taxe professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
 	  - HISTO: EDITION 1979-07-01
 
 
