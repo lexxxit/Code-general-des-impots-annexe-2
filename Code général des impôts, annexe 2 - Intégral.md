@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-12-15
+Version Consolidée au 1983-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -52,6 +52,48 @@ la déclaration qui en tient lieu, à la recette des impôts où la présentatio
 	**Cite**:
 
 	  - CGI 647, 35, 244 bis
+
+
+##### 4 bis : Provisions pour risques afférents à certaines opérations d'assurance et de réassurance
+
+###### Article 16 C
+
+Les entreprises qui constituent des provisions en vertu de l'article 39 quinquies G du code général des impôts doivent
+compléter le tableau prévu au II de l'article 38 de l'annexe III au code précité par la production :
+
+1° pour chacune des catégories ou sous-catégories de risques faisant l'objet de la provision d'un compte d'exploitation
+établi dans la forme de l'état A-1 institué par l'article 17 du décret n° 69-836 du 29 août 1969 et sous déduction des
+produits financiers nets. Les entreprises de réassurance sont tenues de fournir des renseignements analogues à ceux qui
+doivent figurer dans cet état ;
+
+2° d'un état faisant ressortir séparément le montant des dotations de chaque exercice et comportant l'indication du montant
+des sommes utilisées dans les conditions prévues au troisième alinéa de l'article 39 quinquies G précité ainsi que du montant
+de la dotation antérieure qui a été rapportée au bénéfice imposable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 quinquies G
+	  - CGIAN3 38 II
+	  - Décret n°69-836 1969-08-29 art. 17
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 16 F (V)
 
 
 ##### 5 : Provision pour investissement en faveur des entreprises de presse
@@ -12665,6 +12707,53 @@ vertu des statuts ou du règlement intérieur.
 	  - CGIAN2 371 G, 371 C, 371 B, 371 D
 
 
+###### Article 371 L
+
+Pour bénéficier des abattements mentionnés à l'article 158-4 bis du code général des impôts, les industriels, commerçants,
+artisans ou agriculteurs doivent avoir été membres adhérents d'un centre de gestion agréé pendant toute la durée des
+exercices concernés.
+
+Si cette condition n'est pas remplie, le bénéfice de l'abattement est toutefois accordé :
+
+En cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'exercice ouvert depuis moins de trois mois à la
+date de l'agrément;
+
+En cas de première adhésion à un centre agréé pour l'imposition du bénéfice de l'exercice ouvert depuis moins de trois mois à
+la date de l'adhésion;
+
+En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours déclaré dans les conditions
+prévues à l'article 53 A du code général des impôts.
+
+Les déclarations de résultats des membres adhérents d'un centre de gestion agréé susceptibles de bénéficier des abattements
+prévus à l'article 158-4 bis précité doivent être accompagnées d'une attestation fournie par le centre indiquant la date
+d'adhésion et, le cas échéant, la date à laquelle est intervenue la perte de la qualité d'adhérent. Sur cette attestation
+doivent être également portés le chiffre d'affaires ou de recettes réalisé pendant l'année ou la période de référence
+considérée ainsi qu'une mention précisant si la déclaration de résultats a été ou non établie par le centre.
+
+Ce document est daté, revêtu du cachet du centre et signé par son responsable ou par le membre du conseil d'administration
+délégué à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 158 4 bis
+	  - CGI 53 A
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 L bis (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IC (P)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
 ###### Article 371 LA
 
 Pour l'application de l'article 1649 quater E bis du code général des impôts, la clientèle des industriels, commerçants,
@@ -13597,37 +13686,6 @@ atomique,     500 % pour les risques de responsabilité civile dus à la polluti
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 16 C
-
-Les entreprises qui constituent des provisions en vertu de l'article 39 quinquies G du code général des impôts doivent
-compléter le relevé prévu à l'article 54 du même code par la production [*formalités obligatoires*]  :
-
-1o pour chacune des catégories ou sous-catégories de risques faisant l'objet de la provision d'un compte d'exploitation
-établi dans la forme de l'état A-1 institué par l'article 17 du décret no 69-836 du 29 août 1969 et sous déduction des
-produits financiers nets. Les entreprises de réassurance sont tenues de fournir des renseignements analogues à ceux qui
-doivent figurer dans cet état;
-
-2o d'un état faisant ressortir séparément le montant des dotations de chaque exercice et comportant l'indication du montant
-des sommes utilisées dans les conditions prévues au troisième alinéa de l'article 39 quinquies G précité ainsi que du montant
-de la dotation antérieure qui a été rapportée au bénéfice imposable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 quinquies G AL. 3
-	  - CGI 54
-	  - Décret n°69-836 1969-08-29 ART. 17
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 16 F (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 39 H
 
 Les agents de change, les banques et les établissements financiers ou organismes habilités à détenir et à négocier des
@@ -14489,7 +14547,7 @@ réputées versées à des bénéficiaires non identifiés et soumises au régim
 A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
 constitué au 31 décembre 1978, pour un montant total égal ou supérieur à 0,50 % de l'encours de ces crédits, des provisions
 individualisées répondant aux conditions de l'article 39-1-5°, premier alinéa, du code général des impôts, les caisses de
-crédit agricole sont tenues de faire figurer au 1er janvier 1979 à leur bilan la provision prévue au septième alinéa de
+crédit agricole sont tenues de faire figurer au 1er janvier 1979 à leur bilan la provision prévue au huitième alinéa de
 l'article précité. Le taux de cette provision est fixé à 0,50 %.
 
 **Liens relatifs à cet article**
@@ -14498,47 +14556,47 @@ l'article précité. Le taux de cette provision est fixé à 0,50 %.
 
 	  - CGI 39 1 5° AL. 1, AL. 7
 
-	**Créé par**:
-
-	  - Décret n°79-1119 du 21 décembre 1979 - art. 3 (V) JORF 26 DECEMBRE 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 L (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 M (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 113 (V) JORF 30 décembre 1983
 
 
 ###### Article 102 P
 
 A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
 constitué au 31 décembre 1979 des provisions pour un montant égal ou supérieur à 0,50 % de l'encours des crédits, les caisses
-sont tenues de faire figurer au 1er janvier 1980 à leur bilan la provision prévue au septième alinéa de l'article 39-1-5° du
+sont tenues de faire figurer au 1er janvier 1980 à leur bilan la provision prévue au huitième alinéa de l'article 39-1-5° du
 code général des impôts pour un montant de 0,50 % de l'encours des crédits afférents auxdites opérations.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 39 1 5° AL. 7
-
-	**Créé par**:
-
-	  - Décret n°80-789 du 3 octobre 1980 - art. 2 (V) JORF 5 OCTOBRE 1980
+	  - CGI 39 1 5° AL. 8
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 113 (V) JORF 30 décembre 1983
 
 
 ##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.
 
 ###### Article 126
 
-1. Les dispositions des articles 39-1-5°, deuxième, quatrième, cinquième et septième alinéas, 39 bis, 39 quinquies A, 219-II
+1. Les dispositions des articles 39-1-5°, deuxième, quatrième, cinquième et huitième alinéas, 39 bis, 39 quinquies A, 219-II
 et III et 238 octies du code général des impôts ne sont pas applicables pour la détermination du résultat d'ensemble des
 sociétés agréées en vertu de l'article 104 [*bénéfice mondial*] ou du résultat consolidé des sociétés agréées en vertu de
 l'article 113 [*bénéfice consolidé*], dans la mesure où ces dispositions concerneraient des exploitations directes et
@@ -14581,11 +14639,15 @@ exploitations directes ou indirectes des sociétés agréées apparaîtra imposs
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°84-875 1984-10-01
 
 	**Liens**:
 
 	  - SPEC_APPLI: La modification de l'article 126 est une conséquence de la péremption de l'article 39 ter A
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 113 (V) JORF 30 décembre 1983
 
 
 ###### Article 134 bis
@@ -15211,10 +15273,10 @@ liquidation définitive du prélèvement dû par le redevable.
 ###### Article 171 bis
 
 La constitution en franchise d'impôt de la provision prévue à l'article 237 bis A-III du code général des impôts est
-subordonnée au respect des conditions de forme imparties par l'article 39-1-5o du même code.
+subordonnée au respect des conditions de forme imparties par les articles 39-1-5° et 54 quinquies du même code.
 
-Le relevé des provisions prévu à l'article 54 dudit code doit à cet effet être complété par la production [*formalité
-obligatoire*] :
+Le tableau des provisions prévu à l'article 38-II de l'annexe III au code général des impôts doit à cet effet être complété
+par la production [*formalité obligatoire*] :
 
 a. D'un état faisant apparaître distinctement les modalités de calcul des sommes affectées au compte de la réserve spéciale
 de participation et au compte de la provision pour investissement;
@@ -15227,15 +15289,21 @@ b. D'un état comportant indication de l'emploi de la provision, dans l'année q
 
 	  - CGI 237 bis A III
 	  - CGI 39 1 5°
-	  - CGI 54
+	  - CGI 54 quinquies
+	  - CGIAN3 38 II
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 113 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
 
 	**Cité par**:
 
 	  - Code du travail - art. D3325-5 (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 171-0 bis
@@ -15821,7 +15889,7 @@ L. 18 et L. 20 du code des débits de boissons et des mesures contre l'alcoolism
 ###### Article 242 septies
 
 En cas de cession, de cessation, de changement de lieu d'imposition, de règlement judiciaire ou de liquidation de biens, les
-entreprises sont tenues de souscrire dans les dix jours [*délai*] la déclaration visée à l'article 242 sexies relative à
+entreprises sont tenues de souscrire dans les trente jours [*délai*] la déclaration visée à l'article 242 sexies relative à
 l'année en cours ainsi que, le cas échéant, celle qui n'aurait pas encore été déposée au titre de l'année civile précédente.
 
 **Liens relatifs à cet article**
@@ -15830,9 +15898,13 @@ l'année en cours ainsi que, le cas échéant, celle qui n'aurait pas encore ét
 
 	  - CGIAN2 242 sexies
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition 1979-07-01
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 99 (V) JORF 30 décembre 1983
 
 
 ###### Article 242 septies A
@@ -15944,14 +16016,18 @@ trimestre civil au cours duquel elle a été formulée.
 ###### Article 242 septies L
 
 En cas de cession, de cessation, de changement de lieu d'imposition, de règlement judiciaire ou de liquidation des biens, les
-entreprises souscrivent dans les dix jours [*délai*] une déclaration de régularisation pour l'exercice en cours ainsi que, le
-cas échéant, celle qui n'aurait pas encore été déposée au titre d'une période d'imposition précédente.
+entreprises souscrivent dans les trente jours [*délai*] une déclaration de régularisation pour l'exercice en cours ainsi que,
+le cas échéant, celle qui n'aurait pas encore été déposée au titre d'une période d'imposition précédente.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 99 (V) JORF 30 décembre 1983
 
 
 ##### DISPOSITIONS PARTICULIERES AUX OPERATIONS CONCOURANT A LA PRODUCTION OU A LA LIVRAISON D'IMMEUBLES.
@@ -16226,265 +16302,25 @@ imposables, les tabacs destinés à l'exportation et les tabacs dits "de vente r
 
 #### AUTRES DROITS ET TAXES.
 
-###### Article 303
-
-La taxe différentielle sur les véhicules à moteur instituée par l'article 1007-a du code général des impôts est applicable
-aux véhicules automobiles mentionnés au Titre II du Livre 1er du code de la route (deuxième partie) et immatriculés sur le
-territoire métropolitain et dans les départements d'outre-mer [*DOM*].
-
-Toutefois, sont dispensés de la taxe, dans les conditions déterminées par un arrêté du ministre de l'économie et des
-finances, les véhicules dont les propriétaires bénéficient de privilèges diplomatiques ou qui ont fait l'objet d'une
-admission à titre temporaire en franchise d'impôt [*exonération*] (1).
-
-(1) Annexe IV, art. 121 T et 121 U. Pour les autres véhicules dispensés de la taxe différentielle, voir art. 1009 du code
-général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1007 a
-	  - CGI 1009
-	  - CGIAN4 121 T
-	  - CGIAN4 121 U
-	  - Code de la route R54 A Code de la route R137
-
-	**Modifié par**:
-
-	  - Loi n°81-734 1981-08-03 ART. 9 FINANCES RECTIFICATIVE POUR 1981 JORF 4 AOUT 1981
-
-	**Abrogé par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-
-###### Article 304
-
-Sont exonérés de la taxe :
-
-1° Les véhicules ayant plus de vingt-cinq ans d'âge ;
-
-2° Les véhicules mentionnés à l'article R 105 du code de la route, qui sont destinés normalement au transport en commun de
-personnes ;
-
-3° Les véhicules affectés au transport des personnes, bénéficiaires d'une autorisation spéciale de stationnement à des
-emplacements réservés sur la voie publique et dont les conditions de transport sont conformes à un tarif réglementaire, ainsi
-que les taxis collectifs visés à l'article 3-2°-c du décret n° 49-1473 du 14 novembre 1949 modifié ;
-
-4° Les véhicules spéciaux dont la liste est fixée par un arrêté du ministre de l'économie et des finances (1) ;
-
-5° Les véhicules spéciaux utilisés par les infirmes et mutilés ;
-
-6° (Transféré sous l'article 1009 B du code général des impôts).
-
-7° Les véhicules appartenant aux voyageurs, représentants de commerce et placiers [*VRP*], titulaires de la carte
-professionnelle d'identité instituée par la loi modifiée du 8 octobre 1919, et délivrée, validée ou renouvelée depuis moins
-d'un an.
-
-L'exonération prévue au 7° est limitée à un seul véhicule par propriétaire.
-
-(1) Annexe IV, art. 121 V.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1009 B
-	  - CGIAN4 121 V
-	  - Décret n°49-1473 1949-11-14 ART. 3 2° c
-	  - Loi n°1919-10-08
-	  - Code de la route R105
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-734 1981-08-03 ART. 9 FINANCES RECTIFICATIVE POUR 1981 JORF 4 AOUT 1981
-
-	**Abrogé par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 305
-
-La taxe est annuelle ; la période d'imposition s'étend du 1er décembre de chaque année au 30 novembre de l'année suivante.
-
-Pour l'application des tarifs prévus à l'article 1007 bis du code général des impôts, l'âge du véhicule se détermine à partir
-de la date de la première mise en circulation. Il s'apprécie au premier jour de la période d'imposition.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1007 bis
-
-	**Modifié par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 16 (P) JORF 19 JANVIER 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Abrogé par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 306
-
-I  La taxe est exigible à l'ouverture de la période d'imposition ou dans le mois de la première mise en circulation du
-véhicule en France et dans les départements d'outre-mer. Toutefois, elle n'est pas due pour la période en cours si la
-première mise en circulation a lieu entre le 15 août et le 30 novembre [*date*]. Elle n'est pas due non plus lorsqu'un
-véhicule cesse en cours d'année d'être en situation de bénéficier d'une exonération.
-
-II  Le paiement de la taxe incombe à la personne physique ou morale propriétaire du véhicule.
-
-En cas de vente d'un véhicule au cours de la période d'imposition, les cessionnaires successifs sont solidairement
-responsables du paiement de la taxe.
-
-III  Le paiement de la taxe est constaté au moyen de la délivrance d'une vignette timbrée dont le modèle et les modalités de
-délivrance et d'utilisation sont établis par un arrêté ministériel qui fixe, en outre, les obligations incombant aux
-propriétaires de véhicules exonérés de la taxe (1).
-
-La délivrance des duplicata de vignettes timbrées donne lieu au paiement d'une taxe de 10 F qui est perçue selon les
-modalités fixées par arrêté du ministre de l'économie et des finances (1).
-
-1)  Annexe IV, art. 121 L à 121 S.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 121 L, 121 M, 121 N, 121 O, 121 P, 121 Q, 121 R, 121 S
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 308
-
-Sont exclus du champ d'application de la taxe annuelle sur les véhicules d'une puissance fiscale supérieure à 16 CV instituée
-par l'article 1007-b du code général des impôts, les véhicules dispensés de la taxe différentielle par l'article 303,
-deuxième alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1007 b
-	  - CGIAN2 303 AL. 2
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 310
-
-La taxe différentielle établie par les articles 303 à 306 ne se cumule pas avec la taxe mentionnée à l'article 308 [*annuelle
-sur les véhicules d'une puissance fiscale supérieure à 16 CV*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 303
-	  - CGIAN2 304
-	  - CGIAN2 305
-	  - CGIAN2 306
-	  - CGIAN2 308
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Abrogé par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 310 A
-
-Sont exonérés de la taxe :
-
-1° Les véhicules mentionnés à l'article 304-2° à 5°;
-
-2° Les voitures de grande remise régies par le décret n° 55-961 du 15 juillet 1955.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 304 2°, 3°, 4°, 5°
-	  - Décret n°55-961 1955-07-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 310 B
-
-Les dispositions des articles 1840 N quater du code général des impôts et des articles 305 et 306 de la présente annexe sont
-applicables à la taxe prévue à l'article 308 (1).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1840 N quater
-	  - CGIAN2 305, 306, 307, 308
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R212-1,
-	  - Livre des procédures fiscales R213-1
-
-	**Abrogé par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
 ###### Article 310 C
 
 La taxe sur les véhicules des sociétés est due sans préjudice de la perception de la taxe prévue soit au a *taxe
 différentielle sur les véhicules à moteur*, soit au b *taxe spéciale annuelle sur les véhicules d'une puissance supérieure à
-16 CV* de l'article 1007 du code général des impôts.
+16 CV* de l'article 1599 C du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1007 a, b
+	  - CGI 1599 C
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
 
 
 #### REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE.
@@ -16878,6 +16714,227 @@ l'article 1478 du code général des impôts, une cessation d'activité suivie d
 
 	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
 	  - HISTO: EDITION 1979-07-01
+
+
+### IMPOSITIONS DEPARTEMENTALES
+
+###### Article 317 nonies
+
+La taxe différentielle sur les véhicules à moteur perçue en application de l'article 1599 C-a du code général des impôts est
+applicable aux véhicules automobiles mentionnés au titre II du livre Ier du code de la route (deuxième partie) et
+immatriculés sur le territoire métropolitain et dans les départements d'outre-mer [*DOM*].
+
+Toutefois, sont dispensés de la taxe, dans les conditions déterminées par un arrêté du ministre chargé du budget, les
+véhicules dont les propriétaires bénéficient de privilèges diplomatiques ou qui ont fait l'objet d'une admission à titre
+temporaire en franchise d'impôt (1).
+
+(1) Annexe IV, art. 155 K et 155 L. Pour les autres véhicules dispensés de la taxe différentielle, voir art. 1599 D du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 C a
+	  - CGI 1599 D
+	  - CGIAN4 155 K
+	  - CGIAN4 155 L
+
+	**Créé par**:
+
+	  - Décret n°56-875 1956-07-03 art. 1 JORF 4 septembre 1956
+	  - Loi n°81-734 1981-08-03 art. 9 JORF 4 août 1981
+	  - Loi n°83-1179 1983-12-29 art. 24 JORF 30 décembre 1983 Finances pour 1984
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
+###### Article 317 quaterdecies
+
+La taxe différentielle [*vignette*] établie par les articles 317 nonies à 317 duodecies ne se cumule pas avec la taxe
+mentionnée à l'article 317 terdecies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 317 decies
+	  - CGIAN2 317 duodecies
+	  - CGIAN2 317 nonies
+	  - CGIAN2 317 terdecies
+	  - CGIAN2 317 undecies
+
+	**Créé par**:
+
+	  - Décret n°56-876 1956-09-03 art. 3 JORF 4 septembre 1956
+	  - Décret n°81-860 du 15 septembre 1981 - art. 3 () JORF 18 septembre 1981
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985, dispositions devenues sans objet
+
+
+###### Article 317 sexdecies
+
+Les dispositions des articles 1840 N quater du code général des impôts et des articles 317 undecies et 317 duodecies sont
+applicables à la taxe prévue à l'article 317 terdecies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1840 N quater
+	  - CGIAN2 317 duodecies
+	  - CGIAN2 317 terdecies
+	  - CGIAN2 317 undecies
+
+	**Créé par**:
+
+	  - Décret n°56-876 1956-09-03 art. 5 JORF 4 septembre 1956
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985 : la taxe spéciale est supprimée
+
+
+###### Article 317 terdecies
+
+Sont exclus du champ d'application de la taxe annuelle sur les véhicules d'une puissance fiscale supérieure à 16 CV instituée
+par l'article 1599 C-b du code général des impôts, les véhicules dispensés de la taxe différentielle par l'article 317
+nonies, deuxième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 C b
+	  - CGIAN2 317 nonies al. 2
+
+	**Créé par**:
+
+	  - Décret n°56-876 1956-09-03 art. 1 JORF 4 septembre 1956
+	  - Loi n°72-1121 1972-12-20 art. 16 JORF 21 décembre 1972
+	  - Loi n°76-978 du 29 octobre 1976 - art. 4 (V) JORF 31 octobre 1976
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985 : la taxe spéciale est supprimée
+
+
+### IMPOSITIONS LOCALES
+
+###### Article 317 quindecies
+
+Sont exonérés de la taxe :
+
+1° Les véhicules mentionnés à l'article 317 decies-2° à 5° ;
+
+2° Les voitures de grande remise régies par le décret n° 55-961 du 15 juillet 1955.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 317 decies 2° 3° 4° 5°
+	  - Décret n°55-961 1955-07-15
+
+	**Créé par**:
+
+	  - Décret n°56-876 1956-09-03 art. 4 JORF 4 septembre 1956
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 31 (P) JORF 30 décembre 1978
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985, dispositions devenues sans objet
+
+
+### IMPOSITIONS REGIONALES
+
+###### Article 317 octodecies
+
+La taxe est annuelle ; la période d'imposition s'étend du 1er décembre de chaque année au 30 novembre de l'année suivante.
+
+Pour l'application des tarifs fixés conformément aux dispositions des articles 1599 decies à 1599 duodecies du code général
+des impôts, l'âge du véhicule se détermine à partir de la date de la première mise en circulation. Il s'apprécie au premier
+jour de la période d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 decies, 1599 undecies, 1599 duodecies
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 318 A
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Transféré par**:
+
+	  - Décret n°87-940 1987-11 23 JORF 26 novembre 1987 en vigueur le 10 août 1987
+
+	**Créé par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 26 Finances pour 1984 JORF 30 décembre 1983
+
+
+###### Article 317 septdecies
+
+Les dispositions des articles 317 nonies et 317 decies et des articles 317 duodecies à 317 sexdecies sont applicables à la
+taxe différentielle sur les véhicules à moteur et à la taxe spéciale sur les voitures particulières d'une puissance fiscale
+supérieure à 16 CV perçues au profit de la région de Corse (1).
+
+(1) Voir également Annexe IV, art. 155 N.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 317 decies
+	  - CGIAN2 317 duodecies
+	  - CGIAN2 317 nonies
+	  - CGIAN2 317 quaterdecies
+	  - CGIAN2 317 quindecies
+	  - CGIAN2 317 sexdecies
+	  - CGIAN2 317 terdecies
+	  - CGIAN4 155 N
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS.
@@ -19535,49 +19592,6 @@ créés à l'initiative des fédérations départementales des syndicats d'explo
 Il n'est pas exigé non plus d'effectif minimum des centres créés dans les départements d'outre-mer [*DOM*].
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 371 L
-
-Pour bénéficier des abattements mentionnés à l'article 158-4 bis du code général des impôts, les industriels, commerçants,
-artisans ou agriculteurs doivent avoir été membres adhérents d'un centre de gestion agréé pendant toute la durée des
-exercices concernés.
-
-Si cette condition n'est pas remplie, le bénéfice de l'abattement est toutefois accordé :
-
-En cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'exercice ouvert depuis moins de trois mois à la
-date de l'agrément;
-
-En cas de première adhésion à un centre agréé pour l'imposition du bénéfice de l'exercice ouvert depuis moins de trois mois à
-la date de l'adhésion;
-
-En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours déclaré dans les conditions
-prévues à l'article 53 du code général des impôts.
-
-Les déclarations de résultats des membres adhérents d'un centre de gestion agréé susceptibles de bénéficier des abattements
-prévus à l'article 158-4 bis précité doivent être accompagnées d'une attestation fournie par le centre indiquant la date
-d'adhésion et, le cas échéant, la date à laquelle est intervenue la perte de la qualité d'adhérent. Sur cette attestation
-doivent être également portés le chiffre d'affaires ou de recettes réalisé pendant l'année ou la période de référence
-considérée ainsi qu'une mention précisant si la déclaration de résultats a été ou non établie par le centre.
-
-Ce document est daté, revêtu du cachet du centre et signé par son responsable ou par le membre du conseil d'administration
-délégué à cet effet.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 158 4 bis
-	  - CGI 53
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 L bis (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IC (P)
 
 	**Liens**:
 
