@@ -1,32 +1,11 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1971-07-07
+Version Consolidée au 1971-07-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
 ## Première partie : Impôts d'Etat
 
 ### Titre premier : Impôts directs et taxes assimilées
-
-#### Chapitre premier : Impôt sur le revenu
-
-##### Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus
-
-##### I bis : Bénéfices industriels et commerciaux
-
-###### Article 37
-
-(Abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°71-537 1971-07-07 ART. 7 JORF 8 JUILLET 1971
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
 
