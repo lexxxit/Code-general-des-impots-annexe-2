@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-10-17
+Version Consolidée au 1985-11-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2783,6 +2783,43 @@ remise du titre ou au total de ces deux éléments. Il est majoré des frais inh
 	  - HISTO: Edition du 2 septembre 1994
 
 
+###### Article 95 D
+
+Pour les ventes fermes, la date d'effet de l'opération est celle de l'encaissement du prix de vente. En cas de versements
+échelonnés, il est fait application de la règle prévue à l'article 95 C.
+
+Les autres opérations ne sont prises en compte que si elles se concluent par la sortie effective de valeurs du patrimoine du
+cédant. La date est alors celle de la livraison des titres.
+
+Le prix de vente est diminué des frais inhérents à l'opération.
+
+Le remboursement aux associés de parts ou actions par les sociétés coopératives visées à l'article 199 quinquies-0 A du code
+général des impôts est assimilé à une cession à titre onéreux.
+
+Le remboursement aux sociétaires des parts de caisses de crédit agricole mutuel et des caisses de crédit mutuel agricole et
+rural régies par le titre 1er du livre V du code rural est assimilé à une cession à titre onéreux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 quinquies-0 A
+	  - CGIAN2 95 C
+	  - Code rural livre V titre 1
+
+	**Modifié par**:
+
+	  - Décret n°85-1233 1985-11-22 art. 3 JORF 26 novembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
+
+
 ###### Article 95 E
 
 Lorsqu'une opération de constitution de société ou d'augmentation de capital n'est pas réalisée et que la souscription a été
@@ -2904,6 +2941,47 @@ premier alinéa du même article.
 	**Créé par**:
 
 	  - Décret n°83-389 du 16 mai 1983 - art. 9 (V) JORF 17 MAI 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
+
+
+###### Article 95 J
+
+L'intermédiaire agréé chez lequel le compte d'épargne en actions a été ouvert ainsi que les intermédiaires agréés
+dépositaires de valeurs mentionnées à l'article 199 quinquies C du code général des impôts doivent adresser à la direction
+des services fiscaux du lieu de l'établissement, avant le 16 février [*date limite*] de chaque année, un état individuel
+établi d'après un modèle fixé par l'administration.
+
+Cet état atteste, le cas échéant, que les parts des caisses de crédit agricole mutuel et des caisses de crédit mutuel
+agricole et rural mentionnées au 4° de l'article 199 quinquies -0 A du même code n'ont pas été souscrites à l'occasion d'un
+prêt. Dans le même délai, il est remis au contribuable duplicata des renseignements figurant sur cet état.
+
+Les renseignements prévus à l'article 199 quinquies F du code général des impots doivent figurer sur la déclaration faite au
+nom du client en application du 1 de l'article 242 ter du même code lorsque cette déclaration doit être souscrite (1) (2).
+
+(1) Dispositions applicables aux opérations réalisées à partir du 1er janvier 1985. (2) Voir arrêté du 13 février 1985
+relatif au traitement automatisé TD/RCM (J.O. du 15).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1985-02-13
+	  - CGI 199 quinquies C
+	  - CGI 199 quinquies F
+	  - CGI 199 quinquies-0 A
+	  - CGI 242 ter 1
+	  - Loi n°84-1208 1984-12-29 ART. 110 finances pour 1985
+
+	**Modifié par**:
+
+	  - Décret n°85-1233 1985-11-26 art. 2 JORF 26 novembre 1985
 
 	**Codifié par**:
 
@@ -15381,6 +15459,14 @@ Les gestionnaires ou dépositaires de fonds communs de placement pour la souscri
 Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 de la loi n°
 66-537 du 24 juillet 1966 sur les sociétés commerciales.          Les sociétés coopératives et leurs unions mentionnées à
 l'article 199 quinquies-0 A du code général des impôts pour la souscription ou la cession de leurs parts ou actions.
+Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre
+Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
+
+**Nota:**
+
+[*Nota - L'article 25 de la loi n° 88-70 du 22 janvier 1988 dispose que dans tous les textes législatifs et réglementaires en
+vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" et "chambre syndicale des agents de change" par
+"Conseil des bourses de valeurs"*].
 
 **Liens relatifs à cet article**
 
@@ -15389,67 +15475,17 @@ l'article 199 quinquies-0 A du code général des impôts pour la souscription o
 	  - CGI 199 quinquies
 	  - CGI 199 quinquies C
 	  - CGI 199 quinquies-0 A
+	  - Code rural livre V titre Ier
 	  - Loi n°66-537 1966-07-24 art. 95, art. 130
 	  - Loi n°84-46 1984-01-24 art. 99
 
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
 	**Modifié par**:
 
-	  - Loi n°84-1152 1984-12-21 art. 4 JORF 22 décembre 1984
+	  - Décret n°85-1233 1985-11-22 art. 1 JORF 26 novembre 1985
 
+	**Liens**:
 
-###### Article 95 D
-
-Pour les ventes fermes, la date d'effet de l'opération est celle de l'encaissement du prix de vente. En cas de versements
-échelonnés, il est fait application de la règle prévue à l'article 95 C.
-
-Les autres opérations ne sont prises en compte que si elles se concluent par la sortie effective de valeurs du patrimoine du
-cédant. La date est alors celle de la livraison des titres.
-
-Le prix de vente est diminué des frais inhérents à l'opération.          Le remboursement aux associés de parts ou actions
-par les sociétés coopératives visées à l'article 199 quinquies-0 A du code général des impôts est assimilé à une cession à
-titre onéreux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 quinquies-0 A
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Décret n°84-110 du 17 février 1984 - art. 2 (V) JORF 18 février 1984
-
-
-###### Article 95 J
-
-L'intermédiaire agréé chez lequel le compte d'épargne en actions a été ouvert ainsi que les intermédiaires agréés
-dépositaires de valeurs mentionnées à l'article 199 quinquies C du code général des impôts doivent adresser à la direction
-des services fiscaux du lieu de l'établissement, avant le 16 février [*date limite*] de chaque année, un état individuel
-établi d'après un modèle fixé par l'administration.
-
-Dans le même délai, il est remis au contribuable duplicata des renseignements figurant sur cet état.    Les renseignements
-prévus à l'article 199 quinquies F du code général des impots doivent figurer sur la déclaration faite au nom du client en
-application du 1 de l'article 242 ter du même code lorsque cette déclaration doit être souscrite.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 quinquies C
-	  - CGI 199 quinquies F
-	  - CGI 242 ter 1
-
-	**Modifié par**:
-
-	  - Décret n°85-201 du 13 février 1985 - art. 3 () JORF 15 février 1985
+	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
 
 
 #### IMPOTS SUR LE REVENU
