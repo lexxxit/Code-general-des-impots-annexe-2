@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1991-07-04
+Version Consolidée au 1991-12-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4689,326 +4689,7 @@ liste vaut indication expresse au sens de l'article 1732 du même code.
 
 ##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger
 
-###### Article 103
-
-Les sociétés et autres personnes morales françaises agréées à cet effet peuvent être placées pour l'assiette des impôts
-établis sur leurs bénéfices et la distribution de ceux-ci soit sous le régime du bénéfice mondial, soit sous le régime du
-bénéfice consolidé, dans les conditions fixées ci-après.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### I : Régime du bénéfice mondial.
-
-###### Article 104
-
-Lorsqu'elles sont agréées à cet effet par le ministre de l'économie et des finances, les sociétés et autres personnes morales
-françaises passibles de l'impôt sur les sociétés sont autorisées à retenir pour l'assiette des impôts établis sur la
-réalisation et la distribution de leurs bénéfices, en plus des résultats visés à l'article 209-I du code général des impôts,
-les résultats de l'ensemble de leurs exploitations directes qui sont situées hors de la France métropolitaine et des
-départements d'outre-mer et qui existent à la date de l'agrément ou qui sont créées ou acquises ultérieurement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 I
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 105
-
-1. Les exploitations directes s'entendent des succursales, bureaux, comptoirs, usines et installations permanentes de toute
-nature sans personnalité juridique distincte et dans lesquels les sociétés ou personnes morales agréées exercent tout ou
-partie de leur activité.
-
-2. Lorsque les résultats d'une exploitation directe ont été retenus pour la détermination du résultat mondial, cette
-exploitation ne peut ultérieurement être transformée de quelque manière que ce soit en une exploitation indirecte telle
-qu'elle est définie à l'article 114 sans l'accord du ministre de l'économie et des finances. Cet accord peut être subordonné
-à l'obligation, pour la société agréée, d'ajouter aux résultats de l'exercice en cours tout ou partie des sommes
-correspondant aux déficits afférents à cette exploitation qu'elle aurait antérieurement déduits de son bénéfice imposable,
-même au titre d'exercices couverts par la prescription.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 114
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 106
-
-Pour chacune de ses exploitations directes situées hors de la France métropolitaine ou des départements d'outre-mer à la date
-de l'agrément la société agréée doit établir un bilan de départ. L'actif net de ce bilan sert de base à la détermination des
-résultats de ces exploitations au titre de la première période d'imposition pour laquelle le régime défini à l'article 103
-est appliqué.
-
-Les éléments figurant au bilan de départ doivent être retenus pour la valeur comptable résiduelle qu'ils comportaient au
-regard de la législation fiscale étrangère à la date d'effet de l'agrément. Cette valeur est convertie en francs français sur
-la base des taux de change en vigueur à cette même date. La décision d'agrément peut imposer à la société agréée
-l'observation de règles ou de méthodes particulières d'évaluation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 103
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 107
-
-Les résultats de chacune des exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer
-sont, sous réserve des dispositions particulières des articles 103 à 134, déterminés selon les règles fixées par le code
-général des impôts à partir du bilan de départ établi dans les conditions fixées à l'article 106.
-
-Les valeurs des éléments de l'actif net existant à la date d'ouverture et à la date de clôture de chaque exercice sont
-converties en francs français sur la base des taux de change en vigueur respectivement à ces deux dates. Toutefois les
-éléments de l'actif immobilisé sont portés au bilan, selon le cas, soit d'après le taux de change en vigueur lors de
-l'établissement du bilan de départ, soit à la date d'acquisition ou de création de ces éléments.
-
-Les transferts effectués entre la société agréée et l'exploitation directe sont convertis d'après le taux de change en
-vigueur à la date de transfert.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 103 A CGIAN2 134
-	  - CGIAN2 106
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 108
-
-Le résultat d'ensemble de la société agréée est, sous réserve des dispositions de l'article 126, déterminé comme suit :
-
-1. La société agréée fait la somme algébrique des résultats des exploitations directes visées aux articles 104 et 105,
-déterminés dans les conditions prévues aux article 106 et 107 et de ceux réalisés par elle en France ou dans les départements
-d'outre-mer, déterminés dans les conditions de droit commun, ainsi que des plus-values ou moins-values à court terme après
-application de la répartition prévue à l'article 39 quaterdecies-1 du code général des impôts.
-
-2. a. Si la somme visée au 1 est positive, la plus-value nette à long terme dégagée pour l'ensemble des exploitations
-directes et de la société agréée est ajoutée à cette somme pour une part de son montant obtenue en appliquant à ce dernier le
-rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du code général des impôts
-et le taux normal prévu au deuxième alinéa de l'article 219-I du même code;
-
-b. Si la somme visée au 1 est négative, la plus-value nette à long terme est, sous réserve des dispositions de l'article
-110-2, utilisée à compenser le déficit correspondant et, pour le surplus, comptée dans le résultat d'ensemble pour une part
-de son montant obtenue en appliquant à ce dernier le rapport existant entre les taux réduits d'imposition prévus aux I et II
-de l'article 39 quindecies du code général des impôts et le taux normal prévu au deuxième alinéa de l'article 219-I du même
-code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 219 I AL. 2
-	  - CGI 39 quaterdecies 1
-	  - CGI 39 quindecies I, II
-	  - CGIAN2 104
-	  - CGIAN2 105
-	  - CGIAN2 106
-	  - CGIAN2 107
-	  - CGIAN2 110 2
-	  - CGIAN2 126
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 109
-
-Les déficits et les moins-values nettes à long terme d'exploitations directes pris en compte pour la détermination du
-résultat mondial d'une société agréée ne sont pas reportables sur les résultats ultérieurs de ces exploitations directes.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 110
-
-1. Le résultat d'ensemble défini à l'article 108 est, selon le cas, imposé ou reporté dans les conditions prévues
-respectivement à l'article 219-I ou à l'article 209-I, troisième alinéa, du code général des impôts.
-
-2. Par dérogation à l'article 108-2-b, la plus-value nette à long terme d'ensemble peut, dans la mesure où la société agréée
-n'entend pas l'utiliser pour compenser le déficit, être imposée pour une part de son montant au taux normal prévu au deuxième
-alinéa de l'article 219-I du code général des impôts. Cette part est déterminée en appliquant au montant de cette plus-value
-le rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du même code et le taux
-normal prévu au deuxième alinéa de l'article 219-I précité.
-
-3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
-d'ensemble taxée dans les conditions prévues aux articles 103 à 134.
-
-4. La moins-value nette à long terme d'ensemble est soumise au régime prévu à l'article 39 quindecies-I-2 du code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 AL. 2
-	  - CGI 209 quater
-	  - CGI 219 I AL. 2
-	  - CGI 39 quindecies I 2, II
-	  - CGIAN2 103 A CGIAN2 134
-	  - CGIAN2 108 2 b
-
-	**Modifié par**:
-
-	  - Loi n°84-1208 du 29 décembre 1984 - art. 15 (P) JORF 30 décembre 1984, en vigueur le 1er janvier 1985
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-
-
-###### Article 111
-
-1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, à raison de
-ses résultats d'ensemble au titre de chaque exercice, les impôts, taxes ou droits acquittés au titre du même exercice sur ses
-établissements situés hors de la France métropolitaine et des départements d'outre-mer, à la condition que ces prélèvements
-fiscaux soient comparables à l'impôt français sur les sociétés ou tiennent lieu de cet impôt et sous réserve qu'ils soient
-exclusivement perçus au profit d'états souverains, d'états membres, d'états fédéraux, d'états confédérés ou de territoires
-non souverains jouissant de l'autonomie financière par rapport à l'état souverain dont ils dépendent.
-
-La liste des impôts, taxes ou droits visés au premier alinéa est fixée par la décision d'agrément.
-
-Les amendes ou pénalités afférentes à ces impôts, taxes ou droits ne peuvent, en aucun cas, donner lieu à imputation.
-
-2. Les sommes à imputer sont toutefois limitées, pour chaque état ou territoire dans lequel la société agréée possède des
-exploitations directes, au montant de l'impôt français sur les sociétés qui frapperait isolément le résultat, au sens de
-l'article 108-1, du ou des établissements situés dans cet Etat ou dans ce territoire, ce résultat étant, le cas échéant,
-augmenté ou diminué d'une part du montant de la plus-value ou de la moins-value nette à long terme du ou des établissements
-concernés calculée en appliquant à cette plus ou moins-value le rapport existant entre les taux réduits d'imposition prévus
-au I et au II de l'article 39 quindecies du code général des impôts et le taux normal prévu au deuxième alinéa du I de
-l'article 219, du même code.
-
-3. Si une convention internationale le prévoit, il peut être accordé aux sociétés agréées un crédit d'impôt destiné à
-compenser, en tout ou en partie, les réductions d'impôts imputables sur l'impôt sur les sociétés français, qui pourraient
-être consenties par des Etats en vue d'assurer leur développement économique.
-
-4. Lorsque le résultat d'une exploitation directe déterminé dans les conditions prévues ci-dessus est déficitaire, l'impôt
-étranger ne peut être imputé. Toutefois ledit impôt est ajouté au montant des impôts étrangers imputables, pour la même
-exploitation, au titre des exercices suivants jusqu'au cinquième inclusivement.
-
-5. Les montants d'impôts étrangers imputables sont convertis en francs français à la date de clôture de l'exercice. Il
-incombe à la société agréée d'apporter la preuve du paiement effectif. Les rappels ou les dégrèvements d'impôts imputables
-doivent être notifiés à l'administration dans les deux mois de leur paiement ou de leur encaissement. Les bases de l'impôt
-sur les sociétés dû au titre de l'exercice auquel se rapportent ces rappels ou ces dégrèvements sont, le cas échéant,
-régularisées en conséquence.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 219 I AL. 2
-	  - CGI 39 quindecies I, II
-	  - CGIAN2 108 1
-
-	**Modifié par**:
-
-	  - Décret n°77-443 1977-04-27 ART. 4 JORF 29 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-
-
-###### Article 112
-
-Lorsque le montant de l'impôt sur les sociétés dû par la société agréée au titre d'un exercice à raison de ses résultats
-d'ensemble est insuffisant pour permettre la déduction des impôts étrangers ou de la fraction de ces impôts dont l'imputation
-est autorisée, la partie non déduite de ces impôts est ajoutée successivement au montant des impôts étrangers imputables au
-titre des exercices suivants jusqu'au cinquième exercice inclusivement.
-
-Les impôts qui ne peuvent être imputés ne sont en aucun cas remboursés par le Trésor.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### II : Régime du bénéfice consolidé
-
-###### Article 113
-
-Lorsqu'elles ont été agréées à cet effet par le ministre de l'économie et des finances, les sociétés et autres personnes
-morales françaises passibles de l'impôt sur les sociétés sont, pour l'assiette des impôts établis sur la réalisation et la
-distribution de leurs bénéfices, autorisées à consolider leurs résultats tels qu'ils sont définis à l'article 209-I du code
-général des impôts, avec les résultats de leurs exploitations directes situées hors de la France métropolitaine et des
-départements d'outre-mer et ceux de leurs exploitations indirectes situées en France et hors de France [*à l'étranger*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 I
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 134 (P)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 134 A (P)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 114
 
@@ -5059,41 +4740,6 @@ intervenue postérieurement au 29 avril 1977.
 	  - CGIAN2 121
 	  - CGIAN2 122
 	  - CGIAN2 123
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 115
-
-1. Les sociétés agréées en vertu de l'article 113 doivent déterminer leur bénéfice imposable en tenant compte, sauf
-disposition contraire de la décision d'agrément, des résultats de l'ensemble de leurs exploitations directes ou indirectes,
-définies à l'article 114, qui existent à la date d'octroi de l'agrément et, à moins que l'administration ne s'y oppose, de
-l'ensemble des exploitations de même nature acquises ou créées postérieurement à l'agrément. En outre, l'administration peut
-exiger la consolidation des résultats d'une exploitation indirecte ne remplissant pas les conditions prévues à l'article
-114-2.
-
-2. Lorsque les résultats d'une exploitation directe ont été retenus pour déterminer le résultat consolidé de la société
-agréée et que cette exploitation est ultérieurement transformée en exploitation indirecte, ses résultats restent pris en
-compte même si les conditions fixées à l'article 114-2 et 3 ne sont pas remplies en ce qui concerne cette exploitation.
-
-3. Lorsque les résultats d'une exploitation indirecte ont été retenus pour déterminer le résultat consolidé de la société
-agréée et que les conditions énumérées à l'article 114-2 et 3 cessent d'être remplies pour quelque raison que ce soit, les
-résultats de cette exploitation doivent néanmoins continuer à être retenus aussi longtemps que la société ou la personne
-morale agréée détient une participation dans cette exploitation.
-
-4. La société agréée peut être relevée des obligations prévues aux 2 et 3, par voie d'avenant à l'agrément. Cet avenant peut
-notamment imposer à la société agréée d'ajouter aux résultats consolidés tout ou partie des sommes correspondant aux déficits
-ou moins-values à long terme afférents à l'exploitation dont il s'agit et qui auraient antérieurement été déduits du résultat
-d'ensemble.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 113
-	  - CGIAN2 114 2, 3
 
 	**Liens**:
 
@@ -5194,35 +4840,6 @@ membres du groupe.
 	**Cite**:
 
 	  - CGIAN2 116
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 119
-
-Lorsqu'une société française imposée sous l'un des régimes définis aux articles 104 à 123 est elle-même contrôlée par une
-société agréée, le résultat de la société contrôlée à prendre en considération pour la détermination du résultat consolidé de
-l'autre société est la fraction, définie à l'article 116-1-c, de son résultat d'ensemble tel qu'il résulte de l'application
-des articles 104 à 112 ou de son résultat consolidé tel qu'il résulte de l'application des articles 113 à 123. La fraction
-correspondante de l'impôt sur les sociétés établi au nom de la société contrôlée peut être imputée sur l'impôt sur les
-sociétés dû par l'autre société. A défaut d'imputation, cette fraction peut être restituée dans la mesure où elle correspond
-à un impôt payé en France.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 104 A CGIAN2 123
-	  - CGIAN2 112
-	  - CGIAN2 113
-	  - CGIAN2 116 1 c
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
 
 	**Liens**:
 
@@ -5332,7 +4949,150 @@ prélèvements qu'il ne lui serait pas possible d'imputer [*remboursement*].
 	  - HISTO: EDITION 1979-07-01
 
 
+##### 1 : Périmètre de consolidation
+
+###### Article 113
+
+Lorsqu'elles ont été agréées à cet effet par le ministre de l'économie et des finances, les sociétés et autres personnes
+morales françaises passibles de l'impôt sur les sociétés sont, pour l'assiette des impôts établis sur la réalisation et la
+distribution de leurs bénéfices, autorisées à consolider leurs résultats tels qu'ils sont définis au I de l'article 209 du
+code général des impôts, avec les résultats de leurs exploitations directes situées hors de la France métropolitaine et des
+départements d'outre-mer et ceux de leurs exploitations indirectes situées en France et hors de France.
+
+Lorsque la décision d'agrément mentionnée à l'article 209 quinquies du code général des impôts autorise l'option, en
+application des dispositions du 2 de l'article 223 P de ce code, pour le régime de groupe défini à l'article 223 A du même
+code, le résultat d'ensemble mentionné à l'article 223 B de ce code se substitue aux résultats des sociétés membres de ce
+groupe pour la détermination du résultat consolidé (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 I, 209 quinquies, 223 A, 223 B, 223 P
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 1 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 134 (P)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 134 A (P)
+
+
+###### Article 115
+
+1. Les sociétés agrées en vertu de l'article 113 doivent déterminer leur bénéfice imposable en tenant compte, sauf
+disposition contraire de la décision d'agrément, des résultats de l'ensemble de leurs exploitations directes ou indirectes,
+définies à l'article 114, qui existent à la date d'octroi de l'agrément et, à moins que l'administration ne s'y oppose, de
+l'ensemble des exploitations de même nature acquises ou créées postérieurement à l'agrément. Il est tenu compte des résultats
+des exploitations acquises ou créées postérieurement à l'agrément à compter de l'exercice suivant leur création ou leur
+acquisition à l'exception des résultats des exploitations mentionnées au b et au d du 1 de l'article 116 qui sont retenus dès
+l'exercice au cours duquel ces exploitations ont été créées ou acquises (1). En outre, l'administration peut exiger la
+consolidation des résultats d'une exploitation indirecte ne remplissant pas les conditions prévues aux 2, 3 et 4 de l'article
+114.
+
+1 bis. Lorsque la société agréée ou l'une ou plusieurs de ses exploitations indirectes dont les résultats ont été retenus
+pour la détermination du résultat consolidé sont autorisées à opter, en application des dispositions du 2 de l'article 223 P
+du code général des impôts, pour le régime de groupe défini à l'article 223 A de ce code, le résultat d'ensemble mentionné à
+l'article 223 B du même code se substitue aux résultats des sociétés membres de ce groupe (1).
+
+2. Lorsque les résultats d'une exploitation directe ont été retenus pour déterminer le résultat consolidé de la société
+agréée et que cette exploitation est ultérieurement transformée en exploitation indirecte, ses résultats restent pris en
+compte même si les conditions fixées aux 2, 3 et 4 de l'article 114 ne sont pas remplies en ce qui concerne cette
+exploitation.
+
+3. Lorsque les résultats d'une exploitation indirecte ont été retenus pour déterminer le résultat consolidé de la société
+agréée et que les conditions énumérées aux 2 et 3 de l'article 114 cessent d'être remplies pour quelque raison que ce soit,
+les résultats de cette exploitation doivent néanmoins continuer à être retenus aussi longtemps que la société ou la personne
+morale agréée détient une participation dans cette exploitation.
+
+4. La société agréée peut être relevée des obligations prévues aux 2 et 3, par voie d'avenant à l'agrément. Cet avenant peut
+notamment imposer à la société agréée d'ajouter aux résultats consolidés tout ou partie des sommes correspondant aux déficits
+ou moins-values à long terme afférents à l'exploitation dont il s'agit et qui auraient antérieurement été pris en compte pour
+la détermination du résultat consolidé ou de la plus-value ou moins-value nette à long terme consolidée (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 P, 223 A, 223 B
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 3 () JORF 20 décembre 1991
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 12 : Obligations déclaratives et sanctions
+
+###### Article 129
+
+Les indemnités de retard, majorations, amendes et autres pénalités prévues au code général des impôts sont exigibles en cas
+d'infraction aux dispositions des articles 113 à 134 (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 113 à 134
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 18 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - HISTO: Edition du 4 juillet 1992
+
+
 ##### 13 : Dispositions relatives à l'agrément
+
+###### Article 130
+
+L'agrément visé à l'article 113 est accordé par le ministre de l'économie et des finances après avis du conseil de direction
+du fonds de développement économique et social (1).
+
+Son octroi peut être subordonné à des conditions particulières relatives notamment aux modalités d'établissement des bilans
+de départ, à la traduction des comptabilités tenues en langues étrangères et à la vérification sur place des comptabilités
+des exploitations directes ou indirectes situées hors de la France métropolitaine et des départements d'outre-mer.
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 113
+
+	**Modifié par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 19 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
 
 ###### Article 131
 
@@ -5540,78 +5300,13 @@ Un état faisant apparaître le montant des impôts imputables sur l'impôt sur 
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 129
-
-Les indemnités de retard, majorations, amendes et autres pénalités prévues au code général des impôts sont exigibles en cas
-d'infraction aux dispositions des articles 103 à 134.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 103 A CGIAN2 134
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### IV : Agréments.
-
-###### Article 130
-
-Les agréments visés aux articles 104 [*bénéfice mondial*] et 113 [*bénéfice consolidé*] sont accordés par le ministre de
-l'économie et des finances après avis du conseil de direction du fonds de développement économique et social [*autorité
-compétente*].
-
-Leur octroi peut être subordonné à des conditions particulières relatives notamment aux modalités d'établissement des bilans
-de départ, à la traduction des comptabilités tenues en langues étrangères et à la vérification sur place des comptabilités
-des exploitations directes ou indirectes situées hors de la France métropolitaine et des départements d'outre-mer [*à
-l'étranger*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 104
-	  - CGIAN2 113
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 132
 
 La durée d'application du régime du bénéfice mondial ou de celui du bénéfice consolidé est fixée par la décision d'agrément.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 133
-
-1. Les sociétés agréées peuvent renoncer pour l'avenir au bénéfice des agréments prévus aux articles 104 et 113 en cas de
-modification de plus de cinq points du taux de l'impôt sur les sociétés. La renonciation prend effet à la date d'application
-de cette modification.
-
-2. Le ministre de l'économie et des finances peut, dans le même cas, dénoncer ces agréments. Cette dénonciation prend effet à
-l'ouverture de l'exercice qui suit celui au cours duquel elle est intervenue.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 104
-	  - CGIAN2 113
-
-	**Abrogé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
 
 	**Liens**:
 
@@ -5657,6 +5352,37 @@ qui lui sont reprochés et peut fournir toute justification à leur égard.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### III : Régime du bénéfice mondial
+
+###### Article 134 A
+
+La décision visée à l'article 209 quinquies du code général des impôts peut prévoir que les sociétés mentionnées à cet
+article sont, pour l'assiette des impôts établis sur la réalisation et la distribution de leurs bénéfices, autorisées à faire
+la somme de leurs résultats, tels qu'ils sont définis au I de l'article 209 du même code, et des résultats de leurs
+exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer.
+
+Les dispositions des articles 113 à 134 de la présente annexe sont, le cas échéant, applicables à ces sociétés ou personnes
+morales (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quinquies, 209
+	  - CGIAN2 113 à 134
+
+	**Créé par**:
+
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 22 () JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### V : Dispositions particulières à l'exploitation d'hydrocarbures.
@@ -14799,33 +14525,6 @@ d'intérêt collectif agricole en 1975.
 	**Abrogé par**:
 
 	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
-
-
-##### Répartition des bases.
-
-###### Article 310 HK
-
-Pour l'application de l'article 1473 du code général des impôts  , les véhicules sont rattachés au local ou au terrain qui
-constitue leur lieu de stationnement habituel ou, s'il n'en existe pas, au local où ils sont entretenus et réparés par le
-redevable; à défaut ils sont rattachés au principal établissement de l'entreprise.
-
-En ce qui concerne les contribuables non sédentaires et ceux ayant une installation fixe, mentionnés à l'article 1470 du code
-général des impôts, l'imposition correspondant aux véhicules et aux équipements transportés est établie au lieu prévu à
-l'alinéa précédent ou, à défaut, dans la commune de rattachement, telle qu'elle est définie par l'article 7 de la loi n° 69-3
-du 3 janvier 1969.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1470
-	  - CGI 1473
-	  - Loi n°69-3 du 3 janvier 1969 - art. 7 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### V : Répartition des bases
