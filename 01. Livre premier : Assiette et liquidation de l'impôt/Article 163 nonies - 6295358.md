@@ -4,17 +4,27 @@ Sont considérés comme occupant au minimum dix salariés, au sens de l'article 
 employeurs occupant des salariés dont le nombre mensuel moyen est au moins égal à dix pendant l'année ou la fraction d'année
 où l'activité est exercée.
 
-Toutefois, ceux de ces employeurs occupant des salariés à temps incomplet ou d'une manière intermittente, ou travaillant à
-domicile, ne sont soumis à l'obligation de participer que si le montant total des salaires versés pendant l'année est au
-moins égal à 120 fois le salaire mensuel minimum de croissance [*SMIC*]. En cas de début ou de fin d'activité, le chiffre est
-réduit, pour l'année considérée, au prorata du nombre de mois pendant lesquels l'activité est exercée.
+Toutefois, ceux de ces employeurs occupant des salariés d'une manière intermittente ou travaillant à domicile ne sont soumis
+à l'obligation de participer que si le montant total des salaires versés pendant l'année est au moins égal à 120 fois le
+salaire mensuel minimum de croissance [*SMIC*]. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année
+considérée, au prorata du nombre de mois pendant lesquels l'activité est exercée.
+
+Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail entre en compte dans l'effectif du
+personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat et la durée légale de
+travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie dans l'établissement ou la partie
+d'établissement où il est employé.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 235 ter C
+	  - Code du travail - art. L212-4-2 (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-540 du 12 mai 1981 - art. 3 () JORF 15 MAI 1981
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
