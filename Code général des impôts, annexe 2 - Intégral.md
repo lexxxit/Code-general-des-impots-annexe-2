@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-03-19
+Version Consolidée au 1988-05-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5662,6 +5662,37 @@ La décision du comité départemental est motivée. Elle est notifiée par le p
 	**Modifié par**:
 
 	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 140 H
+
+L'intéressé peut, dans un délai de deux mois à compter de la notification, former un recours contre la décision du comité
+départemental devant la commission spéciale prévue à l'article 227 du code général des impôts.
+
+Le préfet peut également former un recours contre les décisions du comité départemental dans les deux mois suivant l'adoption
+de ces décisions.
+
+La commission spéciale connaît des décisions des comités départementaux lorsque le montant de l'exonération demandée en
+première instance est supérieur à 1.000 F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 227
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°88-501 du 3 mai 1988 - art. 2 (Ab) JORF 5 mai 1988
 
 	**Codifié par**:
 
@@ -20335,30 +20366,6 @@ La demande est accompagnée des reçus délivrés par l'organisme bénéficiaire
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 140 H
-
-L'intéressé peut, dans un délai de deux mois à compter de la notification [*point de départ*], former un recours contre la
-décision du comité départemental [*de la formation professionnelle, de la promotion sociale et de l'emploi*], devant la
-commission spéciale prévue à l'article 227 du code général des impôts.
-
-Le commissaire de la République peut également former un recours contre les décision du comité départemental dans les deux
-mois suivant l'adoption de ces décisions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 227
-
-	**Modifié par**:
-
-	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 140 N
