@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-08-25
+Version Consolidée au 2004-08-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3472,233 +3472,6 @@ au c de l'article 111 du code général des impôts.
 	  - Décret n°85-1007 1985-09-24
 
 
-##### III : Épargne investie.
-
-###### Article 85
-
-Les contribuables qui ont conservé une partie de leurs revenus sous forme d'épargne en vue de la construction d'immeubles
-d'habitation dans les conditions définies à l'article 86 peuvent, à charge par eux d'apporter les justifications utiles,
-déduire du montant de leur revenu net global servant de base à l'impôt sur le revenu une somme déterminée conformément aux
-dispositions des articles 87, 88 et 89.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGIAN2 86 à 90
-	  - HISTO: Edition du 31 août 2004
-
-	**Cite**:
-
-	  - CGIAN2 86, 87, 88, 89
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 86
-
-Peuvent bénéficier des dispositions de l'article 85 :
-
-1° (Devenu sans objet) ;
-
-2° Les personnes qui ont souscrit un contrat de crédit différé et obtenu un prêt dans les conditions prévues à la loi n°
-52-332 du 24 mars 1952 modifiée et au décret n° 52-1326 du 15 décembre 1952 modifié.
-
-Les dispositions du présent article ne peuvent toutefois s'appliquer qu'aux contribuables qui font construire des immeubles
-ou parties d'immeubles affectés à leur habitation principale ou à celle de leurs descendants ou ascendants, avec le bénéfice,
-soit des primes à la construction prévues à l'article R. 311-1 du code de la construction et de l'habitation, soit de prêts
-consentis en exécution des articles R. 431-1 à R. 431-6 du même code aux sociétés coopératives d'habitations à loyer modéré
-ou aux sociétés de crédit immobilier.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 85
-	  - Décret n°52-1326 1952-12-15
-	  - Code de la construction et de l'habitation R311-1, R431-1 à R431-6
-	  - Loi n°52-332 1952-03-24
-
-	**Modifié par**:
-
-	  - Décret n°2001-351 2001-04-20 art. 4 JORF 22 avril 2001
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-
-###### Article 87
-
-La déduction prévue à l'article 85 est opérée sur le revenu imposable de l'année au cours de laquelle le prêt mentionné à
-l'article 86 a été consenti.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 85, 86
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 88
-
-Sous réserve des dispositions de l'article 89, cette déduction est égale au montant des sommes épargnées par le redevable au
-cours de la période antérieure à l'attribution du prêt.
-
-Pour l'application du présent article, les sommes ainsi épargnées sont réputées correspondre :
-
-1° En ce qui concerne les personnes ayant déposé des fonds à un compte d'épargne-crédit, à dix fois le total des intérêts
-acquis à la date de l'arrêté de ce compte ;
-
-2° En ce qui concerne les contribuables ayant souscrit un contrat de crédit différé, au total des versements effectués en
-exécution de ce contrat pendant le délai d'attente préalable à l'attribution du prêt, le montant de chaque versement étant
-divisé par 60 et multiplié par le nombre de mois écoulés entre la date à laquelle le versement a été fait et celle à laquelle
-le prêt a été consenti.
-
-Le coefficient prévu au 1o pourra être modifié par arrêté du ministre de l'économie et des finances en cas de révision du
-taux des intérêts servis aux sommes inscrites aux comptes d'épargne-crédit.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 89
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-
-###### Article 89
-
-Le montant de l'investissement déterminé dans les conditions définies à l'article 88 n'ouvre droit à la déduction prévue à
-l'article 85 que s'il est supérieur à 10 % du revenu net global déclaré par le contribuable, avant application de cette
-déduction, au titre de l'année considérée.
-
-Le montant de ladite déduction est limité à 25 % du revenu net global susvisé, sans pouvoir excéder la somme de 457 euros
-majorée de 152 euros par personne à la charge du contribuable au sens de l'article 196 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 196
-	  - CGIAN2 88, 85
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Loi n°98-546 du 2 juillet 1998 - art. 26 (V) JORF 3 juillet 1998 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-
-###### Article 90
-
-Sauf circonstance de force majeure, si un immeuble ayant donné droit à la déduction prévue à l'article 85 fait l'objet d'une
-aliénation au profit de personnes autres que le conjoint, les ascendants ou descendants du contribuable avant l'expiration
-d'un délai de cinq ans à compter de son achèvement ou s'il est affecté dans le même délai à un usage autre que celui défini
-au quatrième alinéa de l'article 86, le montant de l'impôt correspondant à la déduction dont l'intéressé a bénéficié est
-reversé de plein droit à l'Etat, sans préjudice de l'application d'une majoration de 25 %.
-
-La cotisation correspondante, qui peut être établie malgré l'expiration du délai de reprise fixé par le premier alinéa de
-l'article L. 169 du livre des procédures fiscales, est exigible en totalité dès la mise en recouvrement du rôle sous les
-sanctions édictées par l'article 1761 dudit code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 85, 86
-	  - Livre des procédures fiscales - art. L169 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-
-###### Article 91
-
-Les modalités d'application des dispositions des articles 85 à 90 seront, en tant que de besoin, fixées par arrêté du
-ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 85 à 90
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-
 ##### IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés
 
 ###### Article 91 bis
@@ -4276,11 +4049,11 @@ industriel défini au premier alinéa.
 
 ###### Article 91 sexies
 
-Les investissements productifs réalisés dans les départements et territoires d'outre-mer et dans les collectivités
-territoriales de Mayotte et de Saint-Pierre-et-Miquelon dont le montant peut être déduit du revenu net global des
-contribuables en application du premier alinéa du I de l'article 163 tervicies du code général des impôts s'entendent des
-acquisitions ou créations d'immobilisations corporelles amortissables, affectées aux activités relevant des secteurs
-mentionnés au même alinéa.
+Les investissements productifs réalisés dans les départements d'outre-mer, en Nouvelle-Calédonie, en Polynésie française, aux
+îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et dans les collectivités territoriales de
+Mayotte et de Saint-Pierre-et-Miquelon dont le montant peut être déduit du revenu net global des contribuables en application
+du premier alinéa du I de l'article 163 tervicies du code général des impôts s'entendent des acquisitions ou créations
+d'immobilisations corporelles amortissables, affectées aux activités relevant des secteurs mentionnés au même alinéa.
 
 **Liens relatifs à cet article**
 
@@ -4288,13 +4061,22 @@ mentionnés au même alinéa.
 
 	  - CGI 163 tervicies
 
-	**Créé par**:
-
-	  - Décret n°99-157 du 5 mars 1999 - art. 1 () JORF 6 mars 1999
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 31 août 2004
+	  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 30 mars 2007
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
+	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 1 (Ab) JORF 13 juillet 2001
+	  - Loi n°2003-660 2003-07-21 art. 61 II JORF 22 juillet 2003
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 
 ##### VIII : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile fiscal hors de France
@@ -12442,7 +12224,7 @@ prévoyant une telle rémunération ;
 c) Les comptes de l'organisme sont certifiés par un commissaire aux comptes.
 
 II. - L'adéquation de la rémunération aux sujétions imposées aux dirigeants désignés au d du 1° du 7 de l'article 261 du même
-code est réputée acquise lorsque, dans la limite du montant prévu au neuvième alinéa de cet article, les conditions suivantes
+code est réputée acquise lorsque, dans la limite du montant prévu au neuvième alinéa du d précité, les conditions suivantes
 sont satisfaites :
 
 a) La rémunération versée est la contrepartie de l'exercice effectif de son mandat par le dirigeant concerné ;
@@ -12472,7 +12254,7 @@ membre.
 
 IV. - L'organisme qui rémunère, en application du d du 1° du 7 de l'article 261 du même code, un ou plusieurs de ses
 dirigeants, doit communiquer chaque année à la direction des services fiscaux dont il dépend un document attestant du montant
-de ses ressources mentionnées au huitième alinéa du même article, constaté dans les conditions prévues à ce même alinéa et
+de ses ressources mentionnées au huitième alinéa du d précité, constaté dans les conditions prévues à ce même alinéa et
 précisant l'identité des dirigeants rémunérés.
 
 Ce document doit être déposé au plus tard dans les six mois suivant la clôture de l'exercice au titre duquel les
@@ -12484,13 +12266,17 @@ rémunérations ont été versées.
 
 	  - CGI 261
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-76 du 20 janvier 2004 - art. 1 () JORF 22 janvier 2004
+	  - Décret n°2004-1070 2004-10-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 2 () JORF 10 octobre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### Section III ter : Obligations des redevables
@@ -13688,41 +13474,6 @@ l'activité agricole non assujettie à la taxe sur la valeur ajoutée.
 	  - HISTO: Edition du 15 juin 1990
 
 
-###### Article 260 C
-
-I. Les exploitants agricoles qui :
-
-Soit possèdent plus de 200 animaux de l'espèce bovine au 31 décembre d'une année civile,
-
-Soit ont vendu au cours d'une année civile plus de 100 animaux de l'espèce bovine, sont obligatoirement soumis au régime
-simplifié prévu au I de l'article 298 bis du code général des impôts à compter du 1er janvier de l'année civile suivante.
-
-II. L'imposition obligatoire selon le régime simplifié édictée par le I porte sur une première période de trois ans.
-
-III. Les exploitants agricoles qui, à l'issue de chaque période d'imposition à la taxe sur la valeur ajoutée, ne remplissent
-aucune des conditions motivant leur assujettissement obligatoire à cette taxe, doivent en faire la déclaration au service des
-impôts dans le courant du mois de janvier de la période suivante. A défaut de cette déclaration, leur assujettissement
-obligatoire à la taxe sur la valeur ajoutée est reconduit pour une période de trois ans.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 298 bis I
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
 ##### B : Opérations imposables sur option
 
 ###### Article 260 D
@@ -13868,11 +13619,7 @@ de ces versements.
 II. La valeur des produits fournis par les agriculteurs dans les conditions prévues à l'article 267 bis du même code n'est
 pas prise en compte pour le calcul du remboursement forfaitaire.
 
-III. Pour les ventes de boissons passibles d'un droit de circulation ou de consommation faites par un exploitant agricole à
-une personne redevable de la taxe sur la valeur ajoutée lors de l'achat des boissons en vertu de l'article 257 dudit code, le
-remboursement forfaitaire est liquidé sur la valeur hors taxe des boissons soumise à la taxe sur la valeur ajoutée, déduction
-faite, le cas échéant, du droit de circulation ou du droit de consommation. Le remboursement forfaitaire est subordonné à la
-perception de la taxe sur la valeur ajoutée.
+III. (sans objet)
 
 IV. (Abrogé)
 
@@ -13882,17 +13629,23 @@ V. (Abrogé)
 
 	**Cite**:
 
-	  - CGI 257 3°
-	  - CGI 267 bis
-	  - CGIAN3 65 A
+	  - CGI 257, 267 bis
 
 	**Modifié par**:
 
-	  - Décret n°93-240 du 22 février 1993 - art. 4 () JORF 24 février 1993
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 265
@@ -16477,8 +16230,7 @@ bis, 327 et 328 du code général des impôts ;
 registres ou documents présentant les mêmes indications, prévue par le deuxième alinéa de l'article 425 du code général des
 impôts ;
 
-4. Autorisation spéciale de décharge des quantités de boissons de raisins secs imparfaites ou avariées délivrée aux
-fabricants, prévue par le sixième alinéa de l'article 140 de l'annexe III au code général des impôts ;
+4. (sans objet)
 
 5. (sans objet)
 
@@ -16568,17 +16320,17 @@ détachés prévue par le deuxième alinéa de l'article 151 de l'annexe IV au c
 	  - CGIAN4 50 C, 54-0 I, 54-0 U, 54-0 V, 54-0 Z, 54-0 AA, 128, 129, 151
 	  - Livre des procédures fiscales R198-10
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - HISTO: Edition du 31 août 2004
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2004-1070 2004-10-08
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -16625,8 +16377,7 @@ formalités et justifications visées au A de l'article 1594-0 G précité et à
 ###### Article 291
 
 Lorsque les conditions prévues à l'article 290 ne sont pas remplies, les actes ayant bénéficié de l'exonération visée audit
-article sont soumis à la taxe de publicité foncière ou aux droits d'enregistrement dans les conditions de droit commun, ainsi
-qu'au droit supplémentaire de 1 % prévu au I de l'article 1840 G ter du code général des impôts.
+article sont soumis à la taxe de publicité foncière ou aux droits d'enregistrement dans les conditions de droit commun.
 
 Toutefois, la taxe sur la valeur ajoutée qui a été perçue à l'occasion de l'opération constatée par les actes considérés est
 admise en déduction de ces impositions dans la limite de leur montant, à moins qu'elle n'ait déjà fait l'objet d'une
@@ -16636,19 +16387,23 @@ déduction à l'occasion d'une nouvelle mutation du même immeuble.
 
 	**Cite**:
 
-	  - CGI 290, 1840 G ter
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
+	  - CGI 290
 
 	**Modifié par**:
 
-	  - Loi n°98-1266 1998-12-30 art. 39 I 27, art. 90 1° Finances pour 1999 JORF 31 décembre 1998
+	  - Ordonnance 2004-281 2004-03-25 art. 10 1° JORF 27 mars 2004
 
 	**Codifié par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2004-1070 2004-10-08
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### II : Mutations de propriété à titre onéreux de meubles : Cessions de droits sociaux
@@ -17348,47 +17103,44 @@ dispositions qui précèdent.
 
 ###### Article 304
 
-I. - Conformément aux dispositions de l'article R. 223-11 du code rural, le droit de timbre prévu pour la délivrance du
-permis de chasser (original ou duplicata) est acquitté sur état au moyen de formules sans valeur fiscale revêtues de la
-mention "Droit de timbre payé sur état".
+I. - Le droit de timbre prévu au premier alinéa de l'article 964 du code général des impôts est acquitté conformément aux
+dispositions de l'article R.[* 223-11 du code de l'environnement ci-après reproduit :
 
-Il est recouvré par l'intermédiaire des régies de recettes des préfectures ou, le cas échéant, des sous-préfectures, et, à
-Paris, par la régie de recettes de la préfecture de police.
+"Art. R.*] 223-11. - Le droit de timbre prévu pour la délivrance du permis de chasser (original ou duplicata) est acquitté
+sur état au moyen de formules sans valeur fiscale revêtues de la mention "Droit de timbre payé sur état".
 
-II. - Conformément aux dispositions de l'article R. 223-13 du code rural, la validation annuelle du permis de chasser est
-demandée au comptable du Trésor territorialement compétent pour la commune où le demandeur est domicilié, réside, est
-propriétaire foncier ou possède un droit de chasser ou à celui territorialement compétent pour la commune du siège de la
-fédération départementale des chasseurs à laquelle il adhère.
+Il est recouvré par l'intermédiaire des régies de recettes des préfectures ou, le cas échéant, des sous-préfectures, et à
+Paris, par la régie de recettes de la préfecture de police."
 
-Elle est subordonnée à la présentation du document de validation du permis de chasser mentionné à l'article R. 223-12 du code
-rural ainsi qu'au paiement des taxes et redevances prévues aux articles L.  423-14 et L. 423-21-1 du code de l'environnement.
+II. - Le droit de timbre prévu au deuxième alinéa de l'article 964 du code général des impôts est acquitté conformément aux
+dispositions de l'article R.[* 223-13 du code de l'environnement ci-après reproduit :
 
-Le paiement des taxes et redevances mentionnées aux articles L. 423-14 et L. 423-21-1 du code de l'environnement est constaté
-par le comptable du Trésor par l'apposition sur le document de validation du permis de chasser des timbres justificatifs de
-ce paiement. Cette constatation vaut validation du permis de chasser.
-
-Le document de validation du permis de chasser doit être joint à ce permis, dont il est indissociable.
+"Art. R.*] 223-13. - Le paiement des droits et redevances mentionnés à l'article L. 423-12 du code de l'environnement est
+accepté par le comptable du Trésor ou le régisseur des recettes de l'Etat placé auprès de la fédération départementale ou
+interdépartementale des chasseurs, sous réserve de la présentation du document de validation du permis de chasser mentionné à
+l'article R. 223-12, dûment rempli et signé par le titulaire du permis. Il est constaté sur ce document, selon les modalités
+définies par arrêté conjoint du ministre chargé de la chasse et du ministre chargé du budget."
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - CGI 964
+	  - Code de l'environnement - art. L423-12 (M)
+	  - Code de l'environnement R223-11, R223-13, L423-12, R223-12
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 2 () JORF 8 juin 2002
+	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-855 du 5 septembre 2003 - art. 2 () JORF 7 septembre 2003
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de l'environnement - art. L423-14 (M)
-	  - Code de l'environnement - art. L423-21-1 (M)
-	  - Code rural R223-11, R223-13, R223-12
+	  - Décret n°2004-1070 2004-10-08
 
 	**Liens**:
 
-	  - SPEC_APPLI: Conséquence de l'application des articles R223-11 et R223-13 du code rural
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### Section III : Impôt sur les opérations de bourse
