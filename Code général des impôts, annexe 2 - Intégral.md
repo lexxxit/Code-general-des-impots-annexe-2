@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-02-15
+Version Consolidée au 1985-02-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -20726,6 +20726,31 @@ l'exception de toute majoration ou pénalité.
 	  - CGIAN2 380, 381
 
 
+#### VI : Participation des employeurs au développement de la formation professionnelle continue
+
+##### Fonds d'assurance-formation.
+
+###### Article 383 bis D
+
+Les dispositions de l'article 382 A sont applicables aux fonds recueillis par les organismes collecteurs en application de
+l'article 235 ter GC du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter GC
+	  - CGIAN2 382 A
+
+	**Créé par**:
+
+	  - Décret n°85-253 du 20 février 1985 - art. 4 (Ab) JORF 21 février 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+
 ### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées
 
 #### I : Taxe sur la valeur ajoutée
@@ -21581,6 +21606,35 @@ délai minimum de cinq ans après la clôture de l'exercice pour être présent�
 	**Modifié par**:
 
 	  - Décret n°84-738 1984-07-17 art. 17 JORF 29 juillet 1984 en vigueur le 1er juillet 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+
+#### TAXE D'APPRENTISSAGE.
+
+###### Article 382 A
+
+Les fonds recueillis par les organismes collecteurs en application de l'article 230 FA du code général des impôts, qui ne
+sont pas employés conformément à l'article R. 964-6 du code du travail ou affectés au financement des dépenses énumérées à
+l'article 1er du décret n° 85-253 du 20 février 1985 ainsi que les fonds ou excédents non versés dans les conditions définies
+à l'article 2 du même décret, font l'objet d'un versement d'égal montant au Trésor public. La procédure applicable est celle
+de l'article 163 quindecies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quindecies
+	  - CGI 230 FA
+	  - Décret n°85-253 du 20 février 1985 - art. 1 (M)
+	  - Décret n°85-253 du 20 février 1985 - art. 2 (M)
+	  - Code du travail - art. R964-6 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°85-253 du 20 février 1985 - art. 4 (Ab) JORF 21 février 1985
 
 	**Codifié par**:
 
