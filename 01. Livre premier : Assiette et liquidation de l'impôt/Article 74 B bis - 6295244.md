@@ -9,8 +9,8 @@ séparation de corps, du décès du contribuable ou de l'un des époux soumis à
 
 2° Survenance d'une invalidité affectant le contribuable ou l'un des époux soumis à une imposition commune ou un enfant à
 charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L.
-341-4 du code de la sécurité sociale ou ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et
-de l'aide sociale ;
+341-4 du code de la sécurité sociale ou ouvrant droit à la carte d'invalidité prévue à l'article L. 241-3 du code de l'action
+sociale et des familles ;
 
 3° Changement de résidence principale justifié par le changement du lieu d'activité professionnelle ou le rapprochement du
 contribuable ou de l'un des époux soumis à une imposition commune du lieu de cette activité ;
@@ -27,17 +27,20 @@ pension de vieillesse de leur régime de sécurité sociale.
 	**Cite**:
 
 	  - CGI 150 C
-	  - Code de la famille et de l'aide sociale. - art. 173 (M)
 	  - Code de la sécurité sociale. - art. L341-4 (V)
+	  - Code de l'action sociale et des familles - art. L241-3 (M)
 
 	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+	  - Rapport au Président de la République relatif à l' - art. 1 (V) JORF 23 décembre 2000
+	  - Rapport au Président de la République relatif à l' - art. 3 (V) JORF 23 décembre 2000
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2003-1384 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 mars 2001

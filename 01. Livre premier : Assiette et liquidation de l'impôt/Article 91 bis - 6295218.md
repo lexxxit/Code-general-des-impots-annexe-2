@@ -1,11 +1,10 @@
 # Article 91 bis
 
 I. Pour bénéficier des dispositions du I de l'article 163 bis C du code général des impôts, les titulaires d'actions acquises
-dans les conditions prévues aux articles 208-1 à 208-8-2 modifiés de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales doivent joindre à leur déclaration de revenus souscrite au titre de l'année au cours de laquelle l'option a été
-levée un état individuel délivré par la société émettrice, si elle a son siège en France, ou, dans le cas contraire, par la
-société mentionnée au deuxième alinéa du I de l'article 163 bis C. Cet état est délivré au plus tard le 15 février de l'année
-de dépôt de la déclaration et mentionne :
+dans les conditions prévues aux articles L. 225-177 à L. 225-186 du code de commerce doivent joindre à leur déclaration de
+revenus souscrite au titre de l'année au cours de laquelle l'option a été levée un état individuel délivré par la société
+émettrice, si elle a son siège en France, ou, dans le cas contraire, par la société mentionnée au deuxième alinéa du I de
+l'article 163 bis C. Cet état est délivré au plus tard le 15 février de l'année de dépôt de la déclaration et mentionne :
 
 a) La raison sociale, le lieu du principal établissement de la société désignée ci-dessus et le lieu de son siège s'il est
 différent ;
@@ -35,16 +34,16 @@ article incombent à la société dont les actions sont remises en échange et s
 
 	**Cite**:
 
-	  - CGI 163 bis C I, 80 bis II, 220 quater
-	  - Loi n°66-537 1966-07-24 art. 208-1 à 208-8-2
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - CGI 163 bis C, 80 bis, 220 quater
+	  - Code de commerce L225-177 à L225-186
 
 	**Modifié par**:
 
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 3 () JORF 13 décembre 1995
+	  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
@@ -52,4 +51,4 @@ article incombent à la société dont les actions sont remises en échange et s
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 mars 2001

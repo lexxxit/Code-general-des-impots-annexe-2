@@ -5,19 +5,19 @@ en kilogrammes.
 
 II. - Les espèces mentionnées au 3 du V de l'article 302 bis WA du code général des impôts sont les suivantes :
 
-- harengs de l'espèce Clupea harengus ;
+a. harengs de l'espèce Clupea harengus ;
 
-- sardines de l'espèce Sardina pilchardus ;
+b. sardines de l'espèce Sardina pilchardus ;
 
-- maquereaux de l'espèce Scomber scombrus ;
+c. maquereaux de l'espèce Scomber scombrus ;
 
-- maquereaux de l'espèce Scomber japonicus ;
+d. maquereaux de l'espèce Scomber japonicus ;
 
-- chinchards de l'espèce Trachurus spp ;
+e. chinchards de l'espèce Trachurus spp ;
 
-- anchois de l'espèce Engraulis spp ;
+f. anchois de l'espèce Engraulis spp ;
 
-- picarels de l'espèce Maena smaris.
+g. picarels de l'espèce Maena smaris.
 
 Pour l'application de ces dispositions, un lot s'entend de la quantité de poissons d'une ou plusieurs des espèces
 susmentionnées, déchargée du même navire, et achetée ou réceptionnée par la même personne.
@@ -45,10 +45,18 @@ de transformation ultérieures sur les produits.
 
 	  - CGI 302 bis WA, 302 bis WB
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2000-396 du 9 mai 2000 - art. 1 () JORF 12 mai 2000
+	  - Décret n°2001-435 2001-05-21
+
+	**Modifié par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 3 () JORF 23 mai 2001
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 quaterdecies-0 A (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
