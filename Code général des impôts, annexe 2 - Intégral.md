@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1976-07-01
+Version Consolidée au 1976-12-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -24,6 +24,23 @@ Version Consolidée au 1976-07-01
 	**Abrogé par**:
 
 	  - Loi n°76-660 du 19 juillet 1976 - art. 12 (V) JORF 20 JUILLET 1976 date d'entrée en vigueur 1er JUILLET 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
+
+
+##### 12 : Régime simplifié d'imposition
+
+###### Article 38 ter
+
+(Abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°76-1232 du 29 décembre 1976 - art. 62 (P) JORF 30 DECEMBRE 1976
 
 	**Liens**:
 
