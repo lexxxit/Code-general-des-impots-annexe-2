@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-01-05
+Version Consolidée au 1988-01-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1918,6 +1918,27 @@ sociétés commerciales, les sociétés sont tenues aux obligations prévues à 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 75-0 N
+
+L'obligation de dépôt des actions nominatives porte sur le certificat nominatif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 22 avril 1998
+
+	**Modifié par**:
+
+	  - Loi n°88-15 du 5 janvier 1988 - art. 36 () JORF 6 janvier 1988
 
 
 ###### Article 75-0 Q
@@ -19674,24 +19695,6 @@ années suivant celle de leur première inscription même si elles ne remplissen
 	**Modifié par**:
 
 	  - Loi n°83-1 1983-01-03 ART. 47 JORF 4 JANVIER 1983
-
-
-###### Article 75-0 N
-
-L'obligation de dépôt des actions nominatives porte sur le certificat nominatif.
-
-Les actions d'apport mentionnées à l'article 278 de la loi no 66-537 du 24 juillet 1966 sur les sociétés commerciales sont
-déposées à l'expiration de la période de deux ans prévue à cet article.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 ART. 278
 
 
 ##### CALCUL DE L'IMPOT.
