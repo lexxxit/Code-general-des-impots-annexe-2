@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-08-25
+Version Consolidée au 1982-09-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9526,6 +9526,82 @@ quatrième mois qui suit celui du changement de prix [*date limite*].
 
 #### Chapitre II : Tabacs
 
+##### 0I : Définition des tabacs manufacturés
+
+###### Article 275 C
+
+Les produits constitués partiellement de substances autres que le tabac et répondant aux autres critères de l'article 275 B
+sont considérés comme cigares ou cigarillos à condition toutefois qu'ils soient munis :
+
+D'une cape en tabac naturel ;
+
+Ou d'une cape et d'une sous-cape, toutes deux en tabac reconstitué ;
+
+Ou d'une cape en tabac reconstitué.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 275 B
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-553 du 29 juin 1982 - art. 4 (V) JORF 1er juillet 1982
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 275 F
+
+Est considéré comme tabac à mâcher le tabac présenté en rouleaux, en barres, en lanières, en cubes ou en plaques, qui est
+conditionné pour la vente au détail et spécialement préparé pour être mâché mais non fumé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-553 du 29 juin 1982 - art. 7 (V) JORF 1er juillet 1982
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 275 G
+
+Est considéré comme tabac à priser le tabac en poudre ou en grains spécialement préparé pour être prisé mais non fumé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-553 du 29 juin 1982 - art. 8 (V) JORF 1er juillet 1982
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
 ##### I : Régime économique
 
 ###### Article 282
@@ -10130,6 +10206,55 @@ II. Le montant des abattements à la base et pour charges de famille prévus aux
 
 
 ##### Section II : Taxe professionnelle
+
+##### I : Dispositions générales
+
+###### Article 310 HA
+
+Pour l'application de la taxe professionnelle et des taxes additionnelles :
+
+- le montant des recettes est calculé toutes taxes comprises ;
+
+- le nombre de salariés est calculé sur la période de référence définie à l'article 1467 A du code général des impôts, et
+pour l'ensemble de l'entreprise ; pour le calcul de ce nombre, les travailleurs à mi-temps ou saisonniers sont retenus à
+concurrence de la durée de leur travail ;
+
+- les apprentis sous contrat s'entendent des titulaires d'un contrat d'apprentissage passé dans les conditions prévues aux
+articles L 117-1 à L 117-18 du code du travail ; les handicapés physiques s'entendent des travailleurs handicapés reconnus
+par la commission départementale technique d'orientation et de reclassement professionnel mentionnée par l'article L 323-11
+du même code ; - les dispositions de l'article 1468 du code général des impôts concernent les chefs d'entreprises artisanales
+tenus de s'inscrire au répertoire des métiers ;
+
+- l'établissement s'entend de toute installation utilisée par une entreprise en un lieu déterminé, ou d'une unité de
+production intégrée dans un ensemble industriel ou commercial lorsqu'elle peut faire l'objet d'une exploitation autonome ;
+
+- les véhicules s'entendent de tous engins circulant à l'extérieur d'une installation, sur terre, dans l'air ou sur les eaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1467 A, 1468
+	  - Code du travail - art. L323-11 (M)
+	  - Code du travail L117-1 à L117-18, L323-11
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G quater (V)
+
+	**Modifié par**:
+
+	  - Décret n°73-1046 1973-11-15 art. 1, art. 4 JORF 21 novembre 1973
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
 
 ##### II : Exonérations
 
@@ -11270,6 +11395,107 @@ par le premier alinéa de cette disposition doit être pris par le titulaire des
 ### Titre VI : Taxes parafiscales
 
 #### Chapitre III : Fonds d'orientation et de régularisation des marchés agricoles - Taxe sur les produits résineux et produits dérivés.
+
+###### Article 342
+
+a. Il est institué au profit du fonds d'orientation et de régularisation des marchés agricoles une taxe parafiscale perçue
+dans les limites des taux fixés ci-dessous sur les produits résineux énumérés ci-après par référence au tarif des douanes :
+
+<table>
+  <tbody><tr>
+    <td> :===============:====================================:============:</td>
+  </tr>
+  <tr>
+    <td> :    NUMEROS    :                                    :            :</td>
+  </tr>
+  <tr>
+    <td> : du tarif des  :                                    : TAUX par   :</td>
+  </tr>
+  <tr>
+    <td> :  droits de    :  DESIGNATION DES PRODUITS          :  quintal   :</td>
+  </tr>
+  <tr>
+    <td> :   douane      :                                    :            :</td>
+  </tr>
+  <tr>
+    <td> : d'importation :                                    :     F      :</td>
+  </tr>
+  <tr>
+    <td> :---------------:------------------------------------:------------:</td>
+  </tr>
+  <tr>
+    <td> : 38-05 A et B  : Tall oil brut et autre             :   1,50     :</td>
+  </tr>
+  <tr>
+    <td> : 38-07 A       : Essence de térébenthine            :   1,50     :</td>
+  </tr>
+  <tr>
+    <td> : 38-07 B       : Essence de papeterie au sulfate,   :            :</td>
+  </tr>
+  <tr>
+    <td> :               :   dipenthène brut                  :   1,50     :</td>
+  </tr>
+  <tr>
+    <td> : 38-07 C       : Autres                             :   1,50     :</td>
+  </tr>
+  <tr>
+    <td> : 38-08 A       : Colophane (y compris les           :            :</td>
+  </tr>
+  <tr>
+    <td> :               :   produits dits brais résineux)    :   3,50     :</td>
+  </tr>
+  <tr>
+    <td> : 38-08 B       : Essence de colophane et huile de  :            :</td>
+  </tr>
+  <tr>
+    <td> :               :   colophane                        :   3,50     :</td>
+  </tr>
+  <tr>
+    <td> : 38-08 C       : Autres                             :   3,50     :</td>
+  </tr>
+  <tr>
+    <td> : Ex. 38-09 B   : Liants à base de résineux naturels :   3,50     :</td>
+  </tr>
+  <tr>
+    <td> : Ex. 39-05 B   : Gommes esters provenant d'acides   :            :</td>
+  </tr>
+  <tr>
+    <td> :               :    résiniques                      :   3,50     :</td>
+  </tr>
+  <tr>
+    <td> :=================================================================:</td>
+  </tr>
+</tbody></table>
+
+b. La taxe est due par les personnes qui fabriquent, font fabriquer ou importent en France les produits imposables.
+
+c. En ce qui concerne les produits fabriqués en France, la taxe est exigible au stade de la première vente ou, pour les
+entreprises intégrées, du transfert de ces produits aux ateliers de transformation.
+
+En ce qui concerne les produits importés, la taxe est exigible lors de la mise à la consommation.
+
+d. Le fait générateur de la taxe est la livraison, le transfert ou la mise à la consommation des produits.
+
+e. La taxe ne peut être perçue qu'une seule fois, quel que soit le nombre des transformations subies par le produit ou le
+nombre des transactions ; un arrêté du ministre de l'économie et des finances précisera, en tant que de besoin, les modalités
+d'application de cette disposition.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: CONSEQUENCE DE LA MODIFICATION DU TARIF DES DOUANES
+	  - PEREMPTION: Décret n°91-883 du 9 septembre 1991 - art. 2 () JORF 10 septembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°91-883 1991-09-09
+
 
 ###### Article 343
 
@@ -15226,73 +15452,6 @@ En cas de métayage, l'option est exercée conjointement par le métayer et par 
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 267 quater A
-
-Les éditeurs des publications périodiques désignés à l'article 298 decies-II du code général des impôts, qui n'ont pas opté
-pour l'assujettissement à la taxe sur la valeur ajoutée à raison de l'ensemble de leurs publications, ne peuvent pas déduire
-la taxe qui a grevé les achats que mentionne cette même disposition, lorsque ces achats sont effectués pour les besoins des
-titres non couverts par l'option.
-
-Cette taxe fait l'objet, pour sa totalité, du reversement prévu à l'article précité dans les conditions fixées aux articles
-267 quater B et 267 quater C.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 298 decies II
-	  - CGIAN2 267 quater B
-	  - CGIAN2 267 quater C
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 267 quater B
-
-Pour obtenir le reversement mentionné à l'article 267 quater A, les éditeurs des publications périodiques doivent souscrire
-une demande établie en triple exemplaire sur un imprimé fourni par l'administration des impôts.
-
-La demande doit concerner un reversement de taxe sur la valeur ajoutée relatif aux achats du mois ou des mois précédents au
-moins égal à 1 000 F [*montant minimum*]. Dès lors que cette condition est remplie, les demandes peuvent être présentées
-mensuellement.
-
-La condition mentionnée à l'alinéa précédent n'est pas applicable aux demandes présentées en janvier.
-
-Les demandes doivent être adressées au service des impôts dont relève l'éditeur.
-
-En même temps qu'ils adressent leurs demandes, les éditeurs doivent communiquer au service des impôts les factures d'achats
-et les documents douaniers portant mention de la taxe sur la valeur ajoutée dont le reversement est demandé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 267 quater A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 267 quater C
-
-Les sommes indûment payées au titre du reversement prévu à l'article 267 quater A sont recouvrées suivant les modalités, sous
-les garanties et sous les sanctions applicables en matière de taxes sur le chiffre d'affaires. Les réclamations sont
-présentées, instruites et jugées comme pour ces taxes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 267 quater A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ### CONTRIBUTIONS INDIRECTES
 
 #### BOISSONS - VINS ET CIDRES.
@@ -16517,40 +16676,6 @@ la date de la décision prononçant la mesure de rattachement.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 327 bis A
-
-Pour l'application de l'article 1636 A-1° du code général des impôts l'institution ou la suppression d'une exonération
-permanente est assimilée à une fermeture ou une création d'établissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1636 A 1°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 bis B
-
-Les taux moyens départementaux de taxe d'habitation et de patente mentionnés à l'article 1636 A-4° du code général des impôts
-sont obtenus en divisant les recettes procurées en 1975 par chacun de ces impôts à l'ensemble des communes du département par
-les bases d'imposition correspondantes. Ces taux moyens sont ensuite comparés aux taux appliqués au profit de la commune,
-calculés de la même manière.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1636 A 4°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ### FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE.
 
 ###### Article 327 B
@@ -17095,120 +17220,6 @@ ni concédées, ni exploitées.
 	**Nouveaux textes**:
 
 	  - CGIAN2 333 J
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 U
-
-Pour application de l'article 1636 du code général des impôts relatif à la fixation des taux des impositions, l'année 1978
-est substituée à l'année 1973 et la taxe professionnelle est substituée à la contribution des patentes dans le premier
-alinéa, et à la patente acquittée par les entreprises industrielles relevant du tableau C du tarif de cet impôt à l'exclusion
-de celles qui sont inscrites au répertoire des métiers dans le troisième alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1636
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 V
-
-Pour application du 1° de l'article 1636 A du code général des impôts relatif à la détermination de la part de la taxe
-professionnelle, l'année 1978 est substituée à l'année 1975 et la correction prévue à la deuxième phrase est faite en
-fonction de la variation de la matière imposable entre l'année d'imposition et l'année précédente.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1636 A 1°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 VA
-
-En 1981, les taux des taxes foncières, de la taxe d'habitation et de la taxe professionnelle perçues au profit des
-départements, des communes et de leurs groupements dotés d'une fiscalité propre sont fixés de façon que la répartition
-constatée en 1980 du produit de ces quatre taxes ne soit affectée que par les variations de la matière imposable. Toutefois,
-pour la taxe professionnelle, seules sont prises en compte les variations résultant des créations et fermetures
-d'établissements.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°81-263 du 18 mars 1981 - art. 3 (V) JORF 22 MARS 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 327 VB
-
-Pour l'application de l'article 1636 B septies-II du Code général des impôts relatif au plafonnement des taux communaux
-d'impositions, les années 1981, 1982, 1987 et 1991 sont substituées respectivement aux années 1980, 1981, 1986 et 1990.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1636 B septies II
-
-	**Créé par**:
-
-	  - Décret n°81-263 du 18 mars 1981 - art. 2 (V) JORF 22 MARS 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 327 W
-
-Pour l'établissement de la taxe foncière sur les propriétés bâties et de la taxe d'habitation en 1979, la valeur locative
-moyenne des locaux d'habitation de la commune est calculée en retenant les valeurs locatives des locaux d'habitation autres
-qu'exceptionnels passibles de la taxe d'habitation au titre de l'année 1979.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 X
-
-Dans le département de la Guyane, la part de la taxe foncière sur les propriétés non bâties est obtenue en 1979 en appliquant
-à l'impôt locatif établi au titre de l'année 1978 le rapport constaté en 1979 entre les bases imposables de la taxe foncière
-sur les propriétés non bâties et celles de la taxe foncière sur les propriétés bâties.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 327 Y
-
-Dans l'Ile de Saint-Barthélemy la part de chaque taxe en 1980 sera égale à la part des bases de cette taxe dans le total des
-bases des quatre taxes. Toutefois, avant d'effectuer ce calcul, les bases des quatre taxes seront rendues comparables entre
-elles en leur appliquant le rapport constaté en 1979 dans le département de la Guadeloupe entre la part de chaque taxe et ses
-bases d'imposition.
-
-**Liens relatifs à cet article**
 
 	**Liens**:
 
@@ -18559,120 +18570,6 @@ des impôts.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 342
-
-a. Il est institué au profit du fonds d'orientation et de régularisation des marchés agricoles une taxe parafiscale perçue
-dans les limites des taux fixés ci-dessous sur les produits résineux énumérés ci-après par référence au tarif des douanes :
-
-<table>
-  <tbody><tr>
-    <td> :===============:====================================:============:</td>
-  </tr>
-  <tr>
-    <td> :    NUMEROS    :                                    :            :</td>
-  </tr>
-  <tr>
-    <td> : du tarif des  :                                    : TAUX par   :</td>
-  </tr>
-  <tr>
-    <td> :  droits de    :  DESIGNATION DES PRODUITS          :  quintal   :</td>
-  </tr>
-  <tr>
-    <td> :   douane      :                                    :            :</td>
-  </tr>
-  <tr>
-    <td> : d'importation :                                    :     F      :</td>
-  </tr>
-  <tr>
-    <td> :---------------:------------------------------------:------------:</td>
-  </tr>
-  <tr>
-    <td> : 38-05 A et B  : Tall oil brut et autre             :   1,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-07 A       : Essence de térébenthine            :   1,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-07 B I     : Essence de papeterie au sulfate,   :            :</td>
-  </tr>
-  <tr>
-    <td> :               :   dipenthène brut                  :   1,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-07 B II    : Non dénommés :                     :            :</td>
-  </tr>
-  <tr>
-    <td> :               :   a. Huile de pin                  :   1,50     :</td>
-  </tr>
-  <tr>
-    <td> :               :   b. Autres                        :   1,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-08 A       : Colophane (y compris les           :            :</td>
-  </tr>
-  <tr>
-    <td> :               :   produits dits brais résineux)    :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-08 B       : Essence de résine et huiles de     :            :</td>
-  </tr>
-  <tr>
-    <td> :               :   résine                           :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> : 38-08 C       : Autres :                           :            :</td>
-  </tr>
-  <tr>
-    <td> :               :   I. Acides résiniques             :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> :               :  II. Autres (y compris les         :            :</td>
-  </tr>
-  <tr>
-    <td> :               :    dérivés des acides résiniques   :            :</td>
-  </tr>
-  <tr>
-    <td> :               :    et des colophanes)              :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> : Ex. 38-10 B   : Liants à base de résineux naturels :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> : Ex. 39-05 B   : Gommes esters provenant d'acides   :            :</td>
-  </tr>
-  <tr>
-    <td> :               :    résiniques                      :   3,50     :</td>
-  </tr>
-  <tr>
-    <td> :=================================================================:</td>
-  </tr>
-</tbody></table>
-
-b. La taxe est due par les personnes qui fabriquent, font fabriquer ou importent en France les produits imposables.
-
-c. En ce qui concerne les produits fabriqués en France, la taxe est exigible au stade de la première vente ou, pour les
-entreprises intégrées, du transfert de ces produits aux ateliers de transformation.
-
-En ce qui concerne les produits importés, la taxe est exigible lors de la mise à la consommation.
-
-d. Le fait générateur de la taxe est la livraison, le transfert ou la mise à la consommation des produits.
-
-e. La taxe ne peut être perçue qu'une seule fois, quel que soit le nombre des transformations subies par le produit ou le
-nombre des transactions ; un arrêté du ministre de l'économie et des finances précisera, en tant que de besoin, les modalités
-d'application de cette disposition.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1981-07-01
-	  - SPEC_APPLI: MODIFICATION ISSUE DE CELLE DU TARIF DES DOUANES
-
-
 ###### Article 345
 
 Il est institué jusqu'au 31 décembre 1982 [*date limite*] au profit du comité professionnel de développement de l'horlogerie
@@ -19348,16 +19245,17 @@ Par l'engagement prévu à l'article 371 X, les ordres et organisations mentionn
 faire à leurs ressortissants les recommandations suivantes :
 
 1° Tenir les documents prévus aux articles 99 et 101 bis du code général des impôts conformément à l'un des plans comptables
-professionnels agréés par le ministre de l'économie et des finances ;    2° En ce qui concerne les recettes, mentionner sur
-ces documents le détail des sommes reçues, l'identité du client, le mode de règlement et la nature des prestations fournies.
+professionnels agréés par le ministre de l'économie et des finances ;
+
+2° En ce qui concerne les recettes, mentionner sur ces documents le détail des sommes reçues, l'identité du client, le mode
+de règlement et la nature des prestations fournies.
 
 Toutefois, lorsque les dispositions de l'article 378 du code pénal relatives au secret professionnel sont applicables, la
-nature des prestations fournies n'est pas mentionnée et l'identité du client peut être remplacée par une référence à un
-document annexe permettant de retrouver cette indication et tenu par le contribuable à la disposition de l'administration des
-impôts. La nature des prestations fournies ne peut faire l'objet de demandes de renseignements de la part de l'administration
-des impôts. A l'égard des organismes tenus d'établir des relevés récapitulatifs par praticien en application de l'article L
-97 du livre des procédures fiscales, le droit de communication ne peut, en ce qui concerne la nature des prestations
-fournies, porter que sur les mentions correspondant à la nomenclature générale des actes professionnels.
+nature des prestations fournies et l'identité du client ne sont pas mentionnées. La nature des prestations fournies ne peut
+faire l'objet de demandes de renseignements de la part de l'administration des impôts. A l'égard des organismes tenus
+d'établir des relevés récapitulatifs par praticien en application de l'article L 97 du livre des procédures fiscales, le
+droit de communication ne peut, en ce qui concerne la nature des prestations fournies, porter que sur les mentions
+correspondant à la nomenclature générale des actes professionnels.
 
 3° Accepter le règlement des honoraires par chèques libellés dans tous les cas à leur ordre et ne pas endosser ces chèques,
 sauf pour remise directe à l'encaissement.
@@ -19369,6 +19267,8 @@ tant que de besoin, précisées par arrêté (1) ;
 5° Pour les membres des professions de santé, inscrire sur les feuilles de maladie ou de soins, conformément aux dispositions
 de l'article L 97 du livre des procédures fiscales et du décret n° 72-480 du 12 juin 1972, l'intégralité des honoraires
 effectivement perçus même s'ils ne peuvent que partiellement donner lieu à remboursement pour les assurés.
+
+(1) Annexe IV, art. 164 F quaterdecies à 164 F octovicies.
 
 **Liens relatifs à cet article**
 
@@ -19386,9 +19286,13 @@ effectivement perçus même s'ils ne peuvent que partiellement donner lieu à re
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F quatervicies (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Conseil d'Etat 1983-03-12 N° 11413, N° 11414, N° 11466, N° 11099, N° 11100, N° 11451 : annulation du décret 77-1520 1977-12-31 art. 2, codifié à l'article 371 Y de l'annexe II du code général des impots
+
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-881 1982-10-15
 
 
 # Livre II : Recouvrement de l'impôt
