@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-05-15
+Version Consolidée au 2004-06-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1380,9 +1380,14 @@ l'article 39 terdecies et à l'article 238 octies dudit code.
 
 ###### Article 47
 
-Tout redressement du bénéfice imposable à l'impôt sur les sociétés au titre d'une période sera pris en compte au titre de la
-même période pour le calcul des sommes distribuées.
+Toute rectification du bénéfice imposable à l'impôt sur les sociétés au titre d'une période sera prise en compte au titre de
+la même période pour le calcul des sommes distribuées.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2004-282 du 25 mars 2004 - art. 2 () JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ##### 2 : Assiette de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés à des personnes qui n'ont pas leur domicile réel ou leur siège en France
@@ -24654,7 +24659,7 @@ Les fonctions dont il s'agit sont :
 - celles exercées par les directeurs en application de l'article 408 ;
 
 - celles prévues par l'article 350 terdecies de l'annexe III au code général des impôts pour la fixation des bases
-d'imposition ou la notification des redressements ;
+d'imposition ou la proposition des rectifications ;
 
 - celles prévues par les articles R. 81-1 et R. 81-2 du livre des procédures fiscales relatifs au droit de communication.
 
@@ -24666,13 +24671,9 @@ d'imposition ou la notification des redressements ;
 	  - CGIAN3 350 terdecies
 	  - Livre des procédures fiscales R81-1, R81-2
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2004-282 du 25 mars 2004 - art. 2 () JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 	**Cité par**:
 
@@ -24680,7 +24681,7 @@ d'imposition ou la notification des redressements ;
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 410
