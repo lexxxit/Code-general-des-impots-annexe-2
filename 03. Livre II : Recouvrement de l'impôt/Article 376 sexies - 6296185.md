@@ -1,14 +1,17 @@
 # Article 376 sexies
 
-Les prélèvements mensuels sont effectués le 15 de chaque mois ou, s'il s'agit d'un dimanche, d'un jour férié ou d'un jour de
-fermeture de l'établissement dépositaire, le premier jour ouvrable suivant.
+Les prélèvements mensuels sont effectués le 15 de chaque mois.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-787 du 21 août 2003 - art. 1 () JORF 24 août 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2004-411 du 13 mai 2004 - art. 1 () JORF 15 mai 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2003
+	  - HISTO: Edition du 31 août 2004
