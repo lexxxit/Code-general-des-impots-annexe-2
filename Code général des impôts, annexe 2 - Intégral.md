@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1979-08-30
+Version Consolidée au 1979-10-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -83,6 +83,38 @@ la déclaration qui en tient lieu, à la recette des impôts où la présentatio
 	**Cite**:
 
 	  - CGI 647, 35, 244 bis
+
+
+##### 4 : Amortissement des immobilisations destinées à la recherche scientifique ou technique
+
+###### Article 16 bis
+
+Les matériels et outillage de recherche scientifique ouvrant droit à l'amortissement exceptionnel prévu par l'article 39
+quinquies A bis du code général des impôts sont les matériels et outillage de recherche utilisés dans les opérations de
+recherche scientifique ou technique définies à l'article 16.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 quinquies A bis
+	  - CGIAN2 16
+
+	**Créé par**:
+
+	  - Décret n°79-866 du 4 octobre 1979 - art. 10 (V) JORF 5 OCTOBRE 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 67 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1er JANVIER 1983
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
 
 
 ##### 5 : Provision pour investissement en faveur des entreprises de presse
@@ -393,6 +425,32 @@ l'avantage en nature accordé à celui-ci.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
+
+
+##### 8 quater : Majoration d'amortissement des immobilisations acquises ou créées au moyen de certaines primes
+
+###### Article 32 C
+
+Pour l'application de l'article 39 quinquies FA du code général des impôts, la moitié du montant de la prime est ajoutée à la
+valeur d'origine des immobilisations amortissables et répartie entre elles proportionnellement à leur valeur d'origine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°79-866 du 4 octobre 1979 - art. 9 (V) JORF 5 octobre 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 quinquies FA (V)
 
 
 ##### 11 : Passage du régime du bénéfice réel ou du régime simplifié au régime du forfait - Exercice clos en cours d'année.
