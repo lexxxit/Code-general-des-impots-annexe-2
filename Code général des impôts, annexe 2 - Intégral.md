@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-12-05
+Version Consolidée au 1984-12-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8691,6 +8691,158 @@ besoins des secteurs mentionnés aux deux alinéas précédents n'ouvrent pas dr
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Section III bis : Calcul de la taxe.
+
+###### Article 242 ter A
+
+Pour l'application de l'article 279-b sexies du code général des impôts sont considérés comme concerts [*définition*] : les
+tours de chant, les récitals ou les harmonies de voix ou d'instruments ou les deux ensemble, caractérisés par la présence
+effective d'un ou plusieurs musiciens ou chanteurs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 279 b sexies
+
+	**Créé par**:
+
+	  - Décret n°84-1090 du 7 décembre 1984 - art. 1 (V) JORF 8 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
+
+
+###### Article 242 ter B
+
+L'établissement au titre duquel l'agrément est demandé doit être titulaire d'une licence de débit de boissons et satisfaire
+aux prescriptions de l'ordonnance n° 45-2339 du 13 octobre 1945 relative aux spectacles.
+
+La demande d'agrément est établie d'après un modèle fixé par arrêté conjoint du ministre de l'économie, des finances et du
+budget et du ministre chargé de la culture. Elle comporte l'engagement de l'exploitant de donner au minimum vingt concerts
+par an dans l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-2339 1945-10-13
+
+	**Créé par**:
+
+	  - Décret n°84-1090 du 7 décembre 1984 - art. 2 (V) JORF 8 décembre 1984
+	  - Décret n°84-1090 du 7 décembre 1984 - art. 3 (V) JORF 8 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
+
+
+###### Article 242 ter C
+
+Le taux réduit [*relatif aux concerts*] s'applique aux opérations réalisées à compter de la date de notification à
+l'exploitant de la décision d'agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-1090 du 7 décembre 1984 - art. 4 (V) JORF 8 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
+
+
+###### Article 242 ter D
+
+En cas de changement d'exploitant [*d'établissement dans lequel les concerts sont soumis au taux réduit*], l'agrément peut
+être transféré au nouvel exploitant si ce dernier en fait la demande et prend l'engagement prévu à l'article 242 ter B.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242 ter B
+
+	**Créé par**:
+
+	  - Décret n°84-1090 du 7 décembre 1984 - art. 5 (V) JORF 8 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
+
+
+###### Article 242 ter E
+
+Lorsque l'agrément est demandé par un établissement [*dans lequel les concerts sont soumis au taux réduit*] qui n'a pas
+exercé, depuis une année civile au moins, l'activité définie à l'article 279-b sexies du code général des impôts, le
+pourcentage prévu au deuxième alinéa de cet article est déterminé provisoirement par l'exploitant et donne lieu à
+régularisation dès que l'établissement dispose d'éléments comptables portant sur une année civile entière.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 279 b sexies
+
+	**Créé par**:
+
+	  - Décret n°84-1090 du 7 décembre 1984 - art. 6 (V) JORF 8 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
+
+
+###### Article 242 ter F
+
+Sans préjudice de l'application de l'article 1756 du code général des impôts, le maintien de l'agrément [*des établissements
+dans lesquels les concerts sont soumis au taux réduit*] est subordonné au respect des dispositions de l'article 290 quater du
+même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1756
+	  - CGI 290 quater
+
+	**Créé par**:
+
+	  - Décret n°84-1090 du 7 décembre 1984 - art. 7 (V) JORF 8 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 27 () JORF 30 décembre 1990
 
 
 ##### Section III ter : Obligations des redevables
