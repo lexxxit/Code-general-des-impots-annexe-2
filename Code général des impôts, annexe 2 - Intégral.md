@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1990-06-15
+Version Consolidée au 1991-02-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2816,44 +2816,48 @@ modéré ou aux sociétés de crédit immobilier.
 
 ###### Article 91 bis
 
-Pour bénéficier des dispositions du I de l'article 163 bis C du code général des impôts, les titulaires d'actions acquises
-dans les conditions prévues aux articles 208-1 à 208-8-2, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales doivent joindre à la déclaration souscrite au titre des revenus de l'année au cours de laquelle l'option a été
-levée une note mentionnant :
+I. Pour bénéficier des dispositions du I de l'article 163 bis C du code général des impôts, les titulaires d'actions acquises
+dans les conditions prévues aux articles 208-1 à 208-8-2 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales
+doivent joindre à leur déclaration de revenus souscrite au titre de l'année au cours de laquelle l'option a été levée un état
+individuel délivré par la société émettrice, si elle a son siège en France, ou, dans le cas contraire, par la société
+mentionnée au deuxième alinéa du I de l'article 163 bis C. Cet état est délivré au plus tard le 15 février de l'année de
+dépôt de la déclaration et mentionne :
 
-a. La raison sociale et le siège de la société dont les actions ont été acquises ;
+a) La raison sociale, le lieu du principal établissement de la société désignée ci-dessus et le lieu de son siège s'il est
+différent ;
 
-b. Les dates d'attribution et de levée de l'option et le nombre d'actions acquises.
+b) Les dates d'attribution et de levée des options, le nombre d'actions acquises et leur prix de souscription ou
+d'acquisition.
 
-La société déclare au service des impôts dont elle dépend les conversions au porteur et transferts de propriété ou de
-garantie, totaux ou partiels, des actions acquises ; au terme de la période d'indisponibilité elle produit une attestation
-indiquant le nombre d'actions effectivement conservées par le salarié pendant cette période. En cas d'apport des actions à
-une société créée dans les conditions prévues à l'article 220 quater du code précité, les obligations définies au deuxième
-alinéa incombent à cette société et s'appliquent aux actions remises en rémunération de l'apport. L'apport n'interrompt pas
-la période d'indisponibilité.
+Lorsque les dispositions du II de l'article 80 bis du code général des impôts trouvent à s'appliquer, le document est
+complété par l'indication du montant de la différence définie à cet article.
 
-Les déclarations prévues aux deuxième et troisième alinéas sont produites au plus tard le 31 mars de l'année qui suit celle
-au cours de laquelle sont respectivement intervenus soit la conversion ou le transfert, soit l'expiration de la période
-d'indisponibilité.
+La société adresse, dans le même délai, un duplicata du document à la direction des services fiscaux du lieu de dépôt de sa
+déclaration de résultats.
 
-La table des matières de cet article a été modifiée.
+II. Lorsque les actions souscrites ou acquises sont converties au porteur ou font l'objet d'un transfert de propriété total
+ou partiel avant le terme de la période d'indisponibilité prévue au I de l'article 163 bis C du code général des impôts, la
+société mentionnée au I du présent article adresse au salarié et à la direction des services fiscaux du domicile de celui-ci,
+au plus tard le 15 février de l'année qui suit celle au cours de laquelle sont intervenues les opérations, un état individuel
+qui mentionne la date de ces opérations ainsi que les dates d'attribution et de levée de l'option, le nombre d'actions
+concernées, leur prix de souscription ou d'acquisition et leur valeur à la date de levée de l'option.
+
+III. En cas d'échange sans soulte d'actions résultant d'une opération d'offre publique, de fusion, de scission, de division
+ou de regroupement réalisée conformément à la réglementation en vigueur ou d'apport des actions à une société créée
+conformément aux dispositions de l'article 220 quater du code précité, les obligations définies aux I et II du présent
+article incombent à la société dont les actions sont remises en échange et s'appliquent à ces actions.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 163 bis C I
-	  - CGI 220 quater
-	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8-2
+	  - CGI 163 bis C I, 80 bis II, 220 quater
+	  - Loi n°66-537 1966-07-24 art. 208-1 à 208-8-2
 
 	**Modifié par**:
 
-	  - Loi n°87-416 du 17 juin 1987 - art. 19 () JORF 18 juin 1987
-	  - Loi n°89-935 1989-12-29 art. 11 Finances pour 1990 JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°91-182 du 19 février 1991 - art. 1 (V) JORF 20 février 1991
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 	**Cité par**:
 
@@ -2862,8 +2866,8 @@ La table des matières de cet article a été modifiée.
 
 ###### Article 91 ter
 
-Les cas dans lesquels il peut être exceptionnellement disposé des actions avant l'expiration du délai fixé à l'article 163
-bis C-I du code général des impôts, sans perte du bénéfice des dispositions prévues audit article, sont les suivants :
+Les cas dans lesquels il peut être exceptionnellement disposé des actions avant l'expiration du délai fixé au I de l'article
+163 bis C du code général des impôts, sans perte du bénéfice des dispositions prévues audit article, sont les suivants :
 
 - licenciement du titulaire ;
 
@@ -2874,6 +2878,9 @@ du code de la sécurité sociale ;
 
 - décès du titulaire.
 
+Dans les deux premières situations, les options doivent avoir été levées au moins trois mois avant la date de réalisation de
+l'événement invoqué.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -2883,11 +2890,11 @@ du code de la sécurité sociale ;
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 11 Finances pour 1990 JORF 30 décembre 1989
+	  - Décret n°91-182 du 19 février 1991 - art. 2 (V) JORF 20 février 1991
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°90-798 1990-09-10
+	  - HISTO: Edition du 24 juin 1991
 
 
 ##### V : Plan d'épargne populaire.
@@ -10439,14 +10446,35 @@ Les dispositions du présent article ne s'appliquent plus aux demandes de rembou
 
 ###### Article 242-0 C
 
-Les demandes de remboursement doivent être déposées au cours du mois de janvier [*date*] et porter sur un montant au moins
-égal à 1.000 F.
+I. 1. Les demandes de remboursement doivent être déposées au cours du mois de janvier et porter sur un montant au moins égal
+à 1.000 F.
 
-En outre, lorsque chacune des déclarations de chiffre d'affaires déposées au titre d'un trimestre civil fait apparaître un
-crédit de taxe déductible, une demande de remboursement peut être déposée au cours du mois suivant ce trimestre ; elle doit
-porter sur un montant au moins égal à 5.000 F.
+2. Pour les assujettis placés sous le régime simplifié d'imposition, le crédit de taxe déductible résulte des énonciations de
+leur déclaration annuelle. La demande de remboursement est déposée avec cette déclaration.
+
+Pour les assujettis qui ont exercé l'option prévue au deuxième alinéa de l'article 204 ter A, le remboursement du crédit de
+taxe déductible apparaissant le 31 décembre peut être demandé dans les conditions déterminées au 1.
+
+II. 1. Par dérogation aux dispositions du I, une demande de remboursement peut être déposée au titre de chaque trimestre
+civil lorsque chacune des déclarations de ce trimestre fait apparaître un crédit de taxe déductible. La demande de
+remboursement est déposée au cours du mois suivant le trimestre considéré. Elle doit porter sur un montant au moins égal à 5
+000 F.
+
+2. Pour les assujettis placés sous le régime simplifié d'imposition, les remboursements trimestriels ont un caractère
+provisionnel. Ils donnent lieu à régularisation annuelle.
+
+Pour les assujettis qui déposent leurs déclarations dans les conditions fixées à l'article 242 septies A, le remboursement du
+crédit de taxe déductible apparaissant le 31 décembre peut être demandé dans les conditions visées au 1 ci-dessus.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 204 ter A, 242 septies A
+
+	**Modifié par**:
+
+	  - Décret n°91-181 du 19 février 1991 - art. 2 () JORF 20 février 1991
 
 	**Cité par**:
 
@@ -10455,17 +10483,14 @@ porter sur un montant au moins égal à 5.000 F.
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 242-0 D
 
-1° Pour les assujettis placés sous le régime simplifié d'imposition, le crédit de taxe déductible résulte résultent des
-énonciations de leur déclaration annuelle. Les demandes de remboursement annuel doivent être déposées avec cette déclaration.
-Les remboursements trimestriels ont un caractère provisionnel et doivent être demandés au cours du mois suivant le trimestre
-considéré ; ils donnent lieu à régularisation annuelle.
+1 (Abrogé).
 
-2° Pour les assujettis placés sous le régime du forfait, le crédit de taxe déductible est déterminé lors de la conclusion du
+2. Pour les assujettis placés sous le régime du forfait, le crédit de taxe déductible est déterminé lors de la conclusion du
 forfait. La demande de remboursement est déposée au cours de l'année civile suivant celle au titre de laquelle le crédit de
 taxe déductible est déterminé. Il s'y ajoute, le cas échéant, le crédit résultant de la déduction complémentaire visée à
 l'article 204.
@@ -10482,11 +10507,11 @@ demande de remboursement doit être déposée avec cette déclaration.
 
 	**Modifié par**:
 
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 25 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Décret n°91-181 du 19 février 1991 - art. 3 () JORF 20 février 1991
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 242-0 E
@@ -11231,35 +11256,6 @@ que, le cas échéant, celle qui n'aurait pas encore été déposée au titre de
 
 ##### Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile - Régime optionnel.
 
-###### Article 242 septies A
-
-Les entreprises imposées selon le régime simplifié de liquidation des taxes sur le chiffre d'affaires peuvent, au cours des
-trois premiers mois d'un exercice, opter pour le dépôt, dans les trois mois qui suivent sa clôture [*délai d'option*], d'une
-déclaration conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre d'affaires dues au
-titre de cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies. 
-
-L'option est formulée par lettre recommandée avec avis de réception adressée au service local des impôts. Elle est valable
-pour l'exercice au cours duquel elle est formulée et reconduite tacitement pour chacun des exercices suivants. Elle peut être
-dénoncée par lettre recommandée avec avis de réception adressée au service local des impôts dans le délai d'un mois qui suit
-la clôture de l'exercice couvert par cette option.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242 sexies
-
-	**Modifié par**:
-
-	  - Décret n°85-109 du 28 janvier 1985 - art. 2 () JORF 29 janvier 1985
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies E (Ab)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies F (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
-
-
 ###### Article 242 septies B
 
 Les entreprises qui exercent l'option mentionnée à l'article 242 septies A souscrivent, dans les trois premiers mois du
@@ -11367,6 +11363,65 @@ souscrivent dans les trente jours [*délai*] une déclaration de régularisation
 
 
 ##### 2° : Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile. 
+
+###### Article 242 septies A
+
+1. Les entreprises soumises au régime simplifié d'imposition des taxes sur le chiffre d'affaires qui clôturent leur exercice
+au terme d'un trimestre civil ou qui ont opté pour la déclaration mensuelle prévue au 3 de l'article 287 du code général des
+impôts peuvent, au cours des trois premiers mois d'un exercice, opter pour le dépôt, dans les trois mois qui suivent sa
+clôture, d'une déclaration conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre
+d'affaires dues au titre de cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies.
+
+L'option est formulée par lettre recommandée avec avis de réception adressée au service local des impôts. Elle est valable
+pour l'exercice au cours duquel elle est formulée et reconduite tacitement pour chacun des exercices suivants. Elle peut être
+dénoncée par lettre recommandée avec avis de réception adressée au service local des impôts dans le délai d'un mois qui suit
+la clôture de l'exercice couvert par cette option.
+
+2. Sauf option pour la déclaration mensuelle exercée dans les conditions fixées au II de l'article 242 quater, les assujettis
+qui ont exercé l'option prévue au 1 déposent leurs déclarations abrégées selon la périodicité suivante :
+
+PERIODE : Avril, mai, juin
+
+DATE DE DEPOT : Juillet
+
+PERIODE : Juillet, août, septembre
+
+DATE DE DEPOT : Octobre
+
+PERIODE : Octobre, novembre
+
+DATE DE DEPOT : Décembre
+
+PERIODE : Décembre, janvier, février, mars
+
+DATE DE DEPOT : Avril.
+
+**Nota:**
+
+NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
+modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 287 3
+	  - CGIAN2 242 sexies, 242 quater II
+
+	**Modifié par**:
+
+	  - Décret n°91-181 du 19 février 1991 - art. 5 () JORF 20 février 1991
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies E (Ab)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies F (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
 
 ###### Article 242 septies D
 

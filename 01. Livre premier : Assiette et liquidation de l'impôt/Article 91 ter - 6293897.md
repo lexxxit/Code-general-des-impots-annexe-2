@@ -1,7 +1,7 @@
 # Article 91 ter
 
-Les cas dans lesquels il peut être exceptionnellement disposé des actions avant l'expiration du délai fixé à l'article 163
-bis C-I du code général des impôts, sans perte du bénéfice des dispositions prévues audit article, sont les suivants :
+Les cas dans lesquels il peut être exceptionnellement disposé des actions avant l'expiration du délai fixé au I de l'article
+163 bis C du code général des impôts, sans perte du bénéfice des dispositions prévues audit article, sont les suivants :
 
 - licenciement du titulaire ;
 
@@ -12,6 +12,9 @@ du code de la sécurité sociale ;
 
 - décès du titulaire.
 
+Dans les deux premières situations, les options doivent avoir été levées au moins trois mois avant la date de réalisation de
+l'événement invoqué.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -21,8 +24,8 @@ du code de la sécurité sociale ;
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 11 Finances pour 1990 JORF 30 décembre 1989
+	  - Décret n°91-182 du 19 février 1991 - art. 2 (V) JORF 20 février 1991
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°90-798 1990-09-10
+	  - HISTO: Edition du 24 juin 1991
