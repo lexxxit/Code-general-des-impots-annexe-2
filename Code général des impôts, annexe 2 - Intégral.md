@@ -1,34 +1,11 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1977-04-29
+Version Consolidée au 1977-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
 ## Première partie : Impôts d'Etat
 
 ### Titre premier : Impôts directs et taxes assimilées
-
-#### Chapitre premier : Impôt sur le revenu
-
-##### Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus
-
-##### I bis : Bénéfices industriels et commerciaux
-
-##### 1 : Imposition de certains profits immobiliers
-
-###### Article 2
-
-(Abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°76-660 du 19 juillet 1976 - art. 12 (V) JORF 20 JUILLET 1976 date d'entrée en vigueur 1er JUILLET 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
 
