@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1993-01-29
+Version Consolidée au 1993-02-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12005,63 +12005,6 @@ la même date.
 
 ##### C : Remboursement forfaitaire
 
-###### Article 261
-
-Le remboursement forfaitaire prévu à l'article 298 quater du code général des impôts est accordé, en ce qui concerne les
-ventes autres que celles qui portent sur les animaux vivants de boucherie et de charcuterie définis par décret (1), dans les
-conditions prévues aux articles 262 à 266, aux exploitants agricoles qui ne sont pas imposés à la taxe sur la valeur ajoutée
-d'après le régime simplifié prévu à l'article 298 bis du code général des impôts.
-
-1)  Annexe III, art. 65 A.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 298 bis
-	  - CGI 298 quater
-	  - CGIAN2 262
-	  - CGIAN2 263
-	  - CGIAN2 264
-	  - CGIAN2 265
-	  - CGIAN2 266
-	  - CGIAN3 65 A
-
-	**Abrogé par**:
-
-	  - Décret n°93-240 du 22 février 1993 - art. 4 () JORF 24 février 1993
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Modifié par**:
-
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-
-###### Article 262
-
-Le remboursement forfaitaire est accordé à l'exploitant pour les ventes ou les livraisons au titre desquelles il n'est pas
-redevable de la taxe sur la valeur ajoutée, lorsque celles-ci portent sur des produits provenant de sa propre exploitation et
-sont faites, directement ou par l'intermédiaire de commissionnaires, soit à l'exportation, soit à des entreprises redevables
-de la taxe sur la valeur ajoutée au titre de ces mêmes produits.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°93-240 du 22 février 1993 - art. 4 () JORF 24 février 1993
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Modifié par**:
-
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-
 ###### Article 263
 
 Sous réserve des dispositions de l'article 264 le remboursement forfaitaire est liquidé sur le montant net des encaissements
@@ -12076,30 +12019,25 @@ correspondant aux ventes ou aux livraisons qui ouvrent droit à ce remboursement
 
 ###### Article 264
 
-I  Lorsqu'il s'agit de produits livrés à des coopératives par leurs sociétaires, le remboursement forfaitaire est liquidé sur
+I. Lorsqu'il s'agit de produits livrés à des coopératives par leurs sociétaires, le remboursement forfaitaire est liquidé sur
 les versements faits par les coopératives aux sociétaires pour ces produits.
 
 Les intérêts statutaires perçus par les membres des coopératives en rémunération de leurs apports et la valeur des produits
-rétrocédés aux membres conformément aux dispositions de l'article 257-3° du code général des impôts sont exclus du montant de
-ces versements.
+rétrocédés aux membres conformément aux dispositions du 3° de l'article 257 du code général des impôts sont exclus du montant
+de ces versements.
 
-II  La valeur des produits fournis par les agriculteurs dans les conditions prévues à l'article 267 bis du même code n'est
+II. La valeur des produits fournis par les agriculteurs dans les conditions prévues à l'article 267 bis du même code n'est
 pas prise en compte pour le calcul du remboursement forfaitaire.
 
-III  Pour les ventes de boissons passibles d'un droit de circulation ou de consommation faites par un exploitant agricole à
+III. Pour les ventes de boissons passibles d'un droit de circulation ou de consommation faites par un exploitant agricole à
 une personne redevable de la taxe sur la valeur ajoutée lors de l'achat des boissons en vertu de l'article 257 dudit code, le
 remboursement forfaitaire est liquidé sur la valeur hors taxe des boissons soumise à la taxe sur la valeur ajoutée, déduction
 faite, le cas échéant, du droit de circulation ou du droit de consommation. Le remboursement forfaitaire est subordonné à la
 perception de la taxe sur la valeur ajoutée.
 
-IV  Pour les ventes à l'exportation, le montant des encaissements ouvrant droit au remboursement forfaitaire est au plus égal
-au prix départ des produits exportés.
+IV. (Abrogé)
 
-V  Pour les animaux exportés, autres que ceux de boucherie et de charcuterie tels qu'ils sont définis par décret (1), et dont
-le prix dépasse sensiblement la valeur courante des animaux de même espèce en raison de la race ou du pedigree, la base du
-remboursement forfaitaire est fixée au cinquième du prix de vente pratiqué.
-
-1)  Annexe III, art. 65 A.
+V. (Abrogé)
 
 **Liens relatifs à cet article**
 
@@ -12109,9 +12047,13 @@ remboursement forfaitaire est fixée au cinquième du prix de vente pratiqué.
 	  - CGI 267 bis
 	  - CGIAN3 65 A
 
+	**Modifié par**:
+
+	  - Décret n°93-240 du 22 février 1993 - art. 4 () JORF 24 février 1993
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 265
@@ -12131,7 +12073,9 @@ et du versement du solde.
 I  Pour obtenir le remboursement forfaitaire, l'exploitant agricole doit établir une déclaration annuelle des encaissements
 déterminés comme il est dit aux articles 263 et 264 et perçus au cours de l'année écoulée.
 
-Cette déclaration doit mentionner à part les ventes et livraisons à l'exportation.
+Cette déclaration doit mentionner à part les livraisons en France, les livraisons donnant lieu à expédition ou transport dans
+un autre Etat membre de la Communauté économique européenne à destination d'assujettis ou de personnes morales non
+assujetties qui réalisent des acquisitions intracommunautaires imposables dans cet Etat et les exportations.
 
 En outre, elle doit être appuyée, selon le cas :
 
@@ -12139,10 +12083,13 @@ Des attestations des clients de l'exploitant indiquant les versements faits pend
 sont conformes aux modèles indiqués par l'administration. Toutefois, cette disposition ne s'applique pas aux ventes visées à
 l'article 264-III faites à de simples consommateurs;
 
-De la copie des déclarations en douane.
+De la copie des déclarations en douane;
+
+Des doubles des factures relatives aux livraisons de produits agricoles expédiés ou transportés dans un autre Etat membre de
+la communauté.
 
 II  La déclaration prévue au I est formulée sur les imprimés établis par l'administration et adressée au service des impôts
-dont relève l'exploitant agricole intéressé pour l'application du I et des articles 261 à 265.
+dont relève l'exploitant agricole intéressé pour l'application du I et des articles 263 à 265.
 
 1)  Voir toutefois Annexe III, art. 98 bis.
 
@@ -12150,81 +12097,41 @@ dont relève l'exploitant agricole intéressé pour l'application du I et des ar
 
 	**Cite**:
 
-	  - CGIAN2 261
-	  - CGIAN2 262
-	  - CGIAN2 263
-	  - CGIAN2 264 III
-	  - CGIAN2 265
-	  - CGIAN3 98 bis
+	  - CGIAN2 263, 264, 263 à 265
+
+	**Modifié par**:
+
+	  - Décret n°93-240 du 22 février 1993 - art. 1 () JORF 24 février 1993
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 98 bis (V)
 
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 267 bis
 
-1  Le remboursement forfaitaire visé aux articles 298 quater et 298 quinquies du code général des impôts bénéficie, en ce qui
-concerne les ventes et livraisons d'animaux vivants de boucherie et de charcuterie définis par décret (1), dans les
-conditions prescrites par le présent article aux exploitants agricoles non redevables de la taxe sur la valeur ajoutée au
-titre des mêmes opérations.
+1. à 4. (Abrogés)
 
-2  Le remboursement forfaitaire bénéficie à l'exploitant pour les ventes ou livraisons lorsque celles-ci portent sur des
-animaux vivants provenant de sa propre exploitation et sont faites, directement ou par l'intermédiaire de commissionnaires :
+5. Le remboursement forfaitaire n'est pas accordé pour les ventes ou les livraisons d'animaux qui ont été importés.
 
-- soit à l'exportation;
+6. (Abrogé)
 
-- soit à une personne redevable de la taxe sur la valeur ajoutée au titre des ventes ou livraisons des mêmes animaux;
+7. Lorsque le prix de cession des animaux vivants de boucherie et de charcuterie définis à l'article 260 F excède leur valeur
+normale en poids de viande, la base du calcul du remboursement forfaitaire est déterminée par référence au prix de vente sur
+les marchés d'abattage et fixée forfaitairement chaque année par le ministre de l'économie et des finances. Dans ce cas, le
+prix mentionné sur le bulletin d'achat et l'attestation est réduit à due concurrence.
 
-- soit, en vue de l'abattage, à un redevable de la taxe sur la valeur ajoutée au titre de la vente de viandes d'animaux
-susvisés.
-
-3  Le remboursement forfaitaire bénéficie également aux exploitants agricoles qui vendent, dans les conditions fixées au 2,
-des animaux vivants à d'autres exploitants agricoles bénéficiaires du remboursement forfaitaire en vertu dudit 2.
-
-4  (Abrogé)
-
-5  Le remboursement forfaitaire n'est pas accordé pour les ventes ou les livraisons d'animaux qui ont été importés.
-
-6  Pour ouvrir droit au remboursement forfaitaire, les ventes ou les livraisons d'animaux vivants faites, en vue de
-l'abattage, à un redevable de la taxe sur la valeur ajoutée au titre de la vente de viandes d'animaux de boucherie et de
-charcuterie, doivent, lorsqu'elles sont effectuées par toute personne agissant en qualité de commissionnaire, être réglées
-par chèque ou par virement et faire l'objet de comptes rendus indiquant expressément les noms des contractants ainsi que le
-poids en viande net de l'animal vendu et abattu et le prix de vente au kilogramme correspondant.
-
-7  Lorsque le prix de cession des animaux excède leur valeur normale en poids de viande, la base du calcul du remboursement
-forfaitaire est déterminée par référence aux prix de vente sur les marchés d'abattage et fixée forfaitairement chaque année
-par le ministre de l'économie et des finances (2).
-
-Dans ce cas le prix mentionné sur le bulletin d'achat et l'attestation est réduit à due concurrence.
-
-8  Les dispositions des articles 263 à 266 sont applicables au remboursement forfaitaire défini par le présent article dans
-la mesure où elles ne lui sont pas contraires.
-
-1)  Annexe III, art. 65 A.
-
-2)  Pour 1977, arrêté du 23 juin 1978 (J.O. du 9 juillet 1978).
+8. (Abrogé).
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Arrêté 1978-06-23
-	  - CGI 298 quater
-	  - CGI 298 quinquies
-	  - CGIAN2 263
-	  - CGIAN2 264
-	  - CGIAN2 265
-	  - CGIAN2 266
-	  - CGIAN3 65 A
+	  - Décret n°93-240 du 22 février 1993 - art. 2 () JORF 24 février 1993
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 267 ter
@@ -12292,9 +12199,9 @@ les catégories d'animaux qu'il désigne, retarder la réalisation de cette opé
 
 ###### Article 267 quater
 
-I  Les personnes redevables de la taxe sur la valeur ajoutée qui effectuent des opérations d'achat, d'importation, de vente,
-de commission ou de courtage portant sur les animaux vivants de boucherie et de charcuterie définis à l'article 260 F
-doivent :
+I. Les personnes redevables de la taxe sur la valeur ajoutée qui effectuent des opérations d'achat, d'importation,
+d'acquisition intracommunautaire, de vente, de commission ou de courtage portant sur les animaux vivants de boucherie et de
+charcuterie définis à l'article 260 F doivent :
 
 N'avoir la propriété ou la garde que d'animaux ayant fait l'objet de mesures d'identification ou de marquage; il est procédé
 à ces mesures selon les modalités fixées par l'article 267 ter;
@@ -12302,25 +12209,28 @@ N'avoir la propriété ou la garde que d'animaux ayant fait l'objet de mesures d
 Tenir une comptabilité matières retraçant au jour le jour les mouvements de ces animaux; les caractéristiques de cette
 comptabilité sont fixées par l'administration;
 
-Indiquer, tant sur les factures de vente que sur les comptes rendus d'opérations de commission, la dénomination précise de
-l'animal, comportant notamment son numéro d'identification ou sa marque;
+Indiquer sur les factures de vente la dénomination précise de l'animal, comportant notamment son numéro d'identification ou
+sa marque;
 
 Faire accompagner tout transport d'animaux effectué pour leur compte ou pour le compte d'autrui d'un document dont le modèle
 est fixé par l'administration.
 
-II  Lorsque les personnes visées au I vendent des animaux à des personnes non assujetties à la taxe sur la valeur ajoutée au
+II. Lorsque les personnes visées au I vendent des animaux à des personnes non assujetties à la taxe sur la valeur ajoutée au
 titre d'activités portant sur lesdits animaux, la facture doit expressément porter mention de cette qualité des acheteurs.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 260 F
-	  - CGIAN2 267 ter
+	  - CGIAN2 260 F, 267 ter
+
+	**Modifié par**:
+
+	  - Décret n°93-240 du 22 février 1993 - art. 3 () JORF 24 février 1993
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 #### Chapitre II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité
