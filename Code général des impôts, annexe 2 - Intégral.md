@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1989-12-15
+Version Consolidée au 1990-06-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -404,42 +404,6 @@ l'avantage en nature accordé à celui-ci.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
-
-
-##### 8 ter : Amortissement exceptionnel des constructions nouvelles.
-
-###### Article 32 B
-
-Lorsqu'elles sont inscrites à l'actif d'un entreprise qui bénéficie d'une exonération temporaire de taxe professionnelle en
-application de l'article 1465 du code général des impôts, les constructions nouvelles sur lesquelles porte l'exonération
-peuvent bénéficier, sans agrément, de l'amortissement exceptionnel de 25 % prévu au I de l'article 39 quinquies D du même
-code, dans les conditions prévues au deuxième alinéa de cet article. Les immeubles en cause doivent être situés dans les
-zones définies pour l'application de l'article 39 quinquies D précité (1). La base de l'amortissement ne peut excéder un
-million de francs par emploi créé.
-
-(1) Annexe IV, art. 04.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1465
-	  - CGI 39 quinquies D I
-	  - CGIAN4 04
-
-	**Créé par**:
-
-	  - Décret n°80-921 du 21 novembre 1980 - art. 7 (V) JORF 23 NOVEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°90-798 1990-09-10
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990, péremption incorporée à la date du 15 juin 1990
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
 
 
 ##### 8 quater : Majoration d'amortissement des immobilisations acquises ou créées au moyen de certaines primes
@@ -2852,10 +2816,10 @@ modéré ou aux sociétés de crédit immobilier.
 
 ###### Article 91 bis
 
-Pour bénéficier de l'exonération prévue au I de l'article 163 bis C du code général des impôts, les titulaires d'actions
-acquises dans les conditions prévues aux articles 208-1 à 208-8, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les
-sociétés commerciales doivent joindre à la déclaration souscrite au titre des revenus de l'année au cours de laquelle
-l'option a été levée une note mentionnant :
+Pour bénéficier des dispositions du I de l'article 163 bis C du code général des impôts, les titulaires d'actions acquises
+dans les conditions prévues aux articles 208-1 à 208-8-2, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales doivent joindre à la déclaration souscrite au titre des revenus de l'année au cours de laquelle l'option a été
+levée une note mentionnant :
 
 a. La raison sociale et le siège de la société dont les actions ont été acquises ;
 
@@ -2872,8 +2836,6 @@ Les déclarations prévues aux deuxième et troisième alinéas sont produites a
 au cours de laquelle sont respectivement intervenus soit la conversion ou le transfert, soit l'expiration de la période
 d'indisponibilité.
 
-**Nota:**
-
 La table des matières de cet article a été modifiée.
 
 **Liens relatifs à cet article**
@@ -2882,11 +2844,16 @@ La table des matières de cet article a été modifiée.
 
 	  - CGI 163 bis C I
 	  - CGI 220 quater
-	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8
+	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8-2
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 19 () JORF 18 juin 1987
+	  - Loi n°89-935 1989-12-29 art. 11 Finances pour 1990 JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°90-798 1990-09-10
 
 	**Cité par**:
 
@@ -2896,7 +2863,7 @@ La table des matières de cet article a été modifiée.
 ###### Article 91 ter
 
 Les cas dans lesquels il peut être exceptionnellement disposé des actions avant l'expiration du délai fixé à l'article 163
-bis C-I du code général des impôts, sans perte du bénéfice de l'exonération prévue audit article, sont les suivants :
+bis C-I du code général des impôts, sans perte du bénéfice des dispositions prévues audit article, sont les suivants :
 
 - licenciement du titulaire ;
 
@@ -2907,10 +2874,6 @@ du code de la sécurité sociale ;
 
 - décès du titulaire.
 
-**Nota:**
-
-La table des matières de cet article a été modifiée.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -2918,9 +2881,172 @@ La table des matières de cet article a été modifiée.
 	  - CGI 163 bis C I
 	  - Code de la sécurité sociale 310
 
+	**Modifié par**:
+
+	  - Loi n°89-935 1989-12-29 art. 11 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+
+##### V : Plan d'épargne populaire.
+
+###### Article 91 quater
+
+La date d'ouverture du plan d'épargne populaire est celle du premier versement effectué sur le compte ou au titre du contrat
+d'assurance vie, ou, le cas échéant, celle du transfert des sommes figurant sur un plan d'épargne en vue de la retraite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-116 du 5 février 1990 - art. 2 (Ab) JORF 6 février 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 15 juin 1990
+
+
+###### Article 91 quater A
+
+Les produits visés au deuxième alinéa du III de l'article 109 de la loi n° 89-935 du 29 décembre 1989 sont constitués par la
+différence entre les sommes remboursées au titulaire du plan d'épargne populaire et le montant de ses versements sur le plan
+d'épargne populaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 109 (V)
+
+	**Créé par**:
+
+	  - Décret n°90-116 du 5 février 1990 - art. 5 (V) JORF 6 février 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+
+###### Article 91 quater B
+
+I. En cas de clôture du plan d'épargne populaire avant huit ans, le titulaire du plan présente, le cas échéant, à l'organisme
+gestionnaire un document qui atteste la survenance du décès de son conjoint ou de l'un des événements visés au 22° de
+l'article 157 du code général des impôts dans les deux ans qui précèdent la clôture. 
+
+L'exonération d'impôt en cas de clôture du plan avant huit ans ne s'applique qu'aux plans ouverts avant le décès du conjoint
+ou la survenance de l'un des événements mentionnés au 22° de l'article 157 du code général des impôts. 
+
+II. L'organisme auprès duquel un plan d'épargne populaire a été ouvert adresse aux services fiscaux, avant le 16 février de
+chaque année, les renseignements suivants relatifs à l'année précédente en les mentionnant sur la déclaration prévue au 1 de
+l'article 242 ter du code général des impôts : 
+
+Les nom, prénoms et adresse du titulaire ; 
+
+Les références du plan d'épargne populaire ; 
+
+La date d'ouverture du plan. 
+
+Le cas échéant, l'organisme fait également figurer distinctement le montant des produits payés non soumis à l'impôt sur le
+revenu en application du 22° de l'article 157 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-116 du 5 février 1990 - art. 6 (V) JORF 6 février 1990
+	  - Décret n°90-116 du 5 février 1990 - art. 7 (V) JORF 6 février 1990
+	  - Décret n°90-116 du 5 février 1990 - art. 8 (V) JORF 6 février 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 157 (V)
+	  - Code général des impôts, CGI. - art. 242 ter (V)
+
+
+###### Article 91 quater C
+
+Pour l'application de l'article 91 I du code général des impôts, le transfert de sommes ou contrats d'assurance d'un compte
+d'épargne-retraite sur un plan d'épargne populaire doit s'opérer selon les modalités ci-après :
+
+I. - Le transfert porte sur toutes les sommes qui figurent sur le plan d'épargne en vue de la retraite et sur la contrevaleur
+des titres ou contrats qui y sont inscrits au jour de l'opération. Il entraîne la clôture du plan d'épargne en vue de la
+retraite.
+
+Lorsque le remboursement par l'Etat des avoirs fiscaux et des crédits d'impôt visé à l'article 41 ZC de l'annexe III
+intervient postérieurement au transfert, son montant est viré par l'établissement gestionnaire du plan d'épargne en vue de la
+retraite au crédit du plan d'épargne populaire.
+
+II. - Les sommes sont transférées par virement de numéraire du plan d'épargne en vue de la retraite au plan d'épargne
+populaire. Cependant, le titulaire d'un contrat d'assurance affecté à un plan d'épargne en vue de la retraite peut choisir de
+le transférer au plan d'épargne populaire. Le capital acquis dans le cadre de ce contrat est transféré à concurrence du
+montant de la provision mathématique constituée au moyen des primes versées dans le cadre du plan d'épargne en vue de la
+retraite.
+
+III. - Le titulaire remet à l'organisme gestionnaire du plan d'épargne en vue de la retraite un certificat d'identification
+du plan d'épargne populaire sur lequel le transfert doit avoir lieu ; ce certificat est établi par l'organisme auprès duquel
+le plan d'épargne populaire est ouvert.
+
+IV. - La déclaration déposée en application de l'article 41 ZO de l'annexe III indique que le compte d'épargne en vue de la
+retraite a été transféré sur un plan d'épargne populaire et le montant du transfert.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91 I
+	  - CGIAN3 41 ZC, 41 ZO
+
+	**Créé par**:
+
+	  - Décret n°90-116 du 5 février 1990 - art. 12 (Ab) JORF 6 février 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999 en vigueur le 30 juin 2000
+
+
+###### Article 91 quater D
+
+Le transfert de sommes ou de contrats d'assurance mentionné à l'article 91 quater C est considéré comme un versement sur le
+plan d'épargne populaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91 quater C
+
+	**Créé par**:
+
+	  - Décret n°90-116 du 5 février 1990 - art. 13 (Ab) JORF 6 février 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF du 31 décembre 1999 en vigueur le 30 juin 2000
 
 
 ##### VI : Déduction des pensions alimentaires
@@ -7076,15 +7202,27 @@ est réduit, pour l'année considérée, au prorata du nombre de semaines pendan
 
 ###### Article 163 novodecies
 
-Tout redevable du prélèvement spécial de 20 % est tenu de remettre à la recette des impôts, dans le délai prévu pour le
-versement du prélèvement, une déclaration établie en double exemplaire sur un imprimé conforme au modèle fixé par le ministre
-de l'économie et des finances.
+Tout redevable du prélèvement spécial prévu par l'article 235 ter L du code général des impôts est tenu de remettre à la
+recette des impôts, dans le délai prévu pour le versement du prélèvement, une déclaration établie en double exemplaire sur un
+imprimé conforme au modèle fixé par le ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 235 ter L
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 15 juin 1990
+
+	**Modifié par**:
+
+	  - Loi n°89-935 1989-12-29 art. 8 IV VI 3 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 ###### Article 163 octodecies
@@ -7100,14 +7238,16 @@ suivant celle au titre de laquelle ce prélèvement est dû si leurs forfaits de
 
 ###### Article 163 septdecies
 
-Le prélèvement spécial de 20 % prévu par l'article 235 ter L du code général des impôts sur la fraction des bénéfices
+Le prélèvement spécial de 25 % prévu par l'article 235 ter L du code général des impôts sur la fraction des bénéfices
 industriels et commerciaux imposables à l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de
 la distribution ou de la représentation de films pornographiques ou d'incitation à la violence est liquidé par les
 entreprises qui réalisent ces bénéfices. Ces entreprises l'acquittent spontanément auprès de la recette des impôts dont elles
-relèvent.
+relèvent (1).
 
 La période d'imposition est, pour chaque redevable, celle qui est retenue pour l'établissement soit de l'impôt sur le revenu
-dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt sur les sociétés (1).
+dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt sur les sociétés.
+
+(1) Le taux de 25 % s'applique aux bénéfices des exercices ouverts à compter du 1er janvier 1990.
 
 **Liens relatifs à cet article**
 
@@ -7115,32 +7255,46 @@ dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt su
 
 	  - CGI 235 ter L
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°89-935 1989-12-29 art. 8 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 ###### Article 163 vicies
 
-Sous réserve des dispositions des articles 163 septdecies à 163 novodecies le prélèvement spécial de 20 % est établi et
-recouvré selon les modalités, ainsi que sous les sûretés, garanties et sanctions applicables en matière de taxe sur la valeur
-ajoutée [*TVA*]. Les réclamations sont présentées, instruites et jugées comme pour cet impôt.
+Sous réserve des dispositions des articles 163 septdecies à 163 novodecies le prélèvement spécial prévu par l'article 235 ter
+L du code général des impôts est établi et recouvré selon les modalités, ainsi que sous les sûretés, garanties et sanctions
+applicables en matière de taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées comme pour cet
+impôt.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 235 ter L
 	  - CGIAN2 163 novodecies
 	  - CGIAN2 163 octodecies
 	  - CGIAN2 163 septdecies
 
+	**Modifié par**:
+
+	  - Loi n°89-935 1989-12-29 art. 8 IV VI 3 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Nouveaux textes**:
 
-	  - Livre des procédures fiscales R172 B-1
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 octies (P)
 
 
 #### Chapitre VIII : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
@@ -8762,46 +8916,6 @@ leur a été accordée ainsi que l'autorité administrative dont elle émane.
 	  - PEREMPTION: Loi - art. 33 () JORF 30 décembre 1990
 
 
-##### 5 : Coopératives d'utilisation de matériel agricole et coopératives d'insémination artificielle.
-
-###### Article 201 bis
-
-L'option pour le paiement de la taxe sur la valeur ajoutée prévue à l'article 260-4° du code général des impôts peut être
-exercée par les coopératives d'utilisation de matériel agricole et les coopératives d'insémination artificielle dans les
-conditions fixées à l'article 201 ter.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 260 4°
-	  - CGIAN2 201 ter
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 201 ter
-
-Les coopératives visées à l'article 201 bis qui ont exercé l'option sont soumises au régime simplifié d'imposition prévu à
-l'article 298 bis-I du code général des impôts. Toutefois, ces dispositions ne sont pas applicables aux coopératives qui
-réalisent des opérations passibles de la taxe sur la valeur ajoutée en application des articles 256 ou 257-3° du même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 256
-	  - CGI 257 3°
-	  - CGI 298 bis I
-	  - CGIAN2 201 bis
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### 5 bis : Personnes qui ont passé un bail à construction
 
 ###### Article 201 quater A
@@ -8871,23 +8985,26 @@ Les collectivités locales, leurs groupements ou leurs établissements publics q
 des obligations qui incombent aux assujettis à la taxe sur la valeur ajoutée. Les règles relatives à l'assiette, à la
 liquidation, au paiement, au contrôle et au contentieux de cette taxe leur sont applicables.
 
-Chaque service couvert par l'option, ou ouvrant droit à option lorsqu'il est fait application du troisième alinéa de
-l'article 201 sexies, doit faire l'objet, conformément au code des communes, d'une comptabilité distincte s'inspirant du Plan
-comptable général faisant apparaître un équilibre entre :
+Chaque service couvert par l'option, doit faire l'objet, conformément au code des communes, d'une comptabilité distincte
+s'inspirant du Plan comptable général faisant apparaître un équilibre entre :
 
-- d'une part, l'ensemble des charges du service, y compris les amortissements techniques des immobilisations;
+- d'une part, l'ensemble des charges du service, y compris les amortissements techniques des immobilisations ;
 
 - d'autre part, l'ensemble des produits et recettes du service.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN2 201 sexies AL. 3
+	  - Décret n°89-885 du 14 décembre 1989 - art. 1 (V) JORF 15 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article 201 quinquies
@@ -11944,26 +12061,6 @@ restreinte restant à courir.
 	  - CGIAN2 260 I
 
 
-###### Article 260 H
-
-Lorsque les exploitants agricoles qui ont exercé l'option globale ou restreinte sont, en outre, soumis au régime simplifié à
-titre obligatoire en vertu des dispositions de l'article 298 bis-II-1° du code général des impôts, les dispositions de
-l'article 260 B ne leur sont pas applicables. Dans ce cas, l'ensemble des opérations soumises à la taxe sur la valeur ajoutée
-est considérée comme relevant d'une même entreprise.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 298 bis II 1°
-	  - CGIAN2 260 B
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 3 () JORF 11 septembre 1990 : cet article devient sans objet, péremption incorporée à la date du 15 juin 1990
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 260 I
 
 L'option globale ou restreinte fait l'objet d'une déclaration formulée par l'intéressé sur un imprimé dont le modèle est fixé
@@ -13467,9 +13564,8 @@ acquitté lors du dépôt de la déclaration.
 
 ###### Article 300
 
-Par dérogation aux dispositions des articles 265 et 266 de l'annexe III au code général des impôts, l'agrément prévu à ce
-dernier article peut être valablement sollicité, en ce qui concerne les droits et taxes visés à l'article 299, jusqu'à
-l'expiration du délai fixé à l'article 297.
+L'agrément prévu aux articles 697 et 721 du code général des impôts peut être valablement sollicité, en ce qui concerne les
+droits et taxes visés à l'article 299, jusqu'à l'expiration du délai fixé à l'article 297.
 
 En cas d'octroi de cet agrément, les droits versés en trop sont restituables.
 
@@ -13477,14 +13573,20 @@ En cas d'octroi de cet agrément, les droits versés en trop sont restituables.
 
 	**Cite**:
 
-	  - CGIAN2 297
-	  - CGIAN2 299
-	  - CGIAN3 265
-	  - CGIAN3 266
+	  - CGI 697, 721
+	  - CGIAN2 299, 297
+
+	**Modifié par**:
+
+	  - Loi n°89-936 1989-12-29 art. 20 I II III Finances rectificative pour 1989 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article 301
@@ -13705,22 +13807,29 @@ dispositions qui précèdent.
 Les récépissés, bulletins d'expédition ou autres pièces en tenant lieu, visés à l'article 935 du code général des impôts
 sont, après le transport effectué, réunis soit au siège social, soit au lieu où les écritures sont centralisées.
 
-Ils y sont conservés pendant la durée du délai prévu à l'article L. 82 du livre des procédures fiscales.
+Ils y sont conservés selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 935
-	  - CGI L82
+	  - Livre des procédures fiscales - art. L102 B (M)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGIAN1 236
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°90-798 1990-09-10
+	  - Décret n°2000-477 2000-06-02
 
 
 ###### Article 303 A
@@ -16956,45 +17065,6 @@ de matériel et de personnel résultant des recouvrements effectués pour le com
 	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 38 () JORF 28 décembre 1988
 
 
-##### Section II : Fonds pour le financement des majorations accordées aux rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.
-
-###### Article 324
-
-La contribution additionnelle prévue à l'article 1628 sexies du code général des impôts, est assise sur les primes et
-cotisations effectivement versées au titre de l'assurance des risques de responsabilité civile mentionnés à l'article 1er de
-la loi du 27 février 1958, instituant une obligation d'assurance en matière de circulation de véhicules terrestres.
-
-Son taux est fixé à 0,10 % des primes et cotisations (1).
-
-Elle est recouvrée par les entreprises d'assurances, pour le compte du fonds institué par la loi n° 74-1118 du 27 décembre
-1974, suivant les mêmes règles, sous les mêmes garanties, et les mêmes sanctions que la taxe sur les conventions d'assurance.
-Elle est reversée au fonds suivant les modalités prévues pour cette taxe.
-
-(1) Taux applicable aux primes et cotisations échues postérieurement au 31 janvier 1979.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1628 sexies
-	  - Loi n°1958-02-27 ART. 1
-	  - Loi n°74-1118 1974-12-27
-
-	**Anciens textes**:
-
-	  - CGIAN2 327-0 A
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-	  - PEREMPTION: Loi n°89-935 1989-12-29 art. 42 Finances pour 1990 JORF 30 décembre 1989
-	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 3 () JORF 11 septembre 1990
-
-
 ##### Section III : Fonds de garantie contre les actes de terrorisme.
 
 ###### Article 325
@@ -18634,8 +18704,9 @@ maximum le taux applicable (1) à chaque catégorie de produits. "
 
 ###### Article 361 bis
 
-Il est institué, pour une durée de cinq ans, une taxe parafiscale au profit des organismes interprofessionnels de vins
-mentionnés à l'article 1er du décret n° 84-663 du 17 juillet 1984.
+Il est institué pour la période de la campagne 1988-1989 non couverte par le décret n° 84-663 du 17 juillet 1984 et pour la
+campagne 1989-1990 une taxe parafiscale au profit des organismes interprofessionnels de vins mentionnés à l'article 1er du
+décret n° 89-596 du 29 août 1989.
 
 Cette taxe est destinée à couvrir les dépenses afférentes aux actions d'intérêt interprofessionnel conduites par ces
 organismes, ainsi que leurs frais de fonctionnement.
@@ -18645,37 +18716,36 @@ producteur des vins d'appellation d'origine produits dans la circonscription ter
 
 Elle est assise [*assiette*] sur le volume des vins mentionné sur le titre de mouvement.
 
-Elle est acquittée par la personne levant le titre de mouvement ;
-
-s'il s'agit d'un viticulteur, celui-ci facture le montant de la taxe à l'acheteur afin d'en obtenir le remboursement.
+Elle est acquittée par la personne levant le titre de mouvement ; s'il s'agit d'un viticulteur, celui-ci facture le montant
+de la taxe à l'acheteur afin d'en obtenir le remboursement.
 
 III. La taxe est perçue [*perception*], pour le compte de chacun des organismes, par les receveurs locaux des impôts.
 
 L'administration reverse aux organismes bénéficiaires le montant de la taxe après déduction, dans les conditions
 réglementaires, des frais d'assiette et de perception.
 
-IV. Le taux maximum de la taxe est le tiers du droit de circulation des vins de l'espèce.
+IV. Le montant maximum de la taxe est fixé à 7 F par hectolitre.
 
-Un arrêté conjoint du ministre de l'économie, des finances et du budget et du ministre de l'agriculture fixe le taux
-applicable dans la limite du taux maximum.
+Un arrêté conjoint du ministre d'Etat, ministre de l'économie, des finances et du budget, et du ministre de l'agriculture et
+de la forêt fixe le montant applicable dans la limite du montant maximum (1).
 
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+(1) Voir annexe IV art. 159 AM bis.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°84-663 du 17 juillet 1984 - art. 1 (V)
+	  - CGIAN4 159 AM bis
+	  - Décret n°84-663 1984-07-17
+	  - Décret n°89-596 du 29 août 1989 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-663 du 17 juillet 1984 - art. 1 (V) JORF 21 juillet 1984
+	  - Décret n°89-596 du 29 août 1989 - art. 1 (V) JORF 30 août 1989
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°90-798 1990-09-10
 
 
 #### Chapitre VIII : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.
@@ -18783,29 +18853,28 @@ Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture
 perçue par espèce dans les limites prévues ci-dessus (1).
 
 IV. La taxe est perçue dans les établissements d'abattage publics et privés sur les abattages opérés en vue de la vente.
-
-Elle est assise, liquidée et recouvrée par la direction générale des impôts, suivant les mêmes règles et sous les mêmes
-garanties et les mêmes sanctions que la taxe de protection sanitaire et d'organisation des marchés des viandes, prévue aux
-article 302 bis F  à 302 bis J du code général des impôts
+Elle est constatée et recouvrée comme en matière de taxe sur la valeur ajoutée, avec les garanties et sanctions applicables à
+cette taxe (2).
 
 (1) Annexe IV, art. 159 AO.
+
+(2) Pour les modalités de calcul du poids de viande net, voir Annexe III, art. 111 quater A à 111 quater I.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 302 bis F à CGI 302 bis J
+	  - CGIAN3 111 quater A à CGIAN3 111 quater I
 	  - CGIAN4 159 AO
 
 	**Modifié par**:
 
-	  - Décret n°87-1123 du 24 décembre 1987 - art. 1 (P) JORF 31 décembre 1987
-	  - Décret n°87-1123 du 24 décembre 1987 - art. 2 (P) JORF 31 décembre 1987
-	  - Décret n°87-1123 du 24 décembre 1987 - art. 3 (P) JORF 31 décembre 1987
+	  - Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988 JORF 30 décembre 1988
+	  - Loi n°89-936 du 29 décembre 1989 - art. 55 () JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°90-798 1990-09-10
 
 
 ##### Taxe parafiscale sur les vins.
@@ -19525,6 +19594,146 @@ de-vie.
 	**Codifié par**:
 
 	  - Décret n°89-801 1989-10-27
+
+
+#### Chapitre XIV : Taxe parafiscale perçue au profit d'un fonds de soutien à l'expression radiophonique.
+
+###### Article 365
+
+Il est institué, jusqu'au 30 septembre 1992, une taxe parafiscale sur la publicité diffusée par voie de radiodiffusion sonore
+et de télévision.
+
+Cette taxe est destinée à financer un fonds d'aide aux titulaires d'une autorisation de service de radiodiffusion sonore par
+voie hertzienne ne collectant pas de ressources publicitaires et ne diffusant pas de messages publicitaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-826 1987-10-09 art. 1 JORF 10 octobre 1987
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+
+###### Article 365 A
+
+La taxe est assise sur les sommes, hors commission d'agence et hors taxe sur la valeur ajoutée, payées par les annonceurs
+pour la diffusion de leurs messages publicitaires à destination du territoire français. Elle est due par les personnes qui
+assurent la régie de ces messages publicitaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-826 du 9 octobre 1987 - art. 2 (V) JORF 10 octobre 1987
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+
+###### Article 365 B
+
+Le tarif d'imposition est fixé par arrêté conjoint des ministres chargés de l'économie, des finances, du budget et de la
+communication. Il est fixé par paliers de recettes trimestrielles perçues par les régies assujetties dans les limites
+suivantes :
+
+I. - Publicité radiodiffusée
+
+De 300 000 F à 1,5 million inclus : 3.450 F De 1,5  à   3 millions inclus     : 8.620 F De   3 à   6 millions inclus     :
+18.110 F De   6 à   9 millions inclus     : 31.050 F De   9 à  15 millions inclus     : 51.750 F De  15 à  21 millions
+inclus     : 81.940 F De  21 à  30 millions inclus    : 117.300 F De  30 à  45 millions inclus    : 172.500 F De  45 à  60
+millions inclus    : 250.120 F De  60 à  90 millions inclus    : 357.070 F De  90 à 120 millions inclus    : 500.250 F De 120
+à 150 millions inclus    : 672.750 F De 150 à 180 millions inclus    : 828.000 F De 180 à 210 millions inclus    : 983.250 F
+De 210 à 240 millions inclus  : 1.138.500 F De 240 à 270 millions inclus  : 1.293.750 F De 270 à 300 millions inclus  :
+1.449.000 F De 300 à 330 millions inclus  : 1.604.250 F De 330 à 360 millions inclus  : 1.759.500 F De 360 à 390 millions
+inclus  : 1.914.750 F De 390 à 420 millions inclus  : 2.070.000 F Au-dessus de 420 millions     : 2.259.750 F
+
+II. - Publicité télévisée
+
+Jusqu'à 3 millions inclus         : 4.430 F De   3 à   6 millions inclus     : 13.140 F De   6 à  15 millions inclus     :
+31.050 F De  15 à  30 millions inclus     : 78.860 F De  30 à  60 millions inclus    : 181.370 F De  60 à 120 millions
+inclus    : 413.010 F De 120 à 180 millions inclus    : 813.210 F De 180 à 240 millions inclus  : 1.271.570 F De 240 à 300
+millions inclus  : 1.641.210 F De 300 à 360 millions inclus  : 2.030.570 F De 360 à 420 millions inclus  : 2.434.710 F De 420
+à 480 millions inclus  : 2.809.290 F De 480 à 540 millions inclus  : 3.203.570 F De 540 à 600 millions inclus  : 3.597.860 F
+De 600 à 660 millions inclus  : 3.992.140 F De 660 à 720 millions inclus  : 4.386.400 F De 720 à 780 millions inclus  :
+4.780.710 F De 780 à 840 millions inclus  : 5.175.000 F De 840 à 900 millions inclus  : 5.569.270 F
+
+Au-dessus de 900 millions     : 5.963.570 F.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-826 du 9 octobre 1987 - art. 2 (V) JORF 10 octobre 1987
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+
+###### Article 365 C
+
+La taxe est assise, liquidée et recouvrée, pour le compte du fonds de soutien à l'expression radiophonique, par la direction
+générale des impôts selon les mêmes règles, garanties et sanctions que celles qui sont prévues pour la taxe sur la valeur
+ajoutée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-826 du 9 octobre 1987 - art. 4 (V) JORF 10 octobre 1987
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+
+###### Article 365 D
+
+Les régisseurs de publicité adressent, avant le 25 du mois suivant la fin de chaque trimestre civil, la déclaration du
+montant des sommes payées par les annonceurs le trimestre précédent, le décompte des sommes dues, établi par les redevables
+sous leur responsabilité, ainsi que le montant de la taxe dont ils sont redevables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-826 du 9 octobre 1987 - art. 4 (V) JORF 10 octobre 1987
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+
+###### Article 365 E
+
+Le produit net de la taxe recouvrée par l'administration des impôts est transféré à l'Institut national de l'audiovisuel qui
+est chargé du versement des aides à leurs bénéficiaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-826 du 9 octobre 1987 - art. 6 (V) JORF 10 octobre 1987
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
@@ -20594,41 +20803,57 @@ Des centres de formalités des entreprises sont créés :
 
 1° Par les chambres de commerce et d'industrie :
 
-- pour les commerçants et les sociétés commerciales à l'exclusion de ceux qui sont assujettis à l'immatriculation au
-répertoire des métiers ;
+Pour les commerçants et les sociétés commerciales, à l'exclusion de ceux qui sont assujettis à l'immatriculation au
+répertoire des métiers ou au registre des entreprises de la batellerie artisanale ;
 
-Pour les groupements d'intérêt économique ;
+Pour les groupements d'intérêt économique et les groupements européens d'intérêt économique ;
 
 2° Par les chambres de métiers :
 
-- pour les personnes physiques et les sociétés assujetties à l'immatriculation au répertoire des métiers ;
+Pour les personnes physiques et les sociétés assujetties à l'immatriculation au répertoire des métiers, à l'exclusion de
+celles qui sont assujetties à l'immatriculation au registre des entreprises de la batellerie artisanale ;
 
-3° Par les greffes des tribunaux de commerce ou des tribunaux de grande instance statuant commercialement :
+3° Par la chambre nationale de la batellerie artisanale :
 
-- pour les sociétés civiles et autres que commerciales ainsi que pour les agents commerciaux ;
+Pour les personnes physiques et les sociétés assujetties à l'immatriculation au registre des entreprises de la batellerie
+artisanale ;
 
-4° Par l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) et des caisses
+4° Par les greffes des tribunaux de commerce ou des tribunaux de grande instance statuant commercialement :
+
+Pour les sociétés civiles et autres que commerciales ainsi que pour les agents commerciaux ;
+
+5° Par l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) et des caisses
 générales de sécurité sociale :
 
-- pour les membres des professions libérales ;
+Pour les membres des professions libérales ;
 
-- pour les employeurs dont les entreprises ne sont pas immatriculées au registre du commerce et des sociétés ou inscrites au
-répertoire des métiers ;
+Pour les employeurs dont les entreprises ne sont pas immatriculées au registre du commerce et des sociétés, au répertoire des
+métiers, ou au registre des entreprises de la batellerie artisanale ;
 
-5° Par les centres des impôts :
+6° Par les centres des impôts :
 
-- pour les assujettis à la taxe à la valeur ajoutée, à l'impôt sur le revenu au titre des bénéfices industriels et
-commerciaux ou à l'impôt sur les sociétés, dès lors que ceux-ci ne relèvent pas des dispositions précédentes.
+Pour les assujettis à la taxe à la valeur ajoutée à l'impôt sur le revenu au titre des bénéfices industriels et commerciaux
+ou à l'impôt sur les sociétés, dès lors que ceux-ci ne relèvent pas des dispositions précédentes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°84-405 1984-05-30 art. 1 JORF 31 mai 1984
+	  - Décret n°90-471 du 8 juin 1990 - art. 1 () JORF 10 juin 1990
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°90-798 1990-09-10
+	  - Décret n°97-661 1997-05-28
+
+	**Abrogé par**:
+
+	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article 371 AB
@@ -21826,45 +22051,49 @@ Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la lo
 
 ###### Article 384 C
 
-Comme il est dit à l'article R333-6 du code de l'urbanisme, le responsable du service de l'Etat dans le département, chargé
-de l'urbanisme, arrête le montant global du versement pour dépassement du plafond légal de densité et le communique avec les
-indications nécessaires à la détermination de la part revenant à chaque attributaire au directeur des services fiscaux et au
-maire. Il le communique également au pétitionnaire.
+Conformément à l'article R. 333-6 du code de l'urbanisme, modifié par l'article 118 de la loi n° 89-935 du 29 décembre 1989,
+le responsable du service de l'Etat dans le département, chargé de l'urbanisme, arrête le montant global du versement pour
+dépassement du plafond légal de densité et le communique avec les indications nécessaires à la détermination de la part
+revenant à chaque attributaire au comptable du Trésor et au maire. Il le communique également au pétitionnaire.
 
-En cas d'application de l'article R. 424-1 du code précité, le maire est substitué au responsable du service de l'Etat dans
-le département, chargé de l'urbanisme, et informe celui-ci du montant du versement dans les mêmes conditions. Il en avise
+En cas d'application de l'article R 424-1 du code précité, le maire est substitué au responsable du service de l'Etat dans le
+département, chargé de l'urbanisme, et informe celui-ci du montant du versement dans les mêmes conditions. Il en avise
 également le pétitionnaire.
 
-Le service des impôts notifie le montant du versement au redevable. Le paiement doit être effectué dans les conditions
-définies aux deuxième et troisième alinéas de l'article L. 333-2 du code de l'urbanisme.
+Le comptable du Trésor notifie le montant du versement au redevable. Le paiement doit être effectué dans les conditions
+définies aux deuxième et troisième alinéas de l'article 1723 octies du code général des impôts.
 
-Lorsque la décision de la juridiction de l'expropriation n'est plus susceptible d'appel ni de pourvoi en cassation, le
-service des impôts procède, s'il y a lieu, à la mise en recouvrement d'une somme complémentaire ou à la restitution du
-montant excédentaire. Le paiement du complément doit intervenir dans les conditions indiquées au quatrième alinéa de
-l'article 1723 octies du code général des impôts.
+Lorsque la décision de la juridiction de l'expropriation n'est plus susceptible d'appel ni de pourvoi en cassation, le préfet
+procède, s'il y a lieu, à la mise en recouvrement d'une somme complémentaire ou à un dégrèvement. Le paiement du complément
+doit intervenir dans les conditions indiquées au quatrième alinéa de l'article 1723 octies du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1723 octies
-	  - Code de l'urbanisme - art. L333-2 (M)
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990
 	  - Code de l'urbanisme - art. R333-6 (Ab)
 	  - Code de l'urbanisme R424-1
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 art. 8 2° JORF 21 JUILLET 1984
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 ###### Article 384 D
 
-Comme il est dit à l'article R 333-7 du code de l'urbanisme, en cas de modification apportée sur la demande de l'intéressé au
-permis de construire qui lui a été délivré, le versement complémentaire éventuellement exigible est notifié et recouvré dans
-les conditions prévues aux articles 384 B et 384 C.
+Comme il est dit à l'article R 333-7 du code de l'urbanisme modifié par l'article 118 de la loi n° 89-935 du 29 décembre
+1989, en cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le
+versement complémentaire éventuellement exigible est notifié et recouvré dans les conditions prévues aux articles 384 B et
+384 C.
 
 Lorsque l'autorité compétente autorise le transfert d'un permis de construire qui a rendu exigible le versement, elle doit en
-informer sans délai le directeur des services fiscaux.
+informer sans délai le préfet.
 
 **Liens relatifs à cet article**
 
@@ -21872,11 +22101,16 @@ informer sans délai le directeur des services fiscaux.
 
 	  - CGIAN2 384 B
 	  - CGIAN2 384 C
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990
 	  - Code de l'urbanisme R333-7
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 ART. 8 3° JORF 21 JUILLET 1984
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 ###### Article 384 F
@@ -21885,14 +22119,13 @@ Comme il est dit à l'article R 333-9 du code de l'urbanisme, l'intervention d'u
 statuer sur le permis de construire constatant la péremption de celui-ci entraîne de plein droit la restitution du versement.
 
 Dans les cas visés à l'article 384 E et au premier alinéa du présent article, les demandes de dégrèvement sont recevables
-jusqu'au 31 décembre de la deuxième année qui suit celle de la notification d'un avis de mise en recouvrement et celles de
-restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement.
+jusqu'au 31 décembre de la deuxième année qui suit celle de la mise en recouvrement et celles de restitution jusqu'au 31
+décembre de la deuxième année qui suit celle du versement.
 
 Les demandes de dégrèvement ou de restitution sont adressées au responsable du service de l'Etat dans le département, chargé
 de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du même code, au maire, qui fait connaître le cas échéant au
-directeur départemental des services fiscaux le montant du dégrèvement ou de la restitution à effectuer. Ce montant est
-calculé déduction faite du prélèvement pour frais d'assiette et de perception mentionné à l'article L 333-12, deuxième
-alinéa, du même code.
+préfet le montant du dégrèvement ou de la restitution à effectuer. Ce montant est calculé déduction faite du prélèvement pour
+frais d'assiette et de perception mentionné à l'article L 333-12, deuxième alinéa, du même code.
 
 La décision de dégrèvement ou de restitution est prise par le chef du service de l'Etat dans le département, chargé de
 l'urbanisme, ou en cas d'application de l'article R. 424-1 du même code, par le maire.
@@ -21902,40 +22135,51 @@ l'urbanisme, ou en cas d'application de l'article R. 424-1 du même code, par le
 	**Cite**:
 
 	  - CGIAN2 384 E
-	  - Code de l'urbanisme - art. R421-22 (M)
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 ART. 8 JORF 21 JUILLET 1984
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 #### II : Participation en cas de dépassement du coefficient d'occupation du sol.
 
 ###### Article 384 bis
 
-Comme il est dit à l'article R. 332-5 du code de l'urbanisme, le chef du service de l'Etat dans le département, chargé de
-l'urbanisme, ou, en cas d'application de l'article R. 424-1 du code précité, le maire arrête le le montant de la
-participation et le communique au directeur des services fiscaux. Il le notifie au pétitionnaire.
+Conformément à l'article R. 332-5 du code de l'urbanisme, modifié par l'article 118 de la loi n° 89-935 du 29 décembre 1989,
+le chef du service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du
+code précité, le maire arrête le montant de la participation et le communique au préfet. Il le notifie au pétitionnaire.
 
-Le service des impôts notifie le montant de la participation au redevable. Le paiement doit être effectué dans les conditions
-définies à l'article R 333-4, troisième et quatrième alinéas, du code de l'urbanisme.
+Le comptable du Trésor notifie le montant de la participation au redevable. Le paiement doit être effectué dans les
+conditions définies aux troisième et quatrième alinéas de l'article R. 333-6 du code de l'urbanisme, modifié par l'article
+118 de la loi n° 89-935 du 29 décembre 1989.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°84-669 1984-07-17 art. 6 1° JORF 21 juillet 1984
-
 	**Cite**:
 
-	  - Code de l'urbanisme R424-1
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990
+	  - Code de l'urbanisme - art. R333-6 (Ab)
+	  - Code de l'urbanisme R332-5
+
+	**Modifié par**:
+
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 ###### Article 384 quater
 
-Comme il est dit à l'article R 332-7 du code de l'urbanisme :
+Comme il est dit à l'article R 332-7 du code de l'urbanisme modifié par l'article 118 de la loi n° 89-935 du 29 décembre
+1989 :
 
-I  En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le complément
+I. En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le complément
 de participation éventuellement exigible est notifié et recouvré dans les conditions prévues aux articles 384 bis et 384 ter.
 
 Lorsque la modification du permis de construire entraîne une diminution ou la suppression de la participation ou lorsque le
@@ -21943,17 +22187,17 @@ demandeur du permis de construire renonce à la construction projetée et demand
 peut obtenir le dégrèvement de la somme correspondante, avant que la participation ait été recouvrée, ou la restitution dans
 le cas contraire.
 
-Les demandes de dégrèvement sont recevables jusqu'au 31 décembre de la deuxième année qui suit celle de la notification d'un
-avis de mise en recouvrement et celles de restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement
-[*date limite de dépôt*].
+Les demandes de dégrèvement sont recevables jusqu'au 31 décembre de la deuxième année qui suit celle de la mise en
+recouvrement et celles de restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement [*date limite de
+dépôt*].
 
 En cas de démolition de l'immeuble ou de la partie d'immeuble construite irrégulièrement, le redevable peut demander le
 dégrèvement la réduction ou la restitution de la participation correspondant à la partie démolie. Cette demande doit être
 formulée au plus tard le 31 décembre de la deuxième année qui suit la démolition dûment constatée.
 
-II  Les demandes de dégrèvement ou de restitution mentionnées ci-dessus sont adressées au chef du service de l'Etat dans le
-département, chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du code de l'urbanisme, au maire, qui fait
-connaître, le cas échéant, au directeur des services fiscaux le montant du dégrèvement ou de la restitution à effectuer.
+II. Les demandes de dégrèvement ou de restitution mentionnées au I sont adressées au chef du service de l'Etat dans le
+département chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du code de l'urbanisme, au maire qui fait
+connaître, le cas échéant, au préfet le montant du dégrèvement ou de la restitution à effectuer.
 
 **Liens relatifs à cet article**
 
@@ -21961,11 +22205,16 @@ connaître, le cas échéant, au directeur des services fiscaux le montant du d�
 
 	  - CGIAN2 384 bis
 	  - CGIAN2 384 ter
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990
 	  - Code de l'urbanisme R424-1
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 art. 6 2° JORF 21 juillet 1984
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 ###### Article 384 quinquies
@@ -22016,17 +22265,27 @@ posées à l'article L 333-15 du code de l'urbanisme.
 Les litiges relatifs au calcul de la participation sont, à l'exception de ceux qui concernent la détermination de la valeur
 visée à l'article R. 332-1 du code de l'urbanisme, de la compétence des tribunaux administratifs. Les demandes sont adressées
 au chef du service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du
-même code, au maire, qui en informe immédiatement le directeur des services fiscaux et procède à leur instruction.
+même code, au maire, qui en informe immédiatement le trésorier payeur général et procède à leur instruction.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 art. 6 3° JORF 21 JUILLET 1984
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10 Décret 2001-435 2001-05-21
 
 	**Cite**:
 
 	  - Code de l'urbanisme R424-1
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2001
+	  - PEREMPTION: Loi n°2001-1208 2001-12-13 art. 202 XXXIX JORF 14 décembre 2000
 
 
 ###### Article 384 ter
@@ -22035,23 +22294,24 @@ Conformément à l'article R332-6 du code de l'urbanisme, à défaut de paiement
 à l'article 1731 du code général des impôts sont dues par le redevable de la participation.
 
 Le recouvrement, tant de la créance du Trésor que des pénalités, est poursuivi dans les conditions fixées au titre IV du
-livre des procédures fiscales pour les impôts recouvrés par les comptables de la direction générale des impôts. Il est
-garanti suivant les modalités définies à l'article L 333-11, deuxième et troisième alinéas, du code de l'urbanisme.
+livre des procédures fiscales pour les impôts recouvrés par les comptables du Trésor. Il est garanti suivant les modalités
+définies aux deuxième et troisième alinéas de l'article L. 333-11 du code de l'urbanisme, modifié par l'article 118 de la loi
+n° 89-935 du 29 décembre 1989.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1727
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990
 	  - Code de l'urbanisme R332-6
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°90-798 1990-09-10
 
 
 ## Chapitre I bis : Pénalités

@@ -1,9 +1,9 @@
 # Article 91 bis
 
-Pour bénéficier de l'exonération prévue au I de l'article 163 bis C du code général des impôts, les titulaires d'actions
-acquises dans les conditions prévues aux articles 208-1 à 208-8, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les
-sociétés commerciales doivent joindre à la déclaration souscrite au titre des revenus de l'année au cours de laquelle
-l'option a été levée une note mentionnant :
+Pour bénéficier des dispositions du I de l'article 163 bis C du code général des impôts, les titulaires d'actions acquises
+dans les conditions prévues aux articles 208-1 à 208-8-2, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales doivent joindre à la déclaration souscrite au titre des revenus de l'année au cours de laquelle l'option a été
+levée une note mentionnant :
 
 a. La raison sociale et le siège de la société dont les actions ont été acquises ;
 
@@ -20,8 +20,6 @@ Les déclarations prévues aux deuxième et troisième alinéas sont produites a
 au cours de laquelle sont respectivement intervenus soit la conversion ou le transfert, soit l'expiration de la période
 d'indisponibilité.
 
-**Nota:**
-
 La table des matières de cet article a été modifiée.
 
 **Liens relatifs à cet article**
@@ -30,11 +28,16 @@ La table des matières de cet article a été modifiée.
 
 	  - CGI 163 bis C I
 	  - CGI 220 quater
-	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8
+	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8-2
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 19 () JORF 18 juin 1987
+	  - Loi n°89-935 1989-12-29 art. 11 Finances pour 1990 JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°90-798 1990-09-10
 
 	**Cité par**:
 

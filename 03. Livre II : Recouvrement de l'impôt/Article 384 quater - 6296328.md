@@ -1,8 +1,9 @@
 # Article 384 quater
 
-Comme il est dit à l'article R 332-7 du code de l'urbanisme :
+Comme il est dit à l'article R 332-7 du code de l'urbanisme modifié par l'article 118 de la loi n° 89-935 du 29 décembre
+1989 :
 
-I  En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le complément
+I. En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le complément
 de participation éventuellement exigible est notifié et recouvré dans les conditions prévues aux articles 384 bis et 384 ter.
 
 Lorsque la modification du permis de construire entraîne une diminution ou la suppression de la participation ou lorsque le
@@ -10,17 +11,17 @@ demandeur du permis de construire renonce à la construction projetée et demand
 peut obtenir le dégrèvement de la somme correspondante, avant que la participation ait été recouvrée, ou la restitution dans
 le cas contraire.
 
-Les demandes de dégrèvement sont recevables jusqu'au 31 décembre de la deuxième année qui suit celle de la notification d'un
-avis de mise en recouvrement et celles de restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement
-[*date limite de dépôt*].
+Les demandes de dégrèvement sont recevables jusqu'au 31 décembre de la deuxième année qui suit celle de la mise en
+recouvrement et celles de restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement [*date limite de
+dépôt*].
 
 En cas de démolition de l'immeuble ou de la partie d'immeuble construite irrégulièrement, le redevable peut demander le
 dégrèvement la réduction ou la restitution de la participation correspondant à la partie démolie. Cette demande doit être
 formulée au plus tard le 31 décembre de la deuxième année qui suit la démolition dûment constatée.
 
-II  Les demandes de dégrèvement ou de restitution mentionnées ci-dessus sont adressées au chef du service de l'Etat dans le
-département, chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du code de l'urbanisme, au maire, qui fait
-connaître, le cas échéant, au directeur des services fiscaux le montant du dégrèvement ou de la restitution à effectuer.
+II. Les demandes de dégrèvement ou de restitution mentionnées au I sont adressées au chef du service de l'Etat dans le
+département chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du code de l'urbanisme, au maire qui fait
+connaître, le cas échéant, au préfet le montant du dégrèvement ou de la restitution à effectuer.
 
 **Liens relatifs à cet article**
 
@@ -28,8 +29,13 @@ connaître, le cas échéant, au directeur des services fiscaux le montant du d�
 
 	  - CGIAN2 384 bis
 	  - CGIAN2 384 ter
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990
 	  - Code de l'urbanisme R424-1
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 art. 6 2° JORF 21 juillet 1984
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
