@@ -1,35 +1,34 @@
 # Article 163 nonies
 
-Conformément à l'article R. 950-1 du code du travail, sont considérés comme occupant au minimum dix salariés, au sens de
-l'article 235 ter D du code général des impôts, les employeurs occupant des salariés dont le nombre mensuel moyen est au
-moins égal à dix pendant l'année ou la fraction d'année où l'activité est exercée.
+Cet article reproduit les dispositions de l'article R. 950-1 du code du travail :
 
-Toutefois, ceux de ces employeurs occupant des salariés d'une manière intermittente ou travaillant à domicile ne sont soumis
-à l'obligation de participer que si le montant total des rémunérations versées pendant l'année est au moins égal à 120 fois
-le salaire mensuel minimum de croissance. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année
-considérée, au prorata du nombre de mois pendant lesquels l'activité est exercée.
+"Sont considérés comme occupant au minimum dix salariés, au sens de l'article L. 951-1, les employeurs occupant des salariés
+dont le nombre mensuel moyen est au moins égal à dix pendant l'année ou la fraction d'année où l'activité est exercée.
 
-Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail entre en compte dans l'effectif du
-personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat et la durée légale de
-travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie dans l'établissement ou la partie
-d'établissement où il est employé.
+Toutefois, ceux de ces employeurs occupant des salariés d'une manière intermittente ou travaillant à domicile, ne sont soumis
+à l'obligation de participer que si le montant total des salaires versés pendant l'année est au moins égal à 120 fois le
+salaire mensuel minimum de croissance. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année considérée,
+au prorata du nombre de mois pendant lesquels l'activité est exercée.
+
+Conformément aux dispositions de l'article R. 212-1, chaque salarié à temps partiel au sens de l'article L. 212-4-2 entre en
+compte dans l'effectif du personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat
+et la durée légale de travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie dans
+l'établissement ou la partie d'établissement où il est employé".
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 235 ter D
-	  - Code du travail - art. L212-4-2 (M)
-	  - Code du travail - art. R950-1 (M)
+	  - Décret n°2005-330 2005-04-06
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, V JORF 3 juillet 1998
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Code du travail - art. R950-1 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2005

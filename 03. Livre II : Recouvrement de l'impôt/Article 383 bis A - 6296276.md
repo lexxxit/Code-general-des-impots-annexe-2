@@ -1,23 +1,26 @@
 # Article 383 bis A
 
-Les versements au Trésor public mentionnés aux articles 235 ter G et 235 ter H bis du code général des impôts doivent être
-effectués à la recette des impôts compétente en application des dispositions de l'article 163 quaterdecies de la présente
-annexe.
+Cet article reproduit les dispositions de l'article R. 950-22 du code du travail :
+
+"Les versements mentionnés aux articles L. 951-3, premier et troisième alinéas, et L. 951-9 doivent être effectués, au moment
+du dépôt de la déclaration prévue à l'article L. 951-12, à la recette des impôts compétente en vertu des dispositions de
+l'article R. 950-21."
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 235 ter G, 235 H bis
+	  - Décret n°2005-330 2005-04-06
 
 	**Modifié par**:
 
-	  - Décret n°85-531 1985-04-03 art. 18 JORF 18 mai 1985 : code du travail art. R950-22
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1985
+	  - DISJONCTION: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail - art. R950-22

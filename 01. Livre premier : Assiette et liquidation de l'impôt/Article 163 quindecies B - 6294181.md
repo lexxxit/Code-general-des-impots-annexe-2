@@ -1,27 +1,34 @@
 # Article 163 quindecies B
 
-- La déclaration doit être déposée dans les délais prévus au deuxième et, le cas échéant, aux troisième et quatrième alinéas
-de l'article 235 ter KD du code général des impôts, à la recette des impôts du lieu :
+Cet article reproduit les dispositions de l'article R. 950-24 du code du travail :
 
-1° Du siège de la direction de l'entreprise ou, à défaut, du principal lieu d'exercice de la profession ou du lieu du
+"La déclaration doit être déposée dans les délais prévus au deuxième et, le cas échéant, aux troisième et quatrième alinéas
+de l'article L. 952-4, à la recette des impôts du lieu :
+
+a) Du siège de la direction de l'entreprise ou, à défaut, du principal lieu d'exercice de la profession ou du lieu du
 principal établissement ;
 
-2° De l'exploitation, ou du siège de la direction en cas de pluralité d'exploitations, pour les exploitants agricoles.
+b) De l'exploitation, ou du siège de la direction en cas de pluralité d'exploitations, pour les exploitants agricoles".
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 12-II-1° et V de la loi n° 2007-1787 du 20 décembre 2007.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 235 ter KD
-
-	**Créé par**:
-
-	  - Décret n°93-326 du 12 mars 1993 - art. 2 () JORF 13 mars 1993
-
 	**Codifié par**:
 
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°2005-330 2005-04-06
+
+	**Modifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail - art. R950-24

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-08-31
+Version Consolidée au 2005-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2422,37 +2422,6 @@ réalisation de la condition.
 	  - HISTO: Edition du 1er janvier 2004
 
 
-###### Article 74 SB
-
-Pour l'application de l'article 150 UB du code général des impôts, sont considérées comme sociétés à prépondérance
-immobilière les sociétés dont l'actif est, à la clôture des trois exercices qui précèdent la cession, constitué pour plus de
-50 % de sa valeur réelle par des immeubles ou des droits portant sur des immeubles, non affectés par ces sociétés à leur
-propre exploitation industrielle, commerciale, agricole ou à l'exercice d'une profession non commerciale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 UB
-
-	**Créé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 50 (V) JORF 31 décembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 1er janvier 2005
-
-
 ###### Article 74 SC
 
 I.-L'indemnité d'expropriation à retenir pour le calcul de la plus-value imposable est constituée par l'ensemble des
@@ -2739,9 +2708,8 @@ d'option visée par les services fiscaux vaut justification du paiement de la ta
 
 ###### Article 74 T
 
-Pour l'application des dispositions du I de l'article 15 bis, de l'article 15 ter, des premier et deuxième alinéas du III de
-l'article 35 bis, du premier alinéa de l'article 92 L du code général des impôts, les logements doivent répondre aux normes
-minimales suivantes :
+Pour l'application de l'article 15 ter du code général des impôts, les logements doivent répondre aux normes minimales
+suivantes :
 
 a) Avoir une surface habitable d'au moins 9 mètres carrés pour une personne seule et de 7 mètres carrés par personne
 supplémentaire ;
@@ -2767,21 +2735,22 @@ modéré.
 
 	**Cite**:
 
-	  - CGI 92 L, 15 bis, 15 ter, 35 bis
+	  - CGI 15 ter
 	  - Décret n°68-976 du 9 novembre 1968 - art. 12 (Ab)
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi - art. 16 () JORF 31 décembre 1991
+	  - Loi - art. 11 (V) JORF 29 décembre 2004
 
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°2006-356 2006-03-24
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### 2 : Etat à produire par les contribuables relevant du régime des micro-entreprises et du régime spécial déclaratif.
@@ -2865,209 +2834,6 @@ contribuable.
 
 
 ##### Section II : Revenu global
-
-###### Article 91 duodecies
-
-Pour l'application des dispositions du 2 du I de l'article 167 bis du code général des impôts, les moins-values constatées
-sur les droits sociaux à la date du transfert du domicile fiscal hors de France sont imputables sur les plus-values
-constatées à cette même date.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 167 bis
-
-	**Créé par**:
-
-	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2000
-
-	**Abrogé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
-
-
-###### Article 91 quindecies
-
-Avant le 1er mars de l'année suivant celle de la transmission, du rachat, du remboursement ou de l'annulation des titres, le
-contribuable acquitte l'impôt dû à raison de l'événement qui entraîne l'expiration partielle ou totale du sursis
-d'imposition. Il joint à l'appui de son paiement une copie de l'avis d'imposition faisant apparaître le montant des droits
-bénéficiant du sursis de paiement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
-
-	**Abrogé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 91 septdecies
-
-Le dégrèvement d'office des impositions en sursis afférentes aux titres restés dans le patrimoine du contribuable à la date
-de son retour en France ou, s'agissant de l'impôt en sursis en application du premier alinéa du 1 du II de l'article 167 bis
-du code général des impôts, à l'expiration d'un délai de cinq ans suivant la date de son départ, est subordonné au dépôt de
-la déclaration de revenus souscrite au titre de l'année au cours de laquelle le contribuable est à nouveau résident de France
-ou de l'année d'expiration du délai de cinq ans. Cette déclaration est déposée au centre des impôts des non-résidents.
-
-La levée des garanties correspondantes ne peut être prononcée qu'après le dégrèvement d'office mentionné au premier alinéa.
-
-Le contribuable peut alors prétendre au remboursement des frais de constitution de garantie qu'il a supportés dans les
-conditions prévues aux articles R. 208-3 à R. 208-6 du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 167 bis
-	  - Livre des procédures fiscales R208-3 à R208-6
-
-	**Créé par**:
-
-	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2000
-
-	**Abrogé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-
-###### Article 91 sexdecies
-
-Pour l'application du 4 du II de l'article 167 bis du code général des impôts, l'exigibilité de l'impôt en sursis de paiement
-est rétablie lorsque la situation du contribuable n'a pas été régularisée dans les trente jours de la notification d'une mise
-en demeure adressée à son représentant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 167 bis
-
-	**Créé par**:
-
-	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2000
-
-	**Abrogé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
-
-
-###### Article 91 terdecies
-
-Lorsque le contribuable demande le sursis de paiement prévu au deuxième alinéa du 1 bis de l'article 167 ou au premier alinéa
-du 1 du II de l'article 167 bis du code général des impôts, l'impôt afférent aux plus-values de cession ou d'échange de
-valeurs mobilières ou de droits sociaux imposables à raison du transfert du domicile hors de France ou afférent aux plus-
-values constatées à la date du transfert fait l'objet d'une mise en recouvrement spécifique et d'une prise en charge du rôle
-correspondant par le comptable du Trésor des non-résidents.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 167, 167 bis
-
-	**Créé par**:
-
-	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2000
-
-	**Abrogé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
-
-
-###### Article 91 undecies
-
-La déclaration provisoire prévue au 2 de l'article 167 du code général des impôts fait apparaître distinctement sur un
-formulaire spécial délivré par l'administration le montant des plus-values en report et des plus-values constatées,
-mentionnées respectivement au 1 bis du même article et à l'article 167 bis du code précité, ainsi que les éléments
-nécessaires à leur détermination.
-
-Cette déclaration spéciale indique en outre la date du transfert du domicile hors de France et l'adresse du nouveau domicile
-fiscal.
-
-Les contribuables qui entendent bénéficier du sursis de paiement prévu au II de l'article 167 bis du code général des impôts
-en font la demande sur la déclaration spéciale prévue au premier alinéa. Celle-ci comporte le nom ou la dénomination sociale
-ainsi que l'adresse du représentant fiscal désigné par le contribuable. Ce représentant s'engage, sur la même déclaration, à
-remplir les formalités et obligations qui lui incombent en vertu des dispositions du 1 du II de l'article précité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 167, 167 bis
-
-	**Créé par**:
-
-	  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
-
-	**Abrogé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 duodecies (M)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 novodecies (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 octodecies (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 septdecies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2000
-
 
 ##### 0I ter : Créateurs d'entreprises.
 
@@ -3854,12 +3620,12 @@ une rubrique spéciale le montant du gain net visé au deuxième alinéa assorti
 
 ###### Article 91 quinquies
 
-Le contribuable qui a versé le capital constitutif de la rente prévue à l'article 294 du code civil peut, sous réserve des
-dispositions du 2° du II de l'article 156 du code général des impôts, déduire annuellement de son revenu imposable une somme
-égale au montant du capital versé divisé par le nombre d'années au cours desquelles la rente doit être servie.
+Le contribuable qui a versé le capital constitutif de la rente prévue à l'article 373-2-3 du code civil peut, sous réserve
+des dispositions du 2° du II de l'article 156 du code général des impôts, déduire annuellement de son revenu imposable une
+somme égale au montant du capital versé divisé par le nombre d'années au cours desquelles la rente doit être servie. 
 
 La déduction ne peut excéder, pour chaque enfant, la limite prévue au premier alinéa du 2° du II de l'article 156 du code
-général des impôts.
+général des impôts. 
 
 Le contribuable est tenu de joindre à la déclaration des revenus de l'année au titre de laquelle il pratique pour la première
 fois la déduction mentionnée au premier alinéa une attestation délivrée par l'organisme accrédité chargé du versement de la
@@ -3877,22 +3643,18 @@ rente et comportant les indications suivantes :
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 156 II
-	  - Code civil - art. 294 (M)
+	  - Loi n°2001-1275 du 28 décembre 2001 - art. 11 (V)
 
 	**Codifié par**:
 
-	  - Décret n°82-881 1982-10-15
+	  - Décret n°2005-330 2005-04-06
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er septembre 1982
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 12 (P) JORF 31 décembre 1981 en vigueur le 1er janvier 1982
+	  - Code général des impôts, CGI. - art. 156 (V)
+	  - Code civil - art. 373-2-3 (V)
 
 
 ##### VII : Déduction des investissements réalisés outre-mer.
@@ -4077,55 +3839,6 @@ d'immobilisations corporelles amortissables, affectées aux activités relevant 
 	**Codifié par**:
 
 	  - Décret n°2007-484 2007-03-30
-
-
-##### VIII : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile fiscal hors de France
-
-###### Article 91 quaterdecies
-
-Pour l'application du troisième alinéa du 3 du II de l'article 167 bis du code général des impôts, l'impôt acquitté hors de
-France par le contribuable est comparable à l'impôt établi en France à condition d'être un impôt personnel sur le revenu
-assis sur les plus-values de cession de valeurs mobilières ou de droits sociaux et d'être calculé à partir du prix ou de la
-valeur d'acquisition des titres concernés retenu pour l'application du 2 du I de l'article 167 bis précité.
-
-L'imputation sur l'impôt sur le revenu établi en France est effectuée par voie de dégrèvement sur justification du paiement
-de l'impôt acquitté hors de France par le contribuable et des éléments relatifs à sa liquidation. Cet impôt est converti en
-euros sur la base du taux de change en vigueur à la date de paiement de cet impôt.
-
-Lorsque la cession réalisée hors de France, qui constitue le fait générateur de l'expiration du sursis de paiement prévu au
-II de l'article 167 bis du code général des impôts, est soumise à l'impôt en France en application des dispositions de
-l'article 244 bis B du code général des impôts, cette dernière imposition est établie sur la plus-value déterminée par
-différence entre le prix de cession des titres et leur valeur retenue à la date du transfert du domicile hors de France.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 167 bis, 244 bis B
-
-	**Modifié par**:
-
-	  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 novodecies (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 octodecies (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 septdecies (V)
 
 
 ##### Section III : Calcul de l'impôt
@@ -7386,39 +7099,38 @@ nouvel exploitant.
 
 ###### Article 163 nonies
 
-Conformément à l'article R. 950-1 du code du travail, sont considérés comme occupant au minimum dix salariés, au sens de
-l'article 235 ter D du code général des impôts, les employeurs occupant des salariés dont le nombre mensuel moyen est au
-moins égal à dix pendant l'année ou la fraction d'année où l'activité est exercée.
+Cet article reproduit les dispositions de l'article R. 950-1 du code du travail :
 
-Toutefois, ceux de ces employeurs occupant des salariés d'une manière intermittente ou travaillant à domicile ne sont soumis
-à l'obligation de participer que si le montant total des rémunérations versées pendant l'année est au moins égal à 120 fois
-le salaire mensuel minimum de croissance. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année
-considérée, au prorata du nombre de mois pendant lesquels l'activité est exercée.
+"Sont considérés comme occupant au minimum dix salariés, au sens de l'article L. 951-1, les employeurs occupant des salariés
+dont le nombre mensuel moyen est au moins égal à dix pendant l'année ou la fraction d'année où l'activité est exercée.
 
-Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail entre en compte dans l'effectif du
-personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat et la durée légale de
-travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie dans l'établissement ou la partie
-d'établissement où il est employé.
+Toutefois, ceux de ces employeurs occupant des salariés d'une manière intermittente ou travaillant à domicile, ne sont soumis
+à l'obligation de participer que si le montant total des salaires versés pendant l'année est au moins égal à 120 fois le
+salaire mensuel minimum de croissance. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année considérée,
+au prorata du nombre de mois pendant lesquels l'activité est exercée.
+
+Conformément aux dispositions de l'article R. 212-1, chaque salarié à temps partiel au sens de l'article L. 212-4-2 entre en
+compte dans l'effectif du personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat
+et la durée légale de travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie dans
+l'établissement ou la partie d'établissement où il est employé".
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 235 ter D
-	  - Code du travail - art. L212-4-2 (M)
-	  - Code du travail - art. R950-1 (M)
+	  - Décret n°2005-330 2005-04-06
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, V JORF 3 juillet 1998
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Code du travail - art. R950-1 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ##### II : Employeurs occupant dix salariés et plus
@@ -7427,287 +7139,294 @@ d'établissement où il est employé.
 
 ###### Article 163 undecies
 
-Dans les entreprises ou organismes où les attributions du comité d'entreprise sont dévolues à d'autres organismes, ceux-ci
-sont substitués au comité d'entreprise pour l'application des dispositions de l'article 235 ter F du code général des impôts
-et de celles de l'article R 950-4 du code du travail.
+Cet article reproduit les dispositions de l'article R. 950-18 du code du travail :
+
+"Dans les entreprises ou organismes où les attributions du comité d'entreprise sont dévolues à d'autres organismes, ceux-ci
+sont substitués au comité d'entreprise pour l'application des dispositions de l'article L. 951-8 et de celles de l'article R.
+950-4.
 
 Dans les entreprises employant au moins cinquante salariés qui ne sont pas tenues d'avoir un comité d'entreprise ou un
-organisme de la nature de ceux que mentionne le premier alinéa, il est créé une commission spéciale qui est consultée dans
-les conditions prévues à l'article 235 ter F précité.
+organisme de la nature de ceux que mentionne l'alinéa précédent, il est créé une commission spéciale qui est consultée dans
+les conditions prévues à l'article L. 951-8.
 
 Cette commission comprend autant de membres qu'il y a d'organisations syndicales ayant constitué légalement ou qui ont droit
 de constituer une section syndicale dans l'entreprise considérée. Chacune de ces organisations désigne un membre qui est
 obligatoirement choisi parmi les salariés de ladite entreprise remplissant les conditions requises pour l'éligibilité en
-qualité de membre d'un comité d'entreprise.
+qualité de membre d'un comité d'entreprise".
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 235 ter F
-	  - Code du travail - art. R950-4 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2005-330 2005-04-06
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ##### 3° : Obligations déclaratives et versement de la participation
 
 ###### Article 163 duodecies
 
-Conformément à l'article R. 950-19 du code du travail, la déclaration prévue à l'article 235 ter J du code général des impôts
-doit indiquer, outre la désignation et l'adresse du déclarant :
+Cet article reproduit les dispositions de l'article R. 950-19 du code du travail :
 
-1. Le montant des rémunérations versées telles qu'elles sont définies à l'article 235 ter D du code général des impôts ;
+"La déclaration prévue à l'article L. 951-12 doit indiquer, outre la désignation et l'adresse du déclarant :
 
-2. Le montant brut de la contribution incombant à l'employeur ;
+1° Le nombre mensuel moyen de salariés au cours de l'année ou de la période de référence, calculé selon les modalités prévues
+à l'article R. 950-1 ;
 
-3. Le montant des dépenses effectivement consenties en vertu des articles L. 951-1 et L. 951-11 du code du travail ainsi que
-le montant correspondant à la fraction de la participation instituée par l'article L. 951-1 du même code dont l'employeur lié
-par un engagement de développement de la formation est réputé s'acquitter ;
+2° Le montant des rémunérations versées aux salariés pendant l'année en cours, telles qu'elles sont définies au premier
+alinéa de l'article L. 951-1 ;
 
-4. La répartition de ces dépenses selon les catégories suivantes :
+3° Le montant brut de la contribution incombant à l'employeur et, en cas de franchissement du seuil de dix salariés, le cas
+échéant, le montant net de cette contribution, conformément aux dispositions de l'article 235 ter EA du code général des
+impôts ;
 
-a. Dépenses de fonctionnement des stages organisés dans l'entreprise, en distinguant :
+4° Le montant des dépenses exposées en application des articles L. 951-1 à L. 951-7 ;
 
-1° Les frais de personnel enseignant ;
+5° La répartition de ces dépenses selon les catégories suivantes :
 
-2° Les frais de personnel non enseignant ;
+a) Le montant total des dépenses de fonctionnement des actions de formation mises en oeuvre par l'entreprise, incluant les
+frais de personnel enseignant, les frais de personnel non enseignant et les autres frais de fonctionnement ;
 
-3° Les fournitures et matières d'oeuvre ;
+b) Le montant total des dépenses de prestations effectuées au bénéfice du personnel de l'entreprise en application de
+conventions ventilé en :
 
-4° Les autres frais de fonctionnement ;
+- total des achats d'actions de formation au sens des dispositions de l'article R. 950-4 ;
 
-b. Dépenses d'équipement en matériel définies à l'article R. 950-7 du code du travail ;
+- total des dépenses de bilans de compétences effectuées en application des dispositions de l'article R. 900-3 ;
 
-c. Dépenses de formation effectuées au bénéfice du personnel de l'entreprise, en application de conventions ;
+- total des dépenses de validation des acquis de l'expérience effectuées en application des dispositions des articles R.
+950-13-3 et R. 950-13-4 ;
 
-d. Rémunérations versées aux stagiaires par l'entreprise ;
+c) Le montant total des rémunérations versées par l'entreprise aux salariés pendant leur présence ou leur participation
+effective aux actions mentionnées à l'article L. 900-2 ;
 
-e. Versements effectués au titre de fonds d'assurance formation et versements à un organisme paritaire agréé en application
-de l'article 235 ter H bis du code général des impôts ;
+d) Le montant total des allocations de formation définies à l'article L. 932-1 et versées par l'employeur au cours de
+l'année ;
 
-f. Versements effectués dans les conditions prévues par le 4° de l'article L. 951-1 du code du travail ;
+e) Les versements effectués à des organismes collecteurs paritaires agréés par l'Etat, en application de l'article L. 933-5
+et des troisième et quatrième alinéas de l'article L. 951-1 ;
 
-g. (sans objet)
+f) Les versements effectués à des organismes collecteurs paritaires agréés par l'Etat, en application du septième alinéa de
+l'article L. 951-1 ;
 
-5. Selon le cas, l'insuffisance de contribution au titre de la période considérée, ou l'excédent reportable sur les trois
-années suivantes ou l'insuffisance de contribution versée aux organismes paritaires agréés par l'Etat au titre du congé
-individuel de formation en application de l'article 235 ter H bis du code général des impôts ;
+g) Le montant total des autres dépenses autorisées par les textes ;
 
-6. Eventuellement, le montant restant à reporter au titre des dépenses effectuées au cours de chacune des trois années
-précédentes ;
+h) Le montant total des concours publics perçus au titre de la formation professionnelle ;
 
-7. Le cas échéant, la majoration prévue au I de l'article 235 ter G du code général des impôts ;
+6° Selon le cas, l'insuffisance de contribution au titre de la période considérée ou l'excédent reportable au titre des trois
+années suivantes, ou l'insuffisance des contributions dues aux organismes paritaires agréés par l'Etat ;
 
-8. Le montant total du versement à effectuer à la caisse du comptable des impôts ;
+7° Eventuellement, le montant restant à reporter au titre des dépenses effectuées au cours des trois années précédentes ;
 
-9. Le nombre de salariés de l'entreprise ;
+8° Le montant de la contribution due au titre des périodes et contrats de professionnalisation ainsi que du droit individuel
+à la formation d'une part, et au titre du congé individuel de formation d'autre part, ainsi que le montant de l'utilisation
+de chacune de ces contributions ;
 
-10. Le nombre de stagiaires ayant bénéficié d'une formation au cours de l'année, financée en tout ou partie au moyen de la
-participation de l'employeur, ainsi que le nombre d'heures de formation reçues par eux, selon qu'elles ont ou non donné lieu
-au maintien d'une rémunération ;
+9° Les données relatives à l'assiette des rémunérations servies aux salariés sous contrat à durée déterminée, le montant de
+l'obligation de financement de leur formation prévue à l'article L. 931-20 et le montant des sommes utilisées à ce titre ;
 
-11. La répartition de ces stagiaires :
+10° Le cas échéant, la majoration prévue à l'article L. 951-9 ;
 
-a. Par sexe ;
+11° Le montant total du versement à effectuer au Trésor ;
 
-b. Par catégorie d'emploi ;
+12° Le nombre de salariés de l'entreprise répartis par catégorie d'emploi et par sexe au 31 décembre de l'année considérée ;
 
-c. Par âge ;
+13° Par sexe et par catégorie d'emploi, le nombre de salariés ayant bénéficié d'une formation, le nombre d'heures de
+formation suivies, le nombre de salariés ayant bénéficié d'une formation au titre du droit individuel à la formation, le
+nombre d'heures de formation consommées à ce titre au cours de l'année ou de la période de référence et le nombre d'heures
+ouvertes au titre de ce même droit au 31 décembre ;
 
-d. Par type d'action au sens de l'article L. 900-2 du code du travail ;
+14° Au cours de l'année ou de la période de référence, le nombre de bilans de compétences ou d'actions de validation des
+acquis de l'expérience pris en charge en totalité par l'employeur ; le nombre de salariés ayant bénéficié d'une période de
+professionnalisation ; le nombre de salariés ayant bénéficié d'une allocation de formation ; le nombre d'heures correspondant
+aux actions financées dans le cadre des périodes de professionnalisation et le nombre d'heures rémunérées au titre d'une
+allocation de formation.
 
-12. Le nombre de jeunes travailleurs au sens de l'article L. 931-28 du code du travail qui ont bénéficié d'une formation au
-cours de l'année.
+Cette déclaration doit être rédigée, en double exemplaire, sur un imprimé fourni par l'administration".
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 235 ter J, 235 ter D, 235 ter H bis, 235 ter G
-	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L931-28 (M)
-	  - Code du travail - art. L951-1 (M)
-	  - Code du travail - art. L951-11 (M)
+	  - CGI 235 ter EA
 	  - Code du travail - art. R950-19 (M)
-	  - Code du travail - art. R950-7 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
 
 	**Codifié par**:
 
-	  - Décret n°2004-304 2004-03-26
+	  - Décret n°2005-330 2005-04-06
+
+	**Modifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 163 quaterdecies
 
-La déclaration doit être déposée, dans le délai prévu au II de l'article 235 ter J du code général des impôts, à la recette
-des impôts du lieu :
+Cet article reproduit les dispositions de l'article R. 950-21 du code du travail :
+
+"La déclaration doit être déposée, dans le délai prévu à l'article L. 951-12 (II), à la recette des impôts du lieu :
 
 De souscription de la déclaration des résultats pour les sociétés, les entreprises industrielles, commerciales ou artisanales
-ainsi que pour les employeurs exerçant une activité non commerciale;
+ainsi que pour les employeurs exerçant une activité non commerciale ;
 
-De l'exploitation ou du siège de la direction, en cas de pluralité d'exploitations, pour les exploitants agricoles;
+De l'exploitation ou du siège de la direction, en cas de pluralité d'exploitations, pour les exploitants agricoles ;
 
-Du domicile ou du siège social pour les autres employeurs.
+Du domicile ou du siège social pour les autres employeurs."
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 235 ter J II
-
 	**Codifié par**:
 
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°2005-330 2005-04-06
+
+	**Modifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
+
+	**Cite**:
+
+	  - Code du travail - art. R950-21 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 163 terdecies
 
-Doivent être joints à la déclaration :
+Cet article reproduit les dispositions de l'article R. 950-20 du code du travail :
 
-1° Un état, en double exemplaire, présenté selon le modèle établi par l'administration et comprenant :
+"Doivent être fournis, sur demande des services du ministre chargé de la formation professionnelle, les renseignements et
+documents suivants :
 
 La liste des conventions passées par l'employeur avec des organismes de formation ainsi que les effectifs concernés et le
-montant des versements effectués en application de ces conventions et retenus au titre de la participation;
+montant des versements effectués en application de ces conventions et retenus au titre de la participation ;
 
-La liste des organismes agréés dans les conditions prévues au 4° de l'article L.951-1 du code du travail ayant reçu des
-versements de l'employeur ainsi que le montant de chacun des versements;
+La liste des conventions mentionnées à l'article R. 900-3 passées par l'employeur avec des organismes réalisant des bilans de
+compétences au bénéfice du personnel de l'entreprise ainsi que les effectifs concernés et le montant des dépenses imputées
+sur l'obligation de participer ;
+
+La liste des conventions mentionnées à l'article R. 950-13-3 passées par l'employeur avec des organismes intervenant à la
+validation des acquis de l'expérience au bénéfice du personnel de l'entreprise ainsi que les effectifs concernés et le
+montant des dépenses imputées sur l'obligation de participer ;
 
 La liste et le montant des subventions reçues de l'Etat ou de la région, dans l'année, par l'employeur au titre de la
-formation professionnelle ainsi que l'indication du ou, le cas échéant, des organismes agréés ayant reçu des versements de
-l'employeur en application de l'article 235 ter H bis du code général des impôts.
+formation professionnelle ;
 
-2° Le procès-verbal de la délibération du comité d'entreprise prévue à l'article 235 ter F du code général des impôts ou, à
-défaut, le procès-verbal de carence prévu à l'article L 433-13 du code du travail ou le procès-verbal de la délibération de
-l'un des organismes prévus à l'article 163 undecies.
+L'indication du ou, le cas échéant, des organismes agréés ayant reçu des versements de l'employeur en application des
+troisième, quatrième et septième alinéas de l'article L. 951-1 ;
 
-3° Eventuellement les références de l'engagement de développement prévu à l'article L. 951-5 du code du travail.
+Eventuellement les références de l'engagement de développement prévu à l'article L. 951-5".
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 235 ter H bis, 235 ter F
-	  - CGIAN2 163 undecies
-	  - Code du travail - art. L433-13 (M)
-	  - Code du travail - art. L951-1 (M)
-	  - Code du travail - art. L951-5 (M)
+	  - Décret n°2005-330 2005-04-06
 
 	**Modifié par**:
 
-	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27 Décret 96-556 1996-06-21
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ##### III : Employeurs occupant moins de dix salariés
 
 ###### Article 163 quindecies A
 
-Conformément à l'article R. 950-23 du code du travail, la déclaration prévue à l'article 235 ter KD du code général des
-impôts doit indiquer, outre la désignation et l'adresse du déclarant :
+Cet article reproduit les dispositions de l'article R. 950-23 du code du travail :
 
-1° Le montant des rémunérations versées telles qu'elles sont définies au premier alinéa de l'article 235 ter KA du même
-code ;
+"La déclaration prévue à l'article L. 952-4 doit indiquer, outre la désignation et l'adresse du déclarant :
 
-2° Le montant des rémunérations versées telles qu'elles sont définies au premier alinéa de l'article L. 931-20-1 du code du
-travail ;
+1° Le montant des salaires payés tels qu'ils sont définis au premier alinéa de l'article L. 952-1 ;
 
-3° L'assiette de la contribution à laquelle sont assujetties les personnes mentionnées au premier alinéa de l'article L.
-953-1 du même code, et effectuant leur versement à un organisme collecteur visé à l'article 235 ter KA du code général des
-impôts ;
+2° Le montant des salaires payés tels qu'ils sont définis au premier alinéa de l'article L. 931-20-1 ;
 
-4° Le montant de l'obligation et des contributions mentionnées aux articles L. 931-20-1 et L. 953-1 du code du travail et à
-l'article 235 ter KA du code général des impôts ;
+3° Le montant de l'obligation et des contributions mentionnées aux articles L. 931-20-1 et L. 952-1 ;
 
-5° Le montant des versements effectués aux organismes collecteurs agréés pour recevoir les contributions visées au 4°, avec
-indication de leur dénomination et de l'adresse précise de ces organismes ;
+4° Le montant des versements effectués aux organismes collecteurs agréés pour recevoir les contributions visées au 3° ci-
+dessus, avec indication de leur dénomination et de l'adresse précise de ces organismes ;
 
-6° Selon les cas, l'absence ou l'insuffisance des versements effectués, compte tenu du montant des contributions dues ;
+5° Selon les cas, l'absence ou l'insuffisance des versements effectués, compte tenu du montant des contributions dues ;
 
-7° Le cas échéant, la détermination des majorations prévues aux articles 235 ter KC du code général des impôts et aux
-cinquième et sixième alinéas de l'article L. 931-20 du code du travail ;
+6° Le cas échéant, la détermination des majorations prévues aux articles L. 952-3 et L. 931-20, cinquième et sixième
+alinéas ;
 
-8° Le montant total du versement à effectuer à la caisse du comptable des impôts ;
+7° Le montant total du versement à effectuer à la caisse du comptable des impôts ;
 
-9° Le nombre de salariés de l'entreprise par catégorie d'emploi et par sexe ainsi que, le cas échéant, le nombre de salariés
+8° Le nombre de salariés de l'entreprise par catégorie d'emploi et par sexe ainsi que, le cas échéant, le nombre de salariés
 ayant suivi une action de formation et le nombre d'heures de formation correspondant.
 
-Cette déclaration doit être rédigée en un exemplaire sur un imprimé fourni par l'administration.
+Cette déclaration doit être rédigée en un exemplaire sur un imprimé fourni par l'administration".
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 12-II-1° et V de la loi n° 2007-1787 du 20 décembre 2007.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 235 ter KD, 235 ter KA, 235 ter KC
-	  - Code du travail - art. L931-20 (M)
-	  - Code du travail - art. L931-20-1 (M)
-	  - Code du travail - art. L953-1 (M)
-	  - Code du travail - art. R950-23 (T)
+	  - Décret n°2005-330 2005-04-06
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, V JORF 3 juillet 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 163 quindecies B
 
-- La déclaration doit être déposée dans les délais prévus au deuxième et, le cas échéant, aux troisième et quatrième alinéas
-de l'article 235 ter KD du code général des impôts, à la recette des impôts du lieu :
+Cet article reproduit les dispositions de l'article R. 950-24 du code du travail :
 
-1° Du siège de la direction de l'entreprise ou, à défaut, du principal lieu d'exercice de la profession ou du lieu du
+"La déclaration doit être déposée dans les délais prévus au deuxième et, le cas échéant, aux troisième et quatrième alinéas
+de l'article L. 952-4, à la recette des impôts du lieu :
+
+a) Du siège de la direction de l'entreprise ou, à défaut, du principal lieu d'exercice de la profession ou du lieu du
 principal établissement ;
 
-2° De l'exploitation, ou du siège de la direction en cas de pluralité d'exploitations, pour les exploitants agricoles.
+b) De l'exploitation, ou du siège de la direction en cas de pluralité d'exploitations, pour les exploitants agricoles".
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 12-II-1° et V de la loi n° 2007-1787 du 20 décembre 2007.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 235 ter KD
-
-	**Créé par**:
-
-	  - Décret n°93-326 du 12 mars 1993 - art. 2 () JORF 13 mars 1993
-
 	**Codifié par**:
 
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°2005-330 2005-04-06
+
+	**Modifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail - art. R950-24
 
 
 ##### IV : Régimes spéciaux
@@ -7716,31 +7435,31 @@ principal établissement ;
 
 ###### Article 163 sexdecies
 
-Conformément à l'article R. 992-2 du code du travail, les employeurs des départements d'outre-mer occupant des salariés à
-temps incomplet ou d'une manière intermittente, ou travaillant à domicile, ne sont soumis à l'obligation de participer
-instituée par l'article 235 ter D du code général des impôts, que si le montant total des rémunérations versées pendant
-l'année est au moins égal à 520 fois le salaire hebdomadaire minimum de croissance applicable dans le département d'outre-mer
-considéré. En cas de début ou de fin d'activité, ce nombre est réduit, pour l'année considérée, au prorata du nombre de
-semaines pendant lesquelles l'activité est exercée.
+Cet article reproduit les dispositions de l'article R. 992-2 du code du travail :
+
+"Les employeurs des départements d'outre-mer occupant des salariés à temps incomplet ou d'une manière intermittente, ou
+travaillant à domicile, ne sont soumis à l'obligation de participer instituée par les articles L. 950-1 à L. 950-10 que si le
+montant total des salaires versés pendant l'année est au moins égal à 520 fois le salaire hebdomadaire minimum de croissance
+applicable dans le département d'outre-mer considéré. En cas de début ou de fin d'activité, ce nombre est réduit, pour
+l'année considérée, au prorata du nombre de semaines pendant lesquelles l'activité est exercée."
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 235 ter D
-	  - Code du travail - art. R992-2 (V)
+	  - Décret n°2005-330 2005-04-06
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, V JORF 3 juillet 1998
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Code du travail - art. R992-2 (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2005
 
 
 #### Chapitre VI quater : Prélèvement spécial sur les films pornographiques et d'incitation à la violence
@@ -8681,6 +8400,76 @@ artisanales soit par les personnes physiques ou morales exerçant une activité 
 	  - CGIAN2 171 E
 
 
+##### V bis : Réévaluation des immeubles et titres de sociétés à prépondérance immobilière
+
+###### Article 171 P bis
+
+Les titres de sociétés à prépondérance immobilière mentionnés à l'article 238 bis JA du code général des impôts s'entendent
+des titres de sociétés dont l'actif est constitué, à la date de clôture de l'exercice au cours duquel il est procédé à leur
+réévaluation, pour plus de 50 % de sa valeur réelle par des immeubles ou par des titres d'autres sociétés à prépondérance
+immobilière qui sont inscrits à l'actif immobilisé.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux réévaluations réalisées à compter du 1er janvier 2004.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis JA
+
+	**Créé par**:
+
+	  - Décret n°2004-1470 du 23 décembre 2004 - art. 1 () JORF 30 décembre 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+
+
+###### Article 171 P ter
+
+I. - L'engagement de conservation des immeubles et titres de sociétés à prépondérance immobilière prévu à l'article 238 bis
+JA du code général des impôts doit, dans le délai prévu pour le dépôt de la déclaration de résultat de l'exercice au cours
+duquel la réévaluation est réalisée, faire l'objet d'une déclaration adressée au service des impôts compétent pour l'assiette
+de l'impôt sur les sociétés.
+
+Cette déclaration indique :
+
+1° La date à laquelle la réévaluation des immeubles et des titres de sociétés à prépondérance immobilière a été réalisée ;
+
+2° Les renseignements nécessaires au calcul des plus-values ou des moins-values dégagées lors de cette réévaluation.
+
+II. - Le délai de cinq ans prévu à l'article 238 bis JA du code général des impôts court à compter de la date de clôture de
+l'exercice au cours duquel la réévaluation a été constatée en comptabilité.
+
+III. - L'engagement mentionné au I porte sur la pleine propriété des immeubles ou des titres de sociétés à prépondérance
+immobilière inscrits à l'actif du bilan de l'exercice au cours duquel la réévaluation a été constatée en comptabilité.
+
+IV. - Lorsque la société, qui prend l'engagement mentionné au I, est membre d'un groupe au sens de l'article 223 A du code
+général des impôts, une copie de cet engagement doit être jointe à la déclaration du résultat d'ensemble souscrite par la
+société mère de ce groupe.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux réévaluations réalisées à compter du 1er janvier 2004.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis JA, 223 A
+
+	**Créé par**:
+
+	  - Décret n°2004-1470 du 23 décembre 2004 - art. 1 () JORF 30 décembre 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+
+
 ##### VII : Souscription de parts de copropriété de navires
 
 ###### Article 171 AB
@@ -9325,12 +9114,11 @@ les avances en comptes courants à ces sociétés, représentent 90 % de leur ac
 ###### Article 171 BA
 
 Lorsque le prix de cession d'un bien culturel ayant le caractère de trésor national a fait l'objet d'un accord entre l'Etat
-et le propriétaire en application de l'article 9-1 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits soumis à
-certaines restrictions de circulation et à la complémentarité entre les services de police, de gendarmerie et de douane, le
-ministre chargé de la culture, s'il estime que l'acquisition de ce bien peut donner lieu aux versements mentionnés à
-l'article 238 bis-0 A du code général des imp<cb>ts, publie un avis au Journal officiel de la République française. Cet avis
-informe les entreprises susceptibles de bénéficier de la réduction d'impot prévue par le même article qu'elles peuvent
-présenter une offre de versement en faveur de l'achat de ce bien.
+et le propriétaire en application de l'article L. 121-1 du code du patrimoine, le ministre chargé de la culture, s'il estime
+que l'acquisition de ce bien peut donner lieu aux versements mentionnés à l'article 238 bis-0 A du code général des impôts,
+publie un avis au Journal officiel de la République française. Cet avis informe les entreprises susceptibles de bénéficier de
+la réduction d'impot prévue par le même article qu'elles peuvent présenter une offre de versement en faveur de l'achat de ce
+bien.
 
 Lorsque l'acquisition par l'Etat d'un bien culturel proposé à la vente présente un intérêt majeur pour le patrimoine national
 du point de vue de l'histoire, de l'art ou de l'archéologie au sens du deuxième alinéa de l'article 238 bis-0 A, le ministre
@@ -9341,23 +9129,25 @@ au versement mentionné au deuxième alinéa de l'article 238 bis-0 A précité 
 l'objet d'un accord entre l'Etat et le propriétaire, le ministre chargé de la culture publie un avis au Journal officiel de
 la République française selon les modalités fixées au premier alinéa du présent article.
 
-</cb>
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 238 bis-0 A
-	  - Loi n°92-1477 1992-12-31 art. 9-1
 	  - Décret n°93-124 1993-01-29 art. 5
+	  - Code du patrimoine. - art. L121-1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2004-63 du 14 janvier 2004 - art. 1 () JORF 16 janvier 2004
+	  - Ordonnance 2004-178 2004-02-20 art. 1, art. 3, art. 7, JORF 24 février 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 171 BB
@@ -10217,54 +10007,49 @@ bénéficié d'un remboursement de crédit de la taxe sur la valeur ajoutée.
 I. Pour obtenir l'attestation mentionnée au a du 4° du 4 de l'article 261 du code général des impôts, les personnes de droit
 privé exerçant une activité de formation professionnelle continue souscrivent une demande sur un imprimé conforme au modèle
 établi par un arrêté conjoint des ministres chargés de la formation professionnelle continue et du budget. Cette demande est
-adressée par lettre recommandée avec accusé de réception à la délégation régionale à la formation professionnelle dont le
-demandeur relève ou, s'agissant des organismes paritaires titulaires d'un des agréments mentionnés au II, auprès de
-l'autorité qui a procédé à leur agrément.
+adressée par lettre recommandée avec accusé de réception à la direction régionale du travail, de l'emploi et de la formation
+professionnelle ou à la direction du travail, de l'emploi et de la formation professionnelle pour les départements d'outre-
+mer dont le demandeur relève ou, s'agissant des organismes paritaires titulaires d'un des agréments mentionnés au II, auprès
+de l'autorité qui a procédé à leur agrément.
 
-II.  Seules les personnes qui ont souscrit la déclaration préalable mentionnée à l'article L. 920-4 du code du travail ou qui
-bénéficient d'un des agréments mentionnés aux articles L. 951-1, L. 952-1, L. 961-9 du même code ou à l'article 30 modifié de
-la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984) peuvent obtenir l'attestation.
+II.  Seules les personnes qui ont souscrit la déclaration mentionnée à l'article L. 920-4 du code du travail ou qui
+bénéficient d'un des agréments mentionnés aux articles L. 951-1, L. 952-1, L. 961-9, L. 961-12 et L. 961-13 du même code
+peuvent obtenir l'attestation.
 
 En outre, l'attestation ne peut être délivrée qu'à la condition que l'activité du demandeur entre dans le cadre de la
 formation professionnelle continue telle que définie conjointement par les articles L. 900-1 et L. 900-2 du code du travail
 ou relève des missions légalement dévolues aux organismes paritaires agréés. Le demandeur doit être à jour de ses obligations
 résultant de l'article L. 920-5 du code du travail.
 
-III. La délégation régionale à la formation professionnelle dont relève le demandeur ou le ministre chargé de la formation
-professionnelle continue pour les organismes soumis aux agréments, mentionnés au II, dispose d'un délai de trois mois à
-compter de la réception de la demande pour délivrer l'attestation. A défaut de décision dans ce délai, l'attestation est
-réputée accordée. Le refus de délivrance de l'attestation doit être motivé. Un exemplaire de l'attestation ou de la décision
-de refus est adressé au demandeur et à la direction des services fiscaux dont il relève.
+III. La direction régionale du travail, de l'emploi et de la formation professionnelle ou la direction du travail, de
+l'emploi et de la formation professionnelle pour les départements d'outre-mer dont relève le demandeur ou le ministre chargé
+de la formation professionnelle continue pour les organismes soumis aux agréments, mentionnés au II, dispose d'un délai de
+trois mois à compter de la réception de la demande pour délivrer l'attestation. A défaut de décision dans ce délai,
+l'attestation est réputée accordée. Le refus de délivrance de l'attestation doit être motivé. Un exemplaire de l'attestation
+ou de la décision de refus est adressé au demandeur et à la direction des services fiscaux dont il relève.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 261
-	  - Loi n°84-1208 1984-12-29 art. 30 Finances pour 1985
-	  - Code du travail - art. L900-1 (M)
-	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L920-4 (M)
-	  - Code du travail - art. L920-5 (M)
-	  - Code du travail - art. L951-1 (M)
-	  - Code du travail - art. L952-1 (M)
-	  - Code du travail - art. L961-9 (M)
+	  - Décret n°94-1166 du 28 décembre 1994 - art. 1 (V) JORF 30 décembre 1994
+	  - Décret n°99-955 du 17 novembre 1999 - art. 1 (VT) JORF 20 novembre 1999
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 156 () JORF 18 janvier 2002
+	  - Loi n°2004-391 du 4 mai 2004 - art. 23 () JORF 5 mai 2004
+	  - Loi n°2004-391 du 4 mai 2004 - art. 24 () JORF 5 mai 2004
+	  - Loi n°2004-391 du 4 mai 2004 - art. 34 (V) JORF 5 mai 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
-
-	**Modifié par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 3 () JORF 13 décembre 1995
+	  - Décret n°2005-330 2005-04-06
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 202 C (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 202 B
@@ -10296,10 +10081,10 @@ par le titulaire de l'attestation.
 
 ###### Article 202 C
 
-En cas de caducité de la déclaration préalable visée au II de l'article 202 A du fait de l'application des dispositions de
-l'article L. 920-4 du code du travail, il est mis fin à l'attestation par une décision qui doit être motivée et notifiée par
-l'autorité qui l'a délivrée au titulaire de l'attestation. Il en va de même en cas de retrait d'un des agréments mentionnés
-au II de l'article 202 A.
+En cas de caducité de la déclaration visée au II de l'article 202 A du fait de l'application des dispositions de l'article L.
+920-4 du code du travail, il est mis fin à l'attestation par une décision qui doit être motivée et notifiée par l'autorité
+qui l'a délivrée au titulaire de l'attestation. Il en va de même en cas de retrait d'un des agréments mentionnés au II de
+l'article 202 A.
 
 Cette décision a pour effet de remettre en cause l'exonération de TVA des opérations mentionnées à l'article 202 B, qui
 deviennent imposables à la TVA à partir de la date de sa notification.
@@ -10308,18 +10093,17 @@ Un exemplaire de cette notification est adressé à la direction des services fi
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGIAN2 202 A, 202 B
-	  - Code du travail - art. L920-4 (M)
-
-	**Créé par**:
-
-	  - Décret n°94-764 du 30 août 1994 - art. 1 () JORF 2 septembre 1994
+	  - Décret n°2005-330 2005-04-06
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 156 () JORF 18 janvier 2002
 
 
 ###### Article 202 D
@@ -10793,9 +10577,9 @@ Lorsqu'un assujetti a des secteurs d'activités qui ne sont pas soumis à des di
 la valeur ajoutée, ces secteurs font l'objet de comptes distincts pour l'application du droit à déduction.
 
 Constitue un secteur d'activité chaque immeuble ou ensemble d'immeubles ou fraction d'immeuble composé de logements sociaux à
-usage locatif dont la livraison à soi-même est imposable en application du quatrième alinéa du c du 1 du 7° de l'article 257
-du code général des impôts ou dans lequel sont réalisés des travaux d'amélioration, de transformation ou d'aménagement de
-logement de ce type dont les livraisons à soi-même sont imposables en application du 7° bis de ce même article.
+usage locatif dont la livraison à soi-même est imposable en application des quatrième et cinquième alinéas du c du 1 du 7° de
+l'article 257 du code général des impôts ou dans lequel sont réalisés des travaux d'amélioration, de transformation ou
+d'aménagement de logement dont les livraisons à soi-même sont imposables en application du 7° bis de ce même article.
 
 Le montant de la taxe déductible au titre des biens communs aux différents secteurs est déterminé par application du rapport
 prévu à l'article 212.
@@ -10807,18 +10591,13 @@ prévu à l'article 212.
 	  - CGI 257
 	  - CGIAN2 212
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2004-1422 du 23 décembre 2004 - art. 1 (V) JORF 29 décembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2001-11-19 8A-2-01
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ##### b : Dispositions applicables aux entreprises qui ne sont pas assujetties à la taxe sur la valeur ajoutée pour l'ensemble de leurs activités.
@@ -13672,8 +13451,7 @@ réalisent des acquisitions intracommunautaires imposables dans cet Etat et les 
 En outre, elle doit être appuyée, selon le cas :
 
 Des attestations des clients de l'exploitant indiquant les versements faits pendant l'année considérée (1). Ces attestations
-sont conformes aux modèles indiqués par l'administration. Toutefois, cette disposition ne s'applique pas aux ventes visées au
-III de l'article 264 faites à de simples consommateurs;
+sont conformes aux modèles indiqués par l'administration.
 
 De la copie des déclarations en douane;
 
@@ -13693,11 +13471,11 @@ dont relève l'exploitant agricole intéressé pour l'application du I et des ar
 
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2005-330 2005-04-06
 
 	**Cité par**:
 
@@ -13705,7 +13483,7 @@ dont relève l'exploitant agricole intéressé pour l'application du I et des ar
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 267 bis
@@ -17324,45 +17102,20 @@ Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-182
 
 ###### Article 305 C
 
-Les extraits du répertoire prévus à l'article 983 du code général des impôts et dont le modèle est donné ci-après (modèle B)
-sont établis le 10 et le 25 de chaque mois. Ils sont certifiés par le débiteur et comprennent, dans l'ordre des numéros,
-toutes les opérations portées au répertoire entre ces deux dates. N'y sont toutefois portées que pour mémoire les opérations
-au comptant ayant moins de dix jours de date et les opérations à terme dont l'échéance ne serait pas survenue depuis dix
-jours au moins.
+La déclaration prévue à l'article 983 du code général des impôts est souscrite entre le 25 et le dernier jour de chaque mois.
 
-Les opérations qui ne figurent sur l'extrait que pour mémoire, aux termes de la disposition qui précède, sont reprises en
-tête de l'extrait suivant.
+Cette déclaration mentionne :
 
-MODELE D'EXTRAIT (Modèle B)
+a. La période d'imposition au titre de laquelle elle est souscrite. Cette période comprend les opérations réalisées entre le
+25 du mois précédent et le 24 du mois au cours duquel la déclaration doit être déposée ;
 
-MENTIONS OBLIGATOIRES
+b. Le nombre d'opérations portées au répertoire ;
 
-Numéro du répertoire (col. 1)
+c. Le nombre des opérations annulées au cours de la période mentionnée au a.
 
-Date de l'opération (col. 2)
+**Nota:**
 
-Nature de l'opération (1) (col. 3)
-
-Echéance (col. 4)
-
-Montant de l'opération (2) (col. 5)
-
-Désignation (3) ou du prestataire de services d'investissement ou du mandataire substitué ou de la personne qui a fait la
-contrepartie de l'opération (col. 6)
-
-Numéro au répertoire des opérations compensées (col. 7)
-
-Montant du droit (col. 8)
-
-Total des opérations (col. 1 à 5)
-
-Total des droits (col. 6 à 8).
-
-(1) Opérations au comptant, ou opérations à terme, ou prime abandonnée, ou report, ou compensation.
-
-(2) Valeur des titres, déduction faite du non-libéré, ou valeur des primes abandonnées.
-
-(3) Avec numéros de bordereau ou de répertoire.
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
 
 **Liens relatifs à cet article**
 
@@ -17372,7 +17125,12 @@ Total des droits (col. 6 à 8).
 
 	**Modifié par**:
 
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+	  - Décret n°2005-182 du 24 février 2005 - art. 1 () JORF 26 février 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
 
 	**Cité par**:
 
@@ -17522,8 +17280,8 @@ Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-182
 
 ###### Article 305 H
 
-Les bordereaux visés aux articles qui précèdent mentionnent obligatoirement les numéros sous lesquels les opérations qu'ils
-concernent figurent au répertoire.
+Les bordereaux visés aux articles 978 et 981 du code général des impôts mentionnent obligatoirement les numéros sous lesquels
+les opérations qu'ils concernent figurent au répertoire.
 
 Ils doivent être délivrés, savoir :
 
@@ -17531,19 +17289,24 @@ En ce qui concerne les opérations au comptant, dans les dix jours de la négoci
 
 En ce qui concerne les opérations à terme, dans les dix jours de l'échéance.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CGIAN1 247
+	  - CGI 978, 981
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°2005-182 du 24 février 2005 - art. 3 () JORF 26 février 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 305 I
@@ -17573,6 +17336,103 @@ Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-182
 
 	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
 	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 305-0
+
+Pour l'application du 4° ter de l'article 980 bis du code général des impôts, la capitalisation boursière d'une entreprise
+est déterminée, pour l'année civile, par le produit :
+
+a. du nombre de ses titres de capital admis à la négociation à l'ouverture du premier jour de négociation de l'année ;
+
+b. par la moyenne des cours d'ouverture des soixante derniers jours de négociation de l'année précédente. Lorsque, durant ces
+soixante derniers jours, des titres de capital d'une entreprise sont, pour des motifs mentionnés aux articles 305-0 bis ou
+305-0 ter, admis à la négociation, la moyenne retenue est celle des cours d'ouverture des jours de négociation suivant
+l'admission à celle-ci jusqu'au dernier cours de l'année précédente.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 980 bis
+	  - CGIAN2 305-0 bis, 305-0 ter
+
+	**Créé par**:
+
+	  - Décret n°2005-314 du 25 mars 2005 - art. 1 () JORF 3 avril 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
+
+
+###### Article 305-0 bis
+
+Par dérogation aux dispositions de l'article 305-0, la capitalisation boursière d'une entreprise dont les titres de capital
+sont pour la première fois admis à la négociation est déterminée, pour la période allant de l'admission à la négociation
+jusqu'à la fin de l'année civile, par le produit :
+
+a. du nombre de titres de capital ainsi admis à la négociation ;
+
+b. par le prix auquel ces titres sont placés dans le public, à savoir le prix auquel ces titres sont vendus au public avant
+la première cotation.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 305-0
+
+	**Créé par**:
+
+	  - Décret n°2005-314 du 25 mars 2005 - art. 1 () JORF 3 avril 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
+
+
+###### Article 305-0 ter
+
+Par dérogation aux dispositions de l'article 305-0, en cas d'opération de fusion, scission, apport partiel d'actif emportant
+admission à la négociation de nouveaux titres de capital de l'entreprise absorbante ou bénéficiaire, sa capitalisation
+boursière est déterminée, pour la période allant de l'admission à la négociation jusqu'à la fin de l'année civile, par le
+produit :
+
+a. du nombre total des titres de capital de l'entreprise absorbante ou bénéficiaire admis à la négociation, à l'issue de
+l'opération ;
+
+b. par le cours de clôture du dernier jour de négociation précédant l'admission à la négociation de ces nouveaux titres de
+capital.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 305-0
+
+	**Créé par**:
+
+	  - Décret n°2005-314 du 25 mars 2005 - art. 1 () JORF 3 avril 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
 
 
 #### Chapitre III : Autres droits et taxes
@@ -18576,10 +18436,18 @@ est souscrite par l'ancien exploitant.
 
 ###### Article 310 HS
 
-Pour effectuer les corrections à apporter à la valeur locative des immobilisations en application des II à V de l'article
-1478 du code général des impôts, tout mois commencé est considéré comme un mois entier.
+Pour effectuer les corrections à apporter à la valeur locative des immobilisations en application du III de l'article 1478 du
+code général des impôts et à la détermination des recettes en application des II et IV du même article, tout mois commencé
+est considéré comme entier.
 
-Cette règle est également applicable à la détermination des recettes prises en compte.
+Pour effectuer la correction à apporter à la valeur locative des immobilisations des établissements exerçant une activité à
+caractère saisonnier en application du V de l'article 1478 précité, toute semaine commencée est considérée comme entière. Une
+activité a un caractère saisonnier lorsque la durée annuelle d'ouverture, continue ou fractionnée sur plusieurs périodes, de
+l'établissement qui l'exerce est comprise entre douze et quarante et une semaines.
+
+**Nota:**
+
+Ces dispositions sont applicables à compter des impositions établies au titre de l'année 2005.
 
 **Liens relatifs à cet article**
 
@@ -18589,11 +18457,7 @@ Cette règle est également applicable à la détermination des recettes prises 
 
 	**Modifié par**:
 
-	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2004-483 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -18601,7 +18465,7 @@ Cette règle est également applicable à la détermination des recettes prises 
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 310 HT
@@ -20122,7 +19986,7 @@ jour de la période d'imposition.
 
 ###### Article 321 bis
 
-Le dépassement du produit du droit additionnel prévu au sixième alinéa de l'article 1601 du code général des impôts est
+Le dépassement du produit du droit additionnel prévu au septième alinéa de l'article 1601 du code général des impôts est
 subordonné à la conclusion de conventions conclues avec l'Etat. La convention mentionne les actions ou les investissements à
 réaliser et les engagements correspondants de la chambre de métiers. Aucun dépassement ne peut être accordé si les
 engagements de la chambre au titre de la convention précédente n'ont pas été respectés. L'autorité compétente pour autoriser
@@ -20135,13 +19999,17 @@ métiers a son siège.
 
 	  - CGI 1601
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2002-585 du 24 avril 2002 - art. 1 () JORF 26 avril 2002
+	  - Décret n°2005-330 2005-04-06
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Modifié par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 124 () JORF 31 décembre 2004
 
 
 #### Chapitre I bis : Taxes assimilées aux taxes sur le chiffre d'affaires
@@ -23367,131 +23235,99 @@ code général des impôts et 50, 51, 369 et au 1 de l'article 374 de l'annexe I
 
 ###### Article 383 bis A
 
-Les versements au Trésor public mentionnés aux articles 235 ter G et 235 ter H bis du code général des impôts doivent être
-effectués à la recette des impôts compétente en application des dispositions de l'article 163 quaterdecies de la présente
-annexe.
+Cet article reproduit les dispositions de l'article R. 950-22 du code du travail :
+
+"Les versements mentionnés aux articles L. 951-3, premier et troisième alinéas, et L. 951-9 doivent être effectués, au moment
+du dépôt de la déclaration prévue à l'article L. 951-12, à la recette des impôts compétente en vertu des dispositions de
+l'article R. 950-21."
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 235 ter G, 235 H bis
+	  - Décret n°2005-330 2005-04-06
 
 	**Modifié par**:
 
-	  - Décret n°85-531 1985-04-03 art. 18 JORF 18 mai 1985 : code du travail art. R950-22
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1985
+	  - DISJONCTION: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail - art. R950-22
 
 
 ##### 1° : Fonds d'assurance-formation.
 
 ###### Article 383 bis B
 
-En application de l'article R 964-8 du code du travail, les excédents de fonds mentionnés à l'article 235 ter HB du code
-général des impôts et non utilisés au 31 décembre d'un exercice déterminé dans les conditions prévues au deuxième alinéa de
-l'article R 964-8 précité, sont reversés au trésor avant le 30 juin de l'année suivante, accompagnés d'un bordereau
-indiquant, outre la désignation et l'adresse du déclarant, le montant de l'excédent à reverser. Ce bordereau doit être remis
-à la recette des impôts du siège du fonds d'assurance-formation.
+Cet article reproduit les dispositions de l'article R. 964-8 du code du travail :
 
-A défaut, il est fait application de la procédure prévue à l'article R. 950-21 du code du travail.
+"Les disponibilités dont un fonds d'assurance formation peut disposer au 31 décembre d'un exercice déterminé ne peuvent
+excéder le montant des charges comptabilisées au cours du même exercice.
+
+S'il y a excédent, celui-ci doit être affecté, avant le 30 juin de l'année suivante, au financement d'actions de formation au
+bénéfice de demandeurs d'emploi sans contrat de travail organisées dans des centres de formation conventionnés dans les
+conditions prévues par le huitième alinéa de l'article L. 951-1 du code du travail.
+
+Les excédents non utilisés dans les conditions ci-dessus prévues sont reversés au Trésor avant la même date, accompagnés d'un
+bordereau indiquant, outre la désignation et l'adresse du déclarant, le montant de l'excédent à reverser. Ce bordereau doit
+être remis à la recette des impôts du siège du fonds d'assurance formation.
+
+A défaut, il est fait application de la procédure prévue au deuxième alinéa de l'article R. 964-9 ci-après.
 
 Les dispositions qui précèdent ne s'appliquent qu'à partir de la troisième année suivant celle au cours de laquelle le fonds
-d'assurance-formation a, selon le cas, été créé ou a reçu l'agrément mentionné à l'article L 961-9, deuxième alinéa du code
-du travail.
+d'assurance formation a, selon le cas, été créé ou a reçu l'agrément mentionné à l'article L. 961-9 (alinéa 2)."
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 163 quindecies
-	  - HISTO: Edition du 31 juillet 1986
-
-	**Cite**:
-
-	  - CGI 235 ter HB
-	  - Code du travail - art. L961-9 (M)
-	  - Code du travail - art. R950-21 (M)
-	  - Code du travail - art. R964-8 (M)
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-
-###### Article 383 bis C
-
-Comme il est dit à l'article R 964-9 du code du travail, les emplois de fonds qui ne répondent pas aux règles des articles R.
-964-4 et R. 964-15 du même code donnent lieu à un reversement de même montant par le fonds d'assurance-formation au trésor
-public. La procédure applicable est celle de l'article R. 950-21 du code du travail.
-
-Les pièces justificatives des recettes et des dépenses des fonds d'assurance-formation doivent être conservées pendant un
-délai minimum de cinq ans après la clôture de l'exercice pour être présentées à toute réquisition.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°94-936 1994-10-28 art. 1 D b, c JORF 29 octobre 1994
-	  - Décret n°94-936 du 28 octobre 1994 - art. 1 () JORF 29 octobre 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
-	**Cite**:
-
-	  - Code du travail - art. R950-21 (M)
-	  - Code du travail - art. R964-15 (M)
-	  - Code du travail - art. R964-4 (M)
-	  - Code du travail - art. R964-9 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-
-##### 2° : Contrats d'insertion en alternance.
-
-###### Article 383 bis D
-
-Les fonds recueillis par les organismes collecteurs en application de l'article 235 ter GC du code général des impôts qui ne
-sont pas affectés au financement des dépenses énumérées à l'article 1er du décret n° 85-253 du 20 février 1985 ainsi que les
-fonds en excédent non versés dans les conditions définies à l'article 2 du même décret, font l'objet d'un versement d'égal
-montant au Trésor public. La procédure applicable est celle de l'article R. 950-21 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter GC
-	  - Décret n°85-253 du 20 février 1985 - art. 1 (M)
-	  - Décret n°85-253 du 20 février 1985 - art. 2 (M)
-	  - Code du travail - art. R950-21 (M)
-	  - Code du travail - art. R964-6 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°94-936 du 28 octobre 1994 - art. 1 () JORF 29 octobre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2004-391 du 4 mai 2004 - art. 34 (V) JORF 5 mai 2004
 
 	**Codifié par**:
 
 	  - Décret n°2005-330 2005-04-06
 
+	**Modifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail - art. L951-1
+	  - Code du travail - art. R964-8
+
+
+###### Article 383 bis C
+
+Le deuxième alinéa de l'article R. 964-9 du code du travail est ci-après reproduit :
+
+"Art. R. 964-9 - 2è alinéa - Les emplois de fonds qui ne répondent pas aux règles des articles R. 964-1-13, R. 964-4, R.
+964-1-7, II et R. 964-15 donnent lieu à un reversement de même montant par le fonds d'assurance formation au Trésor public."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Modifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
+
+	**Cite**:
+
+	  - Code du travail - art. R964-9 (M)
+
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 27 octobre 1995
 
 
 #### VII : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.
@@ -24041,20 +23877,20 @@ agents des impôts peuvent établir les bases d'imposition et le décompte des d
 ###### Article 396 A
 
 Les décisions de remise ou modération de frais de poursuites, d'intérêts moratoires ou de majorations applicables au titre
-des articles 1761 et 1762 du code général des impôts et de l'article 366 de l'annexe III à ce code sont, dans la limite de 76
-000 euros, prises par le trésorier-payeur général, le receveur des finances ou les comptables directs du Trésor dans des
-conditions fixées par arrêté du ministre chargé du budget.
+des articles 1761 et 1762 du code général des impôts sont, dans la limite de 76 000 euros, prises par le trésorier-payeur
+général, le receveur des finances ou les comptables directs du Trésor dans des conditions fixées par arrêté du ministre
+chargé du budget.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 3 (V) JORF 30 octobre 2004
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2005-330 2005-04-06
 
 	**Cité par**:
 
@@ -24064,7 +23900,10 @@ conditions fixées par arrêté du ministre chargé du budget.
 	**Cite**:
 
 	  - CGI 1761, 1762
-	  - CGIAN3 366
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ## Chapitre II bis : Sûretés et privilèges
