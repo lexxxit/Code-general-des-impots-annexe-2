@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-06-14
+Version Consolidée au 1983-07-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1715,6 +1715,40 @@ comme demandeur d'emploi à l'agence nationale pour l'emploi.
 
 	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
 	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 75-0 V
+
+Pour l'application de l'article 163 quindecies du code général des impôts relatif à la prolongation du délai de déduction en
+faveur des épargnants âgés de plus de cinquante ans au 31 décembre 1981, la date de départ en retraite s'entend de celle à
+laquelle le contribuable ou son conjoint a cessé toute activité professionnelle après avoir atteint l'âge prévu pour la prise
+d'effet de la pension de vieillesse de son régime de sécurité sociale.
+
+Si chacun des époux est affilié à un régime de sécurité sociale en raison d'une activité qui lui est propre, la période de
+déduction prend fin au plus tard à la date à laquelle les deux époux remplissent les conditions prévues au premier alinéa.
+
+En cas d'utilisation du droit à déduction pour la période postérieure au 31 décembre 1981, les obligations mentionnées aux
+articles 163 septies et 163 nonies du code précité subsistent jusqu'à la fin de la quatrième année suivant celle au titre de
+laquelle une déduction a été pratiquée. Toutefois ces obligations prennent fin lorsque aucune déduction ne peut plus être
+effectuée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quindecies, 163 septies, 163 nonies
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 22 avril 1998
+	  - SPEC_APPLI: L'article 75-0 V de l'annexe II est modifié par le transfert de l'article 163 undecies du CGI
 
 
 ###### Article 75-0 W
@@ -4248,6 +4282,33 @@ l'entreprise.
 
 
 ##### II : Demande d'exonération.
+
+###### Article 140 EA
+
+L'entreprise doit également joindre à la demande d'exonération le reçu libératoire délivré par les chambres de commerce et
+d'industrie ou les chambres de métiers qui collectent le versement prévu par l'article 226 A du Code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 226 A
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°97-661 1997-05-28
+
+	**Créé par**:
+
+	  - Décret n°80-106 du 1 février 1980 - art. 2 (Ab) JORF 2 février 1980
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 11 avril 1997
+	  - PEREMPTION: Loi n°96-376 du 6 mai 1996 - art. 7 (V) JORF 7 mai 1996
+
 
 ###### Article 140 I
 
@@ -12083,6 +12144,85 @@ la direction générale des impôts.
 
 #### Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.
 
+###### Article 363 AA
+
+Le fait générateur de la taxe est la rétrocession ou la mise en oeuvre des céréales par les collecteurs agréés ou par les
+producteurs grainiers ou leur importation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°82-732 du 23 août 1982 - art. 3 (V) JORF 25 août 1982
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 2 () JORF 23 mai 2001
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 363 AB
+
+Les taux maxima de la taxe sont :
+
+a. 0,30 % du prix d'intervention du blé tendre, de l'orge et du maïs ;
+
+b. 0,20 % du prix d'intervention du blé dur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°82-732 du 23 août 1982 - art. 4 (V) JORF 25 août 1982
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 2 () JORF 23 mai 2001
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 363 AD
+
+Un arrêté conjoint du ministre de l'économie et des finances, du ministre chargé du budget, et du ministre de l'agriculture
+pris après avis du conseil central de l'office national interprofessionnel des céréales précise les modalités d'application
+des articles 363 à 363 AC, et notamment celles du troisième alinéa de l'article 363 Z.
+
+Un arrêté pris dans les mêmes formes fixe pour chaque campagne les montants de la taxe en francs par tonne de céréales, dans
+les limites obtenues en appliquant les taux maxima définis à l'article 363 AB aux prix directeurs en vigueur au début des
+campagnes de commercialisation concernées, ces prix étant convertis en francs français sur la base du taux de conversion de
+l'Ecu dans le secteur agricole à la date du 1er juillet de l'année civile en cours.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 à 363 AC, 363 Z, 363 AB
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°82-732 du 23 août 1982 - art. 6 (V) JORF 25 août 1982
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+
 ###### Article 363 Z
 
 Sont exonérées de la taxe [*hors champ d'application*] prévue par l'article 363 Y :
@@ -13718,38 +13858,6 @@ actions non cotées ou non assimilées à des actions cotées qu'ils ont reçues
 	  - CGIAN2 75-0 L
 	  - CGIAN2 75-0 M
 	  - CGIAN2 75-0 Q
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 75-0 V
-
-Pour l'application de l'article 163 undecies du code général des impôts relatif à la prolongation du délai de déduction en
-faveur des épargnants âgés de plus de cinquante ans au 31 décembre 1981, la date de départ en retraite s'entend de celle à
-laquelle le contribuable ou son conjoint a cessé toute activité professionnelle après avoir atteint l'âge prévu pour la prise
-d'effet de la pension de vieillesse de son régime de sécurité sociale.
-
-Si chacun des époux est affilié à un régime de sécurité sociale en raison d'une activité qui lui est propre, la période de
-déduction prend fin au plus tard à la date à laquelle les deux époux remplissent les conditions prévues au premier alinéa.
-
-En cas d'utilisation du droit à déduction pour la période postérieure au 31 décembre 1981, les obligations mentionnées aux
-articles 163 septies et 163 nonies du code précité subsistent jusqu'à la fin de la quatrième année suivant celle au titre de
-laquelle une déduction a été pratiquée. Toutefois ces obligations prennent fin lorsque aucune déduction ne peut plus être
-effectuée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 nonies
-	  - CGI 163 septies
-	  - CGI 163 undecies
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
 
 	**Liens**:
 
