@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1992-12-29
+Version Consolidée au 1993-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12789,7 +12789,7 @@ Toute personne physique ou morale ayant l'intention d'importer ou de commerciali
 provenance des Etats membres de la Communauté économique européenne [*CEE*] et originaires de ces Etats ou mis en libre
 pratique dans l'un de ceux-ci obtient, sur sa demande, un numéro d'identification sous réserve qu'elle remplisse les
 conditions requises pour l'exercice d'une profession commerciale et fournisse une caution solvable garantissant à
-l'administration fiscale le paiement de la retenue sur remise prévue à l'article 281.
+l'administration des douanes et droits indirects le paiement de la retenue sur remise prévue à l'article 281.
 
 **Liens relatifs à cet article**
 
@@ -12799,7 +12799,9 @@ l'administration fiscale le paiement de la retenue sur remise prévue à l'artic
 
 	**Modifié par**:
 
-	  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 AVRIL 1980
+	  - Décret n°93-310 du 9 mars 1993 - art. 44 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cité par**:
 
@@ -12824,68 +12826,43 @@ S'il s'agit d'une personne morale, la demande doit en outre être accompagnée d
 
 ###### Article 278
 
-La demande est adressée au directeur général des impôts qui, après s'être assuré que le dossier est complet, notifie son
-numéro d'identification au fournisseur.
+La demande est adressée au directeur général des douanes et droits indirects qui, après s'être assuré que le dossier est
+complet, notifie son numéro d'identification au fournisseur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 AVRIL 1980
+	  - Décret n°93-310 du 9 mars 1993 - art. 45 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 279
 
 Si le fournisseur cesse de remplir les conditions fixées ou commet une infraction aux dispositions du code général des
-impôts, notamment de son article 570, le directeur général des impôts peut lui retirer son numéro d'identification après
-l'avoir mis à même de présenter ses observations.
+impôts, notamment de son article 570, le directeur général des douanes et droits indirects peut lui retirer son numéro
+d'identification après l'avoir mis à même de présenter ses observations.
 
 Ce retrait entraîne, à compter de sa notification par lettre recommandée avec avis de réception postal, outre l'interdiction
 de procéder à l'importation et à la commercialisation en gros des tabacs manufacturés, l'obligation d'établir un inventaire
 des quantités de tabacs en stock à la date de cette notification, à l'exclusion de celles qui sont en entrepôt douanier. Cet
-inventaire est remis à l'administration fiscale au plus tard dans les cinq jours de la notification. Le fournisseur dispose
-alors d'un délai de trois mois pour écouler le stock compris dans l'inventaire ainsi que celui qu'il détient en entrepôt
-douanier.
+inventaire est remis à l'administration des douanes et droits indirects au plus tard dans les cinq jours de la notification.
+Le fournisseur dispose alors d'un délai de trois mois pour écouler le stock compris dans l'inventaire ainsi que celui qu'il
+détient en entrepôt douanier.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 AVRIL 1980
-
-
-###### Article 280
-
-La direction générale des impôts met la liste des débitants à la disposition des fournisseurs pourvus d'un numéro
-d'identification.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 AVRIL 1980
-
-
-###### Article 281
-
-La remise due par le fournisseur au débitant lui est allouée sous déduction d'une retenue correspondant aux redevances
-prévues à l'article 568 du code général des impôts et versée à l'administration des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-	  - CGI 568
-
-	**Cité par**:
-
-	  - Arrêté du 26 décembre 2007 - art. 5 (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AC (V)
+	  - Décret n°93-310 du 9 mars 1993 - art. 46 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 283
@@ -12895,8 +12872,8 @@ commandes passées aux fournisseurs et du paiement des livraisons qui en résult
 
 Dans les débits, la publicité en faveur des tabacs manufacturés, qui obéit aux règles de l'article 2 de la loi n° 76-616 du 9
 juillet 1976 relative à la lutte contre le tabagisme, ne peut se faire en dehors des vitrines désignées par l'administration
-fiscale. Toute autre forme de publicité ou de promotion est interdite à l'intérieur des débits, notamment dans les
-rayonnages, ces derniers étant destinés à la simple présentation des produits.
+des douanes et droits indirects. Toute autre forme de publicité ou de promotion est interdite à l'intérieur des débits,
+notamment dans les rayonnages, ces derniers étant destinés à la simple présentation des produits.
 
 Les débitants ne peuvent recevoir pour la commercialisation des tabacs manufacturés et la publicité concernant ces produits,
 aucun avantage, direct ou indirect, autre que la remise prévue à l'article 570-3° du code général des impôts.
@@ -12915,7 +12892,7 @@ prévues au décret n° 80-354 du 14 mai 1980 relatif à l'arbitrage.
 
 	**Modifié par**:
 
-	  - Décret n°82-616 du 16 juillet 1982 - art. 1 (V) JORF 20 JUILLET 1982
+	  - Décret n°93-310 du 9 mars 1993 - art. 49 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
 
 ###### Article 284
@@ -12926,70 +12903,6 @@ Les prix de vente au détail des tabacs sont fixés par arrêté du ministre de 
 
 	**Cite**:
 
-	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### II : Régime fiscal.
-
-###### Article 286
-
-Le droit de consommation sur les tabacs fabriqués est recouvré par la direction générale des impôts, selon les règles prévues
-en matière de contributions indirectes (1).
-
-(1) Pour les tabacs fabriqués importés par les particuliers, le droit de consommation est mis à la charge des importateurs,
-assis et recouvré par l'administration des douanes et selon les règles propres à cette administration.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-
-###### Article 286 D
-
-En cas de changement de prix de vente des tabacs, les fournisseurs et débitants sont tenus de déclarer au service des impôts,
-dans les cinq jours qui suivent la date d'entrée en vigueur des nouveaux prix [*délai*], les quantités de tabacs détenus à
-cette date qui sont affectés par le changement de prix et qui ont supporté les droits et taxes exigibles sur la base de
-l'ancien prix (1).
-
-Les débitants doivent indiquer sur des déclarations distinctes les quantités de tabacs en consignation provenant de
-fournisseurs différents. Un exemplaire de chacune de ces déclarations est adressé au fournisseur concerné par le service des
-impôts.
-
-(1) Droit de consommation sur les tabacs manufacturés, TVA et taxe perçue au BAPSA.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 286 E
-
-Pour les tabacs qui font l'objet des déclarations prévues à l'article 286 D la différence entre le montant des droits et
-taxes déterminés sur la base des nouveaux prix et le montant des droits et taxes correspondants aux anciens prix est, selon
-le cas, versée par le fournisseur au service des impôts ou restituée au fournisseur par ce dernier, au plus tard le 5 du
-quatrième mois qui suit celui du changement de prix [*date limite*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 286 D
 	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
 
 	**Liens**:
@@ -13077,6 +12990,48 @@ Est considéré comme tabac à priser le tabac en poudre ou en grains spécialem
 
 ##### I : Régime économique
 
+###### Article 280
+
+La direction générale des douanes et droits indirects met la liste des débitants à la disposition des fournisseurs pourvus
+d'un numéro d'identification.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 47 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 281
+
+La remise due par le fournisseur au débitant lui est allouée sous déduction d'une retenue correspondant aux redevances
+prévues à l'article 568 du code général des impôts et versée à l'administration des douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
+	  - CGI 568
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 48 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 26 décembre 2007 - art. 5 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AC (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 282
 
 Les seuls crédits qui peuvent être accordés par les fournisseurs aux débitants sont le crédit à la livraison, le crédit de
@@ -13118,6 +13073,36 @@ des prix, due par le fournisseur à chacun des débitants consignataires.
 
 ##### II : Régime fiscal
 
+###### Article 286
+
+Le droit de consommation sur les tabacs fabriqués est recouvré par la direction générale des douanes et droits indirects,
+selon les règles prévues en matière de contributions indirectes (1).
+
+(1) Pour les tabacs fabriqués importés par les particuliers,
+
+le droit de consommation est mis à la charge des importateurs,
+
+assis et recouvré par l'administration des douanes et selon les règles propres à cette administration.
+
+**Nota:**
+
+(1) Pour les tabacs fabriqués importés par les particuliers,
+
+le droit de consommation est mis à la charge des importateurs,
+
+assis et recouvré par l'administration des douanes et selon les règles propres à cette administration.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 50 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 286 B
 
 Pour l'application du droit de consommation prévu à l'article 575 du code général des impôts, l'issue de la fabrication
@@ -13152,6 +13137,56 @@ imposables et les les tabacs destinés à l'exportation.
 	**Codifié par**:
 
 	  - Décret n°87-940 1987-11-23
+
+
+###### Article 286 D
+
+En cas de changement de prix de vente des tabacs, les fournisseurs et débitants sont tenus de déclarer au service des douanes
+et droits indirects, dans les cinq jours qui suivent la date d'entrée en vigueur des nouveaux prix, les quantités de tabacs
+détenus à cette date qui sont affectés par le changement de prix et qui ont supporté les droits et taxes exigibles sur la
+base de l'ancien prix (1). 
+
+Les débitants doivent indiquer sur des déclarations distinctes les quantités de tabacs en consignation provenant de
+fournisseurs différents. Un exemplaire de chacune de ces déclarations est adressé au fournisseur concerné par le service des
+douanes et droits indirects.
+
+(1) Droit de consommation sur les tabacs manufacturés, TVA et taxe perçue au BAPSA.
+
+**Nota:**
+
+(1) Droit de consommation sur les tabacs manufacturés, TVA et taxe perçue au profit du BAPSA.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 51 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 286 E
+
+Pour les tabacs qui font l'objet des déclarations prévues à l'article 286 D la différence entre le montant des droits et
+taxes déterminés sur la base des nouveaux prix et le montant des droits et taxes correspondant aux anciens prix est, selon le
+cas, versée par le fournisseur au service des douanes et droits indirects ou restituée au fournisseur par ce dernier, au plus
+tard le 5 du quatrième mois qui suit celui du changement de prix.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 286 D
+
+	**Modifié par**:
+
+	  - Décret n°93-310 du 9 mars 1993 - art. 52 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### III : Corse - DOM
@@ -18020,14 +18055,10 @@ première mise en oeuvre pour leur fabrication ne l'a pas elle-même été. "
 
 La taxe est due lors de la délivrance du titre de mouvement légitimant la sortie de la propriété des produits énumérés à
 l'article 359. Elle est acquittée par la personne levant le titre de mouvement mais supportée par l'acheteur et le vendeur,
-chacun pour moitié.
+chacun pour moitié. 
 
 Elle est perçue pour le compte du comité des fruits à cidre et des productions cidricoles par les bureaux de déclaration de
-la direction générale des impôts.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+la direction générale des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
@@ -18038,14 +18069,10 @@ la direction générale des impôts.
 	  - CGI 359
 	  - CGIAN2 358
 
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
 	**Modifié par**:
 
-	  - Décret n°82-1213 du 30 décembre 1982 - art. 3 (P) JORF 4 JANVIER 1983
-	  - Décret n°82-1213 du 30 décembre 1982 - art. 4 (P) JORF 4 JANVIER 1983
+	  - Décret n°93-310 du 9 mars 1993 - art. 53 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 361
@@ -18108,7 +18135,8 @@ Elle est assise [*assiette*] sur le volume des vins mentionné sur le titre de m
 Elle est acquittée par la personne levant le titre de mouvement ; s'il s'agit d'un viticulteur, celui-ci facture le montant
 de la taxe à l'acheteur afin d'en obtenir le remboursement.
 
-III. La taxe est perçue [*perception*], pour le compte de chacun des organismes, par les receveurs locaux des impôts.
+III. La taxe est perçue [*perception*], pour le compte de chacun des organismes, par les comptables de la direction générale
+des douanes et droits indirects.
 
 L'administration reverse aux organismes bénéficiaires le montant de la taxe après déduction, dans les conditions
 réglementaires, des frais d'assiette et de perception.
@@ -18129,11 +18157,8 @@ de la forêt fixe le montant applicable dans la limite du montant maximum (1).
 
 	**Modifié par**:
 
-	  - Décret n°90-1039 du 22 novembre 1990 - art. 1 (V) JORF 24 novembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°93-310 du 9 mars 1993 - art. 54 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 #### Chapitre VIII : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.
@@ -18280,27 +18305,27 @@ III au code général des impôts.
 
 ###### Article 363 E
 
-" I. - Il est institué au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds
-national de développement agricole, une taxe parafiscale sur les vins, applicable jusqu'au 31 décembre 1992 [*date limite*].
+I. - Il est institué au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds national
+de développement agricole, une taxe parafiscale sur les vins, applicable jusqu'au 31 décembre 1992 [*date limite*].
 
-" II. - La taxe est due par les producteurs au moment de la délivrance du titre de mouvement permettant l'enlèvement des vins
-à la propriété ou par les négociants vinificateurs lors de la déclaration de fabrication. Ces derniers ont la possibilité
-d'en retenir le montant sur le prix des raisins ou des moûts utilisés pour ces fabrications.
+II. - La taxe est due par les producteurs au moment de la délivrance du titre de mouvement permettant l'enlèvement des vins à
+la propriété ou par les négociants vinificateurs lors de la déclaration de fabrication. Ces derniers ont la possibilité d'en
+retenir le montant sur le prix des raisins ou des moûts utilisés pour ces fabrications.
 
-" III. - Pour les vins d'appellation d'origine contrôlée, le montant maximal de la taxe est fixé à 2,10 F par hectolitre.
-Pour les vins délimités de qualité supérieure, le montant maximal de la taxe est fixé à 1,35 F par hectolitre.
+III. - Pour les vins d'appellation d'origine contrôlée, le montant maximal de la taxe est fixé à 2,10 F par hectolitre. Pour
+les vins délimités de qualité supérieure, le montant maximal de la taxe est fixé à 1,35 F par hectolitre.
 
-" Pour les autres vins, le montant de la taxe par hectolitre de vin est au plus égal à 2,70 p. 100 du prix d'orientation du
+Pour les autres vins, le montant de la taxe par hectolitre de vin est au plus égal à 2,70 p. 100 du prix d'orientation du
 degré hectolitre fixé par le Conseil des communautés européennes pour les vins de type R. 1 au sens du règlement n° 340-79 en
 date du 5 février 1979 dudit conseil.
 
-" Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe dans ces limites les montants de la taxe
+Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe dans ces limites les montants de la taxe
 effectivement perçue. Toute augmentation du montant de la taxe effectivement perçue sur les vins mentionnés au II du présent
 article donne lieu à l'augmentation, au moins dans les mêmes proportions, du montant de la taxe effectivement perçue sur les
 vins mentionnés au I.
 
-" IV. - La taxe est liquidée et recouvrée par la direction générale des impôts suivant les règles, sous les garanties et
-sanctions prévues pour les impôts indirects sur les boissons. "
+IV. - La taxe est liquidée et recouvrée par la direction générale des douanes et droits indirects suivant les règles, sous
+les garanties et sanctions prévues pour les impôts indirects sur les boissons.
 
 (1) Annexe IV, art. 159 AP.
 
@@ -18313,11 +18338,7 @@ sanctions prévues pour les impôts indirects sur les boissons. "
 
 	**Modifié par**:
 
-	  - Décret n°87-1122 du 24 décembre 1987 - art. 1 (P) JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-310 du 9 mars 1993 - art. 55 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
 
 ##### Taxe parafiscale sur les graines oléagineuses.
@@ -18344,14 +18365,15 @@ européennes ;
 " Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe dans ces limites les montants de la taxe
 effectivement perçue (1).
 
-" IV. - La taxe est perçue par la direction générale des impôts auprès des intermédiaires agréés. Elle est établie et
-recouvrée selon les règles et sous les garanties et sanctions prévues en matière de contributions indirectes.
+" IV. - La taxe est perçue par la direction générale des douanes et droits indirects auprès des intermédiaires agréés. Elle
+est établie et recouvrée selon les règles et sous les garanties et sanctions prévues en matière de contributions indirectes.
 
 " Les sommes exigibles sont liquidées sur production, par les intermédiaires agréés, de déclarations conformes aux modèles
-fixés par la direction générale des impôts et transmises à cette administration dans les dix premiers jours du mois suivant
-celui au titre duquel la taxe est applicable. Elles doivent être acquittées au plus tard le 25 du mois de la déclaration. "
+fixés par la direction générale des douanes et droits indirects et transmises à cette administration dans les dix premiers
+jours du mois suivant celui au titre duquel la taxe est applicable. Elles doivent être acquittées au plus tard le 25 du mois
+de la déclaration. "
 
-A  (1) Arrêté à émettre.
+A (1) Arrêté à émettre.
 
 **Liens relatifs à cet article**
 
@@ -18362,11 +18384,8 @@ A  (1) Arrêté à émettre.
 
 	**Modifié par**:
 
-	  - Décret n°87-1126 du 24 décembre 1987 - art. 1 (V) JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-310 du 9 mars 1993 - art. 56 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ##### Taxe parafiscale sur les céréales et le riz.
@@ -18376,7 +18395,7 @@ A  (1) Arrêté à émettre.
 " Il est institué au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds national de
 développement agricole, une taxe parafiscale, sur les céréales livrées par les producteurs aux collecteurs agréés et aux
 producteurs grainiers et soumises à la taxe pour le financement des actions du secteur céréalier prévue à l'article 363 AE,
-applicable à compter de la campagne 1988-1989 jusqu'à la fin de la campagne 1992-1993. "
+applicable à compter de la campagne 1988-1989 jusqu'à la fin de la campagne 1992-1993. " 
 
 Cette taxe est applicable jusqu'à la fin de la campagne 1987-1988.
 
@@ -18401,10 +18420,10 @@ tonne de seigle, tel que ce montant résulte des dispositions qui précèdent.
 " Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe dans ces limites les montants de la taxe
 effectivement perçue (1). "
 
-IV. La taxe est assise, liquidée et recouvrée par la direction générale des impôts dans les mêmes conditions que la taxe
-parafiscale prévue à l'article 363 AE.
+IV. La taxe est assise, liquidée et recouvrée par la direction générale des douanes et droits indirects dans les mêmes
+conditions que la taxe parafiscale prévue à l'article 363 AE.
 
-(1) Pour la campagne 1986-1987, arrêté du 23 septembre 1986  (J.O. du 24). Pour la campagne 1988-1989, arreté à émettre.
+(1) Pour la campagne 1986-1987, arrêté du 23 septembre 1986 (J.O. du 24). Pour la campagne 1988-1989, arreté à émettre.
 
 **Liens relatifs à cet article**
 
@@ -18415,11 +18434,8 @@ parafiscale prévue à l'article 363 AE.
 
 	**Modifié par**:
 
-	  - Décret n°87-1121 du 24 décembre 1987 - art. 1 (P) JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-310 du 9 mars 1993 - art. 57 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 #### Chapitre X : Taxe parafiscale des industries de l'habillement
@@ -18629,10 +18645,10 @@ b. 0,20 % du prix d'intervention du blé dur.
 
 ###### Article 363 AC
 
-La taxe est perçue par la direction générale des impôts. Elle est établie et recouvrée selon les règles et sous les garanties
-et sûretés prévues en matière de contributions indirectes, dans les conditions et délais fixés par le décret n° 59-909 du 31
-juillet 1959 relatif aux prix et modalités de paiement, de stockage et de rétrocession des céréales, et notamment son article
-25.
+La taxe est perçue par la direction générale des douanes et droits indirects. Elle est établie et recouvrée selon les règles
+et sous les garanties et sûretés prévues en matière de contributions indirectes, dans les conditions et délais fixés par le
+décret n° 59-909 du 31 juillet 1959 relatif aux prix et modalités de paiement, de stockage et de rétrocession des céréales,
+et notamment son article 25.
 
 **Liens relatifs à cet article**
 
@@ -18642,11 +18658,18 @@ juillet 1959 relatif aux prix et modalités de paiement, de stockage et de rétr
 
 	**Modifié par**:
 
-	  - Décret n°87-676 du 17 août 1987 - art. 5 (V) JORF 19 août 1987
+	  - Décret n°93-310 du 9 mars 1993 - art. 58 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2001-435 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 2 () JORF 23 mai 2001
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 363 AD
@@ -18832,9 +18855,9 @@ tonne de seigle, tel que ce montant résulte des dispositions qui précèdent. "
 
 ###### Article 363 AH
 
-" La taxe est perçue par prélèvement sur le prix payé aux livreurs par les collecteurs agréés et les producteurs grainiers.
-Elle est reversée à la direction générale des impôts dans les conditions fixées par l'article 25 du décret du 31 juillet 1959
-relatif aux prix et modalités de paiement, de stockage et de rétrocession, des céréales. "
+La taxe est perçue par prélèvement sur le prix payé aux livreurs par les collecteurs agréés et les producteurs grainiers.
+Elle est reversée à la direction générale des douanes et droits indirects dans les conditions fixées par l'article 25 du
+décret du 31 juillet 1959 relatif aux prix et modalités de paiement, de stockage et de rétrocession des céréales.
 
 **Liens relatifs à cet article**
 
@@ -18844,11 +18867,9 @@ relatif aux prix et modalités de paiement, de stockage et de rétrocession, des
 
 	**Modifié par**:
 
-	  - Décret n°87-677 du 17 août 1987 - art. 4 (P) JORF 19 août 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-310 du 9 mars 1993 - art. 59 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 363 AI
@@ -18929,7 +18950,7 @@ La taxe est perçue au moment de la délivrance des titres de mouvement demandé
 visés à l'article 364 A en vue de leur mise à la consommation.
 
 " La taxe est perçue pour le compte du Bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré
-par les bureaux de déclaration de la direction générale des impôts.
+par les bureaux de déclaration de la direction générale des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
@@ -18937,14 +18958,11 @@ par les bureaux de déclaration de la direction générale des impôts.
 
 	  - CGIAN2 364
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-577 du 6 mai 1988 - art. 3 (P) JORF 7 mai 1988
-	  - Décret n°88-577 du 6 mai 1988 - art. 4 (P) JORF 7 mai 1988
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
+	  - Décret n°93-310 du 9 mars 1993 - art. 60 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 364 C
