@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-11-18
+Version Consolidée au 1980-11-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -425,6 +425,42 @@ l'avantage en nature accordé à celui-ci.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
+
+
+##### 8 ter : Amortissement exceptionnel des constructions nouvelles.
+
+###### Article 32 B
+
+Lorsqu'elles sont inscrites à l'actif d'un entreprise qui bénéficie d'une exonération temporaire de taxe professionnelle en
+application de l'article 1465 du code général des impôts, les constructions nouvelles sur lesquelles porte l'exonération
+peuvent bénéficier, sans agrément, de l'amortissement exceptionnel de 25 % prévu au I de l'article 39 quinquies D du même
+code, dans les conditions prévues au deuxième alinéa de cet article. Les immeubles en cause doivent être situés dans les
+zones définies pour l'application de l'article 39 quinquies D précité (1). La base de l'amortissement ne peut excéder un
+million de francs par emploi créé.
+
+(1) Annexe IV, art. 04.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1465
+	  - CGI 39 quinquies D I
+	  - CGIAN4 04
+
+	**Créé par**:
+
+	  - Décret n°80-921 du 21 novembre 1980 - art. 7 (V) JORF 23 NOVEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°90-798 1990-09-10
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990, péremption incorporée à la date du 15 juin 1990
+	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
 
 
 ##### 8 quater : Majoration d'amortissement des immobilisations acquises ou créées au moyen de certaines primes
@@ -8813,6 +8849,156 @@ II. Le montant des abattements à la base et pour charges de famille prévus aux
 
 
 ##### Section II : Taxe professionnelle
+
+##### II : Exonérations
+
+###### Article 310 HB bis
+
+La quotité et la durée de l'exonération prévue à l'article 1465 du code général des impôts doivent être identiques pour
+toutes les opérations d'une même catégorie définies au premier alinéa de cet article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-921 du 21 novembre 1980 - art. 1 (V) JORF 23 novembre 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1465 (V)
+
+
+###### Article 310 HB quater
+
+Les zones dans lesquelles l'aménagement du territoire justifie une exonération temporaire de taxe professionnelle en faveur
+des entreprises qui procèdent aux opérations énumérées à l'article 1465 du code général des impôts sont définies par arrêté
+du ministre du budget (1).
+
+(1) Voir Annexe IV, art. 121 quinquies DB bis, annexes I, et IV à l'arrêté du 24 novembre 1980 (J.O. du 7 décembre) et annexe
+de l'arrêté du 24 novembre 1982 (J.O. du 24 mars 1983).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1980-11-24 ANNEXES I, IV
+	  - Arrêté 1982-11-24
+	  - CGI 1465
+	  - CGIAN4 121 quinquies DB bis
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+
+	**Créé par**:
+
+	  - Décret n°80-921 du 21 novembre 1980 - art. 3 (V) JORF 23 novembre 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 310 HB quinquies
+
+En ce qui concerne les établissements industriels, les décentralisations s'entendent des transferts hors du bassin parisien
+et de la région lyonnaise d'installations précédemment implantées dans la région parisienne et la région lyonnaise.
+
+En ce qui concerne les établissements de recherche scientifique et technique et les services de direction, d'études,
+d'ingénierie et d'informatique, les décentralisations s'entendent des transferts hors du bassin parisien d'installations
+précédemment implantées dans cette zone.
+
+Pour l'application du présent article, le bassin parisien, la région parisienne et la région lyonnaise sont définis par
+arrêté du ministre du budget (1).
+
+**Nota:**
+
+(1) Voir Annexe IV art. 121 quinquies DB bis et annexe IV à l'arrêté du 24 novembre 1980 (J.O. du 7 décembre).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1980-11-24
+	  - CGIAN4 121 quinquies DB bis
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+
+	**Créé par**:
+
+	  - Décret n°80-921 du 21 novembre 1980 - art. 4 (V) JORF 23 novembre 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 310 HB septies
+
+Lorsqu'une période d'exonération temporaire est en cours, l'entreprise peut demander l'ouverture d'une nouvelle période
+d'exonération temporaire pour les investissements et créations d'emplois répondant aux conditions nécessaires, et réalisés à
+partir de la troisième année suivant celle au cours de laquelle est intervenue l'opération ayant motivé l'exonération en
+cours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-921 du 21 novembre 1980 - art. 6 (V) JORF 23 novembre 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 310 HB sexies
+
+En ce qui concerne les opérations non soumises à agrément, l'augmentation nette des bases d'imposition est, pour
+l'application du quatrième alinéa de l'article 1465 du code général des impôts, déterminée en retenant, d'une part,
+l'investissement net, égal à la différence entre le prix de revient des immobilisations nouvelles et celui des
+immobilisations supprimées, et, d'autre part, les frais de personnel correspondant aux emplois permanents créés, ceux-ci
+étant diminués des emplois permanents supprimés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1465
+
+	**Créé par**:
+
+	  - Décret n°80-921 du 21 novembre 1980 - art. 5 (V) JORF 23 novembre 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 310 HB ter
+
+Sauf délibération contraire, les délibérations prises en application de l'article 1465 du code général des impôts dans sa
+rédaction antérieure à la loi n° 80-10 du 10 janvier 1980, qui étaient en vigueur au 1er janvier 1980, restent applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-921 du 21 novembre 1980 - art. 2 (V) JORF 23 novembre 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1465 (V)
+
 
 ##### III : Base d'imposition
 
