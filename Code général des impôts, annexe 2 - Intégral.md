@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-06-17
+Version Consolidée au 1984-06-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7812,6 +7812,88 @@ en location sous quelque forme que ce soit.
 	**Abrogé par**:
 
 	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
+
+
+##### Résidences de tourisme classées.
+
+###### Article 233-0 A
+
+Le bénéfice des dispositions du II de l'article 273 bis du code général des impôts est subordonné à l'engagement de
+l'exploitant de la résidence de tourisme classée soit de dépenser, pendant les vingt-quatre premiers mois d'exploitation, une
+somme au moins égale à 1,5 % des recettes d'exploitation de la résidence pour la recherche de la clientèle étrangère soit de
+conclure avec des organisateurs de voyages ou de séjours des contrats de mise à disposition tels que 20 % au moins des unités
+d'hébergement de la résidence soient réservés à des touristes étrangers.
+
+L'engagement est souscrit sur papier libre et remis au service des impôts dont relève l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 273 bis II
+
+	**Créé par**:
+
+	  - Décret n°84-491 du 22 juin 1984 - art. 1 (V) JORF 26 juin 1984
+
+	**Abrogé par**:
+
+	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
+
+	**Modifié par**:
+
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
+
+
+###### Article 233-0 B
+
+Dans un délai de trois mois qui suit l'expiration de la période mentionnée à l'article 233-0 A, l'exploitant de la résidence
+de tourisme classée doit justifier auprès du service des impôts qu'il a rempli son engagement en produisant un état
+récapitulatif des dépenses qu'il a engagées ou des contrats qu'il a conclus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 233-0 A
+
+	**Créé par**:
+
+	  - Décret n°84-491 du 22 juin 1984 - art. 2 (V) JORF 26 juin 1984
+
+	**Abrogé par**:
+
+	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
+
+	**Modifié par**:
+
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
+
+
+###### Article 233-0 C
+
+Lorsque les engagements n'ont pas été respectés, le bénéficiaire du remboursement ou ses ayants droit reversent la différence
+entre la taxe sur la valeur ajoutée remboursée et celle effectivement acquittée à raison des loyers perçus depuis le début de
+la location, indépendamment, s'il y a lieu, des régularisations prévues en application de l'article 273 du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 273
+
+	**Créé par**:
+
+	  - Décret n°84-491 du 22 juin 1984 - art. 3 (V) JORF 26 juin 1984
+
+	**Abrogé par**:
+
+	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
+
+	**Modifié par**:
+
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 
 ##### 3° : Entreprises bénéficiant d'atténuations d'impôt : franchise en impôt.
