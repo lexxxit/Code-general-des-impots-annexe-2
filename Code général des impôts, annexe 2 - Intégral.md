@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-07-12
+Version Consolidée au 1988-07-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4404,6 +4404,61 @@ postérieurement à la première application de l'article 209 B du code généra
 	**Créé par**:
 
 	  - Décret n°81-1173 du 30 décembre 1981 - art. 7 (V) JORF 31 DECEMBRE 1981
+
+
+###### Article 102 Z
+
+I. Les entreprises qui entrent dans le champ d'application de l'article 209 B du code général des impôts doivent produire,
+dans le même délai que la déclaration de leurs résultats, une déclaration [*formalité obligatoire*] comportant les
+renseignements et documents suivants [*mentions*] :
+
+a. Le nom ou la raison sociale ainsi que l'adresse du siège social des sociétés établies dans un Etat étranger ou un
+territoire situé hors de France dont le régime fiscal est privilégié et dans lesquelles elles détenaient, directement ou
+indirectement, à la clôture de l'exercice de ces sociétés, 25 % au moins des actions ou parts [*pourcentage minimal de
+participation*] ;
+
+b. Pour chacune des sociétés concernées, l'ensemble des documents qui sont exigés des sociétés passibles de l'impôt sur les
+sociétés [*IS*] y compris le bilan et le compte de résultats établis suivant les règles fixées par les articles 102 U et 102
+V ;
+
+c. Un état faisant apparaître de manière détaillée les résultats établis suivant les règles fixées par le code général des
+impôts ;
+
+d. Le bilan et le compte de résultats de chacune des sociétés fournis aux administrations fiscales des pays où elles sont
+situées, dans tous les cas où ces administrations exigent le dépôt de tels documents ;
+
+e. Un état faisant apparaître le montant des prélèvements imputables sur l'impôt sur les sociétés dû par l'entreprise
+française ;
+
+f. Un état faisant apparaître le montant cumulé des bénéfices ayant fait l'objet d'une imposition séparée et le montant
+cumulé des distributions reçues des sociétés établies hors de France.
+
+II. Toutefois, les entreprises qui estiment relever des dispositions de l'article 209 B-II du code général des impôts peuvent
+se limiter à indiquer dans leur déclaration la liste de leurs participations mentionnée au a du I. La production de cette
+liste vaut indication expresse au sens de l'article 1732 du même code.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 1728 al. 2
+
+	**Cite**:
+
+	  - CGI 1732
+	  - CGI 209 B II
+	  - CGIAN2 102 U
+	  - CGIAN2 102 V
+	  - Décret n°81-1173 1981-12-31
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 ZA (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
 
 
 ##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger
@@ -12243,6 +12298,43 @@ régime simplifié de liquidation des taxes sur le chiffre d'affaires.
 
 ##### Production
 
+##### Déclarations.
+
+###### Article 267 octies
+
+Les déclarations prévues aux articles 407 et 408 de récolte et de stocks de vins prévues aux articles 407 et 408 du code
+général des impôts et qui renferment en outre les indications fixées par décrets (1) sont établies sur des imprimés mis à la
+disposition des déclarants et déposées à la mairie qui en donne récépissé. Une copie de ces déclarations reste en mairie et
+doit être communiquée à tout requérant.
+
+Les autres exemplaires sont transmis, par les soins de la mairie, au service des impôts dans le ressort duquel sont situées
+les exploitations intéressées. Ce service ne peut délivrer des titres de mouvement au déclarant pour une quantité de vin
+supérieure à celle qu'il a déclarée.
+
+Le relevé nominatif des déclarations établi d'après leur ordre de dépôt, est affiché à la mairie.
+
+Dès le début de la récolte, au fur et à mesure des nécessités de la vente, des déclarations partielles peuvent être faites
+dans les mêmes conditions que ci-dessus, sauf l'affichage qui a lieu après la déclaration totale.
+
+(1) Annexe III, art. 169 bis
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 407
+	  - CGI 408
+	  - CGIAN3 169 bis
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 169 bis (Ab)
+
+
 ##### Mesurage des appareils et vaisseaux.
 
 ###### Article 267 nonies
@@ -12412,6 +12504,41 @@ Sont considérés comme tabacs manufacturés :
 	**Codifié par**:
 
 	  - Décret n°82-881 1982-10-15
+
+
+###### Article 275 B
+
+Sont considérés comme cigares ou cigarillos, s'ils sont susceptibles d'être fumés en l'état :
+
+1° Les rouleaux de tabac constitués entièrement de tabac naturel ;
+
+2° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ;
+
+3° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares et d'une sous-cape, toutes deux en tabac
+reconstitué relevant de la sous-position 24-03-91 du tarif douanier commun de la communauté économique européenne [*CEE*],
+lorsque au moins 60 % en poids des particules de tabac ont une largeur et une longueur supérieures à 1,75 millimètre et
+lorsque la cape est apposée en hélice avec un angle aigu minimal de 30 degrés par rapport à l'axe longitudinal du cigare ;
+
+4° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares, en tabac reconstitué relevant de la sous-
+position 24-03-91 du tarif douanier commun de la communauté économique européenne, lorsque leur masse unitaire sans filtre ni
+embout est égale ou supérieure à 2,3 grammes et si au moins 60 % en poids des particules de tabac ont une largeur et une
+longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins un tiers de leur longueur est égal ou supérieur à
+34 millimètres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Arrêté du 26 décembre 2007 (V)
+	  - Arrêté du 26 décembre 2007 - art. 1 (VT)
+	  - Arrêté du 26 décembre 2007 - art. 2 (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
 
 
 ###### Article 275 D
@@ -16088,6 +16215,120 @@ détermine à partir de la date de la première mise en circulation. Il s'appré
 	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 
+### Titre III : Impositions régionales
+
+#### Chapitre premier : Enregistrement, publicité foncière et timbre
+
+##### Région de Corse.
+
+###### Article 318
+
+Les dispositions des articles 317 nonies, 317 decies et 317 duodecies sont applicables à la taxe différentielle sur les
+véhicules à moteur perçue au profit de la région de Corse (1).
+
+(1) Voir également Annexe IV, art. 155 bis
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 317 decies
+	  - CGIAN2 317 duodecies
+	  - CGIAN2 317 nonies
+	  - CGIAN4 155 bis
+
+	**Anciens textes**:
+
+	  - CGIAN2 317 septdecies
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+### Titre III : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
+
+#### Chapitre premier : Enregistrement, publicité foncière et timbre
+
+##### Corse.
+
+###### Article 318 A
+
+La taxe est annuelle ; la période d'imposition s'étend du 1er décembre de chaque année au 30 novembre de l'année suivante.
+
+Pour l'application des tarifs fixés conformément aux dispositions des articles 1599 decies à 1599 duodecies du code général
+des impôts, l'âge du véhicule se détermine à partir de la date de la première mise en circulation. Il s'apprécie au premier
+jour de la période d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 decies
+	  - CGI 1599 duodecies
+	  - CGI 1599 undecies
+
+	**Anciens textes**:
+
+	  - CGIAN2 317 octodecies
+
+	**Modifié par**:
+
+	  - Décret n°88-1001 1988-10-20 art. 3 JORF 22 octobre 1988
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+
+#### Chapitre II : Impôts directs
+
+##### Taxe spéciale d'équipement de la région d'Île-de-France.
+
+###### Article 318 B
+
+En exécution de l'article 1599 quater du code général des impôts sont applicables à la taxe spéciale d'équipement :
+
+1° Les dispositions du premier alinéa de l'article 1390 et des articles 1414 et 1414 A dudit code ;
+
+2° Les dispositions des chapitres Ier à IV du livre II du même code relatives au recouvrement des contributions directes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 quater, 1390, 1414, 1414 A
+
+	**Anciens textes**:
+
+	  - CGIAN2 320
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2001-435 2001-05-21
+
+	**Créé par**:
+
+	  - Décret n°88-1001 1988-10-20 art. 3 JORF 22 octobre 1988
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2000-656 2000-07-13 art. 11 I 1 c et VI 1 Finances rectificative pour 2000 JORF 14 juillet 2000
+
+
 ### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers à l'exception des taxes parafiscales
 
 #### Chapitre premier : Impôts directs et taxes assimilées
@@ -17425,6 +17666,37 @@ dérogation par arrêté du ministre chargé du budget.
 
 #### Chapitre II : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
 
+###### Article 339
+
+Il est institué jusqu'au [*date limite*] 31 décembre 1990 au profit de l'association pour le développement de la formation
+professionnelle dans les transports une taxe parafiscale qui est perçue, en addition à la taxe édictée par l'article 1599
+quindecies du code général des impôts, lors de la délivrance des certificats d'immatriculation des véhicules de transport de
+marchandises dont le poids total autorisé en charge excède 3,5 tonnes, des tracteurs routiers et des véhicules de transport
+en commun de voyageurs.
+
+La délivrance des certificats visés aux articles 1599 septdecies et 1599 octodecies du code précité ne donnent pas lieu au
+paiement de la taxe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 quindecies, 1599 septdecies, 1599 octodecies
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 1635 bis G, 1635 bis I et 1635 bis J
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Modifié par**:
+
+	  - Décret n°88-1001 1988-10-20 art. 3 JORF 22 octobre 1988
+
+
 ###### Article 340
 
 Les montants de la taxe sont fixés par arrêté conjoint du ministre de l'économie des finances et du budget et du ministre de
@@ -17454,6 +17726,34 @@ tonnes, tracteurs routiers et véhicules de transport en commun de voyageurs :  
 	**Codifié par**:
 
 	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 341
+
+La taxe est recouvrée selon les mêmes règles et sous les mêmes conditions que la taxe prévue à l'article 1599 quindecies du
+code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 quindecies
+
+	**Anciens textes**:
+
+	  - CGI 1635 bis G
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Modifié par**:
+
+	  - Décret n°88-1001 1988-10-20 art. 3 JORF 22 octobre 1988
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
 
 
 #### Chapitre III : Fonds d'orientation et de régularisation des marchés agricoles - Taxe sur les produits résineux et produits dérivés.
@@ -20520,65 +20820,6 @@ concurrence de l'impôt qui frapperait isolément des exploitations situées dan
 	  - Décret n°88-1052 du 18 novembre 1988 - art. 1 (V) JORF 22 novembre 1988
 
 
-#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES
-
-##### BENEFICES REALISES PAR L'INTERMEDIAIRE DE SOCIETES ETABLIES DANS DES PAYS A REGIME FISCAL PRIVILEGIE *PARADIS FISCAL* (*).
-
-###### Article 102 Z
-
-I. Les entreprises qui entrent dans le champ d'application de l'article 209 B du code général des impôts doivent produire,
-dans le même délai que la déclaration de leurs résultats, une déclaration [*formalité obligatoire*] comportant les
-renseignements et documents suivants [*mentions*] :
-
-a. Le nom ou la raison sociale ainsi que l'adresse du siège social des sociétés établies dans un Etat étranger ou un
-territoire situé hors de France dont le régime fiscal est privilégié et dans lesquelles elles détenaient, directement ou
-indirectement, à la clôture de l'exercice de ces sociétés, 25 % au moins des actions ou parts [*pourcentage minimal de
-participation*] ;
-
-b. Pour chacune des sociétés concernées, l'ensemble des documents qui sont exigés des sociétés passibles de l'impôt sur les
-sociétés [*IS*] y compris le bilan et le compte de résultats établis suivant les règles fixées par les articles 102 U et 102
-V ;
-
-c. Un état faisant apparaître de manière détaillée les résultats établis suivant les règles fixées par le code général des
-impôts ;
-
-d. Le bilan et le compte de résultats de chacune des sociétés fournis aux administrations fiscales des pays où elles sont
-situées, dans tous les cas où ces administrations exigent le dépôt de tels documents ;
-
-e. Un état faisant apparaître le montant des prélèvements imputables sur l'impôt sur les sociétés dû par l'entreprise
-française ;
-
-f. Un état faisant apparaître le montant cumulé des bénéfices ayant fait l'objet d'une imposition séparée et le montant
-cumulé des distributions reçues des sociétés établies hors de France.
-
-II. Toutefois, les entreprises qui estiment relever des dispositions de l'article 209 B-II du code général des impôts peuvent
-se limiter à indiquer dans leur déclaration la liste de leurs participations mentionnée au a du I. La production de cette
-liste vaut indication expresse au sens du deuxième alinéa de l'article 1728 du même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1728 AL. 2
-	  - CGI 209 B II
-	  - CGIAN2 102 U
-	  - CGIAN2 102 V
-	  - Décret n°81-1173 1981-12-31
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Créé par**:
-
-	  - Décret n°81-1173 du 30 décembre 1981 - art. 8 (V) JORF 31 DECEMBRE 1981
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 ZA (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
-
-
 #### TAXE SUR LES ENCOURS DE CREDITS.
 
 ###### Article 163 A
@@ -21315,180 +21556,7 @@ L. 18 et L. 20 du code des débits de boissons et des mesures contre l'alcoolism
 	  - Décret n°79-1163 du 29 décembre 1979 - art. 26 (V) JORF 31 DECEMBRE 1979
 
 
-### CONTRIBUTIONS INDIRECTES
-
-#### BOISSONS - VINS ET CIDRES.
-
-###### Article 267 octies
-
-Les déclarations de récolte et de stocks de vins prévues aux articles 407 et 408 du code général des impôts et qui renferment
-en outre les indications fixées par décrets (1) sont établies sur des imprimés mis à la disposition des déclarants et
-déposées à la mairie qui en donne récépissé. Une copie de ces déclarations reste en mairie et doit être communiquée à tout
-requérant.
-
-Les autres exemplaires sont transmis, par les soins de la mairie, au service des impôts dans le ressort duquel sont situées
-les exploitations intéressées. Ce service ne peut délivrer des titres de mouvement au déclarant pour une quantité de vin
-supérieure à celle qu'il a déclarée.
-
-Le relevé nominatif des déclarations établi d'après leur ordre de dépôt, est affiché à la mairie.
-
-Dès le début de la récolte, au fur et à mesure des nécessités de la vente, des déclarations partielles de récolte peuvent
-être faites dans les mêmes conditions que ci-dessus, sauf l'affichage qui a lieu après la déclaration totale.
-
-(1) Annexe III, art. 169 bis
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 407
-	  - CGI 408
-	  - CGIAN3 169 bis
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 169 bis (Ab)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-#### MONOPOLES FISCAUX
-
-##### TABACS.
-
-###### Article 275 B
-
-Sont considérés comme cigares ou cigarillos, s'ils sont susceptibles d'être fumés en l'état :
-
-1° Les rouleaux de tabac constitués entièrement de tabac naturel ;
-
-2° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ;
-
-3° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares et d'une sous-cape, toutes deux en tabac
-reconstitué relevant de la sous-position 24.02 E du tarif douanier commun de la communauté économique européenne [*CEE*],
-lorsque au moins 60 % en poids des particules de tabac ont une largeur et une longueur supérieures à 1,75 millimètre et
-lorsque la cape est apposée en hélice avec un angle aigu minimal de 30 degrés par rapport à l'axe longitudinal du cigare ;
-
-4° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des cigares, en tabac reconstitué relevant de la sous-
-position 24.02 E du tarif douanier commun de la communauté économique européenne, lorsque leur masse unitaire sans filtre ni
-embout est égale ou supérieure à 2,3 grammes et si au moins 60 % en poids des particules de tabac ont une largeur et une
-longueur supérieures à 1,75 millimètre et que leur périmètre sur au moins un tiers de leur longueur est égal ou supérieur à
-34 millimètres.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°82-553 du 29 juin 1982 - art. 3 (V) JORF 1 JUILLET 1982
-
-	**Cité par**:
-
-	  - Arrêté du 26 décembre 2007 (V)
-	  - Arrêté du 26 décembre 2007 - art. 1 (VT)
-	  - Arrêté du 26 décembre 2007 - art. 2 (VT)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
-
-### IMPOSITIONS REGIONALES
-
-###### Article 318
-
-Les dispositions des articles 317 nonies, 317 decies et 317 duodecies sont applicables à la taxe différentielle sur les
-véhicules à moteur perçue au profit de la région de Corse (1).
-
-Voir également Annexe IV, art. 155 bis
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 317 decies
-	  - CGIAN2 317 duodecies
-	  - CGIAN2 317 nonies
-	  - CGIAN4 155 bis
-
-	**Anciens textes**:
-
-	  - CGIAN2 317 septdecies
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
-###### Article 318 A
-
-La taxe est annuelle ; la période d'imposition s'étend du 1er décembre de chaque année au 30 novembre de l'année suivante.
-
-Pour l'application des tarifs fixés conformément aux dispositions des articles 1599 decies à 1599 duodecies du code général
-des impôts, l'âge du véhicule se détermine à partir de la date de la première mise en circulation. Il s'apprécie au premier
-jour de la période d'imposition.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 decies
-	  - CGI 1599 duodecies
-	  - CGI 1599 undecies
-
-	**Anciens textes**:
-
-	  - CGIAN2 317 octodecies
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS.
-
-###### Article 320
-
-En exécution de l'article 1607 du code général des impôts, sont applicables à la taxe spéciale d'équipement :
-
-1° Les dispositions des articles 1390, premier alinéa, 1414 et 1414 A dudit code (1);
-
-2° Les dispositions des chapitres Ier à IV du livre II du même code relatives au recouvrement des contributions directes.
-
-1) Les dispositions de l'ancien article 1398 bis du code général des impôts demeurent applicables à la taxe spéciale
-d'équipement pour les personnes qui ont bénéficié en 1967 du dégrèvement d'office de la contribution foncière qu'il
-prévoyait.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1390 al. 1
-	  - CGI 1398 bis
-	  - CGI 1414
-	  - CGI 1414 A
-	  - CGI 1607
-	  - CGI 1657 A CGI 1929 quinquies
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 318 B
-
-	**Anciens textes**:
-
-	  - CGIAN2 324
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°88-1001 1988-10-20
-
 
 ### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE
 
@@ -21598,146 +21666,6 @@ fiscales.
 
 ## IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES.
 
-###### Article 339
-
-Il est institué jusqu'au [*date limite*] 31 décembre 1990 au profit de l'association pour le développement de la formation
-professionnelle dans les transports une taxe parafiscale qui est perçue, en addition à la taxe édictée par l'article 1635 bis
-G du code général des impôts, lors de la délivrance des certificats d'immatriculation des véhicules de transport de
-marchandises dont le poids total autorisé en charge excède 3,5 tonnes, des tracteurs routiers et des véhicules de transport
-en commun de voyageurs.
-
-La délivrance des certificats visés aux articles 1635 bis I et 1635 bis J du code précité ne donnent pas lieu au paiement de
-la taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1635 bis G
-	  - CGI 1635 bis I
-	  - CGI 1635 bis J
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Modifié par**:
-
-	  - Loi n°85-1525 1985-12-31 art. 1, art. 2 JORF 9 janvier 1986
-
-
-###### Article 341
-
-La taxe est recouvrée selon les mêmes règles et sous les mêmes conditions que la taxe prévue à l'article 1635 bis G du code
-général des impôts.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1635 bis G
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
-
-
-###### Article 363 AJ
-
-Pour l'application des dispositions prévues aux articles 363 AH et 363 AI, sont considérés comme livreurs [*définition*], les
-propriétaires exploitants, fermiers, métayers récoltant du blé, de l'orge ou du maïs, ainsi que les personnes ou sociétés qui
-reçoivent du blé, de l'orge ou du maïs en paiement de fermages ou services.
-
-Dans le cas de métayage ou de bail à portion de fruits, le bailleur, d'une part, et le métayer ou colon partiaire, d'autre
-part, sont autorisés à livrer séparément la part de récolte qui leur revient.
-
-En cas d'indivision successorale en ligne directe, chacun des cohéritiers est autorisé à livrer sous son nom la partie de la
-récolte qui lui revient, sous réserve qu'il soit présent sur l'exploitation et y participe personnellement.
-
-En ce qui concerne les groupements agricoles d'exploitation en commun, la livraison effectuée par ces groupements est
-répartie entre les associés en fonction de leur part respective dans le capital social.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 AH, 363 AI
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°82-733 du 23 août 1982 - art. 6 (P) JORF 25 août 1982
-
-
-###### Article 363 AK
-
-Un arrêté conjoint du ministre de l'économie et des finances, du ministre chargé du budget, et du ministre de l'agriculture
-pris après avis du conseil central de l'office national interprofessionnel des céréales [*ONIC*] fixe les modalités
-d'application des articles 363 AE à 363 AJ, et notamment celles de la modulation prévue au deuxième alinéa de l'article 363
-AH.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 AE, 363 AF, 363 AG, 363 AH, 363 AI, 363 AJ
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°82-733 du 23 août 1982 - art. 7 (P) JORF 25 août 1982
-
-
-###### Article 363 AL
-
-Un arrêté, pris dans les formes prévues à l'article 363 AK, fixe pour chaque campagne les montants de la taxe et de ses
-compléments en francs par tonne de céréales, dans les limites obtenues en appliquant les taux maxima définis aux articles 363
-AG et 363 AH aux prix directeurs en vigueur au début des campagnes de commercialisation concernées, ces prix étant convertis
-en francs français sur la base du taux de conversion de l'Ecu dans le secteur agricole à la date du 1er juillet de l'année
-civile en cours.
-
-Pour le triticale, le montant à la tonne de la taxe applicable est égal au montant en valeur absolue de la taxe perçue à la
-tonne de seigle, tel que ce montant résulte des dispositions qui précèdent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 AG
-	  - CGIAN2 363 AH
-	  - CGIAN2 363 AK
-
-	**Modifié par**:
-
-	  - Décret n°85-1017 1985-09-24 art. 1 JORF 25 septembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-
 ###### Article 364
 
 Les taxes parafiscales sont établies par décret en Conseil d'Etat pris sur le rapport du ministre chargé du budget et du ou
@@ -21792,43 +21720,6 @@ l'économie et du ou des ministres intéressés fixent, s'il y a lieu, le taux d
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
-
-
-## DISPOSITIONS COMMUNES AUX IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
-
-### ASSIETTE ET CONTROLE DE L'IMPOT
-
-#### OBLIGATIONS DES CONTRIBUABLES.
-
-###### Article 368 D
-
-Les bons de remis ou leurs duplicata sont conservés, dans chaque établissement ou lieu de stockage, à l'appui de la
-comptabilité matière tenue par les personnes qui détiennent, transforment ou utilisent les produits correspondants et où sont
-consignés les entrées, sorties et stocks de ces produits.
-
-Tous autres registres ou documents présentant les mêmes indications tiennent lieu de la comptabilité ci-dessus.
-
-Les dispositions du présent article sont applicables à la tenue du registre prévu à l'article 1649 ter C du code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 ter C
-
-	**Anciens textes**:
-
-	  - CGIAN1 310 decies
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 370 B
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°88-1001 1988-10-20
 
 
 # Livre II : Recouvrement de l'impôt
