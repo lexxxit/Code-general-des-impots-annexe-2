@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1987-01-28
+Version Consolidée au 1987-02-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5081,6 +5081,39 @@ Modification du décret 97-661 :
 
 	  - HISTO: EDITION 1979-07-01
 	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 140 JA
+
+Le versement prévu à l'article 226 A du code général des impôts est assis sur le montant brut de la contribution incombant à
+l'employeur au titre de la taxe d'apprentissage.
+
+Son taux est fixé à 9 %.
+
+Ce versement est effectué par l'employeur à toutes les exonérations autres que celles prévues au titre de la fraction de la
+taxe d'apprentissage visée à l'article L. 118-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 226 A
+	  - Code du travail - art. L118-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°87-66 du 5 février 1987 - art. 1 () JORF 6 février 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 11 avril 1997
+	  - PEREMPTION: Loi n°96-376 du 6 mai 1996 - art. 7 (V) JORF 7 mai 1996
 
 
 ###### Article 140 K
@@ -16811,32 +16844,6 @@ mois suivant l'adoption de ces décisions.
 	**Modifié par**:
 
 	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-
-###### Article 140 JA
-
-Le versement prévu à l'article 226 A du code général des impôts est assis sur le montant brut de la contribution incombant à
-l'employeur au titre de la taxe d'apprentissage.
-
-Son taux est fixé à 7 %.
-
-Ce versement est effectué par l'employeur à toutes les exonérations autres que celles prévues au titre de la fraction de la
-taxe d'apprentissage visée à l'article L. 118-1 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 226 A
-	  - Code du travail - art. L118-1 (M)
-
-	**Créé par**:
-
-	  - Décret n°80-106 1980-02-01 ART. 1 JORF 2 FEVRIER 1980
 
 	**Codifié par**:
 
