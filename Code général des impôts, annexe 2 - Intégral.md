@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1977-12-31
+Version Consolidée au 1978-01-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -132,6 +132,50 @@ dans la mesure où ils sont admis en déduction des bénéfices imposables des s
 	  - Décret n°81-866 1981-09-15
 
 
+## Troisième partie : Dispositions communes aux première et deuxième parties
+
+### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales
+
+#### Section II : Associations agréées des professions libérales
+
+###### Article 371 QA
+
+Les statuts doivent comporter des clauses selon lesquelles les associations s'engagent :
+
+1° A ne faire aucune publicité, sauf dans les journaux et bulletins professionnels ;
+
+2° A faire figurer sur leur correspondance et sur tous les documents établis par leurs soins leur qualité d'associations
+agréées et les références de la décision d'agrément ;
+
+3° A informer l'administration fiscale des modifications apportées à leurs statuts et des changements intervenus en ce qui
+concerne les personnes qui les dirigent ou les administrent, dans le délai d'un mois à compter de la réalisation de ces
+modifications ou changements ; pour ces personnes, l'association doit fournir à l'administration fiscale le certificat prévu
+à l'article 371 D ;
+
+4° A souscrire un contrat auprès d'une société d'assurances ou d'un assureur agréé en application du livre III du code des
+assurances les garantissant contre les conséquences pécuniaires de la responsabilité civile professionnelle qu'elles peuvent
+encourir en raison des négligences et fautes commises dans l'exercice de leurs activités ;
+
+5° A exiger de toute personne collaborant à leurs travaux le respect du secret professionnel ;
+
+6° Au cas où l'agrément leur serait retiré, à en informer leurs adhérents dès réception de la notification de la décision de
+retrait d'agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°77-1519 du 31 décembre 1977 - art. 9 (Ab) JORF 4 janvier 1978
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D
+
+
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
 ## IMPOTS D'ETAT
@@ -216,5 +260,68 @@ intervenus soit la levée de l'option, soit la conversion ou le transfert, soit 
 	**Modifié par**:
 
 	  - Loi n°70-1322 du 31 décembre 1970 - art. 1 () JORF 3 janvier 1971
+
+
+## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*
+
+### ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES.
+
+###### Article 371 Q
+
+Les statuts de l'association précisent les conditions de participation à sa gestion des personnes ou organismes fondateurs.
+
+Les statuts des associations doivent contenir les clauses suivantes :
+
+1° L'association a pour objet de fournir à ses membres adhérents des services ou informations qui leur permettent de
+développer l'usage de la comptabilité et qui facilitent l'accomplissement de leurs obligations administratives et fiscales ;
+
+2° L'association élabore pour ceux de ses membres adhérents qui relèvent d'un régime réel d'imposition les déclarations
+relatives à leur activité professionnelle destinées à l'administration fiscale, lorsque ces membres en font la demande.
+
+Toutefois, ces déclarations ne peuvent porter que sur une période au cours de laquelle les intéressés étaient membres de
+l'association ;
+
+3° L'adhésion à l'association implique :
+
+a. L'engagement par les membres soumis à un régime réel d'imposition de suivre les recommandations qui leur ont été
+adressées, conformément aux articles 371 X à 371 Z, par les ordres et organisations dont ils relèvent, en vue d'améliorer la
+connaissance des revenus de leurs ressortissants ;
+
+b. L'engagement par ceux de ces membres dont les déclarations de bénéfices sont élaborées par l'association de fournir à
+celle-ci tous les éléments nécessaires à l'établissement de déclarations sincères et complètes ;
+
+c. L'engagement par ceux de ces membres qui ne font pas élaborer leur déclaration par l'association, mais qui remplissent les
+conditions pour prétendre à l'abattement prévu à l'article 158-4 ter du code général des impôts, de communiquer à
+l'association, préalablement à l'envoi au service des impôts de la déclaration prévue à l'article 97 du même code, le montant
+du résultat imposable et l'ensemble des données utilisées pour la détermination de ce résultat ;
+
+d. L'autorisation donnée à l'association de communiquer à l'agent de l'administration fiscale qui apporte son assistance
+technique à l'association les renseignements ou documents mentionnés au présent article ;
+
+e. En cas de manquements graves ou répétés aux engagements énoncés ci-dessus, l'adhérent sera exclu de l'association. Il
+devra être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 25 novembre 2010 - art. (Ab)
+
+	**Cite**:
+
+	  - CGI 158 4 ter
+	  - CGI 97
+	  - CGIAN2 371 X
+	  - CGIAN2 371 Y
+	  - CGIAN2 371 Z
+
+	**Modifié par**:
+
+	  - Décret n°77-1519 du 31 décembre 1977 - art. 7 (Ab) JORF 4 JANVIER 1978
+	  - Décret n°77-1519 du 31 décembre 1977 - art. 8 (Ab) JORF 4 JANVIER 1978
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
