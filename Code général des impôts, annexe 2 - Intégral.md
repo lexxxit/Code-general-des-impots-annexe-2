@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-08-22
+Version Consolidée au 2004-08-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17160,6 +17160,134 @@ valeur nominale des droits attribués.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 E (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 I (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 K (V)
+
+
+#### Chapitre Ier bis : Impôt de solidarité sur la fortune
+
+###### Article 301 G
+
+I. - La personne, ou ses ayants cause à titre gratuit, qui demande à bénéficier pour la première fois du régime prévu par les
+dispositions de l'article 885 I bis du code général des impôts doit fournir les documents suivants :
+
+1° Une copie de l'acte enregistré mentionné au a dudit article et comportant l'identité et l'adresse des associés ayant
+souscrit l'engagement collectif de conservation, le nombre de titres soumis à cet engagement et leur répartition entre les
+associés ;
+
+2° Un document indiquant l'identité de l'associé qui remplit la condition prévue au c du même article ;
+
+3° L'attestation mentionnée au d du même article. Cette attestation précisera, s'il y a lieu, l'identité et l'adresse des
+cessionnaires ou des donataires de titres soumis à l'engagement ainsi que le nombre de titres transmis à chacun d'eux ;
+
+4° Dans l'hypothèse où le régime prévu par l'article 885 I bis concerne les titres d'une société interposée entre la personne
+et la société signataire de l'engagement collectif de conservation, une attestation de la société interposée précisant le
+nombre de titres qu'elle détient dans la société signataire de l'engagement collectif de conservation à la date de la
+signature de celui-ci et certifiant que, depuis cette date, cette participation est demeurée inchangée.
+
+II. - Les années suivantes et jusqu'à l'année suivant celle du terme de l'engagement, la personne qui a bénéficié ou qui
+continue à bénéficier du régime prévu par les dispositions de l'article 885 I bis du code général des impôts, ou ses ayants
+cause à titre gratuit par décès, doit fournir, chaque année :
+
+1° L'attestation mentionnée au d dudit article. Cette attestation précisera, s'il y a lieu, l'identité et l'adresse des
+cessionnaires ou des donataires de titres soumis à l'engagement ainsi que le nombre de titres transmis à chacun d'eux ;
+
+2° Le cas échéant, la copie des avenants à l'engagement conclu l'année précédant celle du fait générateur ;
+
+3° Un document indiquant les changements ayant éventuellement affecté l'identité de la personne qui remplit la condition
+prévue au c de l'article 885 I bis ;
+
+4° Dans l'hypothèse mentionnée au 4° du I, une attestation de la société interposée certifiant que sa participation dans la
+société signataire est demeurée inchangée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 885 I bis
+
+	**Créé par**:
+
+	  - Décret n°2004-851 du 24 août 2004 - art. 1 () JORF 25 août 2004
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 H (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 J (T)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 301 H
+
+En cas de non-respect de la condition prévue au a de l'article 885 I bis du code général des impôts par l'un des signataires
+et si les autres signataires continuent de respecter la condition tenant aux seuils minimaux de 20 % ou 34 %, l'attestation
+prévue au d du même article doit certifier que ces derniers ont conservé entre eux leurs titres. En cas de non-respect
+desdits seuils et de la signature d'un nouvel engagement, la transmission de l'attestation précitée ne dispense pas les
+signataires de ce nouvel engagement de l'observation des obligations déclaratives prévues à l'article 301 G.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 885 I bis, 301 G
+
+	**Créé par**:
+
+	  - Décret n°2004-851 du 24 août 2004 - art. 1 () JORF 25 août 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 301 I
+
+En cas d'opérations de fusion, de scission, d'augmentation de capital ou d'annulation de titres mentionnées au deuxième
+alinéa du e de l'article 885 I bis du code général des impôts, la personne qui a bénéficié du régime prévu par cet article
+doit fournir, jusqu'à l'année suivant celle du terme de l'engagement collectif de conservation, une attestation émanant :
+
+1° Soit de la société bénéficiaire mentionnée à l'article 301 F certifiant que les signataires ont respecté, pendant l'année
+précédant celle du fait générateur de l'impôt, l'engagement collectif prévu au a de l'article 885 I bis ou, à défaut,
+conservé les titres reçus en contrepartie de l'opération ;
+
+2° Soit de la société dont les titres font l'objet de l'engagement en cas d'augmentation de capital ou d'annulation de titres
+pour cause de perte certifiant que les signataires de l'engagement ont, pendant l'année précédant celle du fait générateur de
+l'impôt, conservé les titres détenus à l'issue de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 885 I bis
+
+	**Créé par**:
+
+	  - Décret n°2004-851 du 24 août 2004 - art. 1 () JORF 25 août 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 301 J
+
+Les informations et documents mentionnés aux articles 301 G à 301 I sont communiqués à l'administration par la personne qui
+bénéficie du régime prévu à l'article 885 I bis du code général des impôts lors du dépôt de sa déclaration d'impôt de
+solidarité sur la fortune ou sont adressés au centre des impôts de son domicile lorsqu'elle n'est pas tenue de déposer une
+déclaration. Il en est de même pour la personne qui a bénéficié de cette exonération et qui n'est plus tenue de déposer cette
+même déclaration. En cas de décès de cette personne, ils sont également adressés par ses ayants cause à titre gratuit au
+centre des impôts du domicile du défunt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-851 du 24 août 2004 - art. 1 () JORF 25 août 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
 
 
 #### Chapitre II : Droits de timbre
