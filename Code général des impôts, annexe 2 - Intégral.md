@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-05-21
+Version Consolidée au 1986-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9853,6 +9853,44 @@ versements.
 	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
 
 
+###### Article 253
+
+Pour les ventes et apports en société de terrains lotis et de terrains aménagés ou équipés, les redevables peuvent demander à
+appliquer les taux suivants au lieu et place des taux prévus dans le code général des impôts à l'article 281 quinquies, au c
+de l'article 296 bis et au 1-4° du 1 du I de l'article 297 (1):
+
+a. 18,6 % [*pourcentage*] en France continentale ;
+
+b. 7,5 % dans les départements de la Guadeloupe, de la Martinique et de la Réunion ;
+
+c. 8% dans les départements de Corse.
+
+(1) Dispositions applicables à compter du 1er juillet 1986.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 281 quinquies
+	  - CGI 296 bis c
+	  - CGI 297 I 1 4°
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre 1985 en vigueur le 1er juillet 1986
+	  - Décret n°86-414 du 13 mars 1986 - art. 1 (V) JORF 15 mars 1986
+	  - Décret n°86-414 du 13 mars 1986 - art. 2 (V) JORF 15 mars 1986
+	  - Décret n°86-414 du 13 mars 1986 - art. 3 (V) JORF 15 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07 Décret 92-836 1992-08-27
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991
+
+
 ###### Article 254
 
 A compter d'une date qui sera fixée par le ministre de l'économie et des finances, les personnes qui réalisent des opérations
@@ -9870,6 +9908,37 @@ trimestriellement (1).
 	**Abrogé par**:
 
 	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
+
+
+##### III : Régularisation en cas de modification de la base d'imposition.
+
+###### Article 255
+
+En cas d'application des dispositions du II de l'article 281 quinquies, du c de l'article 296 bis et du 4° du 1 du I de
+l'article 297, du code général des impôts, il est procédé à une nouvelle liquidation de la taxe sur la valeur ajoutée ayant,
+le cas échéant, grevé la livraison à soi-même de l'immeuble construit sur le terrain précédemment acquis.
+
+Les dispositions du II de l'article 281 quinquies ne sont pas applicables lorsque les terrains acquis sont attenants à des
+terrains dont l'acquisition a été replacée dans le champ d'application de la taxe de publicité foncière ou des droits
+d'enregistrement comme il est dit à l'article 291 ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 281 quinquies II
+	  - CGI 291
+	  - CGI 296 bis c
+	  - CGI 297 I 1 4°
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre 1985 en vigueur le 1er juillet 1986
+	  - Décret n°86-414 du 13 mars 1986 - art. 1 (V) JORF 15 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ##### IV : Dispositions diverses
