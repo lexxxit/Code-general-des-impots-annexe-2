@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-01-22
+Version Consolidée au 1986-02-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13547,6 +13547,84 @@ impôts ne sont pas applicables.
 
 #### Chapitre IV : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.
 
+###### Article 345
+
+Il est institué jusqu'au 31 décembre 1990 [*date limite*] au profit du comité professionnel de développement de l'horlogerie
+et du centre technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de vente, de livraison ou
+d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume, définis à l'article 346,
+réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
+
+Cette taxe parafiscale ne s'applique pas aux articles d'occasion, ni aux articles exportés. Sa perception sur les articles
+importés de la Communauté économique européenne [*CEE*] donne lieu à remboursement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 346
+
+	**Modifié par**:
+
+	  - Décret n°86-163 du 4 février 1986 - art. 1 (V) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 346
+
+Les opérations passibles de la taxe parafiscale sont celles visées à l'article 345 et portant sur les produits figurant au
+groupe 34-01 de la nomenclature approuvée par le décret n° 83-831 du 5 septembre 1983 à l'exclusion :
+
+a. De l'ensemble des produits mentionnés à la rubrique 34-01-12 ;
+
+b. Des produits visés à la rubrique 34-01-13 sous l'appellation "appareils de contrôle et compteurs de temps à mouvement
+singulier d'horlogerie ou à moteur synchrone tels que enregistreurs de présence, horodateurs, contrôleurs de rondes,
+minutiers, compteurs de secondes" ;
+
+c. Des produits suivants rangés sous la rubrique 34-01-15 "munis d'un moteur synchrone permettant de déclencher un mécanisme
+à temps donné tels que interrupteurs horaires, horaires, horloges de commutation."
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 345
+	  - Décret n°83-831 1983-09-05
+
+	**Modifié par**:
+
+	  - Décret n°86-163 du 4 février 1986 - art. 2 (V) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 347
+
+Le taux de la taxe est fixé par un arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie dans la
+limite de 0,55 % [*pourcentage*] de la valeur de vente pour le comité professionnel de développement de l'horlogerie et de
+0,25 % de la valeur de vente pour le centre technique de l'industrie horlogère (1).
+
+(1) Annexe IV, art. 159 AL bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 AL bis
+
+	**Modifié par**:
+
+	  - Décret n°86-163 du 4 février 1986 - art. 3 (V) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
 ###### Article 348
 
 Sous réserve des dispositions des articles 349 et 350, la taxe est assise, liquidée et recouvrée comme en matière de taxe sur
@@ -13623,6 +13701,122 @@ les entreprises bénéficient de la franchise définie au 1 de l'article 282 pr�
 	**Liens**:
 
 	  - PEREMPTION: Décret n°91-883 du 9 septembre 1991 - art. 2 () JORF 10 septembre 1991
+
+
+#### Chapitre V : Taxe parafiscale des industries textiles.
+
+###### Article 357 A
+
+En vue d'encourager la promotion des industries textiles, et notamment la recherche, l'innovation et la rénovation des
+structures industrielles et commerciales, est autorisée, dans la limite d'un taux de 0,44 % [*pourcentage*] et jusqu'au 31
+décembre 1990 [*date limite*], la perception au profit du comité de développement et de promotion du textile et de
+l'habillement d'une taxe parafiscale assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et les
+mêmes sanctions que la taxe sur la valeur ajoutée [*TVA*], sous réserve des dispositions des articles 357 B à 357 E.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 357 B
+	  - CGIAN2 357 C
+	  - CGIAN2 357 D
+	  - CGIAN2 357 E
+
+	**Modifié par**:
+
+	  - Décret n°86-159 du 4 février 1986 - art. 1 (V) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 357 B
+
+Sont soumises à la taxe prévue à l'article 357 A, les ventes réalisées par les fabricants et les transformateurs, les
+opérations à façon et les importations pour la consommation portant sur les produits textiles relevant des classes 43 et 44,
+à l'exception des groupes 44-20 à 44-25 de la nomenclature détaillée de produits approuvé par le décret n° 83-831 du 5
+septembre 1983.
+
+Sont également soumises à cette taxe, les livraisons des produits textiles indiqués au premier alinéa que les entreprises se
+font à elles-mêmes pour être utilisées dans la fabrication de produits ou articles non imposables à cette taxe et contenant
+par rapport à leur poids total plus de 25 % [*pourcentage*] de ces produits.
+
+La taxe n'est pas perçue sur les articles importés originaires des Etats membres de la Communauté économique européenne
+[*CEE*] ou mis en libre pratique dans l'un de ceux-ci.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 357 A
+	  - Décret n°83-831 1983-09-05
+
+	**Modifié par**:
+
+	  - Décret n°86-159 du 4 février 1986 - art. 2 (V) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 357 C
+
+Les ventes, les opérations à façon et les livraisons à soi-même effectuées par les entreprises imposées à la taxe sur la
+valeur ajoutée [*TVA*] selon le régime du forfait sont exonérées de la taxe prévue à l'article 357 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 357 A
+
+	**Modifié par**:
+
+	  - Décret n°86-159 du 4 février 1986 - art. 3 (V) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 357 D
+
+Le produit des taxes recouvrées par l'administration des impôts et l'administration des douanes est transféré [*périodicité*]
+mensuellement au comité de développement et de promotion du textile et de l'habillement, à charge pour celui-ci de répartir
+ces ressources, conformément aux missions qui lui sont confiées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-159 du 4 février 1986 - art. 4 (V) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 357 E
+
+Le taux de la taxe est fixé par arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie (1).
+
+(1) Voir annexe IV, art. 159 AL quater A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 AL quater A
+
+	**Modifié par**:
+
+	  - Décret n°86-159 du 4 février 1986 - art. 4 (V) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 #### Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.
@@ -13705,6 +13899,232 @@ applicable dans la limite du taux maximum.
 	**Codifié par**:
 
 	  - Décret n°85-1007 1985-09-24
+
+
+#### Chapitre VIII : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.
+
+###### Article 363 A
+
+En vue d'encourager la promotion des industries de l'ameublement, et notamment la recherche, l'innovation et la rénovation
+des structures industrielles, est autorisée, dans la limite d'un taux de 0,35 % [*pourcentage*] et jusqu'au 31 décembre 1990
+[*date limite*], la perception au profit du comité de développement des industries françaises de l'ameublement d'une taxe
+parafiscale assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et sanctions que la taxe sur la
+valeur ajoutée [*TVA*] sous réserve des articles 363 B et 363 B bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 B
+	  - CGIAN2 363 B bis
+
+	**Modifié par**:
+
+	  - Décret n°86-158 du 4 février 1986 - art. 1 (V) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 363 B
+
+I. Sont soumises à la taxe prévue à l'article 363 A les ventes, y compris à l'exportation, réalisées par les fabricants de
+produits relevant de la classe 49, à l'exclusion du groupe 49-04, de la nomenclature détaillée de produits approuvés par le
+décret n° 83-831 du 5 septembre 1983.
+
+II. Les biens constituant des immobilisations n'ouvrent pas droit à déduction de la taxe parafiscale dont ils sont grevés.
+
+III. Les ventes effectuées par les entreprises imposées à la taxe sur la valeur ajoutée [*TVA*] selon le régime du forfait
+sont exonérées de la taxe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 363 A
+	  - Décret n°83-831 1983-09-05
+
+	**Modifié par**:
+
+	  - Décret n°86-158 du 4 février 1986 - art. 2 (V) JORF 6 février 1986
+	  - Décret n°86-158 du 4 février 1986 - art. 3 (V) JORF 6 février 1986
+	  - Décret n°86-158 du 4 février 1986 - art. 4 (V) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 363 B bis
+
+Le produit de la taxe prévue à l'article 363 A est recouvré par l'administration des impôts.
+
+Son taux est fixé par arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie (1).
+
+Annexe IV, art. 159 AL quater.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 AL quater
+
+	**Créé par**:
+
+	  - Décret n°86-158 du 4 février 1986 - art. 5 (V) JORF 6 février 1986
+
+
+#### Chapitre X : Taxe parafiscale des industries de l'habillement et de la maille.
+
+###### Article 363 N
+
+En vue d'encourager dans les industries de l'habillement et de la maille, et notamment la recherche, l'innovation et la
+rénovation des structures industrielles et commerciales, est autorisée, dans la limite d'un taux de 0,25 %[*pourcentage*] et
+jusqu'au 31 décembre 1990 [*date limite*], la perception au profit du comité de developpement et de promotion du textile et
+de l'habillement d'une taxe parafiscale assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et
+les mêmes sanctions que la taxe sur la valeur ajoutée [*TVA*] sous réserve des articles 363 O à 363 S.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 O
+	  - CGIAN2 363 P
+	  - CGIAN2 363 Q
+	  - CGIAN2 363 R
+	  - CGIAN2 363 S
+
+	**Modifié par**:
+
+	  - Décret n°86-160 du 4 février 1986 - art. 1 (P) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 363 O
+
+Sont soumises à cette taxe les ventes et les livraisons à soi-même réalisées par les fabricants et les transformateurs, les
+opérations à façon et les importations pour la consommation portant sur les produits en maille et les articles d'habillement
+relevant respectivement des groupes 44-20 à 44-25 et de la classe 47 de la nomenclature détaillée et de produits approuvée
+par le décret n° 83-831 du 5 septembre 1983.
+
+La taxe n'est pas perçue sur les articles importés originaires des Etats membres de la Communauté économique européenne
+[*CEE*] ou mis en libre pratique dans l'un de ceux-ci.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°83-831 1983-09-05
+
+	**Modifié par**:
+
+	  - Décret n°86-160 du 4 février 1986 - art. 2 (P) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 363 P
+
+Les ventes, les opérations à façon et les livraisons à soi-même effectuées par les entreprises imposées à la taxe sur la
+valeur ajoutée selon le régime du forfait sont exonérées de la taxe instituée par l'article 363 N.
+
+Les ventes assujetties à la taxe et réalisées au détail par les fabricants et les transformateurs désignés à l'article 363 O
+sont imposables sur 60 % [*pourcentage*] de leur montant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 N
+	  - CGIAN2 363 O
+
+	**Modifié par**:
+
+	  - Décret n°86-160 du 4 février 1986 - art. 3 (P) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 363 Q
+
+Les entreprises qui produisent à la fois des accessoires du vêtement et des ceintures de maroquinerie relevant respectivement
+des groupes 47-09 et 45-21 de la nomenclature mentionnée à l'article 363 O peuvent, en ce qui concerne l'ensemble des ventes
+de ces articles, demander à être soumises soit à la taxe prévue à l'article 363 N soit à la taxe sur les cuirs (1) si les
+ventes des produits de l'un ou de l'autre groupe pour lequel l'option est demandée représentent plus de 30 % de leur chiffre
+d'affaires total.
+
+Cette option, formulée sur papier libre et adressée à la fois aux services locaux des impôts et aux deux comités
+professionnels intéressés avant le 6 avril 1986 [*date limite*], est valable pour une période de deux ans renouvelable.
+
+(1) Décret 86-162 du 4 février 1986 créant une taxe parafiscale commune au comité interprofessionnel de développement des
+industries du cuir et au centre technique cuir, chaussure, maroquinerie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 363 N
+	  - CGIAN2 363 O
+	  - Décret n°86-162 1986-02-04
+
+	**Créé par**:
+
+	  - Décret n°86-160 du 4 février 1986 - art. 4 (P) JORF 6 Février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°92-836 du 27 août 1992 - art. 2 () JORF 29 août 1992
+
+
+###### Article 363 R
+
+Les sommes recouvrées par l'administration des impôts et l'administration des douanes sont transférées mensuellement au
+comité du développement et de promotion du textile et de l'habillement à charge pour celui-ci de décider de la répartition de
+ces sommes, conformément aux missions qui lui sont confiées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-160 du 4 février 1986 - art. 5 (P) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 363 S
+
+Le taux de la taxe est fixé par arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie (1).
+
+(1) Annexe IV, art. 159 AL sexies
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 AL sexies
+
+	**Modifié par**:
+
+	  - Décret n°86-160 du 4 février 1986 - art. 6 (P) JORF 6 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 #### Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.
@@ -18500,206 +18920,6 @@ général des impôts.
 	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
 
 
-###### Article 345
-
-Il est institué jusqu'au 31 décembre 1985 [*date limite*] au profit du comité professionnel de développement de l'horlogerie
-ainsi que du centre technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de vente, de livraison
-ou d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume, définis à l'article
-346, réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
-
-Cette taxe parafiscale ne s'applique pas aux articles d'occasion, ni aux articles exportés. Sa perception sur les articles
-importés de la Communauté économique européenne [*CEE*] donne lieu à remboursement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 346
-
-	**Modifié par**:
-
-	  - Décret n°84-1018 du 19 novembre 1984 - art. 1 (V) JORF 20 novembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-
-###### Article 346
-
-Les opérations passibles de la taxe parafiscale sont celles visées à l'article 345 et portant sur les produits figurant au
-groupe 34-01 des nomenclatures approuvées par les décrets n° 73-1036 du 9 novembre 1973 et 83-831 du 5 septembre 1983 à
-l'exclusion :
-
-a. De l'ensemble des produits mentionnés à la rubrique 34-01-12 ;
-
-b. Des produits visés à la rubrique 34-01-13 sous l'appellation "appareils de contrôle et compteurs de temps à mouvement
-singulier d'horlogerie ou à moteur synchrone tels que enregistreurs de présence, horodateurs, contrôleurs de rondes,
-minutiers, compteurs de secondes ;
-
-c. Des produits suivants rangés sous la rubrique 34-01-15 "munis d'un moteur synchrone permettant de déclencher un mécanisme
-à temps donné tels que interrupteurs horaires, horaires, horloges de commutation."
-
-**Nota:**
-
-[*Nota : la table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 345
-	  - Décret n°73-1036 1973-11-09
-	  - Décret n°83-831 1983-09-05
-
-	**Modifié par**:
-
-	  - Décret n°84-1018 du 19 novembre 1984 - art. 2 (V) JORF 20 novembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-
-###### Article 357 A
-
-En vue d'encourager dans les industries textiles la recherche, l'innovation et la rénovation des structures industrielles et
-commerciales, est autorisée, dans la limite de 0,44 %, la perception jusqu'au 31 décembre 1985 [*date limite*] d'une taxe
-parafiscale assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la
-taxe sur la valeur ajoutée, sous réserve des dispositions des articles 357 B à 357 E.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 357 B
-	  - CGIAN2 357 C
-	  - CGIAN2 357 D
-	  - CGIAN2 357 E
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°82-1242 du 31 décembre 1982 - art. 1 (V) JORF 13 JANVIER 1983
-
-
-###### Article 357 B
-
-Sont soumises à la taxe prévue à l'article 357 A, les ventes réalisées par les fabricants et les transformateurs, les
-opérations à façon et les importations pour la consommation portant sur les produits textiles relevant des classes 43 et 44,
-à l'exception des groupes 44-20 à 44-25 de la nomenclature d'activités et de produits approuvé par le décret n° 73-1036 du 9
-novembre 1973.
-
-Sont également soumises à cette taxe, les livraisons des produits textiles indiqués au premier alinéa que les entreprises se
-font à elles-mêmes pour être utilisées dans la fabrication de produits ou articles non imposables à cette taxe et contenant
-par rapport à leur poids total plus de 25 % de ces produits.
-
-La taxe n'est pas perçue sur les articles originaires des Etats membres de la Communauté économique européenne [*CEE*] ou mis
-en libre pratique dans l'un de ceux-ci.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 357 A
-	  - Décret n°73-1036 1973-11-09
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°82-1242 du 31 décembre 1982 - art. 2 (V) JORF 13 JANVIER 1983
-
-
-###### Article 357 C
-
-Les ventes, les façons et les livraisons à soi-même effectuées par les entreprises imposées à la taxe sur la valeur ajoutée
-selon le régime du forfait sont exonérées de la taxe prévue à l'article 357 A.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 357 A
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°82-1242 du 31 décembre 1982 - art. 3 (V) JORF 13 JANVIER 1983
-
-
-###### Article 357 D
-
-Le produit de la taxe recouvrée par l'administration des impôts et l'administration des douanes est transféré mensuellement
-au comité de développement et de promotion du textile et de l'habillement, à charge pour celui-ci de répartir ces ressources,
-conformément aux missions qui lui sont confiées, entre les aides aux entreprises, les actions collectives de promotion,
-l'institut textile de France et le centre technique de la teinture et du nettoyage.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-389 1984-05-22 art. 1 JORF 25 mai 1984
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-
-###### Article 357 E
-
-Les modalités d'application des articles 357 A à 357 D, et notamment le taux de la taxe, sont fixées par arrêtés conjoints du
-ministre de l'économie, des finances et du budget et du ministre de l'industrie et de la recherche (1).
-
-(1) Voir annexe IV, art. 159 AL quater A.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 357 A
-	  - CGIAN2 357 B
-	  - CGIAN2 357 C
-	  - CGIAN2 357 D
-	  - CGIAN4 159 AL quater A
-
-	**Modifié par**:
-
-	  - Décret n°84-389 1984-05-22 art. 1 JORF 25 mai 1984
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-
 ###### Article 358
 
 Il est institué, à compter du 1er septembre 1982 et pour une durée de cinq ans, une taxe parafiscale au profit du comité des
@@ -18775,30 +18995,6 @@ la limite de ce taux maximum le taux applicable (1).
 	**Codifié par**:
 
 	  - Décret n°87-940 1987-11-23
-
-
-###### Article 363 A
-
-Il est institué jusqu'au 31 décembre 1985 [*date limite*] au profit du comité de développement des industries françaises de
-l'ameublement [*organisme bénéficiaire*] une taxe parafiscale sur les ventes, y compris à l'exportation, de meubles et de
-sièges réalisées par les fabricants relevant de la classe 49, à l'exclusion du groupe 49-04, de la nomenclature détaillée des
-produits, approuvée par le décret n° 83-31 du 5 septembre 1983.
-
-Son taux est fixé par arrêté dans la limite de 0,45 % du montant hors taxe des ventes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°83-831 1983-09-05
-
-	**Modifié par**:
-
-	  - Décret n°85-141 1985-01-30 art. 1 JORF 31 janvier 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
 
 
 ###### Article 363 AC
@@ -19048,27 +19244,6 @@ tonne de seigle, tel que ce montant résulte des dispositions qui précèdent.
 	  - Décret n°86-1086 1986-10-07
 
 
-###### Article 363 B
-
-I  Cette taxe est assise et recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe
-sur la valeur ajoutée sous réserve des dispositions des II et III ci-après.
-
-II  Les biens constituant des immobilisations n'ouvrent pas droit à déduction de la taxe parafiscale dont ils sont grevés.
-
-III  La taxe due par les entreprises soumises à la taxe sur la valeur ajoutée selon le régime du forfait n'est pas mise en
-recouvrement.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 363 E
 
 I. Il est institué au profit de l'association nationale pour le pour le développement agricole [*ANDA*], pour être versée au
@@ -19226,189 +19401,6 @@ parafiscale prévue à l'article 363 AE.
 	**Codifié par**:
 
 	  - Décret n°86-1086 1986-10-07
-
-
-###### Article 363 N
-
-En vue d'encourager dans les industries de l'habillement et de la maille, la recherche, l'innovation et la rénovation des
-structures industrielles et commerciales, est autorisée, dans la limite de 0,25 %, la perception, jusqu'au 31 décembre 1985,
-d'une taxe parafiscale assise [*assiette*], liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et les
-mêmes sanctions que la taxe sur la valeur ajoutée sous réserve des articles 363 O à 363 S.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 O
-	  - CGIAN2 363 P
-	  - CGIAN2 363 Q
-	  - CGIAN2 363 R
-	  - CGIAN2 363 S
-
-	**Modifié par**:
-
-	  - Décret n°82-1243 1982-12-31 ART. 1 JORF 13 JANVIER 1983
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-
-###### Article 363 O
-
-Sont soumises à cette taxe les ventes et les livraisons à soi-même réalisées par les fabricants et les transformateurs, les
-opérations à façon et les importations pour la consommation portant sur les produits en maille et les articles d'habillement
-relevant respectivement des groupes 44-20 à 44-25 et de la classe 47 de la nomenclature d'activités et de produits approuvée
-par le décret n° 73-1036 du 9 novembre 1973.
-
-La taxe n'est pas perçue sur les articles originaires des Etats membres de la Communauté économique européenne [*CEE*] ou mis
-en libre pratique dans l'un de ceux-ci.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°73-1036 1973-11-09
-
-	**Modifié par**:
-
-	  - Décret n°82-1243 1982-12-31 ART. 1 JORF 13 JANVIER 1983
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-
-###### Article 363 P
-
-Les ventes, les façons et les livraisons à soi-mêmes effectuées par les entreprises imposées à la taxe sur la valeur ajoutée
-selon le régime du forfait sont exonérées de la taxe instituée par l'article 363 N.
-
-Les ventes assujetties à la taxe et réalisées au détail par les fabricants et les transformateurs désignés à l'article 363 O
-sont imposables sur 60 % de leur montant.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 N
-	  - CGIAN2 363 O
-
-	**Créé par**:
-
-	  - Décret n°80-1014 du 15 décembre 1980 - art. 3 (V) JORF 18 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Modifié par**:
-
-	  - Décret n°82-1243 1982-12-31 ART. 1 JORF 13 JANVIER 1983
-
-
-###### Article 363 Q
-
-Les entreprises qui produisent à la fois des accessoires du vêtement et des ceintures de maroquinerie relevant respectivement
-des groupes 47-09 et 45-21 de la nomenclature mentionnée à l'article 363 O peuvent, en ce qui concerne l'ensemble des ventes
-de ces articles, demander à être soumises soit à la taxe prévue à l'article 363 N soit à la taxe sur les cuirs (1) si les
-ventes des produits de l'un ou de l'autre groupe pour lequel l'option est demandée représentent plus de 30 % de leur chiffre
-d'affaires total.
-
-Cette option, formulée sur papier libre et adressée à la fois aux services locaux des impôts et au conseil national du cuir
-avant le 18 février 1981 est valable pour une période de deux ans renouvelable.
-
-(1) Taxe instituée par le décret n° 78-314 du 13 mars 1978 créant une taxe parafiscale commune au conseil national du cuir et
-au centre technique du cuir.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 N
-	  - CGIAN2 363 O
-	  - Décret n°78-314 1978-03-13
-
-	**Créé par**:
-
-	  - Décret n°80-1014 du 15 décembre 1980 - art. 4 (V) JORF 18 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Modifié par**:
-
-	  - Décret n°82-1243 1982-12-31 ART. 1 JORF 13 JANVIER 1983
-
-
-###### Article 363 R
-
-Les sommes recouvrées par l'administration des impôts et l'administration des douanes sont transférées mensuellement au
-comité du développement et de promotion du textile et de l'habillement à charge pour celui-ci de décider de la répartition de
-ces sommes, conformément aux missions qui lui sont confiées, entre les aides aux entreprises, les actions collectives de
-promotion, l'institut textile de France et le centre d'études techniques des industries de l'habillement.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-390 1984-05-22 art. 1 JORF 25 mai 1984
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-
-###### Article 363 S
-
-Les modalités d'application des articles 363 N à 363 R, et notamment le taux de la taxe, sont fixées par arrêtés conjoints du
-ministre de l'économie, des finances et du budget et du ministre de l'industrie et de la recherche (1).
-
-(1) Annexe IV, art. 159 AL sexies
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 N
-	  - CGIAN2 363 O
-	  - CGIAN2 363 P
-	  - CGIAN2 363 Q
-	  - CGIAN2 363 R
-	  - CGIAN4 159 AL sexies
-
-	**Modifié par**:
-
-	  - Décret n°84-390 1984-05-22 art. 1 JORF 25 mai 1984
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 363 T
@@ -20004,23 +19996,6 @@ dérogation par arrêté du ministre chargé du budget.
 
 
 ### TAXES PARAFISCALES.
-
-###### Article 347
-
-Le taux de la taxe est fixé par un arrêté conjoint des ministres chargés de l'économie, du budget et du redéploiement
-industriel et du commerce extérieur dans la limite de 0,70 % de la valeur de vente pour le comité professionnel de
-développement de l'horlogerie et de 0,25 % de la valeur de vente pour le centre technique de l'industrie horlogère.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-1018 du 19 novembre 1984 - art. 3 (V) JORF 20 novembre 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
 
 ###### Article 363 D
 
