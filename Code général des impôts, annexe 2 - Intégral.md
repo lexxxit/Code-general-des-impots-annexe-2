@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1992-01-17
+Version Consolidée au 1992-05-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13039,55 +13039,76 @@ société émettrice.
 
 ###### Article 292 A
 
-Tous les contrats d'assurance en cas de vie ou en cas de décès dont l'assuré était âgé de soixante six ans au moins au jour
-de leur conclusion doivent, quel que soit le montant du capital assuré et des primes prévues, être déclarés par les
-bénéficiaires, au décès de l'assuré, dans les conditions fixées pour les déclarations de succession [*formalité
-obligatoire*]. La déclaration doit préciser, pour chaque contrat, le montant des primes prévues pour chacune des quatre
-années à compter de sa conclusion et le capital assuré.
+Tous les contrats d'assurance en cas de vie ou en cas de décès souscrits à compter du 20 novembre 1991 et conclus sur la tête
+d'un même assuré, en vertu desquels des primes ont été versées après son soixante-dixième anniversaire, doivent être déclarés
+par les bénéficiaires, au décès de l'assuré, dans les conditions fixées pour les déclarations de succession. La déclaration
+doit préciser, pour chaque contrat, la date de souscription et le montant des primes versées après le soixante-dixième
+anniversaire de l'assuré.
 
-Sur la demande des bénéficiaires les assureurs sont tenus de leur communiquer les informations mentionnées ci-dessus.
+Les assureurs sont tenus, sur la demande des bénéficiaires, de leur communiquer les informations mentionnées ci-dessus.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°80-895 du 13 novembre 1980 - art. 1 (V) JORF 18 NOVEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°92-468 du 21 mai 1992 - art. 1 () JORF 27 mai 1992
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 292 B (VD)
 
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
 
 ###### Article 292 B
 
-Les assureurs peuvent se libérer des sommes, rentes ou émoluments quelconques dus au titre de contrats mentionnés à l'article
-292 A dans les conditions prévues à l'article 806-III, premier et deuxième alinéas, du code général des impôts. Ils peuvent
-également se libérer dans les conditions prévues au troisième alinéa du même article, sous réserve de la production d'un
-certificat du comptable des impôts attestant le dépôt d'une déclaration contenant les références du ou des contrats ainsi que
-les indications prévues à l'article 292 A.
+I. Les assureurs qui doivent verser des sommes, rentes ou émoluments quelconques au titre des contrats mentionnés à l'article
+292 A doivent, dans les quarante-cinq jours qui suivent le jour où ils ont connaissance du décès de l'assuré sur la tête
+duquel un ou plusieurs contrats en cause ont été souscrits, adresser à la direction des services fiscaux du domicile de
+l'assuré un document faisant connaître :
+
+1. Le nom ou la raison sociale et le domicile de l'assureur ;
+
+2. Les nom, prénoms et domicile de l'assuré ainsi que la date de son décès ;
+
+3. Les nom, prénoms et domicile du ou des bénéficiaires ;
+
+4. La date de souscription du ou des contrats ;
+
+5. Le montant des primes versées après le soixante- dixième anniversaire de l'assuré pour chacun des contrats.
+
+Les mêmes obligations incombent aux assureurs pour les contrats souscrits avant le 20 novembre 1991, lorsque des avenants
+prévus à l'article L. 112-3 du code des assurances de nature à transformer l'économie même de ces contrats ont été souscrits
+après cette date.
+
+Ces documents sont établis sur des formules imprimées délivrées sans frais par le service des impôts.
+
+II. Les assureurs ne peuvent se libérer des sommes, rentes ou émoluments quelconques dus au titre des contrats mentionnés à
+l'article 292 A que dans les conditions prévues aux premier et deuxième alinéas du III de l'article 806 du code général des
+impôts ou dans celles prévues au troisième alinéa du même III, sous réserve de la production d'un certificat du comptable des
+impôts attestant le dépôt d'une déclaration contenant les références du ou des contrats ainsi que les indications prévues à
+l'article 292 A et qu'après avoir satisfait aux obligations édictées au I du présent article.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 806 III AL. 1, AL. 2
-	  - CGIAN2 292 A
+	  - CGI 292 A, 806
+	  - Code des assurances - art. L112-3 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°80-895 du 13 novembre 1980 - art. 2 (V) JORF 18 NOVEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°92-468 du 21 mai 1992 - art. 2 () JORF 27 mai 1992
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 370 C (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### B : Liquidation
