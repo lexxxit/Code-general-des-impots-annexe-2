@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1996-07-18
+Version Consolidée au 1997-04-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10,6 +10,196 @@ Version Consolidée au 1996-07-18
 #### Chapitre premier : Impôt sur le revenu
 
 ##### Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus
+
+##### I : Revenus fonciers
+
+###### Article 1
+
+Pour l'application du f du 1° du I de l'article 31 du code général des impôts, la déduction au titre de l'amortissement est
+calculée :
+
+1° Pour les logements acquis neufs, en l'état futur d'achèvement ou après réhabilitation, sur le prix d'acquisition majoré
+des frais afférents à l'acquisition ;
+
+2° Pour les logements que le contribuable fait construire, sur le prix payé pour la construction du logement, augmenté du
+prix d'acquisition du terrain ou, en cas d'acquisition à titre gratuit, de la valeur pour laquelle le terrain est entré dans
+le patrimoine du contribuable, ainsi que des frais afférents à la construction et à l'acquisition du terrain ;
+
+3° Pour les locaux acquis par le contribuable en vue de leur transformation en logement, sur le prix payé pour l'acquisition
+du local et la réalisation des travaux de transformation, majoré des frais afférents à ces opérations ; les travaux de
+transformation s'entendent des travaux de reconstruction, d'agrandissement, de réparation et d'amélioration ;
+
+4° Pour les logements qui font l'objet des dépenses de reconstruction, d'agrandissement et d'amélioration mentionnées au
+quatrième alinéa du f du 1° du I de l'article 31 du code général des impôts, sur le montant de ces dépenses majoré des frais
+qui leur sont afférents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+
+	**Créé par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 2 () JORF 18 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 1 A
+
+Pour la première année, la déduction calculée sur les bases d'amortissement mentionnées à l'article 1 est admise dans la
+proportion existant entre, d'une part, le nombre de mois décompté à partir de celui mentionné aux premier, deuxième et
+cinquième alinéas du f du 1° du I de l'article 31 du code général des impôts jusqu'à la fin de l'année, et, d'autre part, le
+nombre 12.
+
+Lorsque la déduction au titre de l'amortissement prend fin en cours d'année, elles est admise dans la proportion existant
+entre, d'une part, le nombre de mois compris entre le 1er janvier et le premier jour du mois au cours duquel expire l'annuité
+d'amortissement et, d'autre part, le nombre 12.
+
+Lorsque le taux d'amortissement est réduit de 10 p. 100 à 2 p. 100 en cours d'année, chaque période est décomptée selon les
+modalités définies aux premier et deuxième alinéas.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+
+	**Créé par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 2 () JORF 18 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 1 B
+
+L'option prévue au f du 1° du I de l'article 31 du code général des impôts doit être formulée dans une note établie
+conformément à un modèle fixé par l'administration qui comporte l'adresse et la date d'acquisition ou d'achèvement de
+l'immeuble concerné, la date de sa première location, le cas échéant, ainsi que les modalités de décompte de la déduction au
+titre de l'amortissement. 
+
+Ce document doit être accompagné des justificatifs suivants : 
+
+1° Pour les immeubles que le contribuable fait construire, une copie de la déclaration d'ouverture de chantier mentionnée à
+l'article R. 421-40 du code de l'urbanisme et de la déclaration d'achèvement des travaux accompagnées des pièces attestant de
+leur réception en mairie ; 
+
+2° Pour les locaux que le contribuable transforme en logement, une copie de la déclaration d'achèvement des travaux,
+accompagnée d'une pièce attestant de sa réception en mairie et d'une note précisant la nature de l'affectation précédente des
+locaux. 
+
+Pour les immeubles transmis à titre gratuit, l'option des héritiers, légataires ou donataires doit comporter la date
+d'acquisition de l'immeuble par le précédent propriétaire ainsi que l'identité et l'adresse de ce dernier. 
+
+Chaque année, le contribuable joint à la déclaration de ses revenus un état établi conformément à un modèle fixé par
+l'administration et faisant apparaître pour chaque logement le détail du calcul du montant de la déduction pratiquée au titre
+de l'amortissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 2 () JORF 18 juillet 1996
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 1 C (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 31 (V)
+	  - Code de l'urbanisme - art. R*421-40 (Ab)
+
+
+###### Article 1 C
+
+Lorsque l'immeuble appartient à une société, les obligations fixées à l'article 1 B incombent à cette société.
+
+L'option est jointe par la société à sa déclaration du résultat de l'année d'achèvement du logement ou de son acquisition si
+elle est postérieure. Cette option comporte l'engagement de la société de louer les logements nus pendant une durée de neuf
+ans.
+
+La société doit, avant le 16 février de chaque année, faire parvenir à ses associés une attestation en double exemplaire
+établie conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements
+suivants :
+
+1° L'identité et l'adresse de l'associé ;
+
+2° Le nombre et les numéros des parts détenues au 1er janvier et au 31 décembre et, le cas échéant, des parts souscrites,
+acquises et transmises au cours de l'année ainsi que la date de ces opérations ;
+
+3° Le montant de l'amortissement correspondant aux droits de l'associé ;
+
+4° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et le
+montant de ce revenu déterminé compte tenu de la déduction au titre de l'amortissement ;
+
+5° En cas de non-respect par la société ou un associé de leurs engagements, la quote-part des déductions que l'associé doit
+ajouter au revenu foncier de l'année au cours de laquelle la rupture est intervenue.
+
+Un exemplaire de cette attestation est joint par la société à sa déclaration de résultat.
+
+La société joint chaque année à sa déclaration de résultat l'état mentionné au quatrième alinéa de l'article 1 B. Elle y
+indique, en outre, l'identité et l'adresse des associés ainsi que la part des revenus des immeubles de la société
+correspondant aux droits de chaque associé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 1 B
+
+	**Créé par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 2 () JORF 18 juillet 1996
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 1 D (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 1 D
+
+I. L'engagement de conservation des titres prévu au sixième alinéa du f du 1° du I de l'article 31 du code général des impôts
+est constaté lors du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou
+acquises ou, si elle est postérieure, l'année de l'acquisition ou de l'achèvement de l'immeuble.
+
+II. Les parts détenues par les associés qui entendent bénéficier de la déduction au titre de l'amortissement sont déposées
+dans un compte ouvert au nom de l'associé par la société dans les trente jours suivant la date limite de dépôt de la
+déclaration de revenus mentionnée au I. Les documents relatifs aux opérations ayant affecté ce compte sont conservés jusqu'à
+la fin de la troisième année suivant celle de l'expiration de l'engagement mentionné au I.
+
+III. Les associés joignent à chacune de leurs déclarations des revenus un exemplaire de l'attestation mentionnée à l'article
+1 C.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - CGIAN2 1 C
+
+	**Créé par**:
+
+	  - Décret n°96-632 du 16 juillet 1996 - art. 2 () JORF 18 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
 
 ##### I bis : Bénéfices industriels et commerciaux
 
@@ -1099,10 +1289,11 @@ renseignements portés sur la déclaration prévue au 2° du 1.
 
 ###### Article 39 H
 
-Les sociétés de bourse et les établissements de crédit ou organismes habilités à détenir et à négocier des valeurs mobilières
-pour le compte des particuliers doivent déclarer à l'administration le montant global, compte non tenu des frais, des
-cessions effectuées par chacun de leurs clients, en indiquant distinctement les cessions de titres ou droits visés au 1 de
-l'article 92 B du code général des impôts et les cessions de parts ou actions mentionnées au I bis du même article.
+Les prestataires de services d'investissement et les établissements de crédit ou organismes habilités à détenir et à négocier
+des valeurs mobilières pour le compte des particuliers doivent déclarer à l'administration le montant global, compte non tenu
+des frais, des cessions effectuées par chacun de leurs clients, en indiquant distinctement les cessions de titres ou droits
+visés au 1 de l'article 92 B du code général des impôts et les cessions de parts ou actions mentionnées au I bis du même
+article.
 
 Ces renseignements doivent parvenir, avant le 16 février de chaque année pour les opérations de l'année précédente, à la
 direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils figurent sur la
@@ -1119,11 +1310,21 @@ du montant des cessions correspondant aux droits de chacun de leurs membres dans
 
 	**Modifié par**:
 
-	  - Décret n°93-820 du 14 mai 1993 - art. 2 () JORF 16 mai 1993
+	  - Loi n°96-597 1996-07-02 art. 94 I, II JORF 4 juillet 1996
+	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Abrogé par**:
+
+	  - Décret n°2000-1190 du 5 décembre 2000 - art. 4 () JORF du 8 décembre 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### III : Revenus des capitaux mobiliers
@@ -2291,13 +2492,15 @@ Paris ou vingt-cinq cotations sur les autres bourses.
 
 En outre, le montant cumulé des transactions dont ces actions ont fait l'objet au cours de ces vingt-quatre mois doit être au
 moins égal à 500.000 F pour la bourse de Paris ou à 200.000 F pour les autres bourses. Pour l'application des deuxième et
-troisième alinéas sont retenus la fréquence des cotations et le volume des transactions enregistrés par le conseil des
-bourses de valeurs.
+troisième alinéas sont retenus la fréquence des cotations et le volume des transactions enregistrés par ((le Conseil des
+marchés financiers)) (M).
 
 Sauf inscription au second marché (2) ou à la cote officielle, les actions sont maintenues sur la liste pendant les quatre
 années suivant celle de leur première inscription même si elles ne remplissent plus les conditions prévues ci-dessus.
 
-(1) Arrêtés des 19 décembre 1986 (JO du 31) et 23 décembre 1987 (JO du 27).
+(1) Arrêtés des 19 décembre 1987 (JO du 31) et 23 décembre 1987 (JO du 27).
+
+(M) Modification de la loi 96-597.
 
 (2) Le second marché des bourses de valeurs a remplacé le compartiment spécial du marché hors cote des bourses de valeurs
 (loi n° 83-1 du 3 janvier 1983, art. 47).
@@ -2312,15 +2515,18 @@ années suivant celle de leur première inscription même si elles ne remplissen
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
 
 	**Modifié par**:
 
-	  - Loi n°88-70 1988-01-22 art. 25-I JORF 23 janvier 1988
+	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
+	  - Loi n°96-597 du 2 juillet 1996 - art. 98 (V) JORF 4 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°98-400 1998-05-22
 
 
 ###### Article 75-0 I
@@ -5305,14 +5511,12 @@ d'infraction aux dispositions des articles 113 à 134 (1).
 
 ###### Article 130
 
-L'agrément visé à l'article 113 est accordé par le ministre de l'économie et des finances après avis du conseil de direction
-du fonds de développement économique et social (1).
+L'agrément visé à l'article 113 est accordé par le ministre de l'économie et des finances après avis du comité des
+investissements à caractère économique et social.
 
 Son octroi peut être subordonné à des conditions particulières relatives notamment aux modalités d'établissement des bilans
 de départ, à la traduction des comptabilités tenues en langues étrangères et à la vérification sur place des comptabilités
 des exploitations directes ou indirectes situées hors de la France métropolitaine et des départements d'outre-mer.
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
 
 **Liens relatifs à cet article**
 
@@ -5322,12 +5526,11 @@ des exploitations directes ou indirectes situées hors de la France métropolita
 
 	**Modifié par**:
 
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 19 () JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+	  - Décret n°96-1022 du 27 novembre 1996 - art. 8 () JORF 29 novembre 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 131
@@ -5691,7 +5894,8 @@ formation d'apprentis dans la limite prévue à l'article 140 K, avec le nom et 
 
 5° Les conditions dans lesquelles l'employeur organise lui-même, ou avec d'autres entreprises, les premières formations
 technologiques et professionnelles, et notamment l'apprentissage, ainsi que la nature, avec les justifications appropriées,
-des charges supportées à ce titre, telles qu'elles sont définies à l'article 5 du décret n° 72-283 du 12 avril 1972 (1) ;
+des charges supportées à ce titre, telles qu'elles sont définies à l'article 5 du décret n° 72-283 du 12 avril 1972
+((modifié)) (M) (1) ;
 
 6° La nature et le montant des autres dépenses énumérées au même article avec le nom et l'adresse des bénéficiaires ;
 
@@ -5700,6 +5904,8 @@ commerce et d'industrie, à des chambres de métiers, à des chambres d'agricult
 partie de leurs ressources à des dépenses entrant dans la prévision de l'article 5 précité.
 
 La demande est accompagnée des reçus délivrés par l'organisme bénéficiaire des versements.
+
+(M) Modification du décret 96-1052.
 
 (1) Décret modifié par le décret n° 74-32 du 15 janvier 1974 (J.O. du 18).
 
@@ -5713,15 +5919,16 @@ La demande est accompagnée des reçus délivrés par l'organisme bénéficiaire
 
 	**Modifié par**:
 
-	  - Décret n°88-517 1988-05-04 art. 2 JORF 6 mai 1988
+	  - Décret n°96-1052 du 5 décembre 1996 - art. 2 () JORF 8 décembre 1996
+	  - Décret n°96-1052 du 5 décembre 1996 - art. 3 (V) JORF 8 décembre 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 1997-05-28
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 140 E
@@ -5752,33 +5959,6 @@ titre de la taxe d'apprentissage depuis le 1er janvier de l'année en cours.
 	**Liens**:
 
 	  - HISTO: Edition du 15 juillet 1988
-
-
-###### Article 140 EA
-
-L'entreprise doit également joindre à la demande d'exonération le reçu libératoire délivré par les chambres de commerce et
-d'industrie ou les chambres de métiers qui collectent le versement prévu par l'article 226 A du Code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 226 A
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-	  - Décret n°97-661 1997-05-28
-
-	**Créé par**:
-
-	  - Décret n°80-106 du 1 février 1980 - art. 2 (Ab) JORF 2 février 1980
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 juillet 1983
-	  - HISTO: Edition du 11 avril 1997
-	  - PEREMPTION: Loi n°96-376 du 6 mai 1996 - art. 7 (V) JORF 7 mai 1996
 
 
 ###### Article 140 F
@@ -5879,30 +6059,24 @@ paiement, en indiquant le montant de la partie de la taxe dont il est demandé e
 	  - Code de l'éducation - art. R237-21 (V)
 
 
-##### III : Calcul des exonérations.
+##### III : Modalités de versement et exonérations
 
-###### Article 140 J
+###### Article 140 K
 
-La partie du salaire versée aux apprentis, qui entraîne l'exonération de la taxe d'apprentissage en vertu de l'article 226 du
-code général des impôts, est fixée, par apprenti, à 11 % du SMIC.
-
-Dans les départements d'outre-mer, cette partie est fixée à 20 % du SMIC.
-
-Modification du décret 97-661 :
-
-1er alinéa abrogé.
-
-2ème alinéa transféré sous l'article 50-0 de l'annexe III au code général des impôts.
+Ainsi qu'il est dit au premier alinéa de l'article R. 119-1 du code du travail, le montant de la fraction de la taxe
+d'apprentissage obligatoirement réservée au développement de l'apprentissage en application de l'article 227 du code général
+des impôts est fixé à 40 %.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 226
+	  - CGI 227
+	  - Code du travail - art. R119-1 (M)
 
 	**Nouveaux textes**:
 
-	  - CGIAN3 50-0
+	  - CGIAN3 50-0 bis (2ème phrase)
 
 	**Modifié par**:
 
@@ -5915,58 +6089,7 @@ Modification du décret 97-661 :
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
 	  - HISTO: Edition du 11 avril 1997
-
-
-###### Article 140 JA
-
-Le versement prévu à l'article 226 A du code général des impôts est assis sur le montant brut de la contribution incombant à
-l'employeur au titre de la taxe d'apprentissage.
-
-Son taux est fixé à 9 %.
-
-Ce versement est effectué par l'employeur à toutes les exonérations autres que celles prévues au titre de la fraction de la
-taxe d'apprentissage visée à l'article L. 118-1 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 226 A
-	  - Code du travail - art. L118-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°87-66 du 5 février 1987 - art. 1 () JORF 6 février 1987
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°97-661 1997-05-28
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 11 avril 1997
-	  - PEREMPTION: Loi n°96-376 du 6 mai 1996 - art. 7 (V) JORF 7 mai 1996
-
-
-###### Article 140 K
-
-Le montant de la fraction de la taxe d'apprentissage obligatoirement réservée au développement de l'apprentissage en
-application de l'article 227 du code général des impôts est fixé à 20 % . Ce montant est de 30 % dans les départements
-d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 227
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### IV : Régimes spéciaux.
@@ -5984,13 +6107,15 @@ Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, la demande d'
 
 1° Le nom et l'adresse de l'employeur qui demande l'exonération ;
 
-2° La partie du salaire des apprentis donnant lieu à exonération, le montant des versements effectués aux centres de
-formation d'apprentis dans la limite prévue à l'article 140 K, avec le nom et l'adresse des bénéficiaires des versements ;
+2°((Le montant des versements effectués aux centres de formation d'apprentis dans la limite prévue à l'article 140 K, avec le
+nom et l'adresse des bénéficiaires des versements)) (M) ;
 
 3° L'effectif des salariés autres que les apprentis et le nombre des apprentis employés dans les établissements situés dans
 ces départements ;
 
 4° Le montant global des salaires versés au titre de ces établissements déclaré en application du 1° de l'article 140 A.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -5998,17 +6123,17 @@ ces départements ;
 
 	  - CGIAN2 140 K, 140 A
 
-	**Modifié par**:
-
-	  - Décret n°88-518 1988-05-04 art. 1 JORF 6 mai 1988
-
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 1997-05-28
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 11 avril 1997
+
+	**Modifié par**:
+
+	  - Loi n°96-376 du 6 mai 1996 - art. 3 (V) JORF 7 mai 1996
 
 
 #### Chapitre III : Taxe sur les salaires
@@ -8312,6 +8437,300 @@ au soutien de l'investissement productif industriel.
 
 	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 2 () JORF 2 avril 2003
 	  - HISTO: Edition du 1er janvier 2003
+
+
+##### VII : Souscription de parts de copropriété de navires
+
+###### Article 171 AB
+
+Pour ouvrir droit au bénéfice du premier alinéa de l'article 238 bis HN du code général des impôts, les navires armés au
+commerce doivent être exploités exclusivement dans un but lucratif et avoir un équipage composé de professionnels.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HN
+
+	**Créé par**:
+
+	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 171 AC
+
+Les sommes versées pour la souscription de parts de copropriété de navire dans les conditions définies à l'article 238 bis HN
+du code général des impôts ne comprennent pas les frais et charges non directement liés à l'acquisition du navire par la
+copropriété.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HN
+
+	**Créé par**:
+
+	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 171 AD
+
+I. Pour l'application du b du premier alinéa de l'article 238 bis HN du code général des impôts et en cas d'acquisition d'un
+navire neuf, l'agrément n'est pas remis en cause lorsque la livraison n'est pas intervenue à l'expiration du délai de trente
+mois suivant la souscription, si le gérant de la copropriété de navire établit qu'un premier essai à la mer a eu lieu dans ce
+délai et qu'il justifie du retard de la livraison, et si celle-ci intervient dans un délai raisonnable.
+
+II. Les sociétés de classification mentionnées au b du premier alinéa de l'article 238 bis HN précité sont celles qui sont
+visées au II de l'article 42 du décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine en mer, à
+l'habitabilité à bord des navires et à la prévention de la pollution.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HN
+	  - Décret n°84-810 1984-08-30 art. 42
+
+	**Créé par**:
+
+	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 171 AE
+
+Les parts de copropriété de navire visées au c du premier alinéa de l'article 238 bis HN du code général des impôts doivent
+être individualisées par un numéro.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HN
+
+	**Créé par**:
+
+	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 171 AF
+
+Pour l'application du premier alinéa de l'article 238 bis HN du code général des impôts, le contribuable doit joindre à sa
+déclaration de revenus ou de résultat une copie de la décision d'agrément, un état individuel ainsi qu'un engagement de
+conservation des parts de copropriété.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HN
+
+	**Créé par**:
+
+	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 171 AG
+
+I. L'état individuel prévu à l'article 171 AF comporte, lorsque le copropriétaire n'est pas un fonds de placement quirataire,
+les renseignements suivants :
+
+a) La date de la convention de copropriété, la dénomination et l'adresse de cette copropriété ainsi que l'identité et
+l'adresse de son gérant ;
+
+b) Pour les navires déjà francisés, le nom et la désignation du navire, la date et le numéro de sa fiche matricule prévue à
+l'article 90 du décret n° 67-967 du 27 octobre 1967 modifié portant statut des navires et autres bâtiments de mer, l'adresse
+du bureau des douanes du port d'attache ainsi que les dates de livraison et de début d'exploitation du navire.
+
+Pour les navires non encore francisés et relevant des dispositions de l'article 89 du décret précité, le nom et la
+désignation du navire, la date et le numéro de sa fiche matricule et l'adresse du bureau des douanes du port d'attache ainsi
+que les dates prévues de livraison et de début d'exploitation du navire.
+
+Pour les navires non encore francisés et ne relevant pas de l'article 89 du décret précité, le nom et la désignation du
+navire, le contrat de construction, éventuellement traduit en langue française et comportant notamment la date de livraison,
+l'adresse du bureau des douanes du port d'attache où le navire sera francisé ainsi que la date prévue de début d'exploitation
+du navire ;
+
+c) S'il y a lieu, les dates de signature et d'effet du contrat d'affrètement ainsi que les éléments permettant
+l'identification de l'affréteur : dénomination sociale, objet social et siège social ;
+
+d) Le numéro des parts souscrites, la date de leur souscription, le montant et la date des versements effectués jusqu'à la
+livraison du navire ;
+
+e) S'il y a lieu, la date, le prix et le numéro des parts cédées par le copropriétaire ainsi que les noms et adresses des
+cessionnaires.
+
+II. L'état individuel prévu à l'article 171 AF comporte, dans le cas où le copropriétaire du navire est un fonds de placement
+quirataire :
+
+a) Les renseignements dont la liste figure au I ;
+
+b) L'indication du montant de la quote-part détenue par le contribuable dans le fonds de placement quirataire ;
+
+c) S'il y a lieu, la date, le prix, le nombre de parts du fonds de placement quirataire cédées par le contribuable et
+l'identité du cessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 171 AF
+	  - Décret n°67-967 du 27 octobre 1967 - art. 89 (V)
+	  - Décret n°67-967 du 27 octobre 1967 - art. 90 (V)
+
+	**Créé par**:
+
+	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 171 AH
+
+Le gérant de la copropriété de navire adresse au centre des impôts dont dépend celle-ci pour le dépôt de ses déclarations de
+résultat, les documents énumérés ci-après :
+
+a) En annexe de la première déclaration de résultat : un document attestant la date de livraison du navire ainsi que le
+certificat d'inscription mentionné à l'article 95 du décret n° 67-967 du 27 octobre 1967 modifié portant statut des navires
+et autres bâtiments de mer ;
+
+b) Chaque année, en même temps que la déclaration de résultat :
+
+la liste des copropriétaires et les numéros de leurs parts ;
+
+c) Dès qu'une demande d'annulation de la fiche matricule du navire est présentée : la copie de cette demande.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°67-967 du 27 octobre 1967 - art. 95 (V)
+
+	**Créé par**:
+
+	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Modifié par**:
+
+	  - Décret n°97-661 du 28 mai 1997 - art. 2 () JORF 1er juin 1997
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 171 AI
+
+Les documents relatifs aux opérations réalisées par la copropriété de navire sont conservés par le gérant de celle-ci jusqu'à
+la fin de la cinquième année suivant celle de l'expiration du délai de conservation des parts prévu au c du premier alinéa de
+l'article 238 bis HN du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HN
+
+	**Créé par**:
+
+	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 171 AJ
+
+Dans l'hypothèse où l'une des conditions prévues aux d à g du premier alinéa de l'article 238 bis HN du code général des
+impôts n'est pas remplie ou cesse de l'être, le gérant de la copropriété de navire le notifie à chaque copropriétaire ainsi
+qu'au centre des impôts dont dépend la copropriété pour le dépôt de ses déclarations de résultat, en indiquant le numéro et
+le prix des parts qui ouvraient droit à la déduction lors de la souscription initiale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HN
+
+	**Créé par**:
+
+	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 171 AK
+
+La demande tendant à l'obtention de l'agrément prévu au deuxième alinéa de l'article 238 bis HN du code général des impôts
+est formulée sur papier libre et présentée préalablement à la réalisation de l'opération qui la motive.
+
+La demande, faite par un représentant unique, dûment habilité, du promoteur du projet, est adressée en quatre exemplaires au
+ministre chargé du budget (services centraux de la direction générale des impôts) et comporte les renseignements permettant
+d'apprécier la portée exacte du projet au regard des conditions fixées pour l'octroi de l'agrément et concernant notamment :
+
+1. L'identification de l'opérateur économique et de son activité ;
+
+2. L'identification de la copropriété maritime ;
+
+3. Les conditions d'acquisition, d'exploitation et de financement du navire ;
+
+4. L'intérêt économique du projet ;
+
+5. Les conditions et modalités de souscription des parts de copropriété.
+
+Dès réception de la demande, le ministre chargé du budget procède à son instruction et saisit pour avis les ministres chargés
+respectivement de la marine marchande et de l'équipement naval.
+
+Dans le cas où le demandeur n'a pas fourni la totalité des renseignements nécessaires pour l'instruction de la demande, le
+ministre chargé du budget l'invite à les produire.
+
+L'agrément n'est délivré par le ministre chargé du budget qu'après réception des avis mentionnés au troisième alinéa du
+présent article et lorsque toutes les conditions prévues pour son obtention sont remplies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HN
+
+	**Créé par**:
+
+	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -10780,38 +11199,34 @@ des impôts.
 
 2. Pour l'application du 1, ne sont pas considérés comme réalisés en France :
 
-a. les transports et prestations accessoires exonérés ((en application du premier alinéa du I, des 7° à 11° bis, et 14° du
-II)) (M) de l'article 262 du code général des impôts ainsi que du 2° du III de l'article 291 du même code;
+a. les transports et prestations accessoires exonérés en application du premier alinéa du I, des 7° à 11° bis, et 14° du II
+de l'article 262 du code général des impôts ainsi que du 2° du III de l'article 291 du même code ;
 
-b. les prestations mentionnées aux 3°, 5° et 6° de l'article 259 A et à l'article 259 B du code général des impôts, pour
-lesquelles la taxe est due par le preneur en vertu du 2° de l'article 283 du même code.
+b. les prestations mentionnées aux 3°, 4° bis, 5° et 6° de l'article 259 A et à l'article 259 B du code général des impôts,
+pour lesquelles la taxe est due par le preneur en vertu du 2° de l'article 283 du même code.
 
 c. Les livraisons mentionnées au 2° du I de l'article 258 D du code général des impôts, pour lesquelles la taxe est due par
 le destinataire en application du 2 ter de l'article 283 du même code.
 
-(M) Modification de la Loi.
+d. Les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 277 A du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 256, 256 A à 258 B, 259 à 259 C, 262, 291, 259 B, 283, 259 A, 258 D
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
+	  - CGI 256, 256 A à 258 B, 259 à 259 C, 262, 291, 259 B, 283, 259 A, 258 D, 277 A
 
 	**Modifié par**:
 
-	  - Loi n°95-1347 1995-12-30 art. 19-IV et XIX, JORF 31 décembre 1995
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°96-693 du 31 juillet 1996 - art. 1 () JORF 8 août 1996
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 O (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 242-0 N
@@ -12819,11 +13234,38 @@ membres de la Communauté européenne ou originaires de pays tiers et mises en l
 	  - HISTO: Edition du 27 octobre 1995
 
 
+###### Article 269 A
+
+Pour l'application du régime contingentaire des rhums et tafias, les contingents départementaux et les contingents des
+distilleries sont répartis par arrêtés conjoints des ministres chargés du budget, de l'agriculture et de l'outre-mer, après
+avis du conseil interprofessionnel du rhum traditionnel des départements d'outre-mer, en prenant en compte en priorité les
+références commerciales de 1991 à 1994.
+
+Ces arrêtés fixent également les conditions de la gestion des contingents ainsi que les règles d'organisation de la campagne
+rhumière et notamment les dates des campagnes, la division des contingents en tranches selon la catégorie, le blocage et le
+déblocage des tranches ainsi que les dérogations aux mesures de blocage et déblocage. Ces arrêtés déterminent en outre les
+mesures de redistribution des contingents entre départements et producteurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-294 du 27 mars 1997 - art. 1 (V) JORF 30 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
 ###### Article 270
 
-Pour l'application de l'article 362 du code général des impôts, les rhums et tafias des départements d'outre-mer introduits
-en France continentale et en Corse en sus du contingent légal sont assujettis à une soulte dont le tarif est fixé par arrêté
-du ministre de l'économie et des finances en accord avec le ministre chargé des départements d'outre-mer.
+Pour l'application de l'article 362 du code général des impôts, les rhums et tafias traditionnels exportés des départements
+d'outre-mer vers la France métropolitaine en sus du contingent légal sont assujettis à une soulte dont le tarif est fixé par
+arrêté conjoint du ministre chargé du budget et du ministre chargé de l'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -12831,17 +13273,13 @@ du ministre de l'économie et des finances en accord avec le ministre chargé de
 
 	  - CGI 362
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
-
 	**Modifié par**:
 
-	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, en vigueur le 1er septembre 1985
+	  - Décret n°97-294 du 27 mars 1997 - art. 2 () JORF 30 mars 1997
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 272
@@ -12852,11 +13290,18 @@ finances et du ministre chargé des départements d'outre-mer, les transferts de
 distillation sont également prohibés entre les départements d'outre-mer, entre les territoires d'outre-mer et entre les
 départements et territoires d'outre-mer.
 
+Les transferts de jus de canne à sucre en vue de la distillation de rhum sont prohibés à l'intérieur des départements
+d'outre-mer à l'exclusion de la Réunion.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-294 du 27 mars 1997 - art. 3 () JORF 30 mars 1997
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 275 bis
@@ -13694,100 +14139,98 @@ tabac présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
 
 ##### I : Régime économique.
 
-###### Article 276
+###### Article 277
 
-Toute personne physique ou morale ayant l'intention d'importer ou de commercialiser en gros des tabacs manufacturés en
-provenance des Etats membres de la Communauté européenne et originaires de ces Etats ou mis en libre pratique dans l'un de
-ceux-ci obtient, sur sa demande, un numéro d'identification sous réserve qu'elle remplisse les conditions requises pour
-l'exercice d'une profession commerciale et fournisse une caution solvable garantissant à l'administration des douanes et
-droits indirects le paiement de la retenue sur remise prévue à l'article 281.
+La demande de numéro d'identification, qui doit être accompagnée d'un exemplaire des statuts lorsqu'elle est présentée par
+une personne morale, est adressée au directeur général des douanes et droits indirects. Elle doit indiquer :
+
+1° Lorsqu'elle concerne un fabricant, l'identité ou la raison sociale du demandeur, l'adresse de son domicile, de son siège
+social ou de son établissement principal ainsi que l'adresse, en France métropolitaine, de ses établissements où sont
+fabriqués et détenus les tabacs manufacturés.
+
+2° Lorsqu'elle concerne un fournisseur, l'identité ou la raison sociale du demandeur, l'adresse de son domicile, de son siège
+social ou de son établissement commercial sur le territoire d'un Etat membre de la Communauté européenne et, le cas échéant,
+l'adresse en France métropolitaine de l'établissement commercial qu'il possède ou du domicile du représentant habilité à
+satisfaire à sa place les obligations qui lui incombent.
+
+Le directeur général des douanes et droits indirects, après s'être assuré que le demandeur remplit les conditions du
+troisième alinéa de l'article 276 et que le dossier est complet, notifie un numéro d'identification au fabricant ou au
+fournisseur.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 281
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - CGIAN2 276
 
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+	  - Décret n°96-891 du 11 octobre 1996 - art. 2 () JORF 12 octobre 1996
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-
-
-###### Article 277
-
-La demande de numéro d'identification doit indiquer l'identité ou la raison sociale du demandeur, l'adresse de son domicile,
-de son siège social ou de son établissement commercial sur le territoire d'un Etat membre de la Communauté européenne et, le
-cas échéant, l'adresse en France de l'établissement commercial qu'il possède ou du domicile du représentant habilité à
-satisfaire à sa place les obligations qui lui incombent.
-
-S'il s'agit d'une personne morale, la demande doit en outre être accompagnée d'un exemplaire des statuts.
-
-**Liens relatifs à cet article**
+	  - Décret n°97-661 1997-05-28
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Modifié par**:
-
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 278
 
-La demande est adressée au directeur général des douanes et droits indirects qui, après s'être assuré que le dossier est
-complet, notifie son numéro d'identification au fournisseur.
+Le fabricant tient dans chaque fabrique et lieu de stockage une comptabilité matières qui doit indiquer :
+
+a les quantités et variétés de tabacs bruts ou semi-ouvrés ainsi que les différents autres produits mis en oeuvre dans la
+fabrication des tabacs manufacturés ;
+
+b les quantités de tabacs manufacturés fabriquées et livrées, détaillées par variété de produits avec indication des
+références de vente au détail, par mois de fabrication et de livraison ;
+
+c les quantités de tabacs manufacturés détenues en stock en fin de mois.
+
+La comptabilité est présentée à toute réquisition des agents de l'administration des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 45 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°96-891 du 11 octobre 1996 - art. 3 () JORF 12 octobre 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 279
 
-Si le fournisseur cesse de remplir les conditions fixées ou commet une infraction aux dispositions du code général des
-impôts, notamment de son article 570, le directeur général des douanes et droits indirects peut lui retirer son numéro
-d'identification après l'avoir mis à même de présenter ses observations.
+Si le fabricant ou le fournisseur cesse de remplir les conditions fixées ou commet une infraction aux dispositions du code
+général des impôts, le directeur général des douanes et droits indirects peut lui retirer son numéro d'identification après
+l'avoir mis en mesure de présenter ses observations.
 
-Ce retrait entraîne, à compter de sa notification par lettre recommandée avec avis de réception postal, outre l'interdiction
-de procéder à l'importation et à la commercialisation en gros des tabacs manufacturés, l'obligation d'établir un inventaire
-des quantités de tabacs en stock à la date de cette notification, à l'exclusion de celles qui sont en entrepôt douanier. Cet
-inventaire est remis à l'administration des douanes et droits indirects au plus tard dans les cinq jours de la notification.
-Le fournisseur dispose alors d'un délai de trois mois pour écouler le stock compris dans l'inventaire ainsi que celui qu'il
-détient en entrepôt douanier.
+Le retrait est notifié par lettre recommandée avec demande d'avis de réception postal. Dès sa notification, le retrait
+entraîne pour l'intéressé :
+
+1° L'interdiction d'importer, d'introduire et de commercialiser en gros des tabacs manufacturés, s'il s'agit d'un
+fournisseur, ou de fabriquer des tabacs manufacturés, s'il s'agit d'un fabricant.
+
+2° L'obligation d'établir un inventaire des quantités de tabac en stock à la date de la notification du retrait, à
+l'exclusion de celles qui sont en entrepôt douanier, et de le remettre à l'administration des douanes et droits indirects
+dans les cinq jours qui suivent cette notification. L'intéressé dispose alors d'un délai de trois mois pour écouler le stock
+compris dans l'inventaire et, le cas échéant, celui qu'il détient en entrepôt douanier.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 46 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°96-891 du 11 octobre 1996 - art. 4 () JORF 12 octobre 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 283
@@ -14066,6 +14509,41 @@ Est considéré comme tabac à priser le tabac en poudre ou en grains spécialem
 
 
 ##### I : Régime économique
+
+###### Article 276
+
+Toute personne qui veut fabriquer des tabacs manufacturés doit préalablement obtenir un numéro d'identification en qualité de
+fabricant.
+
+Toute personne qui veut importer, introduire ou commercialiser en gros des tabacs manufacturés doit préalablement obtenir un
+numéro d'identification en qualité de fournisseur.
+
+Le demandeur doit remplir les conditions requises pour l'exercice d'une profession commerciale et fournir une caution
+solvable qui garantit à l'administration des douanes et droits indirects le paiement de la retenue sur remise prévue à
+l'article 281.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 281
+
+	**Modifié par**:
+
+	  - Décret n°96-891 du 11 octobre 1996 - art. 1 () JORF 12 octobre 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
 
 ###### Article 280
 
@@ -15077,8 +15555,12 @@ En cas de changement de siège, soit de l'établissement principal, soit d'une a
 création d'une agence ou succursale nouvelle, des déclarations préalables en sont faites par les assujettis aux services des
 impôts et dans les formes ci-dessus déterminées.
 
-Les agréments de sociétés de bourse sont consignées au registre prévu au présent article. Cette mention équivaut, en ce qui
-les concerne, à la déclaration.
+Les agréments de prestataires de services d'investissement sont consignés au registre prévu au présent article. Cette mention
+équivaut, en ce qui les concerne, à la déclaration.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
 
 **Liens relatifs à cet article**
 
@@ -15088,16 +15570,17 @@ les concerne, à la déclaration.
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 11 avril 1997
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Modifié par**:
 
-	  - Loi n°88-70 1988-01-22 art. 4, art. 6, art. 25 JORF 23 janvier 1988
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+	  - Loi n°96-597 1996-07-02 art. 94 I, II JORF 4 juillet 1996
+	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 1997-05-28
 
 
 ###### Article 305 A
@@ -15136,10 +15619,10 @@ opérations antérieures ;
 
 10° Valeur totale des titres, déduction faite des versements restant à effectuer sur les titres non entièrement libérés ;
 
-11° S'il y a lieu, soit le nom de la société de bourse qui a concouru à l'opération, soit le nom et le domicile du mandataire
-substitué par l'intermédiaire duquel l'opération a été faite, soit le nom et le domicile de la personne qui en a fait la
-contrepartie, lorsque ces deux derniers sont au nombre des personnes désignées dans l'article 982 du code général des
-impôts ;
+11° S'il y a lieu, soit le nom du prestataire de services d'investissement qui a concouru à l'opération, soit le nom et le
+domicile du mandataire substitué par l'intermédiaire duquel l'opération a été faite, soit le nom et le domicile de la
+personne qui en a fait la contrepartie, lorsque ces deux derniers sont au nombre des personnes désignées dans l'article 982
+du code général des impôts ;
 
 12° Montant du droit afférent à l'opération, sauf en ce qui concerne :
 
@@ -15147,10 +15630,42 @@ a Les opérations à prime ;
 
 b Les opérations d'ordre prévues au 4° ;
 
-c Les opérations qui donnent lieu à la désignation de la société de bourse qui a effectué l'opération ou du mandataire
-substitué.
+c Les opérations qui donnent lieu à la désignation du prestataire de services d'investissement qui a effectué l'opération ou
+du mandataire substitué.
 
-MODELE DE REPERTOIRE (Modèle A) [*non reproduit*].
+MODELE DE REPERTOIRE (Modèle A)
+
+Colonne 1 : Numéro d'ordre ;
+
+Colonne 2 : Date de l'opération ;
+
+Colonne 3 : Nom du donneur d'ordre ;
+
+Colonne 4 : Nature de l'opération (1) ;
+
+Colonne 5 : Echéance ;
+
+Colonne 6 : Nature des titres ;
+
+Colonne 7 : Nombre ou montant des titres ;
+
+Colonne 8 : Taux de l'opération ;
+
+Colonne 9 : Valeur des titres ;
+
+Colonne 10 : Valeur des titres, déduction faite du non libéré ;
+
+Colonne 11 : Nom du prestataire de services d'investissement ou du mandataire substitué ou de la personne qui a fait la
+contrepartie de l'opération ;
+
+Colonne 12 : Montant du droit.
+
+(1) Achat au comptant, ou vente au comptant, ou achat à terme ferme ou vente à terme ferme, ou achat à prime ou vente à
+prime, ou report, ou achat-compensation, ou vente-compensation.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
 
 **Liens relatifs à cet article**
 
@@ -15158,17 +15673,19 @@ MODELE DE REPERTOIRE (Modèle A) [*non reproduit*].
 
 	  - CGI 982
 
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+
 	**Modifié par**:
 
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+	  - Loi n°96-597 1996-07-02 art. 94 I, II JORF 4 juillet 1996
+	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
+	  - Décret n°97-661 1997-05-28
 
 
 ###### Article 305 B
@@ -15319,25 +15836,25 @@ présentant les opérations à terme et les reports.
 
 Les extraits du répertoire sont produits :
 
-1° Entre le 10 et le 15;
+1° Entre le 10 et le 15 ;
 
 2° Entre le 25 et le dernier jour de chaque mois.
 
 Le dépôt des extraits est accompagné de la consignation des droits, calculés sur le pied de 6 p. 1.000 du montant des
 opérations qui y sont portées, si le redevable ne préfère produire des extraits comportant la perception immédiate des
 droits, c'est-à-dire présentant, pour chaque opération, le décompte des droits, accompagné, le cas échéant, de l'indication
-soit du nom de la société de bourse qui a concouru à l'opération, ainsi que de la date et du numéro du bordereau qu'il en a
-délivré, soit du nom et du domicile du mandataire substitué, par l'intermédiaire duquel l'opération a été faite, ainsi que de
-la date et du numéro sous lesquels l'opération figure au répertoire de ce dernier, soit du nom et du domicile de la personne
-qui a fait la contrepartie de l'opération, ainsi que de la date et du numéro sous lesquels l'opération figure à son
-répertoire, soit, en ce qui concerne les opérations d'ordre prévues à l'article 305 A, des numéros sous lesquels figurent au
-répertoire les opérations qu'il s'agit de compenser.
+soit du nom du prestataire de services d'investissement qui a concouru à l'opération, ainsi que de la date et du numéro du
+bordereau qu'il en a délivré, soit du nom et du domicile du mandataire substitué, par l'intermédiaire duquel l'opération a
+été faite, ainsi que de la date et du numéro sous lesquels l'opération figure au répertoire de ce dernier, soit du nom et du
+domicile de la personne qui a fait la contrepartie de l'opération, ainsi que de la date et du numéro sous lesquels
+l'opération figure à son répertoire, soit, en ce qui concerne les opérations d'ordre prévues à l'article 305 A, des numéros
+sous lesquels figurent au répertoire les opérations qu'il s'agit de compenser.
 
 Les versements afférents aux opérations fermes qui porteraient sur des valeurs cotées à terme à la bourse de la place sur
 laquelle l'assujetti exerce son industrie et qui figureraient à l'extrait pour une échéance plus éloignée que celle qui est
-prévue, pour ces valeurs, par les réglements des sociétés de bourse de ladite place, doivent, si ces opérations ne sont
-appuyées d'un bordereau de société de bourse certifiant la date de l'échéance, être effectués sur le pied d'un bordereau pour
-chacune des échéances prévues par les règlements ci-dessus mentionnés.
+prévue, pour ces valeurs, par les règlements des prestataires de services d'investissement de ladite place, doivent, si ces
+opérations ne sont appuyées d'un bordereau de prestataire de services d'investissement certifiant la date de l'échéance, être
+effectués sur le pied d'un bordereau pour chacune des échéances prévues par les règlements ci-dessus mentionnés.
 
 **Liens relatifs à cet article**
 
@@ -15345,17 +15862,19 @@ chacune des échéances prévues par les règlements ci-dessus mentionnés.
 
 	  - CGIAN2 305 A
 
+	**Abrogé par**:
+
+	  - Décret n°2005-182 du 24 février 2005 - art. 2 () JORF 26 février 2005
+
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 1er janvier 2005
 
 	**Modifié par**:
 
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Loi n°96-597 1996-07-02 art. 94 I, II JORF 4 juillet 1996
+	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
 
 
 ###### Article 305 G
@@ -15848,17 +16367,27 @@ de l'arrêté du 24 novembre 1982 (J.O. du 24 mars 1983).
 
 ###### Article 310 HB quinquies
 
-En ce qui concerne les établissements industriels, les décentralisations s'entendent des transferts hors du bassin parisien
-et de la région lyonnaise d'installations précédemment implantées dans la région parisienne et la région lyonnaise.
+I. En ce qui concerne les établissements industriels, les décentralisations s'entendent des transferts hors du bassin
+parisien et de la région lyonnaise d'installations précédemment implantées dans la région parisienne et la région lyonnaise.
 
 En ce qui concerne les établissements de recherche scientifique et technique et les services de direction, d'études,
 d'ingénierie et d'informatique, les décentralisations s'entendent des transferts hors du bassin parisien d'installations
 précédemment implantées dans cette zone.
 
-Pour l'application du présent article, le bassin parisien, la région parisienne et la région lyonnaise sont définis par
-arrêté du ministre du budget (1).
+Pour l'application du présent I, le bassin parisien, la région parisienne et la région lyonnaise sont définis par arrêté du
+ministre du budget (1).
 
-**Nota:**
+II. Pour les opérations réalisées à compter du 1er janvier 1995 :
+
+a) Les décentralisations d'établissements industriels s'entendent des transferts, dans les zones éligibles à la prime
+d'aménagement du territoire et dans les territoires ruraux de développement prioritaire, d'installations précédemment
+implantées dans le Bassin parisien et la région lyonnaise, définis à l'annexe III au décret n° 95-149 du 6 février 1995
+relatif à la prime d'aménagement du territoire ;
+
+b) Les décentralisations d'établissements de recherche scientifique et technique et de services de direction, d'études,
+d'ingénierie et d'informatique s'entendent des transferts, dans les zones éligibles à la prime d'aménagement du territoire et
+dans les territoires ruraux de développement prioritaire, d'installations précédemment implantées dans le Bassin parisien,
+défini à l'annexe III au décret n° 95-149 du 6 février 1995 relatif à la prime d'aménagement du territoire.
 
 (1) Voir Annexe IV art. 121 quinquies DB bis et annexe IV à l'arrêté du 24 novembre 1980 (J.O. du 7 décembre).
 
@@ -15866,20 +16395,24 @@ arrêté du ministre du budget (1).
 
 	**Cite**:
 
-	  - Arrêté 1980-11-24
-	  - CGIAN4 121 quinquies DB bis
+	  - Arrêté 1980-11-24 annexe IV
+	  - Décret n°95-149 du 6 février 1995
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-
-	**Créé par**:
-
-	  - Décret n°80-921 du 21 novembre 1980 - art. 4 (V) JORF 23 novembre 1980
+	  - Décret n°96-707 du 5 août 1996 - art. 1 () JORF 10 août 1996
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°97-661 du 28 mai 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 310 HB septies
@@ -15949,38 +16482,34 @@ rédaction antérieure à la loi n° 80-10 du 10 janvier 1980, qui étaient en v
 
 Pour la détermination de la base d'imposition de la taxe professionnelle, l'imposition des recettes concerne notamment :
 
-- les titulaires de bénéfices non commerciaux [*BNC*] même lorsqu'ils ont opté, au regard de l'impôt sur le revenu, pour le
-régime fiscal des salariés ;
+- les titulaires de bénéfices non commerciaux même lorsqu'ils ont opté, au regard de l'impôt sur le revenu, pour le régime
+fiscal des salariés ;
 
 - les personnes qui, à titre habituel, donnent des conseils et servent d'intermédiaires pour la gestion ou le règlement
 d'intérêts privés ;
 
 - les commissionnaires, les courtiers, les intermédiaires pour l'achat, la souscription ou la vente d'immeubles, de fonds de
-commerce, d'actions ou parts de sociétés immobilières, ainsi que les agents de change (1) et remisiers.
-
-(1) Jusqu'au 31 décembre 1991, les activités visées à l'article 979 du code général des impôts sont exercées par les agents
-de change et les sociétés de bourse (loi n° 88-70 du 22 janvier 1988, art. 1er et 24.
+commerce, d'actions ou parts de sociétés immobilières, ainsi que les prestataires de services d'investissement et les
+remisiers.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 979
-	  - Loi n°88-70 1988-01-22 art. 1, art. 24
-	  - Loi n°88-70 du 22 janvier 1988 - art. 24 (Ab)
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 11 avril 1997
 
 	**Modifié par**:
 
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+	  - Loi n°96-597 1996-07-02 art. 94 I, II JORF 4 juillet 1996
+	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 du 28 mai 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
 
 
 ###### Article 310 HD
@@ -18071,42 +18600,45 @@ application de l'article 1465 du code général des impôts ne sont prises en co
 exonérée ;
 
 5° Le taux en vigueur dans la commune s'entend du taux d'imposition résultant des décisions de la commune augmenté, le cas
-échéant, de celui du syndicat de communes et du district recourant aux dispositions ((du deuxième alinéa de l'article L
-5212-20 du code général des collectivités territoriales)) (M) ;
+échéant, de celui du syndicat de communes recourant aux dispositions du deuxième alinéa de l'article L 5212-20 du code
+général des collectivités territoriales ;
 
 6° Les contributions budgétaire s'entendent de l'ensemble des contributions versées par la commune à un groupement de
-communes ou à d'autres communes et des contributions visées ((au deuxième alinéa de l'article L 5212-20 du code général des
-collectivités territoriales)) (M) dès lors qu'elles sont calculées par référence à tout ou partie du produit communal de la
-taxe professionnelle. Lorsqu'elles ne sont calculées que pour partie par référence au produit communal de la taxe
-professionnelle, leur montant n'est retenu que dans cette proportion.
+communes ou à d'autres communes et des contributions visées au deuxième alinéa de l'article L 5212-20 du code général des
+collectivités territoriales dès lors qu'elles sont calculées par référence à tout ou partie du produit communal de la taxe
+professionnelle. Lorsqu'elles ne sont calculées que pour partie par référence au produit communal de la taxe professionnelle,
+leur montant n'est retenu que dans cette proportion.
 
-(M) Modifications de la loi.
+**Nota:**
+
+Article devenu sans objet en conséquence de l'article 2-4.3.1 de la loi n° 2009-1673 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1648 A, 1465
-	  - Décret n°64-255 1964-03-16
-	  - Code général des collectivités territoriales - art. L5212-20 (M)
 
 	**Anciens textes**:
 
 	  - CGIAN2 327 B
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°96-142 du 21 février 1996 - art. 1 (V) JORF 24 février 1996
-	  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
-	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+	  - Décret n°64-255 1964-03-16
+	  - Code général des collectivités territoriales - art. L5212-20
 
 	**Codifié par**:
 
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°97-661 1997-05-28
+
+	**Modifié par**:
+
+	  - Décret n°97-661 du 28 mai 1997 - art. 2 () JORF 1er juin 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 328 A
@@ -19825,18 +20357,25 @@ la taxe compte tenu des quantités de céréales correspondantes prévues par le
 
 ###### Article 363 AE
 
-I. Est autorisée, au titre de la campagne de commercialisation 1995-1996, la perception d'une taxe parafiscale à la charge
-des producteurs, assise sur les quantités de céréales et de riz livrées aux collecteurs agréés et aux producteurs grainiers.
+I. Est autorisée, au titre de la campagne de commercialisation ((1996-1997)) (M), la perception d'une taxe parafiscale à la
+charge des producteurs, assise sur les quantités de céréales et de riz livrées aux collecteurs agréés et aux producteurs
+grainiers.
 
-II. Après déduction des frais de recouvrement, le produit de la taxe est réparti de la façon suivante :
+((Après déduction des frais de recouvrement, le produit de la taxe est réparti de la façon suivante :
 
-Une partie, qui ne peut excéder 60 p. 100, est affectée à l'Office national interprofessionnel des céréales pour la
+((a) Une partie, qui ne peut excéder 30 %, est affectée à l'Office national interprofessionnel des céréales pour la
 couverture de ses frais de fonctionnement et pour le financement éventuel des actions entreprises en application de l'article
-1er  du décret du 30 septembre 1953 modifié relatif à l'organisation du marché des céréales et de l'Office national
+1er du décret du 30 septembre 1953 modifié relatif à l'organisation du marché des céréales et de l'Office national
 interprofessionnel des céréales ;
 
-Une partie, qui ne peut être inférieure à 40 p. 100, est affectée à l'Institut technique des céréales et des fourrages, pour
-l'exécution de ses programmes de développement.
+((b) Une partie, qui ne peut être inférieure à 45 %, est affectée au Fonds de solidarité des céréaliculteurs et des éleveurs,
+géré par l'Union financière pour le développement de l'économie céréalière, pour le financement d'interventions dans les
+secteurs concourant à l'utilisation de céréales ;
+
+((c) Une partie, qui ne peut être inférieure à 25 %, est affectée à l'Institut technique des céréales et des fourrages pour
+l'exécution de ses programmes de développement)) (M).
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -19846,15 +20385,16 @@ l'exécution de ses programmes de développement.
 
 	**Modifié par**:
 
-	  - Décret n°96-100 du 7 février 1996 - art. 1 (V) JORF 8 février 1996
+	  - Décret n°97-174 du 25 février 1997 - art. 1 (V) JORF 27 février 1997
+	  - Décret n°97-174 du 25 février 1997 - art. 2 (V) JORF 27 février 1997
 
 	**Codifié par**:
 
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°97-661 1997-05-28
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 363 AF
@@ -19877,40 +20417,41 @@ grainiers.
 
 Le taux maximal est fixé à :
 
-6,10 F par tonne pour le blé tendre ;
+10,55 F par tonne pour le blé tendre ;
 
-6,10 F par tonne pour l'orge ;
+10,35 F par tonne pour l'orge ;
 
-6,10 F par tonne pour le maïs ;
+10,10 F par tonne pour le maïs ;
 
-6,05 F par tonne pour le blé dur ;
+10,80 F par tonne pour le blé dur ;
 
-5,65 F par tonne pour le seigle ;
+10,10 F par tonne pour le seigle ;
 
-3,85 F par tonne pour le sorgho ;
+8,10 F par tonne pour le sorgho ;
 
-3,85 F par tonne pour l'avoine ;
+8,80 F par tonne pour l'avoine ;
 
 5,75 F par tonne pour le riz ;
 
-5,65 F par tonne pour le triticale.
+10,10 F par tonne pour le triticale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1122 du 2 octobre 1992 - art. 4 (MMN) JORF 10 octobre 1992
+	  - Décret n°97-174 du 25 février 1997 - art. 4 (V) JORF 27 février 1997
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°97-661 1997-05-28
 
 
 ###### Article 363 AH
 
 La taxe est perçue par prélèvement sur le prix payé aux livreurs par les collecteurs agréés et les producteurs grainiers.
 Elle est reversée à la direction générale des douanes et droits indirects dans les conditions fixées par l'article 25 du
-décret du 31 juillet 1959 relatif ((aux prix, aux modalités de paiement)) (M), de stockage et de rétrocession des céréales.
+décret du 31 juillet 1959 ((modifié)) (M) relatif aux prix, aux modalités de paiement, de stockage et de rétrocession des
+céréales.
 
 (M) Modification du décret.
 
@@ -19920,17 +20461,17 @@ décret du 31 juillet 1959 relatif ((aux prix, aux modalités de paiement)) (M),
 
 	  - Décret n°1959-07-31 art. 25
 
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
 	**Modifié par**:
 
-	  - Décret n°96-556 du 21 juin 1995 - art. 3 () JORF 23 juin 1996
+	  - Décret n°97-174 du 25 février 1997 - art. 5 (V) JORF 27 février 1997
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 363 AI
@@ -20780,50 +21321,49 @@ vertu des statuts ou du règlement intérieur.
 
 ###### Article 371 L
 
-Pour bénéficier des abattements mentionnés au 4 bis de l'article 158 du code général des impôts, les industriels,
-commerçants, artisans ou agriculteurs doivent avoir été membres adhérents d'un centre de gestion agréé pendant toute la durée
-des exercices concernés.
+Pour bénéficier de l'abattement mentionné au 4 bis de l'article 158 du code général des impôts, les industriels, commerçants,
+artisans ou agriculteurs doivent avoir été membres adhérents d'un centre de gestion agréé pendant toute la durée des
+exercices concernés. 
 
-Si cette condition n'est pas remplie, le bénéfice de l'abattement est toutefois accordé :
+Si cette condition n'est pas remplie, le bénéfice de l'abattement est toutefois accordé : 
 
 a. En cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'exercice ouvert depuis moins de trois mois à
-la date de l'agrément ;
+la date de l'agrément ; 
 
 b. En cas de première adhésion à un centre agréé pour l'imposition du bénéfice de l'exercice ouvert depuis moins de trois
-mois à la date de l'adhésion ;
+mois à la date de l'adhésion ; 
 
 c. En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours déclaré dans les
-conditions prévues à l'article 53 A du code général des impôts.
+conditions prévues à l'article 53 A du code général des impôts. 
 
-Les déclarations de résultats des membres adhérents d'un centre de gestion agréé susceptibles de bénéficier des abattements
-prévus au 4 bis de l'article 158 précité doivent être accompagnées d'une attestation fournie par le centre indiquant la date
-d'adhésion et, le cas échéant, la date à laquelle est intervenue la perte de la qualité d'adhérent. ((Le centre de gestion
-agréé et le membre adhérent concerné sont identifiés sur cette attestation)) (1).
-
-(1) Modification du décret.
+Les déclarations de résultats des membres adhérents d'un centre de gestion agréé susceptibles de bénéficier de l'abattement
+prévu au 4 bis de l'article 158 précité doivent être accompagnées d'une attestation fournie par le centre indiquant la date
+d'adhésion et, le cas échéant, la date à laquelle est intervenue la perte de la qualité d'adhérent. Le centre de gestion
+agréé et le membre adhérent concerné sont identifiés sur cette attestation.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 158, 53 A
-
 	**Modifié par**:
 
-	  - Décret n°95-938 du 21 août 1995 - art. 3 () JORF 26 août 1995
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 4 () JORF 31 décembre 1997
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°97-661 1997-05-28
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 L bis (P)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IC (P)
 
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 53 A (V)
+	  - Code général des impôts, CGI. - art. 158
+
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 371 LA
@@ -21372,390 +21912,314 @@ titulaires des charges et offices.
 
 ### Chapitre I ter : Centre de formalités des entreprises
 
-###### Article 371 AA
-
-Des centres de formalités des entreprises sont créés :
-
-1° Par les chambres de commerce et d'industrie :
-
-Pour les commerçants et les sociétés commerciales, à l'exclusion de ceux qui sont assujettis à l'immatriculation au
-répertoire des métiers ou au registre des entreprises de la batellerie artisanale ;
-
-Pour les groupements d'intérêt économique et les groupements européens d'intérêt économique ;
-
-2° Par les chambres de métiers :
-
-Pour les personnes physiques et les sociétés assujetties à l'immatriculation au répertoire des métiers, à l'exclusion de
-celles qui sont assujetties à l'immatriculation au registre des entreprises de la batellerie artisanale ;
-
-3° Par la chambre nationale de la batellerie artisanale :
-
-Pour les personnes physiques et les sociétés assujetties à l'immatriculation au registre des entreprises de la batellerie
-artisanale ;
-
-4° Par les greffes des tribunaux de commerce ou des tribunaux de grande instance statuant commercialement :
-
-Pour les sociétés civiles et autres que commerciales ainsi que pour les agents commerciaux ;
-
-5° Par l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) et des caisses
-générales de sécurité sociale :
-
-Pour les membres des professions libérales ;
-
-Pour les employeurs dont les entreprises ne sont pas immatriculées au registre du commerce et des sociétés, au répertoire des
-métiers, ou au registre des entreprises de la batellerie artisanale ;
-
-6° Par les centres des impôts :
-
-Pour les assujettis à la taxe à la valeur ajoutée à l'impôt sur le revenu au titre des bénéfices industriels et commerciaux
-ou à l'impôt sur les sociétés, dès lors que ceux-ci ne relèvent pas des dispositions précédentes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°90-471 du 8 juin 1990 - art. 1 () JORF 10 juin 1990
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
-	  - Décret n°97-661 1997-05-28
-
-	**Abrogé par**:
-
-	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 15 juin 1990
-
-
-###### Article 371 AB
-
-Les centres de formalités permettent aux entreprises de souscrire en un même lieu et sur un même document les déclarations
-auxquelles elles sont tenues par les lois et règlements dans les domaines juridique, administratif, social, fiscal et
-statistique, afférentes à leur création, à la modification de leur situation et à la cessation de leur activité.
-
-Chaque centre est compétent à l'égard des entreprises dont le siège social, l'établissement principal ou un établissement est
-situé dans son ressort.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°81-257 du 18 mars 1981 - art. 3 (Ab) JORF 21 mars 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°97-661 1997-05-28
-
-	**Abrogé par**:
-
-	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-
-
-###### Article 371 AC
-
-Chaque centre est compétent pour recevoir les déclarations énumérées aux paragraphes I, II et III ci-après ainsi que les
-actes et pièces dont la remise est exigée par l'un des organismes destinataires.
-
-Ne relèvent pas de la compétence du centre :
-
-- les déclarations fiscales concernant l'assiette ou le recouvrement des droits ou taxes ;
-
-- les déclarations relatives aux modifications de l'effectif des salariés pour fixer notamment le montant des contributions
-sociales ;
-
-- les déclarations relatives à des mesures de publicité autres que celles figurant aux registres du commerce et des sociétés
-et des agents commerciaux.
-
-I. Activités non salariées exercées par une personne physique et entreprises individuelles.
-
-1. Création.
-
-Déclaration d'existence.
-
-2. Transfert hors du ressort géographique d'un centre des impôts.
-
-3. Modifications.
-
-Changement de nom lié ou non avec le mariage de la personne immatriculée ou du chef d'entreprise.
-
-Changement de nom commercial.
-
-Changement de l'enseigne.
-
-Changement de l'adresse de correspondance.
-
-Changement, extension ou cessation partielle de l'activité.
-
-Cessation temporaire d'activité et reprise d'activité après cette cessation.
-
-Mise en location-gérance, soit du fonds de commerce de l'établissement principal, soit de l'établissement artisanal.
-
-Reprise du fonds ou de l'établissement par le loueur après une location-gérance.
-
-Renouvellement du contrat de location-gérance.
-
-Changement du mode d'exploitation du fonds de commerce de l'établissement principal.
-
-Mention du conjoint collaborateur.
-
-Transfert de l'établissement principal ou de l'entreprise à l'intérieur du ressort géographique d'un centre des impôts.
-
-4. Cessation définitive de l'activité, décès, radiation.
-
-II. Personnes morales
-
-1. Création.
-
-Déclaration d'existence.
-
-2. Transfert du siège social hors du ressort géographique d'un centre des impôts.
-
-3. Modifications.
-
-Changement de raison sociale ou de dénomination sociale.
-
-Changement de l'enseigne.
-
-Changement de l'adresse de correspondance.
-
-Changement relatif à la forme juridique, au capital et à la durée de la personne morale.
-
-Changement des dirigeants, gérants ou associés.
-
-Changement, extension ou cessation partielle de l'activité de la personne morale.
-
-Cessation temporaire d'activité et reprise d'activité après cette cessation.
-
-Mise en location-gérance ou reprise après location-gérance du fonds de commerce.
-
-Renouvellement du contrat de location-gérance.
-
-Changement du mode d'exploitation du fonds de commerce de la société.
-
-Transfert du siège social à l'intérieur du ressort d'un centre des impôts.
-
-4. Cessation définitive d'activité, fin de la personne morale, radiation.
-
-III. Etablissements secondaires.
-
-1. Ouverture.
-
-Déclaration d'ouverture.
-
-2. Modifications.
-
-Changement de l'enseigne.
-
-Changement de l'adresse de correspondance.
-
-Changement, extension ou cessation partielle de l'activité.
-
-Cessation temporaire d'activité ou reprise d'activité après cessation.
-
-Mise en location-gérance du fonds de commerce ou de l'établissement artisanal ou reprise après location-gérance.
-
-Renouvellement du contrat de location-gérance.
-
-Changement du mode d'exploitation de l'activité.
-
-Transfert.
-
-3. Cessation définitive d'activité, radiation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°81-257 du 18 mars 1981 - art. 3 (Ab) JORF 21 mars 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°97-661 1997-05-28
-
-	**Abrogé par**:
-
-	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-
-
-###### Article 371 AD
-
-Les déclarations sont présentées au centre compétent en application des articles 371 AA et 371 AB. Si plusieurs centres se
-trouvent compétents, les déclarations sont présentées à l'un d'eux, au choix du déclarant.
-
-Les déclarations sont établies conformément à un modèle fixé par arrêté interministériel (1). Elles sont signées du déclarant
-ou de son mandataire.
-
-Elles sont accompagnées des pièces justificatives prescrites. Ces pièces sont fournies en original ou, pour celles qui
-doivent être conservées par le déclarant, en copie certifiée conforme par le centre. Lorsque la formalité comporte un dépôt
-d'actes auprès de l'un des organismes destinataires, ces documents sont remis au centre dans la forme exigée pour leur dépôt.
-
-(1) Arrêtés des 21 décembre 1983 (JO du 23), 6 septembre 1985 (JO du 10), 2 février 1988 (JO du 3).
+###### Article 371 AI
+
+Les centres de formalités des entreprises reçoivent le dossier unique, mentionné à l'article 2 de la loi n° 94-126 du 11
+février 1994 relative à l'initiative et à l'entreprise individuelle, comportant les déclarations relatives à leur création,
+aux modifications de leur situation ou à la cessation de leur activité, que les entreprises sont tenues de remettre aux
+administrations, personnes ou organismes mentionnés à l'article 1er de la même loi.
+
+Ils reçoivent en outre les notifications effectuées par les greffes des tribunaux de commerce ou des tribunaux de grande
+instance statuant commercialement, en application de l'article 4-1 du décret n° 84-406 du 30 mai 1984 relatif au registre du
+commerce et des sociétés.
+
+Les centres transmettent aux administrations, personnes ou organismes concernés, les déclarations ainsi que les
+renseignements mentionnés au deuxième alinéa.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1983-12-21
-	  - Arrêté 1985-09-06
-	  - Arrêté 1988-02-02
-	  - CGIAN2 371 AA, 371 AB
+	  - Décret n°84-406 du 30 mai 1984 - art. 4-1 (Ab)
+	  - Loi n°94-126 du 11 février 1994 - art. 1 (V)
+	  - Loi n°94-126 du 11 février 1994 - art. 2 (V)
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°87-970 du 3 décembre 1987 - art. 5 () JORF 4 décembre 1987
+	  - Décret n°96-650 1996-07-19 art. 1 JORF 23 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
 	  - Décret n°97-661 1997-05-28
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 AQ bis (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371-0 AQ bis (V)
 
 	**Liens**:
 
 	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 15 juillet 1988
 
 
-###### Article 371 AD bis
+###### Article 371 AJ
 
-Le centre est réputé saisi lorsque les déclarations qui lui sont directement remises ou adressées ou transmises par voie
-postale sont établies conformément au modèle prévu à l'article 371 AD, signées du déclarant ou de son mandataire et qu'elles
-comportent les énonciations indispensables pour identifier :
+I. 1 Sous réserve des dispositions des 2 et 3, les chambres de commerce et d'industrie créent les centres de formalités des
+entreprises compétents pour :
 
-1° Les nom et prénoms du déclarant pour les personnes physiques, la dénomination ou la raison sociale pour les personnes
-morales ;
+a) Les commerçants ;
+
+b) Les sociétés commerciales ;
+
+c) Les groupements d'intérêt économique et les groupements européens d'intérêt économique.
+
+2. Les chambres de métiers créent les centres compétents pour les personnes physiques et les sociétés assujetties à
+l'immatriculation au répertoire des métiers, à l'exclusion de celles visées au 3.
+
+3. La chambre nationale de la batellerie artisanale crée le centre compétent pour les personnes physiques et les sociétés
+assujetties à l'immatriculation au registre des entreprises de la batellerie artisanale.
+
+4. Les greffes des tribunaux de commerce ou des tribunaux de grande instance statuant commercialement créent les centres
+compétents pour :
+
+a) Les sociétés civiles et autres que commerciales ;
+
+b) Les sociétés d'exercice libéral ;
+
+c) Les personnes morales assujetties à l'immatriculation au registre du commerce et des sociétés autres que celles visées aux
+1, 2 et 3 ;
+
+d) Les établissements publics industriels et commerciaux ;
+
+e) Les agents commerciaux.
+
+5. Les unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) ou les caisses
+générales de sécurité sociale créent les centres compétents pour :
+
+a) Les membres des professions libérales ;
+
+b) Les employeurs dont les entreprises ne sont pas immatriculées au registre du commerce et des sociétés, au répertoire des
+métiers ou au registre des entreprises de la batellerie artisanale.
+
+6. Les chambres d'agriculture créent les centres compétents pour les personnes physiques et morales exerçant à titre
+principal des activités agricoles, à l'exclusion des personnes visées aux 1 à 4.
+
+7. Les centres des impôts créent les centres compétents pour les personnes suivantes dès lors qu'elles ne relèvent pas des
+dispositions des 1 à 6 et qu'elles n'ont pas d'autres obligations déclaratives que statistiques et fiscales :
+
+a) Les assujettis à la taxe sur la valeur ajoutée ;
+
+b) Les assujettis à l'impôt sur le revenu au titre des bénéfices industriels et commerciaux ;
+
+c) Les assujettis à l'impôt sur le revenu au titre des bénéfices non commerciaux ;
+
+d) Les assujettis à l'impôt sur les sociétés.
+
+II. - Chaque centre est compétent à l'égard des entreprises dont le siège social, l'établissement principal ou un
+établissement est situé dans le ressort territorial de l'administration, personne ou organisme qui le crée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-650 1996-07-19 art. 2 JORF 23 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AL (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 371 AK
+
+Le dépôt des déclarations prévues à l'article 371 AS est obligatoirement effectué dans les centres de formalités des
+entreprises au terme d'un délai d'un an à compter de la création du centre.
+
+Toutefois, les dispositions prévues au premier alinéa ne font pas obstacle à la faculté ouverte à tout déclarant de présenter
+directement au greffe du tribunal compétent une demande d'inscription au registre du commerce et des sociétés, sous réserve
+qu'il justifie auprès du greffe avoir préalablement saisi le centre conformément aux dispositions de l'article 371 AM. Dans
+ce cas, le greffe avise le centre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 371 AS, 371 AM
+
+	**Créé par**:
+
+	  - Décret n°96-650 1996-07-19 art. 3 JORF 23 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 371 AL
+
+Les déclarations sont présentées au centre compétent en application de l'article 371 AJ. Si plusieurs centres se trouvent
+compétents, les déclarations sont présentées à l'un d'eux au choix du déclarant.
+
+Le dossier comprend :
+
+1° Les déclarations signées du déclarant ou de son mandataire, accompagnées, le cas échéant, du pouvoir du mandataire ; ces
+déclarations sont établies sur le modèle fixé par un arrêté des ministres chargés de la justice, des transports, des affaires
+sociales, du travail, de l'économie, de l'industrie, de l'agriculture, du commerce et de l'artisanat, de la réforme
+administrative et du budget et réunies en une liasse ;
+
+2° Les pièces justificatives prescrites, fournies en original ou, pour celles qui doivent être conservées par le déclarant ou
+qui sont exigées par plusieurs destinataires, en copie dont la conformité à l'original est attestée par le centre ;
+
+3° Les actes qui doivent être remis aux organismes destinataires, dans la forme dans laquelle ce dépôt doit être effectué ;
+
+4° Le titre de paiement des frais, droits ou redevances prescrits par les textes réglementaires particuliers.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 371 AJ
+
+	**Créé par**:
+
+	  - Décret n°96-650 1996-07-19 art. 4 JORF 23 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 M (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 371 AM
+
+Le centre est réputé saisi lorsque les déclarations qui lui sont remises directement ou par voie postale sont établies sur le
+modèle prévu à l'article 371 AL et sont signées du déclarant ou de son mandataire, et lorsqu'elles comportent au moins les
+énonciations indispensables pour identifier :
+
+1° Les nom, nom d'usage et prénoms du déclarant pour les personnes physiques, la dénomination ou la raison sociale pour les
+personnes morales ;
 
 2° La forme juridique de l'entreprise ;
 
 3° Le siège de l'entreprise ou l'adresse de l'établissement ;
 
-4° L'objet de la déclaration ;
+4° L'objet de la formalité ;
 
 5° Les activités générales de l'entreprise ou de l'établissement ;
 
-6° Le nombre de salariés dans l'entreprise ou l'établissement.
+6° L'existence de salariés dans l'entreprise ou dans l'établissement et, le cas échéant, leur nombre ;
 
-Le centre ne peut refuser les déclarations respectant les conditions ci-dessus énumérées.
+7° La date d'effet de l'événement objet de la formalité ;
+
+8° Les date et lieu de naissance des déclarants personnes physiques.
+
+Le centre ne peut refuser les déclarations respectant les conditions énumérées au premier alinéa, ni en apprécier le bien-
+fondé.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 371 AD
+	  - CGI 371 AL
 
 	**Créé par**:
 
-	  - Décret n°87-970 du 3 décembre 1987 - art. 6 () JORF 4 décembre 1987
+	  - Décret n°96-650 1996-07-19 art. 5 JORF 23 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
 	  - Décret n°97-661 1997-05-28
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 M (V)
 
 	**Liens**:
 
 	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 15 juillet 1988
 
 
-###### Article 371 AE
+###### Article 371 AN
 
-Le centre, saisi des déclarations en application des dispositions des articles 371 AD et 371 AD bis, remet ou adresse au
-déclarant ou à son mandataire un récépissé le premier jour ouvrable suivant celui du dépôt ou de la réception.
+I. Le centre, saisi des déclarations en application des dispositions des articles 371 AL et 371 AM, remet un récépissé, lors
+du dépôt, au déclarant ou à son mandataire ou le lui adresse le premier jour ouvrable suivant la réception du dossier.
 
 Le récépissé indique :
 
-1° Le centre auquel les déclarations sont, le même jour, transmises si le centre saisi s'estime incompétent ;
+a) Lorsque le centre s'estime incompétent, le centre auquel le dossier est transmis le jour même ;
 
-2° Les organismes auxquels les déclarations sont, le même jour, transmises si le centre estime que les déclarations sont
-complètes et qu'elles sont accompagnées de l'ensemble des pièces justificatives prescrites ;
+b) Lorsque le centre s'estime compétent :
 
-3° Si le centre estime que les déclarations sont incomplètes ou qu'elles ne sont pas accompagnées d'une ou plusieurs des
-pièces justificatives prescrites, les compléments à apporter dans un délai de cinq jours ouvrables à compter de la réception
-du récépissé par le déclarant, ce délai étant porté à quinze jours lorsque le déclarant ou son mandataire en fait la demande
-au centre dans le délai précédent.
+1° Si le dossier est incomplet, les compléments qui doivent être apportés dans les délais fixés au II ;
 
-Dès réception des renseignements ou pièces complémentaires demandés en vertu du 3° ou, à défaut de remise de ces compléments
-par le déclarant, au plus tard à l'expiration du délai prévu au 3°, le centre transmet, en l'état, les déclarations et pièces
-justificatives aux organismes destinataires et en avise le déclarant par écrit.
+2° Si le dossier est complet, les organismes auxquels il est transmis le jour même.
 
-A défaut de transmission par le centre dans les trois jours suivant l'expiration des délais prévus au 1°, au 2° ou à l'alinéa
-précédent, le déclarant peut obtenir la restitution immédiate de son dossier, afin d'en saisir directement les organismes
-destinataires.
+II. - a) Lorsque le centre compétent estime que le dossier est incomplet, le déclarant dispose d'un délai de quinze jours
+ouvrables à compter de la réception du récépissé pour produire les compléments à apporter. Toutefois, lorsque la déclaration
+comprend l'embauche d'un premier salarié, le dossier doit être complété dans un délai de huit jours.
+
+A l'expiration de ce délai, le centre avise le déclarant par écrit des organismes destinataires auxquels le dossier est
+transmis en l'état.
+
+b) Lorsque le centre compétent estime que le dossier est complet ou à l'expiration du délai prévu au a, il transmet le jour
+même aux organismes destinataires la déclaration ainsi que, le cas échéant, les pièces annexées qui leur sont destinées.
+
+III. - A défaut de transmission par le centre dans les trois jours suivant l'expiration des délais prévus au II, le déclarant
+peut obtenir la restitution immédiate de son dossier afin d'en saisir directement les organismes destinataires.
+
+IV. - Lorsque les transmissions faites par le centre aux destinataires sont réalisées par voie électronique, elles doivent se
+conformer à une norme fonctionnelle d'échanges automatisés d'informations approuvée par arrêté des ministres chargés de la
+justice, des transports, des affaires sociales, du travail, de l'économie, de l'industrie, de l'agriculture, du commerce et
+de l'artisanat, de la réforme administrative et du budget.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 371 AD, 371 AD bis
+	  - CGI 371 AL, 371 AM
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°87-970 du 3 décembre 1987 - art. 7 () JORF 4 décembre 1987
+	  - Décret n°96-650 1996-07-19 art. 6 JORF 23 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
 	  - Décret n°97-661 1997-05-28
-
-	**Abrogé par**:
-
-	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
 
 	**Liens**:
 
 	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 15 juillet 1988
 
 
-###### Article 371 AF
+###### Article 371 AO
 
 La déclaration présentée ou transmise au centre compétent vaut déclaration auprès de l'organisme destinataire, dès lors
-qu'elle est régulière et complète à l'égard de ce dernier. Elle interrompt les délais à l'égard de cet organisme.
+qu'elle est régulière et complète vis-à-vis de ce dernier. Elle interrompt les délais à l'égard de cet organisme.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°87-970 du 3 décembre 1987 - art. 8 () JORF 4 décembre 1987
+	  - Décret n°96-650 du 19 juillet 1996 - art. 7 (Ab) JORF 23 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
 	  - Décret n°97-661 1997-05-28
-
-	**Abrogé par**:
-
-	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
 
 	**Liens**:
 
 	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 15 juillet 1988
 
 
-###### Article 371 AG
+###### Article 371 AP
 
 Les organismes destinataires des déclarations sont seuls compétents pour en contrôler la régularité ou en apprécier la
 validité. Leur transmission à ces organismes dessaisit le centre en ce qui concerne les formalités à accomplir.
@@ -21765,60 +22229,243 @@ destinataires en informent le centre en même temps que le déclarant.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°87-970 du 3 décembre 1987 - art. 9 () JORF 4 décembre 1987
+	  - Décret n°96-650 1996-07-19 art. 1 JORF 23 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
 	  - Décret n°97-661 1997-05-28
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AQ (V)
 
 	**Liens**:
 
 	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 15 juillet 1988
 
 
-###### Article 371 AH
+###### Article 371 AQ
 
-Le dépôt des déclarations prévues à l'article 371 AC est obligatoirement effectué dans les centres de formalités des
-entreprises au terme d'un délai d'un an à compter de la création du centre.
+Le centre communique les renseignements ou pièces à chacun des organismes destinataires selon sa compétence.
 
-Toutefois, les dispositions prévues à l'alinéa précédent ne font pas obstacle à la faculté ouverte à tout déclarant de
-présenter directement au greffe du tribunal compétent une demande d'inscription au registre du commerce et des sociétés, sous
-réserve qu'il justifie auprès du greffe avoir préalablement saisi le centre conformément aux dispositions de l'article 371 AD
-bis. Dans ce cas, le greffe avise le centre.
+Il est interdit au centre de communiquer à des tiers les renseignements contenus dans les déclarations.
+
+Le support de la déclaration ainsi que toutes pièces relatives à celle-ci, conservés par le centre, sont détruits au terme
+d'un délai de trois ans.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Créé par**:
 
-	  - Arrêté 1981-03-18
-	  - Arrêté 1981-07-23
-	  - CGIAN2 371 AC, AD bis
-
-	**Modifié par**:
-
-	  - Décret n°87-970 du 3 décembre 1987 - art. 10 () JORF 4 décembre 1987
+	  - Décret n°96-650 1996-07-19 art. 9 JORF 23 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
 	  - Décret n°97-661 1997-05-28
-
-	**Abrogé par**:
-
-	  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
 
 	**Liens**:
 
 	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 371 AR
+
+En cas de difficulté grave de fonctionnement d'un centre, le Premier ministre prend, par arrêté, toutes mesures de nature à
+assurer la continuité du service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-650 du 19 juillet 1996 - art. 10 (Ab) JORF 23 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 371 AS
+
+Chaque centre est compétent pour recevoir les déclarations énumérées aux I, II et III ainsi que les actes et pièces dont la
+remise est exigée par l'un des organismes destinataires.
+
+I. - Personnes physiques exerçant une activité
+
+non salariée et entreprises individuelles
+
+1. Création :
+
+- immatriculation principale au registre du commerce et des sociétés ;
+
+- immatriculation au répertoire des métiers ;
+
+- immatriculation au registre des entreprises de la batellerie artisanale ;
+
+- immatriculation au registre des agents commerciaux ;
+
+- inscription au répertoire national des entreprises et des établissements ;
+
+- déclaration d'existence au service des impôts ;
+
+- affiliation aux URSSAF, aux caisses générales de sécurité sociale ou aux caisses de mutualité sociale agricole ;
+
+- déclaration à l'inspection du travail.
+
+2. Transfert hors du ressort géographique de l'un des organismes ou administrations destinataires de la déclaration initiale.
+
+3. Modifications :
+
+- changement de nom lié ou non avec le mariage de la personne immatriculée ou du chef d'entreprise ;
+
+- changement de nom commercial ;
+
+- changement de l'enseigne ;
+
+- changement de l'adresse de correspondance ;
+
+- changement, extension ou cessation partielle de l'activité ;
+
+- cessation temporaire d'activité et reprise d'activité après cette cessation ;
+
+- mise en location-gérance soit du fonds de commerce de l'établissement principal, soit de l'établissement artisanal ;
+
+- reprise du fonds ou de l'établissement par le loueur après une location-gérance ;
+
+- renouvellement du contrat de location-gérance ;
+
+- changement du mode d'exploitation du fonds de commerce de l'établissement principal ;
+
+- mention du conjoint collaborateur ;
+
+- transfert de l'établissement principal ou de l'entreprise à l'intérieur du ressort géographique de l'un des organismes ou
+administrations destinataires de la déclaration initiale.
+
+4. Cessation définitive de l'activité, décès, radiation.
+
+II. - Personnes morales
+
+1. Création :
+
+- immatriculation principale au registre du commerce et des sociétés ;
+
+- immatriculation au répertoire des métiers ;
+
+- immatriculation au registre de la batellerie artisanale ;
+
+- inscription au répertoire national des entreprises et des établissements ;
+
+- déclaration d'existence au service des impôts ;
+
+- affiliation aux URSSAF, aux caisses générales de sécurité sociale ou aux caisses de mutualité sociale agricole ;
+
+- déclaration à l'inspection du travail.
+
+2. Transfert du siège social hors du ressort géographique de l'un des organismes ou administrations destinataires de la
+déclaration initiale.
+
+3. Modifications :
+
+- changement de raison sociale ou de dénomination sociale ;
+
+- changement de l'enseigne ;
+
+- changement de l'adresse de correspondance ;
+
+- changement relatif à la forme juridique, au capital et à la durée de la personne morale ;
+
+- changement des dirigeants, gérants ou associés ;
+
+- changement, extension ou cessation partielle de l'activité de la personne morale ;
+
+- cessation temporaire d'activité et reprise d'activité après cette cessation ;
+
+- mise en location-gérance ou reprise après location-gérance du fonds de commerce ;
+
+- renouvellement du contrat de location-gérance ;
+
+- changement du mode d'exploitation du fonds de commerce de la société ;
+
+- transfert du siège social à l'intérieur du ressort de l'un des organismes ou administrations destinataires de la
+déclaration initiale.
+
+4. Cessation définitive d'activité, fin de la personne morale, radiation.
+
+III. - Etablissements
+
+1. Ouverture :
+
+- mention au répertoire des métiers ;
+
+- mention au registre de la batellerie artisanale ;
+
+- immatriculation secondaire ou inscription complémentaire au registre du commerce et des sociétés ;
+
+- déclaration d'ouverture : au service des impôts, aux URSSAF ou aux caisses générales de sécurité sociale et à l'inspection
+du travail.
+
+2. Modifications :
+
+- changement de l'enseigne ;
+
+- changement de l'adresse de correspondance ;
+
+- changement, extension ou cessation partielle de l'activité ;
+
+- cessation temporaire d'activité ou reprise d'activité après cessation ;
+
+- mise en location-gérance du fonds de commerce ou de l'établissement artisanal ou reprise après location-gérance ;
+
+- renouvellement du contrat de location-gérance ;
+
+- changement du mode d'exploitation de l'activité ;
+
+- transfert.
+
+3. Cessation définitive d'activité, radiation.
+
+Ne relèvent pas de la compétence des centres :
+
+- les déclarations fiscales concernant l'assiette ou le renouvellement des droits ou taxes ;
+
+- les déclarations relatives aux modifications de l'effectif des salariés pour fixer notamment le montant des contributions
+sociales ;
+
+- les déclarations relatives à des mesures de publicité autres que celles figurant au registre du commerce et des sociétés et
+au registre des agents commerciaux ;
+
+- les formalités prévues dans le cadre de la déclaration unique d'embauche ;
+
+- les déclarations concernant une personne morale de droit public non soumise à immatriculation au registre du commerce et
+des sociétés.
+
+Ces déclarations pourront être complétées par arrêté des ministres chargés de la justice, des transports, des affaires
+sociales, du travail, de l'économie, de l'industrie, de l'agriculture, du commerce et de l'artisanat, de la réforme
+administrative et du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-650 1996-07-19 art. 11, annexe II JORF 23 juillet 1996
+	  - Décret n°96-650 du 19 juillet 1996 - art. 11 (Ab) JORF 23 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AK (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 
 ### Chapitre II : Sociétés immobilières de copropriété
@@ -21950,41 +22597,6 @@ de la période normale d'utilisation de ces immeubles.
 	  - CGIAN2 372
 
 
-### Chapitre III : Compétence des fonctionnaires de la direction générale des impôts.
-
-###### Article 376
-
-Sous réserve des dispositions des articles 409 et 410, seuls les fonctionnaires titulaires ou stagiaires appartenant à des
-corps des catégories A et B peuvent, dans le ressort territorial du service auquel ils sont affectés, fixer les bases
-d'imposition ou notifier des redressements.
-
-Les fonctionnaires territorialement compétents pour contrôler les déclarations de revenu global d'une personne physique
-peuvent également vérifier la situation fiscale des exploitations ou des entreprises, ou celle qui résulte des activités
-professionnelles que cette personne ou l'un des membres de son foyer fiscal dirige ou exerce en droit ou en fait, directement
-ou par personne interposée, quels que soient le lieu où ces exploitations, entreprises et activités sont situées ou exercées
-et la forme juridique qu'elles revêtent.
-
-Les fonctionnaires territorialement compétents pour vérifier la situation fiscale d'une exploitation ou d'une entreprise, ou
-celle qui résulte d'une activité professionnelle, qu'un contribuable ou l'un des membres de son foyer fiscal dirige ou
-exerce, en droit ou en fait, directement ou par personne interposée et sous quelque forme juridique que ce soit, peuvent
-également contrôler les déclarations de revenu global souscrites par ce contribuable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 409, 410
-
-	**Abrogé par**:
-
-	  - Décret n°96-804 du 12 septembre 1996 - art. 3 () JORF 15 septembre 1996
-
-	**Liens**:
-
-	  - HISTO: Edition 1979-07-01
-	  - HISTO: Edition du 11 avril 1997
-
-
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
@@ -22021,13 +22633,16 @@ fiscales.
 
 ### Section I : Impôts directs et taxes assimilées
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu.
+#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux
 
 ###### Article 376 bis
 
 Le contribuable qui dispose d'un compte de dépôt ou d'épargne dans un des établissements énumérés à l'article 1681 D du code
-général des impôts doit, s'il désire opter pour le paiement mensuel de l'impôt sur le revenu, faire connaître son choix à
-l'administration avant le 30 septembre.
+général des impôts doit, s'il désire opter pour le paiement mensuel de l'impôt, faire connaître son choix à l'administration
+((avant le 30 novembre pour la taxe professionnelle et les taxes additionnelles à cette taxe, et avant le 31 octobre pour les
+autres impôts mensualisés)) (M).
+
+(M) Modification du décret.
 
 **Liens relatifs à cet article**
 
@@ -22035,12 +22650,45 @@ l'administration avant le 30 septembre.
 
 	  - CGI 1681 D
 
+	**Modifié par**:
+
+	  - Décret n°96-1012 1996-11-19 art. 1 I, II JORF 26 novembre 1996
+	  - Décret n°96-1012 du 19 novembre 1996 - art. 1 () JORF 26 novembre 1996
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 11 avril 1997
 
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux
+###### Article 376 octies
+
+Pour l'application du premier alinéa du B de l'article 1681 quater A du code général des impôts, le montant du dégrèvement
+attendu au titre de l'article 1647 B sexies est celui qui figure dans la déclaration prévue au sixième alinéa de l'article
+1679 quinquies déposée au titre de l'année précédente ou, s'il y a lieu, du dégrèvement déjà prononcé.
+
+Quand un dégrèvement est prononcé au titre de l'impôt dû pour l'année précédente pour un montant inférieur au dégrèvement
+attendu, le complément résultant de la régularisation de la base des prélèvements est acquitté avec le prélèvement suivant.
+Quand un dégrèvement est prononcé pour un montant supérieur au dégrèvement attendu, l'excédent résultant de la même
+régularisation est remboursé dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1681 quater A, 1647 B sexies, 1679 quinquies
+
+	**Créé par**:
+
+	  - Décret n°96-1012 du 19 novembre 1996 - art. 3 () JORF 26 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 2
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
 
 ###### Article 376 quater
 
@@ -22574,6 +23222,62 @@ considérée comme refusée.
 	  - HISTO: Edition du 20 juillet 1984
 
 
+##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres
+
+###### Article 384 A bis
+
+I. L'héritier, le donataire, le légataire ou le copartageant, qui désire acquitter tout ou partie des droits de mutation ou
+de partage dont il est redevable par la remise d'immeubles visés à l'article 1716 bis du code général des impôts, doit
+déposer à la recette des impôts ou à la conservation des hypothèques compétente pour enregistrer l'acte constatant la
+mutation, le partage ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la
+valeur de chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
+
+L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
+de l'acte constatant la mutation ou le partage.
+
+II. L'offre est adressée par le service des impôts à une commission dont la composition est fixée par arrêté conjoint du
+Premier ministre, du ministre chargé du budget et du ministre chargé de la protection de la nature (1).
+
+Avant de se prononcer, cette commission consulte le Conservatoire de l'espace littoral et des rivages lacustres.
+
+La commission émet un avis sur la situation et l'intérêt écologique ou paysager du bien offert ainsi que, après avoir
+consulté le service des domaines, sur sa valeur libératoire.
+
+III. Au vu de l'avis de la commission, le ministre chargé de la protection de la nature propose au ministre chargé du budget
+l'octroi ou le refus de l'agrément.
+
+IV. La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
+
+V. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter la valeur libératoire
+reconnue au bien offert en paiement des droits.
+
+Il fait connaître son acceptation au ministre chargé du budget, par pli recommandé avec demande d'avis de réception.
+
+**Nota:**
+
+(1) Voir l'arrêté du 3 septembre 1998 (JO du 5) modifié par l'arrêté du 25 juin 1999 (JO du 2 juillet), l'arrêté du 27 août
+1999 (JO du 3 septembre) et l'arrêté du 26 février 2001 (JO du 17 mars).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1716 bis
+
+	**Créé par**:
+
+	  - Décret n°96-958 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+
+	**Cité par**:
+
+	  - Décret n°2015-1469 du 13 novembre 2015 - art. 36 (V)
+	  - Code de l'environnement - art. R322-9 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
 #### I bis : Versement pour dépassement du plafond légal de densité (1).
 
 ###### Article 384 B
@@ -23052,14 +23756,14 @@ Les rapporteurs, qui ont voix consultative, formulent des propositions devant la
 
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu.
+### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux
 
 ###### Article 384 septies A
 
-I. Lorsqu'un contribuable perd le bénéfice du règlement de l'impôt sur le revenu par prélèvements mensuels en application des
-dispositions de l'article 1762 A du code général des impôts, sa situation au regard des majorations de 10 % encourues
-éventuellement en exécution des articles 1761 et 1762 du même code est appréciée globalement à la date de l'échéance impayée
-ayant entraîné l'exclusion.
+I. Lorsqu'un contribuable perd le bénéfice du règlement de l'impôt par prélèvements mensuels en application des dispositions
+de l'article 1762 A du code général des impôts, sa situation au regard des majorations de 10 % encourues éventuellement en
+exécution soit des articles 1761 et 1762, soit des articles 1761 et 1762 quater du même code est appréciée globalement à la
+date de l'échéance impayée ayant entraîné l'exclusion.
 
 II. L'administration notifie au contribuable et aux établissements les majorations et déchéances encourues au titre de
 l'article 1762 A du code général des impôts.
@@ -23068,11 +23772,16 @@ l'article 1762 A du code général des impôts.
 
 	**Cite**:
 
-	  - CGI 1762 A, 1761, 1762
+	  - CGI 1762 A, 1761, 1762, 1762 quater
+
+	**Modifié par**:
+
+	  - Décret n°96-1012 1996-11-19 art. 2 I, II JORF 26 novembre 1996
+	  - Décret n°96-1012 du 19 novembre 1996 - art. 2 () JORF 26 novembre 1996
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 11 avril 1997
 
 
 ## Chapitre II : Procédures
@@ -23457,8 +24166,6 @@ Prononcer d'office les dégrèvements, restitutions et transferts de droits.
 	  - Loi n°93-1352 1993-12-29 art. 85 I V Finances pour 1994 JORF 30 décembre 1993
 
 
-## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.
-
 ###### Article 409
 
 Lorsque les besoins du service le requièrent et qu'il n'existe aucun fonctionnaire apte à exercer les fonctions définies au
@@ -23466,27 +24173,40 @@ deuxième alinéa, celles-ci peuvent être confiées par intérim à d'anciens f
 
 Les fonctions dont il s'agit sont :
 
-- Celles exercées par les directeurs en application de l'article 408 ;
+- celles exercées par les directeurs en application de l'article 408 ;
 
-- Celles prévues par l'article 376.
+- celles prévues par l'article 350 terdecies de l'annexe III au code général des impôts pour la fixation des bases
+d'imposition ou la notification des redressements ;
 
-- Celles prévues par les articles R. 81-1 et R. 81-2 du livre des procédures fiscales relatifs au droit de communication.
+- celles prévues par les articles R. 81-1 et R. 81-2 du livre des procédures fiscales relatifs au droit de communication.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI Livre des procédures fiscales R81-1, R81-2
-	  - CGIAN2 408, 376
+	  - CGIAN2 408
+	  - CGIAN3 350 terdecies
+	  - Livre des procédures fiscales R81-1, R81-2
+
+	**Modifié par**:
+
+	  - Décret n°96-804 du 12 septembre 1996 - art. 2 () JORF 15 septembre 1996
+	  - Décret n°97-661 du 28 mai 1997 - art. 2 () JORF 1er juin 1997
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°97-661 1997-05-28
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 terdecies (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.
 
 ###### Article 410
 
