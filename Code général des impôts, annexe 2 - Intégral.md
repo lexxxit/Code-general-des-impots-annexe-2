@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-07-20
+Version Consolidée au 1984-07-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12853,6 +12853,54 @@ la direction générale des impôts.
 	  - Décret n°82-1213 du 30 décembre 1982 - art. 4 (P) JORF 4 JANVIER 1983
 
 
+#### Chapitre VII : Taxe parafiscale pour le financement de certains organismes interprofessionnels de vins.
+
+###### Article 361 bis
+
+Il est institué, pour une durée de cinq ans, une taxe parafiscale au profit des organismes interprofessionnels de vins
+mentionnés à l'article 1er du décret n° 84-663 du 17 juillet 1984.
+
+Cette taxe est destinée à couvrir les dépenses afférentes aux actions d'intérêt interprofessionnel conduites par ces
+organismes, ainsi que leurs frais de fonctionnement.
+
+II. La taxe est due [*fait générateur*] lors de la délivrance du titre de mouvement légitimant la sortie de chez le
+producteur des vins d'appellation d'origine produits dans la circonscription territoriale de l'organisme bénéficiaire.
+
+Elle est assise [*assiette*] sur le volume des vins mentionné sur le titre de mouvement.
+
+Elle est acquittée par la personne levant le titre de mouvement ;
+
+s'il s'agit d'un viticulteur, celui-ci facture le montant de la taxe à l'acheteur afin d'en obtenir le remboursement.
+
+III. La taxe est perçue [*perception*], pour le compte de chacun des organismes, par les receveurs locaux des impôts.
+
+L'administration reverse aux organismes bénéficiaires le montant de la taxe après déduction, dans les conditions
+réglementaires, des frais d'assiette et de perception.
+
+IV. Le taux maximum de la taxe est le tiers du droit de circulation des vins de l'espèce.
+
+Un arrêté conjoint du ministre de l'économie, des finances et du budget et du ministre de l'agriculture fixe le taux
+applicable dans la limite du taux maximum.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°84-663 du 17 juillet 1984 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Décret n°84-663 du 17 juillet 1984 - art. 1 (V) JORF 21 juillet 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+
 #### Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.
 
 ###### Article 363 AA
@@ -20687,7 +20735,151 @@ Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la lo
 	  - Code de l'urbanisme - art. L333-12
 
 
+#### I bis : Versement pour dépassement du plafond légal de densité.
+
+###### Article 384 C
+
+Comme il est dit à l'article R333-6 du code de l'urbanisme, le responsable du service de l'Etat dans le département, chargé
+de l'urbanisme, arrête le montant global du versement pour dépassement du plafond légal de densité et le communique avec les
+indications nécessaires à la détermination de la part revenant à chaque attributaire au directeur des services fiscaux et au
+maire. Il le communique également au pétitionnaire.
+
+En cas d'application de l'article R. 424-1 du code précité, le maire est substitué au responsable du service de l'Etat dans
+le département, chargé de l'urbanisme, et informe celui-ci du montant du versement dans les mêmes conditions. Il en avise
+également le pétitionnaire.
+
+Le service des impôts notifie le montant du versement au redevable. Le paiement doit être effectué dans les conditions
+définies aux deuxième et troisième alinéas de l'article L. 333-2 du code de l'urbanisme.
+
+Lorsque la décision de la juridiction de l'expropriation n'est plus susceptible d'appel ni de pourvoi en cassation, le
+service des impôts procède, s'il y a lieu, à la mise en recouvrement d'une somme complémentaire ou à la restitution du
+montant excédentaire. Le paiement du complément doit intervenir dans les conditions indiquées au quatrième alinéa de
+l'article 1723 octies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1723 octies
+	  - Code de l'urbanisme - art. L333-2 (M)
+	  - Code de l'urbanisme - art. R333-6 (Ab)
+	  - Code de l'urbanisme R424-1
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 8 2° JORF 21 JUILLET 1984
+
+
+###### Article 384 D
+
+Comme il est dit à l'article R 333-7 du code de l'urbanisme, en cas de modification apportée sur la demande de l'intéressé au
+permis de construire qui lui a été délivré, le versement complémentaire éventuellement exigible est notifié et recouvré dans
+les conditions prévues aux articles 384 B et 384 C.
+
+Lorsque l'autorité compétente autorise le transfert d'un permis de construire qui a rendu exigible le versement, elle doit en
+informer sans délai le directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 384 B
+	  - CGIAN2 384 C
+	  - Code de l'urbanisme R333-7
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 8 3° JORF 21 JUILLET 1984
+
+
+###### Article 384 F
+
+Comme il est dit à l'article R 333-9 du code de l'urbanisme, l'intervention d'une décision de l'autorité compétente pour
+statuer sur le permis de construire constatant la péremption de celui-ci entraîne de plein droit la restitution du versement.
+
+Dans les cas visés à l'article 384 E et au premier alinéa du présent article, les demandes de dégrèvement sont recevables
+jusqu'au 31 décembre de la deuxième année qui suit celle de la notification d'un avis de mise en recouvrement et celles de
+restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement.
+
+Les demandes de dégrèvement ou de restitution sont adressées au responsable du service de l'Etat dans le département, chargé
+de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du même code, au maire, qui fait connaître le cas échéant au
+directeur départemental des services fiscaux le montant du dégrèvement ou de la restitution à effectuer. Ce montant est
+calculé déduction faite du prélèvement pour frais d'assiette et de perception mentionné à l'article L 333-12, deuxième
+alinéa, du même code.
+
+La décision de dégrèvement ou de restitution est prise par le chef du service de l'Etat dans le département, chargé de
+l'urbanisme, ou en cas d'application de l'article R. 424-1 du même code, par le maire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 384 E
+	  - Code de l'urbanisme - art. R421-22 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 8 JORF 21 JUILLET 1984
+
+
 #### II : Participation en cas de dépassement du coefficient d'occupation du sol.
+
+###### Article 384 bis
+
+Comme il est dit à l'article R. 332-5 du code de l'urbanisme, le chef du service de l'Etat dans le département, chargé de
+l'urbanisme, ou, en cas d'application de l'article R. 424-1 du code précité, le maire arrête le le montant de la
+participation et le communique au directeur des services fiscaux. Il le notifie au pétitionnaire.
+
+Le service des impôts notifie le montant de la participation au redevable. Le paiement doit être effectué dans les conditions
+définies à l'article R 333-4, troisième et quatrième alinéas, du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 6 1° JORF 21 juillet 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme R424-1
+
+
+###### Article 384 quater
+
+Comme il est dit à l'article R 332-7 du code de l'urbanisme :
+
+I  En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le complément
+de participation éventuellement exigible est notifié et recouvré dans les conditions prévues aux articles 384 bis et 384 ter.
+
+Lorsque la modification du permis de construire entraîne une diminution ou la suppression de la participation ou lorsque le
+demandeur du permis de construire renonce à la construction projetée et demande le retrait à titre gracieux de son permis, il
+peut obtenir le dégrèvement de la somme correspondante, avant que la participation ait été recouvrée, ou la restitution dans
+le cas contraire.
+
+Les demandes de dégrèvement sont recevables jusqu'au 31 décembre de la deuxième année qui suit celle de la notification d'un
+avis de mise en recouvrement et celles de restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement
+[*date limite de dépôt*].
+
+En cas de démolition de l'immeuble ou de la partie d'immeuble construite irrégulièrement, le redevable peut demander le
+dégrèvement la réduction ou la restitution de la participation correspondant à la partie démolie. Cette demande doit être
+formulée au plus tard le 31 décembre de la deuxième année qui suit la démolition dûment constatée.
+
+II  Les demandes de dégrèvement ou de restitution mentionnées ci-dessus sont adressées au chef du service de l'Etat dans le
+département, chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du code de l'urbanisme, au maire, qui fait
+connaître, le cas échéant, au directeur des services fiscaux le montant du dégrèvement ou de la restitution à effectuer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 384 bis
+	  - CGIAN2 384 ter
+	  - Code de l'urbanisme R424-1
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 6 2° JORF 21 juillet 1984
+
 
 ###### Article 384 quinquies
 
@@ -20730,6 +20922,24 @@ posées à l'article L 333-15 du code de l'urbanisme.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 384 sexies
+
+Les litiges relatifs au calcul de la participation sont, à l'exception de ceux qui concernent la détermination de la valeur
+visée à l'article R. 332-1 du code de l'urbanisme, de la compétence des tribunaux administratifs. Les demandes sont adressées
+au chef du service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du
+même code, au maire, qui en informe immédiatement le directeur des services fiscaux et procède à leur instruction.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 6 3° JORF 21 JUILLET 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme R424-1
 
 
 ## Chapitre I bis : Pénalités
@@ -21244,185 +21454,6 @@ administrative.
 
 	  - Code de l'urbanisme - art. R333-5 (M)
 	  - Code de l'urbanisme - art. R421-22 (M)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384 bis
-
-Comme il est dit à l'article R 332-5 du code de l'urbanisme, le directeur départemental de l'équipement ou, en cas
-d'application de l'article R 421-22 du code précité, le maire [*autorité compétente*] arrête le montant de la participation
-et le communique au directeur départemental des services fiscaux compétent. Il le notifie au pétitionnaire.
-
-Le service des impôts notifie le montant de la participation au redevable. Le paiement doit être effectué dans les conditions
-définies à l'article R 333-4, troisième et quatrième alinéas, du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-22 (M)
-	  - Code de l'urbanisme R332-5
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384 C
-
-Comme il est dit à l'article R333-6 du code de l'urbanisme, le directeur départemental de l'équipement arrête le montant
-global du versement pour dépassement du plafond légal de densité et le communique avec les indications nécessaires à la
-détermination de la part revenant à chaque attributaire au directeur des services fiscaux et au maire. Il le communique
-également au pétitionnaire.
-
-En cas d'application de l'article R 421-22 du code précité, le maire est substitué au directeur départemental de l'équipement
-et informe celui-ci du montant du versement dans les mêmes conditions. Il en avise également le pétitionnaire.
-
-Le service des impôts notifie le montant du versement au redevable. Le paiement doit être effectué dans les conditions
-définies aux deuxième et troisième alinéas de l'article L 333-2 du code de l'urbanisme. Lorsqu'il est fait application des
-dispositions de l'article L 430-3 du même code, la date du dépôt de la déclaration préalable est substituée à la date de la
-délivrance du permis de construire pour la fixation des délais de paiement (1).
-
-Lorsque la décision de la juridiction de l'expropriation n'est plus susceptible d'appel ni de pourvoi en cassation, le
-service des impôts procède, s'il y a lieu, à la mise en recouvrement d'une somme complémentaire ou à la restitution du
-montant excédentaire. Le paiement du complément doit intervenir dans les conditions indiquées au quatrième alinéa de
-l'article 1723 octies du code général des impôts.
-
-1)  L'article L 430-3 du code de l'urbanisme relatif à la déclaration préalable de construction a été abrogé par l'article 74
-de la loi n° 76-1285 du 31 décembre 1976.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1723 octies AL. 4
-	  - Code de l'urbanisme - art. L333-2 (M)
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de l'urbanisme - art. R333-6 (Ab)
-	  - Code de l'urbanisme - art. R421-22 (M)
-	  - Loi n°76-1285 1976-12-31 ART. 74
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384 D
-
-Comme il est dit à l'article R 333-7 du code de l'urbanisme, en cas de modification apportée sur la demande de l'intéressé au
-permis de construire qui lui a été délivré ou en cas de modification apportée par l'intéressé à sa déclaration, le versement
-complémentaire éventuellement exigible est notifié et recouvré dans les conditions prévues aux articles 384 B et 384 C.
-
-Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible le versement, elle
-doit en informer sans délai le directeur des services fiscaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 384 B
-	  - CGIAN2 384 C
-	  - Code de l'urbanisme R333-7
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384 F
-
-Comme il est dit à l'article R 333-9 du code de l'urbanisme, l'intervention d'une décision du commissaire de la République
-ou, en cas d'application de l'article R 421-22 du code précité d'une décision du maire, constatant la péremption soit du
-permis de construire, soit de la déclaration préalable à la construction, entraîne de plein droit la restitution du versement
-pour dépassement du plafond légal de densité.
-
-Sans préjudice de l'application de l'article L 333-13 du même code, lorsque l'auteur de la déclaration préalable renonce à la
-construction projetée et obtient le retrait de sa déclaration avant que le versement ait été recouvré, il doit bénéficier du
-dégrèvement correspondant. Si le versement a été acquitté, il peut en réclamer le remboursement jusqu'au 31 décembre de
-l'année qui suit la date du paiement. Les demandes de dégrèvement ou de restitution sont adressées au directeur départemental
-de l'équipement ou, dans le cas visé à l'article R 421-22 du code précité au maire, qui fait connaître le cas échéant au
-directeur départemental des services fiscaux le montant du dégrèvement ou de la restitution à effectuer. Ce montant est
-calculé déduction faite du prélèvement pour frais d'assiette et de perception mentionné à l'article L 333-12, deuxième alinéa
-du même code.
-
-La décision de dégrèvement ou de restitution est prise par le directeur départemental de l'équipement ou, dans le cas prévu à
-l'article R 421-22 précité, par le maire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L333-13 (Ab)
-	  - Code de l'urbanisme - art. R421-22 (M)
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-
-###### Article 384 quater
-
-Comme il est dit à l'article R 332-7 du code de l'urbanisme :
-
-I  En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, ou en cas de
-modification apportée par l'intéressé à sa déclaration, le complément de participation éventuellement exigible est notifié et
-recouvré dans les conditions prévues aux articles 384 bis et 384 ter.
-
-I bis  Lorsque la modification du permis de construire entraîne une diminution ou la suppression de la participation, le
-redevable peut demander la restitution de la somme correspondante si la participation a été acquittée; il peut en demander le
-dégrèvement dans le cas contraire.
-
-Les demandes de dégrèvement ou de restitution doivent être faites avant le 31 décembre de l'année qui suit la notification de
-la décision modifiant le permis de construire.
-
-I ter  Lorsque le pétitionnaire ou le déclarant renonce à la construction projetée et demande, selon le cas, soit
-l'annulation de son permis de construire, soit le retrait de sa déclaration, avant que la participation ait été recouvrée, il
-peut en obtenir le dégrèvement.
-
-Si la participation a été acquittée, il peut en obtenir le remboursement jusqu'au 31 décembre de l'année qui suit le
-versement.
-
-I quater  En cas de démolition de l'immeuble ou de la partie d'immeuble construit irrégulièrement, le redevable peut demander
-le dégrèvement, la réduction ou la restitution de la participation correspondant à la partie démolie. Cette demande doit être
-formulée au plus tard le 31 décembre de l'année qui suit la démolition dûment constatée [*date limite*].
-
-II  Les demandes de dégrèvement ou de restitution visées aux paragraphes ci-dessus sont adressées au directeur départemental
-de l'équipement ou, dans le cas indiqué à l'article R 421-22 du code de l'urbanisme, au maire, qui fait connaître, le cas
-échéant, au directeur des services fiscaux le montant du dégrèvement ou de la restitution à effectuer.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 384 bis
-	  - CGIAN2 384 ter
-	  - Code de l'urbanisme - art. R421-22 (M)
-	  - Code de l'urbanisme R332-7
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384 sexies
-
-Les litiges relatifs au calcul de la participation sont, à l'exception de ceux relatifs à la détermination de la valeur visée
-à l'article R 332-1 du code de l'urbanisme, de la compétence des tribunaux administratifs. Les demandes sont adressées au
-directeur départemental de l'équipement, qui en informe immédiatement le directeur des services fiscaux et procède à leur
-instruction.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R332-1
 
 	**Liens**:
 
