@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-09-01
+Version Consolidée au 1982-11-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4480,7 +4480,7 @@ Sont exclues de ce montant les sommes définies à l'article 81 et aux articles 
 impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la participation pour leur montant brut, avant déduction
-de la cotisation ouvrière de sécurité sociale et des retenues pour la retraite.
+des retenues, cotisations et contributions visées à l'article 83-1° à 2° ter du code général des impôts.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de professions qui bénéficient, en vertu de l'article
 83-3o, troisième alinéa, du code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant de
@@ -4500,11 +4500,15 @@ l'article 82, deuxième alinéa, du code général des impôts.
 	  - CGI 235 ter E
 	  - CGI 81
 	  - CGI 82 AL. 2
-	  - CGI 83 3° AL. 3
+	  - CGI 83 1° A 2° ter CGI 83 3° AL. 3
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-939 du 4 novembre 1982 - art. 6 (V) JORF 5 NOVEMBRE 1982
 
 
 ###### Article 163 nonies
