@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1987-12-04
+Version Consolidée au 1987-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17240,6 +17240,208 @@ Annexe IV, art. 159 AL quater.
 	  - Décret n°86-158 du 4 février 1986 - art. 5 (V) JORF 6 février 1986
 
 
+#### Chapitre IX : Fonds national de développement agricole
+
+##### Taxe parafiscale sur certaines viandes.
+
+###### Article 363 D
+
+I. Il est institué au profit de l'association nationale pour le développement agricole [*ANDA organisme bénéficiaire*], pour
+être versée au fonds national de développement agricole, une taxe parafiscale sur les viandes de veau, de boeuf, de mouton,
+de porc, des espèces chevaline, asine et de leurs croisements, à l'exclusion des produits importés.
+
+Cette taxe est applicable jusqu'au 31 décembre 1992 [*date limite*].
+
+II. Cette taxe est à la charge de l'agriculteur ou de l'éleveur dernier propriétaire de l'animal. Elle est acquittée par la
+personne qui présente cet animal à l'abattage. Toutefois, en cas d'abattage à façon, la taxe est acquittée par le tiers
+abatteur pour le compte du propriétaire.
+
+III. Les taux maxima de la taxe sont les suivants :
+
+- Pour la viande de boeuf et la viande de veau ainsi que pour les viandes des espèces chevaline, asine et de leurs
+croisements :
+
+0,40 % du prix d'orientation communautaire défini pour un kilogramme de poids vif de gros bovin ;
+
+- Pour la viande de porc : 0,40 % du prix de base communautaire par kilogramme de viande de porc abattu ;
+
+- Pour la viande de mouton : 0,15 % du prix de base communautaire par kilogramme de viande de mouton.
+
+Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe les montants de la taxe effectivement
+perçue par espèce dans les limites prévues ci-dessus (1).
+
+IV. La taxe est perçue dans les établissements d'abattage publics et privés sur les abattages opérés en vue de la vente.
+
+Elle est assise, liquidée et recouvrée par la direction générale des impôts, suivant les mêmes règles et sous les mêmes
+garanties et les mêmes sanctions que la taxe de protection sanitaire et d'organisation des marchés des viandes, prévue aux
+article 302 bis F  à 302 bis J du code général des impôts
+
+(1) Annexe IV, art. 159 AO.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 bis F à CGI 302 bis J
+	  - CGIAN4 159 AO
+
+	**Modifié par**:
+
+	  - Décret n°87-1123 du 24 décembre 1987 - art. 1 (P) JORF 31 décembre 1987
+	  - Décret n°87-1123 du 24 décembre 1987 - art. 2 (P) JORF 31 décembre 1987
+	  - Décret n°87-1123 du 24 décembre 1987 - art. 3 (P) JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+##### Taxe parafiscale sur les vins.
+
+###### Article 363 E
+
+" I. - Il est institué au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds
+national de développement agricole, une taxe parafiscale sur les vins, applicable jusqu'au 31 décembre 1992 [*date limite*].
+
+" II. - La taxe est due par les producteurs au moment de la délivrance du titre de mouvement permettant l'enlèvement des vins
+à la propriété ou par les négociants vinificateurs lors de la déclaration de fabrication. Ces derniers ont la possibilité
+d'en retenir le montant sur le prix des raisins ou des moûts utilisés pour ces fabrications.
+
+" III. - Pour les vins d'appellation d'origine contrôlée, le montant maximal de la taxe est fixé à 2,10 F par hectolitre.
+Pour les vins délimités de qualité supérieure, le montant maximal de la taxe est fixé à 1,35 F par hectolitre.
+
+" Pour les autres vins, le montant de la taxe par hectolitre de vin est au plus égal à 2,70 p. 100 du prix d'orientation du
+degré hectolitre fixé par le Conseil des communautés européennes pour les vins de type R. 1 au sens du règlement n° 340-79 en
+date du 5 février 1979 dudit conseil.
+
+" Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe dans ces limites les montants de la taxe
+effectivement perçue. Toute augmentation du montant de la taxe effectivement perçue sur les vins mentionnés au II du présent
+article donne lieu à l'augmentation, au moins dans les mêmes proportions, du montant de la taxe effectivement perçue sur les
+vins mentionnés au I.
+
+" IV. - La taxe est liquidée et recouvrée par la direction générale des impôts suivant les règles, sous les garanties et
+sanctions prévues pour les impôts indirects sur les boissons. "
+
+(1) Annexe IV, art. 159 AP.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 AP
+	  - Règlement 340-79 1979-02-05 communautés européennes
+
+	**Modifié par**:
+
+	  - Décret n°87-1122 du 24 décembre 1987 - art. 1 (P) JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+##### Taxe parafiscale sur les graines oléagineuses.
+
+###### Article 363 F
+
+" I. - Il est institué au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds
+national de développement agricole, une taxe parafiscale sur les graines oléagineuses : colza, navette, tournesol et soja
+livrées par les producteurs aux intermédiaires agréés, applicable à partir de la campagne 1988-1989 jusqu'à la fin de la
+campagne 1992-1993.
+
+" II. - La taxe est mise à la charge des producteurs. Elle est retenue par les intermédiaires agréés lors du paiement des
+graines oléagineuses aux producteurs. Le poids des graines à la réception est, pour le calcul de la taxe, ramené à la qualité
+type arrêtée pour chaque campagne par le Conseil des communautés européennes, conformément aux dispositions des règlements n°
+136-66 du 22 septembre 1966 modifié et n° 1491-85 du 23 mai 1985.
+
+" III. - Les taux maximaux de la taxe sont les suivants :
+
+" a) Pour les graines de colza, navette et tournesol : 0,40 p. 100 du prix d'intervention fixé par le Conseil des communautés
+européennes ;
+
+" b) Pour les graines de soja : 0,40 p. 100 du prix d'objectif fixé par les mêmes autorités.
+
+" Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe dans ces limites les montants de la taxe
+effectivement perçue (1).
+
+" IV. - La taxe est perçue par la direction générale des impôts auprès des intermédiaires agréés. Elle est établie et
+recouvrée selon les règles et sous les garanties et sanctions prévues en matière de contributions indirectes.
+
+" Les sommes exigibles sont liquidées sur production, par les intermédiaires agréés, de déclarations conformes aux modèles
+fixés par la direction générale des impôts et transmises à cette administration dans les dix premiers jours du mois suivant
+celui au titre duquel la taxe est applicable. Elles doivent être acquittées au plus tard le 25 du mois de la déclaration. "
+
+A  (1) Arrêté à émettre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CEE Règlement 136-66 1966-09-22
+	  - CEE Règlement 1491-85 1985-05-23
+
+	**Modifié par**:
+
+	  - Décret n°87-1126 du 24 décembre 1987 - art. 1 (V) JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+##### Taxe parafiscale sur les céréales et le riz.
+
+###### Article 363 FA
+
+" Il est institué au profit de l'Association nationale pour le développement agricole, pour être versée au Fonds national de
+développement agricole, une taxe parafiscale, sur les céréales livrées par les producteurs aux collecteurs agréés et aux
+producteurs grainiers et soumises à la taxe pour le financement des actions du secteur céréalier prévue à l'article 363 AE,
+applicable à compter de la campagne 1988-1989 jusqu'à la fin de la campagne 1992-1993. "
+
+Cette taxe est applicable jusqu'à la fin de la campagne 1987-1988.
+
+II. La taxe est mise à la charge des producteurs [*redevables*]. Elle est retenue [*fait générateur*] par les collecteurs
+agréés et les producteurs grainiers lors du paiement des céréales aux producteurs.
+
+III. Pour le blé tendre, l'orge et le maïs, le taux maximal de la taxe est fixé à 0,95 p. 100 du prix d'intervention diminué
+du montant du prélèvement de coresponsabilité.
+
+" Pour le blé dur, le seigle, le sorgho, le riz et l'avoine, les taux maximaux de la taxe sont les suivants :
+
+" 0,55 p. 100 du prix d'intervention diminué du montant du prélèvement de coresponsabilité pour le blé dur, le seigle, le
+sorgho ;
+
+" 0,55 p. 100 du prix d'intervention pour le riz ;
+
+" 0,55 p. 100 du prix de seuil diminué du montant du prélèvement de coresponsabilité pour l'avoine.
+
+" Pour le triticale, le montant à la tonne de la taxe applicable est égal au montant en valeur absolue de la taxe perçue à la
+tonne de seigle, tel que ce montant résulte des dispositions qui précèdent.
+
+" Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe dans ces limites les montants de la taxe
+effectivement perçue (1). "
+
+IV. La taxe est assise, liquidée et recouvrée par la direction générale des impôts dans les mêmes conditions que la taxe
+parafiscale prévue à l'article 363 AE.
+
+(1) Pour la campagne 1986-1987, arrêté du 23 septembre 1986  (J.O. du 24). Pour la campagne 1988-1989, arreté à émettre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1986-09-23
+	  - CGI 363 AE
+
+	**Modifié par**:
+
+	  - Décret n°87-1121 du 24 décembre 1987 - art. 1 (P) JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 #### Chapitre X : Taxe parafiscale des industries de l'habillement et de la maille.
 
 ###### Article 363 N
@@ -17690,6 +17892,40 @@ la date du 1er juillet de l'année civile en cours.
 ## Troisième partie : Dispositions communes aux première et deuxième parties
 
 ### Chapitre premier : Obligations des contribuables
+
+#### Section I bis : Façonniers.
+
+###### Article 370 B
+
+Le registre prévu à l'article 1649 ter C du code général des impôts est conservé dans chaque établissement ou lieu de
+stockage. Il indique pour chacun des donneurs d'ordres les entrées, les sorties ainsi que les stocks de produits détenus.
+
+Tous autres registres ou documents présentant les mêmes indications tiennent lieu dudit registre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 ter C
+
+	**Anciens textes**:
+
+	  - CGIAN2 368 D
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - PEREMPTION: Loi n°92-677 du 17 juillet 1992 - art. 28 () JORF 19 juillet 1993, article sans objet
+
+	**Créé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-1127 1993-09-24
+
 
 #### Section II : Forains
 
@@ -22011,165 +22247,6 @@ tonne de seigle, tel que ce montant résulte des dispositions qui précèdent.
 	  - Décret n°86-1086 1986-10-07
 
 
-###### Article 363 E
-
-I. Il est institué au profit de l'association nationale pour le pour le développement agricole [*ANDA*], pour être versée au
-fonds national de développement agricole [*FNDA*], une taxe parafiscale sur les vins.
-
-Cette taxe est applicable jusqu'au 31 décembre 1987 [*date limite*].
-
-II. La taxe est due [*fait générateur*] par les producteurs au moment de la délivrance du titre de mouvement permettant
-l'enlèvement des vins à la propriété ou par les négociants vinificateurs lors de la déclaration de fabrication. Ces derniers
-ont la possibilité d'en retenir le montant sur le prix des raisins ou des moûts utilisés pour ces fabrications.
-
-III.  Pour les vins d'appellation d'origine contrôlée, le montant maximum de la taxe est fixé à 2,10 F par hectolitre. Pour
-les vins délimité de qualité supérieure [*VDQS*] le montant maximum de la taxe est fixé à 1,35 F par hectolitre.
-
-Pour les autres vins le montant de la taxe par hectolitre de vin est au plus égal à [*pourcentage*] 2,70 % du prix
-d'orientation du degré-hectolitre fixé, pour les vins de type R1 au sens du règlement n° 340-79 du 5 février 1979, par le
-conseil des communautés européennes [*CEE*].
-
-Un arrêté du ministre de l'agriculture et du ministre de        e l'économie, des finances et du budget fixe les montants de
-la taxe effectivement perçue dans les limites prévues ci-dessus (1). Toute augmentation du montant de la taxe effectivement
-perçue sur les vins mentionnés au deuxième alinéa donne lieu à l'augmentation, au moins dans les mêmes proportions, du
-montant de la taxe effectivement perçue sur les vins mentionnés au prremier alinéa.
-
-IV. La taxe est liquidée et recouvrée par la direction générale des impôts suivant  les règles, sous les garanties et
-sanctions prévues pour les impôts indirects sur les boissons.
-
-(1) Annexe IV, art. 159 AP.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 159 AP
-	  - Règlement 340-79 1979-02-05 communautés européennes
-
-	**Modifié par**:
-
-	  - Décret n°85-1014 du 24 septembre 1985 - art. 1 (P) JORF 25 septembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-
-###### Article 363 F
-
-I. Il est institué au profit de l'association nationale pour le developpement agricole [*ANDA*], pour être versée au fonds
-national de développement agricole [*FNDA*] , une taxe parafiscale sur les graines oléagineuses : colza, navette, tournesol
-et soja, et sur les graines protéagineuses, pois, fève, féverole et lupin doux, livrées par les producteurs aux
-intermédiaires agréés ou aux organismes collecteurs.
-
-Cette taxe est applicable pour une durée de trois campagnes à compter de la campagne de commercialisation 1985-1986 pour le
-colza la navette et le tournesol et de deux campagnes à compter de la campagne de commercialisation 1986-1987 pour le soja,
-les pois, fève, féverole et lupin doux.
-
-II. La taxe est mise à la charge des producteurs [*redevables*]. Elle est retenue [*fait générateur*] par les intermédiaires
-agrées ou par les organismes collecteurs lors du paiement des graines oléagineuses et protéagineuses aux producteurs. Le
-poids des graines à la reception est, pour le calcul de la taxe, ramené à la qualité type arrêtée pour chaque campagne par le
-conseil des communautés européennes conformément aux dispositions des règlements n° 136-66 du 22 septembre 1966 modifié,
-1614-79 du 24 juillet 1979 et 1431-82 du 18 mai 1982 modifié.
-
-III. Les taux maximum de la taxe sont les suivants :
-
-a. Pour les graines de colza, navette et tournesol : 1 % du prix d'intervention fixé par le conseil des communautés
-européennes ;
-
-b. Pour les graines de soja : 1% [*pourcentage*] du prix d'objectif fixé par les mêmes autorités ;
-
-c. Pour les graines de pois, fève, féverole et lupin doux :
-
-0,95 % du prix minimum fixé par les mêmes autorités.
-
-Un arrêté du ministre de l'économie, des finances et du budget et du ministre de l'agriculture fixe les montants de la taxe
-effectivement perçue dans les limites prévues ci-dessus (1).
-
-IV. La taxe est perçue par la direction générale des impôts auprés des intermédiaires agréés ou des organismes collecteurs.
-Elle est établie et recouvrée selon les règles et sous les garanties et sanctions prévues en matière de contributions
-indirectes.
-
-Les sommes exigibles sont liquidées sur production, par les intermédiaires agréés ou les organismes collecteurs, de
-déclarations conformes aux modèles fixés par la direction générales des impôts et transmises à cette administration dans les
-dix premiers jours du mois suivant celui au titre duquel la taxe est applicable. Elle doivent être acquittées au plus tard
-[*date limite*] le 25 du mois de la déclaration.
-
-(1) Pour la campagne 1985-1986, arrêté du 24 septembre 1985  (J.O. du 25).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1985-09-24
-	  - CEE Règlement 136-66 1966-09-22
-	  - CEE Règlement 1431-82 1982-05-18
-	  - CEE Règlement 1614-79 1979-07-24
-
-	**Modifié par**:
-
-	  - Décret n°85-1012 du 24 septembre 1985 - art. 1 (V) JORF 25 septembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-
-###### Article 363 FA
-
-I. Il est institué au profit de l'association nationale pour le developpement agricole [*ANDA*], pour être versée au fonds
-national de développement agricole [*FNDA*], une taxe parafiscale sur les céréales livrées par les producteurs aux
-collecteurs agréés et aux producteurs grainiers et soumises à la taxe percue pour le financement des actions du secteur
-céréalier prévue à l'article 363 AE.
-
-Cette taxe est applicable jusqu'à la fin de la campagne 1987-1988.
-
-II. La taxe est mise à la charge des producteurs [*redevables*]. Elle est retenue [*fait générateur*] par les collecteurs
-agréés et les producteurs grainiers lors du paiement des céréales aux producteurs.
-
-III. Pour le blé tendre, l'orge et le maïs, la taxe comporte un taux de base. Pour le blé tendre et l'orge, le maximum de ce
-taux de base est de 1,11 % [*pourcentage*] du prix d'intervention fixé par le conseil des communautés européennes. Pour le
-maïs, ce maximum est de 1,02 % du prix d'intervention fixé par le conseil.
-
-Des compléments de taxe peuvent être appliqués aux livraisons de blé tendre, d'orge et de maïs effectués par un même livreur
-au titre d'une même campagne qui globalement excèdant 100 tonnes. Des compléments à un taux majoré peuvent être appliqués aux
-livraisons excédant 300 tonnes. Le taux de ces compléments ne peut dépasser, pour le blé tendre et l'orge 0,38 % et, pour le
-maîs, 0,35 % du prix d'intervention. La détermination des compléments de taxe mentionnés ci-dessus se fait en tenant compte
-de toutes les livraisons taxées effectuées au titre de la campagne par un même livreur, quels que soient les lieux
-d'exploitation et de livraison, et déclarées par les collecteurs agrées. Les compléments de taxe sont calculés au prorata des
-quantités de blé tendre, d'orge et de maïs livrées par chaque livreur.
-
-Pour le blé dur, le seigle, le sorgho et le riz, le taux maximum de la taxe applicable est de 0,60 % du prix d'intervention
-fixé par les autorités communautaires.
-
-Pour l'avoine, le taux maximum est de 0,60 % du prix de seuil fixé par les mêmes autorités.
-
-Un arrêté du ministre de l'économie, des finances et du budget et du ministre de l'agriculture fixe les montants de la taxe
-effectivement perçues dans les limites prévues ci-dessus (1).
-
-Pour le triticale, le montant à la tonne de la taxe applicable est égal au montant en valeur absolue de la taxe perçue à la
-tonne de seigle, tel que ce montant résulte des dispositions qui précèdent.
-
-La taxe est assise, liquidée et recouvrée par la direction générale des impôts dans les mêmes conditions que la taxe
-parafiscale prévue à l'article 363 AE.
-
-(1) Pour la campagne 1985-1986, arrêté du 24 septembre 1985  (J.O. du 25).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 363 AE
-
-	**Modifié par**:
-
-	  - Décret n°85-1011 du 24 septembre 1985 - art. 1 (P) JORF 25 septembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-
 ###### Article 364
 
 Les taxes parafiscales sont établies par décret en Conseil d'Etat pris sur le rapport du ministre chargé du budget et du ou
@@ -22226,177 +22303,11 @@ l'économie et du ou des ministres intéressés fixent, s'il y a lieu, le taux d
 	  - Décret n°81-866 1981-09-15
 
 
-### TAXES PARAFISCALES.
-
-###### Article 363 D
-
-I. Il est institué au profit de l'association nationale pour le développement agricole [*ANDA organisme bénéficiaire*], pour
-être versée au fonds national de développement agricole, une taxe parafiscale sur les viandes de veau, de boeuf, de mouton,
-de porc, des espèces chevaline, asine et de leurs croisements, à l'exclusion des produits importés.
-
-Cette taxe est applicable jusqu'au 31 décembre 1987 [*date limite*].
-
-II. Cette taxe est à la charge de l'agriculteur ou de l'éleveur dernier propriétaire de l'animal. Elle est acquittée par la
-personne qui présente cet animal à l'abattage. Toutefois, en cas d'abattage à façon, la taxe est acquittée par le tiers
-abatteur pour le compte du propriétaire.
-
-III. Les taux maxima de la taxe sont les suivants :
-
-- Pour la viande de boeuf et la viande de veau ainsi que pour les viandes des espèces chevaline, asine et de leurs
-croisements :
-
-0,60 % du prix d'orientation communautaire défini pour un kilogramme de poids vif de gros bovin ;
-
-- Pour la viande de porc : 0,60 % du prix de base communautaire par kilogramme de viande de porc abattu ;
-
-- Pour la viande de mouton : 0,25 % du prix de base communautaire par kilogramme de viande de mouton.
-
-Un arrêté du ministre de l'économie, des finances et du budget et du ministre de l'agriculture fixe les montants de la taxe
-effectivement perçue par espèce dans les limites prévues ci-dessus (1).
-
-IV. La taxe est perçue dans les établissements d'abattage publics et privés sur les abattages opérés en vue de la vente.
-
-Elle est assise, liquidée et recouvrée par la direction générale des impôts, suivant les mêmes règles et sous les mêmes
-garanties et les mêmes sanctions que la taxe de protection sanitaire et d'organisation des marchés des viandes, prévue aux
-article 302 bis F  à 302 bis J du code général des impôts
-
-(1) Annexe IV, art. 159 AO.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 bis F à CGI 302 bis J
-	  - CGIAN4 159 AO
-
-	**Modifié par**:
-
-	  - Décret n°85-1016 du 24 septembre 1985 - art. 1 (P) JORF 25 septembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-
 ## DISPOSITIONS COMMUNES AUX IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
-
-### ASSIETTE ET CONTROLE DE L'ETAT
-
-#### OBLIGATIONS DES CONTRIBUABLES.
-
-###### Article 368
-
-Le transport par voie publique de produits figurant sur une liste établie par arrêté du ministre de l'économie et des
-finances (1), après consultation des organisations professionnelles intéressées doit être accompagné d'un bon de remis, dans
-les conditions fixées par l'article 1649 ter du code général des impôts et par les articles 368 A à 368 G de la présente
-annexe et les articles R. 24-1 et R. 213-3 du livre des procédures fiscales.
-
-Ces dispositions ne s'appliquent pas au transport de ces produits par un particulier pour les besoins de sa propre
-consommation.
-
-(1) Annexe IV, art. 164 F bis à 164 F octodecies.
-
-Voir également ci-après, art. 369 à 369 B.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 ter
-	  - CGI R213-3
-	  - CGI R24-1
-	  - CGIAN2 368 A, 368 B, 368 C, 368 D, 368 E, 368 F, 368 G
-	  - CGIAN2 369
-	  - CGIAN2 369 A
-	  - CGIAN2 369 B
-	  - CGIAN4 164 F bis A CGIAN4 164 F octodecies
-
-	**Anciens textes**:
-
-	  - CGIAN1 310 quinquies
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 368 B (P)
-
 
 ### ASSIETTE ET CONTROLE DE L'IMPOT
 
 #### OBLIGATIONS DES CONTRIBUABLES.
-
-###### Article 368 A
-
-Les bons de remis sont établis préalablement au chargement par :
-
-- Les fabricants et les grossistes en ce qui concerne les produits mentionnés à l'article 368 ;
-
-- Les personnes qui soumettent à la taxe sur la valeur ajoutée les opérations de vente, de commission et de courtage portant
-sur les animaux vivants de boucherie et de charcuterie dont la définition est fixée par décret (1).
-
-Les bons de remis peuvent être établis par les intermédiaires qui agissent pour le compte des personnes susmentionnées.
-
-(1) Même annexe, art. 260 F
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 310 sexies
-
-	**Cite**:
-
-	  - CGIAN2 260 F
-	  - CGIAN2 368
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 369
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 368 C
-
-Les bons de remis peuvent être constitués soit par des documents fournis par les expéditeurs, comportant les énonciations
-prévues à l'article 368 B et revêtus de l'empreinte d'une machine à timbrer d'un modèle agréé par la direction générale des
-impôts, soit par des carnets à souches numérotés délivrés gratuitement par cette administration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 310 octies
-
-	**Cite**:
-
-	  - CGIAN2 368 B
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 369 B
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
 
 ###### Article 368 D
 
@@ -22427,261 +22338,6 @@ impôts.
 
 	  - Décret n°87-940 1987-11-23
 	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 368 F
-
-Ne donnent pas lieu à l'établissement de bons de remis les transports de marchandises faisant l'objet d'un titre de mouvement
-en matière de contributions indirectes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 310 duodecies
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 368 G
-
-Lorsque le transport d'un produit est soumis à la formalité du bon de remis, celui-ci tient lieu du document de transport
-prévu à l'article 23 (1°, 2°, 3° et 6°) du décret du 14 novembre 1949.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 310 terdecies
-
-	**Cite**:
-
-	  - Décret n°49-1473 1949-11-14 ART. 23 1°, 2°, 3°, 6°
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 369
-
-I  Tout transport par voie publique de fruits et de légumes frais figurant sur une liste établie par arrêté du ministre de
-l'économie et des finances (1) doit être accompagné d'un bon de remis. Il en est de même des transports de fruits et de
-légumes séchés ou conservés selon un procédé qui ne modifie pas leur état naturel.
-
-II Ces dispositions ne s'appliquent pas :
-
-Aux transports de fruits et de légumes de sa récolte, effectués par un producteur agricole au moyen d'un véhicule lui
-appartenant, par la voie la plus directe, à destination des marchés de gros et des stations de conditionnement situés à une
-distance maximale de 40 km du siège de son exploitation ou, en l'absence de tels marchés ou stations situés à cette distance
-pour le produit transporté, à destination du marché de gros et de la station de conditionnement les plus proches du siège de
-l'exploitation ;
-
-Aux livraisons faites à ses clients par un commerçant détaillant ;
-
-Aux transports effectués par un particulier pour les besoins de sa consommation.
-
-(1) Annexe IV, art. 164 F nonies à 164 F quaterdecies
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 260 F
-	  - CGIAN2 368
-
-	**Anciens textes**:
-
-	  - CGIAN2 368 A
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 369 A
-
-Les bons de remis sont établis préalablement au chargement par :
-
-Les producteurs agricoles qui livrent ou transportent leurs produits dans des conditions autres que celles énoncées au II de
-l'article 369 ;
-
-Toute personne qui reçoit et expédie des fruits et légumes ou qui transporte ces produits pour son propre compte.
-
-Les bons de remis peuvent être établis par les intermédiaires qui agissent pour le compte des personnes susmentionnées ainsi
-que, dans les conditions fixées par arrêté ministériel (1) par les commerçants détaillants qui s'approvisionnent auprès des
-producteurs agricoles.
-
-(1) Annexe IV art. 164 F undecies
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN2 368 B
-
-	**Cite**:
-
-	  - CGIAN2 369
-	  - CGIAN4 164 F undecies
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 369 B
-
-Les produits faisant l'objet des obligations prescrites par les articles 369 et 369 A sont soumis aux dispositions des
-articles 368 B à 368 G et de l'article R24-1 du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R24-1
-	  - CGIAN2 368 B à CGIAN2 368 G
-	  - CGIAN2 369
-	  - CGIAN2 369 A
-
-	**Anciens textes**:
-
-	  - CGIAN2 368 C
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 370
-
-La formalité du titre de mouvement sur les transports de farines panifiables de blé, pures ou en mélanges, est supprimée et
-remplacée par celle du bon de remis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 ter C
-
-	**Anciens textes**:
-
-	  - CGIAN2 368 D
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 370 A
-
-Le bon de remis qui accompagne les farines panifiables de blé, pures ou en mélange remises par un fabricant ou un grossiste
-et transportées autrement que par un particulier pour les besoins de sa propre consommation, quels que soient le mode et
-l'auteur du transport, est extrait d'un carnet à souches. Ce bon de remis doit être établi préalablement au chargement des
-marchandises. Il doit être conservé par le destinataire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R24-1
-	  - CGIAN1 368, 368 A, 368 B, 368 C, 368D
-
-	**Anciens textes**:
-
-	  - CGIAN2 368 E
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
-##### BONS DE REMIS.
-
-###### Article 368 B
-
-Les bons de remis mentionnent les renseignements nécessaires à l'identification des expéditeurs, des destinataires ainsi que
-des marchandises transportées, et ceux concernant les modalités du transport.
-
-Les mêmes indications sont reproduites sur les duplicata des bons de remis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 310 septies
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 369 A
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 368 E
-
-L'arrêté prévu à l'article 368  peut dispenser partiellement, pour certains produits, des formalités et obligations prévues
-par les articles 368 à 368 D de la présente annexe et par l'article R. 24-1 du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R24-1
-	  - CGIAN1 368, 368 A, 368 B, 368 C, 368 D
-
-	**Anciens textes**:
-
-	  - CGIAN1 310 undecies
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 370 A
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-	  - Décret n°88-1001 1988-10-20
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 # Livre II : Recouvrement de l'impôt
@@ -22938,6 +22594,49 @@ de l'article R 950-21 du code du travail.
 	**Codifié par**:
 
 	  - Décret n°94-899 1994-10-17
+
+
+#### IV : Taxe sur les salaires. Taux majorés
+
+###### Article 383
+
+L'ensemble des droits exigibles au titre de la taxe sur les salaires en application des dispositions de l'article 231-1 et 2
+bis du code général des impôts et des articles 141 à 143 de la présente annexe est versé globalement au Trésor dans les
+conditions et délais et sous les sanctions prévus aux articles 1679, 1679 bis, 1727, 1728, 1729, 1731 et 1736 du code général
+des impôts et 50, 51, 369 et 374-1 de l'annexe III à ce code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1679
+	  - CGI 1679 bis
+	  - CGI 1727
+	  - CGI 1728
+	  - CGI 1729
+	  - CGI 1731
+	  - CGI 1736
+	  - CGI 231 1, 2 bis
+	  - CGIAN2 141
+	  - CGIAN2 142
+	  - CGIAN2 143
+	  - CGIAN3 369
+	  - CGIAN3 374 1
+	  - CGIAN3 50
+	  - CGIAN3 51
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 81 II Finances pour 1987 JORF 31 décembre 1987
+	  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
 
 
 #### VI : Participation des employeurs au développement de la formation professionnelle continue
