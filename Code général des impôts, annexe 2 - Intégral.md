@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-12-21
+Version Consolidée au 1985-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8760,8 +8760,8 @@ valeur ajoutée au sens des articles 256 à 259 C du code général des impôts.
 
 2. Pour l'application du 1, ne sont pas considérés comme réalisés en France :
 
-a. les transports et prestations accessoires exonérés en application des articles 262-I, premier alinéa, 262-II-7° à 11°,
-262-II-13° et 14° et 291-II-1° du code général des impôts ;
+a. les transports et prestations accessoires exonérés en application du premier alinéa du I, des 7° à 11°, 13° et 14° du II
+de l'article 262 du code général des impôts ainsi que des 1° et 1° bis du II de l'article 291 du même code;
 
 b. les prestations pour lesquelles la taxe est due par le bénéficiaire assujetti en vertu des articles 259 B et 283-2 du même
 code.
@@ -8770,26 +8770,25 @@ III. La suspension est autorisée, après avis du ministre du développement ind
 ministre de l'économie et des finances [*autorité compétente*], qui fixe les modalités et conditions conformément aux
 dispositions des articles 274 à 276 du code général des impôts et des textes pris pour leur application.
 
-(1) Voir loi n° 71-1060 du 24 décembre 1971 relative à la délimitation des eaux territoriales françaises (J.O. du 30).
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 256 A 259 C
+	  - CGI 256 à CGI 259 C
 	  - CGI 259 B
-	  - CGI 262 I AL. 1, II 7°, 8°, 9°, 10°, 11°, 13°, 14°
+	  - CGI 262 I al. 1, II 7° à 11°, 13°, 14°
 	  - CGI 283 2
-	  - CGI 291 II 1°
+	  - CGI 291 II 1°, 1° bis
 	  - Loi n°71-1060 1971-12-24
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°80-1079 du 24 décembre 1980 - art. 1 (V) JORF 28 DECEMBRE 1980
+	  - Loi n°85-1404 1985-12-30 art. 18 II, III, IV Finances rectificative pour 1985 JORF 31 décembre 1985
+	  - Loi n°85-1404 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°86-1086 1986-10-07
 
 	**Cité par**:
 
@@ -15491,55 +15490,6 @@ vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
-
-
-#### IMPOTS SUR LE REVENU
-
-##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.
-
-###### Article 74 B bis
-
-Les plus-values réalisées à l'occasion de la première cession d'un logement prévue à l'article 150 C du code général des
-impôts sont exonérées de l'impôt sur le revenu, quelle que soit la date de la cession, lorsque celle-ci est motivée par l'un
-des événements suivants :
-
-1° Changement dans la situation de la famille résultant de l'augmentation du nombre des enfants à charge, du divorce ou de la
-séparation de corps, du décès du contribuable ou de l'un des époux soumis à une imposition commune ;
-
-2° Survenance d'une invalidité affectant le contribuable ou l'un des époux soumis à une imposition commune ou un enfant à
-charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L. 310
-du code de la sécurité sociale ou ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et de
-l'aide sociale ;
-
-3° Changement de résidence principale justifié par le changement du lieu d'activité professionnelle ou le rapprochement du
-contribuable ou de l'un des époux soumis à une imposition commune du lieu de cette activité ;
-
-4° Changement dans la situation professionnelle du contribuable ou de l'un des époux soumis à une imposition commune
-résultant d'une cessation forcée d'activité ;
-
-5° Départ à la retraite du contribuable ou de l'un des époux soumis à une imposition commune. Bénéficient de la mesure les
-personnes qui ont cessé toute activité professionnelle après avoir atteint l'âge auquel correspond la prise d'effet de la
-pension de vieillesse de leur régime de sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 C
-	  - Code de la famille et de l'aide sociale. - art. 173 (M)
-	  - Code de la sécurité sociale L310
-
-	**Créé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
-
-	**Modifié par**:
-
-	  - Décret n°83-220 du 21 mars 1983 - art. 1 (Ab) JORF 24 Mars 1983
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
 
 
 #### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*
