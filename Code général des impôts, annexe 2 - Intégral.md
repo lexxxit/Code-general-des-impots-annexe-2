@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-07-12
+Version Consolidée au 1986-07-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1584,6 +1584,53 @@ domicile et, éventuellement, de la date de son décès.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2004
+
+
+##### 1° Plus-value imposable.
+
+###### Article 74 B bis
+
+Les plus-values réalisées à l'occasion de la première cession d'un logement prévue à l'article 150 C du code général des
+impôts sont exonérées de l'impôt sur le revenu, quelle que soit la date de la cession, lorsque celle-ci est motivée par l'un
+des événements suivants :
+
+1° Changement dans la situation de la famille résultant de l'augmentation du nombre des enfants à charge, du divorce ou de la
+séparation de corps, du décès du contribuable ou de l'un des époux soumis à une imposition commune ;
+
+2° Survenance d'une invalidité affectant le contribuable ou l'un des époux soumis à une imposition commune ou un enfant à
+charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L.
+341-4 du code de la sécurité sociale ou ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et
+de l'aide sociale ;
+
+3° Changement de résidence principale justifié par le changement du lieu d'activité professionnelle ou le rapprochement du
+contribuable ou de l'un des époux soumis à une imposition commune du lieu de cette activité ;
+
+4° Changement dans la situation professionnelle du contribuable ou de l'un des époux soumis à une imposition commune
+résultant d'une cessation forcée d'activité ;
+
+5° Départ à la retraite du contribuable ou de l'un des époux soumis à une imposition commune. Bénéficient de la mesure les
+personnes qui ont cessé toute activité professionnelle après avoir atteint l'âge auquel correspond la prise d'effet de la
+pension de vieillesse de leur régime de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 C
+	  - Code de la famille et de l'aide sociale. - art. 173 (M)
+	  - Code de la sécurité sociale. - art. L341-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 ##### Déclaration de la plus-value.
@@ -16743,33 +16790,6 @@ audit article.
 	  - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 24 (V) JORF 18 juin 1987 : dispositions devenues sans objet
 
 
-#### PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.
-
-###### Article 163 quindecies
-
-Dans le cas où il est envisagé de rejeter tout ou partie des dépenses invoquées par un employeur, ce dernier doit recevoir
-notification des conclusions du contrôle effectué et être avisé en même temps qu'il dispose d'un délai de trente jours, à
-compter de cette notification, pour présenter des observations écrites et demander, le cas échéant, à être entendu. La
-décision du premier ministre ou du commissaire de la République de région ne peut être prise qu'au vu de ces observations et
-après audition, le cas échéant, de l'employeur, à moins qu'aucune demande écrite ou demande d'audition n'ait été présentée
-avant l'expiration du délai ci-dessus prévu. La décision est motivée; elle est transmise au service des impôts, qui la
-notifie à l'employeur avec le montant du versement à effectuer.
-
-La procédure déterminée à l'alinéa précédent est applicable aux dispensateurs de formation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°83-235 1983-03-21 art. 6 JORF 26 mars 1983
-	  - Décret n°83-423 1983-05-30 art. 9 JORF 31 mai 1983
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-	  - Décret n°86-1086 1986-10-07
-
-
 #### TAXE SUR LES ENCOURS DE CREDITS.
 
 ###### Article 163 A
@@ -18229,13 +18249,14 @@ du code général des impôts pour l'alimentation du fonds de garantie sont assi
 1° La contribution des sociétés d'assurances ou des assureurs est proportionnelle aux sommes recouvrées par eux au titre de
 la contribution des assurés visée au 3°;
 
-2° La contribution des responsables d'accidents corporels, non bénéficiaires d'une assurance, est assise sur le montant total
-des indemnités mises à leur charge à titre de réparation des dommages résultant de ces accidents. Sont considérées comme
-bénéficiaires d'une assurance [*définition*] au sens du présent article, les personnes dont la responsabilité civile
-résultant d'accidents de chasse ou de destruction des animaux nuisibles est couverte par un contrat d'assurance. En cas
-d'instance judiciaire la décision doit faire apparaître si le responsable est ou non bénéficiaire d'une assurance . La
-décision de justice ou la transaction doit opérer le cas échéant une ventilation entre les indemnités dues à titre de
-réparation des dommages résultant d'accidents corporels et celles qui sont dues à titre de réparation des dégâts matériels ;
+2° La contribution des responsables, non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteinte à la
+personne, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des dommages résultant de
+ces accidents. Sont considérées comme bénéficiaires d'une assurance [*définition*] au sens du présent article, les personnes
+dont la responsabilité civile résultant d'accidents de chasse ou de destruction des animaux nuisibles est couverte par un
+contrat d'assurance. En cas d'instance judiciaire la décision doit faire apparaître si le responsable est ou non bénéficiaire
+d'une assurance . La décision de justice ou la transaction doit opérer le cas échéant une ventilation entre les indemnités
+dues à titre de réparation des dommages résultant d'atteintes à la personne et celles qui sont dues à titre de réparation de
+dommages aux biens ;
 
 3° La contribution des assurés est fixée à une somme forfaitaire par personne garantie pour sa responsabilité civile
 résultant d'accidents de chasse ou de destruction des animaux nuisibles.
@@ -18249,20 +18270,24 @@ dispositions de l'article 305 AA de l'annexe I au code général des impôts.
 
 	  - CGI 1628 quater II
 	  - CGIAN1 305 AA
-	  - Code rural 366 ter
 	  - Décret n°68-170 1968-02-19 ART. 22
+	  - Code rural 366 ter
+
+	**Modifié par**:
+
+	  - Décret n°81-30 1981-01-14 art. 4 JORF 18 janvier 1981) M(Décret 86-452 1986-03-14 art. 26 JORF 16 mars 1986
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-1087 1986-10-07 art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies A (M)
-
-	**Modifié par**:
-
-	  - Décret n°85-1007 1985-09-12 : code des assurances art. R420-38
 
 
 ###### Article 326
@@ -18501,22 +18526,6 @@ Les établissements mentionnés à l'article 1648 A-III du code général des im
 
 
 ### DISPOSITIONS RELATIVES A LA FISCALITE DIRECTE LOCALE APPLICABLES DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*.
-
-###### Article 327 AA
-
-Lorsque la taxe d'habitation établie en 1979 pour l'habitation principale d'un contribuable est supérieure de plus de 100 F à
-la contribution mobilière ou à l'impôt mobilier de 1978, la différence n'est acquittée qu'à raison d'un cinquième.
-
-En 1980, 1981 et 1982, la taxe d'habitation est réduite respectivement des trois-quarts, de la moitié et du quart de ce qui
-n'a pas été acquitté en 1979.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PEREMPTION: Conséquence du décret de codification 86-1086 1986-10-07 JORF 9 octobre 1986 en vigueur le 31 juillet 1986
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 327 AB
 
@@ -19467,462 +19476,6 @@ parafiscale prévue à l'article 363 AE.
 	  - Décret n°86-1086 1986-10-07
 
 
-###### Article 363 T
-
-Il est institué jusqu'au 31 décembre 1981 au profit de l'agence nationale pour la récupération et l'élimination des déchets,
-une taxe parafiscale sur les huiles minérales et synthétiques commercialisées en France, telles qu'elles sont définies ci-
-après :
-
-<table>
-  <tbody><tr>
-    <td> :================================================================:</td>
-  </tr>
-  <tr>
-    <td> :   Référence     : Désignation des produits soumis à taxation   :</td>
-  </tr>
-  <tr>
-    <td> : professionnelle :                                              :</td>
-  </tr>
-  <tr>
-    <td> :----------------------------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> :  A              : Huiles les plus fluides du type spindle dont :</td>
-  </tr>
-  <tr>
-    <td> :                 :  la viscosité Engler à 50 degrés C est à 2,5 :</td>
-  </tr>
-  <tr>
-    <td> :                 :  et non reprises dans certaines rubriques    :</td>
-  </tr>
-  <tr>
-    <td> :                 :  (telles que E, K 1, K4)                     :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :  B              : Huiles pour mouvements et transmissions,     :</td>
-  </tr>
-  <tr>
-    <td> :                 :  y compris les huiles pour mouvements        :</td>
-  </tr>
-  <tr>
-    <td> :                 :  compoundées dont la viscosité Engler à      :</td>
-  </tr>
-  <tr>
-    <td> :                 :  50 degrés C est à 2,5                       :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :  C              : Huiles à forte viscosité, pures ou           :</td>
-  </tr>
-  <tr>
-    <td> :                 :  compoundées, pour cylindres à vapeur        :</td>
-  </tr>
-  <tr>
-    <td> :                 :  saturée ou surchauffée                      :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :  D av           : Huiles pour moteurs d'avion, toutes          :</td>
-  </tr>
-  <tr>
-    <td> :                 :  viscosités                                  :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :================================================================:</td>
-  </tr>
-</tbody></table>
-
-<table>
-  <tbody><tr>
-    <td>:================================================================:</td>
-  </tr>
-  <tr>
-    <td> :   Référence     : Désignation des produits soumis à taxation   :</td>
-  </tr>
-  <tr>
-    <td> : professionnelle :                                              :</td>
-  </tr>
-  <tr>
-    <td> :----------------------------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> :  D (1) :        :                                              :</td>
-  </tr>
-  <tr>
-    <td> :    D e          : Huiles finies autres qu'aviation pour        :</td>
-  </tr>
-  <tr>
-    <td> :                 :  moteurs à essence                           :</td>
-  </tr>
-  <tr>
-    <td> :    D dt         : Huiles pour moteurs deux temps               :</td>
-  </tr>
-  <tr>
-    <td> :    D d          : Huiles pour moteurs Diesel                   :</td>
-  </tr>
-  <tr>
-    <td> :    D a          : Autres huiles moteurs finies telles que      :</td>
-  </tr>
-  <tr>
-    <td> :                 :  huiles pour moteurs à gaz, compresseurs,    :</td>
-  </tr>
-  <tr>
-    <td> :                 :  etc.                                        :</td>
-  </tr>
-  <tr>
-    <td> :  E :            :                                              :</td>
-  </tr>
-  <tr>
-    <td> :    E 1          : Huiles pour turbines, toutes viscosités      :</td>
-  </tr>
-  <tr>
-    <td> :    E 2          : Huiles pour transmissions hydrauliques,      :</td>
-  </tr>
-  <tr>
-    <td> :                 :  y compris huiles de relevage                :</td>
-  </tr>
-  <tr>
-    <td> :    E 3          : Huiles pour transmissions automatiques,      :</td>
-  </tr>
-  <tr>
-    <td> :                 :  y compris huiles pour convertisseurs de     :</td>
-  </tr>
-  <tr>
-    <td> :                 :  couples, amortisseurs et circuits de        :</td>
-  </tr>
-  <tr>
-    <td> :                 :  freinage                                    :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :  F              : Huiles isolantes pour transformateurs        :</td>
-  </tr>
-  <tr>
-    <td> :                 :  électriques, disjoncteurs et câbles à       :</td>
-  </tr>
-  <tr>
-    <td> :                 :  isolant liquide                             :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :    G            : Huiles noires toutes viscosités pour         :</td>
-  </tr>
-  <tr>
-    <td> :                 :  boîtes-essieux, enduits pour engrenages     :</td>
-  </tr>
-  <tr>
-    <td> :                 :  nus et pour câbles de traction et de        :</td>
-  </tr>
-  <tr>
-    <td> :                 :  suspension.                                 :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :================================================================:</td>
-  </tr>
-</tbody></table>
-
-<table>
-  <tbody><tr>
-    <td>:================================================================:</td>
-  </tr>
-  <tr>
-    <td> :   Référence     : Désignation des produits soumis à taxation   :</td>
-  </tr>
-  <tr>
-    <td> : professionnelle :                                              :</td>
-  </tr>
-  <tr>
-    <td> :----------------------------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> :  H :            :                                              :</td>
-  </tr>
-  <tr>
-    <td> :    H 1          : Huiles de vaseline codex visqueuses et       :</td>
-  </tr>
-  <tr>
-    <td> :                 :  fluides                                     :</td>
-  </tr>
-  <tr>
-    <td> :    H 2          : Huiles de vaseline blanches non codex        :</td>
-  </tr>
-  <tr>
-    <td> :    H 3          : Huiles de vaseline autres                    :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :  I :            :                                              :</td>
-  </tr>
-  <tr>
-    <td> :    I 1          : Vaselines codex                              :</td>
-  </tr>
-  <tr>
-    <td> :    I 2          : Vaselines non codex et industrielles         :</td>
-  </tr>
-  <tr>
-    <td> :    I 3          : Petrolatum                                   :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :  J :            :                                              :</td>
-  </tr>
-  <tr>
-    <td> :    J 1          : Graisses pour automobiles                    :</td>
-  </tr>
-  <tr>
-    <td> :    J 2          : Autres graisses                              :</td>
-  </tr>
-  <tr>
-    <td> :  K 1            : Huiles non solubles pour le travail des      :</td>
-  </tr>
-  <tr>
-    <td> :                 :  métaux (coupe, trempe, laminage et          :</td>
-  </tr>
-  <tr>
-    <td> :                 :  tréfilage, etc.)                            :</td>
-  </tr>
-  <tr>
-    <td> :  K 2            : Huiles solubles pour le travail des métaux   :</td>
-  </tr>
-  <tr>
-    <td> :  K 3 :          :                                              :</td>
-  </tr>
-  <tr>
-    <td> :    K 3a         : Huiles pour engrenages sous carter pour      :</td>
-  </tr>
-  <tr>
-    <td> :                 :  automobiles                                 :</td>
-  </tr>
-  <tr>
-    <td> :    K 3b         : Huiles pour engrenages sous carter autres    :</td>
-  </tr>
-  <tr>
-    <td> :                 :                                              :</td>
-  </tr>
-  <tr>
-    <td> :================================================================:</td>
-  </tr>
-</tbody></table>
-
-<table>
-  <tbody><tr>
-    <td>:================================================================:</td>
-  </tr>
-  <tr>
-    <td> :   Référence     : Désignation des produits soumis à taxation   :</td>
-  </tr>
-  <tr>
-    <td> : professionnelle :                                              :</td>
-  </tr>
-  <tr>
-    <td> :----------------------------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> : K 4 :           :                                              :</td>
-  </tr>
-  <tr>
-    <td> :      K. 4 a     : Huiles de démoulage.                         :</td>
-  </tr>
-  <tr>
-    <td> :      K. 4 b     : Toutes huiles de protection à l'exclusion    :</td>
-  </tr>
-  <tr>
-    <td> :                 :  des huiles pour imprégnation de câbles      :</td>
-  </tr>
-  <tr>
-    <td> :                 :  électriques.                                :</td>
-  </tr>
-  <tr>
-    <td> :      K. 4 c     : Huiles d'ensimage.                           :</td>
-  </tr>
-  <tr>
-    <td> :      K. 4 d     : Fluides caloporteurs.                        :</td>
-  </tr>
-  <tr>
-    <td> :      K. 4 e     : Toutes huiles finies n'entrant pas dans les  :</td>
-  </tr>
-  <tr>
-    <td> :                 :  classifications susvisées, y compris les    :</td>
-  </tr>
-  <tr>
-    <td> :                 :  huiles pour imprégnation de câbles          :</td>
-  </tr>
-  <tr>
-    <td> :                 :  électriques, dégrippants, huiles pour       :</td>
-  </tr>
-  <tr>
-    <td> :                 :  horlogerie, etc..                           :</td>
-  </tr>
-  <tr>
-    <td> :-----------------:----------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> : (1) Comprend les base légères jusqu'en 1976.                   :</td>
-  </tr>
-  <tr>
-    <td> :================================================================:</td>
-  </tr>
-</tbody></table>
-
-Son taux est fixé par arrêté conjoint des ministres de l'économie, du budget, de l'environnement et du cadre de vie et de
-l'industrie dans la limite de 40 F la tonne jusqu'au 31 décembre 1980 et de 20 F par tonne pour la période du 1er janvier
-1981 au 31 décembre 1981 (1).
-
-(1) Annexe IV, art. 159 AQ.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 159 AQ
-
-	**Créé par**:
-
-	  - Décret n°79-517 du 30 juin 1979 - art. 1 (V) JORF 1er juillet 1979
-	  - Décret n°79-517 du 30 juin 1979 - art. 2 (V) JORF 1er juillet 1979
-	  - Décret n°79-517 du 30 juin 1979 - art. 9 (V) JORF 1er juillet 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 363 U
-
-La taxe a pour fait générateur la première commercialisation des huiles minérales et synthétiques mentionnées à l'article 363
-T, après fabrication, transformation ou importation, sur le marché intérieur y compris la Corse.
-
-La taxe n'est pas applicable dans les départements d'outre-mer [*DOM*].
-
-La taxe est assise sur le poids net déclaré.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°79-517 du 30 juin 1979 - art. 3 (V) JORF 1er juillet 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 363 V
-
-La taxe est liquidée lors du dépôt, au service des impôts dont dépend le redevable, du relevé des quantités commercialisées
-au cours du mois précédent. Ce relevé doit être déposé et l'impôt acquitté à ce service avant le 25 de chaque mois [*date
-limite de paiement*].
-
-La taxe est recouvrée selon les procédures et sous le bénéfice des sûretés prévues par le code général des impôts en matière
-de contributions indirectes.
-
-Les infractions sont recherchées, constatées, poursuivies et réprimées comme en matière de contributions indirectes.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°79-517 du 30 juin 1979 - art. 4 (V) JORF 1er juillet 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 363 W
-
-Les personnes physiques ou morales qui veulent se livrer aux activités qui les rendent redevables de la taxe sont tenues d'en
-faire la déclaration préalable au bureau de déclaration de la direction générale des impôts. Un délai d'un mois est ouvert
-aux opérateurs déjà en activité pour effectuer cette déclaration.
-
-Ces personnes doivent en outre tenir dans chaque établissement de fabrication ou lieu de stockage une comptabilité-matières
-qui indique, par nature de produit mentionné à l'article 363 T et de produits entrant dans leur fabrication, et en précisant
-la date de chaque opération, les quantités reçues, mises en oeuvre, obtenues et expédiées ainsi que les quantités détenues le
-dernier jour du mois précédent.
-
-Les quantités sont définies en poids net.
-
-La comptabilité-matière doit être présentée à première réquisition des agents des impôts.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 T
-
-	**Créé par**:
-
-	  - Décret n°79-517 du 30 juin 1979 - art. 5 (V) JORF 1er juillet 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 363 X
-
-La taxe peut être remboursée aux redevables lorsque les produits mentionnés à l'article 363 T sont exportés ou livrés à
-l'avitaillement des navires et aéronefs.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 363 T
-
-	**Créé par**:
-
-	  - Décret n°79-517 du 30 juin 1979 - art. 6 (V) JORF 1er juillet 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
 ###### Article 363 Y
 
 Est autorisée, au cours de la campagne de commercialisation 1982-1983 et pendant les quatre campagnes suivantes [*durée,
@@ -20566,6 +20119,37 @@ l'exception de toute majoration ou pénalité.
 	  - CGIAN2 380, 381
 
 
+#### III bis : Taxe d'apprentissage.
+
+###### Article 382 A
+
+Les fonds recueillis par les organismes collecteurs en application de l'article 230 FA du code général des impôts, qui ne
+sont pas employés conformément à l'article R 964-6 du code du travail ou affectés au financement des dépenses énumérées à
+l'article 1er du décret n° 85-253 du 20 février 1985 ainsi que les fonds ou excédents non versés dans les conditions définies
+à l'article 2 du même décret, font l'objet d'un versement d'égal montant au Trésor public. La procédure applicable est celle
+de l'article R 950-21 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 163 quindecies
+	  - PEREMPTION: Loi n°93-121 du 27 janvier 1993 - art. 92 () JORF 30 janvier 1993
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Cite**:
+
+	  - CGI 230 FA
+	  - Décret n°85-253 du 20 février 1985 - art. 1 (M)
+	  - Décret n°85-253 du 20 février 1985 - art. 2 (M)
+	  - Code du travail - art. R950-21 (M)
+	  - Code du travail - art. R964-6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+
 #### VI : Participation des employeurs au développement de la formation professionnelle continue
 
 ###### Article 383 bis A
@@ -20593,7 +20177,70 @@ annexe.
 	  - HISTO: Edition du 15 juillet 1985
 
 
+##### 1° : Fonds d'assurance-formation.
+
+###### Article 383 bis B
+
+En application de l'article R 964-8 du code du travail, les excédents de fonds mentionnés à l'article 235 ter HB du code
+général des impôts et non utilisés au 31 décembre d'un exercice déterminé dans les conditions prévues au deuxième alinéa de
+l'article R 964-8 précité, sont reversés au trésor avant le 30 juin de l'année suivante, accompagnés d'un bordereau
+indiquant, outre la désignation et l'adresse du déclarant, le montant de l'excédent à reverser. Ce bordereau doit être remis
+à la recette des impôts du siège du fonds d'assurance-formation.
+
+A défaut, il est fait application de la procédure prévue à l'article R. 950-21 du code du travail.
+
+Les dispositions qui précèdent ne s'appliquent qu'à partir de la troisième année suivant celle au cours de laquelle le fonds
+d'assurance-formation a, selon le cas, été créé ou a reçu l'agrément mentionné à l'article L 961-9, deuxième alinéa du code
+du travail.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 163 quindecies
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Cite**:
+
+	  - CGI 235 ter HB
+	  - Code du travail - art. L961-9 (M)
+	  - Code du travail - art. R950-21 (M)
+	  - Code du travail - art. R964-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
 ##### Fonds d'assurance-formation.
+
+###### Article 383 bis C
+
+Comme il est dit à l'article R 960-9 du code du travail, les emplois de fonds qui ne répondent pas aux règles des articles R
+964-4, R 964-6 et R 964-15 du même code donnent lieu à un reversement de même montant par le fonds d'assurance-formation au
+trésor public. La procédure applicable est celle de l'article R 950-21 du code du travail.
+
+Les pièces justificatives des recettes et des dépenses des fonds d'assurance-formation doivent être conservées pendant un
+délai minimum de cinq ans après la clôture de l'exercice pour être présentées à toute réquisition.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 163 quindecies
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code du travail - art. R950-21 (M)
+	  - Code du travail - art. R964-15 (M)
+	  - Code du travail - art. R964-4 (M)
+	  - Code du travail - art. R964-6 (Ab)
+	  - Code du travail - art. R964-9 (M)
+
 
 ###### Article 383 bis D
 
@@ -21455,95 +21102,6 @@ impôts et 50, 51, 369 et 374-1 de l'annexe III à ce code.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 383 bis B
-
-En application de l'article R 964-8 du code du travail, les excédents de fonds mentionnés à l'article 235 ter HB du code
-général des impôts et non utilisés au 31 décembre d'un exercice déterminé dans les conditions prévues au deuxième alinéa de
-l'article R 964-8 précité, sont reversés au trésor avant le 30 juin de l'année suivante, accompagnés d'un bordereau
-indiquant, outre la désignation et l'adresse du déclarant, le montant de l'excédent à reverser. Ce bordereau doit être remis
-à la recette des impôts du siège du fonds d'assurance-formation.
-
-A défaut, il est fait application de la procédure prévue par l'article 163 quindecies.
-
-Les dispositions qui précèdent ne s'appliquent qu'à partir de la troisième année suivant celle au cours de laquelle le fonds
-d'assurance-formation a, selon le cas, été créé ou a reçu l'agrément mentionné à l'article L 961-9, deuxième alinéa du code
-du travail.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter HB
-	  - CGIAN2 163 quindecies
-	  - Code du travail - art. R964-8 (M)
-	  - Code du travail L961-9 AL. 2
-
-	**Modifié par**:
-
-	  - Décret n°84-738 1984-07-17 art. 17 JORF 29 juillet 1984, entrée en vigueur le 1er juillet 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-
-###### Article 383 bis C
-
-Comme il est dit à l'article R 960-9 du code du travail, les emplois de fonds qui ne répondent pas aux règles des articles R
-964-4, R 964-6 et R 964-15 du même code donnent lieu à un reversement de même montant par le fonds d'assurance-formation au
-trésor public. La procédure applicable est celle de l'article 163 quindecies.
-
-Les pièces justificatives des recettes et des dépenses des fonds d'assurance-formation doivent être conservées pendant un
-délai minimum de cinq ans après la clôture de l'exercice pour être présentées à toute réquisition.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 163 quindecies
-	  - Code du travail - art. R964-15 (M)
-	  - Code du travail - art. R964-4 (M)
-	  - Code du travail - art. R964-6 (Ab)
-	  - Code du travail - art. R964-9 (M)
-
-	**Modifié par**:
-
-	  - Décret n°84-738 1984-07-17 art. 17 JORF 29 juillet 1984 en vigueur le 1er juillet 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-
-#### TAXE D'APPRENTISSAGE.
-
-###### Article 382 A
-
-Les fonds recueillis par les organismes collecteurs en application de l'article 230 FA du code général des impôts, qui ne
-sont pas employés conformément à l'article R. 964-6 du code du travail ou affectés au financement des dépenses énumérées à
-l'article 1er du décret n° 85-253 du 20 février 1985 ainsi que les fonds ou excédents non versés dans les conditions définies
-à l'article 2 du même décret, font l'objet d'un versement d'égal montant au Trésor public. La procédure applicable est celle
-de l'article 163 quindecies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 quindecies
-	  - CGI 230 FA
-	  - Décret n°85-253 du 20 février 1985 - art. 1 (M)
-	  - Décret n°85-253 du 20 février 1985 - art. 2 (M)
-	  - Code du travail - art. R964-6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°85-253 du 20 février 1985 - art. 4 (Ab) JORF 21 février 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
 
 
 ### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.
