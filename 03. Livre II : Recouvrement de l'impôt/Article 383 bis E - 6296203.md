@@ -9,7 +9,7 @@ b) A la recette des impôts dont relève le domicile de l'acheteur, et dans les 
 particulier ;
 
 c) A la recette des impôts dont relève le domicile du vendeur en cas de vente dans un autre Etat membre de la Communauté
-économique européenne ;
+européenne ;
 
 d) A la recette des douanes s'il s'agit d'une exportation.
 
@@ -26,10 +26,14 @@ matière de droits de douane, suivant le comptable compétent.
 
 	  - CGIAN2 383 quater
 
-	**Créé par**:
-
-	  - Décret n°93-931 du 19 juillet 1993 - art. 1 () JORF 22 juillet 1993
-
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994

@@ -1,9 +1,8 @@
 # Article 81 bis
 
 I. L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour
-leur compte en application des articles 7 à 21 de l'ordonnance n° 86-1134 modifiée du 21 octobre 1986, relative à
-l'intéressement et à la participation des salariés aux résultats de l'entreprise et à l'actionnariat des salariés donnent
-lieu à la délivrance d'un certificat distinct, conformément aux dispositions de l'article 77.
+leur compte en application des articles L442-1 à L443-17 du code du travail donnent lieu à la délivrance d'un certificat
+distinct, conformément aux dispositions de l'article 77.
 
 II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA  du code général des impôts, le
 certificat est établi pour la totalité de l'avoir fiscal ou du crédit d'impôt au  nom de l'organisme chargé de la
@@ -20,19 +19,21 @@ III. La demande de restitution, accompagnée du certificat, est adressée au ser
 La restitution est opérée au profit de cet organisme, à charge pour lui d'employer les sommes correspondantes de la même
 façon que les revenus auxquels elles se rattachent.
 
-**Nota:**
-
-NOTA : Loi 94-640 1994-07-25 art. 33 IV : les articles 7 à 21 de l'ordonnance 86-1134 du 21 octobre 1986 sont codifiés sous
-les articles L442-1 à L442-16 du code du travail.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 163 bis AA AL. 2
-	  - CGIAN2 77
-	  - Ordonnance 86-1134 1986-10-21 art. 7 à art. 21
+	  - CGI 77, 163 bis AA
+	  - Code du travail L442-1 à L442-17
+
+	**Modifié par**:
+
+	  - Loi n°94-640 du 25 juillet 1994 - art. 33 () JORF 27 juillet 1994
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
