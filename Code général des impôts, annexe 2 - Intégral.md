@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-03-25
+Version Consolidée au 1982-03-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3890,6 +3890,37 @@ par l'administration, dans chaque département, au siège de l'une des caisses l
 #### Chapitre II bis : Taxe d'apprentissage
 
 ##### I : Déclaration des employeurs
+
+###### Article 140 A
+
+La déclaration prévue à l'article 229 du code général des impôts doit indiquer, outre le nom et l'adresse du déclarant :
+
+1° Le montant global, arrondi à la dizaine de francs inférieure, des salaires déterminés conformément à l'article 225 du code
+général des impôts, qui ont été versés par l'employeur ;
+
+2. Le montant brut de la taxe dont l'employeur est redevable ;
+
+3. Le montant des dépenses réellement exposées en vue de favoriser les premières formations technologiques et
+professionnelles qui peuvent donner lieu à exonération ;
+
+4. Le montant du versement à effectuer, le cas échéant, à la caisse du receveur des impôts.
+
+La déclaration doit être rédigée sur un imprimé fourni par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 225, 229
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Ordonnance 82-283 1982-03-26 art. 2 JORF 30 mars 1982
+
 
 ###### Article 140 B
 
@@ -13438,35 +13469,6 @@ liste vaut indication expresse au sens du deuxième alinéa de l'article 1728 du
 
 
 #### TAXE D'APPRENTISSAGE.
-
-###### Article 140 A
-
-La déclaration prévue à l'article 229 du code général des impôts doit indiquer, outre le nom et l'adresse du déclarant
-[*mentions obligatoires*] :
-
-1o Le montant global, arrondi à la dizaine de francs inférieure, des salaires, au sens des articles 231 et suivants du code
-général des impôts, qui ont été versés par l'employeur;
-
-2o Le montant brut de la taxe dont l'employeur est redevable;
-
-3o Le montant des dépenses réellement exposées en vue de favoriser les premières formations technologiques et
-professionnelles qui peuvent donner lieu à exonération;
-
-4o Le montant du versement à effectuer, le cas échéant, à la caisse du receveur des impôts.
-
-La déclaration doit être rédigée sur un imprimé fourni par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 229
-	  - CGI 231 ET S.
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 140 C
 
