@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1981-12-31
+Version Consolidée au 1982-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1414,6 +1414,30 @@ domicile et, éventuellement, de la date de son décès.
 	  - HISTO: Edition du 1er janvier 2004
 
 
+##### Déclaration de la plus-value.
+
+###### Article 74 P
+
+En cas d'expropriation la déclaration de la plus-value imposable est jointe à celle des revenus de l'année au cours de
+laquelle l'indemnité a été perçue.
+
+Le contribuable peut toutefois, par une mention expresse dans la déclaration de la plus-value, demander que celle-ci soit
+imposée au titre de l'année où a été fixée définitivement l'indemnité.
+
+Dans tous les cas, le délai de reprise fixé par l'article L 169 du livre des procédures fiscales court à compter de l'année
+durant laquelle l'indemnité a été perçue [*point de départ*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L169
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ##### Section II : Revenu global
 
 ##### 0I bis : Détaxation du revenu investi en actions.
@@ -1902,6 +1926,31 @@ souscrite par la société bénéficiaire pour l'assiette du précompte institu�
 	  - CGIAN2 77, 78
 
 
+###### Article 81
+
+1. Les certificats délivrés aux sociétés d'investissement et aux sociétés assimilées servent à justifier l'avoir fiscal ou le
+crédit d'impôt attaché aux dividendes qu'elles distribuent à leurs actionnaires.
+
+2. Les certificats délivrés aux sociétés visées à l'article 8 du code général des impôts servent à justifier le montant de
+ceux qu'elles délivrent elles-mêmes à leurs membres en application de l'article 79-4 ainsi que l'assiette de la retenue à la
+source prélevée par elles, le cas échéant.
+
+3. Les sociétés visées au présent article sont tenues de conserver les certificats qui leur ont été délivrés jusqu'à
+l'expiration du délai de reprise fixé par l'article L. 169 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 8
+	  - CGI L169
+	  - CGIAN2 79 4
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ##### II : Distribution de primes à la construction par les sociétés immobilières d'investissement et les sociétés immobilières de gestion
 
 ###### Article 83
@@ -2031,6 +2080,32 @@ majorée de 1.000 F par personne à la charge du contribuable au sens de l'artic
 	  - CGIAN2 88, 85
 
 
+###### Article 90
+
+Sauf circonstance de force majeure, si un immeuble ayant donné droit à la déduction prévue à l'article 85 fait l'objet d'une
+aliénation au profit de personnes autres que le conjoint, les ascendants ou descendants du contribuable avant l'expiration
+d'un délai de cinq ans à compter de son achèvement ou s'il est affecté dans le même délai à un usage autre que celui défini à
+l'article 86, dernier alinéa, le montant de l'impôt correspondant à la déduction dont l'intéressé a bénéficié est reversé de
+plein droit à l'Etat, sans préjudice de l'application d'une majoration de 25 %.
+
+La cotisation correspondante, qui peut être établie malgré l'expiration du délai de reprise fixé par l'article L. 169 du
+livre des procédures fiscales, est exigible en totalité dès la mise en recouvrement du rôle sous les sanctions édictées par
+l'article 1761 dudit code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1761
+	  - CGI L169
+	  - CGIAN2 85
+	  - CGIAN2 86
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ###### Article 91
 
 Les modalités d'application des dispositions des articles 85 à 90 seront, en tant que de besoin, fixées par arrêté du
@@ -2085,6 +2160,51 @@ La table des matières de cet article a été modifiée.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### VI : Déduction des pensions alimentaires
+
+###### Article 91 quinquies
+
+Le contribuable qui a versé le capital constitutif de la rente prévue à l'article 294 du code civil peut, sous réserve des
+dispositions du 2° du II de l'article 156 du code général des impôts, déduire annuellement de son revenu imposable une somme
+égale au montant du capital versé divisé par le nombre d'années au cours desquelles la rente doit être servie.
+
+La déduction ne peut excéder, pour chaque enfant, la limite prévue au premier alinéa du 2° du II de l'article 156 du code
+général des impôts.
+
+Le contribuable est tenu de joindre à la déclaration des revenus de l'année au titre de laquelle il pratique pour la première
+fois la déduction mentionnée au premier alinéa une attestation délivrée par l'organisme accrédité chargé du versement de la
+rente et comportant les indications suivantes :
+
+- identité et adresse du contribuable ayant constitué la rente ;
+
+- identité, adresse, date et lieu de naissance de l'enfant bénéficiaire de la rente ;
+
+- identité et adresse du parent qui a la garde de l'enfant ;
+
+- montant du capital versé et date du versement ;
+
+- dates du point de départ et du terme du service de la rente.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 156 II
+	  - Code civil - art. 294 (M)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 12 (P) JORF 31 décembre 1981 en vigueur le 1er janvier 1982
 
 
 ##### Section III : Calcul de l'impôt
@@ -2595,6 +2715,36 @@ des impôts ne sont pas déductibles par les caisses régionales pour la déterm
 
 
 ##### 2° : Bénéfice imposable de la caisse centrale et des caisses départementales et interdépartementales de crédit mutuel
+
+###### Article 102 O
+
+Les plus-values ou moins-values réalisées par la caisse centrale et les caisses départementales et interdépartementales de
+crédit mutuel lors de la cession d'éléments d'actif immobilisé ou de titres de placement ne sont soumises à l'impôt que pour
+leur fraction acquise à compter du 1er janvier 1980.
+
+Pour les titres cotés, cette fraction est calculée en retenant comme prix de revient leur cours moyen pendant le mois de
+décembre 1979.
+
+Pour les titres de participation non cotés et les autres éléments d'actif immobilisé, ainsi que pour les titres de placement
+non cotés, la fraction acquise à compter du 1er janvier 1980 est calculée en proportion de la durée de détention du bien
+depuis cette date par rapport à sa durée totale de détention. En outre, pour les biens amortissables détenus depuis plus de
+deux ans, la partie de la plus-value ou moins-value réputée à court terme ne peut excéder le montant des amortissements
+déduits à compter du 1er janvier 1980 pour le calcul de l'impôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Modifié par**:
+
+	  - Loi n°81-1180 du 31 décembre 1981 - art. 5 (V) JORF 1er janvier 1982
+
 
 ###### Article 102 Q
 
@@ -3748,6 +3898,34 @@ l'entreprise.
 
 
 
+##### II : Demande d'exonération.
+
+###### Article 140 I
+
+Le requérant doit indiquer, dans son recours, s'il demande à surseoir au paiement de la partie contestée de la taxe, et ce,
+sous réserve de la constitution de garanties dans les conditions déterminées par les articles L. 277 à L. 279 du livre des
+procédures fiscales et les articles 416 A à 416 D de l'annexe III au code général des impôts.
+
+Le président de la commission spéciale de la taxe d'apprentissage notifie au receveur des impôts chargé du recouvrement, par
+l'intermédiaire du directeur des services fiscaux du département, les pourvois qui contiennent une demande de sursis de
+paiement, en indiquant le montant de la partie de la taxe dont il est demandé exonération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 416 A à 416 D
+	  - Livre des procédures fiscales L277 à L279
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R237-21 (V)
+
+
 ##### III : Calcul des exonérations.
 
 ###### Article 140 J
@@ -4143,6 +4321,28 @@ l'imposition.
 	  - Décret n°92-836 1992-08-27
 
 
+###### Article 159
+
+Les réclamations sont présentées, instruites et jugées comme en matière de contributions directes (1).
+
+(1) Voir toutefois livre des procédures fiscales, art. R198-8.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI R198-8
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - PEREMPTION: Loi - art. 32 ()
+
+
 #### Chapitre VI : Cotisation perçue au titre de la participation des employeurs à l'effort de construction
 
 ###### Article 161
@@ -4176,7 +4376,7 @@ Les modalités de la déclaration sont déterminées par décret (1).
 
 La cotisation prévue à l'article 235 bis du code général des impôts est établie et recouvrée dans les conditions et sous les
 sanctions prévues pour l'assiette et le recouvrement de l'impôt sur le revenu frappant les bénéfices industriels et
-commerciaux [*BIC*] d'après le régime du bénéfice réel.
+commerciaux d'après le régime du bénéfice réel.
 
 Toutefois, la commission départementale des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 du
 code général des impôts n'est pas appelée à intervenir dans la procédure de rectification de la déclaration prévue à
@@ -4187,7 +4387,7 @@ susmentionné. Elle est établie sous une cote unique au nom de chaque redevable
 défaut, au lieu du principal établissement. Toutefois, s'il s'agit d'un employeur passible de l'impôt sur les sociétés, la
 cotisation est établie au siège du principal établissement.
 
-Les dispositions de l'article 1966 du code général des impôts sont applicables pour l'établissement de cette cotisation. La
+Les dispositions de l'article L. 169 A du livre des procédures fiscales relatif au délai de reprise sont applicables. La
 cotisation est immédiatement exigible.
 
 La procédure pour la présentation, l'instruction et le jugement des réclamations concernant cette cotisation est celle
@@ -4197,14 +4397,17 @@ relative à l'impôt sur le revenu.
 
 	**Cite**:
 
-	  - CGI 1651
-	  - CGI 1966
-	  - CGI 235 bis
+	  - CGI 235 bis, 1651
 	  - CGIAN2 161
+	  - Livre des procédures fiscales - art. L169 A (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-1120 du 2 septembre 2002 - art. 2 () JORF 4 septembre 2002
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 1er septembre 1982
 
 
 ###### Article 163
@@ -4668,6 +4871,45 @@ articles 235 quater et 238 octies du code général des impôts.
 
 
 ##### III : Prélèvement d'un tiers sur les plus-values réalisées par des personnes physiques ou sociétés qui ne sont pas fiscalement domiciliées en France
+
+###### Article 171 quater
+
+Les personnes passibles du prélèvement institué par l'article 244 bis A du code général des impôts doivent accréditer, auprès
+de l'administration chargée du recouvrement, un représentant domicilié en France qui s'engage à remplir les formalités
+auxquelles elles sont soumises et à acquitter ce prélèvement en leur lieu et place, y compris, le cas échéant, l'amende
+prévue à l'article 1770 quinquies du code précité.
+
+La déclaration de plus-value, portant mention du représentant accrédité et visée par l'intéressé, est déposée :
+
+A l'appui de la réquisition de publier ou de la présentation à l'enregistrement s'il s'agit d'une cession constatée par un
+acte ;
+
+A la recette des impôts dont relève le domicile du représentant accrédité dans le cas contraire.
+
+Il est fait application, dans le premier cas, des règles d'exigibilité et de recouvrement prévues aux articles 1701 à 1712 du
+code général des impôts et, dans le second cas, de celles qui sont prévues au titre IV du livre des procédures fiscales pour
+les impôts recouvrés par les comptables de la direction générale des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1701 A 1712
+	  - CGI 1770 quinquies
+	  - CGI 244 bis A
+
+	**Modifié par**:
+
+	  - Décret n°81-859 du 15 septembre 1981 - art. 3 (V) JORF 18 septembre 1981 en vigueur le 1er janvier 1982
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
+
 
 ###### Article 171 ter A
 
@@ -6798,6 +7040,36 @@ Il en est de même de celles qui vendent des oeuvres d'art originales.
 	  - HISTO: EDITION 1979-07-01
 	  - HISTO: Edition du 12 mai 1996
 	  - PEREMPTION: Loi n°94-1163 1994-12-29 art. 16-XI JORF 30 décembre 1994
+
+
+##### Fourniture de logement en meublé et en garni.
+
+###### Article 233
+
+1. Les loueurs en meublé ou en garni et les personnes réalisant des locations considérées comme des opérations de fourniture
+de logement en meublé au sens de l'article 260 D du code général des impôts peuvent déduire la taxe ayant grevé les biens
+constituant les immobilisations de la taxe due sur les recettes de location. En aucun cas, cette déduction ne peut donner
+lieu à remboursement (1). Il en est de même de ceux qui, ayant acheté ou construit un immeuble en vue de sa vente, le donnent
+en location sous quelque forme que ce soit.
+
+2. Les limitations prévues au 1 ne s'appliquent pas aux hôtels classés de tourisme ainsi qu'aux villages de vacances agréés.
+
+(1) Voir toutefois CGI, art. 273 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 260 D, 273 bis
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 89 (P) JORF 31 décembre 1981 en vigueur le 1er janvier 1982
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°91-352 du 11 avril 1991 - art. 4 () JORF 13 avril 1991
 
 
 ##### 3° : Entreprises bénéficiant d'atténuations d'impôt : franchise en impôt.
@@ -11879,6 +12151,46 @@ intervenu.
 	  - Décret n°63-679 1963-07-09
 
 
+###### Article 374
+
+Indépendamment des renseignements dont la production est déjà prévue par le code général des impôts, les sociétés visées à
+l'article 372 sont tenues de faire parvenir au service des impôts du lieu de leur principal établissement, avant le 1er mars
+de chaque année, une déclaration en double exemplaire indiquant la part revenant ou incombant à chaque associé pour l'année
+précédente :
+
+a. Dans les revenus bruts sociaux ;
+
+b. Dans le montant des dépenses de réparation et d'entretien, des frais de gérance et de rémunération des gardes et
+concierges effectivement supportés par la société ;
+
+c. Dans le montant des impositions, autres que celles incombant normalement à l'occupant, perçues, à raison des immeubles
+sociaux, au profit des collectivités locales ou de certains établissements publics et d'organismes divers ;
+
+d. Dans le montant des intérêts des dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou
+l'amélioration des immeubles sociaux ;
+
+e. Dans les frais de gestion et d'assurance payés par la société ;
+
+f. Et, le cas échéant, dans toutes autres charges non énumérées ci-dessus, mais effectivement supportées par la société.
+
+Cette déclaration est vérifiée dans les conditions prévues à l'article L 53 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 372
+	  - Livre des procédures fiscales - art. L53 (M)
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 GB (V)
+
+
 ###### Article 375
 
 I. Lorsqu'une entreprise relevant de l'impôt sur le revenu, au titre des bénéfices industriels et commerciaux, ou de l'impôt
@@ -12114,28 +12426,6 @@ valeurs.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 74 P
-
-En cas d'expropriation la déclaration de la plus-value imposable est jointe à celle des revenus de l'année au cours de
-laquelle l'indemnité a été perçue.
-
-Le contribuable peut toutefois, par une mention expresse dans la déclaration de la plus-value, demander que celle-ci soit
-imposée au titre de l'année où a été fixée définitivement l'indemnité.
-
-Dans tous les cas, le délai [*de prescription*] prévu au 1 de l'article 1966 du code général des impôts court à compter de
-l'année durant laquelle l'indemnité a été perçue [*point de départ*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1966 1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 74 R
 
 Le bénéfice du paiement fractionné est subordonné à une demande expresse du contribuable, jointe aux déclarations mentionnées
@@ -12162,128 +12452,6 @@ des fractions de l'impôt, le solde restant dû, augmenté de l'intérêt couru,
 
 
 ##### REVENU GLOBAL.
-
-###### Article 75-0 A
-
-Les dépenses mentionnées à l'article 156-II-1o quater du code général des impôts s'entendent :
-
-1o De celles qui ont pour objet exclusif de limiter les déperditions calorifiques :
-
-a. Par la pose de joints d'étanchéité des types suivants :
-
-- joints métalliques,     - joints profilés (à base de caoutchouc synthétique ou naturel ou de néoprène) définis par la norme
-NF P 85-301,     - joints mastic à base d'élastomères utilisés pour le calfeutrement étanche, définis par les normes NF P
-85-501 à 85-506;
-
-b. Par la pose de doubles fenêtres, de doubles vitres et de châssis de fenêtres à étanchéité renforcée lorsque leur
-installation est rendue nécessaire par la mise en place des doubles vitrages;
-
-c. Par l'application de matériaux isolants sur les parois des façades et pignons, les plafonds sous combles ou sous
-terrasses, les planchers sur sous-sol ou caves ainsi que sur les canalisations et réservoirs d'eau chaude et d'air chaud;
-sont considérés comme isolants [*définition*], lorsqu'ils sont appliqués sur une épaisseur d'au moins trois centimètres :
-
-- les panneaux tendres de fibres de bois dits isolants et les panneaux tendres de fibres de bois asphaltés dits isolants
-spéciaux;
-
-Ainsi que les matériaux composés essentiellement de :
-
-- laine de verre ou de roche,     - liège,     - mousses de polystyrène expansé ou extrudé,     - mousses de polyéthylène,
-- mousses rigides à base de polychlorure de vinyle ou de polyuréthane,     - mousses formo-phénoliques,     - vermiculite ou
-perlite,     - mousses d'urée-formol;
-
-- verre cellulaire,     2o De celles qui résultent de l'achat et de la pose :
-
-- de systèmes de régulation par thermostats d'ambiance ou par sondes extérieures,     - d'horloges de programmation,     - de
-robinets thermostatiques,     - de compteurs de calories,     - de répartiteurs à évaporation,     - d'appareils de réglage
-permettant l'équilibrage thermique de l'installation;
-
-3o De celles qui résultent du remplacement :
-
-a. D'un brûleur de chaudière usagé par un brûleur neuf d'un débit au plus égal;
-
-b. D'une chaudière usagée par une chaudière neuve de puissance au plus égale fonctionnant à l'aide d'une source d'énergie
-autre que l'électricité; toutefois, la déduction n'est pas applicable si l'ancienne chaudière fonctionnait à l'aide de
-combustibles non pétroliers et si la nouvelle fonctionne à l'aide de produits pétroliers;
-
-c. D'une chaudière usagée par :
-
-- un appareil utilisant l'énergie solaire,     - un système utilisant l'énergie géothermique; la déduction porte alors sur
-l'échangeur de chaleur et les installations situées en amont,     - une pompe à chaleur (1),     - une installation de
-raccordement sur un réseau de chauffage urbain.
-
-Les dépenses relatives à des appareils de chauffage d'appoint autres que ceux alimentés par l'énergie solaire ou une pompe à
-chaleur, ne sont pas admises en déduction.
-
-1)  Voir annexe IV, art. 17 F et 17 G.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 156 II 1° quater
-	  - CGIAN4 17 F
-	  - CGIAN4 17 G
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°81-1160 du 30 décembre 1981 - art. 88 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
-
-###### Article 75-0 B
-
-Des arrêtés interministériels peuvent prévoir que les équipements ou matériaux utilisés doivent présenter des
-caractéristiques répondant à certaines normes notamment en ce qui concerne la lutte contre l'incendie (1).
-
-1)  Annexe IV, art. 17 F et 17 G
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 17 F
-	  - CGIAN4 17 G
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°81-1160 du 30 décembre 1981 - art. 88 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
-
-###### Article 75-0 C
-
-Les frais occasionnés par les travaux accessoires aux opérations indiquées à l'article 75-0 A ne sont pas admis en déduction.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 75-0 A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01 P(LOI 81-1160 1981-12-30 ART. 88 III FINANCES POUR 1982 JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982)
-
-
-###### Article 75-0 D
-
-Les factures à produire au titre de l'isolation thermique doivent mentionner la nature et l'épaisseur du matériau utilisé et
-préciser, lorsqu'elles concernent des joints, si ces équipements répondent aux normes définies par l'Afnor. Les factures à
-produire au titre du remplacement de chaudière doivent faire état de la reprise de l'ancien appareil par le fournisseur et
-indiquer sa puissance et son type, de même que pour le nouvel appareil. Les factures doivent également se référer, s'il y a
-lieu, aux normes exigées par les arrêtés prévus par l'article 75-0 B.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 75-0 B
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°81-1160 du 30 décembre 1981 - art. 88 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
 
 ###### Article 75-0 E
 
@@ -12524,31 +12692,6 @@ France métropolitaine et des départements d'outre-mer [*à l'étranger*].
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 81
-
-1. Les certificats délivrés aux sociétés d'investissement et aux sociétés assimilées servent à justifier l'avoir fiscal ou le
-crédit d'impôt attaché aux dividendes qu'elles distribuent à leurs actionnaires.
-
-2. Les certificats délivrés aux sociétés visées à l'article 8 du code général des impôts servent à justifier le montant de
-ceux qu'elles délivrent elle-mêmes à leurs membres en application de l'article 79-4 ainsi que l'assiette de la retenue à la
-source prélevée par elles, le cas échéant.
-
-3. Les sociétés visées au présent article sont tenues de conserver les certificats qui leur ont été délivrés jusqu'à
-l'expiration du délai mentionné à l'article 1966-1 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1966 1
-	  - CGI 8
-	  - CGIAN2 79 4
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 81 bis
 
 I. L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour
@@ -12648,31 +12791,6 @@ modéré ou aux sociétés de crédit immobilier.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 90
-
-Sauf circonstance de force majeure, si un immeuble ayant donné droit à la déduction prévue à l'article 85 fait l'objet d'une
-aliénation au profit de personnes autres que le conjoint, les ascendants ou descendants du contribuable avant l'expiration
-d'un délai de cinq ans à compter de son achèvement ou s'il est affecté dans le même délai à un usage autre que celui défini à
-l'article 86, dernier alinéa, le montant de l'impôt correspondant à la déduction dont l'intéressé a bénéficié est reversé de
-plein droit à l'Etat, sans préjudice de l'application d'une majoration de 25 %.
-
-La cotisation correspondante, qui peut être établie nonobstant les dispositions de l'article 1966 du code général des impôts,
-est exigible en totalité dès la mise en recouvrement du rôle sous les sanctions édictées par l'article 1761 dudit code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1761
-	  - CGI 1966
-	  - CGIAN2 85
-	  - CGIAN2 86 AL. DERNIER
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 91 bis
 
 Pour bénéficier de l'exonération prévue à l'article 163 bis C-I du code général des impôts les titulaires d'actions acquises
@@ -12713,40 +12831,6 @@ intervenus soit la levée de l'option, soit la conversion ou le transfert, soit 
 	**Modifié par**:
 
 	  - Loi n°70-1322 du 31 décembre 1970 - art. 1 () JORF 3 janvier 1971
-
-
-###### Article 91 quinquies
-
-Le contribuable qui a versé le capital constitutif de la rente prévue à l'article 294 du code civil peut, sous réserve des
-dispositions de l'article 156-II-2o du code général des impôts, déduire annuellement de son revenu imposable une somme égale
-au montant du capital versé divisé par le nombre d'années au cours desquelles la rente doit être servie.
-
-La déduction ne peut excéder, pour chaque enfant, la limite prévue à l'article 156-II-2o du code général des impôts.
-
-Le contribuable est tenu de joindre à la déclaration des revenus de l'année au titre de laquelle il pratique pour la première
-fois la déduction mentionnée au premier alinéa une attestation délivrée par l'organisme accrédité chargé du versement de la
-rente et comportant les indications suivantes :
-
-- identité et adresse du contribuable ayant constitué la rente;
-
-- identité, adresse, date et lieu de naissance de l'enfant bénéficiaire de la rente;
-
-- identité et adresse du parent qui a la garde de l'enfant;
-
-- montant du capital versé et date du versement;
-
-- dates du point de départ et du terme du service de la rente.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 156 II 2°
-	  - Code civil - art. 294 (M)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### CALCUL DE L'IMPOT.
@@ -13130,36 +13214,6 @@ l'article précité. Le taux de cette provision est fixé à 0,50 %.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 M (V)
 
 
-###### Article 102 O
-
-Les plus-values ou moins-values réalisées par les caisses de crédit mutuel mentionnées à l'article 206-7 du code général des
-impôts lors de la cession d'éléments d'actif immobilisé ou de titres de placement ne sont soumises à l'impôt que pour leur
-fraction acquise à compter du 1er janvier 1980 [*date*].
-
-Pour les titres cotés, cette fraction est calculée en retenant comme prix de revient leur cours moyen pendant le mois de
-décembre 1979.
-
-Pour les titres de participation non cotés et les autres éléments d'actif immobilisé, ainsi que pour les titres de placement
-non cotés, la fraction acquise à compter du 1er janvier 1980 est calculée en proportion de la durée de détention du bien
-depuis cette date par rapport à sa durée totale de détention. En outre, pour les biens amortissables détenus depuis plus de
-deux ans, la partie de la plus-value ou moins-value réputée à court terme ne peut excéder le montant des amortissements
-déduits à compter du 1er janvier 1980 pour le calcul de l'impôt.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 206 7
-
-	**Créé par**:
-
-	  - Décret n°80-789 du 3 octobre 1980 - art. 1 (V) JORF 5 OCTOBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
 ###### Article 102 P
 
 A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
@@ -13480,35 +13534,6 @@ de ces décisions.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 140 I
-
-Le requérant doit indiquer, dans son recours, s'il demande à surseoir au paiement de la partie contestée de la taxe, et ce,
-sous réserve de la constitution de garanties dans les conditions déterminées par l'article 1953 du code général des impôts et
-les articles 416 A à 416 D de l'annexe III à ce code.
-
-Le président de la commission spéciale de la taxe d'apprentissage [*autorité compétente*] notifie au receveur des impôts
-chargé du recouvrement, par l'intermédiaire du directeur des services fiscaux du département, les pourvois qui contiennent
-une demande de sursis de paiement, en indiquant le montant de la partie de la taxe dont il est demandé exonération.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1953
-	  - CGIAN3 416 A
-	  - CGIAN3 416 B
-	  - CGIAN3 416 C
-	  - CGIAN3 416 D
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. R237-21 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 140 JA
 
 Le versement prévu à l'article 226 A du code général des impôts est assis sur le montant brut de la contribution incombant à
@@ -13598,25 +13623,6 @@ audit article.
 
 	  - HISTO: EDITION 1979-07-01
 	  - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 24 (V) JORF 18 juin 1987 : dispositions devenues sans objet
-
-
-#### REDEVANCE FIXE DES MINES.
-
-###### Article 159
-
-Les réclamations sont présentées, instruites et jugées comme en matière de contributions directes. Toutefois, l'instruction
-en est assurée par le chef de l'arrondissement minéralogique du lieu principal d'exploitation [*autorité compétente*] et
-elles ne sont soumises ni à l'avis de la commission communale des impôts directs, ni à l'avis du maire.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R198-8
 
 
 #### PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.
@@ -13972,48 +13978,14 @@ b. D'un état comportant indication de l'emploi de la provision, dans l'année q
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 171 quater
-
-Les personnes passibles du prélèvement institué par l'article 244 bis A du code général des impôts doivent accréditer, auprès
-de l'administration chargée du recouvrement, un représentant [*fiscal*] domicilié en France qui s'engage à remplir les
-formalités auxquelles elles sont soumises et à acquitter ce prélèvement en leur lieu et place, y compris, le cas échéant,
-l'amende prévue à l'article 1770 quinquies du code précité.
-
-La déclaration de plus-value, portant mention du représentant accrédité et visée par l'intéressé, est déposée :
-
-- à l'appui de la réquisition de publier ou de la présentation à l'enregistrement s'il s'agit d'une cession constatée par un
-acte ;
-
-- à la recette des impôts dont relève le domicile du représentant accrédité dans le cas contraire.
-
-Il est fait application, dans le premier cas, des règles d'exigibilité et de recouvrement prévues aux articles 1701 à 1712 du
-code général des impôts et, dans le second cas, de celles qui sont prévues aux articles 1915 à 1918 du même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1701 A CGI 1712
-	  - CGI 1770 quinquies
-	  - CGI 1915
-	  - CGI 1916
-	  - CGI 1917
-	  - CGI 1918
-	  - CGI 244 bis A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 #### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*.
 
 ###### Article 171 Q
 
-La date de réalisation des investissements [*définition*] donnant droit à la déduction fiscale de 10 % prévue à l'article 244
-undecies du code général des impôts s'entend, pour les biens achetés, de la date à laquelle l'entreprise en est devenue
-propriétaire ou, en cas de réserve de propriété au profit du fournisseur, de la date de livraison du bien. Pour les biens
-créés par l'entreprise, la date de réalisation est celle à laquelle leur fabrication est achevée.
+La date de réalisation des investissements donnant droit, selon le cas, à la déduction fiscale de 5, 10 ou 15 % prévue à
+l'article 244 undecies du code général des impôts s'entend, pour les biens achetés, de la date à laquelle l'entreprise en est
+devenue propriétaire ou, en cas de réserve de propriété au profit du fournisseur, de la date de livraison du bien. Pour les
+biens créés par l'entreprise, la date de réalisation est celle à laquelle leur fabrication est achevée.
 
 **Liens relatifs à cet article**
 
@@ -14021,28 +13993,32 @@ créés par l'entreprise, la date de réalisation est celle à laquelle leur fab
 
 	  - CGI 244 undecies
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°81-17 du 10 janvier 1981 - art. 1 (V) JORF 11 JANVIER 1981
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 83 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 
 ###### Article 171 V
 
 En cas de résiliation d'un contrat de crédit-bail, sans rachat du bien loué, avant l'expiration d'un délai de cinq ans ou de
 restitution du bien loué dans le même délai, à l'expiration de la période de location, l'entreprise locataire doit rapporter
-au résultat imposable de l'exercice au cours duquel a lieu l'opération une somme égale à 10 % [*pourcentage*] du prix de
-revient du bien loué, diminué du montant des amortissements que l'entreprise aurait pu pratiquer si elle avait été
-propriétaire de ce bien.
+au résultat imposable de l'exercice au cours duquel a lieu l'opération une somme égale, selon le cas, à 5, 10 ou 15 %
+[*pourcentage*] du prix de revient du bien loué, diminué du montant des amortissements que l'entreprise aurait pu pratiquer
+si elle avait été propriétaire de ce bien.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°81-17 du 10 janvier 1981 - art. 6 (V) JORF 11 JANVIER 1981
-
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 83 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES
@@ -14117,7 +14093,7 @@ du bien.
 ###### Article 189
 
 L'option pour le paiement de la taxe sur la valeur ajoutée prévue à l'article 260-1° du code général des impôts s'applique à
-l'ensemble des opérations accomplies dans l'exercice de l'une des activités mentionnées aux 3°, 5°, 6°, 7° ou 8° de l'article
+l'ensemble des opérations accomplies dans l'exercice de l'une des activités mentionnées aux 5°, 6°, 7° ou 8° de l'article
 261-4 du même code.
 
 Toutefois, lorsqu'une même personne effectue des opérations relevant d'activités de nature différente, l'option peut n'être
@@ -14133,11 +14109,15 @@ de l'article 213.
 
 	  - CGI 213
 	  - CGI 260 1°
-	  - CGI 261 4 3°, 5°, 6°, 7°, 8°
+	  - CGI 261 4 5°, 6°, 7°, 8°
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 27 () JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 
 ###### Article 194
@@ -14277,21 +14257,6 @@ et qu'il est justifié de cette destruction.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 233
-
-1. Les loueurs en meublé ou en garni peuvent déduire la taxe ayant grevé les biens constituant des immobilisations de la taxe
-due sur les recettes de location. En aucun cas, cette déduction ne peut donner lieu à remboursement. Il en est de même de
-ceux qui, ayant acheté ou construit un immeuble en vue de sa vente, le donnent en location sous quelque forme que ce soit.
-
-2. Les limitations prévues au 1 ne s'appliquent pas aux hôtels classés de tourisme ainsi qu'aux villages de vacances agréés.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 23 (V) JORF 31 DECEMBRE 1979
 
 
 ###### Article 233 A
@@ -15111,8 +15076,7 @@ code général des impôts transmis à chaque bénéficiaire, l'identité de cha
 officiers ministériels qui ont reçu les actes de donation et leur date d'enregistrement ;
 
 2° En ce qui concerne les donations antérieures consenties à compter du 5 septembre 1979, l'indication du ou des
-bénéficiaires du droit global à exonération de 500.000 F prévu à l'article 793 A du même code et le montant pour lequel il a
-été utilisé.
+bénéficiaires du droit global à exonération prévu à l'article 793 A du même code et le montant pour lequel il a été utilisé.
 
 **Liens relatifs à cet article**
 
@@ -15121,13 +15085,17 @@ bénéficiaires du droit global à exonération de 500.000 F prévu à l'article
 	  - CGI 793 1 2°, 2 1°, 793 A
 	  - CGIAN2 294 A, 294 B
 
-	**Créé par**:
-
-	  - Décret n°80-1086 du 29 décembre 1980 - art. 3 (V) JORF 30 DECEMBRE 1980
-
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 41 (P) JORF 31 DECEMBRE 1981 en vigueur le 1er JANVIER 1982
+
+	**Abrogé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
 
 
 ### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE
@@ -15282,30 +15250,6 @@ modalités fixées par arrêté du ministre de l'économie et des finances (1).
 	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
-###### Article 307
-
-Sont spécialement chargés de constater les infractions prévues à l'article 1840 N quater du code général des impôts, en
-dehors des agents de la direction générale des impôts dûment commissionnés et assermentés, les agents des douanes, les
-fonctionnaires dépendant de la préfecture de police, les personnels de la police nationale, les militaires de la gendarmerie,
-les agents assermentés de l'office national des forêts, et, en général, tous les agents aptes à verbaliser en matière de
-police de la circulation routière [*autorités compétentes*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1840 N quater
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R212-1
-	  - Livre des procédures fiscales R213-1
-
-
 ###### Article 308
 
 Sont exclus du champ d'application de la taxe annuelle sur les véhicules d'une puissance fiscale supérieure à 16 CV instituée
@@ -15330,8 +15274,8 @@ deuxième alinéa.
 
 ###### Article 310
 
-La taxe différentielle [*sur les véhicules à moteur*] établie par les articles 303 à 307 ne se cumule pas avec la taxe
-[*annuelle sur les véhicules d'une puissance fiscale supérieure à 16 CV*] mentionnée à l'article 308.
+La taxe différentielle établie par les articles 303 à 306 ne se cumule pas avec la taxe mentionnée à l'article 308 [*annuelle
+sur les véhicules d'une puissance fiscale supérieure à 16 CV*].
 
 **Liens relatifs à cet article**
 
@@ -15341,12 +15285,15 @@ La taxe différentielle [*sur les véhicules à moteur*] établie par les articl
 	  - CGIAN2 304
 	  - CGIAN2 305
 	  - CGIAN2 306
-	  - CGIAN2 307
 	  - CGIAN2 308
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
 ###### Article 310 A
@@ -16803,18 +16750,18 @@ de cet excédent.
 La même règle est applicable pour les impositions établies en 1980. Toutefois, la réduction est limitée à la moitié de celle
 accordée en 1979.
 
-Les demandes doivent être présentées dans le délai général de réclamation fixé par l'article 1932-1 du code général des
-impôts.
+Les demandes doivent être présentées dans le délai général de réclamation fixé par l'article R. 196-2 du livre des procédures
+fiscales.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1932 1
+	  - CGI R196-2
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES.
@@ -18363,15 +18310,16 @@ producteurs agricoles.
 ###### Article 368 C
 
 Les produits faisant l'objet des obligations prescrites par les articles 368 A et 368 B sont soumis aux dispositions des
-articles 310 septies à 310 terdecies de l'annexe I au code général des impôts.
+articles 310 septies à 310 octies et 310 decies à 310 terdecies de l'annexe I au code général des impôts et de l'article R
+24-1 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI R24-1
 	  - CGIAN1 310 decies
 	  - CGIAN1 310 duodecies
-	  - CGIAN1 310 nonies
 	  - CGIAN1 310 octies
 	  - CGIAN1 310 septies
 	  - CGIAN1 310 terdecies
@@ -18379,9 +18327,9 @@ articles 310 septies à 310 terdecies de l'annexe I au code général des impôt
 	  - CGIAN2 368 A
 	  - CGIAN2 368 B
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 368 D
@@ -18655,46 +18603,41 @@ date à laquelle est intervenue la perte de la qualité d'adhérent.
 
 ###### Article 371 Y
 
-Par l'engagement prévu à l'article 371 X les ordres et organisations [*des professions libérales et des titulaires de charges
-et offices*] mentionnés à l'article précité s'obligent notamment à faire à leurs ressortissants les recommandations
-suivantes :
+Par l'engagement prévu à l'article 371 X, les ordres et organisations mentionnés à l'article précité s'obligent notamment à
+faire à leurs ressortissants les recommandations suivantes :
 
 1° Tenir les documents prévus aux articles 99 et 101 bis du code général des impôts conformément à l'un des plans comptables
-professionnels agréés par le ministre de l'économie et des finances;
-
-2° En ce qui concerne les recettes, mentionner sur ces documents le détail des sommes reçues, l'identité du client, le mode
-de règlement et la nature des prestations fournies.
+professionnels agréés par le ministre de l'économie et des finances ;    2° En ce qui concerne les recettes, mentionner sur
+ces documents le détail des sommes reçues, l'identité du client, le mode de règlement et la nature des prestations fournies.
 
 Toutefois, lorsque les dispositions de l'article 378 du code pénal relatives au secret professionnel sont applicables, la
 nature des prestations fournies n'est pas mentionnée et l'identité du client peut être remplacée par une référence à un
 document annexe permettant de retrouver cette indication et tenu par le contribuable à la disposition de l'administration des
 impôts. La nature des prestations fournies ne peut faire l'objet de demandes de renseignements de la part de l'administration
-des impôts. A l'égard des organismes tenus d'établir des relevés récapitulatifs par praticien en application de l'article
-1994 du code général des impôts, le droit de communication ne peut, en ce qui concerne la nature des prestations fournies,
-porter que sur les mentions correspondant à la nomenclature générale des actes professionnels;
+des impôts. A l'égard des organismes tenus d'établir des relevés récapitulatifs par praticien en application de l'article L
+97 du livre des procédures fiscales, le droit de communication ne peut, en ce qui concerne la nature des prestations
+fournies, porter que sur les mentions correspondant à la nomenclature générale des actes professionnels.
 
 3° Accepter le règlement des honoraires par chèques libellés dans tous les cas à leur ordre et ne pas endosser ces chèques,
-sauf pour remise directe à l'encaissement;
+sauf pour remise directe à l'encaissement.
 
 4° Informer leurs clients de leur qualité d'adhérent à une association agréée, si tel est le cas, et de ses conséquences en
 ce qui concerne notamment l'acceptation du paiement des honoraires par chèques. Les modalités de cette information sont, en
-tant que de besoin, précisées par arrêté (1).
+tant que de besoin, précisées par arrêté (1) ;
 
 5° Pour les membres des professions de santé, inscrire sur les feuilles de maladie ou de soins, conformément aux dispositions
-de l'article 1994 du code général des impôts et du décret n° 72-480 du 12 juin 1972, l'intégralité des honoraires
+de l'article L 97 du livre des procédures fiscales et du décret n° 72-480 du 12 juin 1972, l'intégralité des honoraires
 effectivement perçus même s'ils ne peuvent que partiellement donner lieu à remboursement pour les assurés.
-
-1)  Annexe IV, art. 164 F quatervicies à 164 F octovicies.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 101 bis
-	  - CGI 1994
 	  - CGI 99
+	  - CGI L97
 	  - CGIAN2 371 X
-	  - CGIAN4 164 F quatervicies A CGIAN4 164 F octovicies
+	  - CGIAN4 164 F quaterdecies A 164 F octovicies
 	  - Code pénal 378
 	  - Décret n°72-480 1972-06-12
 
@@ -18702,50 +18645,9 @@ effectivement perçus même s'ils ne peuvent que partiellement donner lieu à re
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F quatervicies (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
-
-
-### SOCIETES IMMOBILIERES DE COPROPRIETE.
-
-###### Article 374
-
-Indépendamment des renseignements dont la production est déjà prévue par le code général des impôts, les sociétés visées à
-l'article 372 sont tenues de faire parvenir au service des impôts du lieu de leur principal établissement, avant le 1er mars
-de chaque année [*date limite*], une déclaration en double exemplaire indiquant la part revenant ou incombant à chaque
-associé pour l'année précédente :
-
-a  Dans les revenus bruts sociaux;
-
-b  Dans le montant des dépenses de réparation et d'entretien, des frais de gérance et de rémunération des gardes et
-concierges effectivement supportés par la société;
-
-c  Dans le montant des impositions, autres que celles incombant normalement à l'occupant, perçues, à raison des immeubles
-sociaux, au profit des collectivités locales ou de certains établissements publics et d'organismes divers;
-
-d  Dans le montant des intérêts des dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou
-l'amélioration des immeubles sociaux;
-
-e  Dans les frais de gestion et d'assurance payés par la société;     f  Et, le cas échéant, dans toutes autres charges non
-énumérées ci-dessus, mais effectivement supportées par la société.
-
-Cette déclaration est vérifiée dans les conditions prévues à l'article 60, deuxième alinéa, du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 60 AL. 2
-	  - CGIAN2 372
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 GB (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
 
 
 # Livre II : Recouvrement de l'impôt
@@ -19330,6 +19232,36 @@ Les rapporteurs, qui ont voix consultative, formulent des propositions devant le
 
 
 
+###### Article 396 quater
+
+Le comité du contentieux fiscal, douanier et des changes est composé, sous la présidence d'un conseiller d'Etat, de douze
+membres titulaires et de douze membres suppléants.
+
+Ces membres sont des conseillers d'Etat, des conseillers à la Cour de cassation et des conseillers maîtres à la Cour des
+comptes, en activité ou à la retraite. Le nombre des membres titulaires en activité ne peut être inférieur à six.
+
+Le président du comité et son suppléant sont choisis parmi les conseillers d'Etat membres du comité.
+
+Le président et les membres du comité ainsi que leurs suppléants sont nommés par décret pour trois ans.
+
+En cas de partage égal des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Conseil Constitutionnel N° 80-119 L 1980-12-02 : a déclaré certaines dispositions du code général des impôts de nature réglementaire
+	  - HISTO: Edition du 1er juillet 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 1977-12-29 art. 20 JORF 30 décembre 1977
+
+
 ###### Article 396 quinquies
 
 Le comité comprend quatre sections. Chaque section est composée de trois membres.
@@ -19417,6 +19349,33 @@ prépondérante.
 
 
 
+### Section II : Juridiction gracieuse
+
+#### Comité du contentieux fiscal, douanier et des changes.
+
+###### Article 396 quindecies
+
+Pour l'exécution des enquêtes auxquelles procèdent les membres du comité du contentieux fiscal douanier et des changes en vue
+de l'élaboration du rapport annuel prévu à l'article L 138 du livre des procédures fiscales, le comité fait appel aux corps
+ou services habilités à contrôler l'activité des services extérieurs de la direction générale des impôts.
+
+Il peut demander au directeur général des impôts de désigner des agents à cette fin.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L138
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Liens**:
+
+	  - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
+
+
 ## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.
 
 ###### Article 408
@@ -19441,6 +19400,35 @@ Prononcer d'office les dégrèvements, restitutions, mutations de cote et transf
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 409
+
+Lorsque les besoins du service le requièrent et qu'il n'existe aucun fonctionnaire apte à exercer les fonctions définies au
+deuxième alinéa, celles-ci peuvent être confiées par intérim à d'anciens fonctionnaires des mêmes catégories ou grades.
+
+Les fonctions dont il s'agit sont :
+
+- Celles exercées par les directeurs en application de l'article 408 ;
+
+- Celles prévues par l'article 376.
+
+- Celles prévues par les articles R. 81-1 et R. 81-2 du livre des procédures fiscales relatifs au droit de communication.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales R81-1, R81-2
+	  - CGIAN2 408, 376
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 terdecies (V)
+
+
 ###### Article 410
 
 Chaque fonctionnaire des impôts peut déléguer sa signature aux agents placés sous son autorité dans les conditions fixées par
@@ -19452,423 +19440,6 @@ contrôleur.
 
 
 # RECOUVREMENT DE L'IMPOT
-
-###### Article 397
-
-Le contribuable qui, ayant constitué des garanties dans les conditions des articles 1952 et 1953 du code général des impôts,
-a obtenu la décharge ou la réduction des impositions contestées, adresse, pour obtenir le remboursement des frais qu'il a
-exposés pour constituer ces garanties, une demande :
-
-Au trésorieur-payeur général, s'il s'agit d'impôts directs recouvrés par les comptables du Trésor;
-
-Au directeur des services fiscaux, s'il s'agit d'impôts, droits ou taxes recouvrés par les comptables de la direction
-générale des impôts;
-
-Au directeur régional des douanes, s'il s'agit de taxes sur le chiffre d'affaires dues par les commissionnaires en douane
-agréés.
-
-La demande, appuyée de toutes justifications utiles, doit être formée dans le délai d'un an à compter de la notification de
-la décision du directeur compétent ou de la juridiction saisie [*point de départ*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1952
-	  - CGI 1953
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R208-3
-
-
-###### Article 398
-
-Font l'objet d'un remboursement les frais suivants :
-
-===================================================================
-
-<table>
-  <tbody><tr>
-    <td> : NATURE DES GARANTIES :             NATURE DES FRAIS             :</td>
-  </tr>
-  <tr>
-    <td> :  CONSTITUEES         :                                          :</td>
-  </tr>
-  <tr>
-    <td> :----------------------:------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> : 1° Créances sur le   :                                          :</td>
-  </tr>
-  <tr>
-    <td> :   Trésor :           : Frais de timbre de dimension du          :</td>
-  </tr>
-  <tr>
-    <td> : a. Créance sur le    : nantissement constitué au profit du      :</td>
-  </tr>
-  <tr>
-    <td> :   Trésor proprement  : Trésor.                                  :</td>
-  </tr>
-  <tr>
-    <td> :   dites.             : Frais de signification de ce             :</td>
-  </tr>
-  <tr>
-    <td> :                      : nantissement au comptable payeur par     :</td>
-  </tr>
-  <tr>
-    <td> :                      : huissier de justice.                     :</td>
-  </tr>
-  <tr>
-    <td> : b. Dépôts de fonds   : Frais de timbre de dimension de          :</td>
-  </tr>
-  <tr>
-    <td> : dans les trésoreries : l'engagement par le contribuable au      :</td>
-  </tr>
-  <tr>
-    <td> : générales.           :  profit du Trésor.                       :</td>
-  </tr>
-  <tr>
-    <td> :                      :                                          :</td>
-  </tr>
-  <tr>
-    <td> :                      : Frais de timbre de dimension de l'acte   :</td>
-  </tr>
-  <tr>
-    <td> :                      : sous seing privé.                        :</td>
-  </tr>
-  <tr>
-    <td> :                      : Rémunération demandée par la caution,    :</td>
-  </tr>
-  <tr>
-    <td> :                      : dans la limite de 0,50 % de l'impôt      :</td>
-  </tr>
-  <tr>
-    <td> :                      : garanti pour chaque année écoulée de la  :</td>
-  </tr>
-  <tr>
-    <td> :                      : constitution à la mainlevée de la        :</td>
-  </tr>
-  <tr>
-    <td> :                      : caution.                                 :</td>
-  </tr>
-  <tr>
-    <td> : 2° Obligations       : Le cas échéant, frais de constitution de :</td>
-  </tr>
-  <tr>
-    <td> : cautionnées          : garanties au profit de la caution : les  :</td>
-  </tr>
-  <tr>
-    <td> :                      : frais à rembourser ne peuvent pas        :</td>
-  </tr>
-  <tr>
-    <td> :                      : excéder ceux qui auraient été exposés si :</td>
-  </tr>
-  <tr>
-    <td> :                      : les garanties avaient été constituées au :</td>
-  </tr>
-  <tr>
-    <td> :                      : profit du Trésor.                        :</td>
-  </tr>
-  <tr>
-    <td> : 3° Valeurs           : Frais de timbre de la déclaration        :</td>
-  </tr>
-  <tr>
-    <td> : mobilières :         : d'affectation en garantie, s'il s'agit   :</td>
-  </tr>
-  <tr>
-    <td> : a. Dans tous les     : de titres nominatifs.                    :</td>
-  </tr>
-  <tr>
-    <td> : cas                  : Frais de l'acte de nantissement, s'il    :</td>
-  </tr>
-  <tr>
-    <td> :                      : s'agit de valeurs au porteur.            :</td>
-  </tr>
-  <tr>
-    <td> : b. Titres déposés à  : Frais d'envoi des titres à la            :</td>
-  </tr>
-  <tr>
-    <td> : la caisse du         : trésorerie générale.                     :</td>
-  </tr>
-  <tr>
-    <td> : comptable chargé du  :                                          :</td>
-  </tr>
-  <tr>
-    <td> : recouvrement         :                                          :</td>
-  </tr>
-  <tr>
-    <td> : c. Titres déposés    :                                          :</td>
-  </tr>
-  <tr>
-    <td> : dans une banque.     : Frais réclamés par la banque (timbre,    :</td>
-  </tr>
-  <tr>
-    <td> :                      : droit de garde, frais de transport des   :</td>
-  </tr>
-  <tr>
-    <td> :                      : titres de l'agence au lieu de            :</td>
-  </tr>
-  <tr>
-    <td> :                      : conservation).                           :</td>
-  </tr>
-</tbody></table>
-
-===================================================================
-
-Font l'objet d'un remboursement les frais suivants :
-
-===================================================================
-
-<table>
-  <tbody><tr>
-    <td> : NATURE DES GARANTIES :             NATURE DES FRAIS             :</td>
-  </tr>
-  <tr>
-    <td> :  CONSTITUEES         :                                          :</td>
-  </tr>
-  <tr>
-    <td> :----------------------:------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> : 4° Marchandises      : Frais de magasinage, débours (prime      :</td>
-  </tr>
-  <tr>
-    <td> : déposées dans des    : d'assurance, d'incendie).                :</td>
-  </tr>
-  <tr>
-    <td> : magasins agréés par  : Timbre des effets de commerce auquel est :</td>
-  </tr>
-  <tr>
-    <td> : l'Etat et faisant    : soumis le warrant.                       :</td>
-  </tr>
-  <tr>
-    <td> : l'objet d'un warrant : Frais de timbre du contrat de            :</td>
-  </tr>
-  <tr>
-    <td> : endossé à l'ordre du : constitution d'hypothèque, émoluments du :</td>
-  </tr>
-  <tr>
-    <td> : Trésor.              : notaire rédacteur de l'acte.             :</td>
-  </tr>
-  <tr>
-    <td> : 5° Affectations      : Droits d'enregistrement de l'acte.       :</td>
-  </tr>
-  <tr>
-    <td> : hypothécaires.       : Salaire du conservateur des hypothèques. :</td>
-  </tr>
-  <tr>
-    <td> :                      : En cas de radiation de l'inscription :   :</td>
-  </tr>
-  <tr>
-    <td> :                      : frais de mainlevée notariée de           :</td>
-  </tr>
-  <tr>
-    <td> :                      : l'inscription, salaire du conservateur   :</td>
-  </tr>
-  <tr>
-    <td> :                      : des hypothèques.                         :</td>
-  </tr>
-  <tr>
-    <td> : 6° Nantissement de   : Frais de timbre du contrat de            :</td>
-  </tr>
-  <tr>
-    <td> : fonds de commerce.   : nantissement. Droit d'enregistrement de  :</td>
-  </tr>
-  <tr>
-    <td> :                      : l'acte.                                  :</td>
-  </tr>
-  <tr>
-    <td> :                      : Frais d'inscription et salaire du        :</td>
-  </tr>
-  <tr>
-    <td> :                      : greffier du tribunal de commerce.        :</td>
-  </tr>
-  <tr>
-    <td> :                      : En cas de radiation de l'inscription :   :</td>
-  </tr>
-  <tr>
-    <td> :                      : frais de radiation, salaire du greffier. :</td>
-  </tr>
-</tbody></table>
-
-===================================================================
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R208-4
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
-
-
-###### Article 399
-
-Les frais sont remboursés en totalité si le contribuable a obtenu la décharge totale des impositions contestées.
-
-En cas de décharge partielle, les frais proportionnels au montant des impôts garantis sont remboursés au prorata du
-dégrèvement; les frais fixes demeurent à la charge du contribuable.
-
-Le contribuable ne peut prétendre au remboursement de frais autres que ceux mentionnés à l'article 398 ni à l'allocation de
-dommages-intérêts ou d'indemnités quelconques.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 398
-
-	**Nouveaux textes**:
-
-	  - CGI R208-5
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 401
-
-Les intérêts moratoires prévus par l'article 1957 du code général des impôts sont calculés sur la totalité des sommes
-remboursées au contribuable au titre de l'impôt objet du règlement.
-
-Ils sont payés d'office en même temps que les sommes remboursées par le comptable chargé du recouvrement des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1957
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - livre des procèdures fiscales R208-1
-
-
-###### Article 402
-
-Les intérêts [*moratoires*] courent jusqu'au jour du remboursement.
-
-Si les sommes remboursées sont employées au règlement d'autres impôts dus par le contribuable à la caisse du même comptable,
-il n'est dû d'intérêts sur les sommes ainsi employées que jusqu'à la date à laquelle ces impôts sont devenus exigibles.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R208-2
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 403
-
-Les articles 401 et 402, deuxième alinéa, sont applicables aux intérêts dus à raison des restitutions de consignations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 401
-	  - CGIAN2 402
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 404
-
-Les contestations relatives à l'application des dispositions des articles 397 à 403 sont jugées selon les règles applicables
-aux litiges relatifs au recouvrement des impôts considérés.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R208-6
-
-	**Cite**:
-
-	  - CGIAN2 397
-	  - CGIAN2 398
-	  - CGIAN2 399
-	  - CGIAN2 401
-	  - CGIAN2 402
-	  - CGIAN2 403
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 405
-
-Les frais à rembourser et les intérêts à payer aux contribuables sont, selon les cas, réglés par les trésoriers-payeurs
-généraux, ou par les comptables de la direction générale des impôts, ou par ceux de la direction générale des douanes et
-droits indirects, sans délégation de crédits et sans ordonnancement préalable, dans les mêmes conditions que pour les
-dépenses énumérées au décret n° 51-807 du 26 juin 1951.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°51-807 1951-06-26
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 406
-
-Les dispositions des articles 397 à 399 sont applicables aux frais des garanties constituées à partir du 15 septembre 1960.
-Elles s'appliquent, en ce qui concerne les garanties constituées avant le 15 septembre 1960, aux frais exposés ou courus à
-partir de cette date.
-
-Les intérêts dus à raison du remboursement de versements antérieurs au 1er janvier 1960 sont calculés à partir de cette date.
-
-Toutefois, en ce qui concerne les impôts, droits ou taxes autres que les impôts directs et les taxes sur le chiffre
-d'affaires, les dispositions des articles 397 à 399 susvisés ne sont applicables qu'à partir du 1er avril 1964.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 397
-	  - CGIAN2 398
-	  - CGIAN2 399
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ## PAIEMENT DE L'IMPOT
 
@@ -20177,27 +19748,23 @@ instruction.
 
 ###### Article 384 ter
 
-Comme il est dit à l'article R 332-6 du code de l'urbanisme, à défaut de paiement dans les délais impartis, l'indemnité de
+Comme il est dit à l'article R332-6 du code de l'urbanisme, à défaut de paiement dans les délais impartis, l'indemnité de
 retard prévue au premier alinéa de l'article 1727 du code général des impôts est due par le redevable de la participation.
 
-Le recouvrement, tant de la créance du Trésor que de l'indemnité de retard, est poursuivi dans les conditions fixées aux
-articles 1915 à 1918 du code général des impôts. Il est garanti suivant les modalités définies à l'article L 333-11, deuxième
-et troisième alinéas, du code de l'urbanisme.
+Le recouvrement, tant de la créance du Trésor que de l'indemnité de retard, est poursuivi dans les conditions fixées au titre
+IV du livre des procédures fiscales pour les impôts recouvrés par les comptables de la direction générale des impôts. Il est
+garanti suivant les modalités définies à l'article L 333-11, deuxième et troisième alinéas, du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1727
-	  - CGI 1915
-	  - CGI 1916
-	  - CGI 1917
-	  - CGI 1918
 	  - Code de l'urbanisme L333-11 AL. 2, AL. 3
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 384-0 A
@@ -20240,439 +19807,19 @@ suspendues pendant plus d'une année, réputés dus par la partie poursuivie sau
 	  - HISTO: EDITION 1979-07-01
 
 
-## PENALITES
-
-### COMMISSION DES INFRACTIONS FISCALES.
-
-###### Article 384 septies-0 E
-
-La commission est saisie par le ministre du budget.
-
-Le ministre peut, en ce qui concerne la saisine de la commission, déléguer, par arrêté, sa signature à des fonctionnaires des
-services centraux de la direction générale des impôts ayant au moins le grade de chef de service.
-
-L'autorité qui saisit la commission lui adresse le dossier de l'affaire accompagné de ses propositions.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R228-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384 septies-0 F
-
-Lorsque la commission est saisie, le secrétariat en informe le contribuable par lettre recommandée avec avis de réception
-[*conditions de forme*]. Il lui communique l'essentiel des griefs qui motivent cette saisine et l'invite en même temps à
-faire parvenir à la commission, dans un délai de trente jours, les informations qu'il estimerait nécessaires.
-
-Le contribuable n'est pas admis à présenter des observations orales par lui-même ni par mandataire.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R228-2
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384 septies-0 G
-
-S'il l'estime utile, le président de la commission communique ces informations au ministre. Il peut aussi recueillir auprès
-de celui-ci tout renseignement complémentaire nécessaire à l'instruction du dossier.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R228-3
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384 septies-0 H
-
-Les dossiers sont répartis par le président entre les différentes sections. L'avis rendu par la section saisie constitue
-l'avis de la commission.
-
-Le président peut soumettre une affaire à la commission siégeant en formation plénière. Chaque section peut renvoyer une
-affaire à la formation plénière.
-
-La commission ne peut délibérer que si huit au moins de ses membres, titulaires ou suppléants, sont présents [*quorum*]. Une
-section ne peut délibérer que si deux au moins de ses membres, titulaires ou suppléants, sont présents.
-
-Les sections et la commission se prononcent à la majorité des voix. En cas de partage égal des voix, le président a voix
-prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R228-4
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384 septies-0 J
-
-Les séances de la commission et des sections ne sont pas publiques. La commission et ses sections délibèrent en dehors de la
-présence de l'autorité qui l'a saisie et du contribuable.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R228-5
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384 septies-0 K
-
-Le président notifie l'avis de la commission au ministre. Cet avis n'est pas motivé.
-
-Le contribuable est informé de l'avis de la commission par le secrétariat si cet avis est défavorable à l'engagement de
-poursuites ou, dans le cas contraire, par l'administration lors du dépôt de la plainte.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R228-6
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-## PROCEDURES.
-
-###### Article 384 octies
-
-La contrainte prévue à l'article 1843, deuxième alinéa, du code général des impôts, est décernée par le comptable du Trésor
-chargé du recouvrement. Sauf à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne,
-les actes de poursuite postérieurs au commandement ne peuvent être signifiés qu'après avoir été revêtus de l'autorisation du
-receveur des finances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1843 AL. 2
-
-	**Nouveaux textes**:
-
-	  - CGI R255-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 387
-
-Le comptable peut établir un avis de mise en recouvrement qui est visé et rendu exécutoire par le directeur des services
-fiscaux. Si nécessité l'oblige et à titre exceptionnel, il peut, par dérogation aux dispositions des articles 1915 et 1916 du
-code général des impôts, poursuivre immédiatement, avant toute notification au redevable en cause, l'exécution de cet avis de
-mise en recouvrement en prenant des sûretés sur tous les biens et avoirs du contribuable, et notamment, en faisant procéder
-au blocage de tous comptes courants, de dépôts ou d'avances ouverts à l'intéressé. Cet avis de mise en recouvrement est
-ensuite notifié dans les formes ordinaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1915
-	  - CGI 1916
-
-	**Nouveaux textes**:
-
-	  - CGI R273-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 388
-
-Toutes les autres dispositions spéciales prévues à l'article 1845 bis du code général des impôts sont également applicables
-pour le recouvrement des impositions établies dans les conditions définies ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1845 bis
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 389
-
-I. Pour le recouvrement des contributions indirectes, de la taxe de publicité foncière, des droits d'enregistrement et de
-timbre, des taxes sur le chiffre d'affaires et, d'une manière générale, des droits, taxes, redevances, impositions et sommes
-quelconques dont la perception incombe aux agents de la direction générale des impôts, l'avis de mise en recouvrement
-individuel prévu à l'article 1915 du code général des impôts comporte :
-
-1° Les indications nécessaires à l'identification des droits, taxes, redevances, impositions ou autres sommes qui font
-l'objet de cet avis ;
-
-2° Les éléments de la liquidation et le montant du principal et des pénalités, indemnités de retard ou intérêts de retard
-constitutifs de la créance.
-
-Toutefois, les éléments de la liquidation peuvent être remplacés par la référence au document qui les renferme lorsque celui-
-ci a été établi ou signé par le redevable ou son mandataire ou lui a été notifié antérieurement. De même, ils n'ont pas à
-être portés lorsque le redevable n'a pas fait la déclaration nécessaire à la liquidation de la créance.
-
-2. Lorsque la créance non acquittée concerne plusieurs redevables tenus à son paiement, conjointement ou solidairement, sa
-notification peut être effectuée au moyen :
-
-Soit d'avis de mise en recouvrement individuels établis au nom de chacun de ces redevables ;
-
-Soit d'un avis de mise en recouvrement collectif.
-
-L'avis de mise en recouvrement collectif comporte, outre les indications et éléments prévus au 1 pour l'avis de mise en
-recouvrement individuel, la référence au texte légal ou réglementaire ou à l'engagement établissant l'obligation de chacune
-des personnes qui y sont visées, exception faite des redevables obligés à titre principal.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1915
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R256-1 (1 du CGIAN2 389)
-	  - Livre des procédures fiscales R256-2 (2 du CGIAN2 389)
-
-
-###### Article 390
-
-Lorsque le défaut de paiement ou l'insuffisance, l'inexactitude ou l'omission qui motive l'émission de l'avis de mise en
-recouvrement individuel ou collectif donne lieu à l'application d'indemnités de retard ou d'intérêts de retard, la
-désignation sur cet avis de mise en recouvrement de la nature de ces indemnités ou intérêts vaut notification en ce qui les
-concerne, pour l'application de l'article 1975, deuxième alinéa, du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1975 AL. 2
-
-	**Nouveaux textes**:
-
-	  - CGI R275-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 391
-
-1. L'avis de mise en recouvrement individuel est rédigé en double exemplaire [*nombre*].
-
-Le premier, dit "original" est déposé à la recette des impôts chargée du recouvrement.
-
-Le second dit "ampliation" est destiné à être notifié au redevable ou à son fondé de pouvoir selon les modalités fixées à
-l'article 393.
-
-2. L'avis de mise en recouvrement collectif est rédigé en un seul exemplaire, dit "original" qui est déposé à la recette des
-impôts chargée du recouvrement.
-
-Pour sa notification dans les conditions fixées à l'article 393, il en est dressé un "extrait" au nom de chacun des
-redevables qui y sont inscrits.
-
-Chaque extrait reproduit intégralement le texte de l'original, à l'exception des indications qui concernent personnellement
-les redevables autres que celui auquel il est destiné.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 393
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R256-3 (1 du CGIAN2 391)
-	  - Livre des procédures fiscales R256-4 (2 du CGIAN2 391)
-
-
-###### Article 392
-
-Le directeur des services fiscaux compétent pour viser et rendre exécutoire l'avis de mise en recouvrement individuel ou
-collectif est celui sous l'autorité duquel se trouve placé le comptable chargé du recouvrement.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R256-5
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 393
-
-1. La notification de l'avis de mise en recouvrement comporte l'envoi au redevable, soit au lieu de son domicile, de sa
-résidence, ou de son siège, soit à l'adresse qu'il a lui-même fait connaître au service des impôts compétent, de
-l'"ampliation" ou de l'"extrait" suivant que l'avis de mise en recouvrement est individuel ou collectif.
-
-Cet envoi est effectué par la voie postale sous pli recommandé avec demande à l'administration des postes et
-télécommunications d'un avis de réception et, pour le cas où la lettre recommandée ne pourrait, pour quelque cause que ce
-soit, être remise au redevable destinataire ou à son fondé de pouvoir, de renvoi, au service des impôts expéditeur, du pli
-non distribué dûment annoté :
-
-D'une part, de la date de sa première présentation à l'adresse indiquée à la suscription ou, s'il y a lieu, à la nouvelle
-adresse connue de l'administration des postes et télécommunications ;
-
-Et, d'autre part, du motif de sa non-délivrance.
-
-Dans cette éventualité, l'"ampliation" ou l'"extrait" retourné reste déposé à la recette des impôts chargée du recouvrement
-où il peut en être délivré copie, à tout moment et sans frais, soit au redevable lui-même, soit à son fondé de pouvoir.
-
-2. L'administration peut également faire procéder à la notification de l'avis de mise en recouvrement par le ministère d'un
-huissier. En ce cas, la notification est soumise aux règles de signification des exploits.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R256-6
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 394
-
-L'avis de mise en recouvrement individuel ou collectif qui a fait l'objet de la procédure décrite à l'article 393 est réputé
-avoir été notifié :
-
-Dans le cas où l'"ampliation" ou l'"extrait" a été effectivement remis par les services postaux au redevable ou à son fondé
-de pouvoir, le jour même de cette remise ;
-
-Lorsque la lettre recommandée n'a pu être distribuée du fait du redevable, le jour où en a été faite la première présentation
-visée à l'article 393-I.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R256-7
-
-	**Cite**:
-
-	  - CGIAN2 393 1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 395
-
-1. La mise en demeure visée à l'article 1916 du code général des impôts comporte les éléments nécessaires à l'identification
-du ou des avis de mise en recouvrement dont elle procède ainsi que l'indication du montant total des sommes restant dues,
-frais en sus.
-
-2. Lorsque le ou les avis de mise en recouvrement auxquels elle se réfère ont été émis au nom d'un tiers, cette mise en
-demeure comporte, en outre, la référence au texte légal ou réglementaire ou à l'engagement établissant l'obligation de la
-personne qui y est visée.
-
-Toute personne tenue au paiement d'une imposition établie au nom d'un tiers ou de toute autre dette incombant à un tiers
-peut, sur sa demande et sur justification de ses qualités, obtenir sans frais copie de l'avis de mise en recouvrement
-affirmant cette imposition ou cette dette.
-
-3. La notification de la mise en demeure est effectuée selon la procédure décrite à l'article 393 pour l'avis de mise en
-recouvrement. Elle est réputée produire ses effets dans les conditions de temps fixées pour cet avis à l'article 394.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1916
-	  - CGIAN2 393
-	  - CGIAN2 394
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R257-1 (1 du CGIAN2 395)
-	  - Livre des procédures fiscales R257-2 (2 du CGIAN2 395)
-
-
-###### Article 396
-
-Sous réserve des dispositions des articles 1952 et 1953 du code général des impôts, l'administration peut à tout moment, si
-elle le juge nécessaire, exiger un complément de garantie, pour assurer le recouvrement de la somme contestée. Les poursuites
-sont reprises si le redevable ne satisfait pas, dans le délai d'un mois, à la demande qui lui est adressée à cet effet par
-lettre recommandée avec avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1952
-	  - CGI 1953
-
-	**Nouveaux textes**:
-
-	  - CGI R277-2
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ## SURETES ET PRIVILEGES.
 
 ###### Article 396 bis
 
-1  L'inscription des sommes privilégiées dues au Trésor prescrite à l'article 1929 quater-1 du code général des impôts est
+1. L'inscription des sommes privilégiées dues au Trésor prescrite à l'article 1929 quater-1 du code général des impôts est
 faite :
 
 1° Si le redevable est une personne physique, au greffe du tribunal de commerce ou du tribunal de grande instance statuant
-commercialement, dans le ressort duquel se trouve son principal établissement commercial;
+commercialement, dans le ressort duquel se trouve son principal établissement commercial ;
 
 2° Si le redevable est une personne morale de droit privé immatriculée au registre du commerce et des sociétés, au greffe du
 tribunal de commerce ou du tribunal de grande instance statuant commercialement, dans le ressort duquel se trouve son siège
-social;
+social ;
 
 3° Si le redevable est une personne morale de droit privé non immatriculée au registre du commerce et des sociétés, au greffe
 du tribunal de grande instance dans le ressort duquel se trouve son siège.
@@ -20682,38 +19829,38 @@ d'outre-mer *DOM*, l'inscription est requise, selon le cas, au greffe du tribuna
 instance statuant commercialement ou au greffe du tribunal de grande instance dans le ressort duquel se trouve le principal
 établissement du redevable.
 
-2  Lorsque la publicité est faite à titre obligatoire, en application de l'article 1929 quater-4 du code général des impôts,
-l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard [*date
-limite*] :
+2. Lorsque la publicité est faite à titre obligatoire, en application de l'article 1929 quater-4 du code général des impôts,
+l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard *date
+limite* :
 
-Le 31 janvier pour les sommes dues à la date du 31 décembre de l'année précédente;
+Le 31 janvier pour les sommes dues à la date du 31 décembre de l'année précédente ;
 
 Le 31 juillet pour les sommes dues à la date du 30 juin de l'année courante.
 
 L'octroi de délais de paiement ne fait pas obstacle à l'application des dispositions du présent article.
 
-3  Pour requérir l'inscription des sommes privilégiées dues au Trésor, le comptable public chargé du recouvrement remet ou
+3. Pour requérir l'inscription des sommes privilégiées dues au Trésor, le comptable public chargé du recouvrement remet ou
 adresse par lettre recommandée avec demande d'avis de réception, au greffier compétent, un bordereau établi en double
 exemplaire et comportant les indications suivantes :
 
-a  Date à laquelle il est établi;
+a. Date à laquelle il est établi ;
 
-b  Désignation du comptable public requérant;
+b. Désignation du comptable public requérant ;
 
-c  Nom, prénoms, raison ou dénomination sociale, adresse de l'établissement principal ou du siège du redevable;
+c. Nom, prénoms, raison ou dénomination sociale, adresse de l'établissement principal ou du siège du redevable ;
 
-d  Montant des sommes dues au Trésor au dernier jour du semestre civil précédant l'inscription.
+d. Montant des sommes dues au Trésor au dernier jour du semestre civil précédant l'inscription.
 
 Le comptable avise le contribuable qu'il a requis une inscription à son encontre.
 
-4  Un des exemplaires du bordereau prévu au 3 est restitué ou renvoyé au comptable par le greffier, après avoir été revêtu de
+4. Un des exemplaires du bordereau prévu au 3 est restitué ou renvoyé au comptable par le greffier, après avoir été revêtu de
 la mention d'inscription qui comprend la date de celle-ci et le numéro sous lequel elle a été faite. Le second exemplaire
-portant les mêmes mentions est conservé au greffe pour constituer le registre des inscriptions; le greffier tient en outre un
-répertoire alphabétique.
+portant les mêmes mentions est conservé au greffe pour constituer le registre des inscriptions ; le greffier tient en outre
+un répertoire alphabétique.
 
-5  Lorsqu'un redevable a contesté une imposition ayant fait l'objet d'une inscription et qu'il bénéficie du sursis de
-paiement dans les conditions prévues aux articles 1952 et 1953 du code général des impôts, il peut faire mentionner par le
-greffier l'existence de la contestation; cette mention est portée en marge de l'inscription.
+5. Lorsqu'un redevable a contesté une imposition ayant fait l'objet d'une inscription et qu'il bénéficie du sursis de
+paiement dans les conditions prévues aux articles L 277 à L 279 du livre des procédures fiscales, il peut faire mentionner
+par le greffier l'existence de la contestation ; cette mention est portée en marge de l'inscription.
 
 Le redevable doit produire à cet effet une attestation délivrée par le comptable chargé du recouvrement de l'imposition
 contestée.
@@ -20722,7 +19869,7 @@ La fraction non encore payée d'une imposition contestée ayant fait l'objet d'u
 manière distincte sur le bordereau établi par le comptable en vue d'une nouvelle inscription dans les conditions prévues au
 6, premier alinéa.
 
-6  Chaque nouvelle inscription requise par un même comptable à l'encontre du même redevable rend caduque l'inscription
+6. Chaque nouvelle inscription requise par un même comptable à l'encontre du même redevable rend caduque l'inscription
 précédente.
 
 En dehors du cas prévu au 7, une inscription peut faire l'objet à tout moment d'une radiation totale à la diligence du
@@ -20734,26 +19881,26 @@ Toute radiation consécutive à un dégrèvement est faite à l'initiative du co
 
 Le greffier mentionne les radiations en marge de l'inscription correspondante.
 
-7  Pour inscrire son privilège, le subrogé dans les droits du Trésor produit au greffier un certificat établi par le
+7. Pour inscrire son privilège, le subrogé dans les droits du Trésor produit au greffier un certificat établi par le
 comptable public chargé du recouvrement et attestant la subrogation. Si la créance ayant fait l'objet d'une subrogation est
 comprise dans une inscription, le certificat vaut radiation de cette inscription à due concurrence.
 
-8  Les attestations ou certificats prévus aux 5, 6 et 7 sont remis en double exemplaire ou adressés aux greffiers par lettre
+8. Les attestations ou certificats prévus aux 5, 6 et 7 sont remis en double exemplaire ou adressés aux greffiers par lettre
 recommandée avec demande d'avis de réception. L'un des exemplaires est rendu ou renvoyé à titre de récépissé au requérant,
 après avoir été revêtu, dès réception, d'une mention indiquant la date d'accomplissement de la formalité requise. Le deuxième
 exemplaire est conservé au greffe.
 
-9  Les greffiers sont tenus de délivrer à tous ceux qui le requièrent et aux frais du requérant soit un état des inscriptions
+9. Les greffiers sont tenus de délivrer à tous ceux qui le requièrent et aux frais du requérant soit un état des inscriptions
 existantes, soit un certificat indiquant qu'il n'existe aucune inscription. Chaque réquisition ne peut viser qu'un redevable
 nommément désigné.
 
 L'état des inscriptions délivré par le greffier doit comporter l'indication du comptable ou du tiers subrogé ayant requis
 l'inscription, la date de l'inscription, le montant des sommes inscrites et, le cas échéant, les mentions de contestations.
 
-10  Le modèle des bordereaux, attestations, certificats, réquisitions et états des inscriptions prévus aux 3, 5, 6, 7 et 9
+10. Le modèle des bordereaux, attestations, certificats, réquisitions et états des inscriptions prévus aux 3, 5, 6, 7 et 9
 est fixé par arrêté conjoint du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice (1).
 
-11  En cas de destruction totale ou partielle ou de disparition, par suite d'un sinistre ou de tout autre fait, du registre
+11. En cas de destruction totale ou partielle ou de disparition, par suite d'un sinistre ou de tout autre fait, du registre
 de publicité des créances privilégiées du Trésor public mentionné à l'article 1er de la loi n° 71-1029 du 24 décembre 1971,
 quel que soit le greffe dans lequel ce registre était ou est conservé, il est procédé à sa reconstitution de la façon
 suivante :
@@ -20766,100 +19913,37 @@ Les subrogés dans les droits du Trésor procèdent de la même manière sur pro
 certificat prévu au 8.
 
 La réinscription du privilège du Trésor ou des subrogés est notifiée par le greffier au redevable par lettre recommandée avec
-demande d'avis de réception [*condition de forme*] dans les huit jours de cette réinscription [*délai*.
+demande d'avis de réception dans les huit jours de cette réinscription.
 
 Le redevable, s'il estime que la réinscription n'est pas conforme à l'inscription primitive, peut, dans le délai de quinze
-jours à compter de la date de réception de cette lettre *]point de départ*, présenter une réclamation devant la commission
-visée à l'article 1er du décret n° 72-917 du 2 octobre 1972.
+jours à compter de la date de réception de cette lettre, présenter une réclamation devant la commission visée à l'article 1er
+du décret n° 72-917 du 2 octobre 1972.
 
 Celle-ci statue dans les conditions prévues au chapitre premier du même décret.
-
-(1) Annexe IV, art. 207 sexies
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1929 quater 1, 4
-	  - CGI 1952
-	  - CGI 1953
-	  - CGIAN4 207 sexies
+	  - CGI L277
+	  - CGI L278
+	  - CGI L279
 	  - Loi n°71-1029 du 24 décembre 1971 - art. 1 (V)
-	  - Décret n°72-917 1972-10-02 ART. 1
+	  - Décret n°72-917 1972-10-02
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS
 
 ### JURIDICTION GRACIEUSE.
-
-###### Article 396 decies
-
-S'il l'estime utile, le président invite l'autorité qui a saisi le comité, ou son représentant, à présenter, pour chaque
-affaire, des observations complémentaires. Il détermine les modalités selon lesquelles ces observations sont présentées.
-
-Si le contribuable ou son représentant a manifesté sa volonté de présenter des observations orales, le président doit inviter
-l'autorité qui a saisi le comité, ou son représentant, à présenter, si elle le souhaite, des observations orales.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-14
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 396 nonies
-
-Lorsque le comité est saisi, le secrétariat invite le contribuable par lettre recommandée avec avis de réception à produire,
-dans un délai de trente jours, les observations écrites que celui-ci juge utiles de présenter à l'appui de sa demande de
-transaction ou de remise.
-
-Le secrétariat informe le contribuable, par lettre recommandée avec avis de réception [*condition de forme*], de la date à
-laquelle l'affaire sera examinée par le comité, quinze jours au moins avant cette date, ainsi que de la possibilité qu'il a
-de présenter des observations orales à cette séance.
-
-Le contribuable est en outre informé par le secrétariat de la faculté qui lui est offerte de se faire assister ou représenter
-par un conseil ou un représentant de son choix pour présenter ses observations écrites ou orales.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R247-12 (al. 1, 2 du CGIAN2 396 nonies)
-	  - Livre des procédures fiscales R247-13 (al. 2 du CGIAN2 396 nonies)
-
-
-###### Article 396 octies
-
-Le comité est saisi par l'autorité habilitée à prendre la décision de transaction ou de remise.
-
-Cette autorité adresse au comité le dossier de l'affaire accompagné de ses observations.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-12
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 396 quaterdecies
 
@@ -20881,24 +19965,6 @@ comporte l'indication qu'elle a été prise après avis du comité.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 396 quindecies
-
-Pour l'exécution des enquêtes prévues à l'article 2026 du code général des impôts, le comité fait appel aux corps ou services
-habilités à contrôler l'activité des services extérieurs de la direction générale des impôts.
-
-Il peut demander au directeur général des impôts de désigner des agents à cette fin.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2026
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 396 terdecies
 
 Les séances du comité et des sections ne sont pas publiques. Le comité et ses sections délibèrent en dehors de la présence de
@@ -20913,82 +19979,6 @@ l'autorité qui l'a saisi et du contribuable.
 	**Abrogé par**:
 
 	  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 juillet 1984
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-## DROIT DE COMMUNICATION.
-
-###### Article 406 bis
-
-Sous réserve des dispositions de l'article 409, seuls les fonctionnaires titulaires ou stagiaires appartenant à des corps des
-catégories A et B peuvent, dans le ressort territorial du service auquel ils sont affectés, exercer le droit de communication
-prévu aux articles 1987, 1991, 1993, 1995, 2001 ter et 2003 du code général des impôts; toutefois, ce droit peut être exercé
-par les fonctionnaires ayant le grade d'agent de constatation ou d'assiette lorsqu'ils agissent sur ordre écrit d'un agent
-ayant au moins le grade de contrôleur; cet ordre, qui doit être présenté au contribuable, précise le nom du ou des
-contribuables intéressés.
-
-En outre, les fonctionnaires qui ont compétence pour procéder au contrôle d'une déclaration de revenu global ou à la
-vérification de la situation fiscale d'une exploitation ou d'une entreprise, ou de celle qui résulte d'une activité
-professionnelle, peuvent, pour les besoins de ce contrôle ou de cette vérification, exercer le droit de communication prévu
-aux articles énumérés à l'alinéa précédent à l'égard de toute personne ou organisme soumis à l'exercice de ce droit.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1987
-	  - CGI 1991
-	  - CGI 1993
-	  - CGI 1995
-	  - CGI 2001 ter
-	  - CGI 2003
-	  - CGIAN2 409
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R81-1 (al. 1 du CGIAN2 406 bis)
-	  - Livre des procédures fiscales R81-2 (al. 2 du CGIAN2 406 bis)
-
-
-###### Article 407
-
-Quiconque fait commerce habituel de recueillir les offres et les demandes de valeurs mobilières doit, à toute réquisition des
-agents de la direction générale des impôts, représenter les bordereaux d'agents de change ou faire connaître les numéros et
-les dates des bordereaux ainsi que les noms des agents de change de qui ils émanent.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R94-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-## COMPETENCE DES FONCTIONNAIRES DE LA DIRECTION GENERALE DES IMPOTS.
-
-###### Article 409
-
-Lorsque les besoins du service le requièrent et qu'il n'existe aucun fonctionnaire apte à exercer les fonctions mentionnées
-aux articles 376, 406 bis et 408, celles-ci peuvent être confiées par intérim à d'anciens fonctionnaires des mêmes catégories
-ou grades.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 376
-	  - CGIAN2 406 bis
-	  - CGIAN2 408
 
 	**Liens**:
 
