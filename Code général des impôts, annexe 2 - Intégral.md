@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-05-05
+Version Consolidée au 1988-05-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5574,6 +5574,76 @@ l'entreprise.
 
 ##### II : Demande d'exonération.
 
+###### Article 140 C
+
+La demande d'exonération, rédigée sur des imprimés d'un modèle agréé, doit être jointe à la déclaration accompagnée, le cas
+échéant, du reçu délivré par l'organisme bénéficiaire des versements.
+
+Le receveur des impôts délivre récépissé de la demande d'exonération.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-517 1988-05-04 art. 1 JORF 6 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 140 D
+
+La demande indique :
+
+1° Le nom et l'adresse de l'employeur ;
+
+2° La partie du salaire des apprentis donnant lieu à exonération, le montant des versements effectués aux centres de
+formation d'apprentis dans la limite prévue à l'article 140 K, avec le nom et l'adresse des bénéficiaires des versements ;
+
+3° L'effectif des salariés et éventuellement celui des apprentis de l'entreprise ;
+
+4° Le montant global des salaires déclaré en application du 1° de l'article 140 A ;
+
+5° Les conditions dans lesquelles l'employeur organise lui-même, ou avec d'autres entreprises, les premières formations
+technologiques et professionnelles, et notamment l'apprentissage, ainsi que la nature, avec les justifications appropriées,
+des charges supportées à ce titre, telles qu'elles sont définies à l'article 5 du décret n° 72-283 du 12 avril 1972 (1) ;
+
+6° La nature et le montant des autres dépenses énumérées au même article avec le nom et l'adresse des bénéficiaires ;
+
+7° S'il y a lieu, le montant des subventions, cotisations ou impositions versées à des chambres syndicales, à des chambres de
+commerce et d'industrie, à des chambres de métiers, à des chambres d'agriculture ou à toutes associations consacrant une
+partie de leurs ressources à des dépenses entrant dans la prévision de l'article 5 précité.
+
+La demande est accompagnée des reçus délivrés par l'organisme bénéficiaire des versements.
+
+(1) Décret modifié par le décret n° 74-32 du 15 janvier 1974 (J.O. du 18).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 140 K, 140 A
+	  - Décret n°72-283 du 12 avril 1972 - art. 5 (M)
+	  - Décret n°74-32 1974-01-15
+
+	**Modifié par**:
+
+	  - Décret n°88-517 1988-05-04 art. 2 JORF 6 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 140 E
 
 Le reçu de l'organisme bénéficiaire des versements est daté du jour où le versement a été fait; il est extrait d'un carnet à
@@ -5826,6 +5896,39 @@ d'outre-mer.
 Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, le taux de la taxe est fixé à 0,10 % des salaires versés au
 cours de l'année.
 
+
+
+###### Article 140 N
+
+Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, la demande d'exonération indique :
+
+1° Le nom et l'adresse de l'employeur qui demande l'exonération ;
+
+2° La partie du salaire des apprentis donnant lieu à exonération, le montant des versements effectués aux centres de
+formation d'apprentis dans la limite prévue à l'article 140 K, avec le nom et l'adresse des bénéficiaires des versements ;
+
+3° L'effectif des salariés autres que les apprentis et le nombre des apprentis employés dans les établissements situés dans
+ces départements ;
+
+4° Le montant global des salaires versés au titre de ces établissements déclaré en application du 1° de l'article 140 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 140 K, 140 A
+
+	**Modifié par**:
+
+	  - Décret n°88-518 1988-05-04 art. 1 JORF 6 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
 
 
 #### Chapitre III : Taxe sur les salaires
@@ -17790,6 +17893,48 @@ la direction générale des impôts.
 	  - Décret n°82-1213 du 30 décembre 1982 - art. 4 (P) JORF 4 JANVIER 1983
 
 
+###### Article 361
+
+" Le montant maximum de la taxe à laquelle sont soumis les produits visés aux 1° et 2° de l'article 359 est fixé à :
+
+" 0,80 F par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
+
+" 1,10 F par hectolitre :
+
+" De jus de pommes à cidre et de poires à poiré et de moûts de pommes et de poires ;
+
+" De cidre aromatisé ou non à due proportion de cidre contenu dans le produit fini ;
+
+" De fermenté de pommes aromatisé ou non à due proportion de fermenté de pommes contenu dans le produit fini ;
+
+" De poiré ;
+
+" De fermenté de poires ;
+
+" 20 F par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré et d'apéritifs à base de cidre et de
+poiré.
+
+" Un arrêté des ministres chargés de l'économie et des finances, du budget et de l'agriculture fixe dans la limite du montant
+maximum le taux applicable (1) à chaque catégorie de produits. "
+
+(1) Annexe IV, art. 159 AM.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 359 1°, 2°
+	  - CGIAN4 159 AM
+
+	**Modifié par**:
+
+	  - Décret n°88-576 du 6 mai 1988 - art. 5 (V) JORF 6 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 #### Chapitre VII : Taxe parafiscale pour le financement de certains organismes interprofessionnels de vins.
 
 ###### Article 361 bis
@@ -20311,87 +20456,6 @@ liste vaut indication expresse au sens du deuxième alinéa de l'article 1728 du
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
 
 
-#### TAXE D'APPRENTISSAGE.
-
-###### Article 140 C
-
-La demande d'exonération [*de taxe d'apprentissage*], rédigée sur des imprimés d'un modèle agréé, doit être jointe à la
-déclaration accompagnée, le cas échéant, du reçu délivré par l'organisme bénéficiaire des versements.
-
-Lorsque la demande d'exonération concerne plusieurs établissements, des états distincts sont présentés pour chacun d'eux.
-Le receveur des impôts délivre récépissé de la demande d'exonération.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 140 D
-
-La demande indique :
-
-1o Le nom et l'adresse de l'employeur;
-
-2o La partie du salaire des apprentis donnant lieu à exonération, le montant des versements effectués aux centres de
-formation d'apprentis dans la limite prévue à l'article 140 K, avec le nom et l'adresse des bénéficiaires des versements;
-
-3o L'effectif des salariés et éventuellement celui des apprentis de l'entreprise;
-
-4o La ventilation, par établissement, du montant des salaires déclaré;
-
-5o Les conditions dans lesquelles l'employeur organise lui-même, ou avec d'autres entreprises, les premières formations
-technologiques et professionnelles, et notamment l'apprentissage, ainsi que la nature, avec les justifications appropriées,
-des charges supportées à ce titre, telles qu'elles sont définies à l'article 5 du décret no 72-283 du 12 avril 1972 (1);
-
-6o La nature et le montant des autres dépenses énumérées au même article avec le nom et l'adresse des bénéficiaires;
-
-7o S'il y a lieu, le montant des subventions, cotisations ou impositions versées à des chambres syndicales, à des chambres de
-commerce et d'industrie, à des chambres de métiers, à des chambres d'agriculture ou à toutes associations consacrant une
-partie de leurs ressources à des dépenses entrant dans la prévision de l'article 5 précité.
-
-La demande est accompagnée des reçus délivrés par l'organisme bénéficiaire des versements.
-
-1) Décret modifié par le décret no 74-32 du 15 janvier 1974 (J.O. du 18).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 140 K
-	  - Décret n°72-283 du 12 avril 1972 - art. 5 (M)
-	  - Décret n°74-32 1974-01-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 140 N
-
-Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, la demande d'exonération indique [*mentions*] :
-
-1o Le nom et l'adresse de l'employeur qui demande l'exonération;
-
-2o La partie du salaire des apprentis donnant lieu à exonération, le montant des versements effectués aux centres de
-formation d'apprentis dans la limite prévue à l'article 140 K, avec le nom et l'adresse des bénéficiaires des versements;
-
-3o L'effectif des salariés et éventuellement celui des apprentis de l'entreprise;
-
-4o La ventilation, par établissement, du montant des salaires déclaré.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 140 K
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 #### TAXE SUR LES ENCOURS DE CREDITS.
 
 ###### Article 163 A
@@ -21522,36 +21586,6 @@ Marne, Somme et Yonne.
 	**Cite**:
 
 	  - CGI 358
-
-	**Modifié par**:
-
-	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
-###### Article 361
-
-Le taux maximum de la taxe est fixé à :
-
-0,80 F par quintal de fruits à cidre et à poiré;
-
-1,10 F par hectolitre de cidre et de poiré ou par hectolitre de moûts de pommes et de poires;
-
-20 F par hectolitre d'alcool pur pour le calvados et les eaux-de-vie de cidre et de poiré;
-
-Un arrêté du ministre de l'économie et des finances, du ministre chargé du budget et du ministre de l'agriculture fixe dans
-la limite de ce taux maximum le taux applicable (1).
-
-(1) Annexe IV, art. 159 AM.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 159 AM
 
 	**Modifié par**:
 
