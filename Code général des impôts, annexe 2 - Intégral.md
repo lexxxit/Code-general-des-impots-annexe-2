@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1987-12-31
+Version Consolidée au 1988-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9610,6 +9610,37 @@ demande des assujettis. Le remboursement porte sur le crédit de taxe déductibl
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
 
 
+###### Article 242-0 B
+
+Pour les assujettis dont les déclarations de chiffre d'affaires ont fait apparaître des crédits de taxe déductible en 1971,
+le remboursement prévu à l'article 242-0 A est limité à la fraction du crédit excédant un crédit de référence. Ce crédit de
+référence est égal aux trois quarts du quotient obtenu en divisant la somme des crédits figurant sur les déclarations
+relatives aux affaires de 1971 par le nombre total de déclarations déposées au titre de la même année [*calcul*].
+
+Les dispositions du présent article ne s'appliquent plus aux demandes de remboursement présentées à compter du 1er janvier
+1988.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242-0 A
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 25 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Modifications incorporées à la date du 18 août 1993
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993
+
+
 ###### Article 242-0 C
 
 Les demandes de remboursement doivent être déposées au cours du mois de janvier [*date*] et porter sur un montant au moins
@@ -9629,6 +9660,37 @@ porter sur un montant au moins égal à 5.000 F.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 242-0 D
+
+1° Pour les assujettis placés sous le régime simplifié d'imposition, le crédit de taxe déductible résulte résultent des
+énonciations de leur déclaration annuelle. Les demandes de remboursement annuel doivent être déposées avec cette déclaration.
+Les remboursements trimestriels ont un caractère provisionnel et doivent être demandés au cours du mois suivant le trimestre
+considéré ; ils donnent lieu à régularisation annuelle.
+
+2° Pour les assujettis placés sous le régime du forfait, le crédit de taxe déductible est déterminé lors de la conclusion du
+forfait. La demande de remboursement est déposée au cours de l'année civile suivant celle au titre de laquelle le crédit de
+taxe déductible est déterminé. Il s'y ajoute, le cas échéant, le crédit résultant de la déduction complémentaire visée à
+l'article 204.
+
+3. Pour les assujettis placés sous le régime simplifié des exploitants agricoles, autres que ceux qui ont opté pour le régime
+des déclarations trimestrielles, le crédit de taxe déductible résulte des énonciations de leur déclaration annuelle. La
+demande de remboursement doit être déposée avec cette déclaration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 204
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 25 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 242-0 E
@@ -20738,59 +20800,6 @@ L. 18 et L. 20 du code des débits de boissons et des mesures contre l'alcoolism
 	**Modifié par**:
 
 	  - Décret n°79-1163 du 29 décembre 1979 - art. 26 (V) JORF 31 DECEMBRE 1979
-
-
-###### Article 242-0 B
-
-Pour les assujettis dont les déclarations de chiffre d'affaires ont fait apparaître des crédits de taxe déductible en 1971,
-le remboursement prévu à l'article 242-0 A est limité à la fraction du crédit excédant un crédit de référence. Ce crédit de
-référence est égal aux trois quarts du quotient obtenu en divisant la somme des crédits figurant sur les déclarations
-relatives aux affaires de 1971 par le nombre total de déclarations déposées au titre de la même année [*calcul*] (1).
-
-(1) Les agriculteurs placés sous le régime simplifié d'imposition peuvent obtenir le remboursement d'une nouvelle fraction de
-leur crédit de taxe déductible au 31 décembre 1971, conformément aux dispositions des articles 1er et 2 de la loi n° 74-881
-du 24 octobre 1974 (J.O. du 25), de l'arrêté du 29 octobre 1974 (J.O. du 1er novembre) et de l'article 3 de la loi n° 75-408
-du 29 mai 1975 (J.O. du 30).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1974-10-24
-	  - CGIAN2 242-0 A
-	  - Loi n°74-881 1974-10-24 ART. 1, ART. 2
-	  - Loi n°75-408 du 29 mai 1975 - art. 3, v. init.
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 242-0 D
-
-1° Pour les assujettis placés sous le régime simplifié d'imposition, le crédit de taxe déductible et le crédit de référence
-résultent des énonciations de leur déclaration annuelle. Les demandes de remboursement annuel doivent être déposées avec
-cette déclaration. Les remboursements trimestriels ont un caractère provisionnel et doivent être demandés au cours du mois
-suivant le trimestre considéré ; ils donnent lieu à régularisation annuelle.
-
-2° Pour les assujettis placés sous le régime du forfait, le crédit de taxe déductible et le crédit de référence sont
-déterminés lors de la conclusion du forfait. La demande de remboursement est déposée au cours de l'année civile suivant celle
-au titre de laquelle le crédit de taxe déductible est déterminé. Il s'y ajoute, le cas échéant, le crédit résultant de la
-déduction complémentaire visée à l'article 204.
-
-3. Pour les assujettis placés sous le régime simplifié des exploitants agricoles, autres que ceux qui ont opté pour le régime
-des déclarations trimestrielles, le crédit de taxe déductible et le crédit de référence résultent des énonciations de leur
-déclaration annuelle. La demande de remboursement doit être déposée avec cette déclaration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 204
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 242-0 F
