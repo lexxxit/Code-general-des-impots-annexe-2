@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-01-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9510,6 +9510,15 @@ l'article 238 bis-0 A du code général des imp<cb>ts, publie un avis au Journal
 informe les entreprises susceptibles de bénéficier de la réduction d'impot prévue par le même article qu'elles peuvent
 présenter une offre de versement en faveur de l'achat de ce bien.
 
+Lorsque l'acquisition par l'Etat d'un bien culturel proposé à la vente présente un intérêt majeur pour le patrimoine national
+du point de vue de l'histoire, de l'art ou de l'archéologie au sens du deuxième alinéa de l'article 238 bis-0 A, le ministre
+chargé de la culture saisit la commission consultative des trésors nationaux mentionnée à l'article 5 du décret n° 93-124 du
+29 janvier 1993 relatif aux biens culturels soumis à certaines restrictions de circulation, afin que celle-ci se prononce sur
+l'intérêt de l'acquisition du bien et sur la valeur de ce dernier. S'il estime que l'acquisition de ce bien peut donner lieu
+au versement mentionné au deuxième alinéa de l'article 238 bis-0 A précité et lorsque le prix de cession de ce bien fait
+l'objet d'un accord entre l'Etat et le propriétaire, le ministre chargé de la culture publie un avis au Journal officiel de
+la République française selon les modalités fixées au premier alinéa du présent article.
+
 </cb>
 
 **Liens relatifs à cet article**
@@ -9518,14 +9527,15 @@ présenter une offre de versement en faveur de l'achat de ce bien.
 
 	  - CGI 238 bis-0 A
 	  - Loi n°92-1477 1992-12-31 art. 9-1
+	  - Décret n°93-124 1993-01-29 art. 5
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+	  - Décret n°2004-63 du 14 janvier 2004 - art. 1 () JORF 16 janvier 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 171 BB
