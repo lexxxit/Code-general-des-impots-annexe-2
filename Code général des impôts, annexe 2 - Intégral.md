@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2000-08-04
+Version Consolidée au 2000-09-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7987,16 +7987,19 @@ l'immobilisation,
 
 A la valeur d'entrée affectée d'un indice exprimant les variations du niveau général des prix.
 
-Les sociétés qui procèdent à la réévaluation doivent, sans préjudice des dispositions de l'article 341 de la loi du 24
-juillet 1966 sur les sociétés commerciales, fournir des informations sur les techniques appliquées pour la réévaluation des
-différentes catégories de biens. Les sociétés qui sont tenues de publier leurs comptes annuels sont également tenues de
-publier ces informations.
+Les sociétés qui procèdent à la réévaluation doivent, sans préjudice des dispositions de l'article L. 232-6 du code de
+commerce, fournir des informations sur les techniques appliquées pour la réévaluation des différentes catégories de biens.
+Les sociétés qui sont tenues de publier leurs comptes annuels sont également tenues de publier ces informations.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+
 	**Cite**:
 
-	  - Loi n°66-537 1966-07-24 ART. 341
+	  - Code de commerce. - art. L232-6 (V)
 
 
 ###### Article 171 octies A
@@ -14419,37 +14422,6 @@ tabac présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
-
-
-##### I : Régime économique.
-
-###### Article 278
-
-Le fabricant tient dans chaque fabrique et lieu de stockage une comptabilité matières qui doit indiquer :
-
-a les quantités et variétés de tabacs bruts ou semi-ouvrés ainsi que les différents autres produits mis en oeuvre dans la
-fabrication des tabacs manufacturés ;
-
-b les quantités de tabacs manufacturés fabriquées et livrées, détaillées par variété de produits avec indication des
-références de vente au détail, par mois de fabrication et de livraison ;
-
-c les quantités de tabacs manufacturés détenues en stock en fin de mois.
-
-La comptabilité est présentée à toute réquisition des agents de l'administration des douanes et droits indirects.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°96-891 du 11 octobre 1996 - art. 3 () JORF 12 octobre 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
 
 
 #### Chapitre II : Tabacs
