@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-09-21
+Version Consolidée au 1988-11-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -20805,41 +20805,6 @@ exerce, en droit ou en fait, directement ou par personne interposée et sous que
 ## IMPOTS D'ETAT
 
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES
-
-#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*
-
-##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.
-
-###### Article 134 bis
-
-Par exception aux dispositions de la présente section, le résultat des exploitations de recherche et de production
-d'hydrocarbures liquides ou gazeux est calculé en retranchant du résultat obtenu avant déduction des versements, de quelque
-nature qu'ils soient, au profit des Etats et territoires mentionnés à l'article 111 l'excédent desdits versements sur le
-résultat déterminé après déduction de ces derniers.
-
-Les versements effectués à chaque Etat ou territoire peuvent être imputés sur le montant de l'impôt sur les sociétés à
-concurrence de l'impôt qui frapperait isolément des exploitations situées dans un même Etat ou territoire (1).
-
-(1) Dispositions applicables aux exercices clos après le 31 décembre 1981 [*date d'effet*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 111
-
-	**Créé par**:
-
-	  - Décret n°81-381 du 21 avril 1981 - art. 1 () JORF 22 AVRIL 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Abrogé par**:
-
-	  - Décret n°88-1052 du 18 novembre 1988 - art. 1 (V) JORF 22 novembre 1988
-
 
 #### TAXE SUR LES ENCOURS DE CREDITS.
 
