@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1981-09-20
+Version Consolidée au 1981-10-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17760,10 +17760,10 @@ d'application de cette disposition.
 
 ###### Article 345
 
-Il est institué jusqu'au 31 décembre 1980 [*date limite*] au profit de l'association dite comité professionnel interrégional
-de l'horlogerie ainsi que du centre technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de
-vente, de livraison ou d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume,
-définis à l'article 346, réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
+Il est institué jusqu'au 31 décembre 1982 [*date limite*] au profit du comité professionnel de développement de l'horlogerie
+ainsi que du centre technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de vente, de livraison
+ou d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume, définis à l'article
+346, réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
 
 Cette taxe parafiscale ne s'applique pas aux articles d'occasion, ni aux articles exportés. Sa perception sur les articles
 importés de la Communauté économique européenne [*CEE*] donne lieu à remboursement.
@@ -17776,11 +17776,11 @@ importés de la Communauté économique européenne [*CEE*] donne lieu à rembou
 
 	**Modifié par**:
 
-	  - Décret n°80-329 1980-05-07 ART. 2 JORF 10 MAI 1980
+	  - Décret n°81-903 1981-10-05 ART. 1, ART. 2 JORF 7 OCTOBRE 1981
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-881 1982-10-15
 
 
 ###### Article 346
@@ -17817,8 +17817,8 @@ de commutation),     - des appareils destinés à un tableau ou une planche de b
 ###### Article 347
 
 Le taux de la taxe est fixé par un arrêté conjoint du ministre chargé de l'économie et des finances et du ministre de
-l'industrie et de la recherche, dans la limite de 0,80 % de la valeur de vente pour l'association dite comité professionnel
-interrégional de l'horlogerie et de 0,30 % de la valeur de vente pour le centre technique de l'industrie horlogère (1).
+l'industrie et de la recherche, dans la limite de 0,80 % de la valeur de vente pour le comité professionnel de développement
+de l'horlogerie et de 0,30 % de la valeur de vente pour le centre technique de l'industrie horlogère (1).
 
 (1) Annexe IV, art. 159 AL bis.
 
@@ -17830,11 +17830,11 @@ interrégional de l'horlogerie et de 0,30 % de la valeur de vente pour le centre
 
 	**Modifié par**:
 
-	  - Décret n°80-329 1980-05-07 ART. 2 JORF 10 MAI 1980
+	  - Décret n°81-903 1981-10-05 ART. 1, ART. 3 JORF 7 OCTOBRE 1981
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-881 1982-10-15
 
 
 ###### Article 350
