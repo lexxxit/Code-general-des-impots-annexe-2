@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1987-02-06
+Version Consolidée au 1987-04-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13405,6 +13405,184 @@ départements producteurs.
 
 ##### Section I : Taxe locale d'équipement
 
+###### Article 317 quater
+
+Dans les zones d'aménagement concerté, l'exclusion de la taxe locale d'équipement prévue au 2° du I de l'article 1585 C du
+code général des impôts est subordonnée à la condition que soit pris en charge par les constructeurs au moins le coût des
+équipements ci-après :
+
+1° Dans le cas des zones d'aménagement concerté autres que de rénovation urbaine :
+
+a) Les voies intérieures à la zone qui n'assurent pas la circulation de secteur à secteur ainsi que les réseaux non concédés
+qui leur sont rattachés;
+
+b) Les espaces verts, aires de jeux et promenades correspondant aux seuls besoins des habitants ou des usagers de chaque
+secteur;
+
+c) Les aires de stationnement correspondant aux seuls besoins des habitants ou des usagers de chaque secteur.
+
+2° Dans le cas de rénovation urbaine :
+
+a) Les voies d'accès aux immeubles inclus dans le périmètre de rénovation et les réseaux non concédés qui leur sont
+rattachés;
+
+b) Les espaces verts, aires de jeux ou promenades correspondant aux seuls besoins des habitants des immeubles concernés;
+
+c) Les aires de stationnement qui correspondent aux seuls besoins des habitants des immeubles concernés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1585 C I 2°
+
+	**Modifié par**:
+
+	  - Décret n°87-285 du 22 avril 1987 - art. 6 (V) JORF 25 avril 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 317 septies
+
+Est prise en compte pour l'assiette de la taxe locale d'équipement la surface hors oeuvre nette telle qu'elle est définie à
+l'article R. 112-2 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-285 du 22 avril 1987 - art. 4 (V) JORF 25 avril 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 317 sexies
+
+I. Pour la détermination de l'assiette de la taxe locale d'équipement, les constructions sont réparties, au sens des articles
+1585 D et 1585 F du code général des impôts, entre les sept catégories suivantes :
+
+Catégories / Valeur par mètre carré de plancher hors-oeuvre.
+
+1° Constructions légères non agricoles et non utilisables pour l'habitation y compris les hangars autres que ceux qui sont
+mentionnés au 3° ci-dessous / 270.
+
+2° Locaux des exploitations agricoles à usage d'habitation des exploitants et de leur personnel :
+
+Autres locaux des exploitations agricoles intéressant la production agricole ou une activité annexe de cette production ;
+
+Bâtiments affectés aux activités de conditionnement et de transformation des coopératives agricoles, viticoles, horticoles,
+ostréicoles et autres / 500.
+
+3° Entrepôts et hangars faisant l'objet d'une exploitation commerciale, industrielle ou artisanale :
+
+Garages et aires de stationnement couvertes faisant l'objet d'une exploitation commerciale ou artisanale ;
+
+Locaux à usage industriel ou artisanal et bureaux y attenant ;
+
+Locaux des villages de vacances et des campings / 800.
+
+4° Locaux d'habitation et leurs annexes construits par les sociétés immobilières créées en application de la loi n° 46-860 du
+30 avril 1946 :
+
+Foyers-hôtels pour travailleurs ;
+
+Locaux d'habitation et leurs annexes bénéficiant d'un prêt aidé à l'accession à la propriété ou d'un prêt locatif aidé ;
+
+Immeubles d'habitation collectifs remplissant les conditions nécessaires à l'octroi de prêts aidés  à l'accession à la
+propriété / 700.
+
+5° Locaux à usage d'habitation principale et leurs annexes bénéficiant d'un prêt conventionné ou remplissant les conditions
+nécessaires à l'octroi d'un tel prêt [*(1)*] / 1.000.
+
+6° Parties des bâtiments hôteliers destinés à l'hébergement des clients / 1.400.
+
+7° Autres constructions soumises à la réglementation du permis de construire / 1.900
+
+Les valeurs définies ci-dessus sont fixées par référence à l'indice du coût de la construction publié par l'Institut national
+de la statistique et des études économiques pour le deuxième trimestre 1986, soit l'indice 859.
+
+Elles sont modifiées comme il est prévu à l'article 1585-D-I du code général des impôts, au 1er novembre de chaque année, en
+fonction du dernier indice du coût de la construction établi par l'Institut national de la statistique et des études
+économiques et publié au Journal officiel.
+
+Les valeurs ainsi modifiées sont arrondies à la dizaine de francs inférieure. Elles sont applicables aux constructions pour
+lesquelles le permis de construire a été notifié ou tacitement délivré, ou, s'il s'agit de constructions soumises à la
+déclaration prévue à l'article L. 422-2 du code de l'urbanisme, pour lesquelles le délai d'opposition dont, en vertu de ce
+même article, dispose l'autorité compétente en matière de permis de construire, est venu à expiration, postérieurement au 1er
+novembre de chaque année et antérieurement au 1er novembre de l'année suivante.
+
+Ces valeurs forfaitaires sont majorées de 10 p. 100 dans les communes de la région d'Ile-de-France, telle qu'elle est définie
+à l'article 1er de la loi n° 76-394 du 6 mai 1976.
+
+II. A défaut de délibération du conseil municipal fixant le taux de la catégorie 1, le taux qui est applicable à cette
+catégorie est celui qui a été fixé antérieurement à la publication du décret n° 81-620 du 20 mai 1981 relatif à la taxe
+locale d'équipement pour la catégorie 2.
+
+Pour les autres catégories, en l'absence de délibération du conseil municipal ou de l'organe délibérant de l'établissement
+public groupant plusieurs communes, les taux fixés respectivement pour les catégories correspondantes antérieurement à la
+publication du décret précité s'appliquent sans modification.
+
+III. Afin de bénéficier du classement en 4è catégorie, l'intéressé doit fournir au responsable du service de l'Etat chargé de
+l'urbanisme dans le département ou, en cas d'application de l'article R. 421-21 du code de l'urbanisme, au maire :
+
+- une attestation de l'organisme de financement précisant que le prêt aidé à l'accession à la propriété ou le prêt locatif
+aidé a été octroyé ;
+
+- ou, pour les immeubles d'habitation collectifs, une attestation que les constructions satisfont aux conditions nécessaires
+à l'octroi de tels prêts.
+
+Cette attestation doit être remise à l'autorité ci-dessus désignée dans le délai de quinze mois suivant la notification du
+permis de construire, sa délivrance tacite ou la date à laquelle les travaux soumis à la déclaration prévue à l'article L.
+422-2 du code de l'urbanisme peuvent, en l'absence d'opposition, être exécutés.
+
+A l'expiration de ce délai, faute pour le constructeur de fournir cette attestation, la taxe est liquidée par application de
+la valeur forfaitaire et du taux prévus pour la cinquième catégorie si la construction remplit les conditions nécessaires à
+l'attribution d'un prêt conventionné ; dans le cas contraire, la taxe est liquidée dans les conditions applicables pour la
+septième catégorie.
+
+IV.  Afin de pouvoir bénéficier du classement en cinquième catégorie et, à défaut de la production d'une justification de
+l'octroi d'un prêt conventionné, l'intéressé doit attester au responsable du service de l'Etat chargé de l'urbanisme dans le
+département ou, en cas d'application de l'article R. 421-21 du code de l'urbanisme, au maire, que la construction satisfait
+aux conditions de prix fixées par la réglementation applicable aux prêts conventionnés.
+
+La justification ou l'attestation précitée doit être remise à l'autorité ci-dessus désignée dans le délai de quinze mois
+suivant la notification du permis de construire, sa délivrance tacite ou la date à laquelle les travaux soumis à la
+déclaration prévue à l'article L. 422-2 du code de l'urbanisme peuvent, en l'absence d'opposition, être exécutés.
+
+A l'expiration de ce délai, faute pour le constructeur de produire l'un ou l'autre de ces documents, la taxe est liquidée par
+application de la valeur forfaitaire et du taux prévus pour la septième catégorie [*(1)*].
+
+[*(1) Dispositions applicables aux bâtiments ayant fait l'objet de demandes de permis de construire déposées postérieurement
+à la publication du décret n° 87-285 du 22 avril 1987 (J.O. du 25) relatif à la taxe locale d'équipement.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1585 D 1
+	  - CGI 1585 F
+	  - Loi n°46-860 1946-04-30
+	  - Loi n°76-394 du 6 mai 1976 - art. 1 (M)
+	  - Décret n°81-620 1981-05-20
+	  - Code de l'urbanisme - art. L422-2 (M)
+	  - Code de l'urbanisme - art. R421-21 (M)
+
+	**Modifié par**:
+
+	  - Décret n°87-285 du 22 avril 1987 - art. 1 (V) JORF 25 avril 1987
+	  - Décret n°87-285 du 22 avril 1987 - art. 2 (V) JORF 25 avril 1987
+	  - Décret n°87-285 du 22 avril 1987 - art. 3 (V) JORF 25 avril 1987
+
+
 ###### Article 317 ter
 
 Lorsque le constructeur est une société entrant dans les prévisions de l'article 1655 ter du code général des impôts, il
@@ -17962,169 +18140,6 @@ une activité strictement conforme à leur objet légal ou statutaire.
 	**Codifié par**:
 
 	  - Décret n°86-1086 1986-10-07
-
-
-###### Article 317 quater
-
-Dans les zones d'aménagement concerté, l'exclusion de la taxe locale d'équipement prévue à l'article 1585 C-I-2° du code
-général des impôts est subordonnée à la condition que soit pris en charge par les constructeurs au moins le coût des
-équipements ci-après :
-
-1° Dans le cas des zones d'aménagement concerté autres que de rénovation urbaine :
-
-a  Les voies intérieures à la zone qui n'assurent pas la circulation de secteur à secteur ainsi que les réseaux non concédés
-qui leur sont rattachés;
-
-b  Les espaces verts, aires de jeux et promenades correspondant aux seuls besoins des habitants ou des usagers de chaque
-secteur;
-
-c  Les aires de stationnement correspondant aux seuls besoins des habitants ou des usagers de chaque secteur.
-
-2° Dans le cas de rénovation urbaine :
-
-a  Les voies d'accès aux immeubles inclus dans le périmètre de rénovation et les réseaux non concédés qui leur sont
-rattachés;
-
-b  Les espaces verts, aires de jeux ou promenades correspondant aux seuls besoins des habitants des immeubles concernés;
-
-c  Les aires de stationnement qui correspondent aux seuls besoins des habitants des immeubles concernés.
-
-Dans le cas où la réalisation d'une zone d'aménagement concerté est confiée par la collectivité publique qui a pris
-l'initiative de sa création à une personne publique ou privée, l'exclusion de la taxe locale d'équipement est subordonnée à
-la transmission de la convention qui fixe les modalités de cette réalisation au représentant de l'Etat dans le département ou
-à son délégué dans l'arrondissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1585 C I 2°
-
-	**Modifié par**:
-
-	  - Loi n°82-213 1982-03-02 art. 3 JORF 3 mars 1982
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-
-###### Article 317 quinquies
-
-La liste des zones d'aménagement concerté au sens de l'article L 311-1 du code de l'urbanisme dans lesquelles les
-constructions sont exclues du champ d'application de la taxe locale d'équipement est arrêtée, dans chaque département, par le
-commissaire de la République et publiée au recueil des actes administratifs.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L311-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-
-	**Abrogé par**:
-
-	  - Décret n°87-285 du 22 avril 1987 - art. 6 (V) JORF 25 avril 1987
-
-
-###### Article 317 septies
-
-Ne sont pas prises en compte pour l'assiette de la taxe locale d'équipement les surfaces énumérées à l'article R 112-2 du
-code de l'urbanisme [*surfaces de plancher hors oeuvre*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R112-2
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 317 sexies
-
-I. Pour la détermination de l'assiette de la taxe locale d'équipement, les constructions sont réparties, au sens des articles
-1585 D et 1585 F du code général des impôts, entre les sept catégories suivantes :
-
-Catégories                       Valeur par                                                    mètre carré de
-plancher                                                    hors-oeuvre. 1° Constructions légères non agricoles et non
-utilisables pour l'habitation y compris les  hangars autres que ceux qui sont mentionnés  au 3° ci-dessous.
-270 2° Locaux des exploitations agricoles à usage  d'habitation des exploitants et de leur  personnel :
-
-Autres locaux des exploitations agricoles  intéressant la production agricole ou une  activité annexe de cette production ;
-Bâtiments affectés aux activités de  conditionnement et de transformation des  coopératives agricoles, viticoles,
-horticoles, ostréicoles et autres.                    500 3° Entrepôts et hangars faisant l'objet  d'une exploitation
-commerciale, industrielle  ou artisanale :
-
-Garages et aires de stationnement couvertes  faisant l'objet d'une exploitation  commerciale ou artisanale ; Locaux à usage
-industriel ou artisanal et  bureaux y attenant ; Locaux des villages de vacances et des  campings.
-800
-
-4° Locaux d'habitation et leurs annexes  construits par les sociétés immobilières  créées en application de la loi n° 46-860
-du  30 avril 1946 :
-
-Foyers-hôtels pour travailleurs ; Locaux d'habitation et leurs annexes  bénéficiant d'un prêt aidé à l'accession à la
-propriété ou d'un prêt locatif aidé ; Immeubles d'habitation collectifs remplissant  les conditions nécessaires à l'octroi de
-prêts  aidés à l'accession à la propriété.                   700 5° Locaux d'habitation et leurs annexes  bénéficiant d'un
-prêt conventionné ; Immeubles d'habitation collectifs remplissant  les conditions nécessaires à l'octroi de  prêts
-conventionnés.                                1.000 6° Parties des bâtiments hôteliers destinés  à l'hébergement des clients.
-1.400 7° Autres constructions soumises à la  réglementation du permis de construire.             1.900
-
-Ces valeurs forfaitaires sont majorées de 10 % dans les communes de la région d'Ile-de-France, telle qu'elle est définie à
-l'article 1er de la loi n° 76-394 du 6 mai 1976.
-
-Afin de bénéficier du classement en 4° ou en 5° catégorie, le titulaire du permis de construire doit fournir au responsable
-du service de l'Etat, dans le département, chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du code de
-l'urbanisme, au maire, dans le délai de neuf mois à compter de la notification du permis de construire ou de la délivrance
-tacite de celui-ci, une attestation de l'organisme de financement précisant que le prêt aidé à l'accession à la propriété, le
-prêt locatif aidé ou le prêt conventionné a été octroyé.
-
-A l'expiration de ce délai, faute pour le constructeur de fournir cette attestation, la taxe est liquidée au taux afférent à
-la 7ème catégorie (1).
-
-II. A défaut de délibération du conseil municipal fixant le taux de la catégorie 1, le taux qui est applicable à cette
-catégorie est celui qui a été fixé antérieurement à la publication du décret n° 81-620 du 20 mai 1981 relatif à la taxe
-locale d'équipement pour la catégorie 2.
-
-Pour les autres catégories, en l'absence de délibération du conseil municipal ou de l'organe délibérant de l'établissement
-public groupant plusieurs communes, les taux fixés respectivement pour les catégories correspondantes antérieurement à la
-publication du décret précité s'appliquent sans modification.
-
-(1) Dispositions applicables aux bâtiments ayant fait l'objet de demandes de permis de construire déposées postérieurement à
-la publication du décret n° 81-620 du 20 mai 1981 (J.O. du 21) relatif à la taxe locale d'équipement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1585 D
-	  - CGI 1585 F
-	  - Loi n°46-860 1946-04-30
-	  - Loi n°76-394 du 6 mai 1976 - art. 1 (M)
-	  - Décret n°81-620 1981-05-20
-	  - Code de l'urbanisme R244-1
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 art. 38 JORF 7 janvier 1984, en vigueur le 1er avril 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
 
 
 #### IMPOTS DIRECTS ET TAXES ASSIMILEES.
