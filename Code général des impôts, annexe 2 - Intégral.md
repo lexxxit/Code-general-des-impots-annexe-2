@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1986-03-18
+Version Consolidée au 1986-05-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -532,6 +532,35 @@ au code général des impôts.
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
 	  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+
+
+##### I : Bénéfices industriels et commerciaux
+
+##### 4 bis : Provisions pour risques afférents à certaines opérations d'assurance et de réassurance.
+
+###### Article 16 A
+
+La dotation annuelle de la provision prévue à l'article 39 quinquies G du code général des impôts est limitée à 75 % du
+bénéfice technique de la catégorie des risques concernés.
+
+Le montant global de cette provision ne peut excéder [*plafond*], par rapport au montant des primes ou cotisations, nettes
+d'annulation et de réassurance, émises au cours de l'exercice :
+
+200 % pour l'assurance grêle,
+
+300 % pour les autres risques dus à des éléments naturels,
+
+300 % pour les risques spatiaux,
+
+500 % pour le risque atomique,
+
+500 % pour les risques de responsabilité civile dus à la pollution.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 quinquies G
 
 
 ##### II : Traitements et salaires
@@ -15740,28 +15769,6 @@ exerce, en droit ou en fait, directement ou par personne interposée et sous que
 #### IMPOT SUR LE REVENU
 
 ##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.
-
-###### Article 16 A
-
-La dotation annuelle de la provision prévue à l'article 39 quinquies G du code général des impôts est limitée à 75 % du
-bénéfice technique de la catégorie des risques concernés.
-
-Le montant global de cette provision ne peut excéder [*plafond*], par rapport au montant des primes ou cotisations, nettes
-d'annulation et de réassurance, émises au cours de l'exercice :
-
-200 % pour l'assurance grêle,     300 % pour les autres risques dus à des éléments naturels,     500 % pour le risque
-atomique,     500 % pour les risques de responsabilité civile dus à la pollution.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 quinquies G
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 39 EA
 
