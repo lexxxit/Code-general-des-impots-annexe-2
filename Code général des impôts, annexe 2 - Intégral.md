@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-01-29
+Version Consolidée au 1985-01-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19033,6 +19033,30 @@ la limite de ce taux maximum le taux applicable (1).
 	  - Décret n°82-1213 du 30 décembre 1982 - art. 5 (P) JORF 4 JANVIER 1983
 
 
+###### Article 363 A
+
+Il est institué jusqu'au 31 décembre 1985 [*date limite*] au profit du comité de développement des industries françaises de
+l'ameublement [*organisme bénéficiaire*] une taxe parafiscale sur les ventes, y compris à l'exportation, de meubles et de
+sièges réalisées par les fabricants relevant de la classe 49, à l'exclusion du groupe 49-04, de la nomenclature détaillée des
+produits, approuvée par le décret n° 83-31 du 5 septembre 1983.
+
+Son taux est fixé par arrêté dans la limite de 0,45 % du montant hors taxe des ventes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°83-831 1983-09-05
+
+	**Modifié par**:
+
+	  - Décret n°85-141 1985-01-30 art. 1 JORF 31 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+
 ###### Article 363 AC
 
 La taxe est perçue par la direction générale des impôts. Elle est établie et recouvrée selon les règles et sous les garanties
@@ -20204,39 +20228,6 @@ développement de l'horlogerie et de 0,25 % de la valeur de vente pour le centre
 	**Codifié par**:
 
 	  - Décret n°85-1007 1985-09-24
-
-
-###### Article 363 A
-
-Il est institué, pour une durée de cinq ans, au profit du comité de développement des industries françaises de l'ameublement
-une taxe parafiscale sur les ventes, y compris à l'exportation, de meubles et de sièges réalisées par les fabricants relevant
-de la classe 49, à l'exclusion du 49-04, des nomenclatures d'activités et de produits approuvées par le décret n° 73-1036 du
-9 novembre 1973.
-
-Son taux est fixé à :
-
-0,5 % du montant hors taxe des ventes du 1er janvier 1983 au 31 mars 1983 ;
-
-0,6 % du montant hors taxe des ventes du 1er avril au 31 décembre 1983 ;
-
-0,5 % du montant hors taxe des ventes en 1984 ;
-
-0,3 % du montant hors taxe des ventes en 1985 et 1986.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 159 AL quater
-	  - Décret n°73-1036 1973-11-09
-
-	**Modifié par**:
-
-	  - Décret n°83-449 1983-06-03 ART. 1 JORF 5 JUIN 1983
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 363 D
