@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-06-04
+Version Consolidée au 1982-06-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10200,6 +10200,39 @@ des locaux professionnels dont ils disposent.
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 310 HG
+
+Pour les contribuables non sédentaires et les contribuables ayant une installation fixe, mentionnés à l'article 1470 du code
+général des impôts, la valeur locative imposable comprend :
+
+1° Celle des biens passibles d'une taxe foncière, dans les conditions fixées au 1° de l'article 1469; ces bases comprennent
+notamment les emplacements fixes sur les marchés utilisés par les intéressés ;
+
+2° Celle des véhicules utilisés principalement à l'activité ambulante, dans les conditions fixées au 3° de l'article 1469
+précité ;
+
+3° Celle des autres biens mobiliers, si les recettes du contribuable excèdent les limites fixées au 4° de ce même article et
+après abattement de 25.000 F ou après application de la décote mentionnée à l'article 1469 B du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1470, 1469 B, 1649
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Modifié par**:
+
+	  - Loi n°82-540 du 28 juin 1982 - art. 15 (V) JORF 29 juin 1982
+
+
 ###### Article 310 HH
 
 Pour les entreprises qui exercent une partie de leur activité en dehors du territoire national et qui disposent en France de
@@ -10462,6 +10495,50 @@ Cette règle est également applicable à la détermination des recettes prises 
 ##### Section III : Règles d'évaluation de la valeur locative des biens imposables
 
 ##### I : Évaluation des propriétés bâties
+
+##### A : Locaux d'habitation ou à usage professionnel
+
+###### Article 310 I
+
+Les coefficients prévus au 1 du III de l'article 1496 du code général des impôts qui doivent être utilisés, à compter du 1er
+janvier 1979, jusqu'à la prochaine actualisation des valeurs locatives foncières des propriétés bâties pour la détermination
+de la base d'imposition à la taxe foncière sur les propriétés bâties des locaux d'habitation ou à usage professionnel loués
+sous le régime de la réglementation édictée par la loi n° 48-1360 du 1er septembre 1948, sont fixés comme suit :
+
+Catégorie II A : 2,83.
+
+Catégorie II B : 2,49.
+
+Catégorie II C : 2,14.
+
+Catégorie III A : 1,93.
+
+Catégorie III B : 1,75.
+
+Catégorie IV : 1,00.
+
+Catégorie des locaux soumis au régime du loyer forfaitaire de l'article 34 de la loi du 1er septembre 1948 : 1,93.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1496 III 1
+	  - Loi n°48-1360 1948-09-01
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Modifié par**:
+
+	  - Loi n°82-540 du 28 juin 1982 - art. 23 (V) JORF 29 juin 1982
+
 
 ##### B : Immobilisations industrielles
 
@@ -15765,56 +15842,6 @@ précédente lorsque sa durée est égale à douze mois mais ne coincide pas ave
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 310 HG
-
-Pour les contribuables non sédentaires et les contribuables ayant une installation fixe, mentionnés à l'article 1470 du code
-général des impôts, la valeur locative imposable comprend :
-
-1° Celle des biens passibles d'une taxe foncière, dans les conditions fixées au 1° de l'article 1469; ces bases comprennent
-notamment les emplacements fixes sur les marchés utilisés par les intéressés;
-
-2° Celle des véhicules utilisés principalement à l'activité ambulante, dans les conditions fixées au 3° de l'article 1469
-précité;
-
-3° Celle des autres biens mobiliers, si les recettes du contribuable excèdent les limites fixées au 4° de ce même article et
-après abattement de 25.000 F [*montant*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1469 1°, 3°, 4°
-	  - CGI 1470
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 310 I
-
-Les coefficients prévus à l'article 1496-III-1 du code général des impôts qui doivent être utilisés, à compter du 1er janvier
-1979 et pour une période de trois ans pour la détermination de la base d'imposition à la taxe foncière sur les propriétés
-bâties des locaux d'habitation ou à usage professionnel loués sous le régime de la réglementation édictée par la loi n°
-48-1360 du 1er septembre 1948, sont fixés comme suit :
-
-Catégorie II A                           2,83        Catégorie II B                           2,49        Catégorie II C
-2,14        Catégorie III A                          1,93        Catégorie III B                          1,75
-Catégorie IV                             1,00        Catégorie des locaux soumis au régime du loyer forfaitaire de l'article
-34 de la loi du 1er septembre 1948                           1,93.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1496 III 1
-	  - Loi n°48-1360 1948-09-01
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ### IMPOSITIONS COMMUNALES
 
 ###### Article 310 HO
@@ -16543,20 +16570,23 @@ La taxe professionnelle ne peut excéder, en 1979, 140 % de la patente établie 
 1980, 160 % de la même patente.
 
 La réduction de taxe ayant résulté en 1980 de l'application du premier alinéa est maintenue en valeur absolue en 1981 pour
-chaque contribuable. Elle sera ensuite diminuée chaque année d'un dixième si elle a été supérieure en 1981 à 5.000 F et à 50
-% de la taxe, et d'un cinquième dans les autres cas.
-
-La réduction sera supprimée lorsqu'elle sera inférieure à 10 % de la taxe.
+chaque contribuable mais elle est supprimée lorsqu'elle est inférieure à 10 % de la taxe. La réduction est ensuite diminuée
+chaque année d'un vingtième si elle a été supérieure en 1981 à 5.000 F et à 50 % de la taxe et d'un dixième dans les autres
+cas.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°81-263 du 18 mars 1981 - art. 5 (V) JORF 22 MARS 1982
+	  - CGIAN2 334
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°82-540 du 28 juin 1982 - art. 2 (V) JORF 29 JUIN 1982
 
 
 ###### Article 327 AC
@@ -19280,14 +19310,23 @@ série unique.
 
 ###### Article 384 A
 
-L'héritier, le donataire ou le légataire qui désire acquitter tout ou partie des droits de mutation dont il est redevable par
-la remise d'oeuvres ou de documents visés à l'article 1716 bis du code général des impôts doit déposer à la recette des
-impôts compétente pour enregistrer l'acte constatant la mutation ou la déclaration de succession, une offre de donation à
-l'Etat précisant le ou les biens qui en font l'objet et, le cas échéant, les conditions auxquelles cette offre est soumise.
-Il en est délivré récépissé.
+I. L'héritier, le donataire, le légataire ou le co-partageant qui désire acquitter tout ou partie des droits de mutation ou
+de partage dont il est redevable par la remise d'oeuvres ou de documents visés à l'article 1716 bis du code général des
+impôts doit déposer à la recette des impôts ou à la conservation des hypothèques compétente pour enregistrer l'acte
+constatant la mutation, le partage ou la déclaration de succession, une offre de dation à l'Etat indiquant la nature et la
+valeur de chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
 
-L'offre de dation en paiement est soumise aux mêmes conditions que celles fixées par l'article 310 G pour l'offre de donation
-des mêmes oeuvres ou documents faite en vue de l'exonération des droits de mutation.
+L'offre de dation en paiement est soumise aux mêmes conditions que celles fixées par les I et II de l'article 310 G pour
+l'offre de donation des mêmes oeuvres ou documents faite en vue de l'exonération des droits de mutation.
+
+II. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter la valeur libératoire
+reconnue au bien offert en paiement des droits.
+
+Il fait connaître son acceptation au ministre de l'économie et des finances, par pli recommandé avec demande d'avis de
+réception.
+
+III. En l'absence de décision notifiée dans le délai d'un an à compter de la date du récépissé de l'offre, celle-ci est
+considérée comme refusée.
 
 **Liens relatifs à cet article**
 
@@ -19296,14 +19335,22 @@ des mêmes oeuvres ou documents faite en vue de l'exonération des droits de mut
 	  - CGI 1716 bis
 	  - CGIAN2 310 G
 
+	**Modifié par**:
+
+	  - Décret n°70-1046 1970-11-10 art. 1, art. 2 JORF 11 novembre 1970
+
 	**Cité par**:
 
 	  - Code du patrimoine. - art. D122-1 (V)
 	  - Code général de la propriété des personnes publ... - art. R1111-3 (V)
 
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 20 juillet 1984
 
 
 #### I bis : Versement pour dépassement du plafond légal de densité (1).
