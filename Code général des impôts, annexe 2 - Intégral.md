@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-12-30
+Version Consolidée au 1984-01-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14468,42 +14468,6 @@ l'application des majorations prévues aux articles 1728 et 1729 du code génér
 
 #### IMPOT SUR LE REVENU
 
-##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.
-
-###### Article 38 bis
-
-I. Les petites et moyennes entreprises placées sous le régime du bénéfice réel avec obligations allégées défini à l'article
-302 septies A bis du code général des impôts souscrivent, avant le 1er avril de chaque année [*date limite*], la déclaration
-prévue à l'article 53 du code général des impôts.
-
-Toutefois, les personnes morales passibles de l'impôt sur les sociétés en vertu de l'article 206 du code général des impôts,
-à l'exception de celles désignées au 5 de l'article précité, et dont l'exercice ne coïncide pas avec l'année civile sont
-tenues de déposer cette déclaration dans les trois mois de la clôture de l'exercice [*délai*].
-
-II. A l'appui de cette déclaration, les entreprises fournissent au lieu et place des documents prévus par l'article 38 bis de
-l'annexe III au code général des impôts, des tableaux abrégés de leurs résultats dont les modèles sont fixés par
-l'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 206 5
-	  - CGI 302 septies A bis
-	  - CGI 53
-	  - CGIAN3 38 bis
-
-	**Modifié par**:
-
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 23 (P) JORF 30 DECEMBRE 1978
-	  - Loi n°80-30 1980-01-18 ART. 10 I, III FINANCES POUR 1980 JORF 19 JANVIER 1980
-	  - Loi n°80-30 du 18 janvier 1980 - art. 10 (P) JORF 19 JANVIER 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
 ##### REVENU GLOBAL.
 
 ###### Article 84
@@ -19438,6 +19402,35 @@ producteurs agricoles.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 368 bis
+
+Les personnes sans domicile ni résidence fixe, mentionnées à l'article 23 du décret n° 70-708 du 31 juillet 1970 relatif à
+l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence
+fixe, sont tenues d'accomplir leurs obligations fiscales auprès des services des impôts dont relève la commune à laquelle
+elles se trouvent rattachées.
+
+Lorsque, pour une même commune, il existe plusieurs services des impôts à compétence territoriale déterminée, les obligations
+fiscales sont accomplies auprès du service désigné par l'administration des impôts.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN2 371
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Cite**:
+
+	  - Décret n°70-708 du 31 juillet 1970 - art. 23 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-45 du 18 janvier 1984 - art. 2 () JORF 24 janvier 1984
 
 
 ###### Article 368 C
