@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-01-11
+Version Consolidée au 1980-01-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -775,6 +775,30 @@ l'article 39 terdecies et à l'article 238 octies dudit code.
 Tout redressement du bénéfice imposable à l'impôt sur les sociétés au titre d'une période sera pris en compte au titre de la
 même période pour le calcul des sommes distribuées.
 
+
+
+##### 2 : Assiette de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés à des personnes qui n'ont pas leur domicile réel ou leur siège en France
+
+###### Article 48
+
+1. La retenue à la source mentionnée au 2 de l'article 119 bis du code général des impôts est liquidée sur le montant brut
+des revenus mis en paiement. 
+
+2. (Abrogé).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-1347 du 31 décembre 1975 - art. 1 () JORF 4 janvier 1976
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 119 bis (V)
 
 
 ##### 4 : Emission d'obligations en France par les organismes étrangers ou internationaux. Régime spécial des titres émis avant le 1er janvier 1987
@@ -3353,6 +3377,34 @@ qui lui sont reprochés et peut fournir toute justification à leur égard.
 
 
 ##### Section III : Imputation de l'impôt sur le revenu (retenue à la source) sur le montant de l'impôt sur les sociétés
+
+###### Article 135
+
+Les personnes morales et associations assujetties à l'impôt sur les sociétés en vertu de l'article 206 du code général des
+impôts, à l'exception de celles désignées au 5 du même article, sont, en ce qui concerne les revenus de valeurs mobilières
+figurant à leur actif, admises à demander l'imputation, sur le montant de l'impôt sur les sociétés dont elles sont
+redevables, de la retenue opérée à la source sur lesdits revenus, dans les conditions et sous les réserves prévues aux 1 et 4
+de l'article 220 et aux deuxième et troisième alinéas du 1 de l'article 223 dudit code et aux articles 136 à 140.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 23 (P) JORF 30 décembre 1978
+	  - Loi n°80-30 1980-01-18 art. 10 I, III Finances pour 1980 JORF 19 janvier 1980
+	  - Loi n°80-30 du 18 janvier 1980 - art. 10 (P) JORF 19 janvier 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 136 (V)
+	  - Code général des impôts, CGI. - art. 206 (V)
+	  - Code général des impôts, CGI. - art. 220 (V)
+	  - Code général des impôts, CGI. - art. 223 (V)
+
 
 ###### Article 136
 
@@ -10556,30 +10608,6 @@ visés aux articles 92 A-2o et 92 B du code général des impôts, en distinguan
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 48
-
-1. La retenue à la source mentionnée à l'article 119 bis-2 du code général des impôts est liquidée sur le montant brut des
-revenus mis en paiement.
-
-Toutefois, en ce qui concerne les tantièmes soumis au prélèvement visé à l'article 117 ter du même code, la base de la
-retenue est constituée par ce montant brut diminué du prélèvement.
-
-2. La retenue à la source visée au 1 n'est pas applicable aux rémunérations et distributions occultes du chef desquelles la
-personne morale distributrice est assujettie à l'impôt sur le revenu en vertu de l'article 9 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 117 ter
-	  - CGI 119 bis 2
-	  - CGI 9
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 58
 
 Les sociétés ou compagnies, agents de change, changeurs, banquiers, escompteurs, officiers publics ou ministériels et toutes
@@ -11130,38 +11158,6 @@ dans le plan d'épargne d'entreprise.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 84
-
-I. Par dérogation aux dispositions de l'article 4 du décret n° 48-1683 du 30 octobre 1948, fixant certaines caractéristiques
-des valeurs mobilières, les coupons ou instruments représentatifs de coupons, contre remise desquels sont opérées les
-distributions de primes à la construction conformes aux prescriptions de l'article 83 sont obligatoirement distincts de ceux
-servant au paiement des dividendes et autres produits des actions ou parts. Ils ne donnent pas lieu à l'établissement des
-relevés prévus aux articles 57 et 58.
-
-II. En cas de distribution soit de primes à la construction ne satisfaisant pas aux conditions exigées à l'article 83, soit
-de sommes ne provenant pas de primes à la construction encaissées par la société, les sommes ou valeurs ainsi réparties sont
-réputées versées à des bénéficiaires non identifiés et soumises au régime défini aux articles 9, 111-c, 169, 187 et 197-IV du
-code général des impôts [*régime des rémunérations occultes*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 111 c
-	  - CGI 169
-	  - CGI 187
-	  - CGI 197 IV
-	  - CGI 9
-	  - CGIAN2 57
-	  - CGIAN2 58
-	  - CGIAN2 83
-	  - Décret n°48-1683 du 30 octobre 1948 - art. 4 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 86
 
 Peuvent bénéficier des dispositions de l'article 85 :
@@ -11619,6 +11615,78 @@ l'application des majorations prévues aux articles 1728 et 1729 du code génér
 
 
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES
+
+#### IMPOT SUR LE REVENU
+
+##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.
+
+###### Article 38 bis
+
+I. Les petites et moyennes entreprises placées sous le régime du bénéfice réel avec obligations allégées défini à l'article
+302 septies A bis du code général des impôts souscrivent, avant le 1er avril de chaque année [*date limite*], la déclaration
+prévue à l'article 53 du code général des impôts.
+
+Toutefois, les personnes morales passibles de l'impôt sur les sociétés en vertu de l'article 206 du code général des impôts,
+à l'exception de celles désignées au 5 de l'article précité, et dont l'exercice ne coïncide pas avec l'année civile sont
+tenues de déposer cette déclaration dans les trois mois de la clôture de l'exercice [*délai*].
+
+II. A l'appui de cette déclaration, les entreprises fournissent au lieu et place des documents prévus par l'article 38 bis de
+l'annexe III au code général des impôts, des tableaux abrégés de leurs résultats dont les modèles sont fixés par
+l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 206 5
+	  - CGI 302 septies A bis
+	  - CGI 53
+	  - CGIAN3 38 bis
+
+	**Modifié par**:
+
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 23 (P) JORF 30 DECEMBRE 1978
+	  - Loi n°80-30 1980-01-18 ART. 10 I, III FINANCES POUR 1980 JORF 19 JANVIER 1980
+	  - Loi n°80-30 du 18 janvier 1980 - art. 10 (P) JORF 19 JANVIER 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+##### REVENU GLOBAL.
+
+###### Article 84
+
+I. Par dérogation aux dispositions de l'article 4 du décret n° 48-1683 du 30 octobre 1948, fixant certaines caractéristiques
+des valeurs mobilières, les coupons ou instruments représentatifs de coupons, contre remise desquels sont opérées les
+distributions de primes à la construction conformes aux prescriptions de l'article 83 sont obligatoirement distincts de ceux
+servant au paiement des dividendes et autres produits des actions ou parts. Ils ne donnent pas lieu à l'établissement des
+relevés prévus aux articles 57 et 58.
+
+II. En cas de distribution soit de primes à la construction ne satisfaisant pas aux conditions exigées à l'article 83, soit
+de sommes ne provenant pas de primes à la construction encaissées par la société, les sommes ou valeurs ainsi réparties sont
+réputées versées à des bénéficiaires non identifiés et soumises au régime des rémunérations et avantages occultes mentionnés
+à l'article 111-c du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 111 c
+	  - CGIAN2 57
+	  - CGIAN2 58
+	  - CGIAN2 83
+	  - Décret n°48-1683 du 30 octobre 1948 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 72 (P) JORF 19 JANVIER 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
 
 #### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*
 
@@ -12115,79 +12183,6 @@ pris effet après le 31 décembre 1978 sont imposées à la taxe sur les encours
 
 	  - HISTO: EDITION 1979-07-01
 	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
-
-
-#### DEPARTEMENTS D'OUTRE-MER *DOM*.
-
-###### Article 164
-
-Les dispositions de l'article 238 bis E-I du code général des impôts sont étendues, sous les mêmes conditions, aux revenus de
-toute nature qui sont assujettis à l'impôt sur le revenu, dans les départements de la Guadeloupe, de la Guyane, de la
-Martinique ou de la Réunion, dans la mesure où les bénéficiaires de ces revenus prendront l'engagement de les investir, soit
-dans la souscription au capital de sociétés dont l'activité sera considérée comme essentielle pour assurer, dans le cadre des
-directives gouvernementales, le développement économique et social desdits départements, soit dans la souscription aux
-emprunts obligataires que ces sociétés seraient autorisées à émettre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis E I
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 JANVIER 1980
-
-
-###### Article 164 A
-
-I. Les entreprises industrielles ou commerciales soumises au régime d'imposition d'après le bénéfice réel doivent, pour
-bénéficier des dispositions de l'article 238 bis H du code général des impôts, présenter une demande d'exonération à
-l'administration (service des impôts), au plus tard à la date d'expiration du délai de déclaration des bénéfices dont
-l'exonération est sollicitée.
-
-II. La demande doit être accompagnée :
-
-- D'une description du programme d'investissements que l'entreprise doit réaliser par l'intermédiaire de la société
-bénéficiaire de la souscription en capital, comportant notamment l'indication, par périodes de douze mois, du volume des
-investissements, des moyens de financement et des créations d'emplois;
-
-- De l'engagement de conserver les titres pendant une période de dix ans au moins.
-
-III. Le ministre de l'économie et des finances statue sur les demandes d'exonération qui se rapportent à un même programme au
-vu de l'avis émis par la commission centrale visée au II de l'article 238 bis H précité, saisie du programme
-d'investissements à réaliser par la société nouvelle.
-
-IV. La souscription au capital de la société nouvelle doit intervenir dans un délai de six mois à compter de la notification
-à l'entreprise de la décision d'exonération [*point de départ*]. Elle ne peut être préalable à cette décision.
-
-V. Il est sursis à l'imposition des bénéfices faisant l'objet de la demande d'exonération jusqu'à la décision du ministre de
-l'économie et des finances.
-
-Les bénéfices pour lesquels l'exonération est accordée doivent être immédiatement inscrits par l'entreprise à un compte
-spécial indisponible pendant la durée de l'engagement prévu au II. Les titres souscrits doivent être individualisés à un
-compte d'actif.
-
-Dans le cas où l'exonération est refusée ou n'est que partielle, les bénéfices sont rapportés, à due concurrence, aux
-résultats de l'exercice au cours duquel ils ont été réalisés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis H
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 JANVIER 1980
 
 
 #### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES.
@@ -12934,7 +12929,7 @@ cas échéant, celle qui n'aurait pas encore été déposée au titre d'une pér
 ###### Article 253
 
 Pour les ventes et apports en société de terrains lotis et de terrains aménagés ou équipés, les redevables ont la faculté de
-renoncer à l'application de la réfaction de 70 % prévue à l'article 266-3 du code général des impôts.
+renoncer à l'application de la réfaction de 30 % prévue à l'article 266-3 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -12942,9 +12937,13 @@ renoncer à l'application de la réfaction de 70 % prévue à l'article 266-3 du
 
 	  - CGI 266 3
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-30 du 18 janvier 1980 - art. 12 () JORF 19 JANVIER 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 255
@@ -13474,14 +13473,15 @@ imposables, les tabacs destinés à l'exportation et les tabacs dits "de vente r
 ###### Article 303
 
 La taxe différentielle sur les véhicules à moteur instituée par l'article 1007-a du code général des impôts est applicable
-aux véhicules automobiles mentionnés au Titre II du Livre 1er du code de la route (deuxième partie) et immatriculés sur le
-territoire métropolitain et dans les départements d'outre-mer.
+aux véhicules automobiles mentionnés au Titre II du Livre 1er du code de la route (deuxième partie) ainsi qu'aux
+motocyclettes, si ces véhicules et motocyclettes sont immatriculés sur le territoire métropolitain et dans les départements
+d'outre-mer [*DOM*].
 
 Toutefois, sont dispensés de la taxe, dans les conditions déterminées par un arrêté du ministre de l'économie et des
 finances, les véhicules dont les propriétaires bénéficient de privilèges diplomatiques ou qui ont fait l'objet d'une
-admission à titre temporaire en franchise d'impôt (1).
+admission à titre temporaire en franchise d'impôt [*exonération*] (1).
 
-1)  Annexe IV, art. 121 T et 121 U. Pour les autres véhicules dispensés de la taxe différentielle, voir art. 1009 du code
+(1) Annexe IV, art. 121 T et 121 U. Pour les autres véhicules dispensés de la taxe différentielle, voir art. 1009 du code
 général des impôts.
 
 **Liens relatifs à cet article**
@@ -13494,36 +13494,40 @@ général des impôts.
 	  - CGIAN4 121 U
 	  - Code de la route R54 A Code de la route R137
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-30 du 18 janvier 1980 - art. 16 (P) JORF 19 JANVIER 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 304
 
 Sont exonérés de la taxe :
 
-1° Les véhicules ayant plus de vingt-cinq ans d'âge;
+1° Les véhicules ayant plus de vingt ans d'âge ou plus de vingt-cinq ans d'âge selon qu'il s'agit de motocyclettes ou
+d'autres véhicules ;
 
 2° Les véhicules mentionnés à l'article R 105 du code de la route, qui sont destinés normalement au transport en commun de
-personnes;
+personnes ;
 
 3° Les véhicules affectés au transport des personnes, bénéficiaires d'une autorisation spéciale de stationnement à des
 emplacements réservés sur la voie publique et dont les conditions de transport sont conformes à un tarif réglementaire, ainsi
-que les taxis collectifs visés à l'article 3-2°-c du décret n° 49-1473 du 14 novembre 1949 modifié;
+que les taxis collectifs visés à l'article 3-2°-c du décret n° 49-1473 du 14 novembre 1949 modifié ;
 
-4° Les véhicules spéciaux dont la liste est fixée par un arrêté du ministre de l'économie et des finances (1);
+4° Les véhicules spéciaux dont la liste est fixée par un arrêté du ministre de l'économie et des finances (1) ;
 
-5° Les véhicules spéciaux utilisés par les infirmes et mutilés;
+5° Les véhicules spéciaux utilisés par les infirmes et mutilés ;
 
 6° (Transféré sous l'article 1009 B du code général des impôts).
 
-7° Les véhicules appartenant aux voyageurs, représentants de commerce et placiers, titulaires de la carte professionnelle
-d'identité instituée par la loi modifiée du 8 octobre 1919, et délivrée, validée ou renouvelée depuis moins d'un an.
+7° Les véhicules appartenant aux voyageurs, représentants de commerce et placiers [*VRP*], titulaires de la carte
+professionnelle d'identité instituée par la loi modifiée du 8 octobre 1919, et délivrée, validée ou renouvelée depuis moins
+d'un an.
 
 L'exonération prévue au 7° est limitée à un seul véhicule par propriétaire.
-
-1) Annexe IV, art. 121 V.
 
 **Liens relatifs à cet article**
 
@@ -13531,21 +13535,25 @@ L'exonération prévue au 7° est limitée à un seul véhicule par propriétair
 
 	  - CGI 1009 B
 	  - CGIAN4 121 V
-	  - Décret n°49-1473 1949-11-14 Art. 3 2° C
+	  - Décret n°49-1473 1949-11-14 ART. 3 2° c
 	  - Code de la route R105
 	  - Loi n°1919-10-08
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
+
+	**Modifié par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 16 (P) JORF 19 JANVIER 1980
 
 
 ###### Article 305
 
-La taxe est annuelle; la période d'imposition s'étend du 1er décembre de chaque année au 30 novembre de l'année suivante.
+La taxe est annuelle ; la période d'imposition s'étend du 1er décembre de chaque année au 30 novembre de l'année suivante.
 
-Pour l'application du tarif prévu à l'article 1007 bis du code général des impôts, l'âge du véhicule se détermine à partir de
-la date de la première mise en circulation. Il s'apprécie au premier jour de la période d'imposition.
+Pour l'application des tarifs prévus à l'article 1007 bis du code général des impôts, l'âge du véhicule se détermine à partir
+de la date de la première mise en circulation. Il s'apprécie au premier jour de la période d'imposition.
 
 **Liens relatifs à cet article**
 
@@ -13553,9 +13561,17 @@ la date de la première mise en circulation. Il s'apprécie au premier jour de l
 
 	  - CGI 1007 bis
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-30 du 18 janvier 1980 - art. 16 (P) JORF 19 JANVIER 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
 ###### Article 306
