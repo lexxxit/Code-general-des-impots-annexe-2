@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-05-31
+Version Consolidée au 1984-06-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9898,6 +9898,33 @@ degrés Celsius.
 	**Cité par**:
 
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+
+
+#### Chapitre I bis : Garantie des matières d'or, d'argent et de platine
+
+###### Article 275 bis A
+
+L'option pour le paiement du droit de garantie lors de la présentation des ouvrages à la marque, prévue à l'article 521 du
+code général des impôts, doit être exercée par les redevables, avant le 15 décembre de chaque année, par lettre recommandée
+avec avis de réception adressée au bureau de garantie dont ils dépendent. Elle est valable pour l'année civile suivante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 521
+
+	**Créé par**:
+
+	  - Décret n°84-423 du 30 mai 1984 - art. 1 (V) JORF 7 juin 1984
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°94-6 1994-01-06 art. 1 JORF 5 janvier 1994, article sans objet
 
 
 #### Chapitre II : Monopoles fiscaux
