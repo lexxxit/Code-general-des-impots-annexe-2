@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2003-08-31
+Version Consolidée au 2003-12-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12395,28 +12395,25 @@ b. des opérations mentionnées au 2 de l'article 242-0 M.
 
 ###### Article 242-0 O
 
-Est remboursée aux assujettis établis hors de la Communauté la taxe sur la valeur ajoutée qui a grevé les services qui leur
-ont été rendus et les biens meubles qu'ils ont acquis ou importés en France au cours de l'année ou du trimestre prévus à
-l'article 242-0 M pour la commercialisation en France de leurs produits imposables ou pour la réalisation d'opérations
-mentionnées au 2 de l'article précité.
-
-Toutefois, les dispositions de l'article 242-0 N sont applicables aux assujettis établis dans un pays ou territoire qui
-accorde des avantages comparables en ce qui concerne les taxes sur le chiffre d'affaires aux assujettis établis en France. La
-liste de ces pays ou territoires est fixée par arrêté du ministre délégué, chargé du budget.
+Les dispositions de l'article 242-0 N sont applicables aux assujettis établis hors de la Communauté européenne à l'exception
+des assujettis établis dans un pays ou territoire qui n'accorde pas d'avantages comparables, en ce qui concerne les taxes sur
+le chiffre d'affaires, aux assujettis établis en France et qui figure sur une liste fixée par arrêté du ministre chargé du
+budget.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 242-0 M, 242-0 N
+	  - CGIAN2 242-0 N
 
 	**Modifié par**:
 
-	  - Décret n°88-255 du 15 mars 1988 - art. 1 (V) JORF 19 mars 1988
+	  - Décret n°2003-1266 du 26 décembre 2003 - art. 1 () JORF 28 décembre 2003
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - SPEC_APPLI: Décret n°2003-1266 du 26 décembre 2003 - art. 2, v. init.
+	  - HISTO: Edition du 1er janvier 2004
 
 	**Cité par**:
 
@@ -12424,35 +12421,26 @@ liste de ces pays ou territoires est fixée par arrêté du ministre délégué,
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 decies (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-1-98
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-2-98
-	  - TXT_ASSOCIE: Instruction 1999-07-15 3D-2-99
-
 
 ###### Article 242-0 P
 
-La taxe sur la valeur ajoutée n'est remboursée en application des articles 242-0 M à 242-0 O que si elle est au moins égale à
-une somme de 25 ou 200 euros, selon que le remboursement a lieu au titre d'une année ou d'un trimestre.
+La taxe sur la valeur ajoutée n'est remboursée en application des articles 242-0 M à 242-0 O et 242-0 U que si elle est au
+moins égale à une somme de 25 ou 200 euros, selon que le remboursement a lieu au titre d'une année ou d'un trimestre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 242-0 M à 242-0 O
+	  - CGIAN2 242-0 M à 242-0 O, 242-0 U
 
 	**Modifié par**:
 
-	  - Décret n°2002-273 du 20 février 2002 - art. 1 () JORF 27 février 2002
+	  - Décret n°2003-1266 du 26 décembre 2003 - art. 1 () JORF 28 décembre 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 1998-04-10 3D-3-98
-	  - TXT_ASSOCIE: Instruction 1999-07-15 3D-2-99
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - SPEC_APPLI: Décret n°2003-1266 du 26 décembre 2003 - art. 2, v. init.
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 242-0 Q
@@ -17103,130 +17091,6 @@ mentionné à l'article L. 344-2 du code de l'action sociale et des familles.
 
 	  - Code du travail - art. L323-11 (M)
 	  - Code de l'action sociale et des familles - art. L344-2 (M)
-
-
-##### Dispositions spéciales aux successions.
-
-###### Article 294 bis
-
-Les héritiers, donataires ou légataires d'actions ou de parts de sociétés mentionnées à l'article 789 A du code général des
-impôts, qui demandent à bénéficier des dispositions de cet article, doivent remettre à la recette des impôts compétente pour
-enregistrer la déclaration de succession, dans les délais prévus pour cet enregistrement, les documents suivants :
-
-1° Une copie de l'acte enregistré constatant l'engagement collectif de conservation en cours, mentionné au a de l'article 789
-A précité, signé par le défunt avec d'autres associés et comportant les éléments suivants :
-
-a. L'identité des associés ayant souscrit avec le défunt l'engagement collectif de conservation ;
-
-b. Le nombre de titres que ces personnes ont soumis ensemble à l'engagement collectif de conservation ;
-
-c. Le nombre de titres détenus par chaque associé, au jour de l'enregistrement de l'acte, et soumis à l'engagement collectif
-de conservation ;
-
-2° Une attestation de la société dont les parts ou actions font l'objet de l'engagement collectif de conservation certifiant
-que :
-
-a. L'engagement collectif de conservation souscrit par le défunt, pour lui et ses ayants cause à titre gratuit, avec d'autres
-associés, d'une durée d'au moins deux ans, est en cours au jour du décès ;
-
-b. Cet engagement a porté, jusqu'au jour du décès, sur au moins 25 % des droits de vote et des droits financiers attachés aux
-titres émis par la société s'ils sont admis à la négociation sur un marché réglementé, ou, à défaut, sur au moins 34 %, y
-compris les parts ou actions transmises.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 789 A
-
-	**Créé par**:
-
-	  - Décret n°2001-363 du 23 avril 2001 - art. 1 () JORF 28 avril 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
-	  - HISTO: Edition du 31 mars 2002
-	  - PEREMPTION: Loi n°2003-721 du 1 août 2003 - art. 43 () JORF 5 août 2003
-
-	**Codifié par**:
-
-	  - Décret n°2003-933 2003-09-30
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 294 ter (V)
-
-
-###### Article 294 quater
-
-Chacun des héritiers, donataires ou légataires mentionnés au c de l'article 789 A et au b de l'article 789 B du code général
-des impôts doit adresser dans les trois mois qui suivent le 31 décembre de chaque année, à la direction des services fiscaux
-du domicile du défunt, une attestation certifiant que :
-
-a. Pour les biens mentionnés à l'article 789 A, les obligations prévues aux c et d de cet article sont remplies au 31
-décembre de chaque année ;
-
-b. Pour les biens mentionnés à l'article 789 B, les obligations prévues aux b et c de cet article sont remplies chaque année.
-
-Cette attestation individuelle doit être produite à compter du point de départ de l'engagement individuel de conservation de
-six ans des biens dont la transmission par décès a été partiellement exonérée, et jusqu'à l'expiration de celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 789 A, 789 B
-
-	**Créé par**:
-
-	  - Décret n°2001-363 du 23 avril 2001 - art. 1 () JORF 28 avril 2001
-
-	**Codifié par**:
-
-	  - Décret n°2003-933 2003-09-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
-	  - HISTO: Edition du 31 mars 2002
-	  - PEREMPTION: Loi n°2003-721 2003-08-01 art. 43 I, II JORF 5 août 2003
-	  - PEREMPTION: Loi n°2003-721 du 1 août 2003 - art. 43 () JORF 5 août 2003
-
-
-###### Article 294 ter
-
-La société qui a établi à la demande d'héritiers, donataires ou légataires une attestation mentionnée au 2° de l'article 294
-bis doit, à compter du décès et jusqu'à l'expiration de la deuxième année de l'engagement collectif de conservation, adresser
-dans les trois mois qui suivent le 31 décembre de chaque année, à la direction des services fiscaux du domicile du défunt,
-une attestation certifiant que :
-
-a. L'engagement collectif de conservation souscrit par le défunt, repris par ses ayants cause à titre gratuit, est en cours
-au 31 décembre de chaque année ;
-
-b. Cet engagement porte toujours sur au moins 25 % des droits de vote et des droits financiers attachés aux titres émis par
-la société s'ils sont admis à la négociation sur un marché réglementé, ou, à défaut, sur au moins 34 %, y compris les parts
-ou actions transmises.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 294 bis
-
-	**Créé par**:
-
-	  - Décret n°2001-363 du 23 avril 2001 - art. 1 () JORF 28 avril 2001
-
-	**Codifié par**:
-
-	  - Décret n°2003-933 2003-09-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
-	  - HISTO: Edition du 31 mars 2002
-	  - PEREMPTION: Loi n°2003-721 du 1 août 2003 - art. 43 () JORF 5 août 2003
 
 
 ##### C : Régimes spéciaux et exonérations
