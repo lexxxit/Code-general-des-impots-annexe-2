@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-05-07
+Version Consolidée au 1988-06-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10143,6 +10143,35 @@ demande de remboursement doit être déposée avec cette déclaration.
 Le crédit de taxe déductible dont le remboursement a été demandé ne peut donner lieu à imputation ; il est annulé lors du
 remboursement.
 
+
+
+###### Article 242-0 F
+
+Les redevables peuvent bénéficier de remboursements mensuels ou ou trimestriels de leur crédit de taxe déductible dans la
+limite de la taxe sur la valeur ajoutée calculée sur le montant des exportations et opérations assimilées réalisées au cours
+de la période correspondant à chaque déclaration de chiffre d'affaires.
+
+Les redevables qui ont demandé, au titre de l'un ou des deux premiers mois d'un trimestre civil un tel remboursement,
+peuvent, lors du dépôt de la dernière demande de ce trimestre, renoncer à ce régime et demander un remboursement dans les
+conditions énoncées aux articles 242-0 A à 242-0 D.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 242-0 A, 242-0 B, 242-0 C, 242-0 D
+
+	**Modifié par**:
+
+	  - Décret n°88-776 du 22 juin 1988 - art. 1 (V) JORF 29 juin 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 242-0 G
@@ -21262,28 +21291,6 @@ L. 18 et L. 20 du code des débits de boissons et des mesures contre l'alcoolism
 	**Modifié par**:
 
 	  - Décret n°79-1163 du 29 décembre 1979 - art. 26 (V) JORF 31 DECEMBRE 1979
-
-
-###### Article 242-0 F
-
-Les redevables peuvent bénéficier de remboursements mensuels ou ou trimestriels de leur crédit de taxe déductible dans la
-limite de la taxe sur la valeur ajoutée calculée sur le montant des exportations et opérations assimilées réalisées au cours
-de la période correspondant à chaque déclaration de chiffre d'affaires. L'option pour ce régime est exclusive du bénéfice des
-dispositions des articles 242-0 A à 242-0 D ; elle résulte du dépôt de la première demande de remboursement et s'applique au
-trimestre civil au cours duquel elle a été formulée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242-0 A
-	  - CGIAN2 242-0 B
-	  - CGIAN2 242-0 C
-	  - CGIAN2 242-0 D
-
-	**Modifié par**:
-
-	  - Décret n°82-633 du 21 juillet 1982 - art. 1 (V) JORF 23 JUILLET 1982
 
 
 ### CONTRIBUTIONS INDIRECTES
