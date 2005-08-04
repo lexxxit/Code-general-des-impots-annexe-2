@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2005-02-26
+Version Consolidée au 2005-08-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16882,21 +16882,21 @@ dispositions qui précèdent.
 ###### Article 304
 
 I. - Le droit de timbre prévu au premier alinéa de l'article 964 du code général des impôts est acquitté conformément aux
-dispositions de l'article R.[* 223-11 du code de l'environnement ci-après reproduit :
+dispositions de l'article R. 423-11 du code de l'environnement ci-après reproduit :
 
-"Art. R.*] 223-11. - Le droit de timbre prévu pour la délivrance du permis de chasser (original ou duplicata) est acquitté
-sur état au moyen de formules sans valeur fiscale revêtues de la mention "Droit de timbre payé sur état".
+"Art. R. 423-11. - Le droit de timbre prévu pour la délivrance du permis de chasser (original ou duplicata) est acquitté sur
+état au moyen de formules sans valeur fiscale revêtues de la mention "Droit de timbre payé sur état".
 
 Il est recouvré par l'intermédiaire des régies de recettes des préfectures ou, le cas échéant, des sous-préfectures, et à
 Paris, par la régie de recettes de la préfecture de police."
 
 II. - Le droit de timbre prévu au deuxième alinéa de l'article 964 du code général des impôts est acquitté conformément aux
-dispositions de l'article R.[* 223-13 du code de l'environnement ci-après reproduit :
+dispositions de l'article R. 423-13 du code de l'environnement ci-après reproduit :
 
-"Art. R.*] 223-13. - Le paiement des droits et redevances mentionnés à l'article L. 423-12 du code de l'environnement est
+"Art. R. 423-13. - Le paiement des droits et redevances mentionnés à l'article L. 423-12 du code de l'environnement est
 accepté par le comptable du Trésor ou le régisseur des recettes de l'Etat placé auprès de la fédération départementale ou
 interdépartementale des chasseurs, sous réserve de la présentation du document de validation du permis de chasser mentionné à
-l'article R. 223-12, dûment rempli et signé par le titulaire du permis. Il est constaté sur ce document, selon les modalités
+l'article R. 423-12, dûment rempli et signé par le titulaire du permis. Il est constaté sur ce document, selon les modalités
 définies par arrêté conjoint du ministre chargé de la chasse et du ministre chargé du budget."
 
 **Liens relatifs à cet article**
@@ -16905,20 +16905,13 @@ définies par arrêté conjoint du ministre chargé de la chasse et du ministre 
 
 	  - CGI 964
 	  - Code de l'environnement - art. L423-12 (M)
-	  - Code de l'environnement R223-11, R223-13, L423-12, R223-12
+	  - Code de l'environnement - art. R423-11 (V)
+	  - Code de l'environnement - art. R423-12 (M)
+	  - Code de l'environnement - art. R423-13 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-	  - Décret n°2003-855 du 5 septembre 2003 - art. 2 () JORF 7 septembre 2003
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
 
 
 ##### Section III : Impôt sur les opérations de bourse
