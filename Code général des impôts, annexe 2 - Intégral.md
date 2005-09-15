@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2005-08-25
+Version Consolidée au 2005-09-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19862,6 +19862,55 @@ métiers a son siège.
 	**Modifié par**:
 
 	  - Loi n°2004-1484 du 30 décembre 2004 - art. 124 () JORF 31 décembre 2004
+
+
+##### Section V : Contribution à l'audiovisuel public
+
+###### Article 321 quater
+
+Pour l'application du 1° de l'article 1605 ter du code général des impôts :
+
+1° Lorsqu'un établissement comporte plusieurs points de vision imposables au montant prévu par le III de l'article 1605 et au
+montant prévu par le c du 1° de l'article 1605 ter, le redevable opère un décompte unique du nombre de points de vision.
+Toutefois, pour la détermination de l'abattement applicable, les points de vision imposés au montant prévu par le III de
+l'article 1605 sont pris en compte avant ceux imposés au montant prévu par le c du 1° de l'article 1605 ter.
+
+2° La minoration prévue par le b du 1° de l'article 1605 ter s'applique sur le montant total de la redevance audiovisuelle
+calculé selon les modalités prévues au 1° du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1605, 1605 ter
+
+	**Créé par**:
+
+	  - Décret n°2005-1167 du 13 septembre 2005 - art. 1 () JORF 16 septembre 2005
+
+
+###### Article 321 ter
+
+Pour l'application du III de l'article 1605 du code général des impôts, le montant de la contribution à l'audiovisuel public
+est celui applicable au lieu de l'habitation principale du redevable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1605
+
+	**Créé par**:
+
+	  - Décret n°2005-1167 du 13 septembre 2005 - art. 1 () JORF 16 septembre 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2009-258 du 5 mars 2009 - art. 29
 
 
 #### Chapitre I bis : Taxes assimilées aux taxes sur le chiffre d'affaires
