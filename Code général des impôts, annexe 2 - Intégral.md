@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2005-09-18
+Version Consolidée au 2005-10-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9588,17 +9588,6 @@ En conséquence de l'article 82-I de la loi n° 2016-1888 du 28 décembre 2016, 
 
 ##### II : Opérations imposables sur option
 
-###### Article 184
-
-Transféré sous l'article 260 I de la même annexe.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN2 260 I
-
-
 ##### 3 : Location de locaux nus
 
 ###### Article 193
@@ -11428,22 +11417,23 @@ Les remboursements s'effectuent dans les conditions prévues à l'article 242 se
 2. (Devenu sans objet).
 
 3. Pour les assujettis placés sous le régime simplifié des exploitants agricoles, autres que ceux qui ont opté pour le régime
-des déclarations trimestrielles, le crédit de taxe déductible résulte des énonciations de leur déclaration annuelle. La
-demande de remboursement doit être déposée avec cette déclaration.
+des déclarations trimestrielles, le crédit de taxe déductible résulte des énonciations de leur déclaration annuelle et,
+lorsqu'ils ont exercé l'option prévue à l'article 260 J, des déclarations relatives à des périodes d'une durée inférieure à
+un an. La demande de remboursement doit être déposée avec cette déclaration.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGIAN2 260 J
+
 	**Modifié par**:
 
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2005-1244 du 27 septembre 2005 - art. 5 () JORF 4 octobre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 242-0 E
@@ -13249,36 +13239,13 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 ###### Article 260 E
 
-L'option peut être globale ou restreinte. L'option globale s'applique à l'ensemble des opérations réalisées par les
-exploitants agricoles. L'option restreinte s'applique aux opérations autres que les ventes ou les livraisons d'animaux de
-boucherie et de charcuterie définis à l'article 260 F.
+L'option s'applique à l'ensemble des opérations réalisées par les exploitants agricoles.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN2 260 F
-
-
-###### Article 260 F
-
-Par animaux de boucherie et de charcuterie, il faut entendre les animaux suivants :
-
-Equidés : chevaux et juments, mulets, mules et bardots, ânes et ânesses, baudets, étalons;
-
-Bovidés : boeufs et taureaux, vaches, veaux, bouvillons, taurillons et génisses;
-
-Ovidés : béliers et moutons, brebis et agneaux gris, agneaux de lait;
-
-Suidés : porcs mâles et femelles, cochons de lait;
-
-Caprins : boucs et chèvres ainsi que les chevreaux dont le poids après l'abattage est supérieur à 7 kg de viande nette.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1244 du 27 septembre 2005 - art. 7 () JORF 4 octobre 2005
+	  - Décret n°2005-1244 du 27 septembre 2005 - art. 1 () JORF 4 octobre 2005
 
 	**Liens**:
 
@@ -13287,55 +13254,115 @@ Caprins : boucs et chèvres ainsi que les chevreaux dont le poids après l'abatt
 
 ###### Article 260 G
 
-L'option globale ou restreinte entraîne l'imposition à la taxe sur la valeur ajoutée d'après le régime simplifié pendant une
-période de trois ans.
+L'option entraîne l'imposition à la taxe sur la valeur ajoutée d'après le régime simplifié pendant une période de trois ans
+et est ensuite renouvelable par tacite reconduction pour des périodes de cinq ans.
 
-Lorsque l'option globale ou restreinte prend effet dans le courant d'une année civile en application du troisième alinéa de
-l'article 260 I, sa durée expire le 31 décembre de la deuxième année suivant celle de l'exercice de l'option.
-
-L'option est ensuite renouvelable par tacite reconduction pour des périodes de cinq ans.
-
-Lorsqu'une option globale est exercée postérieurement à une option restreinte, sa durée est égale à celle de l'option
-restreinte restant à courir.
+Lorsque la date d'échéance de l'option ne coïncide pas avec le dernier jour de la période annuelle d'imposition choisie par
+le redevable, l'option est prorogée jusqu'à cette date.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 260 I
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2005-1244 du 27 septembre 2005 - art. 2 () JORF 4 octobre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 260 I
 
-L'option globale ou restreinte fait l'objet d'une déclaration formulée par l'intéressé sur un imprimé dont le modèle est fixé
-par l'administration. Elle doit être adressée avant le 1er février de la première année de la période qu'elle recouvre, par
-lettre recommandée , au service des impôts dont dépend l'exploitation intéressée. L'option prend effet du 1er janvier de
-ladite année.
+L'option est exercée par l'accomplissement pour la première fois des obligations déclaratives et liquidatives qu'elle
+entraîne.
 
-La renonciation à cette option doit être formulée dans les mêmes formes deux mois au moins avant l'expiration des périodes
-prévues à l'article 260 G.
+Elle prend effet au 1er janvier de la première année de la période qu'elle recouvre. Dans le cas où le début de
+l'exploitation agricole est postérieur au 1er janvier, l'option prend effet à la date du début d'exploitation et est réputée
+avoir été exercée au 1er janvier pour le décompte des périodes prévues à l'article 260 G.
 
-Celui qui devient exploitant agricole, en qualité de propriétaire, de fermier ou de métayer, dans le courant d'une année
-civile, doit exercer l'option dans un délai de un mois à compter de la date du début de ses activités. L'option prend effet à
-la même date.
+La renonciation à cette option est formulée par lettre recommandée adressée au service des impôts dont dépend l'exploitation
+intéressée deux mois au moins avant l'expiration de la période fixée à l'article 260 G.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGIAN2 260 G
+
+	**Modifié par**:
+
+	  - Décret n°2005-1244 du 27 septembre 2005 - art. 3 () JORF 4 octobre 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+
+##### B bis : Option pour l'imposition selon l'exercice comptable
+
+###### Article 260 J
+
+L'option pour l'imposition selon l'exercice comptable prévue au I de l'article 298 bis du code général des impôts est
+adressée par lettre recommandée avec accusé de réception au service des impôts dont dépend l'exploitation intéressée.
+
+L'option entraîne l'imposition selon l'exercice comptable pour une période de cinq ans. Elle est ensuite renouvelable par
+tacite reconduction par période de cinq ans. Lorsque la date d'échéance de l'option ne coïncide pas avec le dernier jour de
+la période annuelle d'imposition choisie par le redevable, l'option est prorogée jusqu'à cette date.
+
+Toutefois, lorsque l'exploitant agricole a opté pour l'imposition d'après le régime simplifié, l'option entraîne l'imposition
+selon l'exercice comptable jusqu'à l'échéance fixée à l'article 260 G et est ensuite renouvelable par tacite reconduction
+jusqu'à l'échéance suivante.
+
+La renonciation à cette option est formulée par lettre recommandée adressée au service des impôts dont dépend l'exploitation
+intéressée deux mois au moins avant son expiration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 298 bis
+	  - CGIAN2 260 G
+
+	**Créé par**:
+
+	  - Décret n°2005-1244 du 27 septembre 2005 - art. 4 () JORF 4 octobre 2005
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 242-0 D (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 260 K
+
+Le rapport prévu au 1 de l'article 212 est calculé par période annuelle d'imposition. Lorsque la période d'imposition est
+inférieure à un an, ce rapport est calculé à partir des éléments de la période annuelle d'imposition précédente. Les
+obligations prévues aux articles 214 et 215 sont accomplies avant le cinquième jour du cinquième mois suivant la clôture de
+la période d'imposition.
+
+L'autorisation prévue à l'article 220 s'applique par période d'imposition. Sa dénonciation doit intervenir avant la date de
+clôture de ladite période.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 212, 214, 215, 220
+
+	**Créé par**:
+
+	  - Décret n°2005-1244 du 27 septembre 2005 - art. 4 () JORF 4 octobre 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### C : Remboursement forfaitaire
@@ -13460,10 +13487,10 @@ dont relève l'exploitant agricole intéressé pour l'application du I et des ar
 
 6. (Abrogé)
 
-7. Lorsque le prix de cession des animaux vivants de boucherie et de charcuterie définis à l'article 260 F excède leur valeur
-normale en poids de viande, la base du calcul du remboursement forfaitaire est déterminée par référence au prix de vente sur
-les marchés d'abattage et fixée forfaitairement chaque année par le ministre de l'économie et des finances. Dans ce cas, le
-prix mentionné sur le bulletin d'achat et l'attestation est réduit à due concurrence.
+7. Lorsque le prix de cession des animaux vivants de boucherie et de charcuterie excède leur valeur normale en poids de
+viande, la base du calcul du remboursement forfaitaire est déterminée par référence au prix de vente sur les marchés
+d'abattage et fixée forfaitairement chaque année par le ministre de l'économie et des finances. Dans ce cas, le prix
+mentionné sur le bulletin d'achat et l'attestation est réduit à due concurrence.
 
 8. (Abrogé).
 
@@ -13471,11 +13498,11 @@ prix mentionné sur le bulletin d'achat et l'attestation est réduit à due conc
 
 	**Modifié par**:
 
-	  - Décret n°93-240 du 22 février 1993 - art. 2 () JORF 24 février 1993
+	  - Décret n°2005-1244 du 27 septembre 2005 - art. 6 () JORF 4 octobre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 267 ter
@@ -13545,7 +13572,7 @@ les catégories d'animaux qu'il désigne, retarder la réalisation de cette opé
 
 I. Les personnes redevables de la taxe sur la valeur ajoutée qui effectuent des opérations d'achat, d'importation,
 d'acquisition intracommunautaire, de vente, de commission ou de courtage portant sur les animaux vivants de boucherie et de
-charcuterie définis à l'article 260 F doivent :
+charcuterie doivent :
 
 a. N'avoir la propriété ou la garde que d'animaux ayant fait l'objet de mesures d'identification ou de marquage; il est
 procédé à ces mesures selon les modalités fixées par l'article 267 ter;
@@ -13566,19 +13593,15 @@ titre d'activités portant sur lesdits animaux, la facture doit expressément po
 
 	**Cite**:
 
-	  - CGIAN2 260 F, 267 ter
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
+	  - CGIAN2 267 ter
 
 	**Modifié par**:
 
-	  - Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
+	  - Décret n°2005-1244 du 27 septembre 2005 - art. 6 () JORF 4 octobre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2006
 
 
 #### Chapitre III : Redevances sanitaires sur les produits de la pêche et de l'aquaculture

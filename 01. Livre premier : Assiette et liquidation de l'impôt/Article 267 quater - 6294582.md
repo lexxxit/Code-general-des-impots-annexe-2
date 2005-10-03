@@ -2,7 +2,7 @@
 
 I. Les personnes redevables de la taxe sur la valeur ajoutée qui effectuent des opérations d'achat, d'importation,
 d'acquisition intracommunautaire, de vente, de commission ou de courtage portant sur les animaux vivants de boucherie et de
-charcuterie définis à l'article 260 F doivent :
+charcuterie doivent :
 
 a. N'avoir la propriété ou la garde que d'animaux ayant fait l'objet de mesures d'identification ou de marquage; il est
 procédé à ces mesures selon les modalités fixées par l'article 267 ter;
@@ -23,16 +23,12 @@ titre d'activités portant sur lesdits animaux, la facture doit expressément po
 
 	**Cite**:
 
-	  - CGIAN2 260 F, 267 ter
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
+	  - CGIAN2 267 ter
 
 	**Modifié par**:
 
-	  - Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
+	  - Décret n°2005-1244 du 27 septembre 2005 - art. 6 () JORF 4 octobre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2006
