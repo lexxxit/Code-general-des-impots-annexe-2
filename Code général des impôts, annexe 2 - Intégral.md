@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2005-10-04
+Version Consolidée au 2005-10-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21360,47 +21360,38 @@ Après s'être assuré que le dossier est complet, le directeur des services fis
 
 ###### Article 371 G
 
-La décision d'agrément est prise par le directeur chargé de la direction des services fiscaux située au chef-lieu de la
-région dans laquelle le centre a son siège ou par le directeur chargé de la direction spécialisée des impôts pour la région
-d'Ile-de-France et Paris lorsque le siège du centre se situe dans la région d'Ile-de-France, après avis d'une commission
-instituée au chef-lieu de région.
+La décision d'agrément est prise par une commission instituée au chef-lieu de région.
 
-Cette commission, placée sous la présidence effective d'un membre du corps des tribunaux administratifs, désigné par arrêté
-du ministre de l'intérieur, comprend également :
+Cette commission, placée sous la présidence du directeur chargé de la direction des services fiscaux située au chef-lieu de
+la région dans laquelle le centre a son siège, ou du directeur chargé de la direction spécialisée des impôts pour la région
+d'Ile-de-France et pour Paris lorsque le siège du centre se situe dans la région d'Ile-de-France, comprend également :
 
-a. Deux fonctionnaires de la direction générale des impôts ayant au moins le grade d'inspecteur principal ;
+a. un fonctionnaire des services fiscaux ;
 
-b. Un représentant du ministère de l'industrie et de la recherche ;
+b. un représentant du ministre chargé de l'industrie ;
 
-c. Deux représentants du ministère du commerce et de l'artisanat ;
+c. un représentant du ministre chargé du commerce et de l'artisanat ;
 
-d.  Deux membres de l'ordre des experts comptables désignés par le conseil régional de l'ordre ;
+d. un membre de l'ordre des experts-comptables désigné par le conseil régional de l'ordre ;
 
-e. Un industriel, un commerçant et un artisan désignés respectivement par le président de la chambre régionale de commerce et
-d'industrie et par le président de la conférence régionale des métiers.
+e. un industriel, un commerçant et un artisan désignés respectivement par le président de la chambre régionale de commerce et
+d'industrie et par le président de la chambre régionale de métiers et de l'artisanat.
 
-Lorsque la demande d'agrément est présentée par un centre de gestion apportant son assistance exclusivement aux agriculteurs,
-les représentants du ministère de l'industrie et de la recherche et du ministère du commerce et de l'artisanat sont remplacés
-par deux représentants du ministère de l'agriculture et les trois représentants de la profession sont désignés parmi les
-exploitants agricoles de la région par le président de la chambre régionale d'agriculture, au vu d'une liste de six noms
+Lorsque la demande d'agrément est présentée par un centre de gestion apportant son assistance principalement aux
+agriculteurs, les représentants du ministre chargé de l'industrie et du ministre chargé du commerce et de l'artisanat sont
+remplacés par deux représentants du ministre de l'agriculture et les trois représentants de la profession sont désignés parmi
+les exploitants agricoles de la région par le président de la chambre régionale d'agriculture, au vu d'une liste de six noms
 présentée par chacune des fédérations départementales de syndicats d'exploitants agricoles de la région.
 
-Des suppléants du président et des autres membres sont nommés dans les mêmes conditions.
+Des suppléants du président et des autres membres sont nommés dans les mêmes conditions que les titulaires.
 
-Dans les départements d'outre-mer, la commission est présidée par un magistrat de l'ordre judiciaire désigné par le président
-du tribunal de grande instance. Les fonctionnaires représentant la direction générale des impôts doivent avoir au moins le
-grade d'inspecteur. La décision d'agrément est prise par le directeur des services fiscaux.
-
-En cas de partage des voix, la voix du président de la commission est prépondérante.
-
-Le président de la commission régionale ne pourra siéger au tribunal administratif dans le jugement d'un recours dirigé
-contre une décision prise sur avis de cette commission.
+En cas de partage égal des voix, la voix du président de la commission est prépondérante.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 1 () JORF 25 octobre 2000
+	  - Décret n°2005-1253 du 4 octobre 2005 - art. 1 () JORF 6 octobre 2005
 
 	**Cité par**:
 
@@ -21409,16 +21400,13 @@ contre une décision prise sur avis de cette commission.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 H
 
-La commission émet son avis dans un délai de trois mois à compter de la date de délivrance du récépissé mentionné à l'article
-371 F.
-
-Le directeur mentionné à l'article 371 G se prononce dans le délai de quatre mois à compter de la notification de l'avis de
-la commission ou, à défaut, de l'expiration du délai imparti à la commission pour émettre son avis.
+La commission rend sa décision dans un délai de quatre mois à compter de la date de délivrance du récépissé mentionné à
+l'article 371 F.
 
 L'absence de décision dans le délai fixé vaut acceptation de la demande. Le refus d'agrément doit être motivé.
 
@@ -21426,15 +21414,15 @@ L'absence de décision dans le délai fixé vaut acceptation de la demande. Le r
 
 	**Cite**:
 
-	  - CGIAN2 371 F, 371 G
+	  - CGIAN2 371 F
 
 	**Modifié par**:
 
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 1 () JORF 25 octobre 2000
+	  - Décret n°2005-1253 du 4 octobre 2005 - art. 1 () JORF 6 octobre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 I
@@ -21455,27 +21443,27 @@ Les pièces justificatives des titres ou diplômes et de la pratique professionn
 75-911 du 6 octobre 1975 modifié par l'article 7 du décret n° 79-71 du 23 janvier 1979 sont jointes aux documents mentionnés
 à l'article 371 F.
 
-Au vu de ces pièces, la commission mentionnée à l'article 371 G émet un avis séparé sur l'octroi des habilitations prévues
-aux premier et au deuxième alinéas. Le directeur mentionné à l'article 371 G est sur ce point lié par l'avis de la
-commission.
+La commission mentionnée à l'article 371 G rend sa décision sur la demande d'habilitation après examen des pièces mentionnées
+au troisième alinéa.
 
 Dans le cas où des changements interviennent en ce qui concerne les responsables de leurs services comptables, les centres
-bénéficiant des habilitations mentionnées aux premier et deuxième alinéas doivent informer le directeur mentionné à l'article
-371 G dans un délai d'un mois. Le maintien de l'habilitation est subordonné à une décision du directeur prise dans les
-conditions prévues aux troisième et quatrième alinéas.
+bénéficiant des habilitations mentionnées aux premier et deuxième alinéas doivent informer le directeur chargé de la
+direction des services fiscaux située au chef-lieu de la région dans laquelle le centre a son siège, ou le directeur chargé
+de la direction spécialisée des impôts pour la région d'Ile-de-France et pour Paris lorsque le siège du centre se situe dans
+la région d'Ile-de-France dans un délai d'un mois. Le maintien de l'habilitation est subordonné à une décision de la
+commission prise dans les conditions prévues aux troisième et quatrième alinéas.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1649 quater C
-	  - CGIAN2 371 A, 371 F, 371 G
-	  - Décret n°75-911 1975-10-06 art. 16 I
+	  - CGI 1649 quater C, 371 A, 371 F, 371 G
+	  - Décret n°75-911 du 6 octobre 1975 - art. 16 (M)
 	  - Décret n°79-71 1979-01-23 art. 7
 
 	**Modifié par**:
 
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 1 () JORF 25 octobre 2000
+	  - Décret n°2005-1253 du 4 octobre 2005 - art. 1 () JORF 6 octobre 2005
 
 	**Cité par**:
 
@@ -21484,13 +21472,13 @@ conditions prévues aux troisième et quatrième alinéas.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 J
 
 L'agrément est délivré pour une période de trois ans. Il peut être renouvelé selon la procédure prévue aux articles 371 F à
-371 H sur demande présentée au plus tard neuf mois avant l'expiration de l'agrément en cours.
+371 H sur demande présentée au plus tard six mois avant l'expiration de l'agrément en cours.
 
 Le renouvellement de l'agrément intervient, à l'exception du premier renouvellement, tous les six ans.
 
@@ -21505,17 +21493,17 @@ améliorer la gestion des entreprises adhérentes et s'assurer de la sincérité
 
 	**Modifié par**:
 
-	  - Décret n°91-376 du 16 avril 1991 - art. 1 (V) JORF 20 avril 1991
+	  - Décret n°2005-1253 du 4 octobre 2005 - art. 1 () JORF 6 octobre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 K
 
-Après consultation de la commission mentionnée à l'article 371 G, le directeur mentionné à ce même article, après avoir mis
-le centre en mesure de présenter ses observations sur les faits qui lui sont reprochés, peut lui retirer l'agrément :
+La commission mentionnée à l'article 371 G, après avoir mis le centre en mesure de présenter ses observations sur les faits
+qui lui sont reprochés, peut lui retirer l'agrément :
 
 1° En cas d'inexécution des engagements pris par le centre ou de violation des obligations qui lui incombent en vertu des
 statuts ou du règlement intérieur ;
@@ -21540,16 +21528,11 @@ vertu des statuts ou du règlement intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 1 () JORF 25 octobre 2000
-	  - Décret n°2001-435 du 21 mai 2001 - art. 3 () JORF 23 mai 2001
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2005-1253 du 4 octobre 2005 - art. 1 () JORF 6 octobre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 L
@@ -21968,7 +21951,7 @@ L'absence de décision dans le délai fixé vaut acceptation de la demande. Le r
 ###### Article 371 U
 
 L'agrément est délivré pour une période de trois ans. Il peut être renouvelé selon la procédure prévue aux articles 371 R à
-371 T sur demande présentée au plus tard neuf mois avant l'expiration de l'agrément en cours.
+371 T sur demande présentée au plus tard six mois avant l'expiration de l'agrément en cours.
 
 Le renouvellement de l'agrément intervient, à l'exception du premier renouvellement, tous les six ans.
 
@@ -21983,11 +21966,11 @@ pour améliorer la connaissance des revenus des adhérents.
 
 	**Modifié par**:
 
-	  - Décret n°91-376 du 16 avril 1991 - art. 2 (V) JORF 20 avril 1991
+	  - Décret n°2005-1253 du 4 octobre 2005 - art. 1 () JORF 6 octobre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 V
