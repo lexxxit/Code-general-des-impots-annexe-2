@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2005-10-18
+Version Consolidée au 2005-11-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6348,13 +6348,10 @@ formation d'apprentis dans la limite prévue à l'article 140 K, avec le nom et 
 
 5° Les conditions dans lesquelles l'employeur organise lui-même, ou avec d'autres entreprises, les premières formations
 technologiques et professionnelles, et notamment l'apprentissage, ainsi que la nature, avec les justifications appropriées,
-des charges supportées à ce titre, telles qu'elles sont définies à l'article 5 du décret n° 72-283 du 12 avril 1972 modifié ;
+des charges supportées à ce titre, telles qu'elles sont définies au II de l'article 1er de la loi n° 71-758 du 16 juillet
+1971 modifiée ;
 
 6° La nature et le montant des autres dépenses énumérées au même article avec le nom et l'adresse des bénéficiaires ;
-
-7° S'il y a lieu, le montant des subventions, cotisations ou impositions versées à des chambres syndicales, à des chambres de
-commerce et d'industrie, à des chambres de métiers, à des chambres d'agriculture ou à toutes associations consacrant une
-partie de leurs ressources à des dépenses entrant dans la prévision de l'article 5 précité.
 
 La demande est accompagnée des reçus délivrés par l'organisme bénéficiaire des versements.
 
@@ -6363,27 +6360,28 @@ La demande est accompagnée des reçus délivrés par l'organisme bénéficiaire
 	**Cite**:
 
 	  - CGIAN2 140 K, 140 A
-	  - Décret n°72-283 du 12 avril 1972 - art. 5 (M)
-	  - Décret n°74-32 1974-01-15
+	  - Loi n°71-758 1971-07-16 art. 1
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, V JORF 3 juillet 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2005-1392 du 8 novembre 2005 - art. 16 () JORF 10 novembre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2006
+	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
+	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 140 E
 
-Le reçu de l'organisme bénéficiaire des versements est daté du jour où le versement a été fait; il est extrait d'un carnet à
-souches, porte un numéro d'ordre et indique la somme réellement affectée aux frais énumérés à l'article 5 du décret mentionné
-au 5° de l'article 140 D, ainsi que l'année à laquelle il se rapporte.
+Le reçu de l'organisme bénéficiaire des versements est daté du jour où le versement a été fait ; il est extrait d'un carnet à
+souches, porte un numéro d'ordre et indique la somme réellement affectée aux frais énumérés au II de l'article 1er de la loi
+n° 71-578 du 16 juillet 1971 modifiée, ainsi que l'année à laquelle il se rapporte.
 
 Dans le délai de quinze jours à compter de la délivrance du reçu, l'organisme bénéficiaire du versement adresse au préfet
 dont il relève la copie de ce reçu. Cette copie porte l'indication du montant total des sommes que l'organisme a touchées au
@@ -6391,22 +6389,23 @@ titre de la taxe d'apprentissage depuis le 1er janvier de l'année en cours.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
+	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
+
 	**Cite**:
 
-	  - CGIAN2 140 D
-	  - Décret n°72-283 du 12 avril 1972 - art. 5 (M)
+	  - Loi n°71-578 du 16 juillet 1971 - art. 1 (M)
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2005-1392 du 8 novembre 2005 - art. 16 () JORF 10 novembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 140 F
