@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2005-11-25
+Version Consolidée au 2005-12-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2097,6 +2097,28 @@ gain ou la moins-value est égal à la différence reçue ou versée par l'opér
 	  - HISTO: Edition du 31 mars 2001
 
 
+###### Article 74-0 E bis
+
+En cas de cession de titres après leur retrait d'un plan d'épargne en actions défini à l'article 163 quinquies D du code
+général des impôts dans les conditions prévues à la deuxième phrase du 2 du II de l'article 150-0 A du même code, leur prix
+d'acquisition est réputé égal à leur valeur à la date de ce retrait.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1649 du 26 décembre 2005 - art. 1 () JORF 28 décembre 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150-0 A (V)
+	  - Code général des impôts, CGI. - art. 163 quinquies D (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+
 ###### Article 74-0 F
 
 Les contribuables qui réalisent des opérations imposables en application de l'article 150-0 A du code général des impôts sont
@@ -3486,7 +3508,7 @@ la tenue du plan à la direction des services fiscaux de sa résidence, dans les
 crédit du plan.
 
 En cas de restitution d'avoirs fiscaux ou crédits d'impôt après la clôture du plan, la valeur liquidative du plan mentionnée
-au 2 du II de l'article 150-0 A du code général des impôts comprend ces sommes.
+aux 2 et 2 bis du II de l'article 150-0 A du code général des impôts comprend ces sommes.
 
 Le transfert d'un plan entre organismes gestionnaires ne fait pas perdre le droit à restitution de l'avoir fiscal et du
 crédit d'impôt. Lorsque la restitution par l'Etat intervient postérieurement au transfert, son montant est viré par le
@@ -3499,13 +3521,21 @@ précédent établissement gestionnaire au crédit du compte en espèces associ�
 	  - CGI 150-0 A
 	  - CGIAN2 77, 94
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 3 () JORF 8 décembre 2000
+	  - Décret n°2005-1649 du 26 décembre 2005 - art. 2 () JORF 28 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Codifié par**:
+
+	  - L'abrogation sera codifiée ultérieurement
 
 
 ###### Article 91 quater G
@@ -3520,12 +3550,20 @@ b) Les références du plan ;
 
 c) La date d'ouverture du plan.
 
-Le cas échéant, l'organisme fait également figurer distinctement la date du premier retrait de sommes ou de valeurs figurant
-sur le plan ou celle du premier rachat du contrat de capitalisation. Lorsque la clôture du plan intervient avant l'expiration
-de la cinquième année, il indique la valeur liquidative du plan ou la valeur de rachat du contrat de capitalisation à la date
-de la clôture et le montant cumulé des versements effectués depuis l'ouverture du plan.
+L'organisme fait également figurer distinctement la date du premier retrait de sommes ou de valeurs figurant sur le plan ou
+celle du premier rachat du contrat de capitalisation.
 
-L'organisme indique distinctement le montant des produits, avoir fiscaux et crédits d'impôt procurés par les placements
+En cas de clôture du plan avant ou, dans les conditions prévues au 2 bis du II de l'article 150-0 A du code général des
+impôts, après l'expiration de la cinquième année, il indique :
+
+a. La valeur liquidative du plan ou la valeur de rachat du contrat de capitalisation à la date de clôture, diminuée des
+sommes ou valeurs correspondant à des retraits ou à des rachats réalisés, concomitamment à la clôture, en vue de la création
+ou de la reprise d'une entreprise ;
+
+b. Le montant cumulé des versements effectués depuis l'ouverture du plan, diminué du montant des versements correspondant à
+des retraits ou rachats n'entraînant pas la clôture de ce plan.
+
+L'organisme indique distinctement le montant des produits, avoirs fiscaux et crédits d'impôt procurés par les placements
 effectués en actions ou parts de sociétés qui ne sont pas admises aux négociations sur un marché réglementé, à l'exception
 des intérêts versés, dans les conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de
 la coopération, aux titres de capital de sociétés régies par cette loi. Les avoirs fiscaux et crédits d'impôt retenus sont
@@ -3535,12 +3573,12 @@ ceux attachés aux produits encaissés dans le cadre du plan au cours de l'anné
 
 	**Cite**:
 
-	  - CGI 242 ter
+	  - CGI 242 ter, 150-0 A
 	  - Loi n°47-1775 du 10 septembre 1947 - art. 14 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 3 () JORF 8 décembre 2000
+	  - Décret n°2005-1649 du 26 décembre 2005 - art. 3 () JORF 28 décembre 2005
 
 	**Cité par**:
 
@@ -3548,7 +3586,7 @@ ceux attachés aux produits encaissés dans le cadre du plan au cours de l'anné
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 91 quater H
@@ -3579,35 +3617,47 @@ Le transfert d'un plan d'épargne en actions d'un organisme gestionnaire à un a
 titulaire remet au premier organisme gestionnaire un certificat d'identification du plan sur lequel le transfert doit avoir
 lieu ; ce certificat est établi par l'organisme auprès duquel le plan est transféré.
 
-Dans ce cas, le premier organisme gestionnaire est tenu de communiquer au nouveau gestionnaire la date d'ouverture du plan et
-le montant cumulé des versements effectués sur le plan ainsi que les renseignements mentionnés à l'article R. 96 D-1 du livre
-des procédures fiscales.
+Dans ce cas, le premier organisme gestionnaire communique au nouveau gestionnaire :
+
+a. La date d'ouverture du plan ;
+
+b. Le montant cumulé des versements effectués sur le plan, diminué du montant des versements correspondant aux retraits ou
+rachats effectués précédemment au transfert du plan et n'ayant pas entraîné sa clôture ;
+
+c. Les renseignements mentionnés à l'article R. 96 D-1 du livre des procédures fiscales ;
+
+d. Les renseignements nécessaires au nouveau gestionnaire pour la détermination de l'assiette et du montant de la
+contribution sociale généralisée, de la contribution pour le remboursement de la dette sociale, du prélèvement social et de
+la contribution additionnelle à ce prélèvement qui seront, le cas échéant, dus ultérieurement.
 
 Il lui communique également le montant des avoirs fiscaux et crédits d'impôt dont la restitution par l'Etat doit intervenir
 après le transfert.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 3 () JORF 8 décembre 2000
+	  - Décret n°2005-1649 du 26 décembre 2005 - art. 4 () JORF 28 décembre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. R96 D-1 (V)
+	  - Livre des procédures fiscales R96 D-1
 
 
 ###### Article 91 quater J
 
-En cas de clôture d'un plan avant l'expiration de la cinquième année, le titulaire du plan doit ajouter au montant global des
-cessions qu'il est tenu d'indiquer sur la déclaration mentionnée à l'article 74-0 F la valeur liquidative du plan, ou la
-valeur de rachat pour un contrat de capitalisation, à la date de la clôture du plan. Cette valeur est, le cas échéant,
-diminuée du montant des produits, avoirs fiscaux et crédits d'impôt inclus, ne bénéficiant pas de l'exonération prévue au 5°
-bis de l'article 157 du code général des impôts. Dans ce dernier cas, le contribuable joint à la déclaration précitée les
+En cas de clôture du plan avant ou, dans les conditions prévues au 2 bis du II de l'article 150-0 A du code général des
+impôts, après l'expiration de la cinquième année, le titulaire de ce plan doit ajouter au montant global des cessions qu'il
+est tenu d'indiquer sur la déclaration mentionnée à l'article 74-0 F la valeur liquidative du plan, ou la valeur de rachat
+pour un contrat de capitalisation, à la date de sa clôture diminuée des sommes ou valeurs correspondant à des retraits ou
+rachats réalisés, concomitamment à la clôture, en vue de la création ou de la reprise d'une entreprise dans les conditions
+fixées par la deuxième phrase du 2 du II de l'article 150-0 A précité. La valeur liquidative est, le cas échéant, diminuée du
+montant des produits, avoirs fiscaux et crédits d'impôt inclus, ne bénéficiant pas de l'exonération prévue au 5° bis de
+l'article 157 du code général des impôts. Dans ce dernier cas, le contribuable joint à la déclaration susmentionnée les
 éléments nécessaires à la détermination de cette correction.
 
 Le gain net défini au 6 de l'article 150-0 D du code général des impôts réalisé depuis l'ouverture du plan d'épargne en
@@ -3621,16 +3671,65 @@ une rubrique spéciale le montant du gain net visé au deuxième alinéa assorti
 
 	**Cite**:
 
-	  - CGI 157, 150-0 D
+	  - CGI 150-0 A, 157, 150-0 D
 	  - CGIAN2 74-0 F
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 3 () JORF 8 décembre 2000
+	  - Décret n°2005-1649 du 26 décembre 2005 - art. 5 () JORF 28 décembre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 91 quater K
+
+Afin de bénéficier des dispositions du 3 du III de l'article 163 quinquies D du code général des impôts, le titulaire du plan
+d'épargne en actions adresse à l'organisme gestionnaire du plan un document attestant sur l'honneur que les sommes ou valeurs
+dont il demande le retrait, ou le rachat s'agissant d'un contrat de capitalisation, sont destinées à être affectées au
+financement de la création ou de la reprise d'une entreprise dans les conditions fixées par la deuxième phrase du 2 du II de
+l'article 150-0 A du même code.
+
+Dans les quatre mois qui suivent le retrait ou le rachat, le titulaire du plan adresse à l'organisme gestionnaire :
+
+a. En cas d'affectation des sommes au financement de la création d'une entreprise exerçant une activité industrielle,
+commerciale, artisanale, agricole ou libérale, la copie du récépissé de dépôt de dossier de création d'entreprise tel que
+prévu à l'article L. 123-9-1 du code de commerce, à l'article L. 311-2-1 du code rural ou à l'article 19-1 de la loi n°
+96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat ou tout document officiel
+comportant l'immatriculation de l'entreprise et son identification ;
+
+b. En cas d'affectation des sommes au financement de la reprise d'une entreprise exerçant une activité mentionnée au a, la
+copie du document constatant l'opération, soumis à la formalité de l'enregistrement et mentionné aux articles 635, 638 ou 639
+du code général des impôts, accompagnée de tout document officiel comportant l'immatriculation de l'entreprise et son
+identification ;
+
+c. Une attestation sur l'honneur délivrée par l'entrepreneur individuel, la société ou, s'agissant de la reprise d'une
+entreprise, le cédant, mentionnant la date et le montant des sommes ou valeurs investies dans l'entreprise par le titulaire
+du plan conformément aux conditions fixées par la deuxième phrase du 2 du II de l'article 150-0 A précité ;
+
+d. L'identité et l'adresse de la ou des personnes exerçant dans la société créée ou reprise l'une des fonctions énumérées au
+1° de l'article 885 O bis du code général des impôts ou de l'exploitant individuel de l'entreprise créée ou reprise et, si
+nécessaire, la justification que l'un de ceux-ci est le conjoint ou le partenaire lié par un pacte civil de solidarité,
+l'ascendant ou le descendant du titulaire du plan.
+
+Si l'une des conditions énumérées au présent article n'est pas respectée, le retrait ou le rachat entraîne la clôture du plan
+d'épargne en actions en application du 2 du III de l'article 163 quinquies D du code général des impôts et, en cas de retrait
+ou de rachat avant l'expiration de la cinquième année du plan, l'imposition du gain net réalisé depuis l'ouverture du plan
+dans les conditions prévues à la première phrase du 2 du II de l'article 150-0 A du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quinquies D, 150-0 A, 635, 638, 639, 150-0 A, 885 O bis
+	  - Code rural L311-2-1
+	  - Loi n°96-603 du 5 juillet 1996 - art. 19-1 (V)
+	  - Code de commerce. - art. L123-9-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2005-1649 du 26 décembre 2005 - art. 6 () JORF 28 décembre 2005
 
 
 ##### VI : Déduction des pensions alimentaires
@@ -10534,9 +10633,9 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 ###### Article 212
 
-1. Les redevables qui, dans le cadre de leurs activités situées dans le champ d'application de la taxe sur la valeur ajoutée
-[*TVA*] , ne réalisent pas exclusivement des opérations ouvrant droit à déduction sont autorisés à déduire une fraction de la
-taxe sur la valeur ajoutée qui a grevé les biens constituant des immobilisations utilisées pour effectuer ces activités.
+1. Les redevables qui, dans le cadre de leurs activités situées dans le champ d'application de la taxe sur la valeur ajoutée,
+ne réalisent pas exclusivement des opérations ouvrant droit à déduction sont autorisés à déduire une fraction de la taxe sur
+la valeur ajoutée qui a grevé les biens constituant des immobilisations utilisées pour effectuer ces activités.
 
 Cette fraction est égale au montant de la taxe déductible obtenu, après application, le cas échéant, des dispositions de
 l'article 207 bis, multiplié par le rapport existant entre :
@@ -10561,9 +10660,18 @@ chiffre d'affaires afférent :
 
 a) Aux cessions des biens d'investissements corporels ou incorporels ;
 
-b) Au produit des opérations immobilières et financières exonérées de la taxe sur la valeur ajoutée et présentant un
-caractère accessoire par rapport à l'activité principale de l'entreprise, à la condition que ce produit représente au total 5
-% au plus du montant du chiffre d'affaires total, toutes taxes comprises, du redevable.
+b. Au produit des opérations immobilières et financières accessoires exonérées de la taxe sur la valeur ajoutée. Sont
+considérées comme accessoires les opérations qui présentent un lien avec l'activité principale de l'entreprise et dont la
+réalisation nécessite une utilisation limitée au maximum à un dixième des biens et des services grevés de taxe sur la valeur
+ajoutée qu'elle a acquis. Ce pourcentage est apprécié en fonction de la proportion d'utilisation pour ces opérations de
+chaque bien et service grevé de taxe sur la valeur ajoutée. Cette proportion est appliquée à la valeur de l'acquisition par
+le redevable de chacun de ces biens et services pour déterminer leur valeur d'utilisation. Le pourcentage résulte du rapport
+entre, au numérateur, la somme des valeurs d'utilisation ainsi déterminées et, au dénominateur, le montant total de la valeur
+d'acquisition de ces biens et services.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -10573,15 +10681,19 @@ caractère accessoire par rapport à l'activité principale de l'entreprise, à 
 
 	**Modifié par**:
 
-	  - Décret n°94-452 du 3 juin 1994 - art. 2 () JORF 5 juin 1994
-	  - Décret n°94-452 du 3 juin 1994 - art. 7 () JORF 5 juin 1994
+	  - Décret n°2005-1648 du 26 décembre 2005 - art. 1 () JORF 28 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
-	  - TXT_ASSOCIE: Instruction 1999-01-14 3D-1-99
-	  - TXT_ASSOCIE: Instruction 1999-05-17 8A-4-99
-	  - TXT_ASSOCIE: Instruction 2001-10-15 3D-4-01
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Codifié par**:
+
+	  - L'abrogation sera codifiée ultérieurement
 
 
 ###### Article 213
