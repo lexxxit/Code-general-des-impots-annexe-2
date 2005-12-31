@@ -1,30 +1,24 @@
 # Article 140 K bis
 
-Ainsi qu'il est dit aux premier et deuxième alinéas de l'article R. 119-4 du code du travail, l'obligation faite aux
-personnes ou aux entreprises employant un apprenti de verser, en application du deuxième alinéa de l'article 226 bis du code
-général des impôts, un concours au centre de formation d'apprentis ou à la section d'apprentissage où est inscrit cet
-apprenti s'applique dans la limite de la fraction de la taxe d'apprentissage réservée au développement de l'apprentissage
-mentionnée à l'article 140 K, après imputation du versement au Trésor public mentionné à l'article 140 K ter.
-
-Les versements prévus au présent article sont effectués postérieurement au versement au Trésor public mentionné à l'article
-140 K ter et préalablement à toutes autres dépenses libératoires.
+L'obligation faite aux personnes ou aux entreprises employant un apprenti de verser un concours au centre de formation
+d'apprentis ou à la section d'apprentissage où est inscrit cet apprenti s'applique dans les conditions prévues à l'article R.
+119-4 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 226 bis
-	  - CGIAN2 140 K, 140 K ter
-	  - Code du travail - art. R119-4 (M)
+	  - Décret n°2006-356 2006-03-24
 
 	**Modifié par**:
 
-	  - Décret n°2002-597 du 24 avril 2002 - art. 10 () JORF 27 avril 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-1207 2002-09-27
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - DISJOINT: Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. R119-4

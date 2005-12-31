@@ -1,37 +1,27 @@
 # Article 317 duodecies
 
-I. La taxe est exigible à l'ouverture de la période d'imposition ou dans le mois de la première mise en circulation du
-véhicule en France et dans les départements d'outre-mer. Toutefois, elle n'est pas due pour la période en cours si la
-première mise en circulation a lieu entre le 15 août et le 30 novembre. Elle n'est pas due non plus lorsqu'un véhicule cesse
-en cours d'année d'être en situation de bénéficier d'une exonération.
+I. (sans objet)
 
 II. Le paiement de la taxe incombe à la personne physique ou morale propriétaire du véhicule.
 
 En cas de vente d'un véhicule au cours de la période d'imposition, les cessionnaires successifs sont solidairement
 responsables du paiement de la taxe.
 
-III. Le paiement de la taxe est constaté au moyen de la délivrance d'une vignette timbrée dont le modèle et les modalités de
-délivrance et d'utilisation sont établis par un arrêté ministériel qui fixe, en outre les obligations incombant aux
-propriétaires de véhicules exonérés de la taxe (1).
-
-La délivrance des duplicata de vignettes timbrées donne lieu au paiement d'une taxe de 1,50 euro qui est perçue selon les
-modalités fixées par arrêté du ministre chargé du budget (1).
-
-**Nota:**
-
-(1) Voir les articles 155 C à 155 I de l'annexe IV.
+III. (sans objet)
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Liens**:
 
-	  - CGIAN4 155 C à 155 I
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 42 (V) JORF 31 décembre 2004
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2007-484 2007-03-30

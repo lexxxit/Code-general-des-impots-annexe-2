@@ -2,8 +2,8 @@
 
 I. Lorsqu'un contribuable perd le bénéfice du règlement de l'impôt par prélèvements mensuels en application des dispositions
 de l'article 1724 quinquies du code général des impôts, sa situation au regard des majorations de 10 % encourues
-éventuellement en exécution soit des articles 1761 et 1762, soit des articles 1761 et 1762 quater du même code est appréciée
-globalement à la date de l'échéance impayée ayant entraîné l'exclusion.
+éventuellement en exécution de l'article 1730 du même code est appréciée globalement à la date de l'échéance impayée ayant
+entraîné l'exclusion.
 
 II. L'administration notifie au contribuable et aux établissements les majorations et déchéances encourues au titre de
 l'article 1724 quinquies du code général des impôts.
@@ -12,17 +12,21 @@ l'article 1724 quinquies du code général des impôts.
 
 	**Cite**:
 
-	  - CGI 1761, 1762, 1762 quater, 1724 quinquies
+	  - CGI 1724 quinquies, 1730
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Modifié par**:
 
-	  - Loi - art. 21 (V) JORF 31 décembre 2000
-	  - Loi n°2000-1353 2000-12-30 art. 21 I, II Finances rectificative pour 2000 JORF 31 décembre 2000
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2006-356 du 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 2

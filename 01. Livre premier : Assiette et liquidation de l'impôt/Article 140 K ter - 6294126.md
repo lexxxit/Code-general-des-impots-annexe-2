@@ -1,30 +1,27 @@
 # Article 140 K ter
 
-Ainsi qu'il est dit à l'article R. 119-5 du code du travail, le montant de la fraction de la taxe d'apprentissage
-obligatoirement réservée à une péréquation entre les centres de formation d'apprentis ou sections d'apprentissage en
-application de l'article 226 B du code général des impôts est fixé à 10 % de la taxe due en raison des rémunérations versées
-pendant l'année précédente.
+L'imputation de la fraction de la taxe d'apprentissage versée au Trésor public s'effectue conformément aux dispositions de
+l'article R. 119-5 du code du travail.
 
-Le versement au Trésor public prévu à l'article 226 B du code général des impôts s'impute sur la fraction de la taxe
-d'apprentissage réservée au développement de l'apprentissage mentionnée à l'article 140 K ; il est effectué préalablement à
-toutes les dépenses libératoires.
+**Nota:**
+
+Modifications effectuées en conséquence des articles 9-I et 11 du décret n° 2008-244 du 7 mars 2008.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 226 B
-	  - CGIAN2 140 K
-	  - Code du travail - art. R119-5 (M)
+	  - Décret n°2006-356 2006-03-24
 
 	**Modifié par**:
 
-	  - Décret n°2002-597 du 24 avril 2002 - art. 11 () JORF 27 avril 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-1207 2002-09-27
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. R119-5

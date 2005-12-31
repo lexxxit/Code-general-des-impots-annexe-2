@@ -1,10 +1,10 @@
 # Article 91 quater K
 
-Afin de bénéficier des dispositions du 3 du III de l'article 163 quinquies D du code général des impôts, le titulaire du plan
-d'épargne en actions adresse à l'organisme gestionnaire du plan un document attestant sur l'honneur que les sommes ou valeurs
-dont il demande le retrait, ou le rachat s'agissant d'un contrat de capitalisation, sont destinées à être affectées au
-financement de la création ou de la reprise d'une entreprise dans les conditions fixées par la deuxième phrase du 2 du II de
-l'article 150-0 A du même code.
+Afin de bénéficier des dispositions du deuxième alinéa du II de l'article L. 221-32 du code monétaire et financier, le
+titulaire du plan d'épargne en actions adresse à l'organisme gestionnaire du plan un document attestant sur l'honneur que les
+sommes ou valeurs dont il demande le retrait, ou le rachat s'agissant d'un contrat de capitalisation, sont destinées à être
+affectées au financement de la création ou de la reprise d'une entreprise dans les conditions fixées par la deuxième phrase
+du 2 du II de l'article 150-0 A du code général des impôts.
 
 Dans les quatre mois qui suivent le retrait ou le rachat, le titulaire du plan adresse à l'organisme gestionnaire :
 
@@ -29,19 +29,28 @@ nécessaire, la justification que l'un de ceux-ci est le conjoint ou le partenai
 l'ascendant ou le descendant du titulaire du plan.
 
 Si l'une des conditions énumérées au présent article n'est pas respectée, le retrait ou le rachat entraîne la clôture du plan
-d'épargne en actions en application du 2 du III de l'article 163 quinquies D du code général des impôts et, en cas de retrait
-ou de rachat avant l'expiration de la cinquième année du plan, l'imposition du gain net réalisé depuis l'ouverture du plan
-dans les conditions prévues à la première phrase du 2 du II de l'article 150-0 A du même code.
+d'épargne en actions en application du premier alinéa du II de l'article L. 221-32 du code monétaire et financier et, en cas
+de retrait ou de rachat avant l'expiration de la cinquième année du plan, l'imposition du gain net réalisé depuis l'ouverture
+du plan dans les conditions prévues à la première phrase du 2 du II de l'article 150-0 A du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 163 quinquies D, 150-0 A, 635, 638, 639, 150-0 A, 885 O bis
-	  - Code rural L311-2-1
+	  - CGI 150-0 A, 635, 638, 639, 885 O bis
 	  - Loi n°96-603 du 5 juillet 1996 - art. 19-1 (V)
 	  - Code de commerce. - art. L123-9-1 (V)
+	  - Code monétaire et financier - art. L221-32 (V)
+	  - Code rural L311-2-1
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2005-1649 du 26 décembre 2005 - art. 6 () JORF 28 décembre 2005
+	  - Décret n°2006-356 2006-03-24
+
+	**Modifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006

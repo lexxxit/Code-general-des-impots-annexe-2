@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2005-12-28
+Version Consolidée au 2006-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -228,28 +228,38 @@ III. Les associés joignent à chacune de leurs déclarations des revenus un exe
 
 L'accomplissement, selon le cas, de la formalité fusionnée, prévue à l'article 647 du code général des impôts, ou de la
 formalité de l'enregistrement est subordonné, pour tout acte constatant la cession de biens désignés à l'article 35 dudit
-code, à la condition que le cédant mentionne au pied de l'acte :
+code, à la condition que le cédant mentionne au pied de l'acte : 
 
-Le lieu de son domicile réel ou, s'il s'agit d'une société celui de son siège social ;
+Le lieu de son domicile réel ou, s'il s'agit d'une société celui de son siège social ; 
 
-Le cas échéant, le lieu de l'établissement qu'il possède en France ;
+Le cas échéant, le lieu de l'établissement qu'il possède en France ; 
 
-L'adresse du service des impôts dont il dépend éventuellement pour la déclaration de ses revenus ou bénéfices.
+L'adresse du service des impôts dont il dépend éventuellement pour la déclaration de ses revenus ou bénéfices. 
 
 Les contribuables passibles du prélèvement prévu à l'article 244 bis du même code doivent souscrire une déclaration spéciale
-rédigée sur une formule délivrée par l'administration.
+rédigée sur une formule délivrée par l'administration. 
 
-Cette déclaration est appuyée, le cas échéant, de toutes les justifications utiles.
+Cette déclaration est appuyée, le cas échéant, de toutes les justifications utiles. 
 
 Lorsque la cession dont résulte la plus-value fait l'objet d'un acte ou d'une déclaration soumis à la formalité de
 l'enregistrement, la déclaration spéciale doit être déposée au moment de la présentation à cette formalité de l'acte, ou de
-la déclaration qui en tient lieu, à la recette des impôts où la présentation est faite.
+la déclaration qui en tient lieu, au service des impôts où la présentation est faite.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
 	**Cite**:
 
-	  - CGI 647, 35, 244 bis
+	  - Code général des impôts, CGI. - art. 244 bis (V)
+	  - Code général des impôts, CGI. - art. 35 (V)
+	  - Code général des impôts, CGI. - art. 647 (V)
 
 
 ##### 3 : Amortissement des biens d'investissement ouvrant droit à déduction de la taxe sur la valeur ajoutée
@@ -1993,7 +2003,8 @@ d) Décès du contribuable ou de l'un des époux soumis à une imposition commun
 
 e) Divorce ou séparation de corps ;
 
-f) Redressement ou liquidation judiciaire du contribuable ou de l'un des époux soumis à une imposition commune ;
+f) Procédure de sauvegarde, redressement ou liquidation judiciaire du contribuable ou de l'un des époux soumis à une
+imposition commune ;
 
 g) Tout autre événement exceptionnel affectant la situation personnelle, familiale ou professionnelle du contribuable et
 revêtant un caractère de gravité tel qu'il contraigne le contribuable, pour y faire face, à liquider tout ou partie de son
@@ -2011,23 +2022,18 @@ antérieurement à sa survenance.
 	  - Code de la sécurité sociale. - art. L341-4 (V)
 	  - Code de l'action sociale et des familles - art. L241-3 (M)
 
-	**Créé par**:
-
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Modifié par**:
 
-	  - Rapport au Président de la République relatif à l' - art. 1 (V) JORF 23 décembre 2000
-	  - Rapport au Président de la République relatif à l' - art. 3 (V) JORF 23 décembre 2000
-	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V) JORF 27 juillet 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 74-0 B
@@ -2164,7 +2170,9 @@ joindre à la déclaration spéciale des plus-values prévue à l'article 74-0 F
 
 a) Soit la copie d'un extrait d'un des jugements mentionnés au premier alinéa du 12 de l'article 150-0 D du code général des
 impôts ou au deuxième alinéa, en cas d'exercice de l'option prévue à cet alinéa, soit la copie de l'une des formalités
-assurant la publicité de ces jugements dans les conditions prévues à l'article 21 du décret n° 85-1388 du 27 décembre 1985 ;
+assurant la publicité de ces jugements dans les conditions prévues à l'article 63 du décret n° 2005-1677 du 28 décembre 2005
+dont les dispositions sont applicables aux procédures de redressement judiciaire en vertu de l'article 176 de ce même
+décret ;
 
 b) Une copie d'un document justifiant du nombre de titres détenus à la date du jugement ;
 
@@ -2172,19 +2180,19 @@ c) Le montant des pertes constatées ainsi que les éléments nécessaires à le
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 150-0 D
-	  - CGIAN2 74-0 F
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 21 (M)
-
 	**Modifié par**:
 
-	  - Décret n°2004-222 du 11 mars 2004 - art. 1 () JORF 14 mars 2004
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 176 (Ab) JORF 29 décembre 2005
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 354 () JORF 29 décembre 2005
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 63 (Ab) JORF 29 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 74-0 G bis
@@ -2350,39 +2358,6 @@ réalisation de cet apport.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 74-0 L
-
-Les contribuables qui entendent bénéficier de la prorogation du report d'imposition dans les conditions prévues au II de
-l'article 150-0 C du code général des impôts font apparaître distinctement, sur la déclaration spéciale prévue à l'article
-74-0 F souscrite au titre de l'année au cours de laquelle les titres reçus ont été cédés, le montant des plus-values dont la
-prorogation du report d'imposition est demandée.
-
-**Nota:**
-
-Décret 2006-1421 du 21 novembre 2006 art. 6 II : Les dispositions de l'article 74-0 L demeurent applicables aux plus-values
-en report d'imposition à la date du 1er janvier 2006.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150-0 C
-	  - CGIAN2 74-0 F
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
-	  - HISTO: Edition du 31 mars 2001
-
-	**Créé par**:
-
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1421 du 21 novembre 2006 - art. 6 () JORF 23 novembre 2006
 
 
 ###### Article 74-0 M
@@ -2608,17 +2583,17 @@ est déterminée à la date de la cession par application successive des disposi
 
 ###### Article 74 SH
 
-I. - La déclaration mentionnée à l'article 150 VG du code général des impôts doit être déposée pour chaque bien ou droit cédé
-par le contribuable :
+I.-La déclaration mentionnée à l'article 150 VG du code général des impôts doit être déposée pour chaque bien ou droit cédé
+par le contribuable : 
 
-1° En un seul exemplaire en cas de cession d'immeubles ;
+1° En un seul exemplaire en cas de cession d'immeubles ; 
 
-2° En double exemplaire en cas de cession de biens meubles ou de droits sociaux. La recette des impôts indique sur chacun
+2° En double exemplaire en cas de cession de biens meubles ou de droits sociaux. Le service des impôts indique sur chacun
 d'entre eux les références du dépôt et le montant des sommes reçues en paiement de l'impôt afférent à la plus-value telle
 qu'elle a été liquidée sur la déclaration. Un exemplaire de cette déclaration annotée est remis au vendeur ou à son
-mandataire.
+mandataire. 
 
-II. - La déclaration doit être signée par le cédant ou par son mandataire. Dans ce dernier cas, le mandat doit figurer dans
+II.-La déclaration doit être signée par le cédant ou par son mandataire. Dans ce dernier cas, le mandat doit figurer dans
 l'acte de cession ou être joint à l'appui de la déclaration. Il comporte, outre l'acceptation du mandataire, l'indication des
 nom, prénoms et adresse du mandant, l'habilitation du mandataire à signer les déclarations et, le cas échéant, à verser
 l'impôt correspondant à celles-ci ainsi que la reconnaissance, par le mandant, qu'il demeurera personnellement responsable de
@@ -2626,22 +2601,22 @@ l'impôt, et notamment des suppléments de droits et pénalités qui pourraient 
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 150 VG
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 317 A (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 M (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 150 VG (V)
 
 
 ###### Article 74 SI
@@ -2667,29 +2642,30 @@ remploi de l'indemnité pour le bénéfice de l'exonération prévue au 4° du I
 
 L'accomplissement de la formalité de l'enregistrement ou de la formalité fusionnée est subordonné, pour tout acte ou toute
 déclaration constatant la cession à titre onéreux de biens entrant dans le champ d'application des articles 150 U à 150 VH du
-code général des impôts, à la mention dans l'acte ou dans la déclaration :
+code général des impôts, à la mention dans l'acte ou dans la déclaration : 
 
 1° De l'adresse du service des impôts dont le cédant dépend pour la déclaration de ses revenus ou bénéfices ou, pour les
-cessions mentionnées aux 1° et 3° du II de l'article 150 VG, de l'adresse de la recette des impôts du domicile du cédant ;
+cessions mentionnées aux 1° et 3° du II de l'article 150 VG, de l'adresse du service des impôts du domicile du cédant ; 
 
-2° Du prix de cession de chacun des biens ;
+2° Du prix de cession de chacun des biens ; 
 
 3° Du prix d'acquisition du bien ou, s'il s'agit d'une acquisition à titre gratuit, du nom du précédent propriétaire, de son
 domicile et, éventuellement, de la date de son décès.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
 	**Cite**:
 
-	  - CGI 150 U à 150 VH, 150 VG
-
-	**Créé par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004 rectificatif JORF 10 juillet 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 150 U (V)
+	  - Code général des impôts, CGI. - art. 150 VG (V)
 
 
 ##### VI : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité
@@ -2739,7 +2715,7 @@ mentionnant la date et le prix payé,
 
 Soit d'une facture régulière délivrée par un commerçant résidant en France,
 
-Soit d'une facture délivrée par un particulier et visée par la recette des impôts ayant encaissé la taxe,
+Soit d'une facture délivrée par un particulier et visée par le service des impôts ayant encaissé la taxe,
 
 Soit, lorsque l'objet a été acquis par voie de succession ou de donation, d'un extrait de la déclaration ayant servi de base
 à la liquidation des droits de mutation et mentionnant le bien concerné.
@@ -2764,146 +2740,15 @@ d'option visée par les services fiscaux vaut justification du paiement de la ta
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
-
-	**Créé par**:
-
-	  - Décret n°93-231 1993-07-19 art. 2 JORF 22 juillet 1993
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
-
-
-##### VII : Dispositions communes
-
-##### 1 : Conditions d'exonération des contrats de location ou sous-location de logements.
-
-###### Article 74 T
-
-Pour l'application de l'article 15 ter du code général des impôts, les logements doivent répondre aux normes minimales
-suivantes :
-
-a) Avoir une surface habitable d'au moins 9 mètres carrés pour une personne seule et de 7 mètres carrés par personne
-supplémentaire ;
-
-b) Comporter :
-
-1. Un poste d'eau potable ;
-
-2. Des moyens d'évacuation des eaux usées ;
-
-3. Un w.-c. particulier dans les maisons individuelles ou un w.-c. commun situé à l'étage ou au demi-étage dans les immeubles
-collectifs ;
-
-4. Un w-c collectif situé à l'étage ou au demi-étage pour une chambre isolée ;
-
-5. Un des moyens de chauffage définis à l'article 12 du décret n° 68-976 du 9 novembre 1968.
-
-Ces conditions sont présumées remplies, sauf preuve contraire, pour les logements construits après le 1er septembre 1948 et
-qui ont obtenu un certificat de conformité ainsi que pour les logements appartenant à un organisme d'habitations à loyers
-modéré.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 15 ter
-	  - Décret n°68-976 du 9 novembre 1968 - art. 12 (Ab)
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Modifié par**:
 
-	  - Loi - art. 11 (V) JORF 29 décembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 1er janvier 2006
-
-
-##### 2 : Etat à produire par les contribuables relevant du régime des micro-entreprises et du régime spécial déclaratif.
-
-###### Article 74 U
-
-L'état que les contribuables placés sous le régime défini aux articles 50-0 ou 102 ter du code général des impôts doivent
-joindre à la déclaration prévue à l'article 170 du même code mentionne :
-
-1. Les nom, prénom ou raison sociale du contribuable ainsi que le numéro d'identification de l'établissement (n° SIRET) ;
-
-2. L'adresse du lieu d'exploitation et l'adresse personnelle de l'exploitant lorsque celle-ci diffère de la première ;
-
-3. Le chiffre d'affaires réalisé ou les recettes encaissées au titre de l'année civile, en distinguant :
-
-a) Prestations de service ;
-
-b) Activités commerciales autres que les prestations de service ;
-
-c) Activités non commerciales ;
-
-4. Les éléments utiles à l'assiette de la taxe professionnelle :
-
-a) (sans objet)
-
-b) Pour les artisans qui remplissent les conditions prévues par le 2° du I de l'article 1468 du code général des impôts, le
-nombre de salariés donnant droit à la réduction prévue audit article ;
-
-5. Les plus ou moins-values réalisées dans le cadre de l'activité professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 50-0, 102 ter, 170, 1467, 1468
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 1er janvier 2006
-	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 7 () JORF 8 décembre 2005
-
-	**Modifié par**:
-
-	  - Loi n°98-1266 1998-12-30 art. 44 I 1 Finances pour 1999 JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-
-###### Article 74 V
-
-L'état mentionné à l'article 74 U doit être complété par chaque contribuable membre du foyer fiscal disposant de revenus
-relevant du régime prévu aux articles 50-0 ou 102 ter du code général des impôts.
-
-En cas de pluralité d'activités ou d'entreprises, le contribuable doit souscrire un état pour chaque lieu d'exploitation.
-
-Cet état est adressé en simple exemplaire, avec la déclaration de revenus, au service des impôts dont dépend le domicile du
-contribuable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 50-0, 102 ter, 74 U
-
-	**Créé par**:
-
-	  - Décret n°2000-195 du 3 mars 2000 - art. 1 () JORF 5 Mars 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 7 () JORF 8 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ##### Section II : Revenu global
@@ -2920,23 +2765,33 @@ l'article 163 octodecies A du code général des impôts doit joindre à sa déc
 2° Soit la copie d'un extrait d'un des jugements mentionnés au deuxième alinéa du I de l'article 163 octodecies A du code
 général des impôts ou au troisième alinéa, en cas d'exercice de l'option prévue à cet alinéa, accompagnée, le cas échéant, de
 la copie d'un extrait du jugement mentionné au premier alinéa du II bis du même article, soit la copie de l'une des
-formalités assurant la publicité de ces jugements dans les conditions prévues à l'article 21 du décret n° 85-1388 du 27
-décembre 1985.
+formalités assurant la publicité de ces jugements dans les conditions prévues à l'article 63 du décret n° 2005-1677 du 28
+décembre 2005 dont les dispositions sont applicables aux procédures de redressement judiciaire en vertu de l'article 176 de
+ce même décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 163 octodecies A
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 21 (M)
+	  - Décret n°2005-1677 2005-12-28 art. 63, art. 176
 
 	**Modifié par**:
 
-	  - Décret n°2004-222 du 11 mars 2004 - art. 2 () JORF 14 mars 2004
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 176 (Ab) JORF 29 décembre 2005
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 354 () JORF 29 décembre 2005
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 63 (Ab) JORF 29 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 59 III, VI Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 59 (V) JORF 27 décembre 2006
 
 
 ###### Article 75-0 Y bis
@@ -3415,22 +3270,22 @@ Dispositions devenues sans objet en conséquence de l'article 11-I F et IV de la
 
 ###### Article 91 quater
 
-La date d'ouverture du plan d'épargne populaire est celle du premier versement effectué sur le compte ou au titre du contrat
-d'assurance vie.
+La date d'ouverture du plan d'épargne populaire est fixée conformément aux dispositions de l'article R. 221-69 du code
+monétaire et financier.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - Décret n°2006-356 2006-03-24
 
 	**Modifié par**:
 
-	  - Loi - art. 12 (V) JORF 31 décembre 1999
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Code monétaire et financier - art. R221-69 (V)
 
 
 ###### Article 91 quater A
@@ -3495,6 +3350,26 @@ revenu en application du 22° de l'article 157 du code général des impôts.
 
 
 ##### V bis : Plan d'épargne en actions
+
+###### Article 91 quater E
+
+Les dispositions relatives aux modalités d'ouverture d'un plan d'épargne en actions sont prévues par l'article R. 221-111 du
+code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Créé par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R221-111 (V)
+
 
 ###### Article 91 quater F
 
@@ -3685,11 +3560,11 @@ une rubrique spéciale le montant du gain net visé au deuxième alinéa assorti
 
 ###### Article 91 quater K
 
-Afin de bénéficier des dispositions du 3 du III de l'article 163 quinquies D du code général des impôts, le titulaire du plan
-d'épargne en actions adresse à l'organisme gestionnaire du plan un document attestant sur l'honneur que les sommes ou valeurs
-dont il demande le retrait, ou le rachat s'agissant d'un contrat de capitalisation, sont destinées à être affectées au
-financement de la création ou de la reprise d'une entreprise dans les conditions fixées par la deuxième phrase du 2 du II de
-l'article 150-0 A du même code.
+Afin de bénéficier des dispositions du deuxième alinéa du II de l'article L. 221-32 du code monétaire et financier, le
+titulaire du plan d'épargne en actions adresse à l'organisme gestionnaire du plan un document attestant sur l'honneur que les
+sommes ou valeurs dont il demande le retrait, ou le rachat s'agissant d'un contrat de capitalisation, sont destinées à être
+affectées au financement de la création ou de la reprise d'une entreprise dans les conditions fixées par la deuxième phrase
+du 2 du II de l'article 150-0 A du code général des impôts.
 
 Dans les quatre mois qui suivent le retrait ou le rachat, le titulaire du plan adresse à l'organisme gestionnaire :
 
@@ -3714,22 +3589,31 @@ nécessaire, la justification que l'un de ceux-ci est le conjoint ou le partenai
 l'ascendant ou le descendant du titulaire du plan.
 
 Si l'une des conditions énumérées au présent article n'est pas respectée, le retrait ou le rachat entraîne la clôture du plan
-d'épargne en actions en application du 2 du III de l'article 163 quinquies D du code général des impôts et, en cas de retrait
-ou de rachat avant l'expiration de la cinquième année du plan, l'imposition du gain net réalisé depuis l'ouverture du plan
-dans les conditions prévues à la première phrase du 2 du II de l'article 150-0 A du même code.
+d'épargne en actions en application du premier alinéa du II de l'article L. 221-32 du code monétaire et financier et, en cas
+de retrait ou de rachat avant l'expiration de la cinquième année du plan, l'imposition du gain net réalisé depuis l'ouverture
+du plan dans les conditions prévues à la première phrase du 2 du II de l'article 150-0 A du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 163 quinquies D, 150-0 A, 635, 638, 639, 150-0 A, 885 O bis
-	  - Code rural L311-2-1
+	  - CGI 150-0 A, 635, 638, 639, 885 O bis
 	  - Loi n°96-603 du 5 juillet 1996 - art. 19-1 (V)
 	  - Code de commerce. - art. L123-9-1 (V)
+	  - Code monétaire et financier - art. L221-32 (V)
+	  - Code rural L311-2-1
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2005-1649 du 26 décembre 2005 - art. 6 () JORF 28 décembre 2005
+	  - Décret n°2006-356 2006-03-24
+
+	**Modifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### VI : Déduction des pensions alimentaires
@@ -4524,48 +4408,48 @@ même 5°. Le taux de cette provision est fixé à 0,50 %.
 
 ###### Article 102 K
 
-I. - A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à court terme, elles n'aient
+I.-A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à court terme, elles n'aient
 constitué au 31 décembre 1978 pour un montant total supérieur à 1,50 % de l'encours de ces crédits, des provisions
 individualisées répondant aux conditions du premier alinéa du 5° du 1 de l'article 39 du code général des impôts, les caisses
 de crédit agricole sont tenues de faire figurer tant à leur bilan du 1er janvier 1979 qu'aux bilans de clôture de chacun des
-exercices 1979 à 1983 une provision forfaitaire provisoire destinée à couvrir les risques de cette nature.
+exercices 1979 à 1983 une provision forfaitaire provisoire destinée à couvrir les risques de cette nature. 
 
 II. La provision forfaitaire est calculée en appliquant à l'encours des crédits à court terme un taux de 1,50 %. A la clôture
 de chacun des exercices 1979 à 1983, le calcul est effectué après imputation sur la provision des pertes ayant affecté ces
-crédits.
+crédits. 
 
 Toutefois, si à la clôture de l'un quelconque de ces exercices, le total des provisions individualisées susceptibles d'être
 constituées en conformité avec l'article précité fait apparaître un taux effectif de couverture supérieur à 1,50 %, ces
-provisions sont retenues pour la détermination du résultat imposable, dans la mesure où elles ont été comptabilisées.
+provisions sont retenues pour la détermination du résultat imposable, dans la mesure où elles ont été comptabilisées. 
 
 III. Lorsque la provision forfaitaire figurant au bilan du 31 décembre 1983 est supérieure au total des provisions
 individualisées susceptibles d'être constituées à la même date en conformité avec le premier alinéa du 5° du de l'article 39
 du code précité, la différence est rattachée, après correction, au résultat imposable de l'exercice 1983. Cette correction
 est opérée en réduisant la différence mentionnée ci-dessus du montant dont aurait été amputée la provision forfaitaire
 figurant au bilan du 1er janvier 1979 si le taux effectif de couverture constaté au 31 décembre 1983 avait été substitué au
-taux de 1,50 %.
+taux de 1,50 %. 
 
 Dans le cas inverse, le résultat imposable de l'exercice 1983 est augmenté de la somme dont aurait été majorée la provision
 forfaitaire figurant au bilan du 1er janvier 1979 si le taux effectif de couverture constaté au 31 décembre 1983 avait été
-substitué au taux de 1,50 %.
+substitué au taux de 1,50 %. 
 
-IV. En ce qui concerne la caisse nationale de crédit agricole, les crédits à court terme portant sur des effets publics ou
+IV. En ce qui concerne l'organe central du Crédit agricole, les crédits à court terme portant sur des effets publics ou
 garantis par l'Etat, ou consentis à des caisses de crédit agricole mutuel, sont exclus de la base de calcul de la provision
 forfaitaire provisoire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 39 1
-
-	**Créé par**:
-
-	  - Décret n°79-1119 du 21 décembre 1979 - art. 4 (V) JORF 26 décembre 1979
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 57 () JORF 7 mai 2005
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°2006-356 2006-03-24
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 (V)
 
 
 ###### Article 102 L
@@ -5011,28 +4895,31 @@ distributions reçues de ces sociétés.
 II. Toutefois, les entreprises ou les personnes morales, passibles de l'impôt sur les sociétés, qui estiment relever des
 dispositions du II ou du II bis de l'article 209 B du code général des impôts peuvent se limiter à indiquer dans leur
 déclaration les renseignements mentionnés aux a à e du I du présent article. La production de cette liste vaut indication
-expresse au sens de l'article 1732 du même code.
+expresse au sens du 2 du II de l'article 1727 du même code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 209 B, 1732
+	  - CGI 209 B, 1727
 	  - CGIAN2 102 SA, 102 U, 102 V, 102 W, 102 X
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 ZA (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger
@@ -5572,10 +5459,9 @@ Les impôts qui ne peuvent être imputés ne sont en aucun cas remboursés par l
 société agréée peut imputer sur le montant de l'impôt sur les sociétés et du précompte dont elle est redevable, au titre de
 chaque exercice et dans l'ordre suivant :
 
-a) La fraction des crédits d'impôt et de l'imposition forfaitaire annuelle admis en paiement de l'impôt sur les sociétés
-afférent à la part des bénéfices du même exercice réalisés par chacune de ses exploitations indirectes situées en France
-métropolitaine ou dans les départements d'outre-mer et qui ont été pris en compte pour la détermination du résultat
-consolidé ;
+a) La fraction des crédits d'impôt admis en paiement de l'impôt sur les sociétés afférent à la part des bénéfices du même
+exercice réalisés par chacune de ses exploitations indirectes situées en France métropolitaine ou dans les départements
+d'outre-mer et qui ont été pris en compte pour la détermination du résultat consolidé ;
 
 b) La fraction de l'impôt sur les sociétés payé par ces exploitations au titre des mêmes bénéfices ;
 
@@ -5583,9 +5469,7 @@ c) La fraction du précompte qu'elles ont payé à raison de la distribution de 
 
 2. La société agréée peut obtenir la restitution de la fraction des sommes qu'il ne lui serait pas possible d'imputer, à
 l'exclusion des crédits d'impôt non restituables en application des dispositions du code général des impôts ou des
-conventions internationales et de l'avoir fiscal (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+conventions internationales et de l'avoir fiscal.
 
 **Liens relatifs à cet article**
 
@@ -5593,13 +5477,18 @@ conventions internationales et de l'avoir fiscal (1).
 
 	  - CGIAN2 122, 122 bis
 
-	**Modifié par**:
-
-	  - Décret n°97-1227 du 26 décembre 1997 - art. 2 () JORF 28 décembre 1997
-
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1719 2005-12-30 art. 21 I, IV Finances pour 2006 JORF 31 décembre 2005
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 21 (V) JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 
 ##### 8 : Rapatriement des bénéfices
@@ -5928,7 +5817,7 @@ L'agrément visé à l'article 113 est accordé pour une durée de cinq ans. Il 
 ###### Article 134
 
 1. L'agrément prévu à l'article 113 peut être retiré, ou les sociétés qui l'ont obtenu peuvent en être déchues, par
-application des dispositions de l'article 1756 du code général des impôts (1).
+application des dispositions de l'article 1649 nonies A du code général des impôts.
 
 Il peut, bien que les engagements en vue de l'obtenir aient été remplis ou que les conditions mises à son octroi aient été
 respectées, être retiré notamment dans les cas suivants :
@@ -5951,27 +5840,26 @@ Le retrait de l'agrément est prononcé par l'autorité qui l'a accordé après 
 composition est prévue à l'article 1653 C du code général des impôts. La société agréée est au préalable informée des faits
 qui lui sont reprochés et peut fournir toute justification à leur égard.
 
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1756, 1653 C
+	  - CGI 1649 nonies A, 1653 C
 	  - CGIAN2 113 à 123
-
-	**Modifié par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 21 () JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 16 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 25 (V) JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 
 ##### III : Régime du bénéfice mondial
@@ -6453,23 +6341,10 @@ Modifications effectuées en conséquence de l'articles 12-I B et V de la loi n�
 
 ###### Article 140 B
 
-La déclaration doit être déposée à la recette des impôts du lieu de souscription de la déclaration des résultats de
+La déclaration doit être déposée au service des impôts du lieu de souscription de la déclaration des résultats de
 l'entreprise.
 
-
-
-##### II : Demande d'exonération.
-
-###### Article 140 C
-
-La demande d'exonération, rédigée sur des imprimés d'un modèle agréé, doit être jointe à la déclaration accompagnée, le cas
-échéant, du reçu délivré par l'organisme bénéficiaire des versements.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2003-403 du 29 avril 2003 - art. 1 () JORF 2 mai 2003
 
 	**Codifié par**:
 
@@ -6477,393 +6352,101 @@ La demande d'exonération, rédigée sur des imprimés d'un modèle agréé, doi
 
 	**Liens**:
 
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
 	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 31 août 2003
-	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
-	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
-
-
-###### Article 140 D
-
-La demande indique :
-
-1° Le nom et l'adresse de l'employeur ;
-
-2° La partie du salaire des apprentis donnant lieu à exonération, le montant des versements effectués aux centres de
-formation d'apprentis dans la limite prévue à l'article 140 K, avec le nom et l'adresse des bénéficiaires des versements ;
-
-3° L'effectif des salariés et éventuellement celui des apprentis de l'entreprise ;
-
-4° Le montant global des rémunérations déclaré en application du 1° de l'article 140 A ;
-
-5° Les conditions dans lesquelles l'employeur organise lui-même, ou avec d'autres entreprises, les premières formations
-technologiques et professionnelles, et notamment l'apprentissage, ainsi que la nature, avec les justifications appropriées,
-des charges supportées à ce titre, telles qu'elles sont définies au II de l'article 1er de la loi n° 71-758 du 16 juillet
-1971 modifiée ;
-
-6° La nature et le montant des autres dépenses énumérées au même article avec le nom et l'adresse des bénéficiaires ;
-
-La demande est accompagnée des reçus délivrés par l'organisme bénéficiaire des versements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 140 K, 140 A
-	  - Loi n°71-758 1971-07-16 art. 1
 
 	**Modifié par**:
 
-	  - Décret n°2005-1392 du 8 novembre 2005 - art. 16 () JORF 10 novembre 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
-	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-
-###### Article 140 E
-
-Le reçu de l'organisme bénéficiaire des versements est daté du jour où le versement a été fait ; il est extrait d'un carnet à
-souches, porte un numéro d'ordre et indique la somme réellement affectée aux frais énumérés au II de l'article 1er de la loi
-n° 71-578 du 16 juillet 1971 modifiée, ainsi que l'année à laquelle il se rapporte.
-
-Dans le délai de quinze jours à compter de la délivrance du reçu, l'organisme bénéficiaire du versement adresse au préfet
-dont il relève la copie de ce reçu. Cette copie porte l'indication du montant total des sommes que l'organisme a touchées au
-titre de la taxe d'apprentissage depuis le 1er janvier de l'année en cours.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
-	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
-
-	**Cite**:
-
-	  - Loi n°71-578 du 16 juillet 1971 - art. 1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2005-1392 du 8 novembre 2005 - art. 16 () JORF 10 novembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-
-###### Article 140 F
-
-Les demandes d'exonération sont transmises par le service des impôts au préfet qui en saisit la commission départementale
-compétente en matière d'emploi et d'insertion.
-
-Cette commission est celle du département du lieu de dépôt de la déclaration.
-
-Toutefois, pour les personnes ou groupements de personnes mentionnés à l'article 1649 quater B quater du code général des
-impôts qui relèvent du service chargé des grandes entreprises, cette commission est celle du département du siège de la
-direction de l'entreprise ou, à défaut, du lieu du principal établissement. S'il s'agit d'un employeur passible de l'impôt
-sur les sociétés, la commission compétente est celle du département du lieu du principal établissement.
-
-**Nota:**
-
-Nota : La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30
-art. 3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 quater B quater
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 1er janvier 2006
-	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
-	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-637 2004-07-01 art. 19 V 4°, art. 41 JORF 2 juillet 2004
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-
-###### Article 140 G
-
-La décision de la commission départementale compétente en matière d'emploi et d'insertion est motivée. Le préfet notifie la
-décision à l'intéressé ainsi que, en cas de rejet, au service des impôts.
-
-**Nota:**
-
-Nota : La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30
-art. 3.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 31 août 2004
-	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
-	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-
-###### Article 140 H
-
-L'intéressé peut, dans un délai de deux mois à compter de la notification, former un recours contre la décision de la
-commission départementale compétente en matière d'emploi et d'insertion devant la commission spéciale prévue à l'article 227
-du code général des impôts.
-
-Le préfet peut également former un recours contre les décisions de la commission départementale compétente en matière
-d'emploi et d'insertion dans les deux mois suivant l'adoption de ces décisions.
-
-La commission spéciale connaît des décisions des commissions départementales compétentes en matière d'emploi et d'insertion
-lorsque le montant de l'exonération demandée en première instance est supérieur à 150 euros.
-
-**Nota:**
-
-Nota : La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30
-art. 3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 227
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 31 août 2004
-	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
-	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-637 2004-07-01 art. 19 V 6°, 7° JORF 2 juillet 2004
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-
-###### Article 140 I
-
-Le requérant doit indiquer, dans son recours, s'il demande à surseoir au paiement de la partie contestée de la taxe, et ce,
-sous réserve de la constitution de garanties dans les conditions déterminées par les articles L. 277 à L. 279 et R. 277-3 à
-R. 277-6 du livre des procédures fiscales.
-
-Le président de la commission spéciale de la taxe d'apprentissage notifie au comptable de la direction générale des impôts
-chargé du recouvrement, par l'intermédiaire du directeur des services fiscaux du département, les pourvois qui contiennent
-une demande de sursis de paiement, en indiquant le montant de la partie de la taxe dont il est demandé exonération.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2003-403 du 29 avril 2003 - art. 1 () JORF 2 mai 2003
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. R237-21 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 31 août 2003
-	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
-	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
-
-	**Cite**:
-
-	  - Livre des procédures fiscales L277 à L279, R277-3 à R277-6
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ##### III : Modalités de versement et exonérations
 
-###### Article 140 K
+###### Article 140 K bis
 
-Ainsi qu'il est dit à l'article R. 119-1 du code du travail, le montant de la fraction de la taxe d'apprentissage
-obligatoirement réservée au développement de l'apprentissage en application de l'article 227 du code général des impôts est
-fixé à 40 %.
+L'obligation faite aux personnes ou aux entreprises employant un apprenti de verser un concours au centre de formation
+d'apprentis ou à la section d'apprentissage où est inscrit cet apprenti s'applique dans les conditions prévues à l'article R.
+119-4 du code du travail.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 227
-	  - Code du travail - art. R119-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2002-597 du 24 avril 2002 - art. 7 () JORF 27 avril 2002
 
 	**Codifié par**:
 
 	  - Décret n°2006-356 2006-03-24
 
+	**Modifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
 	**Liens**:
 
-	  - PEREMPTION: Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+	  - DISJOINT: Décret n°2009-389 du 7 avril 2009 - art. 2
 	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 31 août 2002
-
-
-###### Article 140 K bis
-
-Ainsi qu'il est dit aux premier et deuxième alinéas de l'article R. 119-4 du code du travail, l'obligation faite aux
-personnes ou aux entreprises employant un apprenti de verser, en application du deuxième alinéa de l'article 226 bis du code
-général des impôts, un concours au centre de formation d'apprentis ou à la section d'apprentissage où est inscrit cet
-apprenti s'applique dans la limite de la fraction de la taxe d'apprentissage réservée au développement de l'apprentissage
-mentionnée à l'article 140 K, après imputation du versement au Trésor public mentionné à l'article 140 K ter.
-
-Les versements prévus au présent article sont effectués postérieurement au versement au Trésor public mentionné à l'article
-140 K ter et préalablement à toutes autres dépenses libératoires.
-
-**Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 226 bis
-	  - CGIAN2 140 K, 140 K ter
-	  - Code du travail - art. R119-4 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2002-597 du 24 avril 2002 - art. 10 () JORF 27 avril 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-1207 2002-09-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
+	  - Code du travail - art. R119-4
 
 
 ###### Article 140 K ter
 
-Ainsi qu'il est dit à l'article R. 119-5 du code du travail, le montant de la fraction de la taxe d'apprentissage
-obligatoirement réservée à une péréquation entre les centres de formation d'apprentis ou sections d'apprentissage en
-application de l'article 226 B du code général des impôts est fixé à 10 % de la taxe due en raison des rémunérations versées
-pendant l'année précédente.
+L'imputation de la fraction de la taxe d'apprentissage versée au Trésor public s'effectue conformément aux dispositions de
+l'article R. 119-5 du code du travail.
 
-Le versement au Trésor public prévu à l'article 226 B du code général des impôts s'impute sur la fraction de la taxe
-d'apprentissage réservée au développement de l'apprentissage mentionnée à l'article 140 K ; il est effectué préalablement à
-toutes les dépenses libératoires.
+**Nota:**
+
+Modifications effectuées en conséquence des articles 9-I et 11 du décret n° 2008-244 du 7 mars 2008.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 226 B
-	  - CGIAN2 140 K
-	  - Code du travail - art. R119-5 (M)
+	  - Décret n°2006-356 2006-03-24
 
 	**Modifié par**:
 
-	  - Décret n°2002-597 du 24 avril 2002 - art. 11 () JORF 27 avril 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-1207 2002-09-27
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. R119-5
 
 
 ##### IV : Régimes spéciaux.
 
 ###### Article 140 M
 
-Ainsi qu'il est dit à l'article R. 119-33-1 du code du travail, dans les départements du Haut-Rhin, du Bas-Rhin et de la
-Moselle, et conformément aux dispositions de l'article 9 de la loi n° 71-578 du 16 juillet 1971, le taux de la taxe
-d'apprentissage est réduit au montant, fixé à l'article 140 K, de la fraction de cette taxe réservée au développement de
-l'apprentissage.
+Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, le taux de la taxe d'apprentissage est réduit conformément
+aux dispositions de l'article R. 119-33-1 du code du travail.
 
-Les versements effectués au titre des articles 140 K bis et 140 K ter s'imputent sur cette fraction. Le montant du versement
-mentionné à l'article 140 K ter est de 25 % de ladite fraction.
+**Nota:**
 
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°71-578 du 16 juillet 1971 - art. 9 (V)
-	  - Code du travail - art. R119-33-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2002-597 du 24 avril 2002 - art. 11 () JORF 27 avril 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-1207 2002-09-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
-
-
-###### Article 140 N
-
-Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, la demande d'exonération indique :
-
-1° Le nom et l'adresse de l'employeur qui demande l'exonération ;
-
-2° Le montant des versements effectués aux centres de formation d'apprentis dans la limite prévue à l'article 140 K, avec le
-nom et l'adresse des bénéficiaires des versements ;
-
-3° L'effectif des salariés autres que les apprentis et le nombre des apprentis employés dans les établissements situés dans
-ces départements ;
-
-4° Le montant global des rémunérations versées au titre de ces établissements déclaré en application du 1° de l'article 140
-A.
+Décret n° 2012-653 du 4 mai 2012, article 2 : cet article devient sans objet en conséquence du décret n° 2008-244 du 7 mars
+2008, article 9-I et 11.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGIAN2 140 K, 140 A
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 art. 1 II, V JORF 3 juillet 1998
-	  - Loi n°98-546 du 2 juillet 1998 - art. 1 () JORF 3 juillet 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
 	**Liens**:
 
+	  - PERIME: Décret n°2012-653 du 4 mai 2012 - art. 2
 	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 31 mars 1999
-	  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
-	  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
+
+	**Cite**:
+
+	  - Code du travail - art. R119-33-1
 
 
 #### Chapitre III : Taxe sur les salaires
@@ -7581,8 +7164,8 @@ l'année considérée, au prorata du nombre de semaines pendant lesquelles l'act
 
 ###### Article 163 novodecies
 
-Tout redevable du prélèvement spécial prévu par l'article 235 ter L du code général des impôts est tenu de remettre à la
-recette des impôts, dans le délai prévu pour le versement du prélèvement, une déclaration établie en double exemplaire sur un
+Tout redevable du prélèvement spécial prévu par l'article 235 ter L du code général des impôts est tenu de remettre au
+service des impôts, dans le délai prévu pour le versement du prélèvement, une déclaration établie en double exemplaire sur un
 imprimé conforme au modèle fixé par le ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
@@ -7591,17 +7174,21 @@ imprimé conforme au modèle fixé par le ministre de l'économie et des finance
 
 	  - CGI 235 ter L
 
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 8 IV VI 3 Finances pour 1990 JORF 30 décembre 1989
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°2006-356 2006-03-24
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 septies (P)
 
 
 ###### Article 163 octodecies
@@ -7633,7 +7220,7 @@ déclaration annuelle de résultats.
 Le prélèvement spécial prévu par l'article 235 ter L du code général des impôts sur la fraction des bénéfices industriels et
 commerciaux imposables à l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de la distribution
 ou de la représentation de films pornographiques ou d'incitation à la violence est liquidé par les entreprises qui réalisent
-ces bénéfices. Ces entreprises l'acquittent spontanément auprès de la recette des impôts dont elles relèvent.
+ces bénéfices. Ces entreprises l'acquittent spontanément auprès du service des impôts dont elles relèvent.
 
 La période d'imposition est, pour chaque redevable, celle qui est retenue pour l'établissement soit de l'impôt sur le revenu
 dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt sur les sociétés.
@@ -7644,17 +7231,22 @@ dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt su
 
 	  - CGI 235 ter L
 
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - HISTO: Edition du 1er janvier 2006
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Loi - art. 35 (V) JORF 31 décembre 1992
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 quinquies (P)
 
 
 ###### Article 163 vicies
@@ -7963,14 +7555,14 @@ b. D'un état comportant indication de l'emploi de la provision dans les deux an
 Les personnes passibles du prélèvement institué par l'article 244 bis A du code général des impôts doivent accréditer, auprès
 de l'administration chargée du recouvrement, un représentant domicilié en France qui s'engage à remplir les formalités
 auxquelles elles sont soumises et à acquitter ce prélèvement en leur lieu et place, y compris, le cas échéant, l'amende
-prévue à l'article 1770 quinquies du code précité.
+prévue au 1 de l'article 1761 du code précité.
 
 La déclaration de plus-value, portant mention du représentant accrédité et visée par l'intéressé, est déposée :
 
 A l'appui de la réquisition de publier ou de la présentation à l'enregistrement s'il s'agit d'une cession constatée par un
 acte ;
 
-A la recette des impôts dont relève le domicile du représentant accrédité dans le cas contraire.
+Au service des impôts dont relève le domicile du représentant accrédité dans le cas contraire.
 
 Il est fait application, dans le premier cas, des règles d'exigibilité et de recouvrement prévues aux articles 1701 à 1712 du
 code général des impôts et, dans le second cas, de celles qui sont prévues au titre IV du livre des procédures fiscales pour
@@ -7980,21 +7572,20 @@ les impôts recouvrés par les comptables de la direction générale des impôts
 
 	**Cite**:
 
-	  - CGI 1701 A 1712
-	  - CGI 1770 quinquies
-	  - CGI 244 bis A
-
-	**Modifié par**:
-
-	  - Décret n°81-859 du 15 septembre 1981 - art. 3 (V) JORF 18 septembre 1981 en vigueur le 1er janvier 1982
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - CGI 244 bis A, 1761, 1701 à 1712
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 171 ter A
@@ -8776,7 +8367,7 @@ l'identité du cessionnaire.
 
 ###### Article 171 AH
 
-Le gérant de la copropriété de navire adresse au centre des impôts dont dépend celle-ci pour le dépôt de ses déclarations de
+Le gérant de la copropriété de navire adresse au service des impôts dont dépend celle-ci pour le dépôt de ses déclarations de
 résultat, les documents énumérés ci-après :
 
 a) En annexe de la première déclaration de résultat : un document attestant la date de livraison du navire ainsi que le
@@ -8795,21 +8386,17 @@ c) Dès qu'une demande d'annulation de la fiche matricule du navire est présent
 
 	  - Décret n°67-967 du 27 octobre 1967 - art. 95 (V)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Modifié par**:
 
-	  - Décret n°97-661 du 28 mai 1997 - art. 2 () JORF 1er juin 1997
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 171 AI
@@ -8841,7 +8428,7 @@ HN du code général des impôts.
 ###### Article 171 AJ
 
 Dans l'hypothèse où l'une des conditions prévues aux d à g de l'article 238 bis HN du code général des impôts n'est pas
-remplie ou cesse de l'être, le gérant de la copropriété de navire le notifie à chaque copropriétaire ainsi qu'au centre des
+remplie ou cesse de l'être, le gérant de la copropriété de navire le notifie à chaque copropriétaire ainsi qu'au service des
 impôts dont dépend la copropriété pour le dépôt de ses déclarations de résultat, en indiquant le numéro et le prix des parts
 qui ouvraient droit à la déduction lors de la souscription initiale.
 
@@ -8851,17 +8438,18 @@ qui ouvraient droit à la déduction lors de la souscription initiale.
 
 	  - CGI 238 bis HN
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 171 AK
@@ -8942,9 +8530,9 @@ a) La situation nette comptable d'une société de capital-risque s'apprécie ap
 participations détenues dans d'autres sociétés de capital-risque ;
 
 b) Lorsqu'une société dont les titres ou droits sont inclus dans le quota de 50 % fait l'objet d'une liquidation judiciaire,
-de l'ouverture d'une procédure de redressement judiciaire ou de la constatation d'une dépréciation, les titres ou droits en
-cause sont réputés maintenus à l'actif de la société de capital-risque pour leur valeur d'acquisition pendant cinq ans à
-compter du jugement ou de la constatation de la provision ;
+de l'ouverture d'une procédure de sauvegarde ou de redressement judiciaire ou de la constatation d'une dépréciation, les
+titres ou droits en cause sont réputés maintenus à l'actif de la société de capital-risque pour leur valeur d'acquisition
+pendant cinq ans à compter du jugement ou de la constatation de la provision ;
 
 c) Lorsque des titres ou droits inclus dans le quota de 50 % font l'objet d'une cession, les titres ou droits cédés sont
 réputés maintenus à l'actif de la société de capital-risque pour leur valeur nette comptable pendant une durée de deux ans à
@@ -8967,33 +8555,27 @@ direct s'apprécie par référence :
 f) Ne sont pas prises en compte les participations détenues par la société de capital-risque pour le compte de tiers ou
 financées grâce au concours de tiers qui en assument les risques financiers.
 
-**Nota:**
-
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
-redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
-et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
-plans de sauvegarde ou de redressement judiciaire.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 decies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Cite**:
 
 	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1030 du 29 juillet 2002 - art. 4, v. init.
-	  - HISTO: Edition du 31 août 2002
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 decies (V)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2005
 
 
 ###### Article 171 AN
@@ -9377,10 +8959,10 @@ Le ministre chargé de la culture saisit la commission consultative des trésors
 n° 93-124 du 29 janvier 1993 relatif aux biens culturels soumis à certaines restrictions de circulation, afin qu'elle se
 prononce sur la valeur d'acquisition du bien.
 
-Il soumet en outre la question de l'intérêt du classement de ce bien, selon le cas, à l'avis de la Commission supérieure des
-monuments historiques prévue par le décret n° 94-87 du 28 janvier 1994 relatif à la Commission supérieure des monuments
-historiques ou à celui de la Commission supérieure des archives mentionnée à l'article 2 du décret n° 79-1040 du 3 décembre
-1979 relatif à la sauvegarde des archives privées présentant du point de vue de l'Histoire un intérêt public.
+Il soumet en outre la question de l'intérêt du classement de ce bien, selon le cas, à l'avis de la Commission nationale des
+monuments historiques prévue par l'article L. 611-1 du code du patrimoine ou à celui de la Commission supérieure des archives
+mentionnée à l'article 2 du décret n° 79-1040 du 3 décembre 1979 relatif à la sauvegarde des archives privées présentant du
+point de vue de l'Histoire un intérêt public.
 
 Le ministre chargé de la culture transmet sans délai les avis prévus aux premier et deuxième alinéas au ministre chargé du
 budget.
@@ -9391,19 +8973,23 @@ budget.
 
 	  - Décret n°79-1040 du 3 décembre 1979 - art. 2 (V)
 	  - Décret n°93-124 1993-01-29 art. 5
-	  - Décret n°94-87 1994-01-28
+	  - Code du patrimoine. - art. L611-1 (M)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
 	  - Code du patrimoine. - art. R111-23 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 171 BH
@@ -9420,6 +9006,59 @@ Le ministre chargé de la culture en est informé.
 	**Liens**:
 
 	  - HISTO: Edition du 31 août 2002
+
+
+##### IX : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale
+
+###### Article 171 BI
+
+Les modalités de calcul du crédit d'impôt prévu par l'article 244 quater J sont fixées par les articles R. 318-14, R. 318-15
+et R. 318-16 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater J
+	  - Code de la construction et de l'habitation. - art. R318-14 (V)
+	  - Code de la construction et de l'habitation. - art. R318-15 (M)
+	  - Code de la construction et de l'habitation. - art. R318-16 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Créé par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 171 BJ
+
+Les conséquences du remboursement anticipé de l'avance sur l'utilisation des fractions du crédit d'impôt restant à imputer
+sont définies par l'article R. 318-17 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Créé par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R318-17 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -10702,7 +10341,7 @@ Lorsqu'un assujetti a des secteurs d'activités qui ne sont pas soumis à des di
 la valeur ajoutée, ces secteurs font l'objet de comptes distincts pour l'application du droit à déduction.
 
 Constitue un secteur d'activité chaque immeuble ou ensemble d'immeubles ou fraction d'immeuble composé de logements sociaux à
-usage locatif dont la livraison à soi-même est imposable en application des quatrième et cinquième alinéas du c du 1 du 7° de
+usage locatif dont la livraison à soi-même est imposable en application des neuvième et dixième alinéas du c du 1 du 7° de
 l'article 257 du code général des impôts ou dans lequel sont réalisés des travaux d'amélioration, de transformation ou
 d'aménagement de logement dont les livraisons à soi-même sont imposables en application du 7° bis de ce même article.
 
@@ -10718,11 +10357,20 @@ prévu à l'article 212.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1422 du 23 décembre 2004 - art. 1 (V) JORF 29 décembre 2004
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+	  - L'abrogation sera codifiée ultérieurement
+
+	**Abrogé par**:
+
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### b : Dispositions applicables aux entreprises qui ne sont pas assujetties à la taxe sur la valeur ajoutée pour l'ensemble de leurs activités.
@@ -11618,25 +11266,40 @@ remboursement.
 A l'exclusion de ceux qui bénéficient des modalités simplifiées de liquidation de la taxe sur la valeur ajoutée prévues au 3
 de l'article 287 du code général des impôts, les redevables peuvent bénéficier de remboursements mensuels ou trimestriels de
 leur crédit de taxe déductible dans la limite de la taxe sur la valeur ajoutée calculée sur le montant des exportations et
-opérations assimilées réalisées au cours de la période correspondant à chaque déclaration de chiffre d'affaires.
+opérations assimilées réalisées au cours de la période correspondant à chaque déclaration de chiffre d'affaires. 
 
 Les redevables qui ont demandé, au titre de l'un ou des deux premiers mois d'un trimestre civil un tel remboursement,
 peuvent, lors du dépôt de la dernière demande de ce trimestre, renoncer à ce régime et demander un remboursement dans les
-conditions énoncées aux articles 242-0 A à 242-0 D.
+conditions énoncées aux articles 242-0 A et 242-0 C.
+
+**Nota:**
+
+Conformément au décret n° 2013-1035 du 15 novembre 2013, article 1er, ces dispositions sont abrogées pour les demandes de
+remboursement de crédit de taxe sur la valeur ajoutée portant sur une période de remboursement postérieure au 1er janvier
+2014.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 287, 242-0 A à 242-0 D
+	  - Décret n°2006-356 2006-03-24
 
 	**Modifié par**:
 
-	  - Décret n°99-545 du 30 juin 1999 - art. 4 () JORF 1er juillet 1999
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1035 du 15 novembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 A (V)
+	  - Code général des impôts, CGI. - art. 287 (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 242-0 G
@@ -12753,7 +12416,7 @@ intracommunautaire, s'effectue au vu d'une demande établie sur un imprimé dont
 
 Le demandeur établit que le moyen de transport est affecté aux besoins d'un résident d'un autre Etat membre.
 
-La demande est déposée auprès du centre des impôts dans le ressort duquel est situé le siège de l'activité ou, à défaut, le
+La demande est déposée auprès du service des impôts dans le ressort duquel est situé le siège de l'activité ou, à défaut, le
 domicile.
 
 Le remboursement est subordonné à la production, à l'appui de la demande :
@@ -12779,13 +12442,17 @@ Du certificat de radiation de la francisation pour les autres bateaux.
 
 	  - CGI 298 sexies, 242 quaterdecies, 242 undecies
 
-	**Modifié par**:
-
-	  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2003
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 242 quaterdecies
@@ -12968,8 +12635,8 @@ R 460-4 du code de l'urbanisme.
 ###### Article 244
 
 Dans le mois de la livraison définie comme il est dit à l'article 243, le constructeur ou la personne qui a fait construire
-les immeubles est tenu de déposer une déclaration spéciale à la recette des impôts du lieu de la situation des immeubles ou,
-le cas échéant, du lieu où l'intéressé souscrit ses déclarations mensuelles ou trimestrielles.
+les immeubles est tenu de déposer une déclaration spéciale au service des impôts du lieu de la situation des immeubles ou, le
+cas échéant, du lieu où l'intéressé souscrit ses déclarations mensuelles ou trimestrielles.
 
 Cette déclaration doit être déposée en double exemplaire et conforme au modèle fixé par l'administration.
 
@@ -12979,9 +12646,21 @@ Cette déclaration doit être déposée en double exemplaire et conforme au mod�
 
 	  - CGIAN2 243
 
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 266 bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 245
@@ -12990,7 +12669,7 @@ La taxe sur la valeur ajoutée doit être intégralement versée sur le prix de 
 d'immeubles, y compris le coût des terrains ou leur valeur d'apport, dans les douze mois qui suivent leur achèvement ou, le
 cas échéant, lors de la dissolution de la société de construction.
 
-Une prolongation de ce délai peut être accordée par le directeur des services fiscaux dont dépend la recette des impôts visée
+Une prolongation de ce délai peut être accordée par le directeur des services fiscaux dont dépend le service des impôts visé
 à l'article 244, sur demande motivée par la justification de l'impossibilité d'établir la base taxable définitive avant
 l'expiration du délai indiqué ci-dessus. A titre exceptionnel, une seconde prolongation de ce délai peut intervenir dans les
 mêmes formes si le délai précédemment fixé n'est pas suffisant pour permettre d'établir la base taxable définitive.
@@ -13002,6 +12681,18 @@ Toutefois, en cas de mutation ultérieure, la taxe exigible doit être intégral
 	**Cite**:
 
 	  - CGIAN2 244
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ##### II : Dispositions relatives aux mutations
@@ -13329,7 +13020,7 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 ###### Article 260 A
 
-Sont passibles de la taxe sur la valeur ajoutée, dans les conditions prévues aux articles 298 bis, 1693 bis et 1785 D du code
+Sont passibles de la taxe sur la valeur ajoutée, dans les conditions prévues aux articles 298 bis, 1693 bis et 1785 du code
 général des impôts, les opérations ci-après réalisées par les exploitants agricoles :
 
 a. Ventes de produits agricoles réalisées :
@@ -13349,14 +13040,24 @@ ceux dont se servent pour les opérations semblables les industriels ou les comm
 
 	**Cite**:
 
-	  - CGI 1693 bis
-	  - CGI 1785 D
-	  - CGI 298 bis
+	  - CGI 298 bis, 1693 bis, 1785
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 201 quinquies (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1512 2005-12-07 art. 18 JORF 8 décembre 2005
 
 
 ###### Article 260 B
@@ -13804,7 +13505,7 @@ III. - Les personnes redevables de la redevance sanitaire de première mise sur 
 l'aquaculture doivent déposer mensuellement une déclaration conforme au modèle prescrit par la direction générale des impôts
 et comportant les indications nécessaires à l'assiette et à la perception de cette redevance.
 
-Cette déclaration est souscrite auprès de la recette des impôts dont relève le redevable pour le dépôt de ses déclarations de
+Cette déclaration est souscrite auprès du service des impôts dont relève le redevable pour le dépôt de ses déclarations de
 taxes sur le chiffre d'affaires. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les
 opérations imposables ont été réalisées. La redevance est acquittée dans le même délai. Toutefois, lorsque le montant annuel
 de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis que les redevables déposent leurs
@@ -13825,16 +13526,19 @@ de transformation ultérieures sur les produits.
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 quaterdecies-0 A (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 267 quater G
@@ -13874,7 +13578,7 @@ I. - Les personnes redevables de la redevance sanitaire pour le contrôle de cer
 l'article 302 bis WC du code général des impôts doivent déposer mensuellement une déclaration conforme au modèle prescrit par
 la direction générale des impôts et comportant les indications nécessaires à l'assiette et à la perception de la redevance.
 
-Cette déclaration est souscrite auprès de la recette des impôts dont relève le redevable pour le dépôt de ses déclarations de
+Cette déclaration est souscrite auprès du service des impôts dont relève le redevable pour le dépôt de ses déclarations de
 taxes sur le chiffre d'affaires. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les
 opérations imposables ont été réalisées. La redevance est acquittée dans le même délai. Toutefois, lorsque le montant annuel
 de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis que les redevables déposent leurs
@@ -13899,12 +13603,15 @@ membres de la Communauté européenne ne donnent pas lieu au remboursement de la
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
@@ -15581,8 +15288,8 @@ entrées et sorties, ainsi que des manipulations, reste possible sur la base de 
 agents des douanes et droits indirects ou de ceux de la concurrence, de la consommation et de la répression des fraudes.
 
 Les registres comportent les colonnes ouvertes avec les intitulés exigés par la réglementation communautaire et portent les
-références des contrats d'achat soumis au visa de l'office national interprofessionnel des vins, pour les transactions
-soumises à cette procédure.
+références des contrats d'achat soumis au visa de l'Office national interprofessionnel des fruits, des légumes des vins et de
+l'horticulture pour les transactions soumises à cette procédure.
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords interprofessionnels visés notamment aux articles
 L. 632-1 à L. 632-7 du code rural, les registres comportent pour les vins d'appellation d'origine, les références aux
@@ -15657,10 +15364,6 @@ En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualit
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
 	**Cité par**:
 
 	  - Arrêté du 27 juillet 2003 - art. 6 (V)
@@ -15685,13 +15388,13 @@ En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualit
 	  - Règlement CE 1493/1999 1999-05-17 (Conseil)
 	  - Règlement CE 884/2001 2001-04-24 (Commission)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-
 	**Modifié par**:
 
-	  - Règlement CE 884/2001 2001-04-24 art. 21 1, 2 (Commission) JO L128 10 mai 2001
+	  - Décret n°2005-1780 du 30 décembre 2005 - art. 3 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 286 J
@@ -16966,20 +16669,33 @@ l'impôt, conservé les titres détenus à l'issue de l'opération.
 
 Les informations et documents mentionnés aux articles 301 G à 301 I sont communiqués à l'administration par la personne qui
 bénéficie du régime prévu à l'article 885 I bis du code général des impôts lors du dépôt de sa déclaration d'impôt de
-solidarité sur la fortune ou sont adressés au centre des impôts de son domicile lorsqu'elle n'est pas tenue de déposer une
+solidarité sur la fortune ou sont adressés au service des impôts de son domicile lorsqu'elle n'est pas tenue de déposer une
 déclaration. Il en est de même pour la personne qui a bénéficié de cette exonération et qui n'est plus tenue de déposer cette
 même déclaration. En cas de décès de cette personne, ils sont également adressés par ses ayants cause à titre gratuit au
-centre des impôts du domicile du défunt.
+service des impôts du domicile du défunt.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2004-851 du 24 août 2004 - art. 1 () JORF 25 août 2004
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2006
+	  - TRANSFERE: Décret n°2010-423 du 28 avril 2010 - art. 4
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 G (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 M (V)
 
 
 #### Chapitre II : Droits de timbre
@@ -17040,37 +16756,30 @@ dispositions qui précèdent.
 
 ###### Article 304
 
-I. - Le droit de timbre prévu au premier alinéa de l'article 964 du code général des impôts est acquitté conformément aux
-dispositions de l'article R. 423-11 du code de l'environnement ci-après reproduit :
+I. - Le droit de timbre prévu à l'article 964 du code général des impôts est acquitté conformément aux dispositions de
+l'article R. 423-11 du code de l'environnement.
 
-"Art. R. 423-11. - Le droit de timbre prévu pour la délivrance du permis de chasser (original ou duplicata) est acquitté sur
-état au moyen de formules sans valeur fiscale revêtues de la mention "Droit de timbre payé sur état".
-
-Il est recouvré par l'intermédiaire des régies de recettes des préfectures ou, le cas échéant, des sous-préfectures, et à
-Paris, par la régie de recettes de la préfecture de police."
-
-II. - Le droit de timbre prévu au deuxième alinéa de l'article 964 du code général des impôts est acquitté conformément aux
-dispositions de l'article R. 423-13 du code de l'environnement ci-après reproduit :
-
-"Art. R. 423-13. - Le paiement des droits et redevances mentionnés à l'article L. 423-12 du code de l'environnement est
-accepté par le comptable du Trésor ou le régisseur des recettes de l'Etat placé auprès de la fédération départementale ou
-interdépartementale des chasseurs, sous réserve de la présentation du document de validation du permis de chasser mentionné à
-l'article R. 423-12, dûment rempli et signé par le titulaire du permis. Il est constaté sur ce document, selon les modalités
-définies par arrêté conjoint du ministre chargé de la chasse et du ministre chargé du budget."
+II. - (Transféré sous l'article 326 bis de l'annexe II).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 964
-	  - Code de l'environnement - art. L423-12 (M)
-	  - Code de l'environnement - art. R423-11 (V)
-	  - Code de l'environnement - art. R423-12 (M)
-	  - Code de l'environnement - art. R423-13 (M)
+	  - Code de l'environnement - art. R423-11
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Modifié par**:
 
-	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 2
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section III : Impôt sur les opérations de bourse
@@ -17655,48 +17364,62 @@ de la date d'admission et du bureau ou de la section du bureau dont elle émane.
 ###### Article 310 G
 
 I. L'acquéreur, le donataire, l'héritier ou le légataire, qui désire bénéficier de l'exonération de droits et taxes prévue à
-l'article 1131 du code général des impôts, doit déposer à la recette des impôts compétente pour enregistrer l'acte constatant
-la mutation ou la déclaration de la succession une offre de donation à l'Etat, précisant le ou les biens qui en font l'objet,
-et, le cas échéant, les conditions auxquelles cette offre est soumise. Il en est délivré récépissé.
+l'article 1131 du code général des impôts, doit déposer au service des impôts compétent pour enregistrer l'acte constatant la
+mutation ou la déclaration de la succession une offre de donation à l'Etat, précisant le ou les biens qui en font l'objet,
+et, le cas échéant, les conditions auxquelles cette offre est soumise. Il en est délivré récépissé. 
 
 L'offre doit être faite dans le délai prévu pour l'enregistrement de l'acte constatant la mutation ou de la déclaration de la
-succession.
+succession. 
 
 II. L'offre de donation est adressée par le service des impôts à une commission dont la composition est fixée par arrêté
-conjoint du Premier ministre, du ministre chargé de la culture et du ministre chargé du budget.
+conjoint du Premier ministre, du ministre chargé de la culture et du ministre chargé du budget. 
 
 Avant de se prononcer, cette commission recueille l'avis du ministre intéressé par l'affectation éventuelle des biens qui
 font l'objet de l'offre de donation ; ce ministre est invité à désigner un représentant pour participer, avec voix
-consultative, aux travaux de la commission relatifs à cette offre.
+consultative, aux travaux de la commission relatifs à cette offre. 
 
 Elle consulte le ou les organismes compétents, selon le cas, en matière d'acquisition d'oeuvres d'art, de livres, d'objets de
-collection ou du documents de haute valeur artistique ou historique.
+collection ou du documents de haute valeur artistique ou historique. 
 
-Elle émet un avis sur l'intérêt artistique ou historique que sur la valeur du bien offert.
+Elle émet un avis sur l'intérêt artistique ou historique que sur la valeur du bien offert. 
 
 Au vu de l'avis de la commission, le ministre compétent propose au ministre de l'économie et des finances l'octroi ou le
-refus de l'agrément.
+refus de l'agrément. 
 
-La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
+La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception. 
 
 III. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter les conditions auxquelles
-celui-ci est subordonné.
+celui-ci est subordonné. 
 
 Il fait connaître son acceptation au ministre de l'économie et des finances, par pli recommandé avec demande d'avis de
-réception.
+réception. 
 
 IV. En l'absence de décision notifiée dans le délai d'un an à compter de la date du récépissé de l'offre, celle-ci est
 considérée comme refusée.
 
+**Nota:**
+
+Décret n° 2009-633 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+interministérielle d'agrément pour la conservation du patrimoine artistique national - Commission des dations).
+
+Décret n° 2014-601 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission interministérielle d'agrément pour la conservation du patrimoine artistique national - Commission
+des dations).
+
+Conformément à l'annexe I du décret n° 2015-631 du 5 juin 2015, la Commission interministérielle d'agrément pour la
+conservation du patrimoine artistique national (dite commission des dations) est renouvelée pour une durée de cinq ans à
+compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1131
 
 	**Modifié par**:
 
-	  - Décret n°70-1046 1970-11-10 art. 2, art. 4 JORF 11 novembre 1970
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
@@ -17706,13 +17429,13 @@ considérée comme refusée.
 	  - Code du patrimoine. - art. D122-2 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384-0 A bis (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Code général des impôts, CGI. - art. 1131 (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes
@@ -17745,11 +17468,11 @@ les modalités de l'évaluation de la construction au regard des caractéristiqu
 
 2° Critère relatif aux modalités de réalisation de la construction :
 
-Le maître d'ouvrage définit les objectifs visant à réduire les nuisances du chantier telles que les rejets d'eau, l'émission
-de poussières, les bruits, la circulation des engins et véhicules des entreprises, et à améliorer la gestion des déchets du
-chantier afin d'en réduire le volume, d'en promouvoir le tri et d'en assurer la traçabilité.
+a. Le maître d'ouvrage définit les objectifs visant à réduire les nuisances du chantier telles que les rejets d'eau,
+l'émission de poussières, les bruits, la circulation des engins et véhicules des entreprises, et à améliorer la gestion des
+déchets du chantier afin d'en réduire le volume, d'en promouvoir le tri et d'en assurer la traçabilité ;
 
-Le dossier de consultation des entreprises chargées des travaux de construction prévoit que celles-ci doivent fournir leur
+b. Le dossier de consultation des entreprises chargées des travaux de construction prévoit que celles-ci doivent fournir leur
 plan d'organisation dans le cadre du chantier et un plan de gestion de leurs déchets répondant aux exigences précitées ;
 
 3° Critère relatif aux performances énergétique et acoustique :
@@ -17792,14 +17515,22 @@ dans des conditions définies par le maître d'ouvrage.
 	  - CGI 1384 A
 	  - Code de la construction et de l'habitation R111-20, R111-4
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2005-1174 du 16 septembre 2005 - art. 1 () JORF 18 septembre 2005
+	  - Décret n°2006-356 2006-03-24
+
+	**Modifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H bis (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121-0 AA (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 310-0 H bis
@@ -19983,41 +19714,31 @@ L'exonération prévue au 7° est limitée à un seul véhicule par propriétair
 
 ###### Article 317 duodecies
 
-I. La taxe est exigible à l'ouverture de la période d'imposition ou dans le mois de la première mise en circulation du
-véhicule en France et dans les départements d'outre-mer. Toutefois, elle n'est pas due pour la période en cours si la
-première mise en circulation a lieu entre le 15 août et le 30 novembre. Elle n'est pas due non plus lorsqu'un véhicule cesse
-en cours d'année d'être en situation de bénéficier d'une exonération.
+I. (sans objet)
 
 II. Le paiement de la taxe incombe à la personne physique ou morale propriétaire du véhicule.
 
 En cas de vente d'un véhicule au cours de la période d'imposition, les cessionnaires successifs sont solidairement
 responsables du paiement de la taxe.
 
-III. Le paiement de la taxe est constaté au moyen de la délivrance d'une vignette timbrée dont le modèle et les modalités de
-délivrance et d'utilisation sont établis par un arrêté ministériel qui fixe, en outre les obligations incombant aux
-propriétaires de véhicules exonérés de la taxe (1).
-
-La délivrance des duplicata de vignettes timbrées donne lieu au paiement d'une taxe de 1,50 euro qui est perçue selon les
-modalités fixées par arrêté du ministre chargé du budget (1).
-
-**Nota:**
-
-(1) Voir les articles 155 C à 155 I de l'annexe IV.
+III. (sans objet)
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Liens**:
 
-	  - CGIAN4 155 C à 155 I
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 42 (V) JORF 31 décembre 2004
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2007-484 2007-03-30
 
 
 ###### Article 317 nonies
@@ -20173,12 +19894,12 @@ jour de la période d'imposition.
 
 ###### Article 321 bis
 
-Le dépassement du produit du droit additionnel prévu au septième alinéa de l'article 1601 du code général des impôts est
+Le dépassement du produit du droit additionnel prévu au sixième alinéa de l'article 1601 du code général des impôts est
 subordonné à la conclusion de conventions conclues avec l'Etat. La convention mentionne les actions ou les investissements à
-réaliser et les engagements correspondants de la chambre de métiers. Aucun dépassement ne peut être accordé si les
-engagements de la chambre au titre de la convention précédente n'ont pas été respectés. L'autorité compétente pour autoriser
-le dépassement du produit du droit additionnel et signer la convention est le préfet du département dans lequel la chambre de
-métiers a son siège.
+réaliser et les engagements correspondants de la chambre de métiers et de l'artisanat. Aucun dépassement ne peut être accordé
+si les engagements de la chambre au titre de la convention précédente n'ont pas été respectés. L'autorité compétente pour
+autoriser le dépassement du produit du droit additionnel et signer la convention est le préfet du département dans lequel la
+chambre de métiers et de l'artisanat a son siège.
 
 **Liens relatifs à cet article**
 
@@ -20188,15 +19909,15 @@ métiers a son siège.
 
 	**Codifié par**:
 
-	  - Décret n°2005-330 2005-04-06
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 124 () JORF 31 décembre 2004
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 128 () JORF 31 décembre 2005
 
 
 ##### Section V : Contribution à l'audiovisuel public
@@ -20205,10 +19926,11 @@ métiers a son siège.
 
 Pour l'application du 1° de l'article 1605 ter du code général des impôts :
 
-1° Lorsqu'un établissement comporte plusieurs points de vision imposables au montant prévu par le III de l'article 1605 et au
-montant prévu par le c du 1° de l'article 1605 ter, le redevable opère un décompte unique du nombre de points de vision.
-Toutefois, pour la détermination de l'abattement applicable, les points de vision imposés au montant prévu par le III de
-l'article 1605 sont pris en compte avant ceux imposés au montant prévu par le c du 1° de l'article 1605 ter.
+1° Lorsqu'un établissement comporte plusieurs points de vision imposables au montant prévu par le III de l'article 1605 du
+code général des impôts et au montant prévu par le c du 1° de l'article 1605 ter du même code, le redevable opère un décompte
+unique du nombre de points de vision. Toutefois, pour la détermination de l'abattement applicable, les points de vision
+imposés au montant prévu par le III de l'article 1605 sont pris en compte avant ceux imposés au montant prévu par le c du 1°
+de l'article 1605 ter.
 
 2° La minoration prévue par le b du 1° de l'article 1605 ter s'applique sur le montant total de la redevance audiovisuelle
 calculé selon les modalités prévues au 1° du présent article.
@@ -20219,9 +19941,17 @@ calculé selon les modalités prévues au 1° du présent article.
 
 	  - CGI 1605, 1605 ter
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2005-1167 du 13 septembre 2005 - art. 1 () JORF 16 septembre 2005
+	  - Décret n°2006-356 2006-03-24
+
+	**Modifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 321 ter
@@ -20513,6 +20243,33 @@ dommages dont il s'agit est égale ou supérieure à celle qui correspond à la 
 
 	  - HISTO: Edition du 10 août 1987
 	  - HISTO: Edition du 1er janvier 2007
+
+
+##### Section V : Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage
+
+###### Article 326 bis
+
+Le droit de timbre prévu à l'article 1635 bis N du code général des impôts est acquitté conformément aux dispositions de
+l'article R. 423-13 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 304 II
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Créé par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis N (V)
+	  - Code de l'environnement - art. R423-13 (V)
 
 
 ### Titre V : Dispositions communes aux titres I à IV
@@ -21258,33 +21015,33 @@ fiscales sont accomplies auprès du service désigné par l'administration des i
 
 Pour bénéficier de l'agrément prévu par l'article 1649 quater C du code général des impôts, les centres de gestion doivent
 avoir la forme d'une association légalement constituée dont les membres fondateurs sont soit des experts comptables ou des
-sociétés membres de l'ordre, soit des chambres de commerce et d'industrie, des chambres de métiers ou des chambres
-d'agriculture, soit des organisations professionnelles légalement constituées d'industriels, de commerçants, d'artisans ou
-d'agriculteurs.
+sociétés membres de l'ordre, soit des chambres de commerce et d'industrie, des chambres de métiers et de l'artisanat ou des
+chambres d'agriculture, soit des organisations professionnelles légalement constituées d'industriels, de commerçants,
+d'artisans ou d'agriculteurs. 
 
 Les organisations professionnelles mentionnées au premier alinéa comprennent les syndicats professionnels et leurs unions
-institués conformément aux dispositions des articles L 410 et suivants du code du travail et les associations
+institués conformément aux dispositions des articles L. 410 et suivants du code du travail et les associations
 professionnelles de personnes exerçant la même profession, des métiers similaires ou des métiers connexes ainsi que leurs
-unions.
+unions. 
 
 Les centres doivent avoir pour objet de fournir à leurs adhérents industriels, commerçants, artisans ou agriculteurs tous
 services en matière de gestion notamment dans les domaines de l'assistance technique et de la formation. Ces services sont
-réservés aux membres adhérents.
+réservés aux membres adhérents. 
 
-Ils ne peuvent agir en qualité de mandataires de leurs membres.
+Ils ne peuvent agir en qualité de mandataires de leurs membres. 
 
 Toutefois, les centres peuvent recevoir mandat de leurs membres ayant adhéré au système de transfert des données fiscales et
 comptables pour transmettre les informations correspondant aux obligations déclaratives de ces membres.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°95-938 du 21 août 1995 - art. 1 () JORF 26 août 1995
-
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2006-356 2006-03-24
+
+	**Modifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
 	**Cité par**:
 
@@ -21293,12 +21050,12 @@ comptables pour transmettre les informations correspondant aux obligations décl
 
 	**Cite**:
 
-	  - CGI 1649 quater C
-	  - Code du travail L410 ET S.
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649 quater C (V)
+	  - Code du travail L410
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 B
@@ -22370,8 +22127,8 @@ b) Les sociétés commerciales ;
 
 c) (Dispositions devenues sans objet).
 
-2. Les chambres de métiers créent et gèrent les centres compétents pour les personnes physiques et les sociétés assujetties à
-l'immatriculation au répertoire des métiers, à l'exclusion de celles visées au 3.
+2. Les chambres de métiers et de l'artisanat créent et gèrent les centres compétents pour les personnes physiques et les
+sociétés assujetties à l'immatriculation au répertoire des métiers, à l'exclusion de celles visées au 3.
 
 3. La chambre nationale de la batellerie artisanale crée et gère le centre compétent pour les personnes physiques et les
 sociétés assujetties à l'immatriculation au registre des entreprises de la batellerie artisanale.
@@ -22404,7 +22161,7 @@ métiers ou au registre des entreprises de la batellerie artisanale, et qui ne r
 6. Les chambres d'agriculture créent et gèrent les centres compétents pour les personnes physiques et morales exerçant à
 titre principal des activités agricoles.
 
-7. Les centres des impôts créent et gèrent les centres compétents pour les personnes suivantes dès lors qu'elles exercent
+7. Les services des impôts créent et gèrent les centres compétents pour les personnes suivantes dès lors qu'elles exercent
 leur activité à titre de profession habituelle, qu'elles ne relèvent pas des dispositions des 1 à 6 et qu'elles n'ont pas
 d'autres obligations déclaratives que statistiques et fiscales :
 
@@ -22423,11 +22180,11 @@ II. - Chaque centre est compétent à l'égard des entreprises dont le siège so
 
 	**Modifié par**:
 
-	  - Décret n°2002-375 du 19 mars 2002 - art. 3 () JORF 21 mars 2002
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
@@ -22435,7 +22192,7 @@ II. - Chaque centre est compétent à l'égard des entreprises dont le siège so
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 AK
@@ -22539,7 +22296,7 @@ II. - Pour les modifications de la situation de l'entreprise ainsi que pour sa c
 personnes morales ;
 
 2° Le numéro unique d'identification de l'entreprise et, le cas échéant, le nom de la ville où se trouve le greffe où elle
-est immatriculée, ou la chambre des métiers où elle est inscrite au répertoire des métiers ;
+est immatriculée, ou la chambre des métiers et de l'artisanat où elle est inscrite au répertoire des métiers ;
 
 3° L'objet de la formalité, ainsi que la date d'effet de l'événement la justifiant.
 
@@ -22553,13 +22310,13 @@ apprécier le bien-fondé.
 	  - CGI 371 AI, 371 AL
 	  - Loi n°94-126 du 11 février 1994 - art. 4 (M)
 
-	**Modifié par**:
-
-	  - Décret n°2002-375 du 19 mars 2002 - art. 5 () JORF 21 mars 2002
-
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2006-356 2006-03-24
+
+	**Modifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
 	**Cité par**:
 
@@ -22567,7 +22324,7 @@ apprécier le bien-fondé.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 AN
@@ -23258,7 +23015,7 @@ décembre au 31 décembre, elle prend effet à compter du mois de février de l'
 Les prélèvements sont opérés :
 
 1° Dans les caisses d'épargne autres que celles du Bas-Rhin, du Haut-Rhin et de la Moselle, sur les comptes d'épargne
-correspondant au premier livret ou au livret supplémentaire ;
+correspondant au livret A ou au livret supplémentaire ;
 
 2° Dans les caisses d'épargne du Bas-Rhin, du Haut-Rhin et de la Moselle ainsi que les autres établissements mentionnés à
 l'article 1681 D du code général des impôts, sur les dépôts à vue.
@@ -23268,6 +23025,22 @@ l'article 1681 D du code général des impôts, sur les dépôts à vue.
 	**Cite**:
 
 	  - CGI 1681 D
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 29 () JORF 7 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1263 du 4 décembre 2008 - art. 5
 
 
 ###### Article 376 sexies
@@ -23310,8 +23083,8 @@ Trésor public.
 déclaration en vue de la liquidation de la retenue à la source exigible en vertu des dispositions de l'article 115 quinquies
 du code général des impôts.
 
-2. Cette déclaration est adressée à la recette des impôts dont dépend le lieu d'établissement de l'impôt sur les sociétés,
-dans le même délai que la déclaration des résultats.
+2. Cette déclaration est adressée au service des impôts dont dépend le lieu d'établissement de l'impôt sur les sociétés, dans
+le même délai que la déclaration des résultats.
 
 La déclaration, souscrite sur des imprimés fournis par l'administration, fait apparaître distinctement le montant en euros :
 
@@ -23329,13 +23102,17 @@ La déclaration, souscrite sur des imprimés fournis par l'administration, fait 
 
 	  - CGI 115 quinquies
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ###### Article 380
@@ -23422,24 +23199,24 @@ l'exception de toute majoration ou pénalité.
 
 L'ensemble des droits exigibles au titre de la taxe sur les salaires en application des dispositions des 1 et 2 bis de
 l'article 231 du code général des impôts et des articles 141 à 143 de la présente annexe est versé globalement au Trésor dans
-les conditions et délais et sous les sanctions prévus aux articles 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731 et 1736 du
-code général des impôts et 50, 51, 369 et au 1 de l'article 374 de l'annexe III à ce code.
+les conditions et délais et sous les sanctions prévus aux articles 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731 et aux I et
+IV de l'article 1754 du code général des impôts et 50, 51, 369 et au 1 de l'article 374 de l'annexe III à ce code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1736, 231
+	  - CGI 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1754, 231
 	  - CGIAN2 141 à 143
 	  - CGIAN3 50, 51, 369, 374
 
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
 	**Modifié par**:
 
-	  - Décret n°93-1127 du 24 septembre 1993 - art. 3 () JORF 28 septembre 1993
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
@@ -23447,7 +23224,7 @@ code général des impôts et 50, 51, 369 et au 1 de l'article 374 de l'annexe I
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 1er janvier 2006
 
 
 #### VI : Participation des employeurs au développement de la formation professionnelle continue
@@ -23555,16 +23332,16 @@ Le deuxième alinéa de l'article R. 964-9 du code du travail est ci-après repr
 
 I. Le versement de la taxe prévue à l'article 150 V bis du code général des impôts est opéré :
 
-a) A la recette des impôts compétente pour la perception des taxes sur le chiffre d'affaires, si la taxe est due par un
+a) au service des impôts compétent pour la perception des taxes sur le chiffre d'affaires, si la taxe est due par un
 intermédiaire ou un acheteur agissant dans le cadre de son activité professionnelle ;
 
-b) A la recette des impôts dont relève le domicile de l'acheteur, et dans les trente jours, en cas d'achat direct par un
+b) au service des impôts dont relève le domicile de l'acheteur, et dans les trente jours, en cas d'achat direct par un
 particulier ;
 
-c) A la recette des impôts dont relève le domicile du vendeur en cas de vente dans un autre Etat membre de la Communauté
+c) au service des impôts dont relève le domicile du vendeur en cas de vente dans un autre Etat membre de la Communauté
 européenne ;
 
-d) A la recette des douanes s'il s'agit d'une exportation.
+d) à la recette des douanes s'il s'agit d'une exportation.
 
 II. Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires ou comme en
 matière de droits de douane, suivant le comptable compétent.
@@ -23579,17 +23356,21 @@ matière de droits de douane, suivant le comptable compétent.
 
 	  - CGIAN2 383 quater
 
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2006-356 2006-03-24
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1386 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Modifié par**:
-
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -23632,9 +23413,9 @@ toutefois en demander la restitution.
 
 I. L'héritier, le donataire, le légataire ou le co-partageant qui désire acquitter tout ou partie des droits de mutation ou
 de partage dont il est redevable par la remise d'oeuvres ou de documents visés à l'article 1716 bis du code général des
-impôts doit déposer à la recette des impôts ou à la conservation des hypothèques compétente pour enregistrer l'acte
-constatant la mutation, le partage ou la déclaration de succession, une offre de dation à l'Etat indiquant la nature et la
-valeur de chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
+impôts doit déposer au service des impôts ou à la conservation des hypothèques compétent pour enregistrer l'acte constatant
+la mutation, le partage ou la déclaration de succession, une offre de dation à l'Etat indiquant la nature et la valeur de
+chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
 
 L'offre de dation en paiement est soumise aux mêmes conditions que celles fixées par les I et II de l'article 310 G pour
 l'offre de donation des mêmes oeuvres ou documents faite en vue de l'exonération des droits de mutation.
@@ -23652,18 +23433,22 @@ considérée comme refusée.
 	  - CGI 1716 bis
 	  - CGIAN2 310 G
 
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
 	**Modifié par**:
 
-	  - Décret n°2003-281 du 24 mars 2003 - art. 2 () JORF 29 mars 2003
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
 	  - Code du patrimoine. - art. D122-1 (V)
 	  - Code général de la propriété des personnes publ... - art. R1111-3 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres
@@ -23672,15 +23457,16 @@ considérée comme refusée.
 
 I. L'héritier, le donataire, le légataire ou le copartageant, qui désire acquitter tout ou partie des droits de mutation ou
 de partage dont il est redevable par la remise d'immeubles visés à l'article 1716 bis du code général des impôts, doit
-déposer à la recette des impôts ou à la conservation des hypothèques compétente pour enregistrer l'acte constatant la
-mutation, le partage ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la
-valeur de chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
+déposer au service des impôts ou à la conservation des hypothèques compétent pour enregistrer l'acte constatant la mutation,
+le partage ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la valeur de
+chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
 
 L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
 de l'acte constatant la mutation ou le partage.
 
-II. L'offre est adressée par le service des impôts à une commission dont la composition est fixée par arrêté conjoint du
-Premier ministre, du ministre chargé du budget et du ministre chargé de la protection de la nature (1).
+II. L'offre est adressée par le service des impôts ou la conservation des hypothèques à une commission dont la composition
+est fixée par arrêté conjoint du Premier ministre, du ministre chargé du budget et du ministre chargé de la protection de la
+nature (1).
 
 Avant de se prononcer, cette commission consulte le Conservatoire de l'espace littoral et des rivages lacustres.
 
@@ -23692,13 +23478,13 @@ l'octroi ou le refus de l'agrément.
 
 IV. La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
 
-V.  En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter par lettre simple, le
+V. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter par lettre simple, le
 cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert en paiement des droits.
 
 **Nota:**
 
 (1) Voir l'arrêté du 3 septembre 1998 (JO du 5) modifié par l'arrêté du 25 juin 1999 (JO du 2 juillet), l'arrêté du 27 août
-1999 (JO du 3 septembre) et l'arrêté du 26 février 2001 (JO du 17 mars).
+1999 (JO du 3 septembre) et l'arrêté du 26 février 2001 (JO du 17 mars) et l'arrêté du 26 mars 2003 (JO du 2 avril).
 
 **Liens relatifs à cet article**
 
@@ -23708,7 +23494,11 @@ cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert e
 
 	**Modifié par**:
 
-	  - Décret n°2003-281 du 24 mars 2003 - art. 2 () JORF 29 mars 2003
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
@@ -23717,7 +23507,7 @@ cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert e
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels
@@ -24037,8 +23827,8 @@ Les rapporteurs, qui ont voix consultative, formulent des propositions devant la
 
 I. Lorsqu'un contribuable perd le bénéfice du règlement de l'impôt par prélèvements mensuels en application des dispositions
 de l'article 1724 quinquies du code général des impôts, sa situation au regard des majorations de 10 % encourues
-éventuellement en exécution soit des articles 1761 et 1762, soit des articles 1761 et 1762 quater du même code est appréciée
-globalement à la date de l'échéance impayée ayant entraîné l'exclusion.
+éventuellement en exécution de l'article 1730 du même code est appréciée globalement à la date de l'échéance impayée ayant
+entraîné l'exclusion.
 
 II. L'administration notifie au contribuable et aux établissements les majorations et déchéances encourues au titre de
 l'article 1724 quinquies du code général des impôts.
@@ -24047,20 +23837,24 @@ l'article 1724 quinquies du code général des impôts.
 
 	**Cite**:
 
-	  - CGI 1761, 1762, 1762 quater, 1724 quinquies
+	  - CGI 1724 quinquies, 1730
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Modifié par**:
 
-	  - Loi - art. 21 (V) JORF 31 décembre 2000
-	  - Loi n°2000-1353 2000-12-30 art. 21 I, II Finances rectificative pour 2000 JORF 31 décembre 2000
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2006-356 du 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 2
 
 
 ## Chapitre II : Procédures
@@ -24095,21 +23889,20 @@ agents des impôts peuvent établir les bases d'imposition et le décompte des d
 
 ###### Article 396 A
 
-Les décisions de remise ou modération de frais de poursuites, d'intérêts moratoires ou de majorations applicables au titre
-des articles 1761 et 1762 du code général des impôts sont, dans la limite de 76 000 euros, prises par le trésorier-payeur
-général, le receveur des finances ou les comptables directs du Trésor dans des conditions fixées par arrêté du ministre
-chargé du budget.
+Les décisions de remise ou modération de frais de poursuites, d'intérêts moratoires ou de majorations applicables au titre de
+l'article 1730 du code général des impôts sont, dans la limite de 76 000 €, prises par le trésorier-payeur général, le
+receveur des finances ou les comptables directs du Trésor dans des conditions fixées par arrêté du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 3 (V) JORF 30 octobre 2004
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°2005-330 2005-04-06
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
@@ -24118,11 +23911,15 @@ chargé du budget.
 
 	**Cite**:
 
-	  - CGI 1761, 1762
+	  - CGI 1730
+
+	**Abrogé par**:
+
+	  - Décret n°2013-443 du 30 mai 2013 - art. 10
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ## Chapitre II bis : Sûretés et privilèges

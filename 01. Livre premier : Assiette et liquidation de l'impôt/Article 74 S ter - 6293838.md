@@ -14,7 +14,7 @@ mentionnant la date et le prix payé,
 
 Soit d'une facture régulière délivrée par un commerçant résidant en France,
 
-Soit d'une facture délivrée par un particulier et visée par la recette des impôts ayant encaissé la taxe,
+Soit d'une facture délivrée par un particulier et visée par le service des impôts ayant encaissé la taxe,
 
 Soit, lorsque l'objet a été acquis par voie de succession ou de donation, d'un extrait de la déclaration ayant servi de base
 à la liquidation des droits de mutation et mentionnant le bien concerné.
@@ -39,12 +39,12 @@ d'option visée par les services fiscaux vaut justification du paiement de la ta
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
-
-	**Créé par**:
-
-	  - Décret n°93-231 1993-07-19 art. 2 JORF 22 juillet 1993
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005

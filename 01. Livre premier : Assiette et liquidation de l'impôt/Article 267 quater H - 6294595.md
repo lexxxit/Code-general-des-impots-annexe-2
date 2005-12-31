@@ -4,7 +4,7 @@ I. - Les personnes redevables de la redevance sanitaire pour le contrôle de cer
 l'article 302 bis WC du code général des impôts doivent déposer mensuellement une déclaration conforme au modèle prescrit par
 la direction générale des impôts et comportant les indications nécessaires à l'assiette et à la perception de la redevance.
 
-Cette déclaration est souscrite auprès de la recette des impôts dont relève le redevable pour le dépôt de ses déclarations de
+Cette déclaration est souscrite auprès du service des impôts dont relève le redevable pour le dépôt de ses déclarations de
 taxes sur le chiffre d'affaires. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les
 opérations imposables ont été réalisées. La redevance est acquittée dans le même délai. Toutefois, lorsque le montant annuel
 de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis que les redevables déposent leurs
@@ -29,9 +29,12 @@ membres de la Communauté européenne ne donnent pas lieu au remboursement de la
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2006
