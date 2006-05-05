@@ -10,10 +10,10 @@ définit les spécifications techniques de ce cahier des charges ;
 
 2° Le professionnel doit recourir à des organismes de contrôle agréés mentionnés au II de l'article 535 du code général des
 impôts ou à des organismes de contrôle indépendants établis dans d'autres Etats membres de l'Union européenne, dans d'autres
-Etats parties à l'accord instituant l'Espace économique européen ou en Turquie, offrant des garanties suffisantes
-d'information du consommateur pour contrôler le titre des ouvrages sur lesquels il entend apposer le poinçon de garantie s'il
-ne souhaite pas effectuer ce contrôle lui-même. Il doit déclarer ces organismes à la direction régionale des douanes et
-droits indirects ;
+Etats parties à l'accord instituant l'Espace économique européen ou en Turquie, offrant des garanties identiques ou
+équivalentes à celles exigées en France pour contrôler le titre des ouvrages sur lesquels il entend apposer le poinçon de
+garantie s'il ne souhaite pas effectuer ce contrôle lui-même. Il doit déclarer ces organismes à la direction régionale des
+douanes et droits indirects ;
 
 3° Le professionnel doit effectuer le poinçonnage des ouvrages dans un local présentant des mesures de sécurité adaptées au
 transport des ouvrages dans l'entreprise, à leur entreposage avant et après apposition du poinçon de garantie et à la
@@ -32,7 +32,7 @@ local de la marque.
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
 
 	**Cité par**:
 
@@ -43,4 +43,4 @@ local de la marque.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2007

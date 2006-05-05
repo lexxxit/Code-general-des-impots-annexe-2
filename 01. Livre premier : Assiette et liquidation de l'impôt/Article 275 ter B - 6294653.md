@@ -1,8 +1,7 @@
 # Article 275 ter B
 
 La demande d'agrément en qualité d'organisme de contrôle est déposée auprès de la direction générale des douanes et droits
-indirects et de la direction générale de l'industrie, des technologies de l'information et des postes qui l'instruisent
-conjointement.
+indirects et de la direction générale des entreprises qui l'instruisent conjointement.
 
 Est joint à la demande un cahier des charges décrivant l'organisation de l'organisme, la procédure et les méthodes de
 contrôle et d'essai permettant de s'assurer du titre des ouvrages ainsi que les méthodes utilisées pour apposer le poinçon de
@@ -16,7 +15,7 @@ annuels si l'antériorité de l'organisme le permet.
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
 
 	**Cité par**:
 
@@ -25,4 +24,4 @@ annuels si l'antériorité de l'organisme le permet.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2007
