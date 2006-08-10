@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-07-13
+Version Consolidée au 2006-08-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11692,12 +11692,16 @@ a. les transports et prestations accessoires exonérés en application du premie
 de l'article 262 du code général des impôts ainsi que du 2° du III de l'article 291 du même code ;
 
 b. les prestations mentionnées aux 3°, 4° bis, 5° et 6° de l'article 259 A et à l'article 259 B du code général des impôts,
-pour lesquelles la taxe est due par le preneur en vertu du 2° de l'article 283 du même code.
+pour lesquelles la taxe est due par le preneur en vertu du 2° de l'article 283 du même code ;
 
 c. Les livraisons mentionnées au 2° du I de l'article 258 D du code général des impôts, pour lesquelles la taxe est due par
-le destinataire en application du 2 ter de l'article 283 du même code.
+le destinataire en application du 2 ter de l'article 283 du même code ;
 
-d. Les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 277 A du code général des impôts.
+d. Les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 277 A du code général des
+impôts ;
+
+e. les livraisons et les prestations pour lesquelles la taxe est acquittée par l'acquéreur, le destinataire ou le preneur
+dans les conditions mentionnées au second alinéa du 1 de l'article 283 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -11707,7 +11711,7 @@ d. Les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° 
 
 	**Modifié par**:
 
-	  - Décret n°96-693 du 31 juillet 1996 - art. 1 () JORF 8 août 1996
+	  - Décret n°2006-1001 du 10 août 2006 - art. 1 () JORF 11 août 2006
 
 	**Cité par**:
 
@@ -11715,7 +11719,7 @@ d. Les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° 
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 242-0 N
@@ -12943,6 +12947,41 @@ Toutefois, en cas de mutation ultérieure, la taxe exigible doit être intégral
 	**Modifié par**:
 
 	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+
+###### Article 245 A
+
+I. - Pour l'application du 4° du c du 1 du 7° de l'article 257 du code général des impôts, les éléments de second oeuvre à
+prendre en compte sont les suivants :
+
+a. les planchers ne déterminant pas la résistance ou la rigidité de l'ouvrage ;
+
+b. les huisseries extérieures ;
+
+c. les cloisons intérieures ;
+
+d. les installations sanitaires et de plomberie ;
+
+e. les installations électriques ;
+
+f. et, pour les opérations réalisées en métropole, le système de chauffage.
+
+II. - La proportion prévue au 4° du c du 1 du 7° de l'article 257 du code général des impôts est fixée à deux tiers pour
+chacun des éléments mentionnés au I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 257
+
+	**Créé par**:
+
+	  - Décret n°2006-1002 du 10 août 2006 - art. 1 () JORF 11 août 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### II : Dispositions relatives aux mutations
