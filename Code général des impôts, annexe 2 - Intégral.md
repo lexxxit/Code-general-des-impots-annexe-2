@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-08-11
+Version Consolidée au 2006-08-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13743,8 +13743,7 @@ comptabilité sont fixées par l'administration;
 c. Indiquer sur les factures de vente la dénomination précise de l'animal, comportant notamment son numéro d'identification
 ou sa marque;
 
-d. Faire accompagner tout transport d'animaux effectué pour leur compte ou pour le compte d'autrui d'un document dont le
-modèle est fixé par l'administration.
+d. (Abrogé).
 
 II. Lorsque les personnes visées au I vendent des animaux à des personnes non assujetties à la taxe sur la valeur ajoutée au
 titre d'activités portant sur lesdits animaux, la facture doit expressément porter mention de cette qualité des acheteurs.
@@ -13757,11 +13756,11 @@ titre d'activités portant sur lesdits animaux, la facture doit expressément po
 
 	**Modifié par**:
 
-	  - Décret n°2005-1244 du 27 septembre 2005 - art. 6 () JORF 4 octobre 2005
+	  - Décret n°2006-1041 du 24 août 2006 - art. 1 () JORF 25 août 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
 
 
 #### Chapitre III : Redevances sanitaires sur les produits de la pêche et de l'aquaculture
@@ -20350,22 +20349,20 @@ est celui applicable au lieu de l'habitation principale du redevable.
 
 ###### Article 321 A
 
-I. - Les redevables de la taxe d'abattage prévue à l'article 1609 septvicies du code général des impôts déclarent celle-ci
-sur les imprimés de déclaration mentionnés au V de cet article, selon les mêmes modalités et sous les mêmes conditions que
-celles édictées à l'article 287 du même code.
+I. - (Abrogé).
 
 II. - Les personnes redevables de la taxe d'abattage doivent :
 
 1° Tenir un registre faisant apparaître jour par jour, sans blanc ni rature, les éléments nécessaires à la constatation, à la
-liquidation et au contrôle de la taxe d'abattage, à savoir le poids des viandes avec os, par espèce, et le poids des déchets
-retenus pour le calcul du montant de la taxe ;
+liquidation et au contrôle de la taxe d'abattage, à savoir le poids des viandes avec os, par espèce, retenu pour le calcul du
+montant de la taxe ;
 
-2° Indiquer sur la déclaration mentionnée à l'article 287 le montant de la taxe due au titre de la période définie au même
-article ;
+2° (Abrogé) ;
 
-3° Adresser au ministre chargé de l'agriculture un relevé mensuel des éléments énumérés au 1° ci-dessus.
+3° Adresser à l'Office national interprofessionnel de l'élevage et de ses productions un relevé mensuel des éléments énumérés
+au 1° ci-dessus.
 
-III. - Toute personne mentionnée au I doit informer chacun de ses clients du montant des charges dont elle s'acquitte au
+III. - Toute personne mentionnée au II doit informer chacun de ses clients du montant des charges dont elle s'acquitte au
 titre du financement du service public de l'équarrissage, à proportion des viandes ou des prestations d'abattage facturées.
 Cette somme fait l'objet d'une mention particulière au bas de la facture délivrée au chaque client.
 
@@ -20374,22 +20371,18 @@ rattaché le produit de ladite taxe est fixée à 1,5 %.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-363 du 23 avril 2004 - art. 1 () JORF 24 avril 2004
+	  - Décret n°2006-1041 du 24 août 2006 - art. 2 () JORF 25 août 2006
 
 	**Cité par**:
 
 	  - Arrêté du 24 novembre 2008 - art. 2 (V)
 	  - Code rural - art. R228-13 (V)
 
-	**Cite**:
-
-	  - CGI 1609 septvicies, 287
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2007
 
 
 #### Chapitre II : Enregistrement, publicité foncière et timbre
