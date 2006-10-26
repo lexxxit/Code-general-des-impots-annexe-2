@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-08-25
+Version Consolidée au 2006-10-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4885,291 +4885,284 @@ ne répondent pas aux conditions du 5° du 1 de l'article 39 du code général d
 
 ###### Article 102 SA
 
-I.  Pour apprécier si la proportion de 25 p. 100 ou de 10 p. 100 ou si le montant de 22 800 000 euros, mentionnés aux I et I
-bis de l'article 209 B du code général des impôts, est atteint, il y a lieu de retenir le pourcentage ou le montant du prix
-de revient de la participation constatés à la clôture de l'exercice de la société ou du groupement établis hors de France ou,
-s'il est plus élevé, le pourcentage ou le montant du prix de revient de la participation détenue pendant au moins 183 jours
-au cours de cet exercice.
+I.-La personne morale établie en France et passible de l'impôt sur les sociétés mentionnée au 1 du I de l'article 209 B du
+code général des impôts s'entend d'une personne morale dont le siège est situé en France ou d'une entreprise exploitée en
+France par une personne morale dont le siège est situé hors de France, passibles de l'impôt sur les sociétés. 
 
-II. Toutefois, lorsqu'une entreprise ou une personne morale passible de l'impôt sur les sociétés n'a pas produit, dans les
-délais prévus, la déclaration visée au I de l'article 102 Z et que l'administration établit que cette entreprise ou cette
-personne morale a détenu dans une société ou un groupement établis hors de France une participation dont le pourcentage ou le
-montant du prix de revient a été égal ou supérieur au pourcentage ou au prix de revient mentionnés aux I et I bis de
-l'article 209 B du code général des impôts à un moment quelconque de l'exercice de cette société ou de ce groupement, autre
-que la date de clôture, elle peut demander à cette entreprise ou cette personne morale de lui indiquer la durée de détention
-de cette participation au cours de l'exercice ainsi que les conditions et les dates de son acquisition et de sa cession. Si,
-dans un délai de trente jours, l'entreprise ou la personne morale passible de l'impôt sur les sociétés ne défère pas à cette
-demande ou fournit une réponse insuffisante, l'administration lui adresse une mise en demeure de produire dans le même délai
-la déclaration prévue à l'article 102 Z.
+II.-Pour apprécier si le taux de détention mentionné au 1 du I de l'article 209 B du code général des impôts est atteint, il
+y a lieu de retenir le pourcentage de participation constaté à la clôture de l'exercice de l'entité juridique établie ou
+constituée hors de France, ou, en l'absence d'exercice clos au cours d'une année, à la clôture de l'exercice de la personne
+morale établie en France et passible de l'impôt sur les sociétés. Toutefois, le pourcentage à retenir est celui, s'il est
+plus élevé, de la participation détenue pendant une période continue ou discontinue d'au moins 183 jours au cours de
+l'exercice de l'entité juridique établie ou constituée hors de France ou, à défaut, à la clôture de l'exercice de la personne
+morale établie en France et passible de l'impôt sur les sociétés. 
+
+III.-Les revenus positifs mentionnés au 1 du I de l'article 209 B du code général des impôts s'entendent du profit net ou de
+son équivalent réalisé par une entité juridique établie ou constituée hors de France et qui, à raison du droit qui lui est
+applicable, n'est pas qualifié de résultat.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 209 B, 102 Z
-
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 T (V)
 
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 209 B (V)
+
 
 ###### Article 102 T
 
-Les résultats bénéficiaires de l'exercice de chaque société ou groupement établis hors de France sont réputés, en application
-des dispositions de l'article 209 B du code général des impôts, constituer un résultat de l'entreprise ou de la personne
-morale passible de l'impôt sur les sociétés dans la proportion des actions, parts et droits financiers détenus directement ou
-indirectement au sens du premier alinéa du 2 du I bis de ce même article.
+Les bénéfices ou revenus positifs de l'exercice de chaque entité juridique établie ou constituée hors de France sont réputés,
+en application du 1 du I de l'article 209 B du code général des impôts, constituer un revenu de capitaux mobiliers de la
+personne morale établie en France et passible de l'impôt sur les sociétés dans la proportion des actions, parts ou droits
+financiers détenus directement et indirectement au sens du premier alinéa du 2 du I de ce même article. 
 
-Cette proportion est calculée conformément aux dispositions de l'article 102 SA.
+Cette proportion est calculée conformément aux dispositions du II de l'article 102 SA. 
 
-Toutefois, il n'est pas tenu compte des actions, parts et droits financiers détenus indirectement par l'intermédiaire
-d'autres entreprises ou personnes morales assujetties à l'impôt sur les sociétés en France, au titre de l'article 209 B déjà
-cité, à raison des mêmes résultats.
+Toutefois, il n'est pas tenu compte des actions, parts et droits financiers détenus par l'intermédiaire d'autres personnes
+morales établies en France et passibles de l'impôt sur les sociétés au titre de l'article 209 B précité, à raison des mêmes
+bénéfices ou revenus positifs.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 209 B, 102 SA
-
 	**Modifié par**:
 
-	  - Décret n°94-282 du 5 avril 1994 - art. 3 () JORF 12 avril 1994
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 SA (V)
+	  - Code général des impôts, CGI. - art. 209 B (V)
 
 
 ###### Article 102 U
 
-I. Au titre de la première période d'imposition pour laquelle le régime défini à l'article 209 B du code général des impôts
-est applicable, ((l'entreprise ou la personne morale, passible de l'impôt sur les sociétés, doit établir un bilan de départ
-pour chaque entreprise, société ou groupement établis hors de France, mentionnés aux I et I bis de ce même article)) (1).
-L'actif net de ce bilan sert de base à la détermination des ((résultats de cette entreprise, de cette société ou de ce
-groupement)) (1).
+I.-Au titre de la première période d'imposition pour laquelle le régime défini à l'article 209 B du code général des impôts
+est applicable, la personne morale établie en France et passible de l'impôt sur les sociétés doit établir un bilan de départ
+pour chaque entreprise ou entité juridique établie ou constituée hors de France, mentionnée au 1 du I de ce même article.
+L'actif net de ce bilan sert de base à la détermination des résultats de cette entreprise ou de cette entité juridique. 
 
-II. Les éléments figurant au bilan de départ doivent être retenus pour la valeur comptable résiduelle qu'ils comportaient au
-regard de la législation fiscale ((qui leur était applicable dans le pays ou le territoire concerné)) (1) à la date
-d'ouverture de la première période d'imposition.
-
-(1) Modifications du décret.
+II.-Les éléments figurant au bilan de départ doivent être retenus pour la valeur nette comptable qu'ils comportaient au
+regard de la législation fiscale qui leur était applicable dans le pays ou le territoire concerné à la date d'ouverture de la
+première période d'imposition.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 209 B
-	  - Décret n°81-1173 1981-12-31
-
 	**Modifié par**:
 
-	  - Décret n°94-282 du 5 avril 1994 - art. 4 () JORF 12 avril 1994
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 V (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 Z (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - Code général des impôts, CGI. - art. 209 B (V)
 
 
 ###### Article 102 V
 
-Les résultats de chaque entreprise, société ou groupement établis hors de France, mentionnés aux I et I bis de l'article 209
-B du code général des impôts sont déterminés selon les règles fixées au 3 du I bis de cet article à partir du bilan de départ
-établi dans les conditions fixées à l'article 102 U. Ils sont convertis en euros sur la base du taux de change en vigueur à
-la clôture de l'exercice.
+Les bénéfices ou revenus positifs de chaque entreprise ou entité juridique établie ou constituée hors de France, mentionnée
+au 1 du I de l'article 209 B du code général des impôts, sont déterminés selon les règles fixées au 3 du I de cet article à
+partir du bilan de départ établi dans les conditions fixées à l'article 102 U. Ils sont convertis en euros sur la base du
+taux de change en vigueur, à la clôture de l'exercice de l'entreprise ou de l'entité juridique établie ou constituée hors de
+France ou, à défaut, de celui de la personne morale établie en France et passible de l'impôt sur les sociétés.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 209 B, 102 U
-
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 U (V)
+	  - Code général des impôts, CGI. - art. 209 B (V)
 
 
 ###### Article 102 W
 
-Les montants d'impôts acquittés hors de France, imputables sur le montant de l'impôt sur les sociétés dont l'entreprise ou la
-personne morale, passible de l'impôt sur les sociétés, est redevable à raison des bénéfices qui sont réputés constituer pour
-elle un résultat en application de l'article 209 B du code général des impôts, sont convertis en euros sur la base du taux de
-change en vigueur à la date de clôture de l'exercice de l'entreprise, de la société ou du groupement établis hors de France.
-Il incombe à l'entreprise ou à la personne morale passible de l'impôt sur les sociétés de justifier du paiement effectif de
-ces impôts.
+Les montants d'impôts acquittés hors de France sont imputables sur le montant de l'impôt sur les sociétés dont la personne
+morale établie en France et passible de l'impôt sur les sociétés est redevable à raison des bénéfices ou revenus positifs
+qui, lorsqu'il s'agit d'une entreprise, constituent pour elle un bénéfice ou qui, lorsqu'il s'agit d'une entité juridique
+établie ou constituée hors de France, sont réputés, en application du 1 du I de l'article 209 B du code général des impôts,
+constituer un revenu de capitaux mobiliers. Ces montants sont convertis en euros sur la base du taux de change en vigueur, à
+la date de clôture de l'exercice de l'entreprise ou de l'entité juridique établie ou constituée hors de France ou, à défaut,
+de celui de la personne morale établie en France. Il incombe à la personne morale établie en France et passible de l'impôt
+sur les sociétés de justifier du paiement effectif de ces impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 209 B
-
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 ZB (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 209 B (V)
 
 
 ###### Article 102 X
 
-Les prélèvements effectués conformément aux conventions fiscales internationales sur les distributions à l'entreprise ou la
-personne morale, passible de l'impôt sur les sociétés, de bénéfices ayant fait l'objet d'une imposition en vertu de l'article
-209 B du code général des impôts sont également imputables sur le montant de l'impôt sur les sociétés dû au titre de cette
-imposition.
+Lorsque des bénéfices ou revenus positifs ont fait l'objet d'une imposition en vertu de l'article 209 B du code général des
+impôts, les prélèvements effectués sur les distributions de ces bénéfices ou revenus positifs à la personne morale établie en
+France et passible de l'impôt sur les sociétés, conformément à une convention fiscale conclue par la France en vue d'éliminer
+les doubles impositions, sont imputables sur le montant de l'impôt sur les sociétés dû par cette personne morale.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 209 B
-	  - Décret n°81-1173 1981-12-31
-
 	**Modifié par**:
 
-	  - Décret n°94-282 du 5 avril 1994 - art. 7 () JORF 12 avril 1994
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 ZB (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - Code général des impôts, CGI. - art. 209 B (V)
+
+
+###### Article 102 XA
+
+Les retenues à la source effectuées sur les dividendes, intérêts ou redevances, compris dans les revenus de l'entreprise ou
+de l'entité juridique soumise à un régime fiscal privilégié et qui proviennent d'un Etat ou territoire autre que celui dans
+lequel cette entreprise ou entité juridique est établie ou constituée, sont imputables sur le montant de l'impôt sur les
+sociétés dû par la personne morale établie en France et passible de l'impôt sur les sociétés dans les conditions mentionnées
+au 5 du I de l'article 209 B du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 ZB (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 209 B (V)
 
 
 ###### Article 102 Y
 
-Dans la limite de la quote-part des ((bénéfices d'une société ou d'un groupement établis hors de France qui sont réputés, en
-application de l'article 209 B du code général des impôts, constituer un résultat de l'entreprise ou de la personne morale,
-passible de l'impôt sur les sociétés, à raison duquel elle a été soumise à l'impôt, cette entreprise ou cette personne morale
-passible de l'impôt sur les sociétés)) (1) retranche de son bénéfice net total les dividendes et produits de participation
-reçus de ((la société ou du groupement établis hors de France)) (1).
+Dans la limite de la quote-part des bénéfices ou revenus positifs d'une entité juridique établie ou constituée hors de France
+qui sont réputés, en application de l'article 209 B du code général des impôts, constituer un revenu de capitaux mobiliers de
+la personne morale établie en France et passible de l'impôt sur les sociétés, à raison duquel elle a été soumise à cet impôt,
+cette personne morale établie en France et passible de l'impôt sur les sociétés retranche de son bénéfice net total les
+dividendes et produits de participation reçus de l'entité juridique établie ou constituée hors de France. 
 
-A cette fin, elle tient un compte séparé pour chaque société ((ou groupement établis)) (1) hors de France faisant apparaître
-le montant cumulé des bénéfices soumis à l'impôt sur les sociétés et des distributions reçues de ((cette société ou de ce
-groupement)) (1) postérieurement à la première application de l'article 209 B du code général des impôts.
-
-(1) Modifications du décret.
+A cette fin, elle tient un compte séparé pour chaque entité juridique établie ou constituée hors de France faisant apparaître
+le montant cumulé des bénéfices ou revenus positifs soumis à l'impôt sur les sociétés et les distributions reçues de cette
+entité juridique postérieurement à la première application de l'article 209 B du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 209 B
-	  - Décret n°81-1173 1981-12-31
-
 	**Modifié par**:
 
-	  - Décret n°94-282 du 5 avril 1994 - art. 8 () JORF 12 avril 1994
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - Code général des impôts, CGI. - art. 209 B (V)
 
 
 ###### Article 102 Z
 
-I. L'entreprise ou la personne morale qui est dans le champ d'application de l'article 209 B du code général des impôts doit
-produire, dans le même délai que la déclaration de ses résultats, une déclaration comportant les renseignements et documents
-suivants :
+I.-Lorsqu'elle relève du I de l'article 209 B du code général des impôts, la personne morale établie en France et passible de
+l'impôt sur les sociétés doit joindre à sa déclaration de résultats une déclaration comportant les renseignements et
+documents suivants : 
 
-a) Le nom ou la raison sociale ainsi que l'adresse du siège social, l'objet, l'activité, le lieu de la résidence fiscale et
-la proportion de la participation visée à l'article 102 SA en ce qui concerne les sociétés, établies hors de France, créées
-ou acquises avant le 30 septembre 1992 et soumises à un régime fiscal privilégié, dans lesquelles elle détient, directement
-ou indirectement au sens du premier alinéa du 2 du I bis de l'article 209 B du code général des impôts, 25 p. 100 au moins
-des actions, parts, droits financiers ou droits de vote ;
+a. Le nom ou la raison sociale ainsi que l'adresse du siège social, l'objet, l'activité, le lieu de la résidence fiscale, les
+noms, prénoms ou raisons sociales et l'adresse des associés et la proportion de la participation mentionnée à l'article 102
+SA en ce qui concerne les entités juridiques établies ou constituées hors de France soumises à un régime fiscal privilégié,
+dans lesquelles son taux de détention, direct ou indirect en actions, parts, droits financiers ou droits de vote au sens du
+premier alinéa du 2 du I de l'article 209 B du code général des impôts, excède le seuil mentionné au 1 du I de ce dernier
+article ; 
 
-b) Le nom ou la raison sociale ainsi que l'adresse du siège social, l'objet, l'activité, le lieu de la résidence fiscale et
-la proportion de la participation visée à l'article 102 SA en ce qui concerne les sociétés établies hors de France, créées ou
-acquises avant le 30 septembre 1992, soumises à un régime fiscal privilégié et pour lesquelles des acquisitions ou des
-souscriptions de participations mentionnées au I bis de l'article 209 B du code général des impôts, intervenues à compter du
-30 septembre 1992, permettent d'atteindre la détention de 10 p. 100 ou, si ce taux est déjà atteint, de le maintenir ou de
-l'augmenter, ou qui permettent d'atteindre le montant de 22 800 000 euros mentionné au 1 du I bis du même article, ou
-d'augmenter le montant de la participation si ce seuil est déjà atteint ;
+b. Le lieu d'exercice et l'objet de l'activité de chaque entreprise établie hors de France soumise à un régime fiscal
+privilégié ; 
 
-c) Le nom ou la raison sociale ainsi que l'adresse du siège, l'objet, l'activité, le lieu de la résidence fiscale et la
-proportion de la participation visée à l'article 102 SA en ce qui concerne les sociétés ou groupements, établis hors de
-France, créés ou acquis à compter du 30 septembre 1992 et soumis à un régime fiscal privilégié, dans lesquels elle détient,
-directement ou indirectement au sens du premier alinéa du 2 du I bis de l'article 209 B du code général des impôts, 10 p. 100
-au moins des actions, parts, droits financiers ou droits de vote, ou possède une participation dont le prix de revient est
-égal ou supérieur à 22 800 000 euros ;
+c. Pour chaque entité juridique mentionnée au a ou chaque entreprise mentionnée au b, l'ensemble des documents qui sont
+exigés des sociétés passibles de l'impôt sur les sociétés, y compris le bilan et le compte de résultats établis selon les
+règles fixées par les articles 102 U et 102 V ; 
 
-d) Le lieu d'exercice et l'objet de l'activité de chaque entreprise établie hors de France soumise à un régime fiscal
-privilégié et créée ou acquise à compter du 30 septembre 1992 ;
+d. Le bilan et le compte de résultats de chaque entreprise ou entité juridique, fournis à l'administration fiscale du pays ou
+territoire où elle est située, dans tous les cas où cette administration exige le dépôt de tels documents ; 
 
-e) Pour chaque société, entreprise ou groupement concerné, l'ensemble des documents qui sont exigés des sociétés passibles de
-l'impôt sur les sociétés, y compris le bilan et le compte de résultats établis selon les règles fixées par les articles 102 U
-et 102 V ;
+e. Un état faisant apparaître de manière détaillée les bénéfices ou revenus de capitaux mobiliers déterminés selon les règles
+fixées au 3 du I de l'article 209 B du code général des impôts ; 
 
-f) Le bilan et le compte de résultats de chaque société, entreprise ou groupement, fournis à l'administration fiscale du pays
-ou territoire où il est situé, dans tous les cas où cette administration exige le dépôt de tels documents ;
+f. Pour chacune des entités juridiques établies ou constituées hors de France, un état faisant apparaître le montant cumulé
+des bénéfices ou revenus positifs ayant fait l'objet d'une imposition au titre de l'article 209 B du code général des impôts
+et le montant cumulé des distributions reçues de ces sociétés. 
 
-g) Un état faisant apparaître de manière détaillée les résultats déterminés selon les règles fixées au 3 du I bis de
-l'article 209 B du code général des impôts ;
-
-h) Un état faisant apparaître le montant des prélèvements fiscaux et crédits d'impôt imputables sur l'impôt sur les sociétés
-par application des articles 102 W et 102 X et dû par l'entreprise ou la personne morale, passible de l'impôt sur les
-sociétés, à raison des résultats bénéficiaires de chaque entreprise, société ou groupement établis hors de France ;
-
-i) Pour chacune des sociétés établies hors de France, un état faisant apparaître le montant cumulé des bénéfices ayant fait
-l'objet d'une imposition séparée au titre de l'article 209 B du code général des impôts et le montant cumulé des
-distributions reçues de ces sociétés.
-
-II. Toutefois, les entreprises ou les personnes morales, passibles de l'impôt sur les sociétés, qui estiment relever des
-dispositions du II ou du II bis de l'article 209 B du code général des impôts peuvent se limiter à indiquer dans leur
-déclaration les renseignements mentionnés aux a à e du I du présent article. La production de cette liste vaut indication
-expresse au sens du 2 du II de l'article 1727 du même code.
+II.-Lorsque la personne morale établie en France et passible de l'impôt sur les sociétés estime relever des dispositions du
+II ou du III de l'article 209 B du code général des impôts, elle joint à sa déclaration de résultats une déclaration
+contenant les renseignements mentionnés aux a et b du I du présent article. La production de cette déclaration vaut
+indication expresse au sens du 2 du II de l'article 1727 du même code.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 209 B, 1727
-	  - CGIAN2 102 SA, 102 U, 102 V, 102 W, 102 X
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 U (V)
+	  - Code général des impôts, CGI. - art. 1727 (V)
+	  - Code général des impôts, CGI. - art. 209 B (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 ZA (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
 
+
+###### Article 102 ZA
+
+Lorsqu'une personne morale établie en France et passible de l'impôt sur les sociétés n'a pas produit, dans les délais prévus,
+la déclaration mentionnée à l'article 102 Z et que l'administration établit que cette personne morale a détenu dans une
+entité juridique établie ou constituée hors de France une participation dont le pourcentage a été supérieur au pourcentage
+mentionné au 1 du I de l'article 209 B du code général des impôts à un moment quelconque de l'exercice de cette entité
+juridique autre que la date de clôture, elle peut demander à cette personne morale de lui indiquer la durée de détention de
+cette participation au cours de l'exercice ainsi que les conditions et les dates de son acquisition et de sa cession. 
+
+Si, dans un délai de trente jours, la personne morale établie en France et passible de l'impôt sur les sociétés ne défère pas
+à cette demande ou fournit une réponse insuffisante, l'administration lui adresse une mise en demeure de produire dans le
+même délai la déclaration prévue à l'article 102 Z.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 B, 102 Z
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 Z (V)
+	  - Code général des impôts, CGI. - art. 209 B (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
+
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger
