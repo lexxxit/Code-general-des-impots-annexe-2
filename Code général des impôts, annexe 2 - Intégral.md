@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-10-27
+Version Consolidée au 2006-11-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2214,18 +2214,18 @@ antérieurement à sa survenance.
 
 ###### Article 74-0 B
 
-Le prix de cession et le prix d'acquisition comprennent toutes les charges et indemnités stipulées au profit du cédant, à
-quelque titre que ce soit, en rémunération de l'opération.
+Le prix de cession et le prix d'acquisition comprennent toutes les charges et indemnités stipulées au profit du cédant ou
+d'un tiers, à quelque titre que ce soit, en rémunération de l'opération.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
+	  - Décret n°2006-1421 du 21 novembre 2006 - art. 1 () JORF 23 novembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 74-0 C
@@ -2356,7 +2356,10 @@ formule délivrée par l'administration indiquant :
 
 a) Le montant global, compte non tenu des frais, de l'ensemble des cessions réalisées au cours de l'année d'imposition ;
 
-b) Le montant du gain net imposable assorti des éléments nécessaires à sa détermination.
+b) Le montant du gain net imposable assorti des éléments nécessaires à sa détermination ;
+
+c) le montant de l'abattement mentionné à l'article 150-0 D bis du code précité ainsi que les éléments nécessaires à sa
+détermination.
 
 Toutefois, les contribuables peuvent se libérer de cette obligation en fournissant, pour les titres en dépôt ou inscrits en
 compte auprès d'un intermédiaire habilité, un document établi par ce dernier et faisant apparaître les mêmes éléments.
@@ -2365,11 +2368,11 @@ compte auprès d'un intermédiaire habilité, un document établi par ce dernier
 
 	**Cite**:
 
-	  - CGI 150-0 A, 175
+	  - CGI 150-0 A, 175, 150-0 D bis
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
+	  - Décret n°2006-1421 du 21 novembre 2006 - art. 2 () JORF 23 novembre 2006
 
 	**Cité par**:
 
@@ -2383,7 +2386,28 @@ compte auprès d'un intermédiaire habilité, un document établi par ce dernier
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 74-0 F bis
+
+Pour l'application des dispositions des articles 150-0 D bis et 150-0 D ter du code général des impôts, les contribuables
+produisent à l'administration fiscale, sur sa demande, tout document de nature à justifier la durée de détention des titres
+ou droits cédés et le caractère continu de cette détention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1421 du 21 novembre 2006 - art. 3 () JORF 23 novembre 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150-0 D bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 74-0 G
@@ -2465,36 +2489,42 @@ convention ainsi que son caractère définitif.
 
 ###### Article 74-0 I
 
-1. Les sociétés de personnes ou groupements qui, en tant que personnes interposées, réalisent des opérations sur des valeurs
-admises aux négociations sur des marchés réglementés sont tenus de souscrire :
+1. Les sociétés de personnes ou groupements qui, en tant que personnes interposées, réalisent des opérations mentionnées à
+l'article 150-0 A du code général des impôts sont tenus de souscrire : 
 
 a) Dans les trois mois de leur constitution, une déclaration en double exemplaire, accompagnée des statuts, indiquant la
 dénomination ou raison sociale, la forme juridique, l'objet, la durée et le lieu du siège de la société ou du groupement
 ainsi que l'identité des dirigeants ou gérants ; lorsque ces indications ont cessé d'être exactes, la déclaration doit être
-renouvelée dans les trois mois du changement intervenu ;
+renouvelée dans les trois mois du changement intervenu ; 
 
 b) Dans le délai prévu à l'article 175 du code général des impôts, une déclaration établie sur une formule délivrée par
-l'administration et indiquant pour l'année précédente :
+l'administration et indiquant pour l'année précédente : 
 
 1° L'identité des membres, le nombre de parts dont ils étaient titulaires au 1er janvier de ladite année, la date des
-cessions ou acquisitions de parts intervenues en cours d'année ainsi que l'identité du cédant ou du cessionnaire ;
+cessions ou acquisitions de parts intervenues en cours d'année ainsi que l'identité du cédant ou du cessionnaire ; 
 
-2° Les éléments prévus à l'article 74-0 F et leur répartition entre chacun des membres ;
+2° Les éléments prévus à l'article 74-0 F et leur répartition entre chacun des membres ; 
 
 2. Ces sociétés ou groupements doivent présenter à toute demande de l'administration des impôts les documents comptables ou
 sociaux, bordereaux d'opérations et autres pièces de recettes et de dépenses de nature à justifier l'exactitude des
 renseignements portés sur la déclaration prévue au b du 1.
 
+3. Pour l'application des dispositions des articles 150-0 D bis et 150-0 D ter du code général des impôts, les sociétés ou
+groupements, agissant en tant que personnes interposées, produisent à l'administration fiscale, sur sa demande, tout document
+de nature à justifier la durée de détention des titres ou droits cédés et le caractère continu de cette détention.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2006-1421 du 21 novembre 2006 - art. 4 () JORF 23 novembre 2006
 
 	**Cite**:
 
-	  - CGI 175
-	  - CGIAN2 74-0 F
-
-	**Créé par**:
-
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F (V)
+	  - Code général des impôts, CGI. - art. 150-0 A (V)
+	  - Code général des impôts, CGI. - art. 150-0 D bis (V)
+	  - Code général des impôts, CGI. - art. 175 (V)
 
 	**Cité par**:
 
@@ -2502,7 +2532,7 @@ renseignements portés sur la déclaration prévue au b du 1.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 74-0 J
@@ -2528,55 +2558,6 @@ part du montant des cessions correspondant aux droits de chacun de leurs membres
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 I (V)
 	  - Code général des impôts, CGI. - art. 242 ter (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 74-0 K
-
-1. Les contribuables qui entendent bénéficier du report d'imposition prévu à l'article 150-0 C du code général des impôts
-font apparaître distinctement sur la déclaration spéciale des plus-values prévue à l'article 74-0 F le montant de la plus-
-value dont le report d'imposition est demandé, ainsi que les éléments nécessaires à sa détermination.
-
-Cette déclaration indique en outre :
-
-a) La dénomination et l'adresse de la société dont les titres sont cédés ;
-
-b) Le pourcentage des droits détenus par les membres du foyer fiscal dans les bénéfices sociaux de cette société à la date de
-la cession des titres ;
-
-c) La nature des fonctions exercées par le cédant dans cette société au cours des trois années ayant précédé la cession des
-titres ;
-
-2. Les contribuables doivent joindre à la déclaration mentionnée au 1 :
-
-a) Une attestation de la société bénéficiaire de l'apport comportant sa dénomination et son adresse ainsi que la date et le
-montant de l'apport effectué par le cédant au titre de la souscription ou de l'augmentation de capital en numéraire. Cette
-attestation précise que les droits sociaux émis en contrepartie de cet apport sont intégralement libérés à leur
-souscription ;
-
-b) Un état conforme à celui mentionné au 1 de l'article 74-0 N ;
-
-3. Lorsque, à la date du dépôt de la déclaration mentionnée au 1, le contribuable n'a pas réalisé l'apport en société auquel
-le report d'imposition est subordonné, il produit cette attestation auprès du service des impôts dans le mois qui suit la
-réalisation de cet apport.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150-0 C
-	  - CGIAN2 74-0 F, 74-0 N
-
-	**Créé par**:
-
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1421 du 21 novembre 2006 - art. 6 () JORF 23 novembre 2006
 
 	**Liens**:
 
@@ -2673,6 +2654,45 @@ de titres reçus lors de cette opération.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 74-0 P
+
+Pour l'application du c du 2° du I de l'article 150-0 D ter du code général des impôts, la date à laquelle le cédant fait
+valoir ses droits à la retraite s'entend de la date à laquelle il entre en jouissance des droits qu'il a acquis dans le
+régime obligatoire de base d'assurance vieillesse auquel il a été affilié à raison de ses fonctions de direction ou, s'il n'a
+été affilié auprès d'aucun régime obligatoire de base pour cette activité, dans le régime obligatoire de base d'assurance
+vieillesse auquel il a été affilié au titre de sa dernière activité. 
+
+Le contribuable produit à l'administration fiscale, sur sa demande, les pièces que lui a adressées son régime mentionné au
+premier alinéa, sur lesquelles figure la date prévue audit alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1421 du 21 novembre 2006 - art. 5 () JORF 23 novembre 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
+
+
+###### Article 74-0 Q
+
+Les conditions d'effectif, de chiffre d'affaires ou de total de bilan mentionnées aux a et b du 3° du I de l'article 150-0 D
+ter du code général des impôts sont déterminées sur la base des comptes de la société dont les titres ou droits sont cédés.
+Si cette société établit des comptes consolidés, les conditions précitées sont déterminées sur la base de ces comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1421 du 21 novembre 2006 - art. 5 () JORF 23 novembre 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
 
 
 ##### 2 : Biens et droits mobiliers ou immobiliers.
