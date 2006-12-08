@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-11-23
+Version Consolidée au 2006-12-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4577,6 +4577,27 @@ de ces mêmes dispositions par les associés ou membres de cette entreprise.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 199 undecies B (V)
+
+
+###### Article 95 W
+
+Les contribuables qui bénéficient de la réduction d'impôt prévue à l'article 200 octies du code général des impôts conservent
+le document délivré par la maison de l'emploi, mentionné au troisième alinéa de l'article 200 octies précité, jusqu'à
+l'expiration du délai au cours duquel l'administration est susceptible d'exercer son droit de reprise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 200 octies
+
+	**Créé par**:
+
+	  - Décret n°2006-1552 du 7 décembre 2006 - art. 2 () JORF 9 décembre 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
