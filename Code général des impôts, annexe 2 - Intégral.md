@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-12-09
+Version Consolidée au 2006-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8807,8 +8807,8 @@ code général des impôts.
 
 ###### Article 171 AM
 
-Pour l'appréciation du quota de 50 % prévu au troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet
-1985 :
+I. - Pour l'appréciation du quota de 50 % prévu au troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11
+juillet 1985 :
 
 a) La situation nette comptable d'une société de capital-risque s'apprécie après déduction de la valeur nette comptable des
 participations détenues dans d'autres sociétés de capital-risque ;
@@ -8839,11 +8839,20 @@ direct s'apprécie par référence :
 f) Ne sont pas prises en compte les participations détenues par la société de capital-risque pour le compte de tiers ou
 financées grâce au concours de tiers qui en assument les risques financiers.
 
+II. - Pour l'application du quatrième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, la
+capitalisation boursière d'une société est déterminée conformément au II de l'article R. 214-38 du code monétaire et
+financier.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Loi n°85-695 1985-07-11
+	  - Code monétaire et financier - art. R214-38 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 4 () JORF 30 décembre 2006
 
 	**Cité par**:
 
@@ -8851,15 +8860,7 @@ financées grâce au concours de tiers qui en assument les risques financiers.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Cite**:
-
-	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 171 AN
@@ -8920,24 +8921,80 @@ suit celui du dépassement.
 
 ###### Article 171 AP
 
-Pour les sociétés mentionnées au b du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, la condition relative à
-l'exclusivité de l'objet est remplie lorsque les parts, actions, obligations remboursables, obligations convertibles ou
-titres participatifs émis par des sociétés dont les titres sont éligibles au quota prévu au troisième alinéa du 1° du même
-article ainsi que les avances en comptes courants à ces sociétés représentent 90 % de l'actif.
+I. - Pour l'application du f du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, la proportion de l'actif des
+sociétés mentionnées à la première phrase du même f investi directement, ou indirectement par l'intermédiaire d'autres
+sociétés mentionnées à cette même première phrase, dans des sociétés qui répondent aux conditions prévues au troisième alinéa
+du 1° du même article 1er-1 est calculée en additionnant au numérateur :
+
+1° le prix de souscription ou d'acquisition des titres mentionnés au troisième alinéa du 1° du même article 1er-1 et
+éligibles au quota de 50 % prévu à ce même troisième alinéa et la valeur brute comptable des avances en compte courant
+consenties aux sociétés émettrices de ces titres ;
+
+2° et le prix de souscription ou d'acquisition des titres émis par une société mentionnée à la première phrase du f du 1° du
+même article 1er-1, ainsi que la valeur brute comptable des avances en compte courant consenties à cette même société,
+retenus à hauteur de la proportion des investissements directs, ou indirects par l'intermédiaire d'autres sociétés
+mentionnées à la première phrase du même f, de son actif brut comptable dans des sociétés qui répondent aux conditions
+prévues au troisième alinéa du 1° du même article 1er-1.
+
+Le dénominateur est égal à l'actif brut comptable de la société.
+
+II. - Les dispositions du I s'appliquent également aux investissements réalisés par des sociétés mentionnées à la première
+phrase du f du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 directement, ou indirectement par l'intermédiaire
+d'autres sociétés mentionnées à cette même première phrase du f, dans des sociétés répondant aux conditions prévues au
+quatrième alinéa du 1° du même article 1er-1.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - HISTO: Edition du 1er janvier 2007
 
 	**Cite**:
 
-	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 5 () JORF 30 décembre 2006
+
+
+###### Article 171 AP bis
+
+I. - Pour l'application du d du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, la proportion de l'actif de
+l'entité mentionnée à ce même d investi directement, ou indirectement par l'intermédiaire de sociétés mentionnées à la
+première phrase du f du 1° du même article 1er-1, dans des sociétés qui répondent aux conditions prévues au troisième alinéa
+du même 1°, s'applique au montant des souscriptions effectivement libérées par la société de capital-risque. Elle est
+calculée par référence au dernier inventaire de l'actif de ladite entité en additionnant au numérateur :
+
+1° le prix de souscription ou d'acquisition des titres mentionnés au troisième alinéa du 1° du même article 1er-1 et
+éligibles au quota de 50 % prévu à ce même troisième alinéa et le montant des avances en compte courant consenties aux
+sociétés émettrices de ces titres ;
+
+2° et le prix de souscription ou d'acquisition des titres émis par une société mentionnée à la première phrase du f du 1° du
+même article 1er-1, ainsi que le montant des avances en compte courant consenties à cette même société, retenus à hauteur de
+la proportion des investissements directs, ou indirects par l'intermédiaire d'autres sociétés mentionnées à la première
+phrase du même f, de son actif dans des sociétés qui répondent aux conditions prévues au troisième alinéa du 1° susmentionné.
+
+Le dénominateur est égal à l'actif de ladite entité.
+
+II. - Les dispositions du I s'appliquent également aux investissements effectués par une entité mentionnée au d du 1° de
+l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 directement, ou indirectement par l'intermédiaire de sociétés
+mentionnées à la première phrase du f du même 1°, dans des sociétés qui répondent aux conditions prévues au quatrième alinéa
+du 1° de ce même article 1er-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-695 1985-07-11
 
 	**Créé par**:
 
-	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 6 () JORF 30 décembre 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 171 AQ
@@ -9011,11 +9068,7 @@ duquel la société de capital-risque dépose sa déclaration de résultats.
 
 ###### Article 171 AS
 
-I. - Les sociétés de capital-risque joignent à leur déclaration de résultats un état permettant d'apprécier le respect, au 30
-juin, au 31 décembre et à la clôture de l'exercice s'il est clos à une date différente, du quota prévu au troisième alinéa du
-1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985. Cet état, établi sur papier libre, mentionne la nature et le
-montant des investissements éligibles au quota ainsi que les éléments constitutifs de la situation nette comptable telle
-qu'elle est définie à l'article 171 AM.
+I. - (abrogé).
 
 II. - Les sociétés de capital-risque qui réalisent des prestations de services accessoires au sens du premier alinéa du 1° de
 l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 joignent à leur déclaration de résultats un relevé indiquant, pour
@@ -9029,19 +9082,13 @@ du 3° septies de cet article, l'état inclut les réserves distribuables consti
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 208
-	  - CGIAN2 171 AM
-	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 9 () JORF 30 décembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
-
-	**Créé par**:
-
-	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### VII ter : Fonds communs de placement à risques
@@ -9070,24 +9117,148 @@ parts.
 
 ###### Article 171 AU
 
-Pour les sociétés mentionnées au 1° bis de l'article 163 quinquies B du code général des impôts, la condition relative à
-l'exclusivité de l'objet est remplie lorsque les parts, actions, obligations remboursables, obligations convertibles ou
-titres participatifs émis par des sociétés dont les titres sont éligibles au quota mentionné au 1° du même article, ainsi que
-les avances en comptes courants à ces sociétés, représentent 90 % de leur actif.
+I. - Pour l'application du 1° quater du II de l'article 163 quinquies B du code général des impôts, la proportion de l'actif
+des sociétés mentionnées au premier alinéa du même 1° quater investi directement, ou indirectement par l'intermédiaire
+d'autres sociétés mentionnées à ce même premier alinéa du 1° quater, dans des sociétés qui répondent aux conditions prévues
+au 1° du II du même article 163 quinquies B et dont les titres ne sont pas admis aux négociations sur un marché mentionné au
+1 de l'article L. 214-36 du code monétaire et financier est calculée en additionnant au numérateur :
+
+1° le prix de souscription ou d'acquisition des titres mentionnés au 1 de l'article L. 214-36 du code monétaire et financier
+et éligibles au quota de 50 % prévu au 1° du II de l'article 163 quinquies B du code général des impôts et la valeur brute
+comptable des avances en compte courant consenties aux sociétés émettrices de ces titres ;
+
+2° et le prix de souscription ou d'acquisition des titres émis par une société mentionnée au premier alinéa du 1° quater du
+II de l'article 163 quinquies B du code général des impôts, ainsi que la valeur brute comptable des avances en compte courant
+consenties à cette même société, retenus à hauteur de la proportion des investissements directs, ou indirects par
+l'intermédiaire d'autres sociétés mentionnées à ce même premier alinéa du 1° quater, de son actif brut comptable dans des
+sociétés qui répondent aux conditions prévues au 1° du II du même article 163 quinquies B et dont les titres ne sont pas
+admis aux négociations sur un marché mentionné au 1 de l'article L. 214-36 du code monétaire et financier.
+
+Le dénominateur est égal à l'actif brut comptable de la société.
+
+II. - Les dispositions du I s'appliquent également aux investissements réalisés par des sociétés mentionnées au premier
+alinéa du 1° quater du II de l'article 163 quinquies B du code général des impôts directement, ou indirectement par
+l'intermédiaire d'autres sociétés mentionnées à ce même premier alinéa du 1° quater, dans des sociétés qui répondent aux
+conditions prévues au 1° du II du même article 163 quinquies B et dont les titres sont admis aux négociations sur un marché
+dans les conditions du 3 de l'article L. 214-36 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 163 quinquies B
+	  - Code monétaire et financier - art. L214-36 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1503 du 23 décembre 2002 - art. 2 () JORF 26 décembre 2002
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 7 () JORF 30 décembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 171 AV
+
+I. - Pour l'application du 1° quinquies du II de l'article 163 quinquies B du code général des impôts, la proportion de
+l'actif de l'entité mentionnée à ce même 1° quinquies investi directement, ou indirectement par l'intermédiaire de sociétés
+mentionnées au premier alinéa du 1° quater du même II, dans des sociétés qui répondent aux conditions prévues au 1° du même
+II et dont les titres ne sont pas admis aux négociations sur un marché mentionné au 1 de l'article L. 214-36 du code
+monétaire et financier s'applique au montant des souscriptions effectivement libérées par le fonds. Elle est calculée par
+référence au dernier inventaire de l'actif de ladite entité en additionnant au numérateur :
+
+1° le prix de souscription ou d'acquisition des titres mentionnés au 1 de l'article L. 214-36 du code monétaire et financier
+éligibles au quota de 50 % prévu au 1° du II de l'article 163 quinquies B du code général des impôts et le montant des
+avances en compte courant consenties aux sociétés émettrices de ces titres ;
+
+2° et le prix de souscription ou d'acquisition des titres émis par une société mentionnée au premier alinéa du 1° quater du
+II de l'article 163 quinquies B du code général des impôts, ainsi que le montant des avances en compte courant consenties à
+cette même société, retenus à hauteur de la proportion des investissements directs, ou indirects par l'intermédiaire d'autres
+sociétés mentionnées au même premier alinéa du 1° quater, de son actif dans des sociétés qui répondent aux conditions prévues
+au 1° du II du même article 163 quinquies B et dont les titres ne sont pas admis aux négociations sur un marché mentionné au
+1 de l'article L. 214-36 du code monétaire et financier.
+
+Le dénominateur est égal à l'actif de ladite entité.
+
+II. - Les dispositions du I s'appliquent également aux investissements effectués par une entité mentionnée au 1° quinquies du
+II de l'article 163 quinquies B du code général des impôts directement, ou indirectement par l'intermédiaire de sociétés
+mentionnées au premier alinéa du 1° quater du même II, dans des sociétés qui répondent aux conditions prévues au 1° du même
+II et dont les titres sont admis aux négociations sur un marché dans les conditions du 3 de l'article L. 214-36 du code
+monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quinquies B
+	  - Code monétaire et financier - art. L214-36 (M)
+
+	**Créé par**:
+
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 8 () JORF 30 décembre 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 171 AW
+
+I. - La société de gestion du fonds commun de placement à risques adresse, dans les quatre mois qui suivent la clôture de
+l'exercice du fonds, la déclaration prévue au I de l'article 242 quinquies du code général des impôts, établie sur papier
+libre, qui mentionne pour chaque investissement retenu pour le calcul du quota de 50 % prévu au 1° du II de l'article 163
+quinquies B du même code :
+
+1° La dénomination de la société ou de l'entité, l'adresse de son siège social et de son siège de direction effective si elle
+est différente ;
+
+2° L'activité principale de la société ;
+
+3° La capitalisation boursière de la société si ses titres sont admis à la négociation sur un marché d'instruments financiers
+d'un Etat partie à l'accord sur l'Espace économique européen dont le fonctionnement est assuré par une entreprise de marché
+ou un prestataire de services d'investissement ;
+
+4° Le montant et la nature des investissements retenus pour le calcul du quota de 50 % précité et pour la limite de 20 %
+prévue au 3 de l'article L. 214-36 du code monétaire et financier.
+
+II. - Lorsque le fonds commun de placement à risques investit dans des sociétés mentionnées au premier alinéa du 1° quater du
+II de l'article 163 quinquies B du code général des impôts ou dans des entités mentionnées au l° quinquies du même II, la
+société de gestion joint en outre à la déclaration mentionnée au I :
+
+1° Un état, établi sur papier libre, qui fait apparaître, pour chaque investissement dans des sociétés mentionnées au premier
+alinéa du 1° quater du II de l'article 163 quinquies B susmentionné, les éléments permettant d'apprécier le montant des
+titres de la société retenu pour l'appréciation du quota d'investissement de 50 % prévu au 1° du II du même article 163
+quinquies B et pour le calcul de la limite de 20 % prévue au 3 de l'article L. 214-36 du code monétaire et financier. Cet
+état indique notamment la dénomination sociale des sociétés dont les titres sont éligibles au quota de 50 %, l'adresse de
+leur siège social et de leur siège de direction effective si elle est différente, la nature de leur activité et leur
+capitalisation boursière si leurs titres sont admis à la négociation sur un marché réglementé ou organisé d'un Etat membre de
+la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
+
+2° Un état, établi sur une formule délivrée par l'administration, qui fait apparaître, pour chaque investissement dans des
+entités mentionnées au 1° quinquies du II de l'article 163 quinquies B du code général des impôts, les éléments permettant
+d'apprécier le montant des droits représentatifs du placement financier du fonds dans l'entité retenu dans le quota
+d'investissement de 50 % prévu au 1° du II du même article 163 quinquies B et pour le calcul de la limite de 20 % prévue au 3
+de l'article L. 214-36 du code monétaire et financier.
+
+**Nota:**
+
+Décret 2006-1726 du 23 décembre 2006 art. 12 : Les dispositions des articles 10 et 11 sont applicables aux exercices clos
+postérieurement à la date de publication du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 242 quinquies, 163 quinquies, 163 quinquies B
+	  - Code monétaire et financier - art. L214-36 (M)
+
+	**Créé par**:
+
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 11 () JORF 30 décembre 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### VIII : Réductions d'impôts pour l'achat de biens culturels
