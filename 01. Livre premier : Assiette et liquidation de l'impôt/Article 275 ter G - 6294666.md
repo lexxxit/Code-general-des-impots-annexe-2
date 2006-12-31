@@ -1,10 +1,10 @@
 # Article 275 ter G
 
-L'organisme de contrôle agréé utilise les poinçons de titre fournis par la direction des monnaies et médailles, conformément
-à l'article 186 de l'annexe III au code général des impôts, sauf autorisation spéciale délivrée par l'administration aux
-conditions qu'elle détermine. Les poinçons portent un signe caractéristique propre à l'ensemble des organismes qui délivrent
-la garantie. Ce signe est enregistré auprès de la direction régionale des douanes et droits indirects dont ils dépendent au
-moment de l'agrément de l'organisme.
+L'organisme de contrôle agréé utilise les poinçons de titre fournis par la Monnaie de Paris, conformément à l'article 186 de
+l'annexe III au code général des impôts, sauf autorisation spéciale délivrée par l'administration aux conditions qu'elle
+détermine. Les poinçons portent un signe caractéristique propre à l'ensemble des organismes qui délivrent la garantie. Ce
+signe est enregistré auprès de la direction régionale des douanes et droits indirects dont ils dépendent au moment de
+l'agrément de l'organisme.
 
 **Liens relatifs à cet article**
 
@@ -14,7 +14,11 @@ moment de l'agrément de l'organisme.
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -25,4 +29,4 @@ moment de l'agrément de l'organisme.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2007

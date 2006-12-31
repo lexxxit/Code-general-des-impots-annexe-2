@@ -1,13 +1,13 @@
 # Article 275 bis F
 
-Le professionnel habilité utilise les poinçons de garantie fabriqués par la direction des Monnaies et médailles en
-application de l'article 186 de l'annexe III au code général des impôts, sauf autorisation spéciale de marquage par d'autres
-méthodes délivrée par le directeur régional des douanes et droits indirects aux conditions qu'il détermine. Ils lui sont
-remis par la direction régionale des douanes et droits indirects de rattachement ou la direction des Monnaies et médailles.
+Le professionnel habilité utilise les poinçons de garantie fabriqués par la Monnaie de Paris en application de l'article 186
+de l'annexe III au code général des impôts, sauf autorisation spéciale de marquage par d'autres méthodes délivrée par le
+directeur régional des douanes et droits indirects aux conditions qu'il détermine. Ils lui sont remis par la direction
+régionale des douanes et droits indirects de rattachement ou la Monnaie de Paris.
 
 Il s'assure du bon état des poinçons dont il a la charge et contrôle qu'ils ne sortent pas du local utilisé pour le
 poinçonnage des ouvrages. Il remet à la direction régionale des douanes et droits indirects dont il dépend les poinçons usés
-ou les renvoie à la direction des Monnaies et médailles, après en avoir informé l'administration des douanes.
+ou les renvoie à la Monnaie de Paris, après en avoir informé l'administration des douanes.
 
 Toute disparition de ces poinçons doit être signalée immédiatement à la direction régionale des douanes et droits indirects
 dont le professionnel dépend qui procède à une enquête. Pendant la durée de l'enquête, l'application de la convention est
@@ -24,7 +24,11 @@ professionnel est établie à l'issue de cette enquête, la convention est rési
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -36,4 +40,4 @@ professionnel est établie à l'issue de cette enquête, la convention est rési
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2007

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-12-30
+Version Consolidée au 2007-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -869,76 +869,6 @@ Les biens donnés en location sont amortis sur leur durée normale d'utilisation
 	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
 
 
-###### Article 31 A
-
-L'amortissement régulièrement comptabilisé au titre d'un exercice et non déductible du résultat de cet exercice en
-application du deuxième alinéa de l'article 39 C du code général des impôts peut être déduit du bénéfice des exercices
-suivants, dans les conditions et limites prévues à ce même alinéa.
-
-Lorsque le bien cesse d'être soumis aux dispositions de ce même article, l'amortissement non déductible en application de ces
-dispositions et qui n'a pu être déduit selon les modalités prévues au premier alinéa est déduit du bénéfice de l'exercice au
-cours duquel intervient cet événement. Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement
-opérée, l'excédent d'amortissement est reporté et déduit des bénéfices des exercices suivants.
-
-En cas de cession de ce bien, l'amortissement non déduit en application des dispositions du deuxième alinéa de ce même
-article majore la valeur nette comptable prise en compte pour le calcul de la plus-value ou de la moins-value de cession.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 C
-
-	**Modifié par**:
-
-	  - Décret n°2004-833 du 19 août 2004 - art. 1 () JORF 22 août 2004
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 août 2004
-	  - PEREMPTION: Loi n°2006-1771 2006-12-30 art. 77 I, II, VII Finances rectificative pour 2006 JORF 31 décembre 2006
-	  - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 77 (V) JORF 31 décembre 2006
-
-
-###### Article 31 D
-
-Les associés, copropriétaires ou membres mentionnés au premier alinéa de l'article 39 CA du code général des impôts doivent
-joindre à la première déclaration de résultat prenant en compte la quote-part de résultat leur revenant une copie de la
-décision d'agrément, l'engagement de conservation des parts mentionné au c du 3 de l'article 31 B, ainsi qu'un document
-établi selon un modèle fixé par l'administration permettant le suivi des déficits réalisés par la société, la copropriété ou
-le groupement propriétaire des biens loués ou mis à disposition. Ils devront joindre ce dernier document à leurs déclarations
-de résultat suivantes.
-
-La société, copropriété ou groupement joint une copie de la décision d'agrément à sa première déclaration de résultat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 CA, 31 B
-
-	**Créé par**:
-
-	  - Décret n°98-1243 du 29 décembre 1998 - art. 1 () JORF 30 décembre 1998
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°2006-1771 2006-12-30 art. 77 I, II, VII Finances rectificative pour 2006 JORF 31 décembre 2006
-	  - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 77 (V) JORF 31 décembre 2006
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1999-06-17 4D-3-99
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-
 ###### Article 32
 
 Les dispositions de l'article 39 C du code général des impôts s'appliquent également aux biens mis par une entreprise à la
@@ -960,158 +890,6 @@ l'avantage en nature accordé à celui-ci.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 1999
-
-
-##### 8 : Amortissement des biens donnés en location ou mis à disposition.
-
-###### Article 31 B
-
-1. La demande, formulée par un représentant unique, dûment habilité, du promoteur du projet, en vue d'obtenir l'agrément
-prévu au 3° de l'article 39 CA du code général des impôts, est présentée sur papier libre, préalablement à la réalisation de
-l'opération qui la motive, et adressée en quatre exemplaires au ministre chargé du budget (services centraux de la direction
-générale des impôts).
-
-2. La demande comporte les renseignements permettant d'apprécier la portée exacte du projet au regard des conditions fixées
-pour l'octroi de l'agrément et concernant notamment :
-
-a) L'identification des opérateurs économiques et de leurs associés, ainsi que la nature de leur activité ;
-
-b) L'identification de la société, de la copropriété ou du groupement qui consent la location ou la mise à disposition, ainsi
-que les conditions et modalités de souscription de ses parts ;
-
-c) L'origine, les conditions d'acquisition, d'exploitation et de financement du bien loué ou mis à disposition, ainsi que la
-comparaison de son prix d'acquisition et des frais annexes qui viennent, le cas échéant, augmenter sa valeur vénale par
-rapport au prix de marché. Cette valeur peut être attestée par un document émanant d'un professionnel indépendant ;
-
-d) La justification de la durée d'amortissement retenue ;
-
-e) Les éléments permettant d'établir que le bien est nécessaire à l'exploitation de l'utilisateur et que les modalités de
-financement retenues sont déterminées par des préoccupations autres que fiscales ou comptables ;
-
-f) L'intérêt économique et social du projet, notamment en matière d'emploi ;
-
-g) Les modalités de rétrocession à l'utilisateur des deux tiers au moins de l'avantage fiscal obtenu par les associés,
-copropriétaires ou membres ;
-
-h) Les modalités juridiques et financières de la cession des biens ou des parts de société, copropriété ou groupement à
-l'expiration du contrat ou selon les modalités prévues aux treizième à dix-septième alinéas de l'article 39 CA susmentionné,
-lorsque cette possibilité est prévue. Dans cette dernière hypothèse, l'utilisateur fournit les éléments permettant de
-s'assurer de la pérennité de l'exploitation du bien jusqu'à la fin initialement prévue du contrat de location ou de mise à
-disposition. Il fournit les éléments prévisionnels montrant que l'acquisition directe du bien compromettrait son équilibre
-financier.
-
-3. La demande d'agrément est accompagnée :
-
-a) D'une copie du contrat de location ou de mise à disposition ;
-
-b) D'une copie du projet de commande du bien loué ou mis à disposition ou de tout document en tenant lieu ;
-
-c) De l'engagement des associés, copropriétaires ou membres de conserver, jusqu'à l'expiration du contrat de location ou de
-mise à disposition, les parts qu'ils détiennent directement ou indirectement dans la société, la copropriété ou le groupement
-qui consent la location ou la mise à disposition ;
-
-d) De tableaux indiquant pour chaque exercice jusqu'au terme du contrat de location ou de mise à disposition :
-
-1° Les comptes de résultats prévisionnels comptables et fiscaux de la société, de la copropriété ou du groupement mentionné
-au b du 2, détaillés poste par poste ;
-
-2° Les bilans de la société, de la copropriété ou du groupement, détaillés poste par poste ;
-
-3° Les flux de trésorerie dégagés par le montage ;
-
-e) Du bilan et du compte de résultat comptable de l'utilisateur au titre du dernier exercice clos.
-
-4. Dès réception de la demande, le ministre chargé du budget procède à son instruction ;
-
-Dans le cas où le demandeur n'a pas fourni la totalité des renseignements nécessaires pour cette instruction, il l'invite à
-les produire.
-
-5. L'agrément est délivré par le ministre chargé du budget lorsque toutes les conditions prévues pour son obtention sont
-remplies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 CA
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 1999-06-17 4D-3-99
-	  - PEREMPTION: Loi n°2006-1771 2006-12-30 art. 77 I, II, VII Finances rectificative pour 2006 JORF 31 décembre 2006
-	  - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 77 (V) JORF 31 décembre 2006
-
-
-###### Article 31 C
-
-Pour l'application du huitième alinéa de l'article 39 CA du code général des impôts, le solde des valeurs actualisées
-afférentes aux réductions ou cotisations supplémentaires d'impôt est déterminé en retenant un taux d'actualisation égal à la
-moyenne pondérée, en fonction du montant des emprunts, des taux d'intérêt des emprunts souscrits pour l'acquisition des biens
-par la société, la copropriété ou le groupement qui consent la location ou la mise à disposition. Lorsque les emprunts sont
-rémunérés par un taux d'intérêt variable, seul le premier taux connu est retenu pour le calcul de la moyenne. Il n'est pas
-tenu compte, pour ce calcul, de l'avantage consenti en application de ces mêmes dispositions par les associés,
-copropriétaires ou membres de cette entreprise.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 CA
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 1999-06-17 4D-3-99
-	  - PEREMPTION: Loi n°2006-1771 2006-12-30 art. 77 I, II, VII Finances rectificative pour 2006 JORF 31 décembre 2006
-	  - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 77 (V) JORF 31 décembre 2006
-
-
-###### Article 31 E
-
-Le déficit non déductible au titre d'un exercice en application du dixième alinéa de l'article 39 CA du code général des
-impôts est admis en déduction, le cas échéant, dans la limite prévue par ce même alinéa, du bénéfice de l'exercice suivant,
-puis, si ce bénéfice n'est pas suffisant, des bénéfices des exercices ultérieurs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 CA
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 1999-06-17 4D-3-99
-	  - PEREMPTION: Loi n°2006-1771 2006-12-30 art. 77 I, II, VII Finances rectificative pour 2006 JORF 31 décembre 2006
-	  - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 77 (V) JORF 31 décembre 2006
 
 
 ##### 8 quater : Majoration d'amortissement des immobilisations acquises ou créées au moyen de certaines primes
@@ -2596,29 +2374,29 @@ ainsi que la nature et la date de l'opération.
 
 ###### Article 74-0 N
 
-L'état prévu au b du 2 de l'article 74-0 K et au 2 de l'article 74-0 M, établi sur une formule délivrée par l'administration,
-fait apparaître, pour chaque plus-value dont le report n'est pas expiré :
+L'état prévu au 2 de l'article 74-0 M, établi sur une formule délivrée par l'administration, fait apparaître, pour chaque
+plus-value dont le report n'est pas expiré : 
 
-a) La nature et la date de l'opération ainsi que le régime d'imposition applicable ;
+a) La nature et la date de l'opération ainsi que le régime d'imposition applicable ; 
 
-b) La désignation des sociétés concernées ;
+b) La désignation des sociétés concernées ; 
 
-c) Le montant de ces plus-values au 31 décembre de l'année d'imposition et au 31 décembre de l'année précédente ;
+c) Le montant de ces plus-values au 31 décembre de l'année d'imposition et au 31 décembre de l'année précédente ; 
 
-d) La nature et la date de l'événement ayant entraîné la modification de ce montant ;
+d) La nature et la date de l'événement ayant entraîné la modification de ce montant ; 
 
 e) Le cas échéant, la désignation de la société ou du groupement interposé qui a réalisé l'opération d'échange de titres
 ainsi que la quote-part des droits détenus dans la société ou le groupement à la date de l'échange.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN2 74-0 K, 74-0 M
+	  - Décret n°2006-1421 du 21 novembre 2006 - art. 6 () JORF 23 novembre 2006
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -2627,7 +2405,7 @@ ainsi que la quote-part des droits détenus dans la société ou le groupement �
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 74-0 O
@@ -2995,74 +2773,6 @@ d'option visée par les services fiscaux vaut justification du paiement de la ta
 
 
 ##### Section II : Revenu global
-
-##### 0I ter : Créateurs d'entreprises.
-
-###### Article 75-0 Y
-
-Le contribuable qui veut déduire de son revenu net global le montant des souscriptions au capital d'une société visée à
-l'article 163 octodecies A du code général des impôts doit joindre à sa déclaration :
-
-1° La copie du reçu de sa souscription en numéraire au capital initial ou à l'augmentation de capital de la société ;
-
-2° Soit la copie d'un extrait d'un des jugements mentionnés au deuxième alinéa du I de l'article 163 octodecies A du code
-général des impôts ou au troisième alinéa, en cas d'exercice de l'option prévue à cet alinéa, accompagnée, le cas échéant, de
-la copie d'un extrait du jugement mentionné au premier alinéa du II bis du même article, soit la copie de l'une des
-formalités assurant la publicité de ces jugements dans les conditions prévues à l'article 63 du décret n° 2005-1677 du 28
-décembre 2005 dont les dispositions sont applicables aux procédures de redressement judiciaire en vertu de l'article 176 de
-ce même décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 octodecies A
-	  - Décret n°2005-1677 2005-12-28 art. 63, art. 176
-
-	**Modifié par**:
-
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 176 (Ab) JORF 29 décembre 2005
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 354 () JORF 29 décembre 2005
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 63 (Ab) JORF 29 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 1er janvier 2007
-	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 59 III, VI Finances pour 2007 JORF 27 décembre 2006
-	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 59 (V) JORF 27 décembre 2006
-
-
-###### Article 75-0 Y bis
-
-L'option prévue au troisième alinéa du I de l'article 163 octodecies A du code général des impôts est formulée sur papier
-libre. Elle est jointe à la déclaration mentionnée à l'article 170 du même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 octodecies A, 170
-
-	**Créé par**:
-
-	  - Décret n°2004-222 du 11 mars 2004 - art. 2 () JORF 14 mars 2004
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 59 III, VI Finances pour 2007 JORF 27 décembre 2006
-	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 59 (V) JORF 27 décembre 2006
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 1er janvier 2007
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
 
 ##### I : Crédit d'impôt - Paiement des revenus de capitaux mobiliers - Obligations des établissements payeurs - Plans d'épargne d'entreprise
 
@@ -3927,190 +3637,6 @@ rente et comportant les indications suivantes :
 	  - Code civil - art. 373-2-3 (V)
 
 
-##### VII : Déduction des investissements réalisés outre-mer.
-
-###### Article 91 decies
-
-Les contribuables qui bénéficient de la déduction prévue au premier alinéa du I de l'article 163 tervicies du code général
-des impôts doivent joindre à la déclaration des revenus de l'année au cours de laquelle la déduction est pratiquée un état
-faisant apparaître, pour chaque investissement à raison duquel elle est pratiquée :
-
-a. le nom et l'adresse du siège social de l'entreprise propriétaire de l'investissement ou, lorsque ce dernier fait l'objet
-d'un contrat de crédit-bail, de celle qui en est locataire ;
-
-b. s'il y a lieu, le pourcentage des droits aux résultats détenus directement ou indirectement par le contribuable dans la
-société ou le groupement propriétaire de l'investissement ;
-
-c. la nature précise de l'investissement ;
-
-d. le prix de revient hors taxe de l'investissement et le montant des subventions publiques obtenues ou demandées et non
-encore accordées pour son financement ;
-
-e. la date à laquelle l'investissement a été livré ou, s'il s'agit d'un bien créé par l'entreprise, à laquelle il a été
-achevé ou, s'il s'agit d'un bien faisant l'objet d'un contrat de crédit-bail, à laquelle il a été mis à disposition ;
-
-f. la ou les dates de décision d'octroi des subventions publiques ;
-
-g. le nom, l'adresse et la nature de l'activité de l'établissement dans lequel l'investissement est exploité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 tervicies
-
-	**Créé par**:
-
-	  - Décret n°99-157 du 5 mars 1999 - art. 1 () JORF 6 mars 1999
-
-	**Modifié par**:
-
-	  - Décret n°99-382 du 18 mai 1999 - art. 2 () JORF 20 mai 1999
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 30 mars 2007
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 1999
-
-
-###### Article 91 nonies
-
-La déduction prévue au premier alinéa du I de l'article 163 tervicies du code général des impôts est pratiquée au titre de
-l'année au cours de laquelle l'immobilisation est créée par l'entreprise ou lui est livrée ou est mise à sa disposition dans
-le cadre d'un contrat de crédit-bail.
-
-Elle est déterminée en tenant compte du montant des subventions publiques obtenues ou demandées et non encore accordées au 31
-décembre de l'année mentionnée au premier alinéa. S'il y a lieu, la régularisation de la déduction est effectuée au titre de
-la même année sur demande du contribuable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 tervicies
-
-	**Créé par**:
-
-	  - Décret n°99-157 du 5 mars 1999 - art. 1 () JORF 6 mars 1999
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 30 mars 2007
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 1999
-
-
-###### Article 91 octies
-
-Les activités qui relèvent du secteur de la production audiovisuelle et cinématographique mentionné au premier alinéa du I de
-l'article 163 tervicies du code général des impôts sont celles qui concourent directement à la création ou à l'extension
-outre-mer soit d'établissements qui y assurent la production d'oeuvres audiovisuelles et cinématographiques, soit
-d'industries techniques de production de telles oeuvres. Le secteur de la diffusion comprend les activités qui concourent
-directement à la création ou à l'extension d'établissements implantés outre-mer et qui y assurent la diffusion d'oeuvres
-audiovisuelles et cinématographiques, quel que soit le support technique utilisé, à l'exclusion des activités d'achat-revente
-et de la location des supports techniques.
-
-En ce qui concerne les théâtres cinématographiques, la déduction fiscale est subordonnée à leur conformité à la norme
-française NF S 27-001.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 tervicies
-
-	**Créé par**:
-
-	  - Décret n°99-157 du 5 mars 1999 - art. 1 () JORF 6 mars 1999
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 30 mars 2007
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 1999
-
-
-###### Article 91 septies
-
-Les activités qui relèvent du secteur de l'industrie mentionné au premier alinéa du I de l'article 163 tervicies du code
-général des impôts sont celles qui concourent directement à l'élaboration ou à la transformation de biens corporels
-mobiliers. Est assimilée à de telles activités l'extraction des minerais figurant sur une liste fixée par arrêté du ministre
-chargé du budget.
-
-Les activités qui relèvent du secteur de la maintenance au profit d'activités industrielles mentionné au premier alinéa du
-même I sont celles qui concourent à l'entretien ou à la réparation du matériel de production exploité dans le secteur
-industriel défini au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 tervicies
-
-	**Créé par**:
-
-	  - Décret n°99-157 du 5 mars 1999 - art. 1 () JORF 6 mars 1999
-
-	**Modifié par**:
-
-	  - Décret n°99-382 du 18 mai 1999 - art. 2 () JORF 20 mai 1999
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 30 mars 2007
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 1999
-
-
-###### Article 91 sexies
-
-Les investissements productifs réalisés dans les départements d'outre-mer, en Nouvelle-Calédonie, en Polynésie française, aux
-îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et dans les collectivités territoriales de
-Mayotte et de Saint-Pierre-et-Miquelon dont le montant peut être déduit du revenu net global des contribuables en application
-du premier alinéa du I de l'article 163 tervicies du code général des impôts s'entendent des acquisitions ou créations
-d'immobilisations corporelles amortissables, affectées aux activités relevant des secteurs mentionnés au même alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 tervicies
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 août 2004
-	  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 30 mars 2007
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
-	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 1 (Ab) JORF 13 juillet 2001
-	  - Loi n°2003-660 2003-07-21 art. 61 II JORF 22 juillet 2003
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-
 ##### Section III : Calcul de l'impôt
 
 ##### I : Retenue à la source
@@ -4416,8 +3942,7 @@ des investissements réalisés au titre de la même année.
 La réduction d'impôt prévue au I de l'article 199 undecies B du code général des impôts n'est pas imputable sur l'impôt
 résultant de la reprise des réductions d'impôt antérieurement pratiquées ou sur l'impôt résultant de la majoration du revenu
 global effectuée en application des vingt-troisième, vingt-cinquième et vingt-sixième alinéas de ce même I, des dispositions
-prévues à l'article 199 undecies et du 7 de l'article 199 undecies A du même code, ainsi que des réintégrations au revenu net
-global des sommes antérieurement déduites conformément au dispositif prévu à l'article 163 tervicies du même code.
+prévues à l'article 199 undecies et du 7 de l'article 199 undecies A du même code.
 
 De même, la créance sur l'Etat prévue au I de l'article 199 undecies B ne peut être utilisée pour le paiement de l'impôt
 résultant des reprises de réductions d'impôt, des majorations du revenu global et des réintégrations au revenu net global
@@ -4427,11 +3952,15 @@ mentionnées à l'alinéa précédent.
 
 	**Cite**:
 
-	  - CGI 199 undecies B, 199 undecies, 163 tervicies, 199 undecies A
+	  - CGI 199 undecies B, 199 undecies
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Modifié par**:
 
-	  - Décret n°2004-203 du 3 mars 2004 - art. 1 () JORF 5 mars 2004
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
 
 	**Cité par**:
 
@@ -4439,7 +3968,7 @@ mentionnées à l'alinéa précédent.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 95 T
@@ -5200,6 +4729,38 @@ même délai la déclaration prévue à l'article 102 Z.
 	**Créé par**:
 
 	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 102 ZB
+
+Lorsqu'elle relève du I de l'article 209 B du code général des impôts, la personne morale établie en France et passible de
+l'impôt sur les sociétés doit joindre avec le relevé de solde d'impôt sur les sociétés prévu au 2 de l'article 1668 du même
+code qu'elle dépose auprès du comptable de la direction générale des impôts un état faisant apparaître le montant des
+prélèvements fiscaux et des retenues à la source imputables sur l'impôt sur les sociétés par application des articles 102 W,
+102 X et 102 XA. Cet état précise notamment leur montant, la nature du revenu correspondant, leur taux et leur Etat
+d'origine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 B, 1668, 102 W, 102 X, 102 XA
+
+	**Créé par**:
+
+	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
 
 	**Liens**:
 
@@ -6737,44 +6298,13 @@ Décret n° 2012-653 du 4 mai 2012, article 2 : cet article devient sans objet e
 
 ##### Section I : Taux majorés
 
-###### Article 141
-
-En application du 2 bis de l'article 231 du code général des impôts, le taux de la taxe sur les salaires prévue au 1 de
-l'article 231 dudit code et à la charge de certains débiteurs de traitements, salaires, indemnités et émoluments est porté de
-4,25 % à 8,50 % pour la fraction comprise entre 6 563 euros et 13 114 euros et à 13,60 % pour la fraction excédant 13 114
-euros des rémunérations individuelles annuelles telles que celles-ci sont comprises dans la base de ladite taxe en vertu de
-l'article 51 de l'annexe III à ce code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 231
-	  - CGIAN3 51
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
-
-
 ###### Article 142
 
 Sous réserve de la régularisation prévue à l'article 143, le montant de la majoration de la taxe sur les salaires visée à
-l'article 141 est déterminé, pour chaque mois, à raison de :
+l'article 231 du code général des impôts est déterminé, pour chaque mois, à raison de :
 
 4,25 % de la fraction des traitements et salaires individuels, payés au cours du mois, qui est comprise entre les douzièmes
-des seuils d'application des taux majorés de 8,50 % et de 13,60 % figurant à l'article 141 ;
+des seuils d'application des taux majorés de 8,50 % et de 13,60 % figurant à l'article 231 du code général des impôts ;
 
 9,35 % de la fraction de ces traitements et salaires dépassant le douzième du seuil d'application du taux majoré de 13,60 %
 précité.
@@ -6788,15 +6318,15 @@ laquelle s'applique le paiement et le mois.
 
 	**Cite**:
 
-	  - CGI 143, 141
+	  - CGI 231, 143
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2007-484 2007-03-30
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
 
 	**Cité par**:
 
@@ -6805,39 +6335,32 @@ laquelle s'applique le paiement et le mois.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2000-01-6 5L-2-00
-	  - TXT_ASSOCIE: Instruction 2001-02-12 5L-2-01
-	  - TXT_ASSOCIE: Instruction 2002-02-21 5L-2-02
-	  - TXT_ASSOCIE: Instruction 2003-02-14 5L-2-03
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 143
 
-La régularisation des droits dus en vertu des articles 141, 142 et 383 est effectuée par année.
+La régularisation des droits dus en vertu de l'article 231 du code général des impôts et des articles 142 et 383 est
+effectuée par année.
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 6 563 euros et 13 114 euros et le taux de 9,35 % à la fraction excédant 13 114 euros,
+l'année civile, qui est comprise entre 7 156 euros et 14 295 euros et le taux de 9,35 % à la fraction excédant 14 295 euros,
 et en multipliant le chiffre ainsi déterminé par le rapport qui existe entre le montant de la rémunération qui a été payée
 pendant la période d'application de la majoration et le montant total de la rémunération annuelle.
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
 a bénéficié au cours de la période d'application de la majoration les taux de :
 
-4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 6 563 euros et 13 114 euros;
+4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 156 euros et 14 295 euros ;
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 13 114 euros.
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 14 295 euros.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 141, 142, 383
-
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -6845,15 +6368,12 @@ a bénéficié au cours de la période d'application de la majoration les taux d
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2000-01-06 5L-2-00
-	  - TXT_ASSOCIE: Instruction 2001-02-12 5L-2-01
-	  - TXT_ASSOCIE: Instruction 2002-02-21 5L-2-02
-	  - TXT_ASSOCIE: Instruction 2003-02-14 5L-2-03
+	  - HISTO: Edition du 1er janvier 2007
 
 	**Modifié par**:
 
-	  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+	  - Loi n°93-1352 du 30 décembre 1993 - art. 2 () JORF 31 décembre 1993
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 2 (V) JORF 27 décembre 2006
 
 
 ###### Article 144
@@ -6861,7 +6381,7 @@ a bénéficié au cours de la période d'application de la majoration les taux d
 La déclaration des traitements et salaires que les employeurs sont tenus de souscrire en exécution des dispositions de
 l'article 87 du code général des impôts doit, pour ceux d'entre eux qui sont redevables en totalité ou partiellement de la
 taxe sur les salaires, faire ressortir distinctement, pour chaque bénéficiaire dont la rémunération individuelle annuelle a
-excédé 6 563 euros, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de
+excédé 7 156 euros, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de
 la majoration de la taxe sur les salaires.
 
 Elle doit comporter, en outre, l'indication du montant des compléments de droits acquittés en application de l'article 142 à
@@ -6869,26 +6389,18 @@ raison des rémunérations payées pendant cette même période.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 87
-	  - CGIAN2 142
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2000-01-06 5L-2-00
-	  - TXT_ASSOCIE: Instruction 2001-02-12 5L-2-01
-	  - TXT_ASSOCIE: Instruction 2002-02-21 5L-2-02
-	  - TXT_ASSOCIE: Instruction 2003-02-14 5L-2-03
+	  - HISTO: Edition du 1er janvier 2007
 
 	**Modifié par**:
 
-	  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+	  - Loi n°93-1352 du 30 décembre 1993 - art. 2 () JORF 31 décembre 1993
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 2 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 
 #### Chapitre V bis : Taxe sur les services d'informations ou interactifs à caractère pornographique
@@ -6973,106 +6485,72 @@ s'applique le versement, le montant des sommes imposables et le montant de la ta
 
 ###### Article 161
 
+Les employeurs assujettis à la cotisation prévue au 1 de l'article 235 bis du code général des impôts sont tenus de produire
+chaque année, au plus tard le 30 avril, et conformément aux dispositions de l'article *R. 313-3 du code de la construction et
+de l'habitation, une déclaration mentionnant notamment les éléments prévus par ce dernier article.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2002-1120 du 2 septembre 2002 - art. 1 () JORF 4 septembre 2002
-	  - Décret n°2002-1120 du 2 septembre 2002 - art. 2 () JORF 4 septembre 2002
 
 	**Codifié par**:
 
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2007-484 2007-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. D133-9-1 (Ab)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R313-3
-
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 162
 
-Conformément aux dispositions de l'article R. 313-5 du code de la construction et de l'habitation, la cotisation prévue à
-l'article 235 bis du code général des impôts est recouvrée selon les modalités et sous les sûretés, garanties et sanctions
-applicables aux taxes sur le chiffre d'affaires.
+La cotisation prévue au 1 de l'article 235 bis du code général des impôts est établie, contrôlée et recouvrée conformément
+aux dispositions de l'article [*R. 313-5 du code de la construction et de l'habitation.
 
-Toutefois, la commission départementale des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 du
-code général des impôts n'est pas appelée à intervenir dans la procédure de rectification de la déclaration mentionnée à
-l'article 161.
-
-Cette cotisation est due au titre de l'année à la fin de laquelle a expiré le délai d'un an prévu à l'article 235 bis du code
-général des impôts. Le versement de la cotisation doit accompagner le dépôt de la déclaration prévue à l'article 161.
-
-Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires après avis du
-directeur départemental de l'équipement.
-
-Les agents chargés des vérifications prévues à l'article L. 313-6 du code de la construction et de l'habitation doivent avoir
-au moins le grade de contrôleur pour ceux du ministère chargé des finances et être de grade équivalent pour ceux du ministère
-chargé de la construction et de l'habitation.
+Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires conformément au
+quatrième alinéa de l'article *]R. 313-5 précité.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 235 bis, 1651
-	  - CGIAN2 161
-	  - Code de la construction et de l'habitation R313-5, L313-6
-	  - Code de la construction et de l'habitation. - art. L313-6 (M)
+	  - Décret n°2007-484 2007-03-30
 
 	**Modifié par**:
 
-	  - Décret n°2002-1120 du 2 septembre 2002 - art. 1 () JORF 4 septembre 2002
-	  - Décret n°2002-1120 du 2 septembre 2002 - art. 2 () JORF 4 septembre 2002
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
 
 	**Liens**:
 
-	  - HISTO: Edition 2003-01-01
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 163
 
-Conformément aux dispositions de l'article R. 313-6 du code de la construction et de l'habitation, en cas de cession, de
-cessation, de redressement ou de liquidation judiciaire de l'entreprise, les déclarations afférentes à l'année en cours et à
-l'année précédente doivent être souscrites dans les soixante jours de la cession, de la cessation ou du jugement.
-
-Toutefois, le nouvel exploitant peut prendre à sa charge l'obligation incombant à l'ancien exploitant. L'engagement est
-annexé à la déclaration prévue à l'article 161.
-
-Les dispositions ci-dessus sont également applicables en cas de décès de l'employeur. Dans ce cas, la déclaration est
-souscrite par les ayants droit du défunt dans les six mois du décès. Elle est accompagnée, s'il y a lieu, de l'engagement du
-nouvel exploitant.
+En cas de cession, cessation, redressement ou liquidation judiciaire de l'entreprise ou de décès de l'employeur, la
+déclaration prévue à l'article [*R. 313-3 du code de la construction et de l'habitation afférente à l'année en cours et à
+l'année précédente doit être souscrite conformément aux dispositions de l'article *]R. 313-6 du même code.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGIAN2 161
-	  - Code de la construction et de l'habitation R313-6
+	  - Décret n°2007-484 2007-03-30
 
 	**Modifié par**:
 
-	  - Décret n°2002-1120 du 2 septembre 2002 - art. 1 () JORF 4 septembre 2002
-	  - Décret n°2002-1120 du 2 septembre 2002 - art. 2 () JORF 4 septembre 2002
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2007
 
 
 #### Chapitre VI ter : Participation des employeurs au développement de la formation professionnelle continue
@@ -7081,38 +6559,29 @@ nouvel exploitant.
 
 ###### Article 163 nonies
 
-Cet article reproduit les dispositions de l'article R. 950-1 du code du travail :
-
-"Sont considérés comme occupant au minimum dix salariés, au sens de l'article L. 951-1, les employeurs occupant des salariés
-dont le nombre mensuel moyen est au moins égal à dix pendant l'année ou la fraction d'année où l'activité est exercée.
-
-Toutefois, ceux de ces employeurs occupant des salariés d'une manière intermittente ou travaillant à domicile, ne sont soumis
-à l'obligation de participer que si le montant total des salaires versés pendant l'année est au moins égal à 120 fois le
-salaire mensuel minimum de croissance. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année considérée,
-au prorata du nombre de mois pendant lesquels l'activité est exercée.
-
-Conformément aux dispositions de l'article R. 212-1, chaque salarié à temps partiel au sens de l'article L. 212-4-2 entre en
-compte dans l'effectif du personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat
-et la durée légale de travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie dans
-l'établissement ou la partie d'établissement où il est employé".
+Pour l'application des dispositions des articles L. 951-1 et L. 952-1 du code du travail, le décompte des salariés est
+effectué conformément aux dispositions de l'article R. 950-1 du même code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
 	**Modifié par**:
 
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
+	  - Décret n°2006-383 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Cite**:
 
+	  - Code du travail - art. L951-1 (M)
+	  - Code du travail - art. L952-1 (M)
 	  - Code du travail - art. R950-1 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### II : Employeurs occupant dix salariés et plus
@@ -7155,102 +6624,28 @@ qualité de membre d'un comité d'entreprise".
 
 ###### Article 163 duodecies
 
-Cet article reproduit les dispositions de l'article R. 950-19 du code du travail :
-
-"La déclaration prévue à l'article L. 951-12 doit indiquer, outre la désignation et l'adresse du déclarant :
-
-1° Le nombre mensuel moyen de salariés au cours de l'année ou de la période de référence, calculé selon les modalités prévues
-à l'article R. 950-1 ;
-
-2° Le montant des rémunérations versées aux salariés pendant l'année en cours, telles qu'elles sont définies au premier
-alinéa de l'article L. 951-1 ;
-
-3° Le montant brut de la contribution incombant à l'employeur et, en cas de franchissement du seuil de dix salariés, le cas
-échéant, le montant net de cette contribution, conformément aux dispositions de l'article 235 ter EA du code général des
-impôts ;
-
-4° Le montant des dépenses exposées en application des articles L. 951-1 à L. 951-7 ;
-
-5° La répartition de ces dépenses selon les catégories suivantes :
-
-a) Le montant total des dépenses de fonctionnement des actions de formation mises en oeuvre par l'entreprise, incluant les
-frais de personnel enseignant, les frais de personnel non enseignant et les autres frais de fonctionnement ;
-
-b) Le montant total des dépenses de prestations effectuées au bénéfice du personnel de l'entreprise en application de
-conventions ventilé en :
-
-- total des achats d'actions de formation au sens des dispositions de l'article R. 950-4 ;
-
-- total des dépenses de bilans de compétences effectuées en application des dispositions de l'article R. 900-3 ;
-
-- total des dépenses de validation des acquis de l'expérience effectuées en application des dispositions des articles R.
-950-13-3 et R. 950-13-4 ;
-
-c) Le montant total des rémunérations versées par l'entreprise aux salariés pendant leur présence ou leur participation
-effective aux actions mentionnées à l'article L. 900-2 ;
-
-d) Le montant total des allocations de formation définies à l'article L. 932-1 et versées par l'employeur au cours de
-l'année ;
-
-e) Les versements effectués à des organismes collecteurs paritaires agréés par l'Etat, en application de l'article L. 933-5
-et des troisième et quatrième alinéas de l'article L. 951-1 ;
-
-f) Les versements effectués à des organismes collecteurs paritaires agréés par l'Etat, en application du septième alinéa de
-l'article L. 951-1 ;
-
-g) Le montant total des autres dépenses autorisées par les textes ;
-
-h) Le montant total des concours publics perçus au titre de la formation professionnelle ;
-
-6° Selon le cas, l'insuffisance de contribution au titre de la période considérée ou l'excédent reportable au titre des trois
-années suivantes, ou l'insuffisance des contributions dues aux organismes paritaires agréés par l'Etat ;
-
-7° Eventuellement, le montant restant à reporter au titre des dépenses effectuées au cours des trois années précédentes ;
-
-8° Le montant de la contribution due au titre des périodes et contrats de professionnalisation ainsi que du droit individuel
-à la formation d'une part, et au titre du congé individuel de formation d'autre part, ainsi que le montant de l'utilisation
-de chacune de ces contributions ;
-
-9° Les données relatives à l'assiette des rémunérations servies aux salariés sous contrat à durée déterminée, le montant de
-l'obligation de financement de leur formation prévue à l'article L. 931-20 et le montant des sommes utilisées à ce titre ;
-
-10° Le cas échéant, la majoration prévue à l'article L. 951-9 ;
-
-11° Le montant total du versement à effectuer au Trésor ;
-
-12° Le nombre de salariés de l'entreprise répartis par catégorie d'emploi et par sexe au 31 décembre de l'année considérée ;
-
-13° Par sexe et par catégorie d'emploi, le nombre de salariés ayant bénéficié d'une formation, le nombre d'heures de
-formation suivies, le nombre de salariés ayant bénéficié d'une formation au titre du droit individuel à la formation, le
-nombre d'heures de formation consommées à ce titre au cours de l'année ou de la période de référence et le nombre d'heures
-ouvertes au titre de ce même droit au 31 décembre ;
-
-14° Au cours de l'année ou de la période de référence, le nombre de bilans de compétences ou d'actions de validation des
-acquis de l'expérience pris en charge en totalité par l'employeur ; le nombre de salariés ayant bénéficié d'une période de
-professionnalisation ; le nombre de salariés ayant bénéficié d'une allocation de formation ; le nombre d'heures correspondant
-aux actions financées dans le cadre des périodes de professionnalisation et le nombre d'heures rémunérées au titre d'une
-allocation de formation.
-
-Cette déclaration doit être rédigée, en double exemplaire, sur un imprimé fourni par l'administration".
+La déclaration prévue à l'article L. 951-12 du code du travail est établie conformément aux dispositions prévues par
+l'article R. 950-19 du même code.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 235 ter EA
-	  - Code du travail - art. R950-19 (M)
+	  - Décret n°2006-383 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
 
 	**Codifié par**:
 
-	  - Décret n°2005-330 2005-04-06
+	  - Décret n°2007-484 2007-03-30
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
+	  - Code du travail - art. L951-12 (M)
+	  - Code du travail - art. R950-19 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 163 quaterdecies
@@ -7287,43 +6682,28 @@ Du domicile ou du siège social pour les autres employeurs."
 
 ###### Article 163 terdecies
 
-Cet article reproduit les dispositions de l'article R. 950-20 du code du travail :
-
-"Doivent être fournis, sur demande des services du ministre chargé de la formation professionnelle, les renseignements et
-documents suivants :
-
-La liste des conventions passées par l'employeur avec des organismes de formation ainsi que les effectifs concernés et le
-montant des versements effectués en application de ces conventions et retenus au titre de la participation ;
-
-La liste des conventions mentionnées à l'article R. 900-3 passées par l'employeur avec des organismes réalisant des bilans de
-compétences au bénéfice du personnel de l'entreprise ainsi que les effectifs concernés et le montant des dépenses imputées
-sur l'obligation de participer ;
-
-La liste des conventions mentionnées à l'article R. 950-13-3 passées par l'employeur avec des organismes intervenant à la
-validation des acquis de l'expérience au bénéfice du personnel de l'entreprise ainsi que les effectifs concernés et le
-montant des dépenses imputées sur l'obligation de participer ;
-
-La liste et le montant des subventions reçues de l'Etat ou de la région, dans l'année, par l'employeur au titre de la
-formation professionnelle ;
-
-L'indication du ou, le cas échéant, des organismes agréés ayant reçu des versements de l'employeur en application des
-troisième, quatrième et septième alinéas de l'article L. 951-1 ;
-
-Eventuellement les références de l'engagement de développement prévu à l'article L. 951-5".
+Les renseignements et documents à fournir, sur demande des services du ministre chargé de la formation professionnelle, sont
+définis à l'article R. 950-20 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
 	**Modifié par**:
 
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
+	  - Décret n°2006-383 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - DISJOINT: Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Cite**:
+
+	  - Code du travail - art. R950-20
 
 
 ##### III : Employeurs occupant moins de dix salariés
@@ -8866,30 +8246,32 @@ financier.
 ###### Article 171 AN
 
 En cas de non-respect du quota de 50 % prévu au troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet
-1985 lors d'un inventaire mentionné au I de l'article 171 AS, la société de capital-risque ne perd pas le bénéfice de son
-régime fiscal si elle régularise sa situation au plus tard lors de l'inventaire suivant sous réserve, d'une part, qu'elle en
-ait informé le service des impôts auprès duquel elle dépose sa déclaration de résultats dans le mois qui suit l'inventaire
-ayant fait apparaître que le quota n'a pas été respecté et, d'autre part, qu'il s'agisse du premier manquement.
+1985 lors d'un inventaire, la société de capital-risque ne perd pas le bénéfice de son régime fiscal si elle régularise sa
+situation au plus tard lors de l'inventaire suivant sous réserve, d'une part, qu'elle en ait informé le service des impôts
+auprès duquel elle dépose sa déclaration de résultats dans le mois qui suit l'inventaire ayant fait apparaître que le quota
+n'a pas été respecté et, d'autre part, qu'il s'agisse du premier manquement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 171 AS
-	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
+	  - Loi n°85-695 1985-07-11
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 9 () JORF 31 décembre 2006
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°2002-1030 du 29 juillet 2002 - art. 4, v. init.
-	  - HISTO: Edition du 31 août 2002
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 AQ (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 171 AO
@@ -9085,6 +8467,72 @@ du 3° septies de cet article, l'état inclut les réserves distribuables consti
 	**Modifié par**:
 
 	  - Décret n°2006-1726 du 23 décembre 2006 - art. 9 () JORF 30 décembre 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 171 AS bis
+
+I. - L'état prévu au II de l'article 242 quinquies du code général des impôts, établi sur papier libre, mentionne pour chaque
+investissement retenu pour le calcul du quota de 50 % prévu au troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695
+du 11 juillet 1985 :
+
+1° La dénomination de la société ou de l'entité, l'adresse de son siège social et de son siège de direction effective ;
+
+2° L'activité principale de la société ;
+
+3° La capitalisation boursière de la société si ses titres sont admis à la négociation sur un marché d'instruments financiers
+d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen dont le
+fonctionnement est assuré par une entreprise de marché ou un prestataire de services d'investissement ;
+
+4° Le montant et la nature des investissements retenus pour le calcul du quota de 50 % précité et pour la limite de 20 %
+prévue au quatrième alinéa du 1° de l'article 1er-1 précité ;
+
+II. - Les sociétés de capital-risque qui ont investi dans des sociétés mentionnées à la première phrase du f du 1° de
+l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 ou dans des entités mentionnées au d du même 1° joignent en outre à
+l'état mentionné au I :
+
+1° Un état, établi sur papier libre, qui fait apparaître, pour chaque investissement dans des sociétés mentionnées à la
+première phrase du f du 1° de l'article 1er-1 de la loi du 11 juillet 1985 susmentionnée, les éléments permettant d'apprécier
+le montant des titres de la société retenu pour l'appréciation du quota d'investissement de 50 % prévu au troisième alinéa du
+1° du même article 1er-1 et pour le calcul de la limite de 20 % prévue au quatrième alinéa du même 1° de l'article 1er-1. Cet
+état indique notamment la dénomination sociale des sociétés dont les titres sont éligibles au quota de 50 %, l'adresse de
+leur siège social ou de leur siège de direction effective si elle est différente, la nature de leur activité et leur
+capitalisation boursière si leurs titres sont admis à la négociation sur un marché réglementé ou organisé d'un Etat membre de
+la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
+
+2° Un état, établi sur une formule délivrée par l'administration, qui fait apparaître, pour chaque investissement dans des
+entités mentionnées au d du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, les éléments permettant d'apprécier
+le montant des droits représentatifs du placement financier de la société de capital-risque dans l'entité retenu dans le
+quota d'investissement de 50 % prévu au troisième alinéa du 1° du même article 1er-1 et pour le calcul de la limite de 20 %
+prévue au quatrième alinéa du 1° de ce même article 1er-1.
+
+**Nota:**
+
+Ces dispositions des articles 10 et 11 sont applicables aux exercices clos postérieurement à la date de publication du décret
+n° 2006-1726 du 23 décembre 2006.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 242 quinquies, 10, 11
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
+	  - Décret n°2006-1726 2006-12-23
+
+	**Créé par**:
+
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 10 () JORF 30 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
 
 	**Liens**:
 
@@ -14563,14 +14011,14 @@ incidence sur l'application de la convention.
 
 ###### Article 275 bis F
 
-Le professionnel habilité utilise les poinçons de garantie fabriqués par la direction des Monnaies et médailles en
-application de l'article 186 de l'annexe III au code général des impôts, sauf autorisation spéciale de marquage par d'autres
-méthodes délivrée par le directeur régional des douanes et droits indirects aux conditions qu'il détermine. Ils lui sont
-remis par la direction régionale des douanes et droits indirects de rattachement ou la direction des Monnaies et médailles.
+Le professionnel habilité utilise les poinçons de garantie fabriqués par la Monnaie de Paris en application de l'article 186
+de l'annexe III au code général des impôts, sauf autorisation spéciale de marquage par d'autres méthodes délivrée par le
+directeur régional des douanes et droits indirects aux conditions qu'il détermine. Ils lui sont remis par la direction
+régionale des douanes et droits indirects de rattachement ou la Monnaie de Paris.
 
 Il s'assure du bon état des poinçons dont il a la charge et contrôle qu'ils ne sortent pas du local utilisé pour le
 poinçonnage des ouvrages. Il remet à la direction régionale des douanes et droits indirects dont il dépend les poinçons usés
-ou les renvoie à la direction des Monnaies et médailles, après en avoir informé l'administration des douanes.
+ou les renvoie à la Monnaie de Paris, après en avoir informé l'administration des douanes.
 
 Toute disparition de ces poinçons doit être signalée immédiatement à la direction régionale des douanes et droits indirects
 dont le professionnel dépend qui procède à une enquête. Pendant la durée de l'enquête, l'application de la convention est
@@ -14587,7 +14035,11 @@ professionnel est établie à l'issue de cette enquête, la convention est rési
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -14599,7 +14051,7 @@ professionnel est établie à l'issue de cette enquête, la convention est rési
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 bis G
@@ -14876,11 +14328,11 @@ organisme de contrôle qui ne respecte pas ses obligations. La procédure de ret
 
 ###### Article 275 ter G
 
-L'organisme de contrôle agréé utilise les poinçons de titre fournis par la direction des monnaies et médailles, conformément
-à l'article 186 de l'annexe III au code général des impôts, sauf autorisation spéciale délivrée par l'administration aux
-conditions qu'elle détermine. Les poinçons portent un signe caractéristique propre à l'ensemble des organismes qui délivrent
-la garantie. Ce signe est enregistré auprès de la direction régionale des douanes et droits indirects dont ils dépendent au
-moment de l'agrément de l'organisme.
+L'organisme de contrôle agréé utilise les poinçons de titre fournis par la Monnaie de Paris, conformément à l'article 186 de
+l'annexe III au code général des impôts, sauf autorisation spéciale délivrée par l'administration aux conditions qu'elle
+détermine. Les poinçons portent un signe caractéristique propre à l'ensemble des organismes qui délivrent la garantie. Ce
+signe est enregistré auprès de la direction régionale des douanes et droits indirects dont ils dépendent au moment de
+l'agrément de l'organisme.
 
 **Liens relatifs à cet article**
 
@@ -14890,7 +14342,11 @@ moment de l'agrément de l'organisme.
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -14901,7 +14357,7 @@ moment de l'agrément de l'organisme.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 ter H
@@ -15013,18 +14469,21 @@ dépendent toute disparition des poinçons de titre dont ils ont la charge. L'ad
 durée de l'enquête, l'agrément est suspendu. Si la responsabilité de l'organisme est établie à l'issue de l'enquête
 administrative, l'administration engage une procédure de retrait d'agrément. Les poinçons de titre usagés ainsi que ceux
 détenus par un organisme dont l'agrément est retiré sont remis à la direction régionale des douanes et droits indirects dont
-dépend l'organisme pour être détruits ou renvoyés à la direction des monnaies et médailles, après information de
-l'administration des douanes.
+dépend l'organisme pour être détruits ou renvoyés à la Monnaie de Paris, après information de l'administration des douanes.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Modifié par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 
 #### Chapitre II : Tabacs
@@ -15295,7 +14754,7 @@ Toute personne qui veut importer, introduire ou commercialiser en gros des tabac
 numéro d'identification en qualité de fournisseur.
 
 Le demandeur doit remplir les conditions requises pour l'exercice d'une profession commerciale et fournir une caution
-solvable qui garantit à l'administration des douanes et droits indirects le paiement de la retenue sur remise prévue à
+solvable qui garantit à l'administration des douanes et droits indirects le paiement du précompte sur remise prévue à
 l'article 281.
 
 **Liens relatifs à cet article**
@@ -15306,11 +14765,11 @@ l'article 281.
 
 	**Modifié par**:
 
-	  - Décret n°96-891 du 11 octobre 1996 - art. 1 () JORF 12 octobre 1996
+	  - Décret n°2006-742 du 27 juin 2006 - art. 2 () JORF 29 juin 2006
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -15318,7 +14777,7 @@ l'article 281.
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 277
@@ -15776,8 +15235,8 @@ entrées et sorties, ainsi que des manipulations, reste possible sur la base de 
 agents des douanes et droits indirects ou de ceux de la concurrence, de la consommation et de la répression des fraudes.
 
 Les registres comportent les colonnes ouvertes avec les intitulés exigés par la réglementation communautaire et portent les
-références des contrats d'achat soumis au visa de l'Office national interprofessionnel des fruits, des légumes des vins et de
-l'horticulture pour les transactions soumises à cette procédure.
+références des contrats d'achat soumis au visa de l'Office national interprofessionnel des fruits, des légumes, des vins et
+de l'horticulture pour les transactions soumises à cette procédure.
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords interprofessionnels visés notamment aux articles
 L. 632-1 à L. 632-7 du code rural, les registres comportent pour les vins d'appellation d'origine, les références aux
@@ -15848,7 +15307,8 @@ des produits vitivinicoles n'est possible que si l'entrepositaire agréé respec
 comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles 614 et 614 A
 dudit code.
 
-En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée.
+En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
+le directeur régional des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
@@ -15878,11 +15338,18 @@ En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualit
 
 	**Modifié par**:
 
-	  - Décret n°2005-1780 du 30 décembre 2005 - art. 3 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1780 2005-12-30 art. 3 I, VI, art. 4 JORF 12 mai 2006
+	  - Décret n°2005-1780 du 30 décembre 2005 - art. 3 (V) JORF 12 mai 2006
+	  - Décret n°2005-1780 du 30 décembre 2005 - art. 4 (V) JORF 12 mai 2006
+	  - Décret n°2006-532 du 11 mai 2006 - art. 2 () JORF 12 mai 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 286 J
@@ -17841,55 +17308,6 @@ bis du code général des impôts sont prises par le directeur des services fisc
 
 
 ##### II : Taxe sur les véhicules des sociétés
-
-###### Article 310 C
-
-La taxe sur les véhicules des sociétés est due sans préjudice de la perception de la taxe prévue à l'article 1599 C du code
-général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 C
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1985
-	  - HISTO: Edition du 1er janvier 2007
-	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
-	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
-
-	**Modifié par**:
-
-	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-
-###### Article 310 D
-
-Sont exonérés de la taxe sur les véhicules des sociétés prévue à l'article 1010 du code général des impôts, les véhicules
-dont la date de la première mise en circulation remonte à plus de dix ans au premier jour de la période d'imposition.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1010
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 I, V Finances pour 2006 JORF 31 décembre 2005
-	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
-	  - HISTO: Edition du 1er janvier 2007
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
 
 ###### Article 310 E
 
@@ -20225,237 +19643,6 @@ prévues aux articles 311 A à 311 D en ce qui concerne la redevance communale.
 	  - Code général des impôts, CGI. - art. 1587 (V)
 
 
-#### Chapitre II : Taxe sur les véhicules à moteur
-
-##### Section unique : Taxe différentielle sur les véhicules à moteur.
-
-###### Article 317 decies
-
-Sont exonérés de la taxe :
-
-1° Les véhicules ayant plus de vingt-cinq ans d'âge ;
-
-2° Les véhicules mentionnés à l'article R. 317-24 du code de la route, qui sont destinés normalement au transport en commun
-de personnes ;
-
-3° Les véhicules affectés au transport des personnes, bénéficiaires d'une autorisation spéciale de stationnement à des
-emplacements réservés sur la voie publique et dont les conditions de transport sont conformes à un tarif réglementaire, ainsi
-que les taxis collectifs visés au c du 2° de l'article 3 du décret n° 49-1473 du 14 novembre 1949 modifié ;
-
-4° Les véhicules spéciaux dont la liste est fixée par un arrêté du ministre chargé du budget (1) ;
-
-5° Les véhicules spéciaux utilisés par les infirmes et mutilés ;
-
-6° (Transféré sous l'article 1599 F du code général des impôts) ;
-
-7° Les véhicules appartenant aux voyageurs, représentants de commerce et placiers, titulaires de la carte professionnelle
-d'identité instituée par la loi modifiée du 8 octobre 1919, et délivrée, validée ou renouvelée depuis moins d'un an.
-
-L'exonération prévue au 7° est limitée à un seul véhicule par propriétaire.
-
-(1) Annexe IV, art. 155 M.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 F
-	  - CGIAN4 155 M
-	  - Décret n°49-1473 1949-11-14 art. 3 2° c
-	  - Code de la route. - art. R317-24 (V)
-	  - Loi n°1919-10-08
-
-	**Modifié par**:
-
-	  - Décret n°2001-251 2001-03-22 art. 1, art. 2, art. 5 JORF 25 mars 2001
-	  - Décret n°2001-751 du 27 août 2001 - art. 5 () JORF 28 août 2001
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
-	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 2002
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-
-###### Article 317 duodecies
-
-I. (sans objet)
-
-II. Le paiement de la taxe incombe à la personne physique ou morale propriétaire du véhicule.
-
-En cas de vente d'un véhicule au cours de la période d'imposition, les cessionnaires successifs sont solidairement
-responsables du paiement de la taxe.
-
-III. (sans objet)
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 1er janvier 2007
-	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
-	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
-
-	**Modifié par**:
-
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 42 (V) JORF 31 décembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-
-###### Article 317 nonies
-
-La taxe différentielle sur les véhicules à moteur perçue en application de l'article 1599 C du code général des impôts est
-applicable aux véhicules automobiles mentionnés au titre II du livre Ier du code de la route (deuxième partie) et
-immatriculés sur le territoire métropolitain et dans les départements d'outre-mer.
-
-Toutefois, sont dispensés de la taxe, dans les conditions déterminées par un arrêté du ministre chargé du budget, les
-véhicules dont les propriétaires bénéficient de privilèges diplomatiques ou qui ont fait l'objet d'une admission à titre
-temporaire en franchise d'impôt (1).
-
-(1) Annexe IV, art. 155 K et 155 L. Pour les autres véhicules dispensés de la taxe différentielle, voir art. 1599 D du code
-général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 C, 1599 D
-	  - CGIAN4 155 K, 155 L
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1985
-	  - HISTO: Edition du 1er janvier 2007
-	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
-	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
-
-	**Modifié par**:
-
-	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-
-###### Article 317 undecies
-
-La taxe est annuelle ; la période d'imposition s'étend du 1er décembre de chaque année au 30 novembre de l'année suivante.
-
-Pour l'application des tarifs fixés conformément à l'article 1599 G du code général des impôts, l'âge du véhicule se
-détermine à partir de la date de la première mise en circulation. Il s'apprécie au premier jour de la période d'imposition.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 G
-
-	**Créé par**:
-
-	  - Décret n°56-875 1956-09-03 art. 3 JORF 4 septembre 1956
-
-	**Modifié par**:
-
-	  - Décret n°57-1018 1957-09-17 art. 1 JORF 20 septembre 1957
-	  - Loi n°80-30 du 18 janvier 1980 - art. 16 (P) JORF 19 janvier 1980
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 20 juillet 1984
-	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
-	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
-
-
-### Titre III : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
-
-#### Chapitre premier : Enregistrement, publicité foncière et timbre
-
-##### Corse.
-
-###### Article 318
-
-Les dispositions des articles 317 nonies, 317 decies et 317 duodecies sont applicables à la taxe différentielle sur les
-véhicules à moteur perçue au profit de la collectivité territoriale de Corse (1).
-
-(1) Voir également Annexe IV, art. 155 bis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 317 nonies, 317 decies, 317 duodecies
-	  - CGIAN4 155 bis
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 4 juillet 1992
-	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
-	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
-
-	**Modifié par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 2 (Ab) JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 89 (Ab) JORF 14 mai 1991
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-
-###### Article 318 A
-
-La taxe est annuelle ; la période d'imposition s'étend du 1er décembre de chaque année au 30 novembre de l'année suivante.
-
-Pour l'application des tarifs fixés conformément aux dispositions des articles 1599 decies à 1599 duodecies du code général
-des impôts, l'âge du véhicule se détermine à partir de la date de la première mise en circulation. Il s'apprécie au premier
-jour de la période d'imposition.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 decies
-	  - CGI 1599 duodecies
-	  - CGI 1599 undecies
-
-	**Anciens textes**:
-
-	  - CGIAN2 317 octodecies
-
-	**Modifié par**:
-
-	  - Décret n°88-1001 1988-10-20 art. 3 JORF 22 octobre 1988
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
-	  - HISTO: Edition du 1er janvier 2007
-	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
-	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
-
-
 ### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers
 
 #### Chapitre premier : Impôts directs et taxes assimilées
@@ -20766,47 +19953,6 @@ c. Contribution des assurés : somme forfaitaire maximum de 0,38 euro par person
 	  - Règlement CE 1103/97 1997-06-17 art. 5 JO L162 19 juin 1997 en vigueur le 1er janvier 2002
 	  - Règlement CE 2866/98 1998-12-31 art. 1 JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
 	  - Règlement CE 974/98 1998-05-03 art. 14 JO L139 11 mai 1998 en vigueur le 1er janvier 2002
-
-
-##### Section IV : Fonds national de garantie des calamités agricoles.
-
-###### Article 326
-
-Pour l'application de l'article 1635 bis A du code général des impôts, est considéré comme couvrant à titre principal des
-dommages aux biens mentionnés à cet article tout contrat pour lequel la fraction de prime correspondant à la garantie des
-dommages dont il s'agit est égale ou supérieure à celle qui correspond à la garantie d'autres risques.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1635 bis A
-
-	**Anciens textes**:
-
-	  - CGIAN1 310 quater
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 344 undecies
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-	**Modifié par**:
-
-	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
-
-	**Transféré par**:
-
-	  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
-	  - Décret n°2006-926 du 19 juillet 2006 - art. 3 (V) JORF 28 juillet 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section V : Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage
@@ -21516,24 +20662,31 @@ La valeur locative des propriétés non bâties est déterminée à la date du 1
 Dans le département de la Guyane, les travaux d'évaluation ne sont pas effectués pour les propriétés domaniales qui ne sont
 ni concédées, ni exploitées.
 
-Il en est de même pour les terrains cédés aux communes en application des dispositions du 3° de l'article L. 91-2 du code du
-domaine de l'Etat qui ne sont ni concédés ni exploités, tant qu'ils sont exonérés en application des dispositions des
-articles 1394 et 1599 ter B du code général des impôts.
+Il en est de même pour les terrains cédés aux communes en application des dispositions du 3° de l'article L. 5142-1 du code
+général de la propriété des personnes publiques qui ne sont ni concédés ni exploités, tant qu'ils sont exonérés en
+application des dispositions des articles 1394 et 1599 ter B du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1394, 1599 ter B
-	  - Code du domaine de l'Etat - art. L91-2 (M)
-
-	**Modifié par**:
-
-	  - Décret n°92-46 du 16 janvier 1992 - art. 15 () JORF 17 janvier 1992
+	  - Code général de la propriété des personnes publiqu - art. L5142-1 (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 1 (V) JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 13 (V) JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 2 (V) JORF 22 avril 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
@@ -22642,9 +21795,6 @@ instance statuant commercialement, en application de l'article 4-1 du décret n�
 registre du commerce et des sociétés. Ils sont informés par les organismes destinataires lorsque les déclarations contiennent
 des demandes au sujet desquelles une décision doit être prise.
 
-Les centres transmettent aux administrations, personnes ou organismes concernés, les déclarations ainsi que les
-renseignements mentionnés au deuxième alinéa.
-
 Les centres de formalités remettent à tout déclarant un livret, approuvé par arrêté du ministre de la justice et des
 ministres chargés des affaires sociales, du travail, de l'économie, des finances, du budget, de l'industrie, du commerce et
 de l'artisanat, du transport et de l'agriculture et de la pêche, précisant les obligations du centre ainsi que les éléments
@@ -22656,19 +21806,14 @@ Il leur est interdit de communiquer à des tiers les renseignements contenus dan
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°84-406 du 30 mai 1984 - art. 4-1 (Ab)
-	  - Loi n°94-126 du 11 février 1994 - art. 1 (V)
-	  - Loi n°94-126 du 11 février 1994 - art. 2 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2002-375 du 19 mars 2002 - art. 2 () JORF 21 mars 2002
+	  - Décret n°2006-679 du 9 juin 2006 - art. 1 (V) JORF 10 juin 2006
+	  - Décret n°2006-679 du 9 juin 2006 - art. 2 () JORF 10 juin 2006
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -22677,7 +21822,7 @@ Il leur est interdit de communiquer à des tiers les renseignements contenus dan
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 371 AJ
@@ -22764,28 +21909,28 @@ II. - Chaque centre est compétent à l'égard des entreprises dont le siège so
 Le dépôt des déclarations prévues à l'article 371 AS est obligatoirement effectué dans les centres de formalités des
 entreprises au terme d'un délai d'un an à compter de la création du centre.
 
-Toutefois, les dispositions prévues au premier alinéa ne font pas obstacle à la faculté ouverte à tout déclarant de présenter
-directement au greffe du tribunal compétent une demande d'inscription au registre du commerce et des sociétés, sous réserve
-qu'il justifie auprès du greffe avoir préalablement saisi le centre conformément aux dispositions de l'article 371 AM. Dans
-ce cas, le greffe avise le centre.
+Toutefois, lorsque la déclaration comporte une demande d'immatriculation au registre du commerce et des sociétés,
+d'inscription modificative ou de radiation, le déclarant a la faculté de déposer le dossier de déclaration directement auprès
+du greffe du tribunal compétent pour y procéder. Dans ce cas, le greffe, qui conserve la demande d'inscription, transmet sans
+délai le dossier au centre de formalités des entreprises compétent.
+
+Lorsque la déclaration est effectuée par voie électronique, il est fait application des dispositions particulières prévues à
+l'article 371-0 AQ bis.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 371 AS, 371 AM
-
-	**Créé par**:
-
-	  - Décret n°96-650 1996-07-19 art. 3 JORF 23 juillet 1996
+	  - Décret n°2006-679 du 9 juin 2006 - art. 1 (V) JORF 10 juin 2006
+	  - Décret n°2006-679 du 9 juin 2006 - art. 2 () JORF 10 juin 2006
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°2007-484 2007-03-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 371 AL
@@ -22830,10 +21975,8 @@ les simplifications administratives.
 ###### Article 371 AM
 
 Le centre est réputé saisi lorsque les déclarations qui lui sont remises directement ou par voie postale ou électronique,
-dans les conditions prévues à l'article 4 de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise
-individuelle et selon les modalités définies à l'arrêté mentionné à l'article 371 AI, sont établies sur les formulaires
-homologués prévus à l'article 371 AL et sont signées du déclarant ou de son mandataire, et lorsqu'elles comportent au moins
-les énonciations indispensables pour identifier.
+sont établies sur les formulaires homologués prévus à l'article 371 AL et sont signées du déclarant ou de son mandataire, et
+lorsqu'elles comportent au moins les énonciations indispensables pour identifier.
 
 I. - Pour les créations d'entreprises :
 
@@ -22869,18 +22012,14 @@ apprécier le bien-fondé.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 371 AI, 371 AL
-	  - Loi n°94-126 du 11 février 1994 - art. 4 (M)
+	  - Décret n°2006-679 du 9 juin 2006 - art. 1 (V) JORF 10 juin 2006
+	  - Décret n°2006-679 du 9 juin 2006 - art. 2 () JORF 10 juin 2006
 
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
-
-	**Modifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -22888,7 +22027,7 @@ apprécier le bien-fondé.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 371 AN
@@ -22932,23 +22071,58 @@ concernant.
 La commission de coordination mentionnée à l'article 371 AQ bis veille au respect de la confidentialité et de la sécurité des
 échanges ainsi organisés, ainsi qu'à la compatibilité des systèmes de communication par voie électronique.
 
+VII. - Dans les cas prévus à l'article L. 123-9-1 du code de commerce et à l'article 19-I de la loi n° 96-603 du 5 juillet
+1996 relative au développement et à la promotion du commerce et de l'artisanat, le récépissé prévu au II lorsque le dossier
+est réputé complet par le centre compétent prend le nom de récépissé de dépôt de dossier de création d'entreprise. Délivré
+gratuitement et sans délai, ce récépissé est valable jusqu'à la notification de son immatriculation au déclarant et, au plus
+tard, jusqu'à l'expiration d'une durée d'un mois à compter de sa délivrance. Il indique :
+
+a. le nom et l'adresse du centre ;
+
+b. la date de saisine du centre ;
+
+c. la date de délivrance du récépissé et la date d'expiration de sa validité ;
+
+d. la mention : "en attente d'immatriculation" ;
+
+e. les mentions prévues aux 1°, 2° et 3° du I de l'article 371 AM ;
+
+f. les organismes auxquels le dossier est transmis le jour même.
+
+Le centre de formalités des entreprises indique sur le récépissé de dépôt de dossier de création d'entreprise le numéro
+unique d'identification que l'INSEE lui communique ainsi qu'au greffier du tribunal compétent, lorsque la déclaration
+comporte une demande d'immatriculation au registre du commerce et des sociétés.
+
+Lorsque la déclaration comporte une demande d'immatriculation au registre du commerce et des sociétés, une copie du récépissé
+de dépôt de dossier de création d'entreprise est transmise au greffier compétent avec le dossier du déclarant.
+
+Lorsqu'il est délivré en application de l'article L. 311-2-1 du code rural, le récépissé de dépôt de dossier de création
+d'entreprise, délivré gratuitement et sans délai, indique :
+
+a. le nom et l'adresse du centre ;
+
+b. la date de saisine du centre ;
+
+c. la date de délivrance du récépissé ;
+
+d. les mentions prévues aux 1°, 2° et 3° du I de l'article 371 AM ;
+
+e. les organismes auxquels le dossier est transmis le jour même.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 371 AI, 371 AQ bis
 
 	**Modifié par**:
 
-	  - Décret n°2002-375 du 19 mars 2002 - art. 6 () JORF 21 mars 2002
+	  - Décret n°2006-679 du 9 juin 2006 - art. 1 (V) JORF 10 juin 2006
+	  - Décret n°2006-679 du 9 juin 2006 - art. 2 () JORF 10 juin 2006
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2007-484 2007-03-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 371 AO
@@ -23246,6 +22420,94 @@ administrative et du budget.
 	**Liens**:
 
 	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 371-0 AQ bis
+
+Les dispositions des articles 371 AI à 371 AQ sont applicables à la déclaration d'entreprise par voie électronique sous
+réserve des dispositions qui suivent :
+
+I. - Lorsqu'il est établi et transmis par voie électronique aux centres de formalités des entreprises, le dossier unique
+mentionné à l'article 2 de la loi du 11 février 1994 susvisée comprend les documents suivants :
+
+1° Le formulaire électronique contenant l'ensemble des données déclarées ;
+
+2° Les pièces numériques ou numérisées exigibles, y compris, le cas échéant, le mandat donné par le déclarant à une personne
+physique ou morale en vue d'effectuer la déclaration pour son compte ainsi que les actes constitutifs devant être déposés,
+sauf s'il s'agit de pièces devant être fournies en original et établies sur support papier ;
+
+3° Lorsque la déclaration de création ou de modification de situation donne lieu à la perception de frais légaux entraînés
+par l'inscription dans un registre légal, le justificatif de règlement de ces frais, selon des moyens communiqués au
+déclarant.
+
+II. - Pour l'application des dispositions du présent article, lorsqu'une signature est requise, le recours à une signature
+électronique sécurisée est exigé dans les conditions prévues à l'article 1316-4 du code civil et au décret n° 2001-272 du 30
+mars 2001 pris pour l'application de l'article 1316-4 du code civil et relatif à la signature électronique. Toutefois, pour
+la transmission par voie électronique des dossiers de création d'entreprise, est autorisé, y compris pour les demandes
+d'immatriculation au registre du commerce et des sociétés, le recours à une signature électronique présentant les
+caractéristiques prévues par la première phrase du second alinéa de l'article 1316-4 du code civil.
+
+III. - Lorsqu'il doit déposer des actes authentiques ou actes sous seing privé en original ou s'il souhaite fournir sur
+support papier tout ou partie des pièces et justificatifs exigés, le déclarant joint à ces pièces une édition de l'accusé de
+réception électronique prévu au IV.
+
+IV. - Dès réception d'un dossier conforme aux dispositions des I et II, le centre de formalités des entreprises compétent en
+accuse réception par voie électronique au déclarant ou à son mandataire.
+
+Le centre de formalités des entreprises est responsable de la transmission aux organismes et administrations destinataires
+des éléments du dossier de déclaration d'entreprise qu'il a reçus par voie électronique.
+
+V. - Lorsque le dossier mentionné au I est réputé complet, la transmission au déclarant ou à son mandataire des récépissés
+prévus aux II et VII de l'article 371 AN s'effectue par voie électronique, sauf si le déclarant ou son mandataire en demande
+la transmission par voie postale.
+
+En cas de transmission électronique, le récépissé prévu au VII de l'article 371 AN comporte la signature électronique
+sécurisée de celui qui l'émet dans les conditions prévues par le décret du 30 mars 2001 précité.
+
+VI. - Un arrêté ministériel fixe les caractéristiques électroniques des documents énumérés au I et les modalités de
+délivrance de l'accusé de réception électronique prévu au V.
+
+VII. - Lorsqu'ils se sont dotés des équipements techniques nécessaires, les centres de formalités des entreprises, ou les
+services que les organismes gestionnaires de centres de formalités des entreprises mettent en commun à cette fin, fournissent
+un service informatique accessible par l'internet, sécurisé et gratuit, permettant au déclarant, selon son choix, de :
+
+1° Transmettre un dossier unique tel que défini au I dès lors qu'il respecte les dispositions du II et du VI ;
+
+2° Préparer un tel dossier de manière interactive et le transmettre.
+
+Ce service peut également être proposé par les greffes.
+
+VIII. - Lorsque la déclaration appelle inscription au registre du commerce et des sociétés, en application de l'article L.
+123-1 du code de commerce, le service informatique visé au VII permet, conjointement :
+
+1° Au déclarant de procéder à l'acquittement des frais légaux induits par cette inscription au registre du commerce et des
+sociétés auprès du greffe ;
+
+2° Au greffe compétent de recevoir, par voie électronique, la partie du dossier unique qui lui est nécessaire pour procéder à
+cette inscription. Il en accuse réception, par voie électronique, au déclarant ;
+
+3° Au centre de formalités des entreprises de recevoir, par voie électronique, le dossier unique.
+
+IX. - Si le déclarant utilise un service de conservation provisoire des données proposé par le service de déclaration dans
+des conditions conformes à la loi du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, il est
+procédé, à l'issue de la période de conservation provisoire d'une durée maximale d'un mois, à l'effacement de toutes les
+données et de tous les fichiers concernant le déclarant sur les supports informatiques où ils figurent. Le déclarant en est
+avisé préalablement par voie électronique ou, à défaut, par lettre simple.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-679 du 9 juin 2006 - art. 1 (V) JORF 10 juin 2006
+	  - Décret n°2006-679 du 9 juin 2006 - art. 7 () JORF 10 juin 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ### Chapitre II : Sociétés immobilières de copropriété
@@ -23762,25 +23024,24 @@ l'exception de toute majoration ou pénalité.
 ###### Article 383
 
 L'ensemble des droits exigibles au titre de la taxe sur les salaires en application des dispositions des 1 et 2 bis de
-l'article 231 du code général des impôts et des articles 141 à 143 de la présente annexe est versé globalement au Trésor dans
+l'article 231 du code général des impôts et des articles 142 à 143 de la présente annexe est versé globalement au Trésor dans
 les conditions et délais et sous les sanctions prévus aux articles 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731 et aux I et
-IV de l'article 1754 du code général des impôts et 50, 51, 369 et au 1 de l'article 374 de l'annexe III à ce code.
+IV de l'article 1754 du code général des impôts et 51, 369 et au 1 de l'article 374 de l'annexe III à ce code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1754, 231
-	  - CGIAN2 141 à 143
-	  - CGIAN3 50, 51, 369, 374
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
+	  - CGIAN2 142 à 143
+	  - CGIAN3 51, 369, 374
 
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2007-484 2007-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
 
 	**Cité par**:
 
@@ -23788,7 +23049,7 @@ IV de l'article 1754 du code général des impôts et 50, 51, 369 et au 1 de l'a
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
 
 
 #### VI : Participation des employeurs au développement de la formation professionnelle continue
