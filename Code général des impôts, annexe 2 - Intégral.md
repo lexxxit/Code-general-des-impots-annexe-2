@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2007-03-30
+Version Consolidée au 2007-04-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17558,6 +17558,35 @@ dans des conditions définies par le maître d'ouvrage.
 	  - HISTO: Edition du 1er janvier 2006
 
 
+###### Article 310-00 H
+
+L'engagement de gestion prévu à l'article 1395 D du code général des impôts porte sur la conservation du caractère humide des
+parcelles ainsi que sur leur maintien en nature de prés et prairies naturels, d'herbages, de pâturages, de landes, de marais,
+de pâtis, de bruyères et de terres vaines et vagues. 
+
+Dans les zones visées au II de cet article, il porte en outre sur le respect des mesures définies en vue de la conservation
+des zones humides dans les chartes et documents de gestion ou d'objectifs approuvés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-511 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 310-00 H ter (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H bis (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1395 D (V)
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
+
 ###### Article 310-0 H bis
 
 I. - En vue de l'établissement du certificat mentionné au I bis de l'article 1384 A du code général des impôts par la
@@ -17596,6 +17625,32 @@ accompagnée de la déclaration mentionnée à l'article 1406 du code général 
 	  - HISTO: Edition du 1er janvier 2006
 
 
+###### Article 310-00 H bis
+
+L'engagement de gestion prévu à l'article 1395 D du code général des impôts comporte les éléments suivants : 
+
+1° L'identité et l'adresse du redevable de la taxe foncière sur les propriétés non bâties mentionné à l'article 1400 du même
+code et, le cas échéant, celles du preneur des parcelles faisant l'objet de l'engagement de gestion ; 
+
+2° Les références cadastrales, les natures de culture et de propriété définies dans l'instruction ministérielle du 31
+décembre 1908 et la superficie des parcelles sur laquelle l'exonération de taxe foncière sur les propriétés non bâties est
+demandée ; 
+
+3° Les mesures de conservation à mettre en oeuvre en vue de respecter les engagements mentionnés à l'article 310-00 H.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-511 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H (V)
+	  - Code général des impôts, CGI. - art. 1395 D (V)
+	  - Code général des impôts, CGI. - art. 1400 (V)
+
+
 ###### Article 310-0 H ter
 
 Si postérieurement à la délivrance du certificat mentionné à l'article 310-0 H bis, il est constaté, lors d'un contrôle
@@ -17617,6 +17672,32 @@ construction.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 310-00 H ter
+
+1° Préalablement à son envoi au service des impôts par le propriétaire, l'engagement de gestion prévu à l'article 1395 D du
+code général des impôts doit être visé par le préfet du lieu de situation des parcelles, qui vérifie sa conformité aux
+conditions et modalités définies aux articles 310-00 H et 310-00 H bis.
+
+2° Le préfet s'assure du respect des engagements souscrits dans le cadre de l'engagement de gestion. A cet effet, les agents
+des services de l'Etat et de ses établissements publics peuvent procéder à des vérifications sur place. Ils informent le
+propriétaire et, le cas échéant, le preneur des parcelles faisant l'objet de l'engagement de gestion et leur proposent
+d'assister au contrôle.
+
+Si, lors du contrôle, l'une des obligations prévues par l'engagement de gestion n'est pas respectée, ce constat fait l'objet
+d'un signalement au service des impôts du lieu de situation de la parcelle avant le ler janvier de l'année suivant celle de
+la réalisation du contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-511 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ##### Section I : Taxe d'habitation
