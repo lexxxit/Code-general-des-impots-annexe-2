@@ -1,20 +1,17 @@
 # Article 91 quater H
 
 Le titulaire d'un plan d'épargne en actions détermine à partir de la valeur d'acquisition ou de souscription des titres
-concernés le montant des produits, avoirs fiscaux et crédits d'impôt inclus, qui ne bénéficient pas de l'exonération prévue
-au 5° bis de l'article 157 du code général des impôts, et fait apparaître distinctement le revenu correspondant sur la
-déclaration prévue au 1 de l'article 170 du même code.
+concernés le montant des produits, qui ne bénéficient pas de l'exonération prévue au 5° bis de l'article 157 du code général
+des impôts, et fait apparaître distinctement le revenu correspondant sur la déclaration prévue au 1 de l'article 170 du même
+code.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
+
 	**Cite**:
 
-	  - CGI 157, 170
-
-	**Créé par**:
-
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 3 () JORF 8 décembre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 157 (V)
+	  - Code général des impôts, CGI. - art. 170 (V)

@@ -1,17 +1,16 @@
 # Article 81 bis
 
-I. L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour
-leur compte en application des articles L442-1 à L443-17 du code du travail donnent lieu à la délivrance d'un certificat
-distinct, conformément aux dispositions de l'article 77.
+I. Le crédit d'impôt attaché aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour leur compte en
+application des articles L442-1 à L442-18 du code du travail donne lieu à la délivrance d'un certificat distinct,
+conformément aux dispositions de l'article 77.
 
-II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA  du code général des impôts, le
-certificat est établi pour la totalité de l'avoir fiscal ou du crédit d'impôt au  nom de l'organisme chargé de la
-conservation des titres et de la restitution de l'avoir fiscal ou du crédit d'impôt mentionné sur ce certificat est demandée
-par cet organisme.
+II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA du code général des impôts, le
+certificat est établi pour la totalité du crédit d'impôt au nom de l'organisme chargé de la conservation des titres et de la
+restitution du crédit d'impôt mentionné sur ce certificat est demandée par cet organisme.
 
 Lorsque l'exonération ne porte que sur la moitié de ces revenus le certificat établi au nom de l'organisme chargé de la
-conservation des titres ne mentionne que la moitié de l'avoir fiscal ou du crédit d'impôt qui s'attache à ces revenus. La
-restitution demandée par l'organisme porte alors sur un montant réduit de moitié.
+conservation des titres ne mentionne que la moitié du crédit d'impôt qui s'attache à ces revenus. La restitution demandée par
+l'organisme porte alors sur un montant réduit de moitié.
 
 III. La demande de restitution, accompagnée du certificat, est adressée au service des impôts du siège de l'organisme qui l'a
 établie.
@@ -21,19 +20,10 @@ façon que les revenus auxquels elles se rattachent.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 77, 163 bis AA
-	  - Code du travail L442-1 à L442-17
-
 	**Modifié par**:
 
-	  - Loi n°94-640 du 25 juillet 1994 - art. 33 () JORF 27 juillet 1994
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - L'article sera codifié ultérieurement

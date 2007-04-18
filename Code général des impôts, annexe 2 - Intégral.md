@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2007-04-05
+Version Consolidée au 2007-04-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1696,45 +1696,43 @@ source pour toute la durée de l'emprunt ou, à défaut, fournir des garanties j
 ###### Article 54
 
 Les personnes morales doivent se conformer aux obligations suivantes en ce qui concerne les titres de participations pour
-lesquels elles entendent se prévaloir du régime des sociétés mères prévu aux articles 145, 146 et 216 du code général des
-impôts :
+lesquels elles entendent se prévaloir du régime des sociétés mères prévu aux articles 145 et 216 du code général des
+impôts : 
 
-1° Elles doivent prendre l'engagement de conserver pendant deux ans au moins la pleine propriété des titres.
+1° Elles doivent prendre l'engagement de conserver pendant deux ans au moins la pleine propriété des titres. 
 
-Toutefois cet engagement n'est pas exigé en ce qui concerne :
+Toutefois cet engagement n'est pas exigé en ce qui concerne : 
 
-a. Les titres que la personne morale justifie avoir conservés pendant cette durée ;
+a. Les titres que la personne morale justifie avoir conservés pendant cette durée ; 
 
 b. Les actions ou parts d'intérêts souscrites ou attribuées à l'émission, à la condition qu'elles soient constamment restées
-inscrites au nom de la personne morale participante ou déposées dans les conditions définies au 2° ;
+inscrites au nom de la personne morale participante ou déposées dans les conditions définies au 2° ; 
 
 2° Elles doivent déposer les actions au porteur à la Banque de France, à la caisse des dépôts et consignations, à la société
-anonyme Natexis ou toute société qu'elle contrôle au sens de l'article L233-3 du code de commerce ou dans tout autre
+anonyme Natexis ou toute société qu'elle contrôle au sens de l'article L. 233-3 du code de commerce ou dans tout autre
 établissement qui pourrait être agréé à cet effet par l'administration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 145, 146, 216
-	  - Code de commerce. - art. L233-3 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2017-727 du 3 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-3
+	  - Code général des impôts, CGI. - art. 145
+	  - Code général des impôts, CGI. - art. 216
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 C (M)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 55 (Ab)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 56 (Ab)
 
 
 ###### Article 55
@@ -2836,25 +2834,28 @@ des personnes dont l'identité, la date, le lieu de naissance et le domicile leu
 ###### Article 77
 
 1. Lorsque le domicile réel du bénéficiaire des revenus, ou son siège social s'il s'agit d'une personne morale, est situé en
-France métropolitaine ou dans un département d'outre-mer, l'établissement payeur :
+France métropolitaine ou dans un département d'outre-mer, l'établissement payeur : 
 
 a. N'a pas à opérer la retenue à la source mentionnée au 2 de l'article 119 bis du code général des impôts sur les produits
-d'actions, de parts sociales ou de parts bénéficiaires et sur les revenus assimilés répartis par des sociétés françaises ;
+d'actions, de parts sociales ou de parts bénéficiaires et sur les revenus assimilés répartis par des sociétés françaises ; 
 
-b. Est tenu de délivrer au présentateur un certificat libellé au nom du bénéficiaire.
+b. Est tenu de délivrer au présentateur un certificat libellé au nom du bénéficiaire. 
 
-2. L'avoir fiscal mentionné sur le certificat prévu au b du 1 comprend :
+2. Le montant du crédit d'impôt mentionné sur le certificat prévu au b du 1 comprend : 
 
-a. L'avoir attaché, en vertu de l'article 158 bis du code général des impôts, aux dividendes répartis par les sociétés
-françaises ;
+a. (dispositions abrogées) ; 
 
 b. Le crédit d'impôt correspondant aux retenues prélevées en vertu du 1 des articles 119 bis et 1678 bis du code général des
-impôts ou réputées prélevées sur les revenus de valeurs mobilières françaises et assimilées ;
+impôts ou réputées prélevées sur les revenus de valeurs mobilières françaises et assimilées ; 
 
 c. Le crédit d'impôt correspondant à l'impôt retenu à la source à l'étranger ou à la décote en tenant lieu, tel qu'il est
 prévu par les conventions internationales.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Cité par**:
 
@@ -2864,9 +2865,10 @@ prévu par les conventions internationales.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 T (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Instruction 2003-04-25 4J-2-03
+	  - Code général des impôts, CGI. - art. 119 bis (V)
+	  - Code général des impôts, CGI. - art. 1678 bis (V)
 
 
 ###### Article 78
@@ -2892,15 +2894,14 @@ les produits payés.
 
 ###### Article 79
 
-I. Les certificats prévus aux articles 77 et 78 sont établis sur des formules dont les modèles sont fixés par arrêté (1).
+1. Les certificats prévus aux articles 77 et 78 sont établis sur des formules dont les modèles sont fixés par arrêté. 
 
 2. Les établissements payeurs autres que les sociétés ou collectivités débitrices sont déchargés de toute responsabilité
-quant au montant de l'avoir fiscal ou du crédit d'impôt inscrit sur les certificats délivrés par eux lorsque ce montant
-correspond à celui qui leur a été notifié par lesdites sociétés ou collectivités ou qui a été mentionné sur les rapports et
-propositions de résolutions visés à l'article 243 bis du code général des impôts.
+quant au montant du crédit d'impôt inscrit sur les certificats délivrés par eux lorsque ce montant correspond à celui qui
+leur a été notifié par lesdites sociétés ou collectivités. 
 
 3. Les établissements payeurs sont tenus d'établir le relevé prévu à l'article 57 pour tous les revenus payables sur
-présentation de coupons ou d'instruments représentatifs de coupons.
+présentation de coupons ou d'instruments représentatifs de coupons. 
 
 4. Les sociétés visées au 4° de l'article 75 sont réputées verser à chacun de leurs associés la quote-part des revenus
 correspondant à ses droits, le jour où elles ont elles-mêmes encaissé lesdits revenus ou ont été créditées de leur montant.
@@ -2908,99 +2909,80 @@ Elles prélèvent à la même date la retenue à la source visée au 2 de l'arti
 à raison de leurs quotes-parts respectives, par les associés dont le domicile réel ou le siège social est situé hors de la
 France métropolitaine et des départements d'outre-mer.
 
-(1) Annexe IV, art. 16 bis.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 77, 78, 243 bis, 57, 75, 119 bis
 
 	**Modifié par**:
 
-	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°2007-567 2007-04-17 art. 1 C JORF 19 avril 2007
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 75 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 81 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 15 juillet 1985
-	  - TXT_ASSOCIE: Instruction 2003-04-25 4J-2-03
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 77 (V)
+	  - Code général des impôts, CGI. - art. 119 bis (V)
 
 
 ###### Article 80
 
-L'utilisation, par les bénéficiaires de revenus de capitaux mobiliers encaissés à compter du 1er janvier 1966, de l'avoir
-fiscal ou du crédit d'impôt attaché à ces revenus, est subordonnée à la production par les intéressés des certificats
-correspondants établis par les établissements payeurs en application des dispositions des articles 77 et 78.
+L'utilisation, par les bénéficiaires de revenus de capitaux mobiliers, du crédit d'impôt attaché à ces revenus, est
+subordonnée à la production par les intéressés des certificats correspondants établis par les établissements payeurs en
+application des dispositions des articles 77 et 78.
 
 Les certificats sont obligatoirement joints à la déclaration de revenus ou de résultats dans laquelle sont compris les
 revenus qui ont donné lieu à leur délivrance.
 
-Toutefois, dans le cas prévu au 2 de l'article 146 du code général des impôts, les certificats sont joints à la déclaration
-souscrite par la société bénéficiaire pour l'assiette du précompte institué par l'article 223 sexies du même code.
-
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Cite**:
 
-	  - CGI 146, 223 sexies
-	  - CGIAN2 77, 78
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 77 (V)
 
 
 ###### Article 81
 
-1. Les certificats délivrés aux sociétés d'investissement et aux sociétés assimilées servent à justifier l'avoir fiscal ou le
-crédit d'impôt attaché aux dividendes qu'elles distribuent à leurs actionnaires.
+1. Les certificats délivrés aux sociétés d'investissement et aux sociétés assimilées servent à justifier le crédit d'impôt
+attaché aux dividendes qu'elles distribuent à leurs actionnaires. 
 
 2. Les certificats délivrés aux sociétés visées à l'article 8 du code général des impôts servent à justifier le montant de
 ceux qu'elles délivrent elles-mêmes à leurs membres en application du 4 de l'article 79 ainsi que l'assiette de la retenue à
-la source prélevée par elles, le cas échéant.
+la source prélevée par elles, le cas échéant. 
 
 3. Les sociétés visées au présent article sont tenues de conserver les certificats qui leur ont été délivrés jusqu'à
 l'expiration du délai de reprise fixé par le premier alinéa de l'article L. 169 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 8, 79
-	  - Livre des procédures fiscales - art. L169 (M)
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
 	**Modifié par**:
 
-	  - Loi n°93-1352 1993-12-29 art. 82 VII Finances pour 1994 JORF 30 décembre 1993
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 79 (V)
+	  - Livre des procédures fiscales - art. L169 (V)
 
 
 ###### Article 81 bis
 
-I. L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour
-leur compte en application des articles L442-1 à L443-17 du code du travail donnent lieu à la délivrance d'un certificat
-distinct, conformément aux dispositions de l'article 77.
+I. Le crédit d'impôt attaché aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour leur compte en
+application des articles L442-1 à L442-18 du code du travail donne lieu à la délivrance d'un certificat distinct,
+conformément aux dispositions de l'article 77.
 
-II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA  du code général des impôts, le
-certificat est établi pour la totalité de l'avoir fiscal ou du crédit d'impôt au  nom de l'organisme chargé de la
-conservation des titres et de la restitution de l'avoir fiscal ou du crédit d'impôt mentionné sur ce certificat est demandée
-par cet organisme.
+II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA du code général des impôts, le
+certificat est établi pour la totalité du crédit d'impôt au nom de l'organisme chargé de la conservation des titres et de la
+restitution du crédit d'impôt mentionné sur ce certificat est demandée par cet organisme.
 
 Lorsque l'exonération ne porte que sur la moitié de ces revenus le certificat établi au nom de l'organisme chargé de la
-conservation des titres ne mentionne que la moitié de l'avoir fiscal ou du crédit d'impôt qui s'attache à ces revenus. La
-restitution demandée par l'organisme porte alors sur un montant réduit de moitié.
+conservation des titres ne mentionne que la moitié du crédit d'impôt qui s'attache à ces revenus. La restitution demandée par
+l'organisme porte alors sur un montant réduit de moitié.
 
 III. La demande de restitution, accompagnée du certificat, est adressée au service des impôts du siège de l'organisme qui l'a
 établie.
@@ -3010,34 +2992,25 @@ façon que les revenus auxquels elles se rattachent.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 77, 163 bis AA
-	  - Code du travail L442-1 à L442-17
-
 	**Modifié par**:
 
-	  - Loi n°94-640 du 25 juillet 1994 - art. 33 () JORF 27 juillet 1994
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 82
 
-I. L'avoir fiscal et le crédit d'impôt attachés aux revenus du portefeuille collectif ou des titres détenus individuellement
-qui sont acquis en application des articles L443-1 à L443-9 du code du travail et dans les conditions fixées à ces articles
-donnent lieu à la délivrance d'un certificat distinct conformément aux dispositions de l'article 77.
+I. Le crédit d'impôt attaché aux revenus du portefeuille collectif ou des titres détenus individuellement qui sont acquis en
+application des articles L443-1 à L443-9 du code du travail et dans les conditions fixées à ces articles donne lieu à la
+délivrance d'un certificat distinct conformément aux dispositions de l'article 77.
 
 II. Lorsque ces revenus sont totalement exonérés, conformément aux dispositions des deux premières phrases du II de l'article
-163 bis B du code général des impôts, le certificat est établi pour la totalité de l'avoir fiscal ou du crédit d'impôt au nom
-de l'organisme chargé de la conservation des titres et la restitution de l'avoir fiscal ou du crédit d'impôt mentionné sur ce
-certificat est demandée par ce organisme.
+163 bis B du code général des impôts, le certificat est établi pour la totalité du crédit d'impôt au nom de l'organisme
+chargé de la conservation des titres et la restitution du crédit d'impôt mentionné sur ce certificat est demandée par ce
+organisme.
 
 III. La demande de restitution, accompagnée du certificat, est adressée au service des impôts du siège de l'organisme qui l'a
 établie.
@@ -3047,23 +3020,13 @@ façon que les revenus auxquels elles se rattachent.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 77, 163 bis B
-	  - Code du travail L443-1 à L443-9
-
 	**Modifié par**:
 
-	  - Loi n°94-640 du 25 juillet 1994 - art. 33 () JORF 27 juillet 1994
-	  - Décret n°95-377 1995-04-11 art. 16 JORF 12 avril 1995
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - L'article sera codifié ultérieurement
 
 
 ##### II : Distribution de primes à la construction par les sociétés immobilières d'investissement et les sociétés immobilières de gestion
@@ -3361,156 +3324,100 @@ code monétaire et financier.
 	  - Code monétaire et financier - art. R221-111 (V)
 
 
-###### Article 91 quater F
-
-L'avoir fiscal et le crédit d'impôt attachés aux revenus portés au crédit du compte en espèces donnent lieu à la délivrance
-d'un certificat distinct d'avoir fiscal, conformément aux dispositions de l'article 77. Ce certificat est établi au nom du
-souscripteur et porte la désignation du plan.
-
-La restitution de l'avoir fiscal ou du crédit d'impôt mentionné sur le certificat est demandée par l'établissement chargé de
-la tenue du plan à la direction des services fiscaux de sa résidence, dans les conditions et délais prévus au II de l'article
-94. La restitution est opérée au profit de cet établissement, à charge pour lui d'inscrire les sommes correspondantes au
-crédit du plan.
-
-En cas de restitution d'avoirs fiscaux ou crédits d'impôt après la clôture du plan, la valeur liquidative du plan mentionnée
-aux 2 et 2 bis du II de l'article 150-0 A du code général des impôts comprend ces sommes.
-
-Le transfert d'un plan entre organismes gestionnaires ne fait pas perdre le droit à restitution de l'avoir fiscal et du
-crédit d'impôt. Lorsque la restitution par l'Etat intervient postérieurement au transfert, son montant est viré par le
-précédent établissement gestionnaire au crédit du compte en espèces associé ouvert chez le nouvel établissement gestionnaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150-0 A
-	  - CGIAN2 77, 94
-
-	**Modifié par**:
-
-	  - Décret n°2005-1649 du 26 décembre 2005 - art. 2 () JORF 28 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
 ###### Article 91 quater G
 
 L'organisme auprès duquel un plan d'épargne en actions est ouvert adresse au service d'assiette dont relève sa résidence,
 avant le 16 février de chaque année, les renseignements suivants relatifs à l'année précédente en les mentionnant sur la
-déclaration prévue au 1 de l'article 242 ter du code général des impôts :
+déclaration prévue au 1 de l'article 242 ter du code général des impôts : 
 
-a) Les nom, prénom et adresse du titulaire ;
+a) Les nom, prénom et adresse du titulaire ; 
 
-b) Les références du plan ;
+b) Les références du plan ; 
 
-c) La date d'ouverture du plan.
+c) La date d'ouverture du plan. 
 
 L'organisme fait également figurer distinctement la date du premier retrait de sommes ou de valeurs figurant sur le plan ou
-celle du premier rachat du contrat de capitalisation.
+celle du premier rachat du contrat de capitalisation. 
 
 En cas de clôture du plan avant ou, dans les conditions prévues au 2 bis du II de l'article 150-0 A du code général des
-impôts, après l'expiration de la cinquième année, il indique :
+impôts, après l'expiration de la cinquième année, il indique : 
 
 a. La valeur liquidative du plan ou la valeur de rachat du contrat de capitalisation à la date de clôture, diminuée des
 sommes ou valeurs correspondant à des retraits ou à des rachats réalisés, concomitamment à la clôture, en vue de la création
-ou de la reprise d'une entreprise ;
+ou de la reprise d'une entreprise ; 
 
 b. Le montant cumulé des versements effectués depuis l'ouverture du plan, diminué du montant des versements correspondant à
-des retraits ou rachats n'entraînant pas la clôture de ce plan.
+des retraits ou rachats n'entraînant pas la clôture de ce plan. 
 
-L'organisme indique distinctement le montant des produits, avoirs fiscaux et crédits d'impôt procurés par les placements
-effectués en actions ou parts de sociétés qui ne sont pas admises aux négociations sur un marché réglementé, à l'exception
-des intérêts versés, dans les conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de
-la coopération, aux titres de capital de sociétés régies par cette loi. Les avoirs fiscaux et crédits d'impôt retenus sont
-ceux attachés aux produits encaissés dans le cadre du plan au cours de l'année civile précédente.
+L'organisme indique distinctement le montant des produits procurés par les placements effectués en actions ou parts de
+sociétés qui ne sont pas admises aux négociations sur un marché réglementé, à l'exception des intérêts versés, dans les
+conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, aux titres de
+capital de sociétés régies par cette loi.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 242 ter, 150-0 A
-	  - Loi n°47-1775 du 10 septembre 1947 - art. 14 (M)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 14 (V)
+	  - Code général des impôts, CGI. - art. 150-0 A (VT)
+	  - Code général des impôts, CGI. - art. 242 ter (V)
 
 	**Modifié par**:
 
-	  - Décret n°2005-1649 du 26 décembre 2005 - art. 3 () JORF 28 décembre 2005
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. D221-113-7 (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 
 ###### Article 91 quater H
 
 Le titulaire d'un plan d'épargne en actions détermine à partir de la valeur d'acquisition ou de souscription des titres
-concernés le montant des produits, avoirs fiscaux et crédits d'impôt inclus, qui ne bénéficient pas de l'exonération prévue
-au 5° bis de l'article 157 du code général des impôts, et fait apparaître distinctement le revenu correspondant sur la
-déclaration prévue au 1 de l'article 170 du même code.
+concernés le montant des produits, qui ne bénéficient pas de l'exonération prévue au 5° bis de l'article 157 du code général
+des impôts, et fait apparaître distinctement le revenu correspondant sur la déclaration prévue au 1 de l'article 170 du même
+code.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
+
 	**Cite**:
 
-	  - CGI 157, 170
-
-	**Créé par**:
-
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 3 () JORF 8 décembre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 157 (V)
+	  - Code général des impôts, CGI. - art. 170 (V)
 
 
 ###### Article 91 quater I
 
 Le transfert d'un plan d'épargne en actions d'un organisme gestionnaire à un autre ne constitue pas un retrait si le
 titulaire remet au premier organisme gestionnaire un certificat d'identification du plan sur lequel le transfert doit avoir
-lieu ; ce certificat est établi par l'organisme auprès duquel le plan est transféré.
+lieu ; ce certificat est établi par l'organisme auprès duquel le plan est transféré. 
 
-Dans ce cas, le premier organisme gestionnaire communique au nouveau gestionnaire :
+Dans ce cas, le premier organisme gestionnaire communique au nouveau gestionnaire : 
 
-a. La date d'ouverture du plan ;
+a. La date d'ouverture du plan ; 
 
 b. Le montant cumulé des versements effectués sur le plan, diminué du montant des versements correspondant aux retraits ou
-rachats effectués précédemment au transfert du plan et n'ayant pas entraîné sa clôture ;
+rachats effectués précédemment au transfert du plan et n'ayant pas entraîné sa clôture ; 
 
-c. Les renseignements mentionnés à l'article R. 96 D-1 du livre des procédures fiscales ;
+c. Les renseignements mentionnés à l'article R. 96 D-1 du livre des procédures fiscales ; 
 
 d. Les renseignements nécessaires au nouveau gestionnaire pour la détermination de l'assiette et du montant de la
 contribution sociale généralisée, de la contribution pour le remboursement de la dette sociale, du prélèvement social et de
 la contribution additionnelle à ce prélèvement qui seront, le cas échéant, dus ultérieurement.
 
-Il lui communique également le montant des avoirs fiscaux et crédits d'impôt dont la restitution par l'Etat doit intervenir
-après le transfert.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-1649 du 26 décembre 2005 - art. 4 () JORF 28 décembre 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Cite**:
 
-	  - Livre des procédures fiscales R96 D-1
+	  - Livre des procédures fiscales - art. R96 D-1 (V)
 
 
 ###### Article 91 quater J
@@ -3521,31 +3428,28 @@ est tenu d'indiquer sur la déclaration mentionnée à l'article 74-0 F la valeu
 pour un contrat de capitalisation, à la date de sa clôture diminuée des sommes ou valeurs correspondant à des retraits ou
 rachats réalisés, concomitamment à la clôture, en vue de la création ou de la reprise d'une entreprise dans les conditions
 fixées par la deuxième phrase du 2 du II de l'article 150-0 A précité. La valeur liquidative est, le cas échéant, diminuée du
-montant des produits, avoirs fiscaux et crédits d'impôt inclus, ne bénéficiant pas de l'exonération prévue au 5° bis de
-l'article 157 du code général des impôts. Dans ce dernier cas, le contribuable joint à la déclaration susmentionnée les
-éléments nécessaires à la détermination de cette correction.
+montant des produits ne bénéficiant pas de l'exonération prévue au 5° bis de l'article 157 du code général des impôts. Dans
+ce dernier cas, le contribuable joint à la déclaration susmentionnée les éléments nécessaires à la détermination de cette
+correction. 
 
 Le gain net défini au 6 de l'article 150-0 D du code général des impôts réalisé depuis l'ouverture du plan d'épargne en
-actions est, le cas échéant, diminué du montant des produits, avoirs fiscaux et crédits d'impôt inclus, qui n'ont pas
-bénéficié de l'exonération prévue au 5° bis de l'article 157 du même code.
+actions est, le cas échéant, diminué du montant des produits qui n'ont pas bénéficié de l'exonération prévue au 5° bis de
+l'article 157 du même code. 
 
 Lorsque la clôture du plan intervient avant l'expiration de la deuxième année, cette déclaration doit faire apparaître sous
 une rubrique spéciale le montant du gain net visé au deuxième alinéa assorti des éléments nécessaires à sa détermination.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 150-0 A, 157, 150-0 D
-	  - CGIAN2 74-0 F
-
 	**Modifié par**:
 
-	  - Décret n°2005-1649 du 26 décembre 2005 - art. 5 () JORF 28 décembre 2005
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 150-0 A (VT)
+	  - Code général des impôts, CGI. - art. 150-0 D (V)
+	  - Code général des impôts, CGI. - art. 157 (V)
 
 
 ###### Article 91 quater K
@@ -5251,10 +5155,9 @@ baisse des intérêts détenus par la société agréée dans ces exploitations 
 
 ###### Article 122
 
-1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les sociétés et du précompte dont elle est
-redevable, au titre de chaque exercice, à raison du résultat consolidé, les prélèvements fiscaux effectués, au titre du même
-exercice, hors de la France métropolitaine et des départements d'outre-mer, sur les bénéfices de ses exploitations directes
-et indirectes.
+1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, au titre de
+chaque exercice, à raison du résultat consolidé, les prélèvements fiscaux effectués, au titre du même exercice, hors de la
+France métropolitaine et des départements d'outre-mer, sur les bénéfices de ses exploitations directes et indirectes.
 
 Les prélèvements fiscaux s'entendent des impôts de quotité, exprimés en unité monétaire, assis sur un résultat fiscal, non
 déductibles de ce résultat et qui sont versés, à titre définitif et sans contrepartie, au profit d'Etats souverains, d'Etats
@@ -5302,20 +5205,23 @@ régularisées en conséquence.
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 122 bis
 
-Lorsque le montant de l'impôt sur les sociétés et du précompte dus par la société agréée au titre d'un exercice à raison du
-résultat consolidé sont insuffisants pour permettre la déduction des impôts étrangers ou de la fraction de ces impôts dont
-l'imputation est autorisée, la partie non déduite de ces impôts est ajoutée successivement au montant des impôts étrangers
-imputables au titre des exercices suivants jusqu'au cinquième exercice inclusivement.
+Lorsque le montant de l'impôt sur les sociétés dû par la société agréée au titre d'un exercice à raison du résultat consolidé
+est insuffisant pour permettre la déduction des impôts étrangers ou de la fraction de ces impôts dont l'imputation est
+autorisée, la partie non déduite de ces impôts est ajoutée successivement au montant des impôts étrangers imputables au titre
+des exercices suivants jusqu'au cinquième exercice inclusivement.
 
 Ce report est effectué après imputation des impôts étrangers afférents à chacun de ces exercices, en retenant en priorité les
 impôts afférents aux exercices les plus anciens.
@@ -5326,11 +5232,15 @@ Les impôts qui ne peuvent être imputés ne sont en aucun cas remboursés par l
 
 	**Modifié par**:
 
-	  - Décret n°97-1227 du 26 décembre 1997 - art. 2 () JORF 28 décembre 1997
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ##### 7 : Imputation et restitution des impôts français
@@ -5338,8 +5248,8 @@ Les impôts qui ne peuvent être imputés ne sont en aucun cas remboursés par l
 ###### Article 123
 
 1. - Après avoir procédé, conformément aux dispositions des articles 122 et 122 bis, à l'imputation des impôts acquittés, la
-société agréée peut imputer sur le montant de l'impôt sur les sociétés et du précompte dont elle est redevable, au titre de
-chaque exercice et dans l'ordre suivant :
+société agréée peut imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, au titre de chaque exercice
+et dans l'ordre suivant :
 
 a) La fraction des crédits d'impôt admis en paiement de l'impôt sur les sociétés afférent à la part des bénéfices du même
 exercice réalisés par chacune de ses exploitations indirectes situées en France métropolitaine ou dans les départements
@@ -5347,11 +5257,11 @@ d'outre-mer et qui ont été pris en compte pour la détermination du résultat 
 
 b) La fraction de l'impôt sur les sociétés payé par ces exploitations au titre des mêmes bénéfices ;
 
-c) La fraction du précompte qu'elles ont payé à raison de la distribution de bénéfices compris dans le résultat consolidé.
+c) (Dispositions abrogées)
 
 2. La société agréée peut obtenir la restitution de la fraction des sommes qu'il ne lui serait pas possible d'imputer, à
 l'exclusion des crédits d'impôt non restituables en application des dispositions du code général des impôts ou des
-conventions internationales et de l'avoir fiscal.
+conventions internationales.
 
 **Liens relatifs à cet article**
 
@@ -5359,18 +5269,17 @@ conventions internationales et de l'avoir fiscal.
 
 	  - CGIAN2 122, 122 bis
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°2005-1719 2005-12-30 art. 21 I, IV Finances pour 2006 JORF 31 décembre 2005
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 21 (V) JORF 31 décembre 2005
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
 
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - L'article sera codifié ultérieurement
 
 
 ##### 8 : Rapatriement des bénéfices
@@ -5488,60 +5397,6 @@ exploitations directes ou indirectes des sociétés agréées apparaîtra imposs
 	  - HISTO: Edition du 31 mars 2001
 
 
-##### 11 : Précompte.
-
-###### Article 127
-
-1. Pour l'assiette du précompte institué à l'article 223 sexies du code général des impôts, les bénéfices soumis par la
-société agréée à l'impôt sur les sociétés au taux normal prévu au deuxième alinéa du I de l'article 219 de ce code
-s'entendent de ceux qui sont définis à l'article 116.
-
-L'avoir fiscal correspondant ne peut être utilisé.
-
-2.  Lorsqu'une fraction des bénéfices mentionnés au 1 a donné lieu à un impôt acquitté par la société agréée ou par une
-exploitation au moyen de crédits d'impôts attachés à des dividendes prélevés sur des bénéfices compris dans le résultat
-consolidé, le montant de cette fraction, net de crédit d'impôt, est retranché des bénéfices mentionnés au 1.
-
-3. En cas de baisse des intérêts détenus par la société agréée dans une exploitation indirecte mentionnée au c du 1 de
-l'article 116, les bénéfices mentionnés au 1 sont minorés de ceux pris en compte au titre de cette exploitation jusqu'à la
-date de cette baisse des intérêts, à hauteur de leur fraction non encore distribuée à cette date.
-
-Cette minoration s'effectue en proportion de la baisse d'intérêts constatée et ne s'applique pas aux bénéfices réalisés par
-l'exploitation concernée au cours d'un exercice clos plus de cinq ans avant la date d'ouverture de l'exercice en cours à la
-date de cette baisse d'intérêts. Pour le calcul du précompte dû par la société agréée au titre de ce dernier exercice et des
-exercices suivants, la minoration s'applique en priorité aux bénéfices consolidés distribuables en franchise de précompte de
-chaque exercice de prise en compte du bénéfice de cette exploitation, puis à ceux des exercices ultérieurs.
-
-4. La société agréée ne peut utiliser l'avoir fiscal et les crédits d'impôts prévus par une convention internationale
-attachés aux dividendes prélevés sur des bénéfices compris dans le résultat consolidé, en paiement du précompte qu'elle doit
-acquitter.    5. Le précompte n'est pas appliqué aux dividendes versés à la société agréée et prélevés sur des bénéfices
-compris dans le résultat consolidé par des sociétés dont au moins 95 p. 100 du résultat est pris en compte pour la
-détermination du résultat consolidé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 sexies, 219
-	  - CGIAN2 116
-
-	**Modifié par**:
-
-	  - Décret n°97-1227 du 26 décembre 1997 - art. 2 () JORF 28 décembre 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
 ##### 12 : Obligations déclaratives et sanctions
 
 ###### Article 128
@@ -5549,7 +5404,7 @@ détermination du résultat consolidé.
 1. Les sociétés agréées en vertu de l'article 113 demeurent tenues de souscrire chaque année la déclaration prévue, selon le
 cas, à l'article 223 ou à l'article 223 Q du code général des impôts.
 
-2. (Abrogé).
+2. (Abrogé)
 
 3. Les sociétés agréées en vertu de l'article 113 doivent souscrire avant la fin du onzième mois suivant la clôture de
 l'exercice la déclaration du résultat consolidé. A cette déclaration doivent être annexés :
@@ -5565,12 +5420,7 @@ un état faisant apparaître de manière détaillée le mode de calcul du résul
 
 un état faisant apparaître le montant des impôts imputables sur l'impôt sur les sociétés dû par la société agréée.
 
-4. Les sociétés agréées en vertu de l'article 113 doivent souscrire dans le délai indiqué au 3 :
-
-1° La déclaration faisant apparaître les imputations opérées pour l'application de l'article 223 sexies du code général des
-impôts ;
-
-2° (Dispositions devenues sans objet).
+4. (Dispositions abrogées)
 
 5. Les sociétés agréées en vertu de l'article 113 doivent produire au service qui a accordé l'agrément :
 
@@ -5591,12 +5441,15 @@ liste est adressée au plus tard dans le délai indiqué au 3.
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 129
@@ -23889,16 +23742,12 @@ d'outre-mer, l'inscription est requise, selon le cas, au greffe du tribunal de c
 statuant commercialement ou au greffe du tribunal de grande instance dans le ressort duquel se trouve le principal
 établissement du redevable.
 
-2. Lorsque la publicité est faite à titre obligatoire, en application du 4 de l'article 1929 quater du code général des
-impôts, l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard :
+2. Lorsque la publicité est faite, en application du 4 de l'article 1929 quater du code général des impôts, l'inscription des
+sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard :
 
 a. Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente ;
 
-b. Le 31 mai pour les sommes dues au 31 mars de l'année courante ;
-
-c. Le 31 août pour les sommes dues au 30 juin de l'année courante ;
-
-d. Le 30 novembre pour les sommes dues au 30 septembre de l'année courante.
+b. Le 31 août pour les sommes dues au 30 juin de l'année courante.
 
 L'octroi de délais de paiement ne fait pas obstacle à l'application des dispositions du présent article.
 
@@ -23912,7 +23761,7 @@ b. Désignation du comptable public requérant ;
 
 c. Nom, prénoms, raison ou dénomination sociale, adresse de l'établissement principal ou du siège du redevable ;
 
-d. Montant des sommes dues au Trésor au dernier jour du trimestre civil précédant l'inscription.
+d. Montant des sommes dues au Trésor au dernier jour du semestre civil précédant l'inscription.
 
 Le comptable avise le contribuable qu'il a requis une inscription à son encontre.
 
@@ -23930,15 +23779,18 @@ contestée.
 
 La fraction non encore payée d'une imposition contestée ayant fait l'objet d'une mention au registre public figure d'une
 manière distincte sur le bordereau établi par le comptable en vue d'une nouvelle inscription dans les conditions prévues au
-6, premier alinéa.
+premier alinéa du 6.
 
 6. Chaque nouvelle inscription requise par un même comptable à l'encontre du même redevable rend caduque l'inscription
 précédente.
 
-En dehors du cas prévu au 7, une inscription peut faire l'objet à tout moment d'une radiation totale à la diligence du
-redevable, sur présentation au greffe d'une attestation constatant le paiement et établie par le comptable ayant requis
-l'inscription. Une radiation partielle ne peut être faite que pour une somme au moins égale au montant minimum prévu pour
-l'inscription.
+En dehors du cas prévu au 7, le comptable qui a requis l'inscription demande, dans le délai mentionné au 8 bis de l'article
+1929 quater du code général des impôts, la radiation totale prévue à ce 8 bis par la présentation au greffe d'une attestation
+de paiement.
+
+En dehors du cas prévu au 7, une inscription peut faire l'objet à tout moment d'une radiation partielle à la diligence du
+redevable, sur présentation au greffe d'une attestation constatant le paiement partiel et établie par le comptable ayant
+requis l'inscription.
 
 Toute radiation consécutive à un dégrèvement est faite à l'initiative du comptable qui avait requis l'inscription. Il est de
 même procédé à radiation sur l'initiative du comptable en cas d'erreur commise par celui-ci sur le montant des sommes
@@ -23962,15 +23814,15 @@ nommément désigné.
 L'état des inscriptions délivré par le greffier doit comporter l'indication du comptable ou du tiers subrogé ayant requis
 l'inscription, la date de l'inscription, le montant des sommes inscrites et, le cas échéant, les mentions de contestations.
 
-10. Le modèle des bordereaux, attestations, certificats, réquisitions et états des inscriptions prévus aux 3, 5, 6, 7 et 9
-est fixé par arrêté conjoint du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice (1).
+10. Le modèle du bordereau prévu au 3, des attestations prévues au 5 et au 6 et du certificat prévu au 7 est fixé par arrêté
+conjoint du ministre chargé du budget et du garde des sceaux, ministre de la justice.
 
 11. En cas de destruction totale ou partielle ou de disparition, par suite d'un sinistre ou de tout autre fait, du registre
 de publicité des créances privilégiées du Trésor public mentionné à l'article 1er de la loi n° 71-1029 du 24 décembre 1971,
 quel que soit le greffe dans lequel ce registre était ou est conservé, il est procédé à sa reconstitution de la façon
 suivante :
 
-Les comptables publics qui avaient obtenu l'inscription de privilèges pour des sommes dues au Trésor, demandent au greffier,
+Les comptables publics qui avaient obtenu l'inscription de privilèges pour des sommes dues au Trésor demandent au greffier,
 par simple requête et sur présentation du second exemplaire du bordereau d'inscription prévu au 4, la réinscription du
 privilège du Trésor pour les sommes indiquées sur cet exemplaire.
 
@@ -23984,34 +23836,28 @@ Le redevable, s'il estime que la réinscription n'est pas conforme à l'inscript
 jours à compter de la date de réception de cette lettre, présenter une réclamation devant la commission visée à l'article 1er
 du décret n° 72-917 du 2 octobre 1972.
 
-Celle-ci statue dans les conditions prévues au chapitre premier du même décret.
-
-**Nota:**
-
-NOTA : (1) Voir l'article 207 sexies de l'annexe IV.
+Celle-ci statue dans les conditions prévues au chapitre Ier du même décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1929 quater
-	  - Décret n°72-917 1972-10-02
 	  - Loi n°71-1029 du 24 décembre 1971 - art. 1 (V)
-	  - Livre des procédures fiscales - art. L277 (MMN)
-	  - Livre des procédures fiscales - art. L278 (MMN)
-	  - Livre des procédures fiscales - art. L279 A (V)
+	  - Décret n°72-917 1972-10-02 art. 1
+	  - Livre des procédures fiscales L277 à L279 A
 
 	**Modifié par**:
 
-	  - Décret n°92-37 du 7 janvier 1992 - art. 1 (V) JORF 12 janvier 1992
+	  - Décret n°2007-568 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - L'article sera codifié ultérieurement
 
 
 ### Section II : Redressement judiciaire.
