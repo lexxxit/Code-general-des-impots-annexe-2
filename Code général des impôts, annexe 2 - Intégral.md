@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2007-08-25
+Version Consolidée au 2007-09-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -210,17 +210,6 @@ III. Les associés joignent à chacune de leurs déclarations des revenus un exe
 
 
 ##### I bis : Bénéfices industriels et commerciaux
-
-###### Article 4 à 14
-
-(Dispositions périmées).
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-
 
 ##### 1 : Imposition de certains profits immobiliers
 
@@ -5626,35 +5615,6 @@ morales (1).
 	**Liens**:
 
 	  - HISTO: Edition du 4 juillet 1992
-
-
-##### V : Dispositions particulières à l'exploitation d'hydrocarbures.
-
-###### Article 134 ter
-
-La partie des impôts étrangers non imputée au titre d'un exercice clos avant le 1er janvier 1982 ne peut être reportée sur
-les exercices postérieurs que dans la limite des sommes qui auraient résulté de l'application de l'article 134 bis (1).
-
-(1) Dispositions applicables aux exercices clos après le 31 décembre 1981 *date d'effet*.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 134 bis
-
-	**Créé par**:
-
-	  - Décret n°81-381 du 21 avril 1981 - art. 1 () JORF 22 AVRIL 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°89-801 1989-10-27
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989, incorporé dans l'annexe 2 le 14 juillet 1989
 
 
 ##### Section III : Imputation de l'impôt sur le revenu (retenue à la source) sur le montant de l'impôt sur les sociétés
@@ -22632,36 +22592,6 @@ de la période normale d'utilisation de ces immeubles.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2002
-
-
-# ASSIETTE ET LIQUIDATION DE L'IMPOT
-
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
-
-### DISPOSITIONS RELATIVES A LA FISCALITE DIRECTE LOCALE APPLICABLES DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*.
-
-###### Article 327 Z
-
-Lorsque le montant de la taxe foncière sur les propriétés bâties due par un propriétaire non soumis à l'impôt sur le revenu
-et qui occupe son logement à titre d'habitation principale excède, pour l'année 1979, 150 % de la contribution foncière ou de
-l'impôt locatif établi en 1973 sur ce même logement, l'intéressé peut demander que sa cotisation soit réduite à concurrence
-de cet excédent.
-
-La même règle est applicable pour les impositions établies en 1980. Toutefois, la réduction est limitée à la moitié de celle
-accordée en 1979.
-
-Les demandes doivent être présentées dans le délai général de réclamation fixé par l'article R. 196-2 du livre des procédures
-fiscales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R196-2
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
 
 
 # Livre II : Recouvrement de l'impôt
