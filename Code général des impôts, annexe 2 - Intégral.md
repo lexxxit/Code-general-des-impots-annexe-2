@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-09-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2680,83 +2680,136 @@ domicile et, éventuellement, de la date de son décès.
 
 ###### Article 74 S bis
 
-Les redevables de la taxe prévue à l'article 150 V bis du code général des impôts doivent déposer dans les trente jours de la
-vente ou dans les délais prévus pour les déclarations de chiffre d'affaires une déclaration en double exemplaire conforme au
-modèle établi par l'administration.
+Pour l'application des articles 150 VI et 150 VJ du code général des impôts, les cessions de métaux précieux, de bijoux et
+d'objets d'art, de collection ou d'antiquité sont regardées comme réalisées dans l'Etat dans lequel se situe physiquement le
+bien cédé au jour de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-1386 du 26 septembre 2007 - art. 1 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150 VI (V)
+
+
+###### Article 74 S quater
+
+Pour le bénéfice des exonérations prévues aux 5° et 6° de l'article 150 VJ du code général des impôts et lorsqu'un
+intermédiaire participe à la transaction, la responsabilité de celui-ci est dégagée, sous réserve qu'il justifie de
+l'identité et de la résidence du cédant ou de l'exportateur du bien au moyen d'une copie de la pièce d'identité délivrée au
+nom de celui-ci et d'une attestation sur l'honneur, établie par l'intéressé, de sa résidence fiscale à l'étranger. Ces
+documents sont conservés par l'intermédiaire et annexés aux pièces comptables correspondant à l'opération. En cas
+d'exportation, ils sont produits auprès du service des douanes lors de l'accomplissement des obligations douanières.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 150 V bis
-
-	**Anciens textes**:
-
-	  - CGIAN2 267 quater D
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
+	  - CGI 150 VJ
 
 	**Créé par**:
 
-	  - Décret n°93-231 1993-07-19 art. 2 JORF 22 juillet 1993
+	  - Décret n°2007-1386 du 26 septembre 2007 - art. 1 () JORF 28 septembre 2007
 
-	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+###### Article 74 S quinquies
+
+Pour l'application du I de l'article 150 VK du code général des impôts, l'intermédiaire s'entend de toute personne domiciliée
+fiscalement en France participant à la transaction qui agit au nom et pour le compte du vendeur ou de l'acquéreur, ou qui
+fait l'acquisition du bien en son nom concomitamment à sa revente à un acquéreur final.
+
+En cas d'option pour le régime de droit commun des plus-values sur biens meubles en application de l'article 150 VL du code
+général des impôts, l'intermédiaire est dégagé de toute responsabilité tant en raison des renseignements fournis par le
+vendeur ou l'exportateur que, le cas échéant, du calcul de la plus-value imposable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 VK, 150 VL
+
+	**Créé par**:
+
+	  - Décret n°2007-1386 du 26 septembre 2007 - art. 1 () JORF 28 septembre 2007
+
+
+###### Article 74 S septies
+
+L'option mentionnée à l'article 150 VL du code général des impôts est irrévocable.
+
+Lorsque cette option est exercée, le vendeur ou l'exportateur présente, à l'appui de la déclaration prévue par l'article 150
+VM du même code, les éléments permettant d'établir la date et le prix d'acquisition du bien cédé ou exporté ou de justifier
+que ce dernier est détenu depuis plus de douze ans.
+
+En cas d'exportation, la déclaration mentionnée à l'alinéa précédent doit être déposée, accompagnée du paiement de l'impôt
+éventuellement dû, par l'exportateur ou, le cas échéant, par l'intermédiaire participant à la transaction, au service des
+impôts mentionné aux 1° et 3° du I de l'article 150 VM, préalablement à l'accomplissement des formalités douanières. Elle
+doit ensuite être présentée à la recette des douanes compétente conformément au 2° du I du même article pour valoir
+justificatif de non-paiement de la taxe forfaitaire prévue à l'article 150 VI du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1386 du 26 septembre 2007 - art. 1 () JORF 28 septembre 2007
+
+
+###### Article 74 S sexies
+
+La déclaration mentionnée à l'article 150 VM du code général des impôts indique :
+
+a. en cas de cession, l'identité du vendeur ou, le cas échéant, celle de l'intermédiaire participant à la transaction ;
+
+b. en cas d'exportation, l'identité de l'exportateur et, le cas échéant, celle de l'intermédiaire participant à la
+transaction ;
+
+c. la date de l'opération ;
+
+d. la désignation et la nature du bien cédé ou exporté ainsi que, selon le cas, le prix de cession ou la valeur en douane de
+ce bien.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 VM
+
+	**Créé par**:
+
+	  - Décret n°2007-1386 du 26 septembre 2007 - art. 1 () JORF 28 septembre 2007
 
 
 ###### Article 74 S ter
 
-Lorsque le vendeur exerce l'option prévue à l'article 150 V sexies du code général des impôts, il doit souscrire, auprès du
-service des impôts dont il dépend pour l'impôt sur le revenu, une déclaration d'option en double exemplaire selon un modèle
-établi par l'administration.
+Pour le bénéfice des exonérations prévues aux 5° et 6° de l'article 150 VJ du code général des impôts, l'exportateur doit
+justifier, lors de l'accomplissement des formalités douanières, être fiscalement domicilié hors de France et présenter, selon
+le cas, l'un des documents suivants :
 
-La déclaration mentionne l'identité de l'acquéreur et, le cas échéant, de l'intermédiaire chargé de la vente ainsi que la
-date de l'opération et le prix de vente.
+a. un document, tel que prévu par la législation douanière en vigueur, prouvant que le bien a fait antérieurement l'objet
+d'une importation en France ou dans un autre Etat membre de la Communauté européenne par ses soins ;
 
-Elle est appuyée :
+b. la facture d'acquisition du bien auprès d'un professionnel installé en France ou dans un autre Etat membre de la
+Communauté européenne ;
 
-Soit d'un certificat délivré par un officier ministériel attestant que l'objet a été acquis dans une vente publique, et
-mentionnant la date et le prix payé,
+c. un document mentionnant explicitement le bien concerné et établissant que celui-ci a été acquis par voie de succession ou
+de donation d'une personne résidant en France ou dans un autre Etat membre de la Communauté européenne ;
 
-Soit d'une facture régulière délivrée par un commerçant résidant en France,
+d. un document prouvant que le bien a été acquis à titre onéreux, en France ou dans un autre Etat membre de la Communauté
+européenne, auprès d'une personne autre que celle mentionnée au b ;
 
-Soit d'une facture délivrée par un particulier et visée par le service des impôts ayant encaissé la taxe,
-
-Soit, lorsque l'objet a été acquis par voie de succession ou de donation, d'un extrait de la déclaration ayant servi de base
-à la liquidation des droits de mutation et mentionnant le bien concerné.
-
-L'acceptation de l'option par l'administration est notifiée en double exemplaire au vendeur. Le cas échéant, celui-ci remet
-l'un d'eux à la personne tenue au paiement de la taxe qui conserve cette pièce à l'appui de sa propre comptabilité. Le
-redevable de la taxe se trouve de ce fait déchargé du paiement. L'option exercée est irrévocable.
-
-Lorsqu'un exportateur se trouvant dans la situation prévue au deuxième alinéa de l'article 150 V quater du code général des
-impôts a acquis le bien auprès d'une personne qui a exercé l'option, la présentation par cet exportateur de la déclaration
-d'option visée par les services fiscaux vaut justification du paiement de la taxe.
+e. lorsque l'acquisition visée au d porte sur des biens mentionnés au 1° du I de l'article 150 VI et qu'elle a été effectuée
+en France, ou dans un autre Etat membre de la Communauté européenne auprès d'une personne physique domiciliée en France, un
+document prouvant que cette acquisition a donné lieu au paiement de la taxe ou que le cédant a exercé l'option prévue à
+l'article 150 VL.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 150 V sexies, 150 V quater
-
-	**Anciens textes**:
-
-	  - CGIAN2 267 quater E
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+	  - Décret n°2007-1386 du 26 septembre 2007 - art. 1 () JORF 28 septembre 2007
 
 
 ##### Section II : Revenu global
@@ -23052,53 +23105,6 @@ Trésor public."
 	**Codifié par**:
 
 	  - L'article sera codifié ultérieurement
-
-
-#### VII : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.
-
-###### Article 383 bis E
-
-I. Le versement de la taxe prévue à l'article 150 V bis du code général des impôts est opéré :
-
-a) au service des impôts compétent pour la perception des taxes sur le chiffre d'affaires, si la taxe est due par un
-intermédiaire ou un acheteur agissant dans le cadre de son activité professionnelle ;
-
-b) au service des impôts dont relève le domicile de l'acheteur, et dans les trente jours, en cas d'achat direct par un
-particulier ;
-
-c) au service des impôts dont relève le domicile du vendeur en cas de vente dans un autre Etat membre de la Communauté
-européenne ;
-
-d) à la recette des douanes s'il s'agit d'une exportation.
-
-II. Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires ou comme en
-matière de droits de douane, suivant le comptable compétent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 V bis
-
-	**Anciens textes**:
-
-	  - CGIAN2 383 quater
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1386 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées

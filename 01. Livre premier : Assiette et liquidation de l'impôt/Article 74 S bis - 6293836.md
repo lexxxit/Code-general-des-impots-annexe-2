@@ -1,27 +1,15 @@
 # Article 74 S bis
 
-Les redevables de la taxe prévue à l'article 150 V bis du code général des impôts doivent déposer dans les trente jours de la
-vente ou dans les délais prévus pour les déclarations de chiffre d'affaires une déclaration en double exemplaire conforme au
-modèle établi par l'administration.
+Pour l'application des articles 150 VI et 150 VJ du code général des impôts, les cessions de métaux précieux, de bijoux et
+d'objets d'art, de collection ou d'antiquité sont regardées comme réalisées dans l'Etat dans lequel se situe physiquement le
+bien cédé au jour de l'opération.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2007-1386 du 26 septembre 2007 - art. 1 () JORF 28 septembre 2007
+
 	**Cite**:
 
-	  - CGI 150 V bis
-
-	**Anciens textes**:
-
-	  - CGIAN2 267 quater D
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Créé par**:
-
-	  - Décret n°93-231 1993-07-19 art. 2 JORF 22 juillet 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, CGI. - art. 150 VI (V)
