@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2007-12-28
+Version Consolidée au 2008-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -257,22 +257,22 @@ la déclaration qui en tient lieu, au service des impôts où la présentation e
 
 En ce qui concerne les biens d'investissement ouvrant droit à déduction de la taxe sur la valeur ajoutée, en application des
 dispositions de l'article 271 du code général des impôts, les amortissements sont, pour l'assiette de l'impôt, calculés sur
-la base du prix d'achat ou de revient déterminé conformément aux dispositions de l'article 229 de la présente annexe.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+la base du prix d'achat ou de revient déterminé conformément aux dispositions du II de l'article 209 de la présente annexe.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 271
-	  - CGIAN2 229
+	  - CGIAN2 209
 
 	**Modifié par**:
 
-	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 #####  3 bis : Amortissement des immobilisations par composants
@@ -5978,25 +5978,25 @@ de ces mêmes dispositions par les associés ou membres de cette entreprise.
 La valeur des immobilisations à retenir pour le calcul de la déduction prévue au premier alinéa du I de l'article 217
 undecies du code général des impôts est constituée par le prix d'achat ou le prix de revient, diminué de la fraction de ce
 prix financée par une subvention publique et, si l'entreprise est assujettie à la taxe sur la valeur ajoutée, de la taxe
-déductible conformément aux dispositions de l'article 229.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+déductible conformément aux dispositions du II de l'article 209.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 217 undecies, 229
+	  - CGI 217 undecies, 209
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-157 du 5 mars 1999 - art. 2 () JORF 6 mars 1999
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 140 terdecies
@@ -9099,30 +9099,26 @@ partiellement ou totalement déductible.
 ###### Article 174
 
 Les cas d'exclusion, de limitation et de régularisation prévus au 8° de l'article 257 du code général des impôts sont ceux
-qui sont prévus aux articles 210 et suivants.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+qui sont prévus aux 2, 3 et 4 du IV de l'article 206 et à l'article 207.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 257
-	  - CGIAN2 210
+	  - CGIAN2 206, 207
 
 	**Anciens textes**:
 
 	  - CGIAN2 178 B
 
+	**Modifié par**:
+
+	  - Décret n°2007-566 2007-04-16 art. 1 C JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 175
@@ -9274,35 +9270,19 @@ Dans les immeubles ou ensembles d'immeubles comprenant à la fois des locaux nus
 en application du 2° de l'article 260 du code général des impôts et d'autres locaux, l'option ne s'étend pas à ces derniers
 mais elle s'applique globalement à l'ensemble des locaux de la première catégorie.
 
-Chaque immeuble ou ensemble d'immeubles constitue un secteur d'activité pour l'application de l'article 213.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 260
-	  - CGIAN2 213
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 1999-12-22 3D-6-99
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 194
@@ -9574,38 +9554,6 @@ l'imputation n'a pu être opérée, l'option est reconduite de plein droit pour 
 	  - CGIAN2 242-0 H
 
 
-###### Article 201 sexies
-
-Chaque service couvert par l'option constitue un secteur d'activité pour l'application de l'article 213 ci-après.
-
-La taxe sur la valeur ajoutée qui a grevé les biens et services acquis pour les besoins de l'exploitation du service
-considéré n'est déductible que si ces biens et services sont nécessaires à cette exploitation et leur coût porté en charge
-dans la comptabilité propre à ce service ; jusqu'au 31 décembre 1992, le pourcentage de l'utilisation privée de ces biens et
-services ne doit pas être supérieur à 90 % de leur utilisation totale.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 213
-
-	**Modifié par**:
-
-	  - Décret n°89-885 du 14 décembre 1989 - art. 1 (V) JORF 15 décembre 1989
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-
-
 ##### 7 : Bailleurs de biens ruraux
 
 ###### Article 202
@@ -9764,23 +9712,24 @@ Ne peuvent bénéficier des modalités simplifiées de liquidation de la taxe su
 
 - les importations ;
 
-- les opérations visées aux 6°, 7° et 7° bis de l'article 257 du code général des impôts ;
+- les opérations visées aux 6°, 7°, 7° bis et 7° quater de l'article 257 du code général des impôts ;
 
-- les opérations effectuées à titre occasionnel.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+- les opérations effectuées à titre occasionnel, y compris les manifestations de bienfaisance ou de soutien organisées par
+les organismes agissant sans but lucratif désignés au a du 1° du 7 de l'article 261 du code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 257, 261
+
 	**Modifié par**:
 
-	  - Décret n°99-545 du 30 juin 1999 - art. 2 () JORF 1er juillet 1999
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 204 ter A
@@ -9822,47 +9771,160 @@ général des impôts. Elle prend effet le premier jour du mois suivant cette p�
 
 ###### Article 205
 
-L'exercice du droit à déduction prévu à l'article 271 du code général des impôts comporte des modalités différentes selon
-qu'il concerne la taxe sur la valeur ajoutée ayant grevé :
-
-a. Les biens constituant des immobilisations ;
-
-b. Les biens ne constituant pas des immobilisations et les services.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+La taxe sur la valeur ajoutée grevant un bien ou un service qu'un assujetti à cette taxe acquiert, importe ou se livre à lui-
+même est déductible à proportion de son coefficient de déduction.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 271
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 206 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (VD)
 
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
 
 ###### Article 206
 
-La déduction effectuée dans les conditions prévues aux articles 205 et 207 bis à 229 est définitivement acquise à
-l'entreprise, sous réserve des dispositions des articles 207 bis, 210, 215 et 221.
+I. - Le coefficient de déduction mentionné à l'article 205 est égal au produit des coefficients d'assujettissement, de
+taxation et d'admission.
 
-**Nota:**
+II. - Le coefficient d'assujettissement d'un bien ou d'un service est égal à sa proportion d'utilisation pour la réalisation
+d'opérations imposables. Les opérations imposables s'entendent des opérations situées dans le champ d'application de la taxe
+sur la valeur ajoutée en vertu des articles 256 et suivants du code général des impôts, qu'elles soient imposées ou
+légalement exonérées.
 
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+III. - 1. Le coefficient de taxation d'un bien ou d'un service est égal à l'unité lorsque les opérations imposables
+auxquelles il est utilisé ouvrent droit à déduction.
+
+2. Le coefficient de taxation d'un bien ou d'un service est nul lorsque les opérations auxquelles il est utilisé n'ouvrent
+pas droit à déduction.
+
+3. Lorsque le bien ou le service est utilisé concurremment pour la réalisation d'opérations imposables ouvrant droit à
+déduction et d'opérations imposables n'ouvrant pas droit à déduction, le coefficient de taxation est calculé selon les
+modalités suivantes :
+
+1° Ce coefficient est égal au rapport entre :
+
+a. Au numérateur, le montant total annuel du chiffre d'affaires afférent aux opérations ouvrant droit à déduction, y compris
+les subventions directement liées au prix de ces opérations ;
+
+b. Et, au dénominateur, le montant total annuel du chiffre d'affaires afférent aux opérations imposables, y compris les
+subventions directement liées au prix de ces opérations.
+
+Les sommes mentionnées aux deux termes de ce rapport s'entendent tous frais et taxes compris, à l'exclusion de la taxe sur la
+valeur ajoutée ;
+
+2° Lorsqu'un assujetti a constitué des secteurs distincts d'activité en application de l'article 209, le chiffre d'affaires à
+retenir pour le calcul du rapport mentionné au 1° est celui du ou des secteurs pour lesquels le bien ou le service est
+utilisé ;
+
+3° Pour l'application des dispositions du 1°, il est fait abstraction du montant du chiffre d'affaires afférent :
+
+a. Aux cessions des biens d'investissements corporels ou incorporels ;
+
+b. Au produit des opérations immobilières et financières accessoires exonérées de la taxe sur la valeur ajoutée. Sont
+considérées comme accessoires les opérations qui présentent un lien avec l'activité principale de l'entreprise et dont la
+réalisation nécessite une utilisation limitée au maximum à 10 % des biens et des services grevés de taxe sur la valeur
+ajoutée qu'elle a acquis. Ce pourcentage est apprécié en fonction de la proportion d'utilisation pour ces opérations de
+chaque bien et service grevé de taxe sur la valeur ajoutée. Cette proportion est appliquée à la valeur d'acquisition par le
+redevable de chacun de ces biens et services pour déterminer leur valeur d'utilisation. Le pourcentage résulte du rapport
+entre, au numérateur, la somme des valeurs d'utilisation ainsi déterminées et, au dénominateur, le montant total de la valeur
+d'acquisition de ces biens et services.
+
+IV. - 1. Le coefficient d'admission d'un bien ou d'un service est égal à l'unité, sauf dans les cas décrits aux 2 à 4.
+
+2. Le coefficient d'admission est nul dans les cas suivants :
+
+1° Lorsque le bien ou le service est utilisé par l'assujetti à plus de 90 % à des fins étrangères à son entreprise ;
+
+2° Lorsque le bien ou le service est relatif à la fourniture à titre gratuit du logement des dirigeants ou du personnel de
+l'entreprise, à l'exception de celui du personnel de gardiennage, de sécurité ou de surveillance sur les chantiers ou dans
+les locaux de l'entreprise ;
+
+3° Lorsque le bien est cédé sans rémunération ou moyennant une rémunération très inférieure à son prix normal, notamment à
+titre de commission, salaire, gratification, rabais, bonification, cadeau, quelle que soit la qualité du bénéficiaire ou la
+forme de la distribution, sauf quand il s'agit de biens de très faible valeur. Un arrêté du ministre chargé du budget en fixe
+la valeur maximale ;
+
+4° Lorsque le bien ou le service est utilisé pour des publicités prohibées par les articles L. 3323-2, L. 3323-4 et L. 3323-5
+du code de la santé publique ;
+
+5° Pour les prestations de transport de personnes et les prestations accessoires à ce transport, à l'exclusion de celles
+réalisées soit pour le compte d'une entreprise de transports publics de voyageurs, soit en vertu d'un contrat permanent de
+transport conclu par les entreprises pour amener leur personnel sur les lieux de travail ; 
+
+6° Pour les véhicules ou engins, quelle que soit leur nature, conçus pour transporter des personnes ou à usages mixtes, à
+l'exception de ceux :
+
+a. Destinés à être revendus à l'état neuf ;
+
+b. Donnés en location ;
+
+c. Comportant, outre le siège du conducteur, plus de huit places assises et utilisés par des entreprises pour amener leur
+personnel sur les lieux du travail ;
+
+d. Affectés de façon exclusive à l'enseignement de la conduite ;
+
+e. De type tout terrain affectés exclusivement à l'exploitation des remontées mécaniques et des domaines skiables, dès lors
+qu'ils ont été certifiés par le service technique des remontées mécaniques et des transports guidés, dans des conditions
+fixées par décret ;
+
+f. Acquis par les entreprises de transports publics de voyageurs et affectés de façon exclusive à la réalisation desdits
+transports ;
+
+7° Pour les éléments constitutifs, pièces détachées et accessoires des véhicules et engins mentionnés au premier alinéa du
+6° ;
+
+8° Pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers :
+
+a. Pour les essences utilisées comme carburants mentionnées au tableau B de l'article 265 du code des douanes, à l'exception
+de celles utilisées pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ;
+
+b. Pour les carburéacteurs mentionnés à la position 27.10.00 du tableau B de l'article 265 du code des douanes utilisés pour
+les aéronefs et engins mentionnés au premier alinéa du 6° ;
+
+c. Pour les produits pétroliers utilisés pour la lubrification des véhicules et engins mentionnés au premier alinéa du 6° ;
+
+9° Pour les biens acquis ou construits ainsi que les services acquis dont la valeur d'achat, de construction ou de livraison
+à soi-même est prise en compte pour l'application des dispositions du 6° de l'article 257, du e du 1 ou du sixième alinéa du
+2 de l'article 266 ainsi que de l'article 297 A du code général des impôts ;
+
+10° Pour les prestations de services de toute nature, notamment la location, afférentes aux biens dont le coefficient
+d'admission est nul en application des dispositions du 1° au 8°.
+
+3. Le coefficient d'admission est égal à 0,5 pour les gaz de pétrole et autres hydrocarbures présentés à l'état gazeux
+(position 27.11.29 du tarif des douanes) et le pétrole lampant (position 27.10.19.21 du tarif des douanes) utilisés comme
+carburants, lorsque ces produits sont utilisés pour des véhicules et engins mentionnés au premier alinéa du 6° du 2 et pour
+autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
+
+4. Le coefficient d'admission est égal à 0,8 pour les gazoles et le superéthanol E 85 mentionnés au tableau B de l'article
+265 du code des douanes utilisés comme carburants pour des véhicules et engins mentionnés au premier alinéa du 6° du 2, à
+l'exception de ceux utilisés pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur et
+pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
+
+V. - 1. L'assujetti peut, par année civile, retenir :
+
+1° Pour l'ensemble de ses biens et services utilisés concurremment à des opérations imposables et à des opérations non
+imposables, un coefficient d'assujettissement unique, sous réserve d'en justifier ;
+
+2° Pour l'ensemble de ses biens et services, un coefficient de taxation unique calculé dans les conditions du 3 du III.
+
+2. Les quatre coefficients mentionnés au I sont arrondis par excès à la deuxième décimale. Ils sont définitivement arrêtés
+avant le 25 avril de l'année suivante ou le 31 décembre de l'année suivante pour ceux qui deviennent redevables de la taxe
+sur la valeur ajoutée en cours d'année.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 205, 207 bis à 229, 210, 215, 221
-
 	**Modifié par**:
 
-	  - Décret n°94-452 du 3 juin 1994 - art. 6 () JORF 5 juin 1994
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 	**Cité par**:
 
@@ -9872,228 +9934,265 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 28-00 A (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - L'article sera codifié ultérieurement
 
 
 ##### B : Régularisations et reversements
 
 ###### Article 207
 
-Le droit à déduction prend naissance lorsque la taxe déductible devient exigible chez le redevable.
+I. - Sous réserve des dispositions qui suivent, la déduction opérée dans les conditions mentionnées aux articles 205 et 206
+est définitivement acquise à l'entreprise.
 
-Toutefois, les personnes qui effectuent des opérations occasionnelles soumises à la taxe sur la valeur ajoutée n'exercent le
-droit à déduction qu'au moment de la livraison.
+II. - 1. Pour les biens immobilisés, une régularisation de la taxe initialement déduite est opérée chaque année pendant cinq
+ans, dont celle au cours de laquelle ils ont été acquis, importés, achevés, utilisés pour la première fois ou transférés
+entre secteurs d'activité constitués en application de l'article 209.
 
-**Liens relatifs à cet article**
+2. Chaque année, la régularisation est égale au cinquième du produit de la taxe initiale par la différence entre le
+coefficient de déduction de l'année et le coefficient de déduction de référence mentionné au 2 du V. Elle prend la forme
+d'une déduction complémentaire si cette différence est positive, d'un reversement dans le cas contraire.
 
-	**Abrogé par**:
+3. Par dérogation à la durée mentionnée au 1 et à la fraction mentionnée au 2, cette régularisation s'opère pour les
+immeubles immobilisés par vingtième pendant vingt années.
 
-	  - Article sans objet, modification incorporée dans l'édition du 2 septembre 1994
+4. La régularisation doit être effectuée avant le 25 avril de l'année suivante. Aucune régularisation n'est effectuée si la
+différence entre le produit des coefficients d'assujettissement et de taxation de l'année, d'une part, et le produit des
+coefficients d'assujettissement et de taxation de référence mentionnés au 2 du V, d'autre part, n'est pas supérieure, en
+valeur absolue, à un dixième.
 
-	**Modifié par**:
+5. Les dispositions qui précèdent ne sont pas applicables :
 
-	  - Décret n°91-352 1991-04-119 art. 3 JORF 13 avril 1991
-	  - Modification directe incorporée dans l'édition du 24 juin 1991
+1° Aux biens immobilisés dont le coefficient d'assujettissement de référence est nul ;
 
-	**Codifié par**:
+2° Aux immeubles livrés, acquis, apportés ou utilisés pour la première fois avant le 1er janvier 1996.
 
-	  - Décret n°94-899 1994-10-17
+6. Pour la détermination des coefficients de référence mentionnés au 2 et au 4, il n'est pas tenu compte des dispositions du
+1° et du 2° du 2 du V au titre de l'année où il est fait application de ces dispositions.
 
-	**Cité par**:
+III. - 1. Une régularisation de la taxe initialement déduite et grevant un bien immobilisé est également opérée :
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (M)
+1° Lorsqu'il est cédé ou apporté, sans que cette opération soit soumise à la taxe sur le prix total ou la valeur totale, ou
+est transféré entre secteurs d'activité constitués en application de l'article 209 ;
 
+2° Lorsqu'il est cédé ou apporté, et que cette opération est soumise à la taxe sur le prix total ou la valeur totale ;
 
-##### C : Dispositions diverses
+3° Lorsque la réglementation modifie la valeur de son coefficient d'admission en cours d'utilisation ;
 
-###### Article 207 bis
+4° Lorsqu'il vient en cours d'utilisation à être utilisé à des opérations ouvrant droit à déduction ou, sous réserve du 5°,
+lorsqu'il cesse d'être utilisé à des opérations ouvrant droit à déduction ;
 
-1. a) Un redevable qui réalise des opérations situées hors du champ d'application de la taxe sur la valeur ajoutée et des
-opérations imposables à la taxe sur la valeur ajoutée doit, pour opérer la déduction de la taxe sur la valeur ajoutée
-afférente à ses dépenses, procéder préalablement à l'affectation de ces dépenses en fonction de leur utilisation, totale ou
-partielle, pour la réalisation de chacune de ces deux catégories d'opérations.
+5° Lorsqu'il cesse d'être utilisé à des opérations imposables.
 
-b) La taxe sur la valeur ajoutée qui a grevé les biens ou les services utilisés exclusivement pour des opérations situées
-hors du champ d'application de la taxe sur la valeur ajoutée n'est pas déductible.
+2. Cette régularisation est égale à la somme des régularisations qui auraient été effectuées jusqu'au terme de la période de
+régularisation en application des 1, 2, 3 et 5 du II, en considérant que pour chacune des années restantes de cette période :
 
-c) La taxe sur la valeur ajoutée qui a grevé les biens ou les services utilisés exclusivement pour des opérations imposables
-à la taxe sur la valeur ajoutée est déductible dans les conditions prévues aux articles 205 à 242 B.
+1° Dans les cas visés au 1° du 1, le coefficient de taxation est égal à zéro ;
 
-d) La taxe sur la valeur ajoutée qui a grevé les biens ou les services utilisés concurremment pour la réalisation
-d'opérations imposables en vertu des articles 256 et suivants du code général des impôts et pour la réalisation d'opérations
-situées hors du champ d'application de la taxe sur la valeur ajoutée n'est déductible, dans les conditions prévues aux
-articles 205 à 242 B, qu'en proportion de l'utilisation de ces biens et services pour la réalisation d'opérations imposables.
+2° Dans les cas visés au 2° du 1, le coefficient de déduction est égal à l'unité ;
 
-Pour le calcul de cette proportion, les redevables peuvent appliquer une clef de répartition commune à l'ensemble des
-dépenses concernées, à condition de pouvoir la justifier.
+3° Dans le cas visé au 3° du 1, le coefficient d'admission est égal à sa nouvelle valeur ;
 
-e) Les opérations imposables s'entendent des opérations situées dans le champ d'application de la taxe sur la valeur ajoutée,
-qu'elles soient imposées ou légalement exonérées.
+4° Dans les cas visés au 4° du 1, le coefficient de taxation est égal à sa nouvelle valeur ;
 
-2.  a) Lorsque la proportion déterminée au d du 1 diminue de plus de vingt centièmes au cours des dix neuf années qui suivent
-celle de l'achèvement ou de l'acquisition d'un immeuble, le redevable doit procéder au reversement d'une fraction de la taxe
-initialement déductible au titre des opérations imposables. Ce reversement est égal au vingtième la différence entre le
-montant de la taxe initialement déductible et le montant de la taxe déductible au titre de l'année au cours de laquelle la
-diminution a été constatée.
+5° Dans le cas visé au 5° du 1, le coefficient d'assujettissement est égal à zéro.
 
-Les redevables qui cessent de réaliser exclusivement des opérations situées dans le champ d'application de la taxe sur la
-valeur ajoutée sont tenus à la même obligation.
+3. Dans les cas visés au 1° du 1, sous réserve que le bien constitue également une immobilisation pour le bénéficiaire de la
+cession, de l'apport ou du transfert, celui-ci peut déduire une fraction du montant de taxe sur la valeur ajoutée ayant grevé
+initialement le bien, à proportion du rapport entre le nombre d'années restant à courir, pour le cédant ou l'apporteur,
+jusqu'au terme de la période de régularisation et le nombre d'années total de celle-ci. A cette fin, le cédant ou l'apporteur
+délivre au bénéficiaire une attestation mentionnant le montant de la taxe qu'il est en droit de déduire. Cette déduction est
+opérée dans les conditions prévues à l'article 206.
 
-b) Lorsque la proportion déterminée au d du 1 augmente de plus de vingt centièmes au cours des dix neuf années qui suivent
-celle de l'acquisition ou de l'achèvement d'un immeuble, le redevable bénéficie d'un droit à déduction complémentaire. Celui-
-ci est égal au vingtiéme la différence entre le montant de la taxe déductible au titre de l'année au cours de laquelle
-l'augmentation a été constatée et le montant de la taxe initialement déductible.
+4. Les dispositions des 1 à 3 ne sont pas applicables :
 
-c) Pour l'application des dispositions du a et du b, lorsque le droit à déduction n'a été ouvert qu'après la date de
-l'achèvement ou de l'acquisition de l'immeuble, la date de l'ouverture du droit à déduction se substitue à cette date.
-Lorsqu'un immeuble acquis ou construit en vue de la vente est utilisé directement par le redevable, la date de la première
-utilisation se substitue à celle de l'acquisition ou de l'achèvement.
+1° Aux cessions ou apports dispensés de taxe sur la valeur ajoutée en application de l'article 257 bis du code général des
+impôts ;
 
-d) Les montants de taxe déductible visés aux a et b sont corrigés, le cas échéant, en fonction du rapport de déduction fixé à
-l'article 212 et déterminé au titre de l'année de l'achèvement ou de l'acquisition de l'immeuble ou de l'ouverture du droit à
-déduction mentionnée au c.
+2° Aux biens immobilisés :
 
-3. Les dispositions du 2 sont applicables aux autres biens constituant des immobilisations. Toutefois, la période de quatre
-années suivant celle de l'achat, de l'acquisition intracommunautaire, de l'importation ou de la première utilisation des
-biens est substituée à la période de dix-neuf années et le reversement ou la déduction complémentaire est calculé par
-cinquième au lieu de vingtième
+a. Qui ont été volés ou détruits, dès lors qu'il est justifié du vol ou de la destruction ;
 
-4. La déduction supplémentaire dont les principes sont exposés aux 2 et 3 est opérée en fonction des règles fixées aux
-articles 205 à 242 B.
+b. Dont le coefficient d'assujettissement de référence est nul.
 
-5. L'obligation de reversement résultant des 2 et 3 doit être accomplie avant le 25 avril de l'année suivante. La déduction
-complémentaire est effectuée dans le même délai.
+IV. - 1. Par dérogation au III, en cas de cession ou d'apport soumis à la taxe sur la valeur ajoutée sur le prix total ou la
+valeur totale d'un immeuble affecté à l'habitation, la taxe initiale peut être déduite intégralement.
 
-6. Lorsqu'un redevable réalise des opérations situées hors du champ d'application de la taxe sur la valeur ajoutée et des
-opérations imposables à la taxe sur la valeur ajoutée, il doit comptabiliser ces opérations dans des comptes distincts pour
-l'application du droit à déduction de la taxe sur la valeur ajoutée.
+2. Lorsqu'un bien en stock, ou un bien immobilisé non encore utilisé, vient à être utilisé à des opérations ouvrant droit à
+déduction, la taxe initiale peut être déduite à proportion du coefficient de déduction résultant de ce changement.
 
-**Nota:**
+V. - 1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 271 du code général des impôts
+ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article ou au 3 du I de l'article
+210.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+2. Les coefficients d'assujettissement, de taxation et d'admission de référence sont initialement égaux aux coefficients
+retenus pour le calcul de la déduction opérée en application de l'article 206 lors de l'acquisition, de l'importation ou de
+la livraison à soi-même du bien. Le cas échéant :
+
+1° Après chaque déduction opérée en application des dispositions du 3 du III du présent article lors d'un transfert entre
+secteurs d'activité mentionné au 1° du 1 de ce même III, ils prennent la valeur des coefficients retenus pour la
+détermination du montant de cette déduction ;
+
+2° Après chaque régularisation opérée en application des dispositions des 3° à 5° du 1 du III du présent article, ils
+prennent la valeur des coefficients mentionnés respectivement aux 3° à 5° du 2 de ce même III.
+
+Le coefficient de déduction de référence est égal au produit des coefficients d'assujettissement, de taxation et d'admission
+de référence résultant des dispositions qui précèdent.
+
+VI. - Le montant de la taxe dont la déduction a déjà été opérée doit être reversé dans les cas suivants :
+
+1° Lorsque les marchandises ont disparu ;
+
+2° Lorsque les biens ou services ayant fait l'objet d'une déduction de la taxe qui les avait grevés ont été utilisés pour une
+opération qui n'est pas effectivement soumise à l'impôt.
+
+Ce reversement doit être opéré avant le 25 du mois qui suit celui au cours duquel l'événement qui motive le reversement est
+intervenu. Toutefois, ces reversements ne sont pas exigés lorsque les biens ont été détruits avant toute utilisation ou
+cession, ou volés, et qu'il est justifié de cette destruction ou de ce vol.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 256, 212
-	  - CGIAN2 205 à 242 B
+	  - CGI 257 bis, 271
+	  - CGIAN2 205, 206, 209, 210
 
-	**Modifié par**:
-
-	  - Décret n°95-1328 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
-	  - Décret n°95-1328 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
-	**Liens**:
+	**Cité par**:
 
-	  - HISTO: Edition du 12 mai 1996
-	  - TXT_ASSOCIE: Instruction 1998-10-07 3D-5-98
-	  - TXT_ASSOCIE: Instruction 1999-12-22 3D-6-99
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (M)
 
 	**Codifié par**:
 
-	  - L'abrogation sera codifiée ultérieurement
+	  - L'article sera codifié ultérieurement
 
+
+##### C : Dispositions diverses
 
 ##### a : Dispositions applicables aux entreprises qui sont assujetties à la taxe sur la valeur ajoutée pour l'ensemble de leurs activités.
 
 ###### Article 208
 
-La déduction de la taxe ayant grevé les biens constituant des immobilisations est opérée par imputation sur la taxe due par
-l'entreprise au titre du mois pendant lequel le droit à déduction a pris naissance.
+I. - Le montant de la taxe déductible doit être mentionné sur les déclarations déposées pour le paiement de la taxe sur la
+valeur ajoutée. Toutefois, à condition qu'elle fasse l'objet d'une inscription distincte, la taxe dont la déduction a été
+omise sur cette déclaration peut figurer sur les déclarations ultérieures déposées avant le 31 décembre de la deuxième année
+qui suit celle de l'omission. Les régularisations prévues à l'article 207 doivent également être mentionnées distinctement
+sur ces déclarations.
 
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+II. - Lorsque, sur une déclaration, le montant de la taxe déductible excède le montant de la taxe due, l'excédent de taxe
+dont l'imputation ne peut être faite est reporté, jusqu'à épuisement, sur les déclarations suivantes. Toutefois, cet excédent
+peut faire l'objet de remboursements dans les conditions fixées par les articles 242-0 A à 242-0 K.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGIAN2 207, 242-0 A à 242-0 K
+
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 3 (V) JORF 31 décembre 1979
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 209
 
-Les assujettis qui réalisent exclusivement des opérations ouvrant droit à déduction sont autorisés à déduire la totalité de
-la taxe sur la valeur ajoutée qui a grevé les biens constituant des immobilisations.
+I. - Les opérations situées hors du champ d'application de la taxe sur la valeur ajoutée et les opérations imposables doivent
+être comptabilisées dans des comptes distincts pour l'application du droit à déduction.
 
-**Nota:**
+Il en va de même pour les secteurs d'activité qui ne sont pas soumis à des dispositions identiques au regard de la taxe sur
+la valeur ajoutée.
 
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+Sont constitués en secteurs d'activité :
+
+1° Chaque immeuble ou ensemble d'immeubles ou fraction d'immeuble composé de logements sociaux à usage locatif dont la
+livraison à soi-même est imposable en application des neuvième à douzième alinéas du c du 1 du 7° de l'article 257 du code
+général des impôts ou dans lequel sont réalisés des travaux d'amélioration, de transformation ou d'aménagement de logement
+dont les livraisons à soi-même sont imposables en application des 7° bis et 7° quater de ce même article ;
+
+2° Les immeubles, ensembles d'immeubles ou fractions d'immeubles dont la location est imposée en application du 2° de
+l'article 260 du code général des impôts ;
+
+3° Les services mentionnés à l'article 260 A du code général des impôts ;
+
+4° Pour les organismes agissant sans but lucratif désignés au a du 1° du 7 de l'article 261 du code général des impôts :
+
+a. L'ensemble de leurs opérations qui ne sont pas soumises à la taxe sur la valeur ajoutée et des ventes qu'ils consentent à
+leurs membres au-delà de 10 % de leurs recettes totales ;
+
+b. chacune des manifestations de bienfaisance ou de soutien qu'ils organisent et dont les recettes sont imposables à la taxe
+sur la valeur ajoutée ;
+
+5° Chaque opération de lotissement ou d'aménagement de zone réalisée par les collectivités territoriales ou leurs
+groupements.
+
+II. - Les biens d'investissement ouvrant droit à déduction sont inscrits dans la comptabilité de l'entreprise pour leur prix
+d'achat ou de revient diminué de la déduction à laquelle ils donnent droit, rectifié, le cas échéant, conformément aux
+dispositions de l'article 207.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 257, 260, 260 A, 261
+	  - CGIAN2 207
+
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 4 (V) JORF 31 décembre 1979
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 206 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (VD)
 
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
 
 ##### b : Transfert du droit à déduction
 
 ###### Article 210
 
-I. Lorsque des immeubles sont cédés ou apportés avant le commencement de la dix-neuvième année (1) qui suit celle de leur
-acquisition ou de leur achèvement et que la cession ou l'apport ne sont pas soumis à la taxe sur le prix total ou la valeur
-totale de l'immeuble, l'assujetti est redevable d'une fraction de la taxe antérieurement déduite. Cette fraction est égale au
-montant de la déduction diminuée d'un vingtième (2) par année civile ou fraction d'année civile écoulée depuis la date à
-laquelle l'immeuble a été acquis ou achevé. Sont assimilés à une cession ou un apport la cessation de l'activité ou la
-cessation des opérations ouvrant droit à déduction ainsi que le transfert entre différents secteurs d'activités d'un
-assujetti prévus à l'article 213. Lorsque le droit à déduction n'a été ouvert qu'après la date de l'acquisition ou de
-l'achèvement de l'immeuble, la date de l'ouverture du droit à déduction se substitue à cette date. Lorsqu'un immeuble acquis
-ou construit en vue de la vente est utilisé directement par l'assujetti, la date de la première utilisation se substitue à
-celle de l'acquisition ou de l'achèvement.
+I.-1. La taxe sur la valeur ajoutée qui a grevé certains biens constituant des immobilisations et utilisés pour la
+réalisation d'opérations ouvrant droit à déduction peut être déduite, dans les conditions et suivant les modalités prévues au
+2 et au 3, par l'entreprise utilisatrice qui n'en est pas elle-même propriétaire. 
 
-II. Les dispositions du I s'appliquent aux autres biens constituant des immobilisations qui sont cédés, apportés ou ont
-disparu avant le commencement de la quatrième année qui suit celle de leur acquisition, de leur importation ou de leur
-première utilisation. Toutefois, la diminution est d'un cinquième au lieu d'un vingtième (2) par année civile ou fraction
-d'année civile.
+2. La taxe déductible est celle afférente : 
 
-III. L'obligation prévue au présent article peut être transférée à une société absorbante ou à une société bénéficiaire de
-l'apport du bien.
+1° Aux dépenses exposées pour les investissements publics que l'Etat, les collectivités territoriales ainsi que leurs
+groupements, ou leurs établissements publics confient à l'entreprise utilisatrice afin qu'elle assure, à ses frais et
+risques, la gestion du service public qu'ils lui ont déléguée ; 
 
-Elle ne concerne pas les immeubles pour lesquels la déduction initiale ne pouvait plus donner lieu à régularisation à la date
-d'entrée en vigueur du décret n° 75-102 du 20 février 1975 modifiant certaines dispositions relatives aux conditions de
-déduction de la taxe sur la valeur ajoutée qui a grevé des biens constituant des immobilisations.
+2° Aux immeubles édifiés par les sociétés de construction dont les parts ou actions donnent vocation à l'attribution en
+propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble. 
 
-Elle ne concerne pas les autres biens constituant des immobilisations lorsque le redevable justifie qu'ils lui ont été volés.
+3. La taxe déductible est celle due ou supportée à raison de l'acquisition ou de la construction du bien, ou de la
+réalisation des travaux. La mise à disposition ou l'entrée en jouissance du bien, le retrait ou l'interruption dans la
+jouissance du bien sont assimilés à des transferts de propriété. Les personnes énumérées au 2 délivrent à l'utilisateur une
+attestation du montant de la taxe qui a grevé le bien. Une copie est adressée au service des impôts. 
 
-IV. Sous réserve que le bien constitue une immobilisation pour le bénéficiaire de la cession, de l'apport ou du transfert,
-celui-ci peut opérer la déduction de la taxe ayant initialement grevé le bien diminuée dans les conditions précitées. A cette
-fin, le cédant ou l'apporteur délivre au bénéficiaire une attestation mentionnant le montant de la taxe qu'il est en droit de
-déduire. La taxe ayant initialement grevé le bien s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 271
-du code général des impôts ou de la fraction de taxe mentionnée tant au 3° de l'article 226 qu'à l'article 226 bis. Le
-bénéficiaire d'une cession ou d'un apport ultérieur peut également opérer la déduction d'une fraction, calculée dans les
-conditions précitées, de la taxe que le précédent propriétaire était en droit de déduire.
+II.-Les redevables de la taxe sur la valeur ajoutée qui, compte tenu des dispositions du 2° du 1 et du 2° du 4 de l'article
+298 du code général des impôts, ne peuvent opérer eux-mêmes les déductions auxquelles ils ont droit sont autorisés à
+transférer leurs droits à déduction aux redevables de la taxe sur la valeur ajoutée exigible lors de la mise à la
+consommation des produits pétroliers et assimilés énumérés au tableau B de l'article 265 du code des douanes. 
 
-**Nota:**
-
-(1) Neuvième année pour les immeubles livrés, acquis ou apportés avant le 1er janvier 1996.
-
-(2) Un dixième pour les immeubles livrés, acquis ou apportés avant le 1er janvier 1996.    NOTA : La présente version de cet
-article est en vigueur jusqu'au 1er janvier 2008.
+Ce transfert s'effectue sous le couvert de certificats de transfert de droits à déduction, délivrés par la direction générale
+des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 213, 223 1, 226 bis, 226
-	  - Décret n°75-102 1975-02-20
-
 	**Modifié par**:
 
-	  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 	**Cité par**:
 
@@ -10101,951 +10200,9 @@ article est en vigueur jusqu'au 1er janvier 2008.
 	  - Code général des collectivités territoriales - art. R1615-2 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
-	  - TXT_ASSOCIE: Instruction 2002-05-17 3D-2-02
-	  - TXT_ASSOCIE: Instruction 2002-12-27 3I-1-02
-
-
-###### Article 211
-
-Lorsqu'un bien constituant une immobilisation est cédé ou apporté avant l'expiration des périodes prévues à l'article 210 et
-que la cession ou l'apport sont soumis à la taxe sur la valeur ajoutée sur le prix total ou la valeur totale du bien,
-l'assujetti peut opérer une déduction complémentaire si la taxe qui a grevé le bien n'a pas initialement fait l'objet d'une
-déduction totale. Le montant de cette déduction complémentaire est égal à la différence entre le montant de la taxe qui a
-grevé le bien et le montant de la déduction initiale, diminuée d'un cinquième par année civile ou fraction d'année civile
-écoulée entre la date à laquelle le droit à déduction a pris naissance et la date à laquelle la taxe est devenue exigible au
-titre de la cession ou de l'apport. Pour les immeubles, la diminution est calculée par vingtièmes.
-
-Lorsque le bien cédé ou apporté était exclu du droit à déduction, l'assujetti peut opérer une déduction égale au montant de
-la taxe qui a grevé le bien diminué d'un cinquième ou d'un vingtième s'il s'agit d'un immeuble, par année civile ou fraction
-d'année civile écoulée depuis la date d'acquisition d'importation ou de la première utilisation du bien. Pour les immeubles
-affectés à l'habitation, le montant de la déduction est égal au montant de la taxe qui les a grevés.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 210
-
-	**Modifié par**:
-
-	  - Décret n°2005-1285 du 11 octobre 2005 - art. 1 () JORF 18 octobre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Codifié par**:
 
-	  - L'abrogation sera codifiée ultérieurement
-
-
-##### A : Dispositions relatives aux biens constituant des immobilisations.
-
-##### b : Dispositions applicables aux entreprises qui ne réalisent pas exclusivement des opérations ouvrant droit à déduction.
-
-###### Article 212
-
-1. Les redevables qui, dans le cadre de leurs activités situées dans le champ d'application de la taxe sur la valeur ajoutée,
-ne réalisent pas exclusivement des opérations ouvrant droit à déduction sont autorisés à déduire une fraction de la taxe sur
-la valeur ajoutée qui a grevé les biens constituant des immobilisations utilisées pour effectuer ces activités.
-
-Cette fraction est égale au montant de la taxe déductible obtenu, après application, le cas échéant, des dispositions de
-l'article 207 bis, multiplié par le rapport existant entre :
-
-a) Au numérateur, le montant total annuel du chiffre d'affaires, taxe sur la valeur ajoutée exclue, afférent aux opérations
-ouvrant droit à déduction y compris les subventions directement liées au prix de ces opérations ;
-
-b) Au dénominateur, le montant total annuel du chiffre d'affaires, taxe sur la valeur ajoutée exclue, afférent aux opérations
-figurant au numérateur ainsi qu'aux opérations qui n'ouvrent pas droit à déduction, et de l'ensemble des subventions, y
-compris celles qui ne sont pas directement liées au prix de ces opérations.
-
-Les sommes à mentionner aux deux termes de ce rapport s'entendent tous frais et taxes compris à l'exclusion de la taxe sur la
-valeur ajoutée.
-
-Le rapport fixé en pourcentage est arrondi à un chiffre qui ne dépasse pas l'unité supérieure.
-
-L'Etat, les collectivités locales et les établissements publics n'inscrivent les virements financiers internes provenant de
-leur budget qu'au seul dénominateur du rapport.
-
-2. Par dérogation aux dispositions du 1, il est fait abstraction, pour le calcul du pourcentage de déduction, du montant du
-chiffre d'affaires afférent :
-
-a) Aux cessions des biens d'investissements corporels ou incorporels ;
-
-b. Au produit des opérations immobilières et financières accessoires exonérées de la taxe sur la valeur ajoutée. Sont
-considérées comme accessoires les opérations qui présentent un lien avec l'activité principale de l'entreprise et dont la
-réalisation nécessite une utilisation limitée au maximum à un dixième des biens et des services grevés de taxe sur la valeur
-ajoutée qu'elle a acquis. Ce pourcentage est apprécié en fonction de la proportion d'utilisation pour ces opérations de
-chaque bien et service grevé de taxe sur la valeur ajoutée. Cette proportion est appliquée à la valeur de l'acquisition par
-le redevable de chacun de ces biens et services pour déterminer leur valeur d'utilisation. Le pourcentage résulte du rapport
-entre, au numérateur, la somme des valeurs d'utilisation ainsi déterminées et, au dénominateur, le montant total de la valeur
-d'acquisition de ces biens et services.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 207 bis
-
-	**Modifié par**:
-
-	  - Décret n°2005-1648 du 26 décembre 2005 - art. 1 () JORF 28 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 213
-
-Lorsqu'un assujetti a des secteurs d'activités qui ne sont pas soumis à des dispositions identiques au regard de la taxe sur
-la valeur ajoutée, ces secteurs font l'objet de comptes distincts pour l'application du droit à déduction.
-
-Constitue un secteur d'activité chaque immeuble ou ensemble d'immeubles ou fraction d'immeuble composé de logements sociaux à
-usage locatif dont la livraison à soi-même est imposable en application des neuvième et dixième alinéas du c du 1 du 7° de
-l'article 257 du code général des impôts ou dans lequel sont réalisés des travaux d'amélioration, de transformation ou
-d'aménagement de logement dont les livraisons à soi-même sont imposables en application du 7° bis de ce même article.
-
-Le montant de la taxe déductible au titre des biens communs aux différents secteurs est déterminé par application du rapport
-prévu à l'article 212.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 257
-	  - CGIAN2 212
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-	  - L'abrogation sera codifiée ultérieurement
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-
-##### b : Dispositions applicables aux entreprises qui ne sont pas assujetties à la taxe sur la valeur ajoutée pour l'ensemble de leurs activités.
-
-###### Article 214
-
-Le rapport, prévu à l'article 212 est déterminé provisoirement en fonction du chiffre d'affaires réalisé l'année précédente
-ou du chiffre d'affaires prévisionnel de l'année en cours. Le montant des taxes déductibles est définitivement arrêté avant
-le 25 avril de l'année suivante.
-
-Toutefois, en 1992, les personnes qui ont exercé l'option prévue à l'article 260 B du code général des impôts et qui
-déterminent provisoirement le rapport de déduction prévu à l'article 212 de la présente annexe en fonction du chiffre
-d'affaires réalisé l'année précédente doivent inscrire au seul dénominateur du rapport le montant du chiffre d'affaires
-afférent aux opérations mentionnées aux d et g du 1° de l'article 216 C du même code.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 260 B, 216 C
-	  - CGIAN2 212
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°91-716 1991-07-26 art. 7
-	  - HISTO: Edition du 2 septembre 1994
-
-	**Modifié par**:
-
-	  - Décret n°94-452 du 3 juin 1994 - art. 3 () JORF 5 juin 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-##### *REGULARISATIONS DES DEDUCTIONS INITIALES : VARIATION DU PRORATA DANS LE TEMPS*
-
-###### Article 215
-
-I. Lorsque le rapport entre le montant annuel du chiffre d'affaires afférent à des opérations ouvrant droit à déduction et le
-montant du chiffre d'affaires afférent à l'ensemble des opérations réalisées par l'assujetti diminue de plus de dix centièmes
-dans les dix-neuf années  qui suivent celle de l'achèvement ou de l'acquisition d'un immeuble, l'assujetti est redevable
-d'une fraction de la taxe initialement déduite. Cette fraction est égale au vingtième  de la différence entre le produit de
-la taxe qui a grevé l'immeuble par le rapport initial et le produit de la même taxe par le rapport de l'année considérée. Les
-assujettis qui cessent de réaliser exclusivement des opérations ouvrant droit à déduction sont tenus à la même obligation.
-
-Lorsque le rapport entre le montant annuel des recettes afférentes à des opérations ouvrant droit à déduction et le montant
-des recettes afférentes à l'ensemble des opérations réalisées par l'assujetti augmente de plus de dix centièmes dans les dix-
-neuf années qui suivent celle de l'acquisition ou de l'achèvement d'un immeuble, l'assujetti peut opérer une déduction
-complémentaire. Celle-ci est égale au vingtième  de la différence entre le produit de la taxe qui a grevé l'immeuble par le
-rapport de l'année considérée et le produit de la même taxe par le rapport initial.
-
-Lorsque l'immeuble est partiellement utilisé pour des opérations situées hors du champ d'application de la taxe sur la valeur
-ajoutée, le calcul de la régularisation s'effectue à partir du montant de la taxe déductible, calculé après application de la
-proportion visée à l'article 207 bis et déterminé au titre de l'année considérée.
-
-Lorsque le droit à déduction n'a été ouvert qu'après la date de l'achèvement ou de l'acquisition de l'immeuble, la date de
-l'ouverture du droit à déduction se substitue à cette date. Lorsqu'un immeuble acquis ou construit en vue de la vente est
-utilisé directement par l'assujetti, la date de la première utilisation se substitue à celle de l'acquisition ou de
-l'achèvement.
-
-II. Les dispositions du I sont applicables aux autres biens constituant des immobilisations. Toutefois, la période de quatre
-années suivant celle de l'acquisition, de l'importation ou de la première utilisation des biens est substituée à la période
-de dix-neuf années et la fraction de taxe due ou la déduction complémentaire sont calculées par cinquièmes au lieu de
-vingtièmes.
-
-III. L'obligation résultant du présent article doit être accomplie avant le 25 avril de l'année suivante. La déduction
-complémentaire est effectuée dans le même délai.
-
-IV. Les dispositions du présent article ne concernent pas les immeubles pour lesquels la déduction initiale ne pouvait plus
-donner lieu à régularisation à la date d'entrée en vigueur du décret n° 75-102 du 20 février 1975 modifiant certaines
-dispositions relatives aux conditions de déduction de la taxe sur la valeur ajoutée qui a grevé des biens constituant des
-immobilisations.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 207 bis
-	  - Décret n°75-102 1975-02-20
-
-	**Modifié par**:
-
-	  - Décret n°95-1328 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
-	  - Décret n°95-1328 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-##### c : Dispositions applicables aux entreprises qui utilisent des biens dont elles ne sont pas propriétaires.
-
-###### Article 216 bis
-
-La taxe sur la valeur ajoutée qui a grevé certains biens constituant des immobilisations et utilisés pour la réalisation
-d'opérations ouvrant droit à déduction peut être déduite, dans les conditions et suivant les modalités prévues par les
-articles 216 ter et 216 quater, par l'entreprise utilisatrice qui n'en est pas elle-même propriétaire.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 216 ter, 216 quater
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 12 (V) JORF 31 décembre 1979
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 216 quater
-
-I. La taxe déductible est celle due ou supportée soit par le propriétaire, soit par l'utilisateur, à raison de l'acquisition
-ou de la construction du bien, ou de la réalisation des travaux. La mise à disposition ou l'entrée en jouissance du bien, le
-retrait ou l'interruption dans la jouissance du bien sont assimilés à des transferts de propriété.
-
-II. Les personnes énumérées au 1° et au 2° de l'article 216 ter délivrent à l'utilisateur une attestation du montant de la
-taxe qui a grevé le bien. Une copie est adressée à la direction des services fiscaux.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 216 ter
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 14 (V) JORF 31 décembre 1979
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 216 ter
-
-La taxe déductible est celle afférente :
-
-1° aux investissements publics que l'Etat, les collectivités locales et leurs établissements publics ont concédés ou affermés
-lorsque leur coût constitue l'un des éléments du prix du service soumis à la taxe ;
-
-2° aux immeubles édifiés par les sociétés de construction dont les parts ou actions donnent vocation à l'attribution en
-propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble ;
-
-3° aux travaux de grosses réparations ou d'améliorations d'immeubles à la charge du preneur.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°89-885 du 14 décembre 1989 - art. 2 (V) JORF 15 décembre 1989
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-##### B : Dispositions relatives aux biens ne constituant pas des immobilisations et aux services.
-
-###### Article 218
-
-Les assujettis qui réalisent exclusivement des opérations ouvrant droit à déduction sont autorisés à déduire la totalité de
-la taxe sur la valeur ajoutée qui a grevé ces mêmes biens ou services.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 15 (V) JORF 31 décembre 1979
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 219
-
-Les assujettis qui ne réalisent pas exclusivement des opérations ouvrant droit à déduction sont autorisés à déduire la taxe
-sur la valeur ajoutée qui a grevé ces mêmes biens et services dans les limites ci-après :
-
-a. Lorsque ces biens et services concourent exclusivement à la réalisation d'opérations ouvrant droit à déduction, la taxe
-qui les a grevés est déductible ;
-
-b. Lorsqu'ils concourent exclusivement à la réalisation d'opérations n'ouvrant pas droit à déduction, la taxe qui les a
-grevés n'est pas déductible ;
-
-c. Lorsque leur utilisation aboutit concurremment à la réalisation d'opérations dont les unes ouvrent droit à déduction et
-les autres n'ouvrent pas droit à déduction, une fraction de la taxe qui les a grevés est déductible. Cette fraction est
-déterminée dans les conditions prévues aux articles 212 à 214.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 212, 213, 214
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 16 (V) JORF 31 décembre 1979
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 1999-05-17 8A-4-99
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 220
-
-Par dérogation aux dispositions de l'article 219, les entreprises visées audit article peuvent être autorisées par
-l'administration à déterminer le montant de leurs droits à déduction pour l'ensemble des biens ne constituant pas des
-immobilisations et pour l'ensemble des services dans les conditions prévues aux articles 212 à 214.
-
-Cette autorisation s'applique obligatoirement pendant une année civile entière; elle est renouvelée par tacite reconduction,
-sauf dénonciation par le contribuable ou par l'administration avant le 31 décembre de l'année considérée.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 219, 212, 213, 214
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 221
-
-1. Le montant de la taxe dont la déduction a déjà été opérée doit être reversé dans les cas ci-après :
-
-Lorsque les marchandises ont disparu;
-
-Lorsque les biens ou services ayant fait l'objet d'une déduction de la taxe qui les avait grevés ont été utilisés pour une
-opération qui n'est pas effectivement soumise à l'impôt.
-
-Ce reversement doit être opéré avant le 25 du mois qui suit celui au cours duquel l'événement qui motive le reversement est
-intervenu.
-
-2. (Abrogé)
-
-3. Les régularisations visées au 1 ne sont pas exigées lorsque les biens ont été détruits avant toute utilisation ou cession
-et qu'il est justifié de cette destruction.
-
-4. Les régularisations visées au 1 ne sont pas exigées lorsque les biens ont été volés et qu'il est justifié de ce vol.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-502 du 26 juin 1984 - art. 2 (V) JORF 28 juin 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 1999-09-28 3D-4-99
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-##### C : Dispositions communes à l'ensemble des biens et aux services.
-
-###### Article 224
-
-1. Les entreprises doivent mentionner le montant de la taxe dont la déduction leur est ouverte sur les déclarations qu'elles
-déposent pour le paiement de la taxe sur la valeur ajoutée.
-
-Cette mention doit figurer sur la déclaration afférente au mois qui est désigné à l'article 208. Toutefois, à condition
-qu'elle fasse l'objet d'une inscription distincte, la taxe dont la déduction a été omise sur cette déclaration peut figurer
-sur les déclarations ultérieures déposées avant le 31 décembre de la deuxième année qui suit celle de l'omission.
-
-2. Lorsque le montant de la taxe déductible ainsi mentionné sur une déclaration excède le montant de la taxe due d'après les
-éléments qui figurent sur cette déclaration, l'excédent de taxe dont l'imputation ne peut être faite est reporté, jusqu'à
-épuisement, sur la ou les déclarations suivantes. Toutefois, cet excédent peut faire l'objet de remboursements dans les
-conditions fixées par les articles 242-0 A à 242-0 K et par le V de l'article 271 du code général des impôts.
-
-3. Les régularisations de déductions auxquelles les assujettis procèdent doivent également être mentionnées distinctement sur
-ces déclarations.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 271 V
-	  - CGIAN2 208, 217, 242-0 à 242-0 K
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1999-05-17 8A-4-99
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-	  - Décret n°99-382 1999-05-18
-
-	**Modifié par**:
-
-	  - Loi n°93-859 1993-06-22 art. 2 I 2 IV Finances rectificative pour 1993 JORF 23 juin 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-
-##### D : Dispositions diverses.
-
-###### Article 225
-
-Les personnes qui deviennent redevables de la taxe sur la valeur ajoutée en cours d'année peuvent, par exception aux
-dispositions de l'article 214, n'arrêter le montant définitif de la taxe déductible qu'à la fin de l'année qui suit celle de
-leur assujettissement à cette taxe.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 214
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 19 (V) JORF 31 DECEMBRE 1979
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 226
-
-Les personnes qui deviennent redevables de la taxe sur la valeur ajoutée peuvent opérer la déduction dans les conditions
-fixées par les articles 205 à 242 B :
-
-1° de la taxe ayant grevé les biens ne constituant pas des immobilisations qu'elles détiennent en stock à la date à laquelle
-elles sont devenues redevables ;
-
-2° de la taxe ayant grevé les biens constituant des immobilisations qui n'ont pas encore commencé à être utilisés à la date à
-laquelle elles sont devenues redevables ;
-
-3° d'une fraction de la taxe sur la valeur ajoutée ayant grevé les biens constituant des immobilisations en cours
-d'utilisation. Cette fraction est égale au montant de la taxe ayant grevé les biens, diminué d'un cinquième par année civile
-ou fraction d'année civile écoulée depuis la date à laquelle cette taxe est devenue exigible. Pour les immeubles, la
-diminution est calculée par vingtièmes (1).
-
-**Nota:**
-
-(1) Par dixièmes pour les immeubles livrés, acquis ou apportés avant le 1er janvier 1996.  La présente version de cet article
-est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 205 à 242 B
-
-	**Modifié par**:
-
-	  - Décret n°95-1328 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
-	  - Décret n°95-1328 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-	  - TXT_ASSOCIE: Instruction 2002-12-27 3I-1-02
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 226 bis
-
-Lorsqu'une disposition réglementaire exclut ou autorise la déduction de la taxe ayant grevé un bien constituant une
-immobilisation en cours d'utilisation, la fraction de taxe dont l'assujetti est redevable est calculée comme il est dit à
-l'article 210, la déduction complémentaire comme il est dit au 3° de l'article 226.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 210
-	  - CGIAN2 226 3°
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 21 (V) JORF 31 décembre 1979
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 229
-
-Les biens d'investissement ouvrant droit à déduction sont inscrits dans la comptabilité de l'entreprise pour leur prix
-d'achat ou de revient diminué de la déduction à laquelle ils donnent droit, rectifié, le cas échéant, conformément aux
-dispositions de l'article 210.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 210
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-##### 2 : Exclusions et restrictions.
-
-###### Article 230
-
-1. La taxe sur la valeur ajoutée ayant grevé les biens et services que les assujettis à cette taxe acquièrent ou qu'ils se
-livrent à eux-mêmes n'est déductible que si ces biens et services sont nécessaires à l'exploitation. Toutefois, la taxe ayant
-grevé les dépenses relatives à des biens et à des services ne peut donner lieu à déduction lorsque le pourcentage de
-l'utilisation de ces biens et services pour les besoins privés de l'assujetti ou pour ceux de son personnel ou plus
-généralement à des fins étrangères à son entreprise est supérieur à 90 % de leur utilisation totale.
-
-2. En outre, l'exercice du droit à déduction est limité ou réduit dans les conditions fixées aux articles 231 à 242 en ce qui
-concerne certaines entreprises et certains biens ou services.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 231 à 242
-
-	**Modifié par**:
-
-	  - Décret n°98-1141 du 15 décembre 1998 - art. 1 () JORF 16 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 2002-07-15 3D-3-02
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-##### A : Limitations concernant certaines entreprises
-
-##### 1° : Marchands de biens - Agences de voyages et organisateurs de circuits touristiques.
-
-###### Article 231
-
-1. Les personnes désignées au 6° de l'article 257 du code général des impôts ne peuvent pas déduire la taxe qui a grevé le
-prix d'acquisition ou de construction des immeubles, de fonds de commerce, actions ou parts de sociétés immobilières.
-
-2. Les agences de voyages et les organisateurs de circuits touristiques désignés au e du 1 de l'article 266 du même code ne
-peuvent pas déduire la taxe afférente au prix payé aux entrepreneurs de transports, aux hôteliers, aux restaurateurs, aux
-entrepreneurs de spectacles et aux autres assujettis qui exécutent matériellement les services utilisés par le client.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 257 6°, 266 1 e
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 22 (V) JORF 31 décembre 1979
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-##### B : Limitations concernant certains biens et services.
-
-###### Article 236
-
-La taxe sur la valeur ajoutée qui a grevé les dépenses supportées par les entreprises pour assurer le logement de leurs
-dirigeants et de leur personnel est exclue du droit à déduction.
-
-Toutefois, cette exclusion n'est pas applicable :
-
-1° Aux dépenses supportées par un assujetti relatives à la fourniture à titre onéreux de logements par cet assujetti ;
-
-2° Aux dépenses relatives à la fourniture à titre gratuit du logement sur les chantiers ou dans les locaux d'une entreprise
-du personnel de gardiennage, de sécurité ou de surveillance.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2002-1466 du 12 décembre 2002 - art. 1 () JORF 19 décembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - TXT_ASSOCIE: Instruction 2000-11-13 3D-2-00
-	  - TXT_ASSOCIE: Instruction 2002-07-15 3D-3-02
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 237
-
-Les véhicules ou engins, quelle que soit leur nature, conçus pour transporter des personnes ou à usages mixtes, qui
-constituent une immobilisation ou, dans le cas contraire, lorsqu'ils ne sont pas destinés à être revendus à l'état neuf,
-n'ouvrent pas droit à déduction.
-
-Il en est de même des éléments constitutifs, des pièces détachées et accessoires de ces véhicules et engins.
-
-Toutefois, cette exclusion ne concerne pas :
-
-Les véhicules routiers comportant, outre le siège du conducteur, plus de huit places assises, et utilisés par des entreprises
-pour amener leur personnel sur les lieux du travail;
-
-Les véhicules ou engins acquis par les entreprises de transports publics de voyageurs et affectés de façon exclusive à la
-réalisation desdits transports.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 1996-04-15 3D-2-96
-	  - TXT_ASSOCIE: Instruction 2000-05-30 3D-1-00
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 238
-
-N'est pas déductible la taxe ayant grevé :
-
-1° des biens cédés sans rémunération ou moyennant une rémunération très inférieure à leur prix normal, notamment à titre de
-commission, salaire, gratification, rabais, bonification, cadeau, quelle que soit la qualité du bénéficiaire ou la forme de
-la distribution, sauf quand il s'agit de biens de très faible valeur ;
-
-2° des biens et services utilisés pour les publicités de la nature de celles qui sont prohibées en vertu des articles L.
-3323-2, L. 3323-4 et L. 3323-5 du code de la santé publique.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Rapport - art. 1 (V) JORF 22 juin 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-	  - L'abrogation sera codifiée ultérieurement
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L3323-2 (V)
-	  - Code de la santé publique - art. L3323-4 (M)
-	  - Code de la santé publique - art. L3323-5 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 240
-
-Les transports de personnes et les opérations accessoires auxdits transports n'ouvrent pas droit à déduction.
-
-Toutefois, cette exclusion ne concerne pas les transports qui sont réalisés soit pour le compte d'une entreprise de
-transports publics de voyageurs, soit en vertu d'un contrat permanent de transport conclu par les entreprises pour amener
-leur personnel sur les lieux de travail.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 241
-
-Les services de toute nature afférents à des biens, produits ou marchandises exclus du droit à déduction n'ouvrent pas droit
-à déduction.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
-
-
-###### Article 242
-
-Les exclusions prévues aux articles 236 et 237 ne sont pas applicables aux biens donnés en location, sous réserve que la
-location soit soumise à la taxe sur la valeur ajoutée.
-
-La location d'un bien n'ouvre droit à déduction pour le preneur que dans la mesure où le bien loué ne serait pas frappé
-d'exclusion en raison de sa nature ou de sa destination, s'il était acquis par lui en pleine propriété.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 236
-	  - CGIAN2 237
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - L'abrogation sera codifiée ultérieurement
+	  - L'article sera codifié ultérieurement
 
 
 ##### 2 bis : Remboursement de crédits de taxe déductible non imputable
@@ -11626,45 +10783,6 @@ ministre de l'économie et des finances, qui en fixe les modalités et condition
 
 ##### 4 : Organismes sans but lucratif
 
-###### Article 242 B
-
-Les organismes agissant sans but lucratif, désignés au a du 1° du 7 de l'article 261 du code général des impôts, qui
-réalisent des opérations imposables à la taxe sur la valeur ajoutée sont, en ce qui concerne l'étendue et les modalités
-d'exercice de leurs droits à déduction, soumis aux règles applicables à l'ensemble des assujettis à cette taxe, sous réserve
-des dispositions particulières ci-après.
-
-L'ensemble des opérations réalisées par les organismes désignés au premier alinéa qui ne sont pas soumises à la taxe sur la
-valeur ajoutée et des ventes qu'ils consentent à leurs membres au-delà de 10 % des recettes totales, constitue un secteur
-d'activité distinct au sens de l'article 213.
-
-Chacune des manifestations de bienfaisance ou de soutien organisées par ces mêmes organismes et dont les recettes sont
-imposables à la taxe sur la valeur ajoutée est considérée comme une opération occasionnelle, également constituée en secteur
-d'activité distinct.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 261
-	  - CGIAN2 213
-
-	**Modifié par**:
-
-	  - Décret n°89-885 du 14 décembre 1989 - art. 5 (V) JORF 15 décembre 1989
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-
-
 ###### Article 242 C
 
 I. - Pour l'application du d du 1° du 7 de l'article 261 du code général des impôts, la transparence financière des
@@ -11995,34 +11113,23 @@ lieu à régularisation lors du dépôt spontané de la déclaration ou en cas d
 
 ###### Article 242 septies I
 
-Pour chaque période d'imposition, le rapport prévu à l'article 212 est calculé à partir des éléments de l'année civile au
-cours de laquelle la période d'imposition s'est ouverte. Lorsque la période d'imposition s'est ouverte et achevée la même
-année, ce rapport est calculé à partir des éléments de l'année précédente.
-
-**Nota:**
-
-NOTA : Un décret en Conseil d'Etat pris en application du 3 de l'article 287 du code général des impôts détermine les
-modalités de versement et de remboursement des acomptes dus à compter du 1er juillet 1999.
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+Pour chaque période d'imposition, le rapport prévu au 1° du 3 du III de l'article 206 est calculé à partir des éléments de
+l'année civile au cours de laquelle la période d'imposition s'est ouverte. Lorsque la période d'imposition s'est ouverte et
+achevée la même année, ce rapport est calculé à partir des éléments de l'année précédente.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 212
+	  - CGIAN2 206
 
 	**Modifié par**:
 
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 7 (V) JORF 31 décembre 1979
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 242 septies J
@@ -12685,28 +11792,6 @@ la société au titre des appels de fonds supplémentaires.
 	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
 
 
-###### Article 249
-
-Les dispositions de l'article 271 du code général des impôts ne sont pas applicables aux cessions visées à l'article 248.
-Toutefois, les assujettis sont autorisés à déduire de la taxe sur la valeur ajoutée afférente auxdites cessions le montant de
-la taxe sur la valeur ajoutée ayant grevé les services rendus pour leur réalisation.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 271
-	  - CGIAN2 248
-
-	**Abrogé par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-
 ###### Article 250
 
 Au moment de l'enregistrement de l'acte ou de la déclaration de transfert de propriété visée à l'article 251, ou de
@@ -12901,38 +11986,31 @@ alinéa. Elle vaut pour toute la durée de l'opération.
 Les collectivités territoriales ou les groupements de collectivités territoriales qui réalisent plusieurs opérations de
 lotissement ou d'aménagement de zone doivent exercer une option pour chacune de ces opérations.
 
-Chaque opération de lotissement ou d'aménagement de zone constitue un secteur distinct pour l'application de l'article 213.
-
 III. - Les collectivités territoriales ou les groupements de collectivités territoriales qui exercent l'option sont soumis à
 l'ensemble des obligations qui incombent aux assujettis à la taxe sur la valeur ajoutée. Les règles relatives à l'assiette, à
 la liquidation, au recouvrement, au contrôle et au contentieux de ladite taxe leur sont applicables.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 257, 213
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
+	  - CGI 257
 
 	**Modifié par**:
 
-	  - Décret n°2000-477 du 2 juin 2000 - art. 2 () JORF 3 juin 2000
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1999-05-17 8A-4-99
+	  - L'article sera codifié ultérieurement
 
 
 ##### Section V : Régimes spéciaux
@@ -13013,22 +12091,21 @@ exploitants agricoles, qu'ils soient propriétaires, fermiers ou métayers.
 En cas de métayage et à défaut d'option conjointe, l'option peut être exercée séparément par le propriétaire ou par le
 métayer pour la part de la récolte lui revenant. Dans ce cas, les droits à déduction de celui qui a opté sont calculés dans
 les conditions prévues pour les personnes qui ne réalisent pas exclusivement des opérations ouvrant droit à déduction. La
-totalité des recettes de la métairie est inscrite au second terme du rapport défini à l'article 212.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+totalité des recettes de la métairie est inscrite au second terme du rapport défini au 1° du 3 du III de l'article 206.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 212
-	  - CGI 298 bis
+	  - CGI 298 bis, 206
 
 	**Modifié par**:
 
-	  - Décret n°83-133 du 23 février 1983 - art. 1 (V) JORF 25 FEVRIER 1983
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 260 E
@@ -13132,31 +12209,26 @@ intéressée deux mois au moins avant son expiration.
 
 ###### Article 260 K
 
-Le rapport prévu au 1 de l'article 212 est calculé par période annuelle d'imposition. Lorsque la période d'imposition est
-inférieure à un an, ce rapport est calculé à partir des éléments de la période annuelle d'imposition précédente. Les
-obligations prévues aux articles 214 et 215 sont accomplies avant le cinquième jour du cinquième mois suivant la clôture de
-la période d'imposition.
+Le rapport prévu au 1° du 3 du III de l'article 206 est calculé par période annuelle d'imposition. Lorsque la période
+d'imposition est inférieure à un an, ce rapport est calculé à partir des éléments de la période annuelle d'imposition
+précédente. Les obligations prévues au 2 du V de l'article 206 et au II de l'article 207 sont accomplies avant le cinquième
+jour du cinquième mois suivant la clôture de la période d'imposition.
 
-L'autorisation prévue à l'article 220 s'applique par période d'imposition. Sa dénonciation doit intervenir avant la date de
-clôture de ladite période.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+Les facultés prévues au 1 du V de l'article 206 s'exercent par période d'imposition.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 212, 214, 215, 220
+	  - CGIAN2 206, 207
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1244 du 27 septembre 2005 - art. 4 () JORF 4 octobre 2005
+	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - L'article sera codifié ultérieurement
 
 
 ##### C : Remboursement forfaitaire
@@ -20879,8 +19951,10 @@ professionnelles de personnes exerçant la même profession, des métiers simila
 unions. 
 
 Les centres doivent avoir pour objet de fournir à leurs adhérents industriels, commerçants, artisans ou agriculteurs tous
-services en matière de gestion notamment dans les domaines de l'assistance technique et de la formation. Ces services sont
-réservés aux membres adhérents. 
+services en matière de gestion notamment dans les domaines de l'assistance technique et de la formation ainsi qu'une analyse
+des informations économiques, comptables et financières en matière de prévention des difficultés économiques et financières.
+Ces services sont réservés aux membres adhérents. Les formations proposées par l'organisme agréé sont également offertes au
+représentant de l'adhérent. 
 
 Ils ne peuvent agir en qualité de mandataires de leurs membres. 
 
@@ -20889,27 +19963,14 @@ comptables pour transmettre les informations correspondant aux obligations décl
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
 	**Modifié par**:
 
-	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 25 novembre 2010 - art. (Ab)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 I (Ab)
-
-	**Cite**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649 quater C (V)
-	  - Code du travail L410
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 B
@@ -20994,61 +20055,65 @@ D'une sanction fiscale prononcée par l'administration pour manoeuvres frauduleu
 ###### Article 371 E
 
 Les statuts du centre précisent les conditions de participation à la gestion du centre des personnes ou organismes qui ont
-pris l'initiative de sa création.
+pris l'initiative de sa création. Au sein du conseil d'administration ou de tout autre organe dirigeant, les adhérents
+doivent être représentés à hauteur d'un minimum d'un tiers des sièges. Les personnes ou organismes autres que les membres
+mentionnés à l'article 1649 quater C du code général des impôts et autres que les adhérents peuvent être membres associés et
+participer au conseil d'administration ou à tout autre organe dirigeant, à hauteur d'un maximum d'un tiers des sièges. 
 
-Ils doivent comporter en outre les stipulations suivantes :
+Ils doivent comporter en outre les stipulations suivantes : 
 
-1° Dans le délai de six mois qui suit la date de clôture de leur exercice comptable, le centre fournit à ses membres
-adhérents, imposés d'après leur bénéfice réel, un dossier comprenant :
+1° Le centre fournit à ses membres adhérents imposés d'après leur bénéfice réel dans un délai de sept mois suivant la clôture
+de leur exercice comptable lorsque celui-ci coïncide avec l'année civile, et dans un délai de six mois lorsque l'exercice
+comptable ne coïncide pas avec l'année civile, un dossier comprenant : 
 
 a. Les ratios et les autres éléments caractérisant la situation financière et économique de l'entreprise : la nature de ces
 ratios et autres éléments est fixée par arrêté du ministre du budget, du ministre de l'agriculture, du ministre de
-l'industrie et du ministre du commerce et de l'artisanat (1) ;
+l'industrie et du ministre du commerce et de l'artisanat (1) ; 
 
-b. Un commentaire sur la situation financière et économique de l'entreprise ;
+b. Un commentaire sur la situation financière et économique de l'entreprise ; 
 
 c. A partir de la clôture du deuxième exercice suivant celui de l'adhésion et dans le même délai de six mois, le centre
 fournit à ses adhérents une analyse comparative des bilans et des comptes d'exploitation de l'entreprise. Toutefois, pour les
 entreprises soumises au régime simplifié d'imposition, seule l'analyse comparative des comptes d'exploitation doit être
-fournie ;
+fournie ; 
+
+d. Un document de synthèse présentant une analyse des informations économiques, comptables et financières de l'entreprise et
+lui indiquant, le cas échéant, les démarches à accomplir ; 
 
 2° Le centre élabore pour ceux de ses membres adhérents qui sont placés sous un régime réel d'imposition les déclarations
-afférentes à leur exploitation destinées à l'administration fiscale, lorsque ces membres en font la demande.
+afférentes à leur exploitation destinées à l'administration fiscale, lorsque ces membres en font la demande. 
 
 Toutefois, ces déclarations ne peuvent porter que sur une période au cours de laquelle les intéressés étaient membres du
-centre ;
+centre ; 
 
-3° L'adhésion au centre implique pour les membres adhérents imposés d'après leur bénéfice réel :
+3° L'adhésion au centre implique pour les membres adhérents imposés d'après leur bénéfice réel : 
 
 a. L'engagement de produire à la personne ou à l'organisme chargé de tenir et de présenter leurs documents comptables tous
-les éléments nécessaires à l'établissement d'une comptabilité sincère de leur exploitation ;
+les éléments nécessaires à l'établissement d'une comptabilité sincère de leur exploitation ; 
 
 b. L'engagement de faire viser leurs déclarations de résultats par l'expert comptable de leur choix qui tient, centralise ou
 surveille leur comptabilité, lorsque les documents comptables ne sont pas tenus et présentés par un centre bénéficiant de
-l'une des habilitations prévues à l'article 371 I ;
+l'une des habilitations prévues à l'article 371 I ; 
 
 c. L'obligation de communiquer au centre le bilan et les comptes d'exploitation générale et de pertes et profits de leur
 exploitation ainsi que tous documents annexes : toutefois, l'obligation de communiquer le bilan au centre ne concerne pas les
-entreprises soumises au régime simplifié d'imposition ;
+entreprises soumises au régime simplifié d'imposition ; 
 
-d. L'obligation pour les entreprises industrielles, commerciales ou artisanales, soumises à un régime de bénéfice réel autre
-que le régime simplifié, de communiquer au centre une ou plusieurs situations comptables provisoires, dont l'une concerne
-obligatoirement les six premiers mois de l'exercice, à fournir avant l'expiration du neuvième mois suivant le début de chaque
-exercice ;
+d. Abrogé ; 
 
 e. L'autorisation pour le centre de communiquer à l'agent de l'administration fiscale qui apporte son assistance technique au
-centre les documents mentionnés au présent article.
+centre les documents mentionnés au présent article. 
 
 En cas de manquements graves ou répétés aux engagements ou obligations sus-énoncés l'adhérent est exclu du centre. Il doit
-être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés.
+être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés. 
 
 (1) Voir annexe IV, art. 164 F unvicies.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
 
 	**Cité par**:
 
@@ -21056,22 +20121,19 @@ En cas de manquements graves ou répétés aux engagements ou obligations sus-é
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 I
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 I (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 164 F unvicies (V)
+	  - Code général des impôts, CGI. - art. 1649 quater C
 
 
 ###### Article 371 EA
 
 Les statuts des centres doivent contenir des stipulations selon lesquelles les centres s'engagent : 
 
-1° A ne faire aucune publicité directe ou indirecte, sauf dans les journaux et bulletins professionnels, et, en ce qui
-concerne les centres de gestion bénéficiant de l'une des habilitations prévues à l'article 371 I, à se conformer aux
-dispositions de l'article 23 de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-
-comptables et réglementant le titre et la profession d'expert-comptable ; 
+1° S'ils ont recours à la publicité, à ne pas porter atteinte à l'indépendance, à la dignité et à l'honneur de l'institution,
+pas plus qu'aux règles du secret professionnel, à la loyauté envers les adhérents et les autres centres se livrant à la même
+activité, quel que soit le support utilisé, et à ne pas avoir recours au démarchage ou à toute autre forme de
+sollicitation ; 
 
 2° A faire figurer sur leur correspondance et sur tous les documents établis par leurs soins leur qualité de centres de
 gestion agréés et les références de la décision d'agrément ; 
@@ -21086,27 +20148,23 @@ assurances les garantissant contre les conséquences pécuniaires de la responsa
 encourir en raison des négligences et fautes commises dans l'exercice de leurs activités ; 
 
 5° Au cas où l'agrément leur serait retiré, à en informer leurs adhérents dès réception de la notification de la décision de
-retrait.
+retrait ; 
+
+6° A réclamer une cotisation dont le montant est identique, pour l'ensemble des adhérents. Toutefois la cotisation réclamée
+aux adhérents relevant des régimes prévus aux articles 64 à 65 B ou 50-0 du code général des impôts peut être réduite.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 23 (M)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 D (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 I
-
 	**Modifié par**:
 
-	  - Loi n°94-679 du 8 août 1994 - art. 50 () JORF 10 août 1994
+	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
+	  - Code général des impôts, CGI. - art. 50-0 (V)
+	  - Code général des impôts, CGI. - art. 64 (V)
+	  - Code des assurances (V)
 
 
 ###### Article 371 EB
@@ -21321,35 +20379,32 @@ vertu des statuts ou du règlement intérieur.
 
 ###### Article 371 L
 
-Pour bénéficier de l'abattement mentionné au 4 bis de l'article 158 du code général des impôts, les industriels, commerçants,
-artisans ou agriculteurs doivent avoir été membres adhérents d'un centre de gestion agréé pendant toute la durée des
-exercices concernés. 
+Pour l'application du 7 de l'article 158 du code général des impôts, un contribuable mentionné au 1° de ce 7 n'est pas
+adhérent d'un centre de gestion agréé s'il n'a pas été membre adhérent d'un tel centre pendant toute la durée de l'exercice
+considéré. 
 
-Si cette condition n'est pas remplie, le bénéfice de l'abattement est toutefois accordé : 
+Cette condition n'est toutefois pas exigée : 
 
-a. En cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'exercice ouvert depuis moins de trois mois à
+a) En cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'exercice ouvert depuis moins de trois mois à
 la date de l'agrément ; 
 
-b. En cas de première adhésion à un centre agréé pour l'imposition du bénéfice de l'exercice ouvert depuis moins de trois
-mois à la date de l'adhésion ; 
+b) En cas de première adhésion à un centre agréé pour l'imposition du bénéfice de l'exercice ouvert depuis moins de cinq mois
+à la date de l'adhésion. Le contribuable ayant repris une activité après cessation est considéré comme adhérant pour la
+première fois ; 
 
-c. En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours déclaré dans les
-conditions prévues à l'article 53 A du code général des impôts. 
+c) En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours déclaré dans les
+conditions prévues à l' article 53 A du code général des impôts. 
 
-Les déclarations de résultats des membres adhérents d'un centre de gestion agréé susceptibles de bénéficier de l'abattement
-prévu au 4 bis de l'article 158 précité doivent être accompagnées d'une attestation fournie par le centre indiquant la date
-d'adhésion et, le cas échéant, la date à laquelle est intervenue la perte de la qualité d'adhérent. Le centre de gestion
-agréé et le membre adhérent concerné sont identifiés sur cette attestation.
+Les déclarations de résultats des membres adhérents d'un centre de gestion agréé, mentionnés au premier alinéa, doivent être
+accompagnées d'une attestation fournie par le centre indiquant la date d'adhésion et, le cas échéant, la date à laquelle est
+intervenue la perte de la qualité d'adhérent. Le centre de gestion agréé et le membre adhérent sont identifiés sur cette
+attestation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 4 () JORF 31 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
 
 	**Cité par**:
 
@@ -21358,12 +20413,8 @@ agréé et le membre adhérent concerné sont identifiés sur cette attestation.
 
 	**Cite**:
 
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 53 A (V)
-	  - Code général des impôts, CGI. - art. 158
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 371 LA
@@ -21488,22 +20539,24 @@ Pour bénéficier de l'agrément prévu à l'article 1649 quater F du code gén�
 professions libérales et de titulaires de charges et offices doivent être légalement constituées. Leurs membres fondateurs
 sont exclusivement soit des ordres professionnels ou des organisations professionnelles légalement constituées de membres de
 professions libérales ou de titulaires de charges et offices, soit des experts comptables ou des sociétés d'expertise
-comptable.
+comptable. 
 
 Les organisations professionnelles mentionnées au premier alinéa comprennent les organismes professionnels dont l'existence
 est prévue par la législation relative aux professions ci-dessus désignées, les syndicats professionnels et leurs unions
 institués conformément aux dispositions des articles L 410 et suivants du code du travail, et les associations
-professionnelles de personnes exerçant la même profession ainsi que leurs unions.
+professionnelles de personnes exerçant la même profession ainsi que leurs unions. 
 
 Les unions ou fédérations d'associations professionnelles regroupant des professions différentes sont également autorisées à
 prendre l'initiative de la création d'une association agréée lorsque chacune des associations qui les composent peut être
-regardée individuellement comme ayant vocation à créer une telle association.
+regardée individuellement comme ayant vocation à créer une telle association. 
 
 Les associations doivent avoir pour objet de développer chez leurs membres l'usage de la comptabilité et de faciliter à ces
-derniers l'accomplissement de leurs obligations administratives et fiscales. Ces services sont réservés aux seuls adhérents
-de l'association exerçant une profession libérale ou titulaires de charges et offices.
+derniers l'accomplissement de leurs obligations administratives et fiscales. Elles fournissent à leurs membres une analyse
+des informations économiques, comptables et financières en matière de prévention des difficultés économiques et financières.
+Ces services sont réservés aux seuls adhérents de l'association exerçant une profession libérale ou titulaires de charges et
+offices. Les formations proposées par l'organisme agréé sont également offertes au représentant de l'adhérent. 
 
-Elles ne peuvent agir en qualité de mandataires de leurs membres.
+Elles ne peuvent agir en qualité de mandataires de leurs membres. 
 
 Toutefois, les associations peuvent recevoir mandat de leurs membres ayant adhéré au système de transfert des données
 fiscales et comptables pour transmettre les informations correspondant aux obligations déclaratives de ces membres.
@@ -21512,24 +20565,11 @@ fiscales et comptables pour transmettre les informations correspondant aux oblig
 
 	**Modifié par**:
 
-	  - Décret n°95-938 du 21 août 1995 - art. 2 () JORF 26 août 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 25 novembre 2010 - art. (Ab)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1649 quater F
-	  - Code du travail L410
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 371 N
@@ -21581,12 +20621,23 @@ Les associations sont soumises aux obligations prévues à l'article 371 D.
 
 ###### Article 371 Q
 
-Les statuts de l'association précisent les conditions de participation à sa gestion des personnes ou organismes fondateurs. 
+Les statuts de l'association précisent les conditions de participation à sa gestion des personnes ou organismes fondateurs.
+Au sein du conseil d'administration ou de tout autre organe dirigeant, les adhérents doivent être représentés à hauteur d'un
+minimum d'un tiers des sièges. Les personnes ou organismes autres que les membres mentionnés à l'article 1649 quater F du
+code général des impôts et autres que les adhérents peuvent être membres associés et participer au conseil d'administration
+ou à tout autre organe dirigeant, à hauteur d'un maximum d'un tiers des sièges. 
 
 Les statuts des associations doivent contenir les clauses suivantes : 
 
 1° L'association a pour objet de fournir à ses membres adhérents des services ou informations qui leur permettent de
-développer l'usage de la comptabilité et qui facilitent l'accomplissement de leurs obligations administratives et fiscales ; 
+développer l'usage de la comptabilité et qui facilitent l'accomplissement de leurs obligations administratives et fiscales.
+L'association fournit à ses membres adhérents, dans un délai de sept mois qui suit la date de clôture de leur exercice, un
+document de synthèse présentant une analyse des informations économiques, comptables et financières de l'entreprise et lui
+indiquant, le cas échéant, les démarches à accomplir afin de régler ces difficultés ; 
+
+La nature des ratios et autres éléments caractérisant la situation économique et financière de l'entreprise et devant figurer
+dans ce document de synthèse est fixée par arrêté du ministre chargé du budget et du ministre chargé des professions
+libérales ; 
 
 2° L'association élabore pour ceux de ses membres adhérents qui relèvent d'un régime réel d'imposition les déclarations
 relatives à leur activité professionnelle destinées à l'administration fiscale, lorsque ces membres en font la demande. 
@@ -21596,19 +20647,18 @@ l'association ;
 
 3° L'adhésion à l'association implique : 
 
-a.L'engagement par les membres soumis à un régime réel d'imposition de suivre les recommandations qui leur ont été adressées,
-conformément aux articles 371 X à 371 Z, par les ordres et organisations dont ils relèvent, en vue d'améliorer la
+a. L'engagement par les membres soumis à un régime réel d'imposition de suivre les recommandations qui leur ont été
+adressées, conformément aux articles 371 X à 371 Z, par les ordres et organisations dont ils relèvent, en vue d'améliorer la
 connaissance des revenus de leurs ressortissants ; 
 
-b.L'engagement par ceux de ces membres dont les déclarations de bénéfices sont élaborées par l'association de fournir à
+b. L'engagement par ceux de ces membres dont les déclarations de bénéfices sont élaborées par l'association de fournir à
 celle-ci tous les éléments nécessaires à l'établissement de déclarations sincères et complètes ; 
 
-c.L'engagement par ceux de ces membres qui ne font pas élaborer leur déclaration par l'association, mais qui remplissent les
-conditions pour prétendre à l'abattement prévu au 4 bis de l'article 158 du code général des impôts, de communiquer à
-l'association, préalablement à l'envoi au service des impôts de la déclaration prévue à l'article 97 du même code, le montant
-du résultat imposable et l'ensemble des données utilisées pour la détermination de ce résultat ; 
+c. L'engagement par ceux de ces membres qui ne font pas élaborer leur déclaration par l'association, de lui communiquer
+préalablement à l'envoi au service des impôts de la déclaration prévue à l'article 97 du même code, le montant du résultat
+imposable et l'ensemble des données utilisées pour la détermination de ce résultat ; 
 
-d.L'autorisation donnée à l'association de communiquer à l'agent de l'administration fiscale qui apporte son assistance
+d. L'autorisation donnée à l'association de communiquer à l'agent de l'administration fiscale qui apporte son assistance
 technique à l'association les renseignements ou documents mentionnés au présent article ; 
 
 e. En cas de manquements graves ou répétés aux engagements énoncés ci-dessus, l'adhérent sera exclu de l'association. Il
@@ -21618,11 +20668,7 @@ devra être mis en mesure, avant toute décision d'exclusion, de présenter sa d
 
 	**Modifié par**:
 
-	  - Loi n°84-1208 1984-12-29 art. 89 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
 
 	**Cité par**:
 
@@ -21630,51 +20676,50 @@ devra être mis en mesure, avant toute décision d'exclusion, de présenter sa d
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 X (V)
-	  - Code général des impôts, CGI. - art. 158
-	  - Code général des impôts, CGI. - art. 97
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1985
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 X (V)
+	  - Code général des impôts, CGI. - art. 1649 quater F (V)
+	  - Code général des impôts, CGI. - art. 97 (V)
 
 
 ###### Article 371 QA
 
-Les statuts doivent comporter des clauses selon lesquelles les associations s'engagent :
+Les statuts doivent comporter des clauses selon lesquelles les associations s'engagent : 
 
-1° A ne faire aucune publicité, sauf dans les journaux et bulletins professionnels ;
+1° Si elles ont recours à la publicité, à ne pas porter atteinte à l'indépendance, à la dignité et à l'honneur de
+l'institution, pas plus qu'aux règles du secret professionnel, à la loyauté envers les adhérents et les autres associations
+se livrant à la même activité, quel que soit le support utilisé, et à ne pas avoir recours au démarchage ou à toute autre
+forme de sollicitation ; 
 
 2° A faire figurer sur leur correspondance et sur tous les documents établis par leurs soins leur qualité d'associations
-agréées et les références de la décision d'agrément ;
+agréées et les références de la décision d'agrément ; 
 
 3° A informer l'administration fiscale des modifications apportées à leurs statuts et des changements intervenus en ce qui
 concerne les personnes qui les dirigent ou les administrent, dans le délai d'un mois à compter de la réalisation de ces
 modifications ou changements ; pour ces personnes, l'association doit fournir à l'administration fiscale le certificat prévu
-à l'article 371 D ;
+à l'article 371 D ; 
 
 4° A souscrire un contrat auprès d'une société d'assurances ou d'un assureur agréé en application du livre III du code des
 assurances les garantissant contre les conséquences pécuniaires de la responsabilité civile professionnelle qu'elles peuvent
-encourir en raison des négligences et fautes commises dans l'exercice de leurs activités ;
+encourir en raison des négligences et fautes commises dans l'exercice de leurs activités ; 
 
-5° A exiger de toute personne collaborant à leurs travaux le respect du secret professionnel ;
+5° A exiger de toute personne collaborant à leurs travaux le respect du secret professionnel ; 
 
 6° Au cas où l'agrément leur serait retiré, à en informer leurs adhérents dès réception de la notification de la décision de
-retrait d'agrément.
+retrait d'agrément ; 
+
+7° A réclamer une cotisation dont le montant est identique pour l'ensemble des adhérents. Toutefois, la cotisation réclamée
+aux adhérents relevant du régime prévu à l'article 102 ter du code général des impôts peut être réduite.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-1519 du 31 décembre 1977 - art. 9 (Ab) JORF 4 janvier 1978
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 D (V)
+	  - Code général des impôts, CGI. - art. 102 ter
 
 
 ###### Article 371 R
@@ -21794,43 +20839,37 @@ vertu des statuts ou du règlement intérieur.
 
 ###### Article 371 W
 
-Pour bénéficier au titre d'une année civile donnée de l'abattement prévu au 4 bis de l'article 158 du code général des
-impôts, les membres des professions libérales et les titulaires de charges et offices doivent avoir été adhérents d'une
-association agréée pendant toute la durée de l'année ou période d'imposition considérée.
+Pour l'application du 7 de l'article 158 du code général des impôts, un contribuable mentionné au 1° de ce 7 n'est pas
+adhérent d'une association agréée s'il n'a pas été membre adhérent de cette association pendant toute la durée de l'exercice
+considéré. 
 
-Si cette condition n'est pas remplie, le bénéfice de l'abattement est toutefois accordé :
+Cette condition n'est toutefois pas exigée : 
 
-a. en cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'année ou de la période d'imposition
-commencée depuis moins de trois mois à la date de l'agrément ;
+a) En cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'exercice ouvert depuis moins de trois mois à
+la date de l'agrément ; 
 
-b. en cas de première adhésion à une association agréée, pour l'imposition du bénéfice de l'année ou de la période
-d'imposition commencée depuis moins de trois mois à la date de l'adhésion ;
+b) En cas de première adhésion à une association agréée pour l'imposition du bénéfice de l'année ou de la période
+d'imposition commencée depuis moins de cinq mois à la date de l'adhésion. Le contribuable ayant repris une activité après
+cessation est considéré comme adhérant pour la première fois ; 
 
-c. en cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de la période d'imposition en cours à la date du
-retrait.
+c) En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours déclaré dans les
+conditions prévues à l'article 53 A du code général des impôts. 
 
-Les déclarations de résultats des membres adhérents d'une association agréée susceptibles de bénéficier de l'abattement
-doivent être accompagnées d'une attestation fournie par l'association indiquant la date d'adhésion et, le cas échéant, la
-date à laquelle est intervenue la perte de la qualité d'adhérent. L'association agréée et le membre adhérent concerné sont
-identifiés sur cette attestation.
+Les déclarations de résultats des membres adhérents d'une association agréée, mentionnés au premier alinéa, doivent être
+accompagnées d'une attestation fournie par l'association indiquant la date d'adhésion et, le cas échéant, la date à laquelle
+est intervenue la perte de la qualité d'adhérent. L'association agréée et le membre adhérent sont identifiés sur cette
+attestation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-938 du 21 août 1995 - art. 4 () JORF 26 août 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 158
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (V)
+	  - Code général des impôts, CGI. - art. 53 A
 
 
 ###### Article 371 X
