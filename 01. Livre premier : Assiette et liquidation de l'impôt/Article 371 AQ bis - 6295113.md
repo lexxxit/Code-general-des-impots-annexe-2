@@ -1,32 +1,21 @@
 # Article 371 AQ bis
 
-La coordination des centres de formalités des entreprises est assurée par une commission qui veille à l'harmonisation de
-l'application des dispositions des articles 371 AI à 371 AS.
+Conformément à l'article R. 123-28 du code de commerce, une commission de coordination des centres de formalités des
+entreprises veille à l'harmonisation de l'application des dispositions des articles 371 AI à 371 AS, donne son avis sur
+toutes questions relatives au fonctionnement des centres et fait rapport aux ministres compétents des difficultés ou
+anomalies dont elle a connaissance.
 
-Cette commission donne son avis sur toutes questions relatives au fonctionnement des centres dont elle est saisie par ceux-ci
-ou par les organismes destinataires des formalités. Elle peut se saisir d'office.
+**Nota:**
 
-Elle fait rapport aux ministres compétents des difficultés ou anomalies dont elle a connaissance. Elle propose les
-modifications de textes et les réformes de procédure qui en découlent.
-
-La commission comprend un représentant de chacun des ministres assurant la tutelle des centres de formalités des entreprises
-et des organismes destinataires. La commission pour les simplifications administratives, représentée par son rapporteur
-général, participe en tant que de besoin aux réunions de la commission de coordination des centres de formalités des
-entreprises.
-
-Un arrêté du Premier ministre fixe les conditions de fonctionnement de la commission, ainsi que les modalités de publication
-de ses avis.
+Modifications effectuées en conséquence de l'article R. 123-28 du code de commerce.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-375 du 19 mars 2002 - art. 9 () JORF 21 mars 2002
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2002-923 2002-06-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code de commerce - art. R123-28
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AI

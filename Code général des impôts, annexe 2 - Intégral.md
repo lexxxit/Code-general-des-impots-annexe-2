@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2008-03-17
+Version Consolidée au 2008-04-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -721,107 +721,6 @@ mise hors de service desdits éléments.
 
 
 ##### 7 : Plus-values provenant de cessions d'éléments de l'actif immobilisé
-
-###### Article 26
-
-Les dispositions du 2 de l'article 39 terdecies du code général des impôts sont applicables pour la détermination des
-résultats des exercices ou périodes d'imposition ouverts à compter du 1er septembre 1965.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 terdecies 2
-
-	**Modifié par**:
-
-	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-
-
-###### Article 27
-
-Les dispositions des articles 39 duodecies, du 1 de l'article 39 terdecies, des 1, 2, 3 de l'article 39 quaterdecies, des
-premier à troisième alinéas du 1 et du 2 du I de l'article 39 quindecies du code général des impôts sont applicables pour la
-détermination des résultats des exercices ou périodes d'imposition ouverts à compter du 1er septembre 1965.
-
-Les dispositions de l'article 40 du même code cessent de s'appliquer aux plus-values provenant de cessions réalisées par les
-contribuables relevant de l'impôt sur le revenu au titre des bénéfices industriels et commerciaux, au cours d'exercices ou de
-périodes d'imposition définis au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 duodecies, 39 terdecies 1, 39 quaterdecies, 39 quindecies I 1, 39 quindecies 2, 40
-
-	**Modifié par**:
-
-	  - Loi n°77-1467 du 30 décembre 1977 - art. 70 (P) JORF 31 décembre 1977
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - TXT_ASSOCIE: La référence à l'article 39 sexdecies a été supprimée : conséquence de la loi n°1467 du 30 décembre 1977
-
-
-###### Article 28
-
-1. Par dérogation aux dispositions des articles 26 et 27, le régime d'imposition défini aux articles 39 duodecies, 39
-terdecies, aux 1, 2 et 3 de l'article 39 quaterdecies, aux premier à troisième alinéas du 1 et au 2 du I de l'article 39
-quindecies du code général des impôts peut être appliqué, sur la demande des entreprises, aux plus-values provenant de
-cessions d'éléments de l'actif immobilisé réalisées pendant l'exercice ou la période d'imposition en cours à la date du 1er
-septembre 1965.
-
-La même option est ouverte aux entreprises pour les plus-values dont l'imposition a été différée en vertu de l'article 40 du
-code général des impôts et qui n'ont pas encore été remployées à la date susvisée.
-
-2. L'option doit être formulée dans une note annexée à la déclaration des résultats de l'exercice ou de la période
-d'imposition en cours à la date du 1er septembre 1965.
-
-Cette note doit comporter toutes les précisions utiles pour déterminer la nature et le mode de calcul des plus-values pour
-lesquelles l'application du régime visé au 1 est demandée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-
-
-###### Article 29
-
-Les plus-values ayant fait l'objet de l'option prévue à l'article 28 sont soumises à l'impôt au titre de l'exercice ou de la
-période d'imposition en cours à la date du 1er septembre 1965, sous réserve de l'étalement prévu aux 1, 2 et 3 de l'article
-39 quaterdecies du code général des impôts en ce qui concerne les plus-values à court terme.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 quaterdecies
-	  - CGIAN2 28
-
-	**Modifié par**:
-
-	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-
 
 ###### Article 29 A
 
@@ -2175,33 +2074,33 @@ ou droits cédés et le caractère continu de cette détention.
 ###### Article 74-0 G
 
 Pour l'application des dispositions des 12 et 13 de l'article 150-0 D du code général des impôts, les contribuables doivent
-joindre à la déclaration spéciale des plus-values prévue à l'article 74-0 F :
+joindre à la déclaration spéciale des plus-values prévue à l'article 74-0 F : 
 
 a) Soit la copie d'un extrait d'un des jugements mentionnés au premier alinéa du 12 de l'article 150-0 D du code général des
 impôts ou au deuxième alinéa, en cas d'exercice de l'option prévue à cet alinéa, soit la copie de l'une des formalités
-assurant la publicité de ces jugements dans les conditions prévues à l'article 63 du décret n° 2005-1677 du 28 décembre 2005
-dont les dispositions sont applicables aux procédures de redressement judiciaire en vertu de l'article 176 de ce même
-décret ;
+assurant la publicité de ces jugements dans les conditions prévues à l'article R. 621-8 du code de commerce dont les
+dispositions sont applicables aux procédures de redressement judiciaire en vertu de l'article R. 631-7 du même code ; 
 
-b) Une copie d'un document justifiant du nombre de titres détenus à la date du jugement ;
+b) Une copie d'un document justifiant du nombre de titres détenus à la date du jugement ; 
 
 c) Le montant des pertes constatées ainsi que les éléments nécessaires à leur détermination.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 2 et 3-I-74° du décret n° 2007-431 du 25 mars 2007.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 176 (Ab) JORF 29 décembre 2005
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 354 () JORF 29 décembre 2005
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 63 (Ab) JORF 29 décembre 2005
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-356 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code de commerce - art. R621-8
+	  - Code de commerce - art. R631-7
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F (V)
+	  - Code général des impôts, CGI. - art. 150-0 D
 
 
 ###### Article 74-0 G bis
@@ -2735,23 +2634,29 @@ vendeur ou l'exportateur que, le cas échéant, du calcul de la plus-value impos
 
 ###### Article 74 S septies
 
-L'option mentionnée à l'article 150 VL du code général des impôts est irrévocable.
+L'option mentionnée à l'article 150 VL du code général des impôts est irrévocable. 
 
 Lorsque cette option est exercée, le vendeur ou l'exportateur présente, à l'appui de la déclaration prévue par l'article 150
 VM du même code, les éléments permettant d'établir la date et le prix d'acquisition du bien cédé ou exporté ou de justifier
-que ce dernier est détenu depuis plus de douze ans.
+que ce dernier est détenu depuis plus de douze ans. 
 
-En cas d'exportation, la déclaration mentionnée à l'alinéa précédent doit être déposée, accompagnée du paiement de l'impôt
+En cas d'exportation, la déclaration mentionnée au deuxième alinéa doit être déposée, accompagnée du paiement de l'impôt
 éventuellement dû, par l'exportateur ou, le cas échéant, par l'intermédiaire participant à la transaction, au service des
-impôts mentionné aux 1° et 3° du I de l'article 150 VM, préalablement à l'accomplissement des formalités douanières. Elle
-doit ensuite être présentée à la recette des douanes compétente conformément au 2° du I du même article pour valoir
-justificatif de non-paiement de la taxe forfaitaire prévue à l'article 150 VI du code général des impôts.
+impôts mentionné aux 1° et 3° du I de l'article 150 VM du code précité, préalablement à l'accomplissement des formalités
+douanières. Elle doit ensuite être présentée à la recette des douanes compétente conformément au 2° du I du même article pour
+valoir justificatif de non-paiement de la taxe forfaitaire prévue à l'article 150 VI du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1386 du 26 septembre 2007 - art. 1 () JORF 28 septembre 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150 VI
+	  - Code général des impôts, CGI. - art. 150 VL
+	  - Code général des impôts, CGI. - art. 150 VM
 
 
 ###### Article 74 S sexies
@@ -2783,30 +2688,36 @@ ce bien.
 
 Pour le bénéfice des exonérations prévues aux 5° et 6° de l'article 150 VJ du code général des impôts, l'exportateur doit
 justifier, lors de l'accomplissement des formalités douanières, être fiscalement domicilié hors de France et présenter, selon
-le cas, l'un des documents suivants :
+le cas, l'un des documents suivants : 
 
 a. un document, tel que prévu par la législation douanière en vigueur, prouvant que le bien a fait antérieurement l'objet
-d'une importation en France ou dans un autre Etat membre de la Communauté européenne par ses soins ;
+d'une importation en France ou dans un autre Etat membre de la Communauté européenne par ses soins ; 
 
 b. la facture d'acquisition du bien auprès d'un professionnel installé en France ou dans un autre Etat membre de la
-Communauté européenne ;
+Communauté européenne ; 
 
 c. un document mentionnant explicitement le bien concerné et établissant que celui-ci a été acquis par voie de succession ou
-de donation d'une personne résidant en France ou dans un autre Etat membre de la Communauté européenne ;
+de donation d'une personne résidant en France ou dans un autre Etat membre de la Communauté européenne ; 
 
 d. un document prouvant que le bien a été acquis à titre onéreux, en France ou dans un autre Etat membre de la Communauté
-européenne, auprès d'une personne autre que celle mentionnée au b ;
+européenne, auprès d'une personne autre que celle mentionnée au b ; 
 
-e. lorsque l'acquisition visée au d porte sur des biens mentionnés au 1° du I de l'article 150 VI et qu'elle a été effectuée
-en France, ou dans un autre Etat membre de la Communauté européenne auprès d'une personne physique domiciliée en France, un
-document prouvant que cette acquisition a donné lieu au paiement de la taxe ou que le cédant a exercé l'option prévue à
-l'article 150 VL.
+e. lorsque l'acquisition visée au d porte sur des biens mentionnés au 1° du I de l'article 150 VI du code précité et qu'elle
+a été effectuée en France, ou dans un autre Etat membre de la Communauté européenne auprès d'une personne physique domiciliée
+en France, un document prouvant que cette acquisition a donné lieu au paiement de la taxe ou que le cédant a exercé l'option
+prévue à l'article 150 VL du code précité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-1386 du 26 septembre 2007 - art. 1 () JORF 28 septembre 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150 VI
+	  - Code général des impôts, CGI. - art. 150 VJ
+	  - Code général des impôts, CGI. - art. 150 VL
 
 
 ##### Section II : Revenu global
@@ -4113,45 +4024,7 @@ l'expiration du délai au cours duquel l'administration est susceptible d'exerce
 
 ##### Section I : Détermination du bénéfice imposable
 
-###### Article 100
-
-Les dispositions des articles 27 à 29 sont applicables pour la détermination des bénéfices servant de base à l'impôt sur les
-sociétés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 27 à 29
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-
-
 ##### 1° : Bénéfice imposable des caisses de crédit agricole.
-
-###### Article 102 H
-
-Lorsqu'ils sont afférents à des exercices antérieurs au 1er janvier 1979, les intérêts statutaires versés par les caisses
-régionales de crédit agricole mutuel en rémunération des parts détenues par les caisses locales de crédit agricole mutuel
-soumises à l'impôt sur les sociétés dans les conditions de droit commun ne sont pas compris dans les bénéfices imposables
-réalisés en 1979 par ces caisses locales. Aucun avoir fiscal n'est attaché à la distribution de ces intérêts.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°79-1119 du 21 décembre 1979 - art. 1 (V) JORF 26 décembre 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-
 
 ###### Article 102 I
 
@@ -6046,65 +5919,6 @@ effectués.
 
 #### Chapitre II bis : Taxe d'apprentissage
 
-##### I : Déclaration des employeurs
-
-###### Article 140 A
-
-La déclaration prévue à l'article 229 du code général des impôts doit indiquer, outre le nom et l'adresse du déclarant :
-
-1° Le montant global des rémunérations déterminées conformément à l'article 225 du code général des impôts, qui ont été
-versées par l'employeur ;
-
-2° Le montant brut de la taxe dont l'employeur est redevable ;
-
-3° Le montant des dépenses réellement exposées en vue de favoriser les premières formations technologiques et
-professionnelles qui peuvent donner lieu à exonération ;
-
-4° Le montant du versement à effectuer, le cas échéant, auprès des comptables de la direction générale des impôts.
-
-La déclaration doit être rédigée sur un imprimé fourni par l'administration.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'articles 12-I B et V de la loi n° 2007-1787 du 20 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 225, 229
-
-	**Modifié par**:
-
-	  - Décret n°2003-403 du 29 avril 2003 - art. 1 () JORF 2 mai 2003
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 31 août 2003
-
-
-###### Article 140 B
-
-La déclaration doit être déposée au service des impôts du lieu de souscription de la déclaration des résultats de
-l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-
 ##### III : Modalités de versement et exonérations
 
 ###### Article 140 K bis
@@ -6241,39 +6055,40 @@ laquelle s'applique le paiement et le mois.
 ###### Article 143
 
 La régularisation des droits dus en vertu de l'article 231 du code général des impôts et des articles 142 et 383 est
-effectuée par année.
+effectuée par année. 
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 7 156 euros et 14 295 euros et le taux de 9,35 % à la fraction excédant 14 295 euros,
+l'année civile, qui est comprise entre 7 250 euros et 14 481 euros et le taux de 9,35 % à la fraction excédant 14 481 euros,
 et en multipliant le chiffre ainsi déterminé par le rapport qui existe entre le montant de la rémunération qui a été payée
-pendant la période d'application de la majoration et le montant total de la rémunération annuelle.
+pendant la période d'application de la majoration et le montant total de la rémunération annuelle. 
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
-a bénéficié au cours de la période d'application de la majoration les taux de :
+a bénéficié au cours de la période d'application de la majoration les taux de : 
 
-4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 156 euros et 14 295 euros ;
+4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 250 euros et 14 481 euros ; 
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 14 295 euros.
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 14 481 euros.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 2-I-1° de
+la loi n° 2008-1425 du 27 décembre 2008.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 142 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
-
-	**Modifié par**:
-
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 2 () JORF 31 décembre 1993
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 2 (V) JORF 27 décembre 2006
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 383
+	  - Code général des impôts, CGI. - art. 231
 
 
 ###### Article 144
@@ -6281,26 +6096,27 @@ a bénéficié au cours de la période d'application de la majoration les taux d
 La déclaration des traitements et salaires que les employeurs sont tenus de souscrire en exécution des dispositions de
 l'article 87 du code général des impôts doit, pour ceux d'entre eux qui sont redevables en totalité ou partiellement de la
 taxe sur les salaires, faire ressortir distinctement, pour chaque bénéficiaire dont la rémunération individuelle annuelle a
-excédé 7 156 euros, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de
-la majoration de la taxe sur les salaires.
+excédé 7 250 euros, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de
+la majoration de la taxe sur les salaires. 
 
 Elle doit comporter, en outre, l'indication du montant des compléments de droits acquittés en application de l'article 142 à
 raison des rémunérations payées pendant cette même période.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 2-I-1° de
+la loi n° 2007-1822 du 24 décembre 2007.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 	**Modifié par**:
 
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 2 () JORF 31 décembre 1993
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 2 (V) JORF 27 décembre 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 142
+	  - Code général des impôts, CGI. - art. 87
 
 
 #### Chapitre V bis : Taxe sur les services d'informations ou interactifs à caractère pornographique
@@ -6385,72 +6201,93 @@ s'applique le versement, le montant des sommes imposables et le montant de la ta
 
 ###### Article 161
 
-Les employeurs assujettis à la cotisation prévue au 1 de l'article 235 bis du code général des impôts sont tenus de produire
-chaque année, au plus tard le 30 avril, et conformément aux dispositions de l'article *R. 313-3 du code de la construction et
-de l'habitation, une déclaration mentionnant notamment les éléments prévus par ce dernier article.
+I.-Les employeurs assujettis à la cotisation prévue au 1 de l'article 235 bis du code général des impôts sont tenus de
+produire chaque année, au plus tard le 30 avril, et conformément aux dispositions de l'article *R. 313-3 du code de la
+construction et de l'habitation, une déclaration mentionnant notamment les éléments prévus par ce dernier article. 
+
+II.-Les employeurs assujettis à la cotisation prévue au 2 de l'article 235 bis du code général des impôts sont tenus de
+produire chaque année, au plus tard le 30 avril, et conformément aux dispositions de l'article R. 716-28 du code rural, une
+déclaration mentionnant notamment les éléments prévus par ce dernier article.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article R. 716-28 du code rural.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. D133-9-1 (Ab)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 235 bis
+	  - Code rural - art. R716-28
+	  - Code de la construction et de l'habitation. - art. R*313-3
 
 
 ###### Article 162
 
-La cotisation prévue au 1 de l'article 235 bis du code général des impôts est établie, contrôlée et recouvrée conformément
-aux dispositions de l'article [*R. 313-5 du code de la construction et de l'habitation.
+I.-La cotisation prévue au 1 de l'article 235 bis du code général des impôts est établie, contrôlée et recouvrée conformément
+aux dispositions de l'article *R. 313-5 du code de la construction et de l'habitation. 
 
 Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires conformément au
-quatrième alinéa de l'article *]R. 313-5 précité.
+quatrième alinéa de l'article * R. 313-5 précité. 
+
+II.-La cotisation prévue au 2 de l'article 235 bis du code général des impôts est établie, contrôlée et recouvrée
+conformément aux dispositions de l'article R. 716-29 du code rural.
+
+Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires conformément au
+quatrième alinéa de l'article R. 716-29 précité.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article R. 716-29 du code rural.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 235 bis
+	  - Code rural - art. R716-29
+	  - Code de la construction et de l'habitation. - art. R*313-5
 
 
 ###### Article 163
 
-En cas de cession, cessation, redressement ou liquidation judiciaire de l'entreprise ou de décès de l'employeur, la
-déclaration prévue à l'article [*R. 313-3 du code de la construction et de l'habitation afférente à l'année en cours et à
-l'année précédente doit être souscrite conformément aux dispositions de l'article *]R. 313-6 du même code.
+I.-En cas de cession, cessation, redressement ou liquidation judiciaire de l'entreprise ou de décès de l'employeur, la
+déclaration prévue à l'article *R. 313-3 du code de la construction et de l'habitation afférente à l'année en cours et à
+l'année précédente doit être souscrite conformément aux dispositions de l'article *R. 313-6 du même code. 
+
+II.-En cas de cession, cessation, procédure de sauvegarde, redressement ou liquidation judiciaire de l'entreprise ou de décès
+de l'employeur, la déclaration prévue à l'article R. 716-28 du code rural 
+afférente à l'année en cours et à l'année précédente est souscrite conformément aux dispositions de l'article R. 716-30 du
+même code.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article R. 716-30 du code rural.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code rural - art. R716-28
+	  - Code rural - art. R716-30
+	  - Code de la construction et de l'habitation. - art. R*313-3
 
 
 #### Chapitre VI ter : Participation des employeurs au développement de la formation professionnelle continue
@@ -6604,91 +6441,6 @@ définis à l'article R. 950-20 du code du travail.
 	**Cite**:
 
 	  - Code du travail - art. R950-20
-
-
-##### III : Employeurs occupant moins de dix salariés
-
-###### Article 163 quindecies A
-
-Cet article reproduit les dispositions de l'article R. 950-23 du code du travail :
-
-"La déclaration prévue à l'article L. 952-4 doit indiquer, outre la désignation et l'adresse du déclarant :
-
-1° Le montant des salaires payés tels qu'ils sont définis au premier alinéa de l'article L. 952-1 ;
-
-2° Le montant des salaires payés tels qu'ils sont définis au premier alinéa de l'article L. 931-20-1 ;
-
-3° Le montant de l'obligation et des contributions mentionnées aux articles L. 931-20-1 et L. 952-1 ;
-
-4° Le montant des versements effectués aux organismes collecteurs agréés pour recevoir les contributions visées au 3° ci-
-dessus, avec indication de leur dénomination et de l'adresse précise de ces organismes ;
-
-5° Selon les cas, l'absence ou l'insuffisance des versements effectués, compte tenu du montant des contributions dues ;
-
-6° Le cas échéant, la détermination des majorations prévues aux articles L. 952-3 et L. 931-20, cinquième et sixième
-alinéas ;
-
-7° Le montant total du versement à effectuer à la caisse du comptable des impôts ;
-
-8° Le nombre de salariés de l'entreprise par catégorie d'emploi et par sexe ainsi que, le cas échéant, le nombre de salariés
-ayant suivi une action de formation et le nombre d'heures de formation correspondant.
-
-Cette déclaration doit être rédigée en un exemplaire sur un imprimé fourni par l'administration".
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 12-II-1° et V de la loi n° 2007-1787 du 20 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Modifié par**:
-
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 163 quindecies B
-
-Cet article reproduit les dispositions de l'article R. 950-24 du code du travail :
-
-"La déclaration doit être déposée dans les délais prévus au deuxième et, le cas échéant, aux troisième et quatrième alinéas
-de l'article L. 952-4, à la recette des impôts du lieu :
-
-a) Du siège de la direction de l'entreprise ou, à défaut, du principal lieu d'exercice de la profession ou du lieu du
-principal établissement ;
-
-b) De l'exploitation, ou du siège de la direction en cas de pluralité d'exploitations, pour les exploitants agricoles".
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 12-II-1° et V de la loi n° 2007-1787 du 20 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Modifié par**:
-
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Cite**:
-
-	  - Code du travail - art. R950-24
 
 
 ##### IV : Régimes spéciaux
@@ -8071,18 +7823,23 @@ Pour l'application des dispositions du premier alinéa du 1° de l'article 1er-1
 de dépassement d'une des limites relatives au total de bilan, au chiffre d'affaires hors taxes des prestations de services
 accessoires et au bénéfice afférent à ces prestations, le dépassement s'apprécie par référence à la moyenne de cette limite
 constatée l'année du dépassement et l'année précédente. Cette disposition n'est pas applicable lorsque le dépassement est
-constaté à la clôture du premier exercice d'option pour le régime prévu au deuxième alinéa du 3° septies de l'article 208 du
-code général des impôts.
+constaté à la clôture du premier exercice d'option pour le régime prévu au 3° septies de l'article 208 du code général des
+impôts.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 8-V de la loi n° 2000-1352 du 30 décembre 2000.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1
+	  - Code général des impôts, CGI. - art. 208
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 
 ###### Article 171 AM
@@ -8281,71 +8038,82 @@ du 1° de ce même article 1er-1.
 
 ###### Article 171 AQ
 
-I. - A compter de la clôture du cinquième exercice suivant celui au titre duquel une société a opté pour l'un des régimes
-prévus au 3° septies de l'article 208 du code général des impôts ou lorsqu'une augmentation de capital est effectuée
-postérieurement, à compter de la clôture du cinquième exercice suivant celui au cours duquel elle est intervenue, une société
-de capital-risque peut, sur décision de son assemblée générale extraordinaire, mettre fin à son activité d'investissement
-après en avoir informé le service des impôts mentionné à l'article 171 AN.
+I.-A compter de la clôture du cinquième exercice suivant celui au titre duquel une société a opté pour le régime prévu au 3°
+septies de l'article 208 du code général des impôts ou lorsqu'une augmentation de capital est effectuée postérieurement, à
+compter de la clôture du cinquième exercice suivant celui au cours duquel elle est intervenue, une société de capital-risque
+peut, sur décision de son assemblée générale extraordinaire, mettre fin à son activité d'investissement après en avoir
+informé le service des impôts mentionné à l'article 171 AN. 
 
-II. - A compter de l'ouverture du premier exercice d'effet de la décision mentionnée au I, la société de capital-risque :
+II.-A compter de l'ouverture du premier exercice d'effet de la décision mentionnée au I, la société de capital-risque : 
 
 a) N'est plus tenue au respect ni du quota de 50 % prévu au troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du
-11 juillet 1985 ni de la limite de 25 % mentionnée à l'article 171 AO ;
+11 juillet 1985 ni de la limite de 25 % mentionnée à l'article 171 AO ; 
 
-b) Ne peut plus procéder à de nouvelles augmentations de capital ;
+b) Ne peut plus procéder à de nouvelles augmentations de capital ; 
 
-c) Doit cesser ses activités de prestations de services accessoires ;
+c) Doit cesser ses activités de prestations de services accessoires ; 
 
 d) Ne peut réinvestir qu'en parts, actions, obligations remboursables, obligations convertibles ou titres participatifs ainsi
 qu'en avances en comptes courants dans des sociétés non admises aux négociations sur un marché réglementé ou dans des entités
 visées au d du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 dont les titres ou droits figurent déjà à son
-actif.
+actif. 
 
-III. - A compter de l'ouverture de l'exercice suivant le début de la période mentionnée au II, la société de capital-risque
-peut limitativement détenir à son actif :
+III.-A compter de l'ouverture de l'exercice suivant le début de la période mentionnée au II, la société de capital-risque
+peut limitativement détenir à son actif : 
 
 a) Des parts, actions, obligations remboursables, obligations convertibles, titres participatifs de sociétés non admises aux
 négociations sur un marché réglementé, des avances en comptes courants à ces mêmes sociétés ainsi que des droits dans des
-entités visées au d du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 ;
+entités visées au d du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 ; 
 
-b) Les biens meubles et immeubles nécessaires à son fonctionnement ;
+b) Les biens meubles et immeubles nécessaires à son fonctionnement ; 
 
-c) Le placement d'une trésorerie au plus égale à 20 % de sa situation nette comptable.
+c) Le placement d'une trésorerie au plus égale à 20 % de sa situation nette comptable. 
 
 En outre, les sommes à répartir aux actionnaires au titre d'un exercice peuvent être conservées et placées jusqu'à leur
 répartition qui doit intervenir au plus tard à la clôture de l'exercice suivant leur réalisation.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 8-V de la loi n° 2000-1352 du 30 décembre 2000.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 AN
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 AO
+	  - Code général des impôts, CGI. - art. 208
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2002-1030 du 29 juillet 2002 - art. 4, v. init.
-	  - HISTO: Edition du 31 août 2002
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 
 ###### Article 171 AR
 
-L'option prévue au 4° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 pour le régime fiscal du deuxième alinéa du
-3° septies de l'article 208 du code général des impôts s'effectue par lettre simple adressée au service des impôts auprès
-duquel la société de capital-risque dépose sa déclaration de résultats.
+L'option prévue au 4° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 pour le régime fiscal du 3° septies de
+l'article 208 du code général des impôts s'effectue par lettre simple adressée au service des impôts auprès duquel la société
+de capital-risque dépose sa déclaration de résultats.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 8-V de la loi n° 2000-1352 du 30 décembre 2000.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2002-1030 du 29 juillet 2002 - art. 1 () JORF 6 août 2002
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1
+	  - Code général des impôts, CGI. - art. 208
+
+	**Modifié par**:
+
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. D341-4 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 171 AS
@@ -8358,19 +8126,22 @@ l'exercice considéré, le montant du chiffre d'affaires hors taxes et du béné
 
 III. - Les sociétés de capital-risque joignent à leur déclaration de résultats un état, établi selon un modèle fourni par
 l'administration, des bénéfices et réserves distribuables réalisés ou constituées à compter de l'ouverture du premier
-exercice au titre duquel elles ont opté pour le régime fiscal du deuxième alinéa du 3° septies de l'article 208 du code
-général des impôts. Pour les sociétés de capital-risque qui étaient précédemment soumises au régime fiscal du premier alinéa
-du 3° septies de cet article, l'état inclut les réserves distribuables constituées sous ce dernier régime.
+exercice au titre duquel elles ont opté pour le régime fiscal du 3° septies de l'article 208 du code général des impôts.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 8-V de la loi n° 2000-1352 du 30 décembre 2000.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 208
+	  - Loi n°85-695 du 11 juillet 1985
+
 	**Modifié par**:
 
-	  - Décret n°2006-1726 du 23 décembre 2006 - art. 9 () JORF 30 décembre 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 
 ###### Article 171 AS bis
@@ -8613,78 +8384,84 @@ postérieurement à la date de publication du présent décret.
 
 ###### Article 171 AX
 
-I. - Les personnes morales mentionnées au premier alinéa de l'article 242 sexies du code général des impôts déposent, dans
-les mêmes délais que leur déclaration de résultats ou de bénéfices, au titre de l'exercice au cours duquel l'investissement
-est livré, ou achevé lorsqu'il s'agit d'un immeuble, une déclaration spéciale en double exemplaire, conforme à un modèle
-établi par l'administration fiscale, comportant les renseignements suivants :
+I.-Les personnes morales mentionnées au premier alinéa de l'article 242 sexies du code général des impôts déposent, dans les
+mêmes délais que leur déclaration de résultats ou de bénéfices, au titre de l'exercice au cours duquel l'investissement est
+livré, ou achevé lorsqu'il s'agit d'un immeuble, une déclaration spéciale en double exemplaire, conforme à un modèle établi
+par l'administration fiscale, comportant les renseignements suivants : 
 
-1° Les éléments permettant leur identification : dénomination sociale, adresse, code activité et numéro SIREN ;
+1° Les éléments permettant leur identification : dénomination sociale, adresse, code activité et numéro SIREN ; 
 
 2° L'identité de leurs associés ou membres (nom, prénom, dénomination sociale, adresse, numéro SIREN) et la répartition de
-leurs droits dans les résultats ;
+leurs droits dans les résultats ; 
 
-3° Pour chaque investissement financé avec le recours à l'un des dispositifs prévus aux articles 199 undecies A, 199 undecies
-B et 217 undecies du code général des impôts :
+3° Pour chaque investissement financé avec le recours à l'un des dispositifs prévus aux articles 199 undecies A,199 undecies
+B et 217 undecies du code général des impôts : 
 
 a) La nature de l'investissement et le secteur d'investissement, conformément à la liste fixée par l'administration fiscale,
-auquel il est affecté ;
+auquel il est affecté ; 
 
 b) La collectivité sur le territoire de laquelle est situé ou exploité à titre principal l'investissement (Martinique,
 Guadeloupe, Guyane, Réunion, Saint-Martin, Saint-Barthélemy, Saint-Pierre-et-Miquelon, Mayotte, Nouvelle-Calédonie, Polynésie
-française, Wallis-et-Futuna, Terres australes et antarctiques françaises) ;
+française, Wallis-et-Futuna, Terres australes et antarctiques françaises) ; 
 
 c) Le nom de la commune ou, à Wallis-et-Futuna, de la circonscription sur le territoire de laquelle est situé ou exploité à
-titre principal l'investissement ;
+titre principal l'investissement ; 
 
-d) Sa date de livraison ou d'achèvement, ainsi que sa date de mise en location et de début d'exploitation ;
+d) Sa date de livraison ou d'achèvement, ainsi que sa date de mise en location et de début d'exploitation ; 
 
-e) Son prix de revient total hors taxes ;
+e) Son prix de revient total hors taxes ; 
 
 f) S'il y a lieu, la date d'attribution, la nature et le montant de chacune des subventions accordées pour financer
 l'investissement, ainsi que le montant et la nature des aides accordées au titre d'un régime fiscal local d'aide à
-l'investissement ;
+l'investissement ; 
 
 g) L'identification de chacune des entreprises exploitantes ou locataires : dénomination sociale ou commerciale, adresse,
 code activité et numéro SIREN ainsi que, s'il y a lieu, la nature de ses liens avec les personnes morales mentionnées au
-premier alinéa ;
+premier alinéa ; 
 
-h) Le montant de la base de calcul de l'avantage fiscal et, s'il y a lieu, le taux de la réduction d'impôt appliquée ;
+h) Le montant de la base de calcul de l'avantage fiscal et, s'il y a lieu, le taux de la réduction d'impôt appliquée ; 
 
-i) Le cas échéant, la quote-part de l'aide fiscale rétrocédée à l'exploitant ;
+i) Le cas échéant, la quote-part de l'aide fiscale rétrocédée à l'exploitant ; 
 
 j) Le nombre d'emplois directs, en équivalent temps plein, devant être créés ou maintenus pendant les cinq premières années
-d'exploitation de l'investissement ;
+d'exploitation de l'investissement ; 
 
-k) Le cas échéant, la date de l'accord, de l'agrément ou de l'autorisation préalable de l'administration.
+k) Le cas échéant, la date de l'accord, de l'agrément ou de l'autorisation préalable de l'administration. 
 
-II. - Lorsque l'investissement consiste en la réalisation de logements et ouvre droit aux dispositions prévues par les
-articles 199 undecies A ou 217 undecies, la déclaration précise également :
+II.-Lorsque l'investissement consiste en la réalisation de logements et ouvre droit aux dispositions prévues par les articles
+199 undecies A ou 217 undecies du code général des impôts, la déclaration précise également : 
 
-1° Si l'investissement consiste en l'acquisition ou la construction de logements ;
+1° Si l'investissement consiste en l'acquisition ou la construction de logements ; 
 
-2° Le nombre et le type de ces logements ;
+2° Le nombre et le type de ces logements ; 
 
-3° Si la location de ces logements relève du secteur libre ou intermédiaire ;
+3° Si la location de ces logements relève du secteur libre ou intermédiaire ; 
 
 4° Si les logements sont situés sur le territoire d'une zone urbaine sensible définie au 3 de l'article 42 de la loi n°
-95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire ;
+95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire ; 
 
 5° La nature des équipements installés lorsque l'investissement comporte l'acquisition d'équipements utilisant une source
 d'énergie renouvelable.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2007-1661 du 23 novembre 2007 - art. 1 () JORF 25 novembre 2007
+	  - Loi n°95-115 du 4 février 1995 - art. 42
+	  - Code général des impôts, CGI. - art. 199 undecies A
+	  - Code général des impôts, CGI. - art. 242 sexies
+
+	**Modifié par**:
+
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. R114-15 (V)
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
 
 
 ##### VIII : Réductions d'impôts pour l'achat de biens culturels
@@ -9257,11 +9034,11 @@ En conséquence de l'article 82-I de la loi n° 2016-1888 du 28 décembre 2016, 
 
 ###### Article 193
 
-L'option prévue aux premier à troisième alinéas et au sixième alinéa de l'article 260 du code général des impôts est ouverte
-même lorsque l'immeuble n'est pas encore achevé.
+L'option prévue au 2° de l'article 260 du code général des impôts est ouverte même lorsque l'immeuble n'est pas encore
+achevé. 
 
 Les personnes qui donnent en location plusieurs immeubles ou ensembles d'immeubles doivent exercer une option distincte pour
-chaque immeuble ou ensemble d'immeubles.
+chaque immeuble ou ensemble d'immeubles. 
 
 Dans les immeubles ou ensembles d'immeubles comprenant à la fois des locaux nus donnés en location ouvrant droit à l'option
 en application du 2° de l'article 260 du code général des impôts et d'autres locaux, l'option ne s'étend pas à ces derniers
@@ -9271,15 +9048,15 @@ mais elle s'applique globalement à l'ensemble des locaux de la première catég
 
 	**Modifié par**:
 
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 260
 
 
 ###### Article 194
@@ -9789,42 +9566,42 @@ même est déductible à proportion de son coefficient de déduction.
 
 ###### Article 206
 
-I. - Le coefficient de déduction mentionné à l'article 205 est égal au produit des coefficients d'assujettissement, de
-taxation et d'admission.
+I.-Le coefficient de déduction mentionné à l'article 205 est égal au produit des coefficients d'assujettissement, de taxation
+et d'admission. 
 
-II. - Le coefficient d'assujettissement d'un bien ou d'un service est égal à sa proportion d'utilisation pour la réalisation
+II.-Le coefficient d'assujettissement d'un bien ou d'un service est égal à sa proportion d'utilisation pour la réalisation
 d'opérations imposables. Les opérations imposables s'entendent des opérations situées dans le champ d'application de la taxe
 sur la valeur ajoutée en vertu des articles 256 et suivants du code général des impôts, qu'elles soient imposées ou
-légalement exonérées.
+légalement exonérées. 
 
-III. - 1. Le coefficient de taxation d'un bien ou d'un service est égal à l'unité lorsque les opérations imposables
-auxquelles il est utilisé ouvrent droit à déduction.
+III.-1. Le coefficient de taxation d'un bien ou d'un service est égal à l'unité lorsque les opérations imposables auxquelles
+il est utilisé ouvrent droit à déduction. 
 
 2. Le coefficient de taxation d'un bien ou d'un service est nul lorsque les opérations auxquelles il est utilisé n'ouvrent
-pas droit à déduction.
+pas droit à déduction. 
 
 3. Lorsque le bien ou le service est utilisé concurremment pour la réalisation d'opérations imposables ouvrant droit à
 déduction et d'opérations imposables n'ouvrant pas droit à déduction, le coefficient de taxation est calculé selon les
-modalités suivantes :
+modalités suivantes : 
 
-1° Ce coefficient est égal au rapport entre :
+1° Ce coefficient est égal au rapport entre : 
 
 a. Au numérateur, le montant total annuel du chiffre d'affaires afférent aux opérations ouvrant droit à déduction, y compris
-les subventions directement liées au prix de ces opérations ;
+les subventions directement liées au prix de ces opérations ; 
 
 b. Et, au dénominateur, le montant total annuel du chiffre d'affaires afférent aux opérations imposables, y compris les
-subventions directement liées au prix de ces opérations.
+subventions directement liées au prix de ces opérations. 
 
 Les sommes mentionnées aux deux termes de ce rapport s'entendent tous frais et taxes compris, à l'exclusion de la taxe sur la
-valeur ajoutée ;
+valeur ajoutée ; 
 
 2° Lorsqu'un assujetti a constitué des secteurs distincts d'activité en application de l'article 209, le chiffre d'affaires à
 retenir pour le calcul du rapport mentionné au 1° est celui du ou des secteurs pour lesquels le bien ou le service est
-utilisé ;
+utilisé ; 
 
-3° Pour l'application des dispositions du 1°, il est fait abstraction du montant du chiffre d'affaires afférent :
+3° Pour l'application des dispositions du 1°, il est fait abstraction du montant du chiffre d'affaires afférent : 
 
-a. Aux cessions des biens d'investissements corporels ou incorporels ;
+a. Aux cessions des biens d'investissements corporels ou incorporels ; 
 
 b. Au produit des opérations immobilières et financières accessoires exonérées de la taxe sur la valeur ajoutée. Sont
 considérées comme accessoires les opérations qui présentent un lien avec l'activité principale de l'entreprise et dont la
@@ -9833,85 +9610,86 @@ ajoutée qu'elle a acquis. Ce pourcentage est apprécié en fonction de la propo
 chaque bien et service grevé de taxe sur la valeur ajoutée. Cette proportion est appliquée à la valeur d'acquisition par le
 redevable de chacun de ces biens et services pour déterminer leur valeur d'utilisation. Le pourcentage résulte du rapport
 entre, au numérateur, la somme des valeurs d'utilisation ainsi déterminées et, au dénominateur, le montant total de la valeur
-d'acquisition de ces biens et services.
+d'acquisition de ces biens et services. 
 
-IV. - 1. Le coefficient d'admission d'un bien ou d'un service est égal à l'unité, sauf dans les cas décrits aux 2 à 4.
+IV.-1. Le coefficient d'admission d'un bien ou d'un service est égal à l'unité, sauf dans les cas décrits aux 2 à 4. 
 
-2. Le coefficient d'admission est nul dans les cas suivants :
+2. Le coefficient d'admission est nul dans les cas suivants : 
 
-1° Lorsque le bien ou le service est utilisé par l'assujetti à plus de 90 % à des fins étrangères à son entreprise ;
+1° Lorsque le bien ou le service est utilisé par l'assujetti à plus de 90 % à des fins étrangères à son entreprise ; 
 
 2° Lorsque le bien ou le service est relatif à la fourniture à titre gratuit du logement des dirigeants ou du personnel de
 l'entreprise, à l'exception de celui du personnel de gardiennage, de sécurité ou de surveillance sur les chantiers ou dans
-les locaux de l'entreprise ;
+les locaux de l'entreprise ; 
 
 3° Lorsque le bien est cédé sans rémunération ou moyennant une rémunération très inférieure à son prix normal, notamment à
 titre de commission, salaire, gratification, rabais, bonification, cadeau, quelle que soit la qualité du bénéficiaire ou la
 forme de la distribution, sauf quand il s'agit de biens de très faible valeur. Un arrêté du ministre chargé du budget en fixe
-la valeur maximale ;
+la valeur maximale ; 
 
 4° Lorsque le bien ou le service est utilisé pour des publicités prohibées par les articles L. 3323-2, L. 3323-4 et L. 3323-5
-du code de la santé publique ;
+du code de la santé publique ; 
 
 5° Pour les prestations de transport de personnes et les prestations accessoires à ce transport, à l'exclusion de celles
 réalisées soit pour le compte d'une entreprise de transports publics de voyageurs, soit en vertu d'un contrat permanent de
 transport conclu par les entreprises pour amener leur personnel sur les lieux de travail ; 
 
 6° Pour les véhicules ou engins, quelle que soit leur nature, conçus pour transporter des personnes ou à usages mixtes, à
-l'exception de ceux :
+l'exception de ceux : 
 
-a. Destinés à être revendus à l'état neuf ;
+a. Destinés à être revendus à l'état neuf ; 
 
-b. Donnés en location ;
+b. Donnés en location ; 
 
 c. Comportant, outre le siège du conducteur, plus de huit places assises et utilisés par des entreprises pour amener leur
-personnel sur les lieux du travail ;
+personnel sur les lieux du travail ; 
 
-d. Affectés de façon exclusive à l'enseignement de la conduite ;
+d. Affectés de façon exclusive à l'enseignement de la conduite ; 
 
 e. De type tout terrain affectés exclusivement à l'exploitation des remontées mécaniques et des domaines skiables, dès lors
 qu'ils ont été certifiés par le service technique des remontées mécaniques et des transports guidés, dans des conditions
-fixées par décret ;
+fixées par décret ; 
 
 f. Acquis par les entreprises de transports publics de voyageurs et affectés de façon exclusive à la réalisation desdits
-transports ;
+transports ; 
 
 7° Pour les éléments constitutifs, pièces détachées et accessoires des véhicules et engins mentionnés au premier alinéa du
-6° ;
+6° ; 
 
-8° Pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers :
+8° Pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers : 
 
 a. Pour les essences utilisées comme carburants mentionnées au tableau B de l'article 265 du code des douanes, à l'exception
-de celles utilisées pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ;
+de celles utilisées pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ; 
 
-b. Pour les carburéacteurs mentionnés à la position 27.10.00 du tableau B de l'article 265 du code des douanes utilisés pour
-les aéronefs et engins mentionnés au premier alinéa du 6° ;
+b. Pour les carburéacteurs mentionnés à la position 27. 10. 00 du tableau B de l'article 265 du code des douanes utilisés
+pour les aéronefs et engins mentionnés au premier alinéa du 6° ; 
 
-c. Pour les produits pétroliers utilisés pour la lubrification des véhicules et engins mentionnés au premier alinéa du 6° ;
+c. Pour les produits pétroliers utilisés pour la lubrification des véhicules et engins mentionnés au premier alinéa du 6° ; 
 
 9° Pour les biens acquis ou construits ainsi que les services acquis dont la valeur d'achat, de construction ou de livraison
-à soi-même est prise en compte pour l'application des dispositions du 6° de l'article 257, du e du 1 ou du sixième alinéa du
-2 de l'article 266 ainsi que de l'article 297 A du code général des impôts ;
+à soi-même est prise en compte pour l'application des dispositions du 6° de l'article 257 du code général des impôts, du e du
+1 ou du sixième alinéa du 2 de l'article 266 du code général des impôts ainsi que de l'article 297 A du code général des
+impôts ; 
 
 10° Pour les prestations de services de toute nature, notamment la location, afférentes aux biens dont le coefficient
-d'admission est nul en application des dispositions du 1° au 8°.
+d'admission est nul en application des dispositions du 1° au 8°. 
 
 3. Le coefficient d'admission est égal à 0,5 pour les gaz de pétrole et autres hydrocarbures présentés à l'état gazeux
-(position 27.11.29 du tarif des douanes) et le pétrole lampant (position 27.10.19.21 du tarif des douanes) utilisés comme
-carburants, lorsque ces produits sont utilisés pour des véhicules et engins mentionnés au premier alinéa du 6° du 2 et pour
-autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
+(position 27. 11. 29 du tarif des douanes) et le pétrole lampant (position 27. 10. 19. 25 du tarif des douanes) utilisés
+comme carburants, lorsque ces produits sont utilisés pour des véhicules et engins mentionnés au premier alinéa du 6° du 2 et
+pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers. 
 
 4. Le coefficient d'admission est égal à 0,8 pour les gazoles et le superéthanol E 85 mentionnés au tableau B de l'article
 265 du code des douanes utilisés comme carburants pour des véhicules et engins mentionnés au premier alinéa du 6° du 2, à
 l'exception de ceux utilisés pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur et
-pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
+pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers. 
 
-V. - 1. L'assujetti peut, par année civile, retenir :
+V.-1. L'assujetti peut, par année civile, retenir : 
 
 1° Pour l'ensemble de ses biens et services utilisés concurremment à des opérations imposables et à des opérations non
-imposables, un coefficient d'assujettissement unique, sous réserve d'en justifier ;
+imposables, un coefficient d'assujettissement unique, sous réserve d'en justifier ; 
 
-2° Pour l'ensemble de ses biens et services, un coefficient de taxation unique calculé dans les conditions du 3 du III.
+2° Pour l'ensemble de ses biens et services, un coefficient de taxation unique calculé dans les conditions du 3 du III. 
 
 2. Les quatre coefficients mentionnés au I sont arrondis par excès à la deuxième décimale. Ils sont définitivement arrêtés
 avant le 25 avril de l'année suivante ou le 31 décembre de l'année suivante pour ceux qui deviennent redevables de la taxe
@@ -9921,7 +9699,7 @@ sur la valeur ajoutée en cours d'année.
 
 	**Modifié par**:
 
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Cité par**:
 
@@ -9931,9 +9709,15 @@ sur la valeur ajoutée en cours d'année.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 28-00 A (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 209
+	  - Code général des impôts, CGI. - art. 205
+	  - Code général des impôts, CGI. - art. 256
+	  - Code général des impôts, CGI. - art. 257
+	  - Code général des impôts, CGI. - art. 266
+	  - Code des douanes - art. 265
+	  - Code de la santé publique - art. L3323-2
 
 
 ##### B : Régularisations et reversements
@@ -10189,7 +9973,7 @@ des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Cité par**:
 
@@ -10197,9 +9981,10 @@ des douanes et droits indirects.
 	  - Code général des collectivités territoriales - art. R1615-2 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 298
+	  - Code des douanes - art. 265
 
 
 ##### 2 bis : Remboursement de crédits de taxe déductible non imputable
@@ -10364,24 +10149,32 @@ pour son montant total.
 
 L'option prévue au 2° de l'article 260 du code général des impôts ainsi qu'à l'article 298 bis du même code est reconduite de
 plein droit pour la période suivant celle au cours ou à l'issue de laquelle les assujettis ayant exercé cette option ont
-bénéficié d'un des remboursements mentionnés aux articles 242-0 A à 242-0 D.
+bénéficié d'un des remboursements mentionnés aux articles 242-0 A à 242-0 D. 
 
-Lorsque l'assujetti par voie d'option ouverte à l'article 193, deuxième alinéa, a bénéficié d'un remboursement, la
-reconduction prend effet à l'expiration de la période définie au deuxiéme alinéa de l'article 194.
+Lorsque l'assujetti par voie d'option ouverte au premier alinéa de l'article 193, deuxième alinéa, a bénéficié d'un
+remboursement, la reconduction prend effet à l'expiration de la période définie au deuxiéme alinéa de l'article 194.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er du décret n° 91-352 du 11 avril 1991.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°91-716 1991-07-26 art. 5 I VII JORF 27 juillet 1991
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°2010-1075 du 10 septembre 2010 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 193
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 194
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 A
+	  - Code général des impôts, CGI. - art. 260
+	  - Code général des impôts, CGI. - art. 298 bis
 
 
 ###### Article 242-0 I
@@ -12870,21 +12663,21 @@ arrêté conjoint du ministre chargé du budget et du ministre chargé de l'outr
 La distillation des mélasses de canne à sucre originaires et en provenance des départements d'outre-mer est interdite en
 France continentale et en Corse. Sauf dérogations prises par arrêté interministériel du ministre de l'économie et des
 finances et du ministre chargé des départements d'outre-mer, les transferts de mélasse de canne à sucre en vue de la
-distillation sont également prohibés entre les départements d'outre-mer, entre les territoires d'outre-mer et entre les
-départements et territoires d'outre-mer.
+distillation sont également prohibés entre les départements d'outre-mer, entre les collectivités d'outre-mer et entre les
+départements et collectivités d'outre-mer.
 
 Les transferts de jus de canne à sucre en vue de la distillation de rhum sont prohibés à l'intérieur des départements
 d'outre-mer à l'exclusion de la Réunion.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 5 et 8 de la loi n° 2003-276 du 28 mars 2003.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°97-294 du 27 mars 1997 - art. 3 () JORF 30 mars 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 
 ###### Article 275 bis
@@ -14935,22 +14728,20 @@ l'article 178 P de l'annexe III au code général des impôts ;
 l'annexe III au code général des impôts ;
 
 21° Résiliation du contrat de gérance qui lie les débitants de tabacs ordinaires ou temporaires avec l'administration des
-douanes et droits indirects, prévue au deuxième alinéa du 1 de l'article 244 sexies de l'annexe III ;
+douanes et droits indirects, prévue au deuxième alinéa du 1 de l'article 1er du décret n° 2007-906 du 15 mai 2007 ;
 
 22° Rejet de la soumission d'un signataire du cahier des charges dans le cadre de la procédure d'adjudication de
-l'attribution de la gérance d'un débit de tabac, prévu par le deuxième alinéa du 3 du III de l'article 244 undecies de
-l'annexe III au code général des impôts ;
+l'attribution de la gérance d'un débit de tabac, prévu par le deuxième alinéa du 3 du II de l'article 16 du décret précité ;
 
 23° Rejet de la candidature d'une personne qui a été retenue pour participer à la procédure d'adjudication en vue de
 l'attribution de la gérance d'un débit de tabac ordinaire en raison de l'absence de fourniture de l'un ou de plusieurs
-renseignements ou documents énumérés au 1 du IV de l'article 244 undecies de l'annexe III au code général des impôts, prévu
-par le 2 du IV de cet article ;
+renseignements ou documents énumérés au 1 du III de l'article 16 du décret précité, prévu par le 2 du III du même article ;
 
 24° Autorisation d'approvisionnement en tabac donnée à un candidat à la gérance d'un débit de tabac ordinaire, prévue par
-l'article 244 quaterdecies de l'annexe III au code général des impôts ;
+l'article 6 du décret précité ;
 
 25° Retrait de la faculté de revente des tabacs manufacturés, en cas de non-respect par le revendeur des dispositions prévues
-aux articles 244 septdecies à 244 novodecies, prévu par l'article 244 vicies de l'annexe III au code général des impôts ;
+aux articles 23 à 25 du décret précité, prévu par l'article 26 du même décret ;
 
 26° Autorisation des entrepositaires agréés de rattacher un ou plusieurs chais ou locaux au site d'exploitation lorsqu'ils
 sont situés en dehors des limites fixées au I de l'article 50-00 B de l'annexe IV au code général des impôts, prévue par le
@@ -14996,23 +14787,22 @@ code général des impôts ;
 38° Autorisation d'employer des empreintes fiscales en lieu et place de vignettes, prévue par le II de l'article 54 A de
 l'annexe IV au code général des impôts ;
 
-39° Création des débits de tabac ordinaires et temporaires, prévue par l'article 57 de l'annexe IV au code général des
-impôts ;
+39° implantation des débits de tabac ordinaires permanents et saisonniers respectivement prévue aux articles 10 et 17 du
+décret n° 2007-906 du 15 mai 2007 ; 
 
-40° Autorisation de transfert d'un débit de tabac ordinaire, prévue à l'article 57 J de l'annexe IV au code général des
-impôts ;
+40° Autorisation de transfert d'un débit de tabac ordinaire saisonnier prévue à l'article 19 du décret précité ;
 
-41° Notification de la fermeture provisoire ou définitive d'un débit de tabac ordinaire, prévue à l'article 57 N de l'annexe
-IV au code général des impôts ;
+41° Notification de la fermeture provisoire ou définitive d'un débit de tabac ordinaire respectivement prévue aux articles 7
+et 8 du décret précité ;
 
 42° Réouverture d'un débit de tabac ordinaire fermé provisoirement à la suite de la demande de toute personne intéressée par
-la reprise de sa gérance, prévue par le IV de l'article 57 N de l'annexe IV au code général des impôts ;
+la reprise de sa gérance prévue au douzième alinéa de l'article 7 du décret précité ;
 
-43° Autorisation de transformer un débit de tabac ordinaire saisonnier en débit de tabac ordinaire permanent, prévue au II de
-l'article 57 O de l'annexe IV au code général des impôts ;
+43° Autorisation de transformer un débit de tabac ordinaire saisonnier en débit de tabac ordinaire permanent prévue au II de
+l'article 18 du décret précité ;
 
-44° Autorisation de transformer un débit de tabac ordinaire permanent en débit de tabac ordinaire saisonnier, prévue au III
-de l'article 57 O de l'annexe IV au code général des impôts ;
+44° Autorisation de transformer un débit de tabac ordinaire permanent en débit de tabac ordinaire saisonnier prévue au III de
+l'article 18 du décret précité ;
 
 45° Autorisation délivrée aux établissements de spectacles de faire usage de distributeurs automatiques pour la délivrance de
 billets, prévue par l'article 128 de l'annexe IV au code général des impôts ;
@@ -15049,15 +14839,24 @@ l'annexe IV, prévue à l'article 164 AW de la même annexe ;
 
 55° Décisions relatives aux réclamations contentieuses, prévues à l'article R.* 198-10 du livre des procédures fiscales.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er à 28 du décret n° 2007-906 du 15 mai 2007 et de l'article 2 du
+décret n° 2007-1865 du 26 décembre 2007.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 D, 302 D bis, 302 H, 302 J, 302 G, 302 K, 306, 309, 311 bis, 327, 328, 425, 443, 501, 502, 302 M, 244 septdecies à 244 novodecies, 164 AD bis
+	  - CGIAN2 286 N, 286 I, 286 J, 286
+	  - CGIAN3 111-0, 111 H sexies, 111-00 A, 111-00 B, 111-0 E, 111-0F, 111 I, 111 H bis, 178 P, 178 AA, 207, 244 sexies, 244 undecies, 244 quaterdecies, 244 vicies
+	  - CGIAN4 50, 50-0 C, 50-00 B, 54-0 C, 54-0 G, 54-0 I, 54-0 U, 164 AM, 54-0 V, 54-0 Z, 54-0 BW, 54 A, 57, 57 N, 57 O, 128, 129, 127, 151, 164 AD bis, 164 AP, 164 AU, 164 AW
+	  - Livre des procédures fiscales
 
 	**Modifié par**:
 
-	  - Décret n°2006-532 du 11 mai 2006 - art. 2 () JORF 12 mai 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -15995,413 +15794,6 @@ II. - (Transféré sous l'article 326 bis de l'annexe II).
 	  - HISTO: Edition du 1er janvier 2006
 
 
-##### Section III : Impôt sur les opérations de bourse
-
-##### I : Bourses de valeurs
-
-###### Article 305
-
-Les déclarations prescrites par l'article 982 du code général des impôts sont faites sur un registre spécial, tant au service
-des impôts du siège de l'établissement principal des assujettis qu'au bureau du siège de chacune des agences et succursales
-qu'ils possèdent.
-
-Les déclarations qui sont faites au siège de l'établissement principal sont signées par le chef de l'établissement ou en
-vertu de sa procuration. S'il s'agit d'une société, elles sont signées par ses représentants légaux ou en vertu de leur
-procuration. Elles font connaître, s'il y a lieu, les noms des associés solidairement responsables, et rappellent le titre
-constitutif de la société. Elles contiennent la désignation de chacune des agences et succursales.
-
-Les déclarations qui sont faites au siège des agences et succursales contiennent la désignation de l'établissement principal.
-
-En cas de changement de siège, soit de l'établissement principal, soit d'une agence ou succursale, de même qu'en cas de
-création d'une agence ou succursale nouvelle, des déclarations préalables en sont faites par les assujettis aux services des
-impôts et dans les formes ci-dessus déterminées.
-
-Les agréments de prestataires de services d'investissement sont consignés au registre prévu au présent article. Cette mention
-équivaut, en ce qui les concerne, à la déclaration.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 982
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-
-	**Modifié par**:
-
-	  - Loi n°96-597 1996-07-02 art. 94 I, II JORF 4 juillet 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
-
-
-###### Article 305 A
-
-Le répertoire, dont la tenue est prescrite également par l'article 982 du code général des impôts et dont le modèle est donné
-ci-après (modèle A), présente, pour chaque opération, dans des colonnes distinctes, les indications ci-après :
-
-1° Numéro d'ordre ;
-
-2° Date de l'opération ;
-
-3° Nom du donneur d'ordre ;
-
-4° Catégorie à laquelle appartient l'opération, savoir :
-
-Achat ou vente au comptant ;
-
-Achat ou vente à terme ferme ;
-
-Achat ou vente à prime ;
-
-Report ;
-
-Opération d'ordre ayant pour objet de compenser entre elles, au point de vue du règlement des comptes, deux ou plusieurs
-opérations antérieures ;
-
-5° Lorsqu'il s'agit d'une opération à terme, date de l'échéance ;
-
-6° Nature des titres ;
-
-7° Nombre ou montant des titres ;
-
-8° Taux de l'opération ;
-
-9° Valeur totale des titres sur lesquels a porté l'opération ;
-
-10° Valeur totale des titres, déduction faite des versements restant à effectuer sur les titres non entièrement libérés ;
-
-11° S'il y a lieu, soit le nom du prestataire de services d'investissement qui a concouru à l'opération, soit le nom et le
-domicile du mandataire substitué par l'intermédiaire duquel l'opération a été faite, soit le nom et le domicile de la
-personne qui en a fait la contrepartie, lorsque ces deux derniers sont au nombre des personnes désignées dans l'article 982
-du code général des impôts ;
-
-12° Montant du droit afférent à l'opération, sauf en ce qui concerne :
-
-a Les opérations à prime ;
-
-b Les opérations d'ordre prévues au 4° ;
-
-c Les opérations qui donnent lieu à la désignation du prestataire de services d'investissement qui a effectué l'opération ou
-du mandataire substitué.
-
-MODELE DE REPERTOIRE (Modèle A)
-
-Colonne 1 : Numéro d'ordre ;
-
-Colonne 2 : Date de l'opération ;
-
-Colonne 3 : Nom du donneur d'ordre ;
-
-Colonne 4 : Nature de l'opération (1) ;
-
-Colonne 5 : Echéance ;
-
-Colonne 6 : Nature des titres ;
-
-Colonne 7 : Nombre ou montant des titres ;
-
-Colonne 8 : Taux de l'opération ;
-
-Colonne 9 : Valeur des titres ;
-
-Colonne 10 : Valeur des titres, déduction faite du non libéré ;
-
-Colonne 11 : Nom du prestataire de services d'investissement ou du mandataire substitué ou de la personne qui a fait la
-contrepartie de l'opération ;
-
-Colonne 12 : Montant du droit.
-
-(1) Achat au comptant, ou vente au comptant, ou achat à terme ferme ou vente à terme ferme, ou achat à prime ou vente à
-prime, ou report, ou achat-compensation, ou vente-compensation.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 982
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-
-	**Modifié par**:
-
-	  - Loi n°96-597 1996-07-02 art. 94 I, II JORF 4 juillet 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
-
-
-###### Article 305 B
-
-Le répertoire peut être divisé en deux volumes, l'un destiné à l'inscription des opérations au comptant, l'autre destiné à
-l'inscription des opérations à terme et des reports.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 241
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 10 août 1987
-
-
-###### Article 305 C
-
-La déclaration prévue à l'article 983 du code général des impôts est souscrite entre le 25 et le dernier jour de chaque mois.
-
-Cette déclaration mentionne :
-
-a. La période d'imposition au titre de laquelle elle est souscrite. Cette période comprend les opérations réalisées entre le
-25 du mois précédent et le 24 du mois au cours duquel la déclaration doit être déposée ;
-
-b. Le nombre d'opérations portées au répertoire ;
-
-c. Le nombre des opérations annulées au cours de la période mentionnée au a.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 983
-
-	**Modifié par**:
-
-	  - Décret n°2005-182 du 24 février 2005 - art. 1 () JORF 26 février 2005
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 121 KN (P)
-
-
-###### Article 305 G
-
-Celles des personnes désignées à l'article 982 du code général des impôts qui possèdent, indépendamment de leur établissement
-principal, une ou plusieurs agences ou succursales doivent inscrire sur le répertoire prévu audit article les opérations
-effectuées par l'intermédiaire de l'agence ou de la succursale.
-
-Ce répertoire est tenu pour le tout ou pour partie soit par l'établissement principal, soit par une ou plusieurs des agences
-ou succursales spécialement désignées à cet effet. Notification de cette désignation doit être adressée, le cas échéant, aux
-services des impôts dont relèvent tant l'établissement principal que lesdites agences ou succursales.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 982
-
-	**Anciens textes**:
-
-	  - CGIAN1 246
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 10 août 1987
-
-
-###### Article 305 H
-
-Les bordereaux visés aux articles 978 et 981 du code général des impôts mentionnent obligatoirement les numéros sous lesquels
-les opérations qu'ils concernent figurent au répertoire.
-
-Ils doivent être délivrés, savoir :
-
-En ce qui concerne les opérations au comptant, dans les dix jours de la négociation ;
-
-En ce qui concerne les opérations à terme, dans les dix jours de l'échéance.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 978, 981
-
-	**Modifié par**:
-
-	  - Décret n°2005-182 du 24 février 2005 - art. 3 () JORF 26 février 2005
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 305 I
-
-Dans le cas prévu à l'article 305 B, il peut être établi deux registres de bordereaux, l'un destiné aux opérations au
-comptant, l'autre destiné aux opérations à terme et aux reports.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 248
-
-	**Cite**:
-
-	  - CGIAN2 305 B
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 10 août 1987
-
-
-###### Article 305-0
-
-Pour l'application du 4° ter de l'article 980 bis du code général des impôts, la capitalisation boursière d'une entreprise
-est déterminée, pour l'année civile, par le produit :
-
-a. du nombre de ses titres de capital admis à la négociation à l'ouverture du premier jour de négociation de l'année ;
-
-b. par la moyenne des cours d'ouverture des soixante derniers jours de négociation de l'année précédente. Lorsque, durant ces
-soixante derniers jours, des titres de capital d'une entreprise sont, pour des motifs mentionnés aux articles 305-0 bis ou
-305-0 ter, admis à la négociation, la moyenne retenue est celle des cours d'ouverture des jours de négociation suivant
-l'admission à celle-ci jusqu'au dernier cours de l'année précédente.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 980 bis
-	  - CGIAN2 305-0 bis, 305-0 ter
-
-	**Créé par**:
-
-	  - Décret n°2005-314 du 25 mars 2005 - art. 1 () JORF 3 avril 2005
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 305-0 bis
-
-Par dérogation aux dispositions de l'article 305-0, la capitalisation boursière d'une entreprise dont les titres de capital
-sont pour la première fois admis à la négociation est déterminée, pour la période allant de l'admission à la négociation
-jusqu'à la fin de l'année civile, par le produit :
-
-a. du nombre de titres de capital ainsi admis à la négociation ;
-
-b. par le prix auquel ces titres sont placés dans le public, à savoir le prix auquel ces titres sont vendus au public avant
-la première cotation.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 305-0
-
-	**Créé par**:
-
-	  - Décret n°2005-314 du 25 mars 2005 - art. 1 () JORF 3 avril 2005
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 305-0 ter
-
-Par dérogation aux dispositions de l'article 305-0, en cas d'opération de fusion, scission, apport partiel d'actif emportant
-admission à la négociation de nouveaux titres de capital de l'entreprise absorbante ou bénéficiaire, sa capitalisation
-boursière est déterminée, pour la période allant de l'admission à la négociation jusqu'à la fin de l'année civile, par le
-produit :
-
-a. du nombre total des titres de capital de l'entreprise absorbante ou bénéficiaire admis à la négociation, à l'issue de
-l'opération ;
-
-b. par le cours de clôture du dernier jour de négociation précédant l'admission à la négociation de ces nouveaux titres de
-capital.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 305-0
-
-	**Créé par**:
-
-	  - Décret n°2005-314 du 25 mars 2005 - art. 1 () JORF 3 avril 2005
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 1er janvier 2005
-
-
 #### Chapitre III : Autres droits et taxes
 
 ##### 00I : Prélèvement sur les sommes versées par les organismes d'assurance et assimilés à raison des contrats d'assurances en cas de décès
@@ -16815,14 +16207,14 @@ construction.
 
 ###### Article 310-00 H ter
 
-1° Préalablement à son envoi au service des impôts par le propriétaire, l'engagement de gestion prévu à l'article 1395 D du
-code général des impôts doit être visé par le préfet du lieu de situation des parcelles, qui vérifie sa conformité aux
-conditions et modalités définies aux articles 310-00 H et 310-00 H bis.
+Préalablement à son envoi au service des impôts par le propriétaire, l'engagement de gestion prévu à l'article 1395 D du code
+général des impôts doit être visé par le préfet du lieu de situation des parcelles, qui vérifie sa conformité aux conditions
+et modalités définies aux articles 310-00 H et 310-00 H bis. 
 
-2° Le préfet s'assure du respect des engagements souscrits dans le cadre de l'engagement de gestion. A cet effet, les agents
-des services de l'Etat et de ses établissements publics peuvent procéder à des vérifications sur place. Ils informent le
+Le préfet s'assure du respect des engagements souscrits dans le cadre de l'engagement de gestion. A cet effet, les agents des
+services de l'Etat et de ses établissements publics peuvent procéder à des vérifications sur place. Ils informent le
 propriétaire et, le cas échéant, le preneur des parcelles faisant l'objet de l'engagement de gestion et leur proposent
-d'assister au contrôle.
+d'assister au contrôle. 
 
 Si, lors du contrôle, l'une des obligations prévues par l'engagement de gestion n'est pas respectée, ce constat fait l'objet
 d'un signalement au service des impôts du lieu de situation de la parcelle avant le ler janvier de l'année suivant celle de
@@ -16830,13 +16222,14 @@ la réalisation du contrôle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-511 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H
+	  - Code général des impôts, CGI. - art. 1395 D
 
 
 ##### Section I : Taxe d'habitation
@@ -18614,41 +18007,49 @@ du code général des impôts.
 
 ###### Article 317 B
 
-I. - Pour l'application du deuxième alinéa du IV de l'article 1529 du code général des impôts, l'accomplissement de la
+I.-Pour l'application du deuxième alinéa du IV de l'article 1529 du code général des impôts, l'accomplissement de la
 formalité de l'enregistrement ou de la formalité fusionnée est subordonné, pour tout acte constatant la cession à titre
 onéreux d'un terrain nu situé sur le territoire d'une commune ou d'un établissement public de coopération intercommunale dans
-lequel la taxe est exigible, à la mention, selon le cas, dans l'acte, que :
+lequel la taxe est exigible, à la mention, selon le cas, dans l'acte, que : 
 
 1° Le cédant n'est pas soumis à l'impôt sur le revenu afférent à la plus-value dans les conditions prévues au I de l'article
-150 U du code ou au prélèvement prévu à l'article 244 bis A du même code ;
+150 U du code général des impôts ou au prélèvement prévu à l'article 244 bis A du même code ; 
 
 2° La plus-value réalisée par le cédant est exonérée d'impôt sur le revenu en application du II de l'article 150 U du même
-code en précisant les références aux dispositions de l'article précité en vertu desquelles elle est exonérée ;
+code en précisant les références aux dispositions de l'article précité en vertu desquelles elle est exonérée ; 
 
-3° Le terrain n'est pas situé dans une des zones mentionnées au premier alinéa du I de l'article 1529 du code ;
+3° Le terrain n'est pas situé dans une des zones mentionnées au premier alinéa du I de l'article 1529 du code général des
+impôts ; 
 
 4° Le terrain n'est pas constructible, alors même qu'il est situé dans une des zones mentionnées au premier alinéa du I de
-l'article 1529 du code ;
+l'article 1529 du code général des impôts ; 
 
-5° Le terrain est constructible depuis plus de dix-huit ans ;
+5° Le terrain est constructible depuis plus de dix-huit ans ; 
 
 6° Le terrain a fait l'objet, depuis la date à laquelle il a été rendu constructible, d'une cession à titre onéreux
-antérieure à la mutation constatée dans l'acte.
+antérieure à la mutation constatée dans l'acte. 
 
-II. - Les éléments mentionnés au 4° du I sont justifiés par le cédant au moyen d'un certificat d'urbanisme mentionné à
+II.-Les éléments mentionnés au 4° du I sont justifiés par le cédant au moyen d'un certificat d'urbanisme mentionné à
 l'article L. 410-1 du code de l'urbanisme, précisant que le terrain ne peut faire l'objet, du fait de sa localisation, de sa
-desserte ou de ses caractéristiques, d'aucune autorisation de construction.
+desserte ou de ses caractéristiques, d'aucune autorisation de construction. 
 
-III. - Les éléments mentionnés au 5° du I sont justifiés par le cédant au moyen d'un certificat d'urbanisme ou d'une
+III.-Les éléments mentionnés au 5° du I sont justifiés par le cédant au moyen d'un certificat d'urbanisme ou d'une
 attestation, établi par la commune ou, le cas échéant, par l'établissement public de coopération intercommunale, et précisant
 la date à laquelle le terrain est devenu constructible ou, à défaut, que cet événement est intervenu depuis plus de dix-huit
 ans.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1394 du 27 septembre 2007 - art. 1 () JORF 29 septembre 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150 U
+	  - Code général des impôts, CGI. - art. 1529
+	  - Code général des impôts, CGI. - art. 244 bis A (V)
+	  - Code de l'urbanisme - art. L410-1
 
 
 ###### Article 317 C
@@ -20666,7 +20067,7 @@ comptable.
 
 Les organisations professionnelles mentionnées au premier alinéa comprennent les organismes professionnels dont l'existence
 est prévue par la législation relative aux professions ci-dessus désignées, les syndicats professionnels et leurs unions
-institués conformément aux dispositions des articles L 410 et suivants du code du travail, et les associations
+institués conformément aux dispositions des articles L. 2111-1 et suivants du code du travail, et les associations
 professionnelles de personnes exerçant la même profession ainsi que leurs unions. 
 
 Les unions ou fédérations d'associations professionnelles regroupant des professions différentes sont également autorisées à
@@ -20684,15 +20085,23 @@ Elles ne peuvent agir en qualité de mandataires de leurs membres.
 Toutefois, les associations peuvent recevoir mandat de leurs membres ayant adhéré au système de transfert des données
 fiscales et comptables pour transmettre les informations correspondant aux obligations déclaratives de ces membres.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 25 novembre 2010 - art. (Ab)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 quater F
 
 
 ###### Article 371 N
@@ -21087,729 +20496,309 @@ titulaires des charges et offices.
 
 ###### Article 371 AI
 
-Les centres de formalités des entreprises reçoivent le dossier unique, mentionné à l'article 2 de la loi n° 94-126 du 11
-février 1994 relative à l'initiative et à l'entreprise individuelle, comportant les déclarations relatives à leur création,
-aux modifications de leur situation ou à la cessation de leur activité, que les entreprises sont tenues de remettre aux
-administrations, personnes ou organismes mentionnés à l'article 1er de la même loi.
+Les attributions des centres de formalités des entreprises concernant la gestion du dossier unique des entreprises, les
+relations des centres avec les greffes des tribunaux de commerce et des tribunaux de grande instance ainsi que les
+obligations des centres sont établies conformément aux 
+articles R. 123-1 et R. 123-2 du code de commerce
+.
 
-Ils reçoivent en outre les notifications effectuées par les greffes des tribunaux de commerce ou des tribunaux de grande
-instance statuant commercialement, en application de l'article 4-1 du décret n° 84-406 du 30 mai 1984 modifié relatif au
-registre du commerce et des sociétés. Ils sont informés par les organismes destinataires lorsque les déclarations contiennent
-des demandes au sujet desquelles une décision doit être prise.
+**Nota:**
 
-Les centres de formalités remettent à tout déclarant un livret, approuvé par arrêté du ministre de la justice et des
-ministres chargés des affaires sociales, du travail, de l'économie, des finances, du budget, de l'industrie, du commerce et
-de l'artisanat, du transport et de l'agriculture et de la pêche, précisant les obligations du centre ainsi que les éléments
-que doit contenir le dossier de déclaration.
-
-Ils transmettent les renseignements ou pièces à chacun des organismes destinataires selon sa compétence.
-
-Il leur est interdit de communiquer à des tiers les renseignements contenus dans les déclarations.
+Modifications effectuées en conséquence des articles R. 123-1 et R. 123-2 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-679 du 9 juin 2006 - art. 1 (V) JORF 10 juin 2006
-	  - Décret n°2006-679 du 9 juin 2006 - art. 2 () JORF 10 juin 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Code de commerce - art. R123-1
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 AQ bis (V)
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371-0 AQ bis (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
 
 ###### Article 371 AJ
 
-I. 1. Sous réserve des dispositions des 2 et 3, les chambres de commerce et d'industrie créent et gèrent les centres de
-formalités des entreprises compétents pour :
+Les organismes chargés de la création et de la gestion des centres de formalités des entreprises ainsi que la répartition des
+compétences entre les centres sont définis conformément aux articles R. 123-3 et R. 123-4 du code de commerce.
 
-a) Les commerçants ;
+**Nota:**
 
-b) Les sociétés commerciales ;
-
-c) (Dispositions devenues sans objet).
-
-2. Les chambres de métiers et de l'artisanat créent et gèrent les centres compétents pour les personnes physiques et les
-sociétés assujetties à l'immatriculation au répertoire des métiers, à l'exclusion de celles visées au 3.
-
-3. La chambre nationale de la batellerie artisanale crée et gère le centre compétent pour les personnes physiques et les
-sociétés assujetties à l'immatriculation au registre des entreprises de la batellerie artisanale.
-
-4. Les greffes des tribunaux de commerce ou des tribunaux de grande instance statuant commercialement créent et gèrent les
-centres compétents pour :
-
-a) Les sociétés civiles et autres que commerciales ;
-
-b) Les sociétés d'exercice libéral ;
-
-c) Les personnes morales assujetties à l'immatriculation au registre du commerce et des sociétés autres que celles visées aux
-1, 2 et 3 ;
-
-d) Les établissements publics industriels et commerciaux ;
-
-e) Les agents commerciaux.
-
-f) Les groupements d'intérêt économique et les groupements européens d'intérêt économique ;
-
-5. Les unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) ou les caisses
-générales de sécurité sociale créent et gèrent les centres compétents pour :
-
-a) Les personnes exerçant, à titre de profession habituelle, une activité indépendante réglementée ou non autre que
-commerciale, artisanale ou agricole ;
-
-b) Les employeurs dont les entreprises ne sont pas immatriculées au registre du commerce et des sociétés, au répertoire des
-métiers ou au registre des entreprises de la batellerie artisanale, et qui ne relèvent pas des centres mentionnés au 6.
-
-6. Les chambres d'agriculture créent et gèrent les centres compétents pour les personnes physiques et morales exerçant à
-titre principal des activités agricoles.
-
-7. Les services des impôts créent et gèrent les centres compétents pour les personnes suivantes dès lors qu'elles exercent
-leur activité à titre de profession habituelle, qu'elles ne relèvent pas des dispositions des 1 à 6 et qu'elles n'ont pas
-d'autres obligations déclaratives que statistiques et fiscales :
-
-a) Les assujettis à la taxe sur la valeur ajoutée ;
-
-b) Les assujettis à l'impôt sur le revenu au titre des bénéfices industriels et commerciaux ;
-
-c) Les assujettis à l'impôt sur le revenu au titre des bénéfices non commerciaux ;
-
-d) Les assujettis à l'impôt sur les sociétés.
-
-II. - Chaque centre est compétent à l'égard des entreprises dont le siège social, l'établissement principal ou un
-établissement est situé dans le ressort territorial de l'administration, personne ou organisme qui le crée.
+Modifications effectuées en conséquence des articles R. 123-3 et R. 123-4 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Code de commerce - art. R123-3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AL (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 
 ###### Article 371 AK
 
-Le dépôt des déclarations prévues à l'article 371 AS est obligatoirement effectué dans les centres de formalités des
-entreprises au terme d'un délai d'un an à compter de la création du centre.
+Conformément à l'article R. 123-5 du code de commerce et sous réserve des possibilités de dérogation prévues par ce même
+article, le dépôt des déclarations prévues à l'annexe 1-2 mentionnée à l'article 371 AS est obligatoirement effectué dans les
+centres de formalités des entreprises.
 
-Toutefois, lorsque la déclaration comporte une demande d'immatriculation au registre du commerce et des sociétés,
-d'inscription modificative ou de radiation, le déclarant a la faculté de déposer le dossier de déclaration directement auprès
-du greffe du tribunal compétent pour y procéder. Dans ce cas, le greffe, qui conserve la demande d'inscription, transmet sans
-délai le dossier au centre de formalités des entreprises compétent.
+**Nota:**
 
-Lorsque la déclaration est effectuée par voie électronique, il est fait application des dispositions particulières prévues à
-l'article 371-0 AQ bis.
+Modifications effectuées en conséquence de l'article R. 123-5 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-679 du 9 juin 2006 - art. 1 (V) JORF 10 juin 2006
-	  - Décret n°2006-679 du 9 juin 2006 - art. 2 () JORF 10 juin 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code de commerce - art. R123-5 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AS (V)
 
 
 ###### Article 371 AL
 
-Les déclarations sont présentées au centre compétent en application de l'article 371 AJ. Si plusieurs centres se trouvent
-compétents, les déclarations sont présentées à l'un d'eux au choix du déclarant, le centre choisi étant tenu d'accepter le
-dossier.
+I.-Conformément à l'article R. 123-6 du code de commerce, les déclarations sont présentées au centre compétent en application
+de l'article 371 AJ, ou, en cas de pluralité de centres compétents, à l'un d'eux au choix du déclarant. 
 
-Le dossier comprend :
+II.-Le dossier unique est constitué conformément à l'article R. 123-7 du code de commerce et comprend les éléments mentionnés
+à ce même article.
 
-1° Les déclarations signées du déclarant ou de son mandataire, accompagnées, le cas échéant, du pouvoir du mandataire ;
+**Nota:**
 
-2° Les pièces justificatives prescrites, selon les textes en vigueur, en original ou en copie dont la conformité à l'original
-est attestée par le déclarant ;
-
-3° Les actes qui doivent être remis aux organismes destinataires, dans la forme dans laquelle ce dépôt doit être effectué ;
-
-4° Le titre de paiement des frais, droits ou redevances prescrits par les textes réglementaires particuliers.
-
-Les formulaires de déclaration et la liste des pièces justificatives font l'objet d'une homologation par la commission pour
-les simplifications administratives.
+Modifications effectuées en conséquence des articles R. 123-6 et R. 123-7 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2002-375 du 19 mars 2002 - art. 4 () JORF 21 mars 2002
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Code de commerce - art. R123-6
+	  - Code de commerce - art. R123-7
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AJ
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 M (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article 371 AM
 
-Le centre est réputé saisi lorsque les déclarations qui lui sont remises directement ou par voie postale ou électronique,
-sont établies sur les formulaires homologués prévus à l'article 371 AL et sont signées du déclarant ou de son mandataire, et
-lorsqu'elles comportent au moins les énonciations indispensables pour identifier.
+Conformément à l'article R. 123-8 du code de commerce, le centre de formalités des entreprises est réputé saisi lorsque les
+déclarations qui lui sont remises sont établies sur les formulaires homologués, signées du déclarant ou de son mandataire, et
+qu'elles comportent les éléments d'identification énoncés à ce même article.
 
-I. - Pour les créations d'entreprises :
+**Nota:**
 
-1° Les nom, nom d'usage et prénoms du déclarant pour les personnes physiques, la dénomination ou la raison sociale pour les
-personnes morales ;
-
-2° La forme juridique de l'entreprise ;
-
-3° Le siège de l'entreprise, le domicile du déclarant ou l'adresse de l'établissement ;
-
-4° L'objet de la formalité ;
-
-5° Les activités générales de l'entreprise ou de l'établissement ;
-
-6° L'existence de salariés dans l'entreprise ou dans l'établissement et, le cas échéant, leur nombre ;
-
-7° La date d'effet de l'événement objet de la formalité ;
-
-8° Les date et lieu de naissance des déclarants personnes physiques.
-
-II. - Pour les modifications de la situation de l'entreprise ainsi que pour sa cessation d'activité :
-
-1° Les nom, nom d'usage et prénoms du déclarant pour les personnes physiques, la dénomination ou la raison sociale pour les
-personnes morales ;
-
-2° Le numéro unique d'identification de l'entreprise et, le cas échéant, le nom de la ville où se trouve le greffe où elle
-est immatriculée, ou la chambre des métiers et de l'artisanat où elle est inscrite au répertoire des métiers ;
-
-3° L'objet de la formalité, ainsi que la date d'effet de l'événement la justifiant.
-
-Le centre ne peut refuser les déclarations respectant les conditions énumérées aux premier à quatorzième alinéas, ni en
-apprécier le bien-fondé.
+Modifications effectuées en conséquence de l'article R. 123-8 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-679 du 9 juin 2006 - art. 1 (V) JORF 10 juin 2006
-	  - Décret n°2006-679 du 9 juin 2006 - art. 2 () JORF 10 juin 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Code de commerce - art. R123-8
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 M (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
 
 ###### Article 371 AN
 
-I. - Le centre, compétemment saisi du dossier complet, transmet le jour même aux organismes destinataires les informations et
-pièces les concernant.
+La procédure selon laquelle le centre de formalités des entreprises traite le dossier dont il est saisi, notamment les
+conditions dans lesquelles un dossier incomplet est complété, les modalités de transmission au centre compétent de ce dossier
+ou aux organismes destinataires des éléments les concernant et les règles relatives à la délivrance et au contenu du
+récépissé, est organisée conformément aux dispositions des articles R. 123-9 à R. 123-16 du code de commerce.
 
-II. - Il remet ou transmet également, lors du dépôt, un récépissé au déclarant ou à son mandataire. Si le dépôt est effectué
-par voie postale, le récépissé est envoyé le jour même ou le premier jour ouvrable suivant.
+**Nota:**
 
-Le récépissé indique :
-
-1° Lorsque le centre s'estime incompétent, le centre auquel le dossier est transmis le jour même ;
-
-2° Lorsque le centre s'estime compétent :
-
-a) Si le dossier est incomplet, les compléments qui doivent être apportés dans les délais fixés au III ;
-
-b) Si le dossier est complet, les organismes auxquels il est transmis le jour même.
-
-III. - 1° Lorsque le centre compétent constate que le dossier est incomplet, le déclarant dispose d'un délai de quinze jours
-ouvrables à compter de la réception du récépissé pour produire les compléments à apporter. Toutefois, lorsque la déclaration
-comprend l'embauche d'un premier salarié, le dossier doit être complété dans un délai de huit jours.
-
-A l'expiration de ce délai, le centre avise le déclarant par écrit des organismes destinataires auxquels le dossier est
-transmis en l'état.
-
-2° Lorsque les éléments demandés en application du 1° ont été transmis par le déclarant ou à l'expiration du délai prévu au
-1°, il transmet le jour même aux organismes destinataires la déclaration ainsi que, le cas échéant, les pièces annexées qui
-leur sont destinées.
-
-IV. - A défaut de transmission par le centre à l'expiration des délais prévus au présent article, le déclarant peut obtenir
-la restitution immédiate de son dossier afin d'en saisir directement les organismes destinataires.
-
-V. - Le centre transmet le jour même aux organismes destinataires compétents les notifications et les informations
-mentionnées au deuxième alinéa de l'article 371 AI.
-
-VI. - Le centre peut transmettre par voie électronique aux organismes destinataires les informations et pièces les
-concernant.
-
-La commission de coordination mentionnée à l'article 371 AQ bis veille au respect de la confidentialité et de la sécurité des
-échanges ainsi organisés, ainsi qu'à la compatibilité des systèmes de communication par voie électronique.
-
-VII. - Dans les cas prévus à l'article L. 123-9-1 du code de commerce et à l'article 19-I de la loi n° 96-603 du 5 juillet
-1996 relative au développement et à la promotion du commerce et de l'artisanat, le récépissé prévu au II lorsque le dossier
-est réputé complet par le centre compétent prend le nom de récépissé de dépôt de dossier de création d'entreprise. Délivré
-gratuitement et sans délai, ce récépissé est valable jusqu'à la notification de son immatriculation au déclarant et, au plus
-tard, jusqu'à l'expiration d'une durée d'un mois à compter de sa délivrance. Il indique :
-
-a. le nom et l'adresse du centre ;
-
-b. la date de saisine du centre ;
-
-c. la date de délivrance du récépissé et la date d'expiration de sa validité ;
-
-d. la mention : "en attente d'immatriculation" ;
-
-e. les mentions prévues aux 1°, 2° et 3° du I de l'article 371 AM ;
-
-f. les organismes auxquels le dossier est transmis le jour même.
-
-Le centre de formalités des entreprises indique sur le récépissé de dépôt de dossier de création d'entreprise le numéro
-unique d'identification que l'INSEE lui communique ainsi qu'au greffier du tribunal compétent, lorsque la déclaration
-comporte une demande d'immatriculation au registre du commerce et des sociétés.
-
-Lorsque la déclaration comporte une demande d'immatriculation au registre du commerce et des sociétés, une copie du récépissé
-de dépôt de dossier de création d'entreprise est transmise au greffier compétent avec le dossier du déclarant.
-
-Lorsqu'il est délivré en application de l'article L. 311-2-1 du code rural, le récépissé de dépôt de dossier de création
-d'entreprise, délivré gratuitement et sans délai, indique :
-
-a. le nom et l'adresse du centre ;
-
-b. la date de saisine du centre ;
-
-c. la date de délivrance du récépissé ;
-
-d. les mentions prévues aux 1°, 2° et 3° du I de l'article 371 AM ;
-
-e. les organismes auxquels le dossier est transmis le jour même.
+Modifications effectuées en conséquence des articles R. 123-9 et R. 123-16 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-679 du 9 juin 2006 - art. 1 (V) JORF 10 juin 2006
-	  - Décret n°2006-679 du 9 juin 2006 - art. 2 () JORF 10 juin 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code de commerce - art. R123-9
 
 
 ###### Article 371 AO
 
-La déclaration présentée ou transmise au centre compétent vaut déclaration auprès de l'organisme destinataire, dès lors
-qu'elle est régulière et complète vis-à-vis de ce dernier. Elle interrompt les délais à l'égard de cet organisme.
+Conformément à l'article R. 123-17 du code de commerce, la déclaration présentée ou transmise au centre de formalités des
+entreprises compétent, dans les conditions précisées à cet article, vaut déclaration auprès de l'organisme destinataire.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Créé par**:
-
-	  - Décret n°96-650 du 19 juillet 1996 - art. 7 (Ab) JORF 23 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-
-
-###### Article 371 AP
-
-Les organismes destinataires des déclarations sont seuls compétents pour en contrôler la régularité ou en apprécier la
-validité. Leur transmission à ces organismes dessaisit le centre en ce qui concerne les formalités à accomplir.
+Modifications effectuées en conséquence de l'article R. 123-17 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2002-375 du 19 mars 2002 - art. 7 () JORF 21 mars 2002
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Code de commerce - art. R123-17
+
+
+###### Article 371 AP
+
+Conformément à l'article R. 123-18 du code de commerce, les organismes destinataires des déclarations sont seuls compétents
+pour en contrôler la régularité ou en apprécier la validité.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article R. 123-18 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de commerce - art. R123-18
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AQ (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
 
 ###### Article 371 AQ
 
-Le support de la déclaration ainsi que les renseignements qu'elle contient et les pièces relatives à celles-ci ne peuvent
-être conservés par le centre. Toutefois, les renseignements destinés à être portés sur un registre de publicité légale
-peuvent être conservés par le centre pendant un délai de trois ans.
+Conformément à l'article R. 123-19 du code de commerce et sous la réserve prévue par ce même article, le support de la
+déclaration ainsi que les renseignements qu'elle contient et les pièces relatives à celles-ci ne peuvent être conservés par
+le centre.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article R. 123-19 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2002-375 du 19 mars 2002 - art. 8 () JORF 21 mars 2002
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2002-923 2002-06-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code de commerce - art. R123-19
 
 
 ###### Article 371 AQ bis
 
-La coordination des centres de formalités des entreprises est assurée par une commission qui veille à l'harmonisation de
-l'application des dispositions des articles 371 AI à 371 AS.
+Conformément à l'article R. 123-28 du code de commerce, une commission de coordination des centres de formalités des
+entreprises veille à l'harmonisation de l'application des dispositions des articles 371 AI à 371 AS, donne son avis sur
+toutes questions relatives au fonctionnement des centres et fait rapport aux ministres compétents des difficultés ou
+anomalies dont elle a connaissance.
 
-Cette commission donne son avis sur toutes questions relatives au fonctionnement des centres dont elle est saisie par ceux-ci
-ou par les organismes destinataires des formalités. Elle peut se saisir d'office.
+**Nota:**
 
-Elle fait rapport aux ministres compétents des difficultés ou anomalies dont elle a connaissance. Elle propose les
-modifications de textes et les réformes de procédure qui en découlent.
-
-La commission comprend un représentant de chacun des ministres assurant la tutelle des centres de formalités des entreprises
-et des organismes destinataires. La commission pour les simplifications administratives, représentée par son rapporteur
-général, participe en tant que de besoin aux réunions de la commission de coordination des centres de formalités des
-entreprises.
-
-Un arrêté du Premier ministre fixe les conditions de fonctionnement de la commission, ainsi que les modalités de publication
-de ses avis.
+Modifications effectuées en conséquence de l'article R. 123-28 du code de commerce.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-375 du 19 mars 2002 - art. 9 () JORF 21 mars 2002
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2002-923 2002-06-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code de commerce - art. R123-28
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AI
 
 
 ###### Article 371 AR
 
-En cas de difficulté grave de fonctionnement d'un centre, le Premier ministre prend, par arrêté, toutes mesures de nature à
-assurer la continuité du service.
+Conformément à l'article R. 123-29 du code de commerce, en cas de difficulté grave de fonctionnement d'un centre, le Premier
+ministre prend toutes mesures de nature à assurer la continuité du service.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article R. 123-29 du code de commerce.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-650 du 19 juillet 1996 - art. 10 (Ab) JORF 23 juillet 1996
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°97-661 1997-05-28
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code de commerce - art. R123-29
 
 
 ###### Article 371 AS
 
-Chaque centre est compétent pour recevoir les déclarations énumérées aux I, II et III ainsi que les actes et pièces dont la
-remise est exigée par l'un des organismes destinataires.
+Conformément à l'article R. 123-30 du code de commerce, les annexes aux articles R. 123-5 et R. 123-30 du même code précisent
+les déclarations devant être déposées aux centres de formalités des entreprises et les administrations, personnes ou
+organismes destinataires de ces formalités selon leur compétence.
 
-I. - Personnes physiques exerçant une activité
+**Nota:**
 
-non salariée et entreprises individuelles
-
-1. Création :
-
-- immatriculation principale au registre du commerce et des sociétés ;
-
-- immatriculation au répertoire des métiers ;
-
-- immatriculation au registre des entreprises de la batellerie artisanale ;
-
-- immatriculation au registre des agents commerciaux ;
-
-- inscription au répertoire national des entreprises et des établissements ;
-
-- déclaration d'existence au service des impôts ;
-
-- affiliation aux URSSAF, aux caisses générales de sécurité sociale ou aux caisses de mutualité sociale agricole ;
-
-- déclaration à l'inspection du travail.
-
-2. Transfert hors du ressort géographique de l'un des organismes ou administrations destinataires de la déclaration initiale.
-
-3. Modifications :
-
-- changement de nom lié ou non avec le mariage de la personne immatriculée ou du chef d'entreprise ;
-
-- changement de nom commercial ;
-
-- changement de l'enseigne ;
-
-- changement de l'adresse de correspondance ;
-
-- changement, extension ou cessation partielle de l'activité ;
-
-- cessation temporaire d'activité et reprise d'activité après cette cessation ;
-
-- mise en location-gérance soit du fonds de commerce de l'établissement principal, soit de l'établissement artisanal ;
-
-- reprise du fonds ou de l'établissement par le loueur après une location-gérance ;
-
-- renouvellement du contrat de location-gérance ;
-
-- changement du mode d'exploitation du fonds de commerce de l'établissement principal ;
-
-- mention du conjoint collaborateur ;
-
-- transfert de l'établissement principal ou de l'entreprise à l'intérieur du ressort géographique de l'un des organismes ou
-administrations destinataires de la déclaration initiale.
-
-4. Cessation définitive de l'activité, décès, radiation.
-
-II. - Personnes morales
-
-1. Création :
-
-- immatriculation principale au registre du commerce et des sociétés ;
-
-- immatriculation au répertoire des métiers ;
-
-- immatriculation au registre de la batellerie artisanale ;
-
-- inscription au répertoire national des entreprises et des établissements ;
-
-- déclaration d'existence au service des impôts ;
-
-- affiliation aux URSSAF, aux caisses générales de sécurité sociale ou aux caisses de mutualité sociale agricole ;
-
-- déclaration à l'inspection du travail.
-
-2. Transfert du siège social hors du ressort géographique de l'un des organismes ou administrations destinataires de la
-déclaration initiale.
-
-3. Modifications :
-
-- changement de raison sociale ou de dénomination sociale ;
-
-- changement de l'enseigne ;
-
-- changement de l'adresse de correspondance ;
-
-- changement relatif à la forme juridique, au capital et à la durée de la personne morale ;
-
-- changement des dirigeants, gérants ou associés ;
-
-- changement, extension ou cessation partielle de l'activité de la personne morale ;
-
-- cessation temporaire d'activité et reprise d'activité après cette cessation ;
-
-- mise en location-gérance ou reprise après location-gérance du fonds de commerce ;
-
-- renouvellement du contrat de location-gérance ;
-
-- changement du mode d'exploitation du fonds de commerce de la société ;
-
-- transfert du siège social à l'intérieur du ressort de l'un des organismes ou administrations destinataires de la
-déclaration initiale.
-
-4. Cessation définitive d'activité, fin de la personne morale, radiation.
-
-III. - Etablissements
-
-1. Ouverture :
-
-- mention au répertoire des métiers ;
-
-- mention au registre de la batellerie artisanale ;
-
-- immatriculation secondaire ou inscription complémentaire au registre du commerce et des sociétés ;
-
-- déclaration d'ouverture : au service des impôts, aux URSSAF ou aux caisses générales de sécurité sociale et à l'inspection
-du travail.
-
-2. Modifications :
-
-- changement de l'enseigne ;
-
-- changement de l'adresse de correspondance ;
-
-- changement, extension ou cessation partielle de l'activité ;
-
-- cessation temporaire d'activité ou reprise d'activité après cessation ;
-
-- mise en location-gérance du fonds de commerce ou de l'établissement artisanal ou reprise après location-gérance ;
-
-- renouvellement du contrat de location-gérance ;
-
-- changement du mode d'exploitation de l'activité ;
-
-- transfert.
-
-3. Cessation définitive d'activité, radiation.
-
-Ne relèvent pas de la compétence des centres :
-
-- les déclarations fiscales concernant l'assiette ou le renouvellement des droits ou taxes ;
-
-- les déclarations relatives aux modifications de l'effectif des salariés pour fixer notamment le montant des contributions
-sociales ;
-
-- les déclarations relatives à des mesures de publicité autres que celles figurant au registre du commerce et des sociétés et
-au registre des agents commerciaux ;
-
-- les formalités prévues dans le cadre de la déclaration unique d'embauche ;
-
-- les déclarations concernant une personne morale de droit public non soumise à immatriculation au registre du commerce et
-des sociétés.
-
-Ces déclarations pourront être complétées par arrêté des ministres chargés de la justice, des transports, des affaires
-sociales, du travail, de l'économie, de l'industrie, de l'agriculture, du commerce et de l'artisanat, de la réforme
-administrative et du budget.
+Modifications effectuées en conséquence de l'article R. 123-30 du code de commerce et des annexes 1-1 et 1-2 aux articles R.
+123-5 et R. 123-30.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-650 1996-07-19 art. 11, annexe II JORF 23 juillet 1996
-	  - Décret n°96-650 du 19 juillet 1996 - art. 11 (Ab) JORF 23 juillet 1996
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Code de commerce - art. R123-30
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AK (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-
 
 ###### Article 371-0 AQ bis
 
-Les dispositions des articles 371 AI à 371 AQ sont applicables à la déclaration d'entreprise par voie électronique sous
-réserve des dispositions qui suivent :
+Conformément à l'article R. 123-20 du code de commerce, sous réserve des dispositions des articles R. 123-21 à R. 123-27 du
+même code, les dispositions des articles 371 AI à 371 AQ sont applicables à la déclaration d'entreprise par voie
+électronique.
 
-I. - Lorsqu'il est établi et transmis par voie électronique aux centres de formalités des entreprises, le dossier unique
-mentionné à l'article 2 de la loi du 11 février 1994 susvisée comprend les documents suivants :
+**Nota:**
 
-1° Le formulaire électronique contenant l'ensemble des données déclarées ;
-
-2° Les pièces numériques ou numérisées exigibles, y compris, le cas échéant, le mandat donné par le déclarant à une personne
-physique ou morale en vue d'effectuer la déclaration pour son compte ainsi que les actes constitutifs devant être déposés,
-sauf s'il s'agit de pièces devant être fournies en original et établies sur support papier ;
-
-3° Lorsque la déclaration de création ou de modification de situation donne lieu à la perception de frais légaux entraînés
-par l'inscription dans un registre légal, le justificatif de règlement de ces frais, selon des moyens communiqués au
-déclarant.
-
-II. - Pour l'application des dispositions du présent article, lorsqu'une signature est requise, le recours à une signature
-électronique sécurisée est exigé dans les conditions prévues à l'article 1316-4 du code civil et au décret n° 2001-272 du 30
-mars 2001 pris pour l'application de l'article 1316-4 du code civil et relatif à la signature électronique. Toutefois, pour
-la transmission par voie électronique des dossiers de création d'entreprise, est autorisé, y compris pour les demandes
-d'immatriculation au registre du commerce et des sociétés, le recours à une signature électronique présentant les
-caractéristiques prévues par la première phrase du second alinéa de l'article 1316-4 du code civil.
-
-III. - Lorsqu'il doit déposer des actes authentiques ou actes sous seing privé en original ou s'il souhaite fournir sur
-support papier tout ou partie des pièces et justificatifs exigés, le déclarant joint à ces pièces une édition de l'accusé de
-réception électronique prévu au IV.
-
-IV. - Dès réception d'un dossier conforme aux dispositions des I et II, le centre de formalités des entreprises compétent en
-accuse réception par voie électronique au déclarant ou à son mandataire.
-
-Le centre de formalités des entreprises est responsable de la transmission aux organismes et administrations destinataires
-des éléments du dossier de déclaration d'entreprise qu'il a reçus par voie électronique.
-
-V. - Lorsque le dossier mentionné au I est réputé complet, la transmission au déclarant ou à son mandataire des récépissés
-prévus aux II et VII de l'article 371 AN s'effectue par voie électronique, sauf si le déclarant ou son mandataire en demande
-la transmission par voie postale.
-
-En cas de transmission électronique, le récépissé prévu au VII de l'article 371 AN comporte la signature électronique
-sécurisée de celui qui l'émet dans les conditions prévues par le décret du 30 mars 2001 précité.
-
-VI. - Un arrêté ministériel fixe les caractéristiques électroniques des documents énumérés au I et les modalités de
-délivrance de l'accusé de réception électronique prévu au V.
-
-VII. - Lorsqu'ils se sont dotés des équipements techniques nécessaires, les centres de formalités des entreprises, ou les
-services que les organismes gestionnaires de centres de formalités des entreprises mettent en commun à cette fin, fournissent
-un service informatique accessible par l'internet, sécurisé et gratuit, permettant au déclarant, selon son choix, de :
-
-1° Transmettre un dossier unique tel que défini au I dès lors qu'il respecte les dispositions du II et du VI ;
-
-2° Préparer un tel dossier de manière interactive et le transmettre.
-
-Ce service peut également être proposé par les greffes.
-
-VIII. - Lorsque la déclaration appelle inscription au registre du commerce et des sociétés, en application de l'article L.
-123-1 du code de commerce, le service informatique visé au VII permet, conjointement :
-
-1° Au déclarant de procéder à l'acquittement des frais légaux induits par cette inscription au registre du commerce et des
-sociétés auprès du greffe ;
-
-2° Au greffe compétent de recevoir, par voie électronique, la partie du dossier unique qui lui est nécessaire pour procéder à
-cette inscription. Il en accuse réception, par voie électronique, au déclarant ;
-
-3° Au centre de formalités des entreprises de recevoir, par voie électronique, le dossier unique.
-
-IX. - Si le déclarant utilise un service de conservation provisoire des données proposé par le service de déclaration dans
-des conditions conformes à la loi du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, il est
-procédé, à l'issue de la période de conservation provisoire d'une durée maximale d'un mois, à l'effacement de toutes les
-données et de tous les fichiers concernant le déclarant sur les supports informatiques où ils figurent. Le déclarant en est
-avisé préalablement par voie électronique ou, à défaut, par lettre simple.
+Modifications effectuées en conséquence des articles R. 123-20 à R. 123-27 du code de commerce.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-679 du 9 juin 2006 - art. 1 (V) JORF 10 juin 2006
-	  - Décret n°2006-679 du 9 juin 2006 - art. 7 () JORF 10 juin 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code de commerce - art. R123-20
+	  - Code de commerce - art. R123-21
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AI
 
 
 ### Chapitre II : Sociétés immobilières de copropriété
@@ -22322,107 +21311,6 @@ IV de l'article 1754 du code général des impôts et 51, 369 et au 1 de l'artic
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2007
-
-
-#### VI : Participation des employeurs au développement de la formation professionnelle continue
-
-###### Article 383 bis A
-
-Cet article reproduit les dispositions de l'article R. 950-22 du code du travail :
-
-"Les versements mentionnés aux articles L. 951-3, premier et troisième alinéas, et L. 951-9 doivent être effectués, au moment
-du dépôt de la déclaration prévue à l'article L. 951-12, à la recette des impôts compétente en vertu des dispositions de
-l'article R. 950-21."
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Modifié par**:
-
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Cite**:
-
-	  - Code du travail - art. R950-22
-
-
-##### 1° : Fonds d'assurance-formation.
-
-###### Article 383 bis B
-
-Cet article reproduit les dispositions de l'article R. 964-8 du code du travail :
-
-"Les disponibilités dont un fonds d'assurance formation peut disposer au 31 décembre d'un exercice déterminé ne peuvent
-excéder le montant des charges comptabilisées au cours du même exercice.
-
-S'il y a excédent, celui-ci doit être affecté, avant le 30 juin de l'année suivante, au financement d'actions de formation au
-bénéfice de demandeurs d'emploi sans contrat de travail organisées dans des centres de formation conventionnés dans les
-conditions prévues par le huitième alinéa de l'article L. 951-1 du code du travail.
-
-Les excédents non utilisés dans les conditions ci-dessus prévues sont reversés au Trésor avant la même date, accompagnés d'un
-bordereau indiquant, outre la désignation et l'adresse du déclarant, le montant de l'excédent à reverser. Ce bordereau doit
-être remis à la recette des impôts du siège du fonds d'assurance formation.
-
-A défaut, il est fait application de la procédure prévue au deuxième alinéa de l'article R. 964-9 ci-après.
-
-Les dispositions qui précèdent ne s'appliquent qu'à partir de la troisième année suivant celle au cours de laquelle le fonds
-d'assurance formation a, selon le cas, été créé ou a reçu l'agrément mentionné à l'article L. 961-9 (alinéa 2)."
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Modifié par**:
-
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°2008-294 du 1er avril 2008 - art. 2
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Cite**:
-
-	  - Code du travail - art. L951-1
-	  - Code du travail - art. R964-8
-
-
-###### Article 383 bis C
-
-Le deuxième alinéa de l'article R. 964-9 du code du travail est ci-après reproduit :
-
-"Art. R. 964-9 - 2è alinéa - Les emplois de fonds qui ne répondent pas aux règles des articles R. 964-1-13, R. 964-4, R.
-964-1-7, II et R. 964-15 donnent lieu à un reversement de même montant par le fonds d'assurance formation ou par la chambre
-régionale de métiers et de l'artisanat et, dans les départements d'outre-mer, la chambre des métiers et de l'artisanat au
-Trésor public."
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2007-1267 du 24 août 2007 - art. 2 () JORF 25 août 2007
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°2008-294 du 1er avril 2008 - art. 2
-
-	**Cite**:
-
-	  - Code du travail - art. R964-9
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
 
 
 ### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -23123,31 +22011,21 @@ Celle-ci statue dans les conditions prévues au chapitre Ier du même décret.
 Les cessions de rang de privilège ou d'hypothèque ou l'abandon de ces sûretés prévus par l'article 1929 septies du code
 général des impôts peuvent, sans extinction préalable de la créance, être accordés après consultation de la commission
 départementale des chefs des services financiers et des représentants des organismes de recouvrement des cotisations de
-sécurité sociale. Les frais afférents à ces opérations sont à la charge du débiteur.
-
-**Nota:**
-
-Loi 2005-845 2005-07-26 art. 165 II : 
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
-redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
-et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
-plans de sauvegarde ou de redressement judiciaire.
+sécurité sociale et d'assurance chômage. Les frais afférents à ces opérations sont à la charge du débiteur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°85-1388 1985-12-27 art. 180 JORF 29 décembre 1985 en vigueur le 1er janvier 1986
-	  - Décret n°97-656 du 30 mai 1997 - art. 1 (Ab) JORF 1er juin 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1929 septies (Dis)
 
 
 ## Chapitre II ter : Dégrèvements et restitutions d'impôts
