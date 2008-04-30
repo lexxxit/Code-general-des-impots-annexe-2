@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2008-04-03
+Version Consolidée au 2008-05-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2923,60 +2923,72 @@ l'expiration du délai de reprise fixé par le premier alinéa de l'article L. 1
 ###### Article 81 bis
 
 I. Le crédit d'impôt attaché aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour leur compte en
-application des articles L442-1 à L442-18 du code du travail donne lieu à la délivrance d'un certificat distinct,
-conformément aux dispositions de l'article 77.
+application des articles L. 3322-1 à L. 3326-2 du code du travail donne lieu à la délivrance d'un certificat distinct,
+conformément aux dispositions de l'article 77. 
 
 II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA du code général des impôts, le
 certificat est établi pour la totalité du crédit d'impôt au nom de l'organisme chargé de la conservation des titres et de la
-restitution du crédit d'impôt mentionné sur ce certificat est demandée par cet organisme.
+restitution du crédit d'impôt mentionné sur ce certificat est demandée par cet organisme. 
 
 Lorsque l'exonération ne porte que sur la moitié de ces revenus le certificat établi au nom de l'organisme chargé de la
 conservation des titres ne mentionne que la moitié du crédit d'impôt qui s'attache à ces revenus. La restitution demandée par
-l'organisme porte alors sur un montant réduit de moitié.
+l'organisme porte alors sur un montant réduit de moitié. 
 
 III. La demande de restitution, accompagnée du certificat, est adressée au service des impôts du siège de l'organisme qui l'a
-établie.
+établie. 
 
 La restitution est opérée au profit de cet organisme, à charge pour lui d'employer les sommes correspondantes de la même
 façon que les revenus auxquels elles se rattachent.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 163 bis AA
+	  - Code général des impôts, CGI. - art. 77
+	  - Code du travail - art. L3322-1
 
 
 ###### Article 82
 
 I. Le crédit d'impôt attaché aux revenus du portefeuille collectif ou des titres détenus individuellement qui sont acquis en
-application des articles L443-1 à L443-9 du code du travail et dans les conditions fixées à ces articles donne lieu à la
-délivrance d'un certificat distinct conformément aux dispositions de l'article 77.
+application des articles L. 3331-1 à L. 3335-1 du code du travail et dans les conditions fixées à ces articles donne lieu à
+la délivrance d'un certificat distinct conformément aux dispositions de l'article 77. 
 
 II. Lorsque ces revenus sont totalement exonérés, conformément aux dispositions des deux premières phrases du II de l'article
 163 bis B du code général des impôts, le certificat est établi pour la totalité du crédit d'impôt au nom de l'organisme
 chargé de la conservation des titres et la restitution du crédit d'impôt mentionné sur ce certificat est demandée par ce
-organisme.
+organisme. 
 
 III. La demande de restitution, accompagnée du certificat, est adressée au service des impôts du siège de l'organisme qui l'a
-établie.
+établie. 
 
 La restitution est opérée au profit de cet organisme, à charge pour lui d'employer les sommes correspondantes de la même
 façon que les revenus auxquels elles se rattachent.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 163 bis B
+	  - Code général des impôts, CGI. - art. 77
+	  - Code du travail - art. L3331-1
 
 
 ##### II : Distribution de primes à la construction par les sociétés immobilières d'investissement et les sociétés immobilières de gestion
@@ -9359,16 +9371,16 @@ privé exerçant une activité de formation professionnelle continue souscrivent
 adressée par lettre recommandée avec accusé de réception à la direction régionale du travail, de l'emploi et de la formation
 professionnelle ou à la direction du travail, de l'emploi et de la formation professionnelle pour les départements d'outre-
 mer dont le demandeur relève ou, s'agissant des organismes paritaires titulaires d'un des agréments mentionnés au II, auprès
-de l'autorité qui a procédé à leur agrément.
+de l'autorité qui a procédé à leur agrément. 
 
-II.  Seules les personnes qui ont souscrit la déclaration mentionnée à l'article L. 920-4 du code du travail ou qui
-bénéficient d'un des agréments mentionnés aux articles L. 951-1, L. 952-1, L. 961-9, L. 961-12 et L. 961-13 du même code
-peuvent obtenir l'attestation.
+II. Seules les personnes qui ont souscrit la déclaration mentionnée à l'article L. 6351-1 du code du travail ou qui
+bénéficient d'un des agréments mentionnés aux articles L. 6332-1, L. 6332-7 et L. 6332-19 du même code peuvent obtenir
+l'attestation. 
 
 En outre, l'attestation ne peut être délivrée qu'à la condition que l'activité du demandeur entre dans le cadre de la
-formation professionnelle continue telle que définie conjointement par les articles L. 900-1 et L. 900-2 du code du travail
+formation professionnelle continue telle que définie conjointement par les articles L. 6311-1 et L. 6313-1 du code du travail
 ou relève des missions légalement dévolues aux organismes paritaires agréés. Le demandeur doit être à jour de ses obligations
-résultant de l'article L. 920-5 du code du travail.
+résultant de l'article L. 6352-11 du code du travail. 
 
 III. La direction régionale du travail, de l'emploi et de la formation professionnelle ou la direction du travail, de
 l'emploi et de la formation professionnelle pour les départements d'outre-mer dont relève le demandeur ou le ministre chargé
@@ -9377,28 +9389,27 @@ trois mois à compter de la réception de la demande pour délivrer l'attestatio
 l'attestation est réputée accordée. Le refus de délivrance de l'attestation doit être motivé. Un exemplaire de l'attestation
 ou de la décision de refus est adressé au demandeur et à la direction des services fiscaux dont il relève.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°94-1166 du 28 décembre 1994 - art. 1 (V) JORF 30 décembre 1994
-	  - Décret n°99-955 du 17 novembre 1999 - art. 1 (VT) JORF 20 novembre 1999
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 156 () JORF 18 janvier 2002
-	  - Loi n°2004-391 du 4 mai 2004 - art. 23 () JORF 5 mai 2004
-	  - Loi n°2004-391 du 4 mai 2004 - art. 24 () JORF 5 mai 2004
-	  - Loi n°2004-391 du 4 mai 2004 - art. 34 (V) JORF 5 mai 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 202 C (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 261
+	  - Code du travail - art. L6311-1
+	  - Code du travail - art. L6332-1
+	  - Code du travail - art. L6351-1
+	  - Code du travail - art. L6352-11
 
 
 ###### Article 202 B
@@ -9431,28 +9442,30 @@ par le titulaire de l'attestation.
 ###### Article 202 C
 
 En cas de caducité de la déclaration visée au II de l'article 202 A du fait de l'application des dispositions de l'article L.
-920-4 du code du travail, il est mis fin à l'attestation par une décision qui doit être motivée et notifiée par l'autorité
+6351-6 du code du travail, il est mis fin à l'attestation par une décision qui doit être motivée et notifiée par l'autorité
 qui l'a délivrée au titulaire de l'attestation. Il en va de même en cas de retrait d'un des agréments mentionnés au II de
-l'article 202 A.
+l'article 202 A. 
 
 Cette décision a pour effet de remettre en cause l'exonération de TVA des opérations mentionnées à l'article 202 B, qui
-deviennent imposables à la TVA à partir de la date de sa notification.
+deviennent imposables à la TVA à partir de la date de sa notification. 
 
 Un exemplaire de cette notification est adressé à la direction des services fiscaux dont relève le titulaire.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 156 () JORF 18 janvier 2002
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 202 A
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 202 B
+	  - Code du travail - art. L6351-6
 
 
 ###### Article 202 D
@@ -19470,7 +19483,7 @@ chambres d'agriculture, soit des organisations professionnelles légalement cons
 d'artisans ou d'agriculteurs. 
 
 Les organisations professionnelles mentionnées au premier alinéa comprennent les syndicats professionnels et leurs unions
-institués conformément aux dispositions des articles L. 410 et suivants du code du travail et les associations
+institués conformément aux dispositions des articles L. 2111-1 et suivants du code du travail et les associations
 professionnelles de personnes exerçant la même profession, des métiers similaires ou des métiers connexes ainsi que leurs
 unions. 
 
@@ -19485,16 +19498,25 @@ Ils ne peuvent agir en qualité de mandataires de leurs membres.
 Toutefois, les centres peuvent recevoir mandat de leurs membres ayant adhéré au système de transfert des données fiscales et
 comptables pour transmettre les informations correspondant aux obligations déclaratives de ces membres.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
+	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 25 novembre 2010 - art. (Ab)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 I (Ab)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 quater C
+	  - Code du travail - art. L2111-1
 
 
 ###### Article 371 B
