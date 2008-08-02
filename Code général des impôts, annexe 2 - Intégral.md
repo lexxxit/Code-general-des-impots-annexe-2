@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2008-05-03
+Version Consolidée au 2008-08-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1891,21 +1891,21 @@ d'un tiers, à quelque titre que ce soit, en rémunération de l'opération.
 
 ###### Article 74-0 C
 
-Les soultes reçues lors du partage d'une indivision autre que successorale ou conjugale constituent, pour leurs
-bénéficiaires, le prix des droits cédés à cette occasion aux autres copartageants.
+Les soultes reçues lors des partages de biens indivis autres que ceux mentionnés au IV de l'article 150-0 A du code général
+des impôts constituent, pour leurs bénéficiaires, le prix des droits cédés à cette occasion aux autres copartageants. 
 
 En cas de cession ultérieure d'un bien attribué à charge de soulte, dans les mêmes cas, le prix d'acquisition de ce bien est
 constitué par la valeur des droits originaires du cédant augmentée du montant de la soulte versée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1190 du 5 décembre 2000 - art. 1 () JORF 8 décembre 2000
+	  - Décret n°2008-762 du 30 juillet 2008 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 150-0 A (VT)
 
 
 ###### Article 74-0 D
