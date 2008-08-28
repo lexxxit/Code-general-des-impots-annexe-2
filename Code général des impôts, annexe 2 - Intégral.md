@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2008-08-03
+Version Consolidée au 2008-08-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17910,6 +17910,145 @@ départements producteurs.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 312 (V)
+
+
+##### I bis : Taxe sur les éoliennes maritimes
+
+###### Article 315 A
+
+L'exploitant d'unités de production d'électricité utilisant l'énergie mécanique du vent situées dans les eaux intérieures ou
+la mer territoriale, mentionnées à l'article 1519 B du code général des impôts, souscrit avant le 31 décembre de l'année
+précédant l'année d'imposition auprès du service des impôts une déclaration indiquant le nombre de ces unités de production,
+la date de leur mise en service et le nombre de mégawatts installés dans chaque unité. 
+
+Le service des impôts territorialement compétent est celui dont dépend la commune où est installé le point de raccordement de
+l'installation au réseau public de distribution ou de transport d'électricité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-851 du 26 août 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1519 B
+
+
+###### Article 315 B
+
+Pour l'application du 1° de l'article 1519 C du code général des impôts, les communes s'entendent des communes littorales
+définies à l'article L. 321-2 du code de l'environnement et dont, dans un rayon de 12 milles marins autour d'une unité de
+production, celle-ci est visible d'au moins un des points de leur territoire. 
+
+La liste des communes satisfaisant à ces conditions est fixée par arrêté du représentant de l'Etat dans le département
+lorsque les communes font partie du même département, ou par arrêté conjoint des représentants de l'Etat dans les
+départements concernés dans le cas contraire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-851 du 26 août 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 C (Ab)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1519 C
+	  - Code de l'environnement - art. L321-2
+
+
+###### Article 315 C
+
+La première moitié du produit de la taxe prévue au 1° de l'article 1519 C du code général des impôts est répartie par arrêté
+du représentant de l'Etat dans le département ou par arrêté conjoint des représentants de l'Etat entre les communes inscrites
+sur la liste mentionnée à l'article 315 B. La fraction du produit de la taxe attribuée à chaque commune est égale à la
+moyenne des deux taux suivants : 
+
+1° Le taux résultant du rapport entre, d'une part, la population de la commune et, d'autre part, la population de l'ensemble
+des communes mentionnées au premier alinéa. Le chiffre de la population pris en compte est celui de la population totale
+mentionnée à l'article R. 2151-1 du code général des collectivités territoriales et majoré, le cas échéant, de la population
+résultant conformément aux dispositions des articles R. 2151-4 à R. 2151-7 du même code d'opérations de recensements
+complémentaires et d'attribution de population fictive ; 
+
+2° Le taux résultant du rapport entre, d'une part, l'inverse de la distance entre le point du territoire de la commune le
+plus proche d'une unité de production et cette unité, et d'autre part, la somme des inverses de cette même distance calculés
+pour l'ensemble des communes mentionnées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-851 du 26 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 B
+	  - Code général des impôts, CGI. - art. 1519 C
+	  - Code général des collectivités territoriales - art. R2151-1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 E (Ab)
+
+
+###### Article 315 D
+
+Dans le cadre d'un fonds départemental pour les activités maritimes de pêche et de plaisance qu'il gère, le conseil général
+répartit la seconde moitié du produit de la taxe prévue au 2° de l'article 1519 C du code général des impôts entre les
+communes concernées par ces activités et selon les critères qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-851 du 26 août 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 E (Ab)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1519 C
+
+
+###### Article 315 E
+
+L'arrêté mentionné au premier alinéa de l'article 315 C doit être pris avant le 31 décembre de l'année suivant celle de
+l'imposition. 
+
+Le conseil général délibère sur la répartition prévue à l'article 315 D avant la date mentionnée à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-851 du 26 août 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 C
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 D
 
 
 ##### II : Taxes facultatives
