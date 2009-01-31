@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-02-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9523,31 +9523,35 @@ les organismes agissant sans but lucratif désignés au a du 1° du 7 de l'artic
 
 1. Les entreprises placées sous le régime simplifié d'imposition mentionné au premier alinéa du I de l'article 267 quinquies
 peuvent renoncer aux modalités simplifiées de liquidation de la taxe sur la valeur ajoutée prévues au 3 de l'article 287 du
-code général des impôts.
+code général des impôts. 
 
-Dans ce cas, elles souscrivent leurs déclarations dans les conditions prévues au 2 du même article.
+Dans ce cas, elles souscrivent leurs déclarations dans les conditions prévues au 2 du même article. 
 
-2. L'option, exercée pour deux ans, est notifiée par lettre recommandée avec demande d'avis de réception un mois avant la fin
-d'une période d'imposition donnant lieu au dépôt de la déclaration prévue par les dispositions du 3 de l'article 287 du code
-général des impôts. Elle prend effet le premier jour du mois suivant cette période.
+2.L'option est exercée pour deux ans et notifiée par lettre recommandée avec demande d'avis de réception. 
+
+Elle prend effet le 1er janvier de l'année en cours si elle est notifiée avant la date mentionnée au premier alinéa de
+l'article 242 sexies. Dans ce cas, la première déclaration mentionnée au 2 de l'article 287 du code général des impôts est
+déposée le mois qui suit la notification de l'option et comporte l'ensemble des opérations réalisées entre le 1er janvier et
+la fin du mois au cours duquel l'option a été notifiée. 
+
+Elle prend effet le 1er janvier de l'année suivante si elle est notifiée après la date mentionnée au premier alinéa de
+l'article 242 sexies.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 287, 267 quinquies
-
 	**Modifié par**:
 
-	  - Décret n°99-545 du 30 juin 1999 - art. 1 () JORF 1er juillet 1999
+	  - Décret n°2009-109 du 29 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 sexies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 267 quinquies
+	  - Code général des impôts, CGI. - art. 287
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
 
 
 ##### II : Déductions
@@ -10024,39 +10028,39 @@ demande des assujettis. Le remboursement porte sur le crédit de taxe déductibl
 ###### Article 242-0 C
 
 I. 1. Les demandes de remboursement doivent être déposées au cours du mois de janvier et porter sur un montant au moins égal
-à 150 euros.
+à 150 euros. 
 
 2. Pour les assujettis placés sous le régime simplifié d'imposition, le crédit de taxe déductible résulte des énonciations de
-leur déclaration annuelle. La demande de remboursement est déposée avec cette déclaration.
+leur déclaration annuelle. La demande de remboursement est déposée avec cette déclaration. 
 
 Pour les assujettis qui ont exercé l'option prévue au 2 de l'article 204 ter A, le remboursement du crédit de taxe déductible
-apparaissant le 31 décembre peut être demandé dans les conditions déterminées au 1.
+apparaissant le 31 décembre peut être demandé dans les conditions déterminées au 1. 
 
-II. - Par dérogation aux dispositions du I, les assujettis soumis de plein droit ou sur option au régime normal d'imposition
-peuvent demander un remboursement au titre d'un trimestre civil lorsque chacune des déclarations de ce trimestre fait
-apparaître un crédit de taxe déductible. La demande de remboursement est déposée au cours du mois suivant le trimestre
-considéré. Elle doit porter sur un montant au moins égal à 760 euros.
+II.-Par dérogation aux dispositions du I, les assujettis soumis de plein droit ou sur option au régime normal d'imposition
+peuvent demander un remboursement lorsque la déclaration mentionnée au 2 de l'article 287 du code général des impôts fait
+apparaître un crédit de taxe déductible. La demande de remboursement doit porter sur un montant au moins égal à 760 euros. 
 
-III. - Par dérogation aux dispositions du I, les assujettis placés sous le régime d'acomptes prévu au 3 de l'article 287 du
+Les dispositions de l'alinéa précédent s'appliquent également aux exploitants agricoles ayant exercé l'option prévue au
+quatrième alinéa du I de l'article 1693 bis du code général des impôts pour acquitter l'impôt au vu de déclarations
+mensuelles ou trimestrielles. 
+
+III.-Par dérogation aux dispositions du I, les assujettis placés sous le régime d'acomptes prévu au 3 de l'article 287 du
 code général des impôts peuvent demander un remboursement trimestriel du crédit constitué par la taxe déductible ayant grevé
-l'acquisition de biens constituant des immobilisations lorsque son montant est au moins égal à 760 euros.
+l'acquisition de biens constituant des immobilisations lorsque son montant est au moins égal à 760 euros. 
 
 Les remboursements s'effectuent dans les conditions prévues à l'article 242 septies J.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 287, 204 ter A, 242 septies J
-
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2009-109 du 29 janvier 2009 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 204 ter A
+	  - Code général des impôts, CGI. - art. 1693 bis
+	  - Code général des impôts, CGI. - art. 287
 
 	**Cité par**:
 
@@ -10066,28 +10070,24 @@ Les remboursements s'effectuent dans les conditions prévues à l'article 242 se
 
 ###### Article 242-0 D
 
-1. (Abrogé).
+1. (Abrogé). 
 
-2. (Devenu sans objet).
+2. (Devenu sans objet). 
 
 3. Pour les assujettis placés sous le régime simplifié des exploitants agricoles, autres que ceux qui ont opté pour le régime
-des déclarations trimestrielles, le crédit de taxe déductible résulte des énonciations de leur déclaration annuelle et,
-lorsqu'ils ont exercé l'option prévue à l'article 260 J, des déclarations relatives à des périodes d'une durée inférieure à
-un an. La demande de remboursement doit être déposée avec cette déclaration.
+des déclarations trimestrielles ou mensuelles, le crédit de taxe déductible résulte des énonciations de leur déclaration
+annuelle et, lorsqu'ils ont exercé l'option prévue à l'article 260 J, des déclarations relatives à des périodes d'une durée
+inférieure à un an. La demande de remboursement doit être déposée avec cette déclaration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 260 J
-
 	**Modifié par**:
 
-	  - Décret n°2005-1244 du 27 septembre 2005 - art. 5 () JORF 4 octobre 2005
+	  - Décret n°2009-109 du 29 janvier 2009 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 260 J
 
 
 ###### Article 242-0 E
