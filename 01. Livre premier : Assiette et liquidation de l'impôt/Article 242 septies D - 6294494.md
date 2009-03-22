@@ -1,9 +1,9 @@
 # Article 242 septies D
 
-Lorsque aucun exercice n'a été clôturé au cours d'une année civile, une déclaration est déposée au plus tard le 30 avril de
-l'année suivante. Elle couvre la période écoulée depuis la date de clôture de l'exercice précédent jusqu'au 31 décembre de
-l'année au cours de laquelle aucun exercice n'a été clôturé. Une nouvelle période d'imposition s'ouvre le 1er janvier
-suivant.
+Lorsque aucun exercice n'a été clôturé au cours d'une année civile, une déclaration est déposée l'année suivante, au plus
+tard le deuxième jour ouvré suivant le 1er mai. Elle couvre la période écoulée depuis la date de clôture de l'exercice
+précédent jusqu'au 31 décembre de l'année au cours de laquelle aucun exercice n'a été clôturé. Une nouvelle période
+d'imposition s'ouvre le 1er janvier suivant.
 
 **Liens relatifs à cet article**
 
@@ -13,8 +13,4 @@ suivant.
 
 	**Modifié par**:
 
-	  - Décret n°99-545 du 30 juin 1999 - art. 9 () JORF 1er juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
+	  - Décret n°2009-315 du 20 mars 2009 - art. 4

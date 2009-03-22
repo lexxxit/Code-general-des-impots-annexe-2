@@ -1,10 +1,10 @@
 # Article 242 septies F
 
 1. Les entreprises ayant exercé l'option prévue à l'article 242 septies A qui deviennent imposables, de plein droit ou sur
-option, d'après le chiffre d'affaires réel au 1er janvier de l'année suivant cet exercice, doivent souscrire une déclaration
+option, d'après le chiffre d'affaires réel au 1er janvier de l'année  suivant cet exercice, doivent souscrire une déclaration
 pour la période comprise entre la date de clôture du dernier exercice entièrement couvert par l'option et le 31 décembre de
-la dernière année d'imposition au régime simplifié. Cette déclaration doit être souscrite au plus tard le 30 avril de l'année
-suivante.
+la dernière année d'imposition au régime simplifié. Cette déclaration doit être souscrite l'année suivante, au plus tard le
+deuxième jour ouvré suivant le 1er mai. 
 
 2. Les dispositions prévues au 1. sont également applicables aux assujettis qui bénéficient de la franchise de taxe sur la
 valeur ajoutée prévue à l'article 293 B du code général des impôts au titre de l'année civile suivant le dernier exercice
@@ -12,14 +12,11 @@ couvert par l'option prévue à l'article 242 septies A.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 242 septies A, 293 B, 287
-
 	**Modifié par**:
 
-	  - Décret n°99-545 du 30 juin 1999 - art. 11 () JORF 1er juillet 1999
+	  - Décret n°2009-315 du 20 mars 2009 - art. 6
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies A
+	  - Code général des impôts, CGI. - art. 293 B
