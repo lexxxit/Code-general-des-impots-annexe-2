@@ -1,27 +1,19 @@
 # Article 163 sexdecies
 
-Cet article reproduit les dispositions de l'article R. 992-2 du code du travail :
+Les employeurs des départements d'outre-mer, de Saint-Barthélemy et de Saint-Martin employant des salariés à temps partiel,
+d'une manière intermittente ou travaillant à domicile sont soumis à l'obligation de participer au financement de la formation
+professionnelle continue dans les conditions prévues à l'article R. 6523-2 du code du travail.
 
-"Les employeurs des départements d'outre-mer occupant des salariés à temps incomplet ou d'une manière intermittente, ou
-travaillant à domicile, ne sont soumis à l'obligation de participer instituée par les articles L. 950-1 à L. 950-10 que si le
-montant total des salaires versés pendant l'année est au moins égal à 520 fois le salaire hebdomadaire minimum de croissance
-applicable dans le département d'outre-mer considéré. En cas de début ou de fin d'activité, ce nombre est réduit, pour
-l'année considérée, au prorata du nombre de semaines pendant lesquelles l'activité est exercée."
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n° 2008-244 du 7 mars 2008.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
 	**Modifié par**:
 
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Cite**:
 
-	  - Code du travail - art. R992-2 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code du travail - art. R6523-2 (V)

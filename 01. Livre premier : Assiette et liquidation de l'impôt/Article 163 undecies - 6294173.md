@@ -1,30 +1,21 @@
 # Article 163 undecies
 
-Cet article reproduit les dispositions de l'article R. 950-18 du code du travail :
+Pour l'application de l'article 235 ter F du code général des impôts, peuvent se substituer au comité d'entreprise d'autres
+instances de représentation du personnel conformément à l'article R. 2323-2 du code du travail ou une commission spéciale
+créée dans les conditions prévues aux articles R. 2323-3 et R. 2323-4 du même code.
 
-"Dans les entreprises ou organismes où les attributions du comité d'entreprise sont dévolues à d'autres organismes, ceux-ci
-sont substitués au comité d'entreprise pour l'application des dispositions de l'article L. 951-8 et de celles de l'article R.
-950-4.
+**Nota:**
 
-Dans les entreprises employant au moins cinquante salariés qui ne sont pas tenues d'avoir un comité d'entreprise ou un
-organisme de la nature de ceux que mentionne l'alinéa précédent, il est créé une commission spéciale qui est consultée dans
-les conditions prévues à l'article L. 951-8.
-
-Cette commission comprend autant de membres qu'il y a d'organisations syndicales ayant constitué légalement ou qui ont droit
-de constituer une section syndicale dans l'entreprise considérée. Chacune de ces organisations désigne un membre qui est
-obligatoirement choisi parmi les salariés de ladite entreprise remplissant les conditions requises pour l'éligibilité en
-qualité de membre d'un comité d'entreprise".
+Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n°2008-244 du 7 mars 2008.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
 	**Modifié par**:
 
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 235 ter F (V)
+	  - Code du travail - art. R2323-2 (V)
+	  - Code du travail - art. R2323-3 (V)

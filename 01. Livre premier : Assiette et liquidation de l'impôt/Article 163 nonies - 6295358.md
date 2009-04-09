@@ -1,25 +1,20 @@
 # Article 163 nonies
 
-Pour l'application des dispositions des articles L. 951-1 et L. 952-1 du code du travail, le décompte des salariés est
-effectué conformément aux dispositions de l'article R. 950-1 du même code.
+Pour l'application des dispositions des articles 235 ter D et 235 ter KA du code général des impôts, le décompte des salariés
+est effectué conformément aux dispositions de l'article R. 6331-1 du code du travail.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n°2008-244 du 7 mars 2008.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-383 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Cite**:
 
-	  - Code du travail - art. L951-1 (M)
-	  - Code du travail - art. L952-1 (M)
-	  - Code du travail - art. R950-1 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 235 ter D
+	  - Code général des impôts, CGI. - art. 235 ter KA
+	  - Code du travail - art. R6331-1

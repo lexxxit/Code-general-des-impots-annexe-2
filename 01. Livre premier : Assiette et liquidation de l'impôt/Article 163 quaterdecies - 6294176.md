@@ -1,30 +1,24 @@
 # Article 163 quaterdecies
 
-Cet article reproduit les dispositions de l'article R. 950-21 du code du travail :
+La déclaration prévue à l'article 235 ter J du code général des impôts est déposée dans les conditions et délais prévus aux
+articles R. 6331-29 et R. 6331-33 du code du travail.
 
-"La déclaration doit être déposée, dans le délai prévu à l'article L. 951-12 (II), à la recette des impôts du lieu :
+**Nota:**
 
-De souscription de la déclaration des résultats pour les sociétés, les entreprises industrielles, commerciales ou artisanales
-ainsi que pour les employeurs exerçant une activité non commerciale ;
-
-De l'exploitation ou du siège de la direction, en cas de pluralité d'exploitations, pour les exploitants agricoles ;
-
-Du domicile ou du siège social pour les autres employeurs."
+Modifications effectuées en conséquence de l'article 10-I-12° et III de la loi n° 2014-288 du 5 mars 2014.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
 	**Modifié par**:
 
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
-
-	**Cite**:
-
-	  - Code du travail - art. R950-21 (M)
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter J (Dis)
+	  - Code du travail - art. R6331-29
+	  - Code du travail - art. R6331-33

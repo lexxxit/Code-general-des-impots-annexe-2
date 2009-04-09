@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-04-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -249,22 +249,18 @@ la déclaration qui en tient lieu, au service des impôts où la présentation e
 
 En ce qui concerne les biens d'investissement ouvrant droit à déduction de la taxe sur la valeur ajoutée, en application des
 dispositions de l'article 271 du code général des impôts, les amortissements sont, pour l'assiette de l'impôt, calculés sur
-la base du prix d'achat ou de revient déterminé conformément aux dispositions du II de l'article 209 de la présente annexe.
+la base du prix d'achat ou de revient déterminé conformément aux dispositions du II de l'article 209.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 271
-	  - CGIAN2 209
-
 	**Modifié par**:
 
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 209 (V)
+	  - Code général des impôts, CGI. - art. 271
 
 
 #####  3 bis : Amortissement des immobilisations par composants
@@ -802,49 +798,135 @@ valeur d'origine des immobilisations amortissables et répartie entre elles prop
 	  - Code général des impôts, CGI. - art. 39 quinquies FA (V)
 
 
+##### 8-0 quinquies : Jeunes entreprises innovantes
+
+###### Article 32 C bis
+
+I.-La convention prévue par le b du 3° de l'article 44 sexies-0 A du code général des impôts est conclue entre l'autorité
+compétente pour engager l'établissement d'enseignement supérieur, en vertu des dispositions du livre VII du code de
+l'éducation qui lui sont applicables, et la personne ayant qualité pour engager l'entreprise bénéficiaire. Elle mentionne
+nommément la ou les personnes dirigeant l'entreprise ou détenant, seules ou conjointement, au moins 10 % de son capital qui
+ont participé personnellement aux travaux de recherche que l'entreprise valorise. 
+
+II.-La convention précise les travaux de recherche que l'entreprise valorise. Ces travaux doivent avoir été conduits, soit au
+sein d'une unité de recherche relevant de l'établissement, soit dans le cadre d'une formation sanctionnée par un diplôme
+délivré par l'établissement et conférant au moins le grade de master. Ils peuvent avoir été réalisés sous la seule
+responsabilité de l'établissement ou dans le cadre d'une convention de coopération conclue par lui avec un ou plusieurs
+autres établissements ou organismes d'enseignement supérieur ou de recherche. Dans ce dernier cas, la convention indique le
+ou les autres établissements ou organismes en association avec lesquels la recherche a été réalisée. 
+
+La convention fait apparaître les titres de propriété intellectuelle ou industrielle portant sur les travaux mentionnés au
+premier alinéa et prévoit les conditions dans lesquelles les auteurs ou inventeurs dirigeant l'entreprise ou détenant, seuls
+ou conjointement, une part au moins égale à 10 % de son capital sont autorisés à en faire usage dans son activité. 
+
+En l'absence de titres, la convention précise les publications ou mémoires originaux présentant les résultats de ces travaux.
+A cette fin, l'autorité compétente mentionnée au I atteste, après avis du conseil scientifique de l'établissement ou de
+l'instance en tenant lieu, le caractère original de ces publications ou mémoires. Dans le cas où les travaux de recherche qui
+y sont retracés ont pour coauteurs des personnes autres que celles dirigeant l'entreprise ou détenant une part au moins égale
+à 10 % de son capital, cette autorité précise dans les mêmes conditions la part du résultat des travaux, exprimée en
+pourcentage, revenant à ces coauteurs non engagés dans l'entreprise. Il en est fait mention dans la convention. 
+
+III.-1. La convention prévoit la rémunération de l'établissement d'enseignement supérieur par l'entreprise. 
+
+Cette rémunération est évaluée de manière à préserver les intérêts matériels et moraux de l'établissement d'enseignement
+supérieur. Son montant est déterminé par les signataires de la convention en tenant compte : 
+
+a. de la valeur des titres de propriété intellectuelle ou industrielle utilisés dans la valorisation des travaux de recherche
+mentionnés par la convention ; 
+
+b. de la valeur des travaux de recherche non couverts par des titres mentionnés au a ; 
+
+c. de la valeur des prestations de service énumérées au IV. 
+
+2. La rémunération prend la forme de versements financiers dont la convention détermine le montant et la périodicité. 
+
+Toutefois, la convention peut prévoir que tout ou partie de cette rémunération peut prendre la forme d'une participation au
+capital de l'entreprise si celle-ci est constituée en société. Le montant de cette participation est fixé en équivalence du
+versement prévu au premier alinéa. 
+
+La durée de détention par l'établissement de la participation prévue au deuxième alinéa est indépendante de celle de la
+validité de la convention. 
+
+3. En sus de la rémunération, la convention prévoit les modalités selon lesquelles l'entreprise devra faire référence à ses
+liens avec l'établissement d'enseignement supérieur dans les publications dont elle prend l'initiative ou dans toute autre
+forme de communication extérieure sur ses activités faisant usage des travaux de recherche mentionnés dans la convention. 
+
+IV.-Le cas échéant, la convention prévoit, pour la durée qu'elle couvre, les prestations fournies par l'établissement
+d'enseignement supérieur à l'entreprise pour poursuivre la valorisation des travaux de recherche mentionnés au II. Ces
+prestations peuvent prendre les formes suivantes : 
+
+a. la mise à disposition, en vue de ces travaux de recherche, de locaux, de matériels et d'équipements, ainsi que du
+personnel en assurant le service ; 
+
+b. la réalisation d'études de développement ou de faisabilité nécessaires aux travaux de recherche faisant l'objet de
+l'activité de l'entreprise, incluant les charges de personnel induites par ces études, ou la prise en charge de telles études
+confiées à des tiers ; 
+
+c. toute autre prestation de services utile à l'activité de l'entreprise. 
+
+Les prestations susmentionnées sont décrites dans une annexe de la convention. Leur réalisation fait l'objet d'états
+financiers établis pour chaque année par l'autorité compétente de l'établissement et assortis des justificatifs nécessaires. 
+
+V.-La convention est conclue pour une durée de trois ans. Elle est renouvelable dans la limite d'une durée totale de huit
+années à compter de la date de création de l'entreprise.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er à 5 du décret n° 2008-1560 du 31 décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 sexies-0 A (V)
+	  - Code de l'éducation (V)
+
+
+##### 8 quinquies : Abattement des entreprises de pêche maritime
+
 ###### Article 32 D
 
-I. - Les artisans pêcheurs et les pêcheurs associés d'une société de pêche artisanale mentionnés à l'article 44 nonies du
-code général des impôts satisfont aux conditions de formation exigées par le premier alinéa de cet article s'ils ont effectué
-un stage agréé de formation en vue de leur installation. Les conditions d'agrément des organismes dispensant ce stage ainsi
-que le contenu et les modalités d'organisation de celui-ci sont fixés par arrêté conjoint du ministre chargé de la formation
-maritime et du ministre chargé des pêches maritimes.
+I.-Les artisans pêcheurs et les pêcheurs associés d'une société de pêche artisanale mentionnés à l'article 44 nonies du code
+général des impôts satisfont aux conditions de formation exigées par le premier alinéa de cet article s'ils ont effectué un
+stage agréé de formation en vue de leur installation. Les conditions d'agrément des organismes dispensant ce stage ainsi que
+le contenu et les modalités d'organisation de celui-ci sont fixés par arrêté conjoint du ministre chargé de la formation
+maritime et du ministre chargé des pêches maritimes. 
 
 A l'achèvement du stage, l'organisme de formation délivre une attestation indiquant la période pendant laquelle la formation
-a été suivie par l'artisan pêcheur ou le pêcheur associé.
+a été suivie par l'artisan pêcheur ou le pêcheur associé. 
 
-II. - Le plan d'installation mentionné au premier alinéa de l'article 44 nonies du code général des impôts doit comporter les
-renseignements suivants :
+II.-Le plan d'installation mentionné au premier alinéa de l'article 44 nonies du code général des impôts doit comporter les
+renseignements suivants : 
 
-a) Statut juridique de l'entreprise et, s'il y a lieu, montant et composition du capital de la société ;
+a) Statut juridique de l'entreprise et, s'il y a lieu, montant et composition du capital de la société ; 
 
-b) Plan de financement ;
+b) Plan de financement ; 
 
-c) Bilan et compte de résultat prévisionnels pour les trois premières années d'exploitation ;
+c) Bilan et compte de résultat prévisionnels pour les trois premières années d'exploitation ; 
 
 d) Caractéristiques du navire et, en ce qui concerne les associés d'une société de pêche artisanale, nature des droits de
-propriété sur le navire et, s'il y a lieu, identité et statut juridique du ou des propriétaires ;
+propriété sur le navire et, s'il y a lieu, identité et statut juridique du ou des propriétaires ; 
 
-e) Zone de pêche et espèces concernées par l'exploitation ;
+e) Zone de pêche et espèces concernées par l'exploitation ; 
 
-f) Prévisions de production et de commercialisation.
+f) Prévisions de production et de commercialisation. 
 
-III. - Le contribuable joint à la première déclaration de résultat au titre duquel il bénéficie de l'abattement une copie de
+III.-Le contribuable joint à la première déclaration de résultat au titre duquel il bénéficie de l'abattement une copie de
 l'attestation et du plan d'installation mentionnés respectivement au I et au II.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 44 nonies
-
-	**Créé par**:
-
-	  - Décret n°98-1121 du 7 décembre 1998 - art. 1 () JORF 12 décembre 1998
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - DEPLACE: Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 nonies (V)
 
 
 ##### 9 : Contrôle des frais généraux - Obligations des entreprises
@@ -1822,7 +1904,7 @@ considérée et des deux années précédentes dans les cas suivants :
 
 a) Licenciement du contribuable ou de l'un des époux soumis à une imposition commune ; bénéficient de cette disposition les
 personnes qui se trouvent privées d'activité professionnelle pour des raisons indépendantes de leur volonté et sont inscrites
-comme demandeurs d'emploi à l'institution mentionnée à l'article L. 311-7 du code du travail ; 
+comme demandeurs d'emploi à l'institution mentionnée à l'article L. 5312-1 du code du travail ; 
 
 b) Départ à la retraite ou en préretraite du contribuable ou de l'un des époux soumis à une imposition commune, sous réserve
 que l'intéressé ne poursuive ou ne reprenne aucune activité professionnelle ; les personnes qui partent à la retraite ne
@@ -1849,18 +1931,22 @@ Les cessions concernées sont celles réalisées l'année même de l'événement
 suivante dès lors qu'il est établi que ces dernières ont un lien avec cet événement et portent sur des titres acquis
 antérieurement à sa survenance.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 7-1 et 14 du decret n° 2008-1010 du 29 septembre 2008.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150-0 A
-	  - Code du travail - art. L311-7 (Ab)
-	  - Code de la sécurité sociale. - art. L341-4 (V)
-	  - Code de l'action sociale et des familles - art. L241-3 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2008-126 du 13 février 2008 - art. 14
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150-0 A
+	  - Code du travail - art. L311-7
+	  - Code de la sécurité sociale. - art. L341-4 (V)
+	  - Code de l'action sociale et des familles - art. L241-3
 
 
 ###### Article 74-0 B
@@ -2950,7 +3036,7 @@ Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordon
 ###### Article 82
 
 I. Le crédit d'impôt attaché aux revenus du portefeuille collectif ou des titres détenus individuellement qui sont acquis en
-application des articles L. 3331-1 à L. 3335-1 du code du travail et dans les conditions fixées à ces articles donne lieu à
+application des articles L. 3331-1 à L. 3335-2 du code du travail et dans les conditions fixées à ces articles donne lieu à
 la délivrance d'un certificat distinct conformément aux dispositions de l'article 77. 
 
 II. Lorsque ces revenus sont totalement exonérés, conformément aux dispositions des deux premières phrases du II de l'article
@@ -2966,13 +3052,13 @@ façon que les revenus auxquels elles se rattachent.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Modifications effectuées en conséquence des articles 10-I et II de la loi n°2008-1258 du 3 décembre 2008.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Cite**:
 
@@ -4849,16 +4935,16 @@ la détermination du résultat consolidé ou de la plus-value ou moins-value net
 ###### Article 116
 
 Sous réserve des dispositions des articles 118 à 120, 125 et 126, le résultat consolidé de la société agréée est déterminé
-comme suit :
+comme suit : 
 
-1. La société agréée fait la somme algébrique :
+1. La société agréée fait la somme algébrique : 
 
 a) Du résultat de cette société, déterminé dans les conditions de droit commun ou, le cas échéant, du résultat d'ensemble
 mentionné à l'article 223 B du code général des impôts lorsque la société a été autorisée à opter, en application des
-dispositions du 2 de l'article 223 P de ce code, pour le régime défini à l'article 223 A du même code ;
+dispositions du 2 de l'article 223 P de ce code, pour le régime défini à l'article 223 A du même code ; 
 
 b) Du résultat des exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer, déterminé
-dans les conditions prévues aux articles 116 bis et 116 ter de la présente annexe ;
+dans les conditions prévues aux articles 116 bis et 116 ter ; 
 
 c) Du résultat des exploitations indirectes situées en France métropolitaine ou dans les départements d'outre-mer, tel qu'il
 est retenu pour l'imposition de ces dernières à l'impôt sur les sociétés, dans la proportion correspondant aux droits de la
@@ -4867,26 +4953,26 @@ la date de la distribution des dividendes afférents à cette période d'imposit
 est plus forte à cette date qu'à la clôture de la période d'imposition ; si une ou plusieurs de ces sociétés ont été
 autorisées à opter, en application des dispositions du 2 de l'article 223 P du code général des impôts, pour le régime de
 groupe défini à l'article 223 A de ce code, le résultat d'ensemble de ce groupe, mentionné à l'article 223 B du même code, se
-substitue au résultat propre de la société ;
+substitue au résultat propre de la société ; 
 
 d) De la fraction du résultat des exploitations indirectes situées hors de France qui correspond aux droits de la société
 agréée dans la distribution des bénéfices de ces exploitations à la date de clôture de la période d'imposition ou à la date
 de distribution des dividendes afférents à cette période d'imposition, si la participation de la société est plus forte à
 cette date qu'à la clôture de la période d'imposition. Ce résultat est déterminé selon les règles prévues aux articles 116
-bis et 116 ter ci-après.
+bis et 116 ter ci-après. 
 
 2. La société agréée fait la somme algébrique des plus-values ou moins-values nettes à long terme déterminées dans les
 conditions prévues aux articles 39 duodecies à 39 quindecies du code général des impôts ou, le cas échéant, à l'article 223 D
 du même code, réalisées ou subies par la société agréée et les exploitations qui sont mentionnées au 1, et retenues dans la
-proportion définie au c et au d du 1.
+proportion définie au c et au d du 1. 
 
 La plus-value nette à long terme consolidée, après imputation, le cas échéant, des moins-values nettes à long terme
 consolidées reportables des exercices antérieurs, est imposée au taux normal prévu au deuxième alinéa du I de l'article 219
 du code général des impôts dans le rapport existant entre les taux réduits d'imposition des plus-values à long terme et le
-taux normal.
+taux normal. 
 
 Toutefois, si la somme visée au 1 est négative, la plus-value nette à long terme consolidée, déterminée dans les conditions
-définies au deuxième alinéa, peut être utilisée à compenser le déficit consolidé correspondant.
+définies au deuxième alinéa, peut être utilisée à compenser le déficit consolidé correspondant. 
 
 3. Les sommes définies au 1 et au 2 ci-dessus sont respectivement minorées ou majorées des plus-values ou moins-values
 résultant de la cession d'éléments de l'actif immobilisé entre les exploitations mentionnées au b et au d du 1, à condition
@@ -4896,22 +4982,17 @@ l'exploitation cédante ou de l'exploitation cessionnaire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 223 B, 223 P, 223 A, 39 duodecies à 39 quindecies, 223 D, 219
-	  - CGIAN2 116, 118 à 120, 125, 126, 116 bis, 116 ter
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 223 B
 
 
 ###### Article 116 bis
@@ -5541,50 +5622,47 @@ L'agrément visé à l'article 113 est accordé pour une durée de cinq ans. Il 
 
 ###### Article 134
 
-1. L'agrément prévu à l'article 113 peut être retiré, ou les sociétés qui l'ont obtenu peuvent en être déchues, par
-application des dispositions de l'article 1649 nonies A du code général des impôts.
+1.L'agrément prévu à l'article 113 peut être retiré, ou les sociétés qui l'ont obtenu peuvent en être déchues, par
+application des dispositions de l'article 1649 nonies A du code général des impôts. 
 
 Il peut, bien que les engagements en vue de l'obtenir aient été remplis ou que les conditions mises à son octroi aient été
-respectées, être retiré notamment dans les cas suivants :
+respectées, être retiré notamment dans les cas suivants : 
 
 a. Lorsqu'une société agréée au titre des articles 113 à 123 est convaincue soit d'avoir constitué des exploitations directes
-ou indirectes hors de France [*à l'étranger*] dans des conditions telles que leurs résultats n'aient pas à être consolidés
-alors que la société en garde le contrôle par personne ou par société interposée, soit d'avoir, par moyen d'une
-transformation, d'une fusion ou de toute opération juridique, supprimé une exploitation tout en gardant le contrôle de ses
-moyens de production;
+ou indirectes hors de France dans des conditions telles que leurs résultats n'aient pas à être consolidés alors que la
+société en garde le contrôle par personne ou par société interposée, soit d'avoir, par moyen d'une transformation, d'une
+fusion ou de toute opération juridique, supprimé une exploitation tout en gardant le contrôle de ses moyens de production ; 
 
 b. Lorsqu'une société agréée au titre des articles 113 à 123 est convaincue d'avoir modifié son pourcentage de participation
 dans une exploitation indirecte à seule fin d'accroître le montant des déficits de cette exploitation qui doivent être pris
-en compte pour la détermination du résultat consolidé ;
+en compte pour la détermination du résultat consolidé ; 
 
 c. Lorsqu'une société agréée au titre des articles 113 à 123 constitue une exploitation indirecte destinée à se substituer à
 une exploitation directe existante, dans des conditions telles que les résultats de cette exploitation indirecte n'ont pas à
-être compris dans le résultat consolidé de la société agréée.
+être compris dans le résultat consolidé de la société agréée. 
 
-Le retrait de l'agrément est prononcé par l'autorité qui l'a accordé après consultation du comité consultatif dont la
-composition est prévue à l'article 1653 C du code général des impôts. La société agréée est au préalable informée des faits
-qui lui sont reprochés et peut fournir toute justification à leur égard.
+Le retrait de l'agrément est prononcé par l'autorité qui l'a accordé après consultation du comité dont la composition est
+prévue à l'article 1653 C du code général des impôts. La société agréée est au préalable informée des faits qui lui sont
+reprochés et peut fournir toute justification à leur égard.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 35-IV et IX de la loi n° 2008-1443 du 30 décembre 2008.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1649 nonies A, 1653 C
-	  - CGIAN2 113 à 123
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 16 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 25 (V) JORF 8 décembre 2005 en vigueur le 1er janvier 2006
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 113
+	  - Code général des impôts, CGI. - art. 1653 C
 
 
 ##### III : Régime du bénéfice mondial
@@ -5594,28 +5672,24 @@ qui lui sont reprochés et peut fournir toute justification à leur égard.
 La décision visée à l'article 209 quinquies du code général des impôts peut prévoir que les sociétés mentionnées à cet
 article sont, pour l'assiette des impôts établis sur la réalisation et la distribution de leurs bénéfices, autorisées à faire
 la somme de leurs résultats, tels qu'ils sont définis au I de l'article 209 du même code, et des résultats de leurs
-exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer.
+exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer. 
 
-Les dispositions des articles 113 à 134 de la présente annexe sont, le cas échéant, applicables à ces sociétés ou personnes
-morales (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+Les dispositions des articles 113 à 134 sont, le cas échéant, applicables à ces sociétés ou personnes morales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 209 quinquies, 209
-	  - CGIAN2 113 à 134
-
-	**Créé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 22 () JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 113
+	  - Code général des impôts, CGI. - art. 209 quinquies
 
 
 ##### Section III : Imputation de l'impôt sur le revenu (retenue à la source) sur le montant de l'impôt sur les sociétés
@@ -5999,59 +6073,63 @@ effectués.
 
 ##### III : Modalités de versement et exonérations
 
-###### Article 140 K bis
+###### Article 140 K quater
 
-L'obligation faite aux personnes ou aux entreprises employant un apprenti de verser un concours au centre de formation
-d'apprentis ou à la section d'apprentissage où est inscrit cet apprenti s'applique dans les conditions prévues à l'article R.
-119-4 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Modifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
-
-	**Liens**:
-
-	  - DISJOINT: Décret n°2009-389 du 7 avril 2009 - art. 2
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail - art. R119-4
-
-
-###### Article 140 K ter
-
-L'imputation de la fraction de la taxe d'apprentissage versée au Trésor public s'effectue conformément aux dispositions de
-l'article R. 119-5 du code du travail.
+La part du quota de la taxe d'apprentissage mentionnée au deuxième alinéa de l'article L. 6241-2 du code du travail est
+versée au Trésor public par les organismes collecteurs dans le délai prévu à l'article R. 6241-5 du même code.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 9-I et 11 du décret n° 2008-244 du 7 mars 2008.
+Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n° 2008-244 du 7 mars 2008.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2006-356 2006-03-24
-
-	**Modifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Liens**:
 
-	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 2
-	  - HISTO: Edition du 1er janvier 2006
+	  - TRANSFERE: Décret n°2014-549 du 26 mai 2014 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 318 (P)
 
 	**Cite**:
 
-	  - Code du travail - art. R119-5
+	  - Code du travail - art. L6241-2
+	  - Code du travail - art. R6241-5
+
+
+###### Article 140 K quinquies
+
+L'assujetti à la taxe d'apprentissage bénéficie d'une exonération totale ou partielle de la taxe à raison des dépenses
+exposées en vue de favoriser les premières formations conformément aux dispositions prévues à l'article R. 6241-7 du code du
+travail
+.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n° 2008-244 du 7 mars 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-549 du 26 mai 2014 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 318 A (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R6241-7
 
 
 ##### IV : Régimes spéciaux.
@@ -6137,16 +6215,16 @@ effectuée par année.
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 7 250 euros et 14 481 euros et le taux de 9,35 % à la fraction excédant 14 481 euros,
+l'année civile, qui est comprise entre 7 461 euros et 14 901 euros et le taux de 9,35 % à la fraction excédant 14 901 euros,
 et en multipliant le chiffre ainsi déterminé par le rapport qui existe entre le montant de la rémunération qui a été payée
 pendant la période d'application de la majoration et le montant total de la rémunération annuelle. 
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
 a bénéficié au cours de la période d'application de la majoration les taux de : 
 
-4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 250 euros et 14 481 euros ; 
+4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 461 euros et 14 901 euros ; 
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 14 481 euros.
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 14 901 euros.
 
 **Nota:**
 
@@ -6157,7 +6235,7 @@ la loi n° 2008-1425 du 27 décembre 2008.
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Cité par**:
 
@@ -6174,7 +6252,7 @@ la loi n° 2008-1425 du 27 décembre 2008.
 La déclaration des traitements et salaires que les employeurs sont tenus de souscrire en exécution des dispositions de
 l'article 87 du code général des impôts doit, pour ceux d'entre eux qui sont redevables en totalité ou partiellement de la
 taxe sur les salaires, faire ressortir distinctement, pour chaque bénéficiaire dont la rémunération individuelle annuelle a
-excédé 7 250 euros, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de
+excédé 7 461 euros, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de
 la majoration de la taxe sur les salaires. 
 
 Elle doit comporter, en outre, l'indication du montant des compléments de droits acquittés en application de l'article 142 à
@@ -6183,13 +6261,13 @@ raison des rémunérations payées pendant cette même période.
 **Nota:**
 
 Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 2-I-1° de
-la loi n° 2007-1822 du 24 décembre 2007.
+la loi n° 2008-1425 du 27 décembre 2008.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Cite**:
 
@@ -6374,29 +6452,24 @@ Modifications effectuées en conséquence de l'article R. 716-30 du code rural.
 
 ###### Article 163 nonies
 
-Pour l'application des dispositions des articles L. 951-1 et L. 952-1 du code du travail, le décompte des salariés est
-effectué conformément aux dispositions de l'article R. 950-1 du même code.
+Pour l'application des dispositions des articles 235 ter D et 235 ter KA du code général des impôts, le décompte des salariés
+est effectué conformément aux dispositions de l'article R. 6331-1 du code du travail.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n°2008-244 du 7 mars 2008.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-383 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Cite**:
 
-	  - Code du travail - art. L951-1 (M)
-	  - Code du travail - art. L952-1 (M)
-	  - Code du travail - art. R950-1 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 235 ter D
+	  - Code général des impôts, CGI. - art. 235 ter KA
+	  - Code du travail - art. R6331-1
 
 
 ##### II : Employeurs occupant dix salariés et plus
@@ -6405,120 +6478,193 @@ effectué conformément aux dispositions de l'article R. 950-1 du même code.
 
 ###### Article 163 undecies
 
-Cet article reproduit les dispositions de l'article R. 950-18 du code du travail :
+Pour l'application de l'article 235 ter F du code général des impôts, peuvent se substituer au comité d'entreprise d'autres
+instances de représentation du personnel conformément à l'article R. 2323-2 du code du travail ou une commission spéciale
+créée dans les conditions prévues aux articles R. 2323-3 et R. 2323-4 du même code.
 
-"Dans les entreprises ou organismes où les attributions du comité d'entreprise sont dévolues à d'autres organismes, ceux-ci
-sont substitués au comité d'entreprise pour l'application des dispositions de l'article L. 951-8 et de celles de l'article R.
-950-4.
+**Nota:**
 
-Dans les entreprises employant au moins cinquante salariés qui ne sont pas tenues d'avoir un comité d'entreprise ou un
-organisme de la nature de ceux que mentionne l'alinéa précédent, il est créé une commission spéciale qui est consultée dans
-les conditions prévues à l'article L. 951-8.
-
-Cette commission comprend autant de membres qu'il y a d'organisations syndicales ayant constitué légalement ou qui ont droit
-de constituer une section syndicale dans l'entreprise considérée. Chacune de ces organisations désigne un membre qui est
-obligatoirement choisi parmi les salariés de ladite entreprise remplissant les conditions requises pour l'éligibilité en
-qualité de membre d'un comité d'entreprise".
+Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n°2008-244 du 7 mars 2008.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
 	**Modifié par**:
 
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter F (V)
+	  - Code du travail - art. R2323-2 (V)
+	  - Code du travail - art. R2323-3 (V)
+
+
+##### 2° : Montant de la participation
+
+###### Article 163 undecies A
+
+Les modalités de versement de la participation prévue à l'article 235 ter D du code général des impôts sont déterminées
+conformément aux dispositions prévues à l'article R. 6331-9 du code du travail.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er du décret n° 2008-244 du 7 mars 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter D (VT)
+	  - Code du travail - art. R6331-9 (V)
+
+
+###### Article 163 undecies B
+
+Les réductions de versement prévues à l'article 235 ter EB du code général des impôts pour les employeurs qui atteignent ou
+dépassent au titre d'une année, pour la première fois, l'effectif de vingt salariés, s'appliquent conformément et dans les
+conditions prévues à l'article R. 6331-11 du code du travail.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 2-2° et 3 du décret n° 2014-968 du 22 août 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter EB (V)
+	  - Code du travail - art. R6331-11
+
+
+###### Article 163 undecies C
+
+Les réductions de versement prévues à l'article 235 ter EB du code général des impôts pour les employeurs qui atteignent ou
+dépassent au titre d'une année, pour la première fois, l'effectif de dix salariés, s'appliquent conformément et dans les
+conditions prévues à l'article R. 6331-12 du code du travail.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er du décret n° 2008-244 du 7 mars 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter EB
 
 
 ##### 3° : Obligations déclaratives et versement de la participation
 
 ###### Article 163 duodecies
 
-La déclaration prévue à l'article L. 951-12 du code du travail est établie conformément aux dispositions prévues par
-l'article R. 950-19 du même code.
+La déclaration prévue à l'article 235 ter J du code général des impôts est établie conformément aux dispositions des articles
+R. 6331-30 et R. 6331-32 du code du travail.
+
+**Nota:**
+
+<font color="#000000" size="1">Modifications effectuées en conséquence de l'article 10-I-12° et III de la loi n° 2014-288 du
+5 mars 2014.</font>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-383 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Cite**:
-
-	  - Code du travail - art. L951-12 (M)
-	  - Code du travail - art. R950-19 (M)
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter J
+	  - Code du travail - art. R6331-30
 
 
 ###### Article 163 quaterdecies
 
-Cet article reproduit les dispositions de l'article R. 950-21 du code du travail :
+La déclaration prévue à l'article 235 ter J du code général des impôts est déposée dans les conditions et délais prévus aux
+articles R. 6331-29 et R. 6331-33 du code du travail.
 
-"La déclaration doit être déposée, dans le délai prévu à l'article L. 951-12 (II), à la recette des impôts du lieu :
+**Nota:**
 
-De souscription de la déclaration des résultats pour les sociétés, les entreprises industrielles, commerciales ou artisanales
-ainsi que pour les employeurs exerçant une activité non commerciale ;
-
-De l'exploitation ou du siège de la direction, en cas de pluralité d'exploitations, pour les exploitants agricoles ;
-
-Du domicile ou du siège social pour les autres employeurs."
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Modifié par**:
-
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
-
-	**Cite**:
-
-	  - Code du travail - art. R950-21 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 163 terdecies
-
-Les renseignements et documents à fournir, sur demande des services du ministre chargé de la formation professionnelle, sont
-définis à l'article R. 950-20 du code du travail.
+Modifications effectuées en conséquence de l'article 10-I-12° et III de la loi n° 2014-288 du 5 mars 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-383 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Liens**:
 
-	  - DISJOINT: Décret n°2009-389 du 7 avril 2009 - art. 2
-	  - HISTO: Edition du 1er janvier 2007
+	  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code du travail - art. R950-20
+	  - Code général des impôts, CGI. - art. 235 ter J (Dis)
+	  - Code du travail - art. R6331-29
+	  - Code du travail - art. R6331-33
+
+
+###### Article 163 quaterdecies A
+
+Les versements prévus aux articles 235 ter G, 235 ter H bis et 235 ter H ter du code général des impôts sont réalisés dans
+les conditions prévues à l'article R. 6331-35 du code du travail.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n° 2008-244 du 7 mars 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter G (V)
+	  - Code du travail - art. R6331-35 (V)
+
+
+##### III : Employeurs occupant moins de dix salariés
+
+###### Article 163 quindecies C
+
+Les modalités de versement de la participation prévue à l'article 235 ter KA du code général des impôts sont déterminées
+conformément aux dispositions prévues à l'article R. 6331-2 du code du travail.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n° 2008-244 du 7 mars 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter KA
+	  - Code du travail - art. R6331-2 (V)
 
 
 ##### IV : Régimes spéciaux
@@ -6527,153 +6673,23 @@ définis à l'article R. 950-20 du code du travail.
 
 ###### Article 163 sexdecies
 
-Cet article reproduit les dispositions de l'article R. 992-2 du code du travail :
+Les employeurs des départements d'outre-mer, de Saint-Barthélemy et de Saint-Martin employant des salariés à temps partiel,
+d'une manière intermittente ou travaillant à domicile sont soumis à l'obligation de participer au financement de la formation
+professionnelle continue dans les conditions prévues à l'article R. 6523-2 du code du travail.
 
-"Les employeurs des départements d'outre-mer occupant des salariés à temps incomplet ou d'une manière intermittente, ou
-travaillant à domicile, ne sont soumis à l'obligation de participer instituée par les articles L. 950-1 à L. 950-10 que si le
-montant total des salaires versés pendant l'année est au moins égal à 520 fois le salaire hebdomadaire minimum de croissance
-applicable dans le département d'outre-mer considéré. En cas de début ou de fin d'activité, ce nombre est réduit, pour
-l'année considérée, au prorata du nombre de semaines pendant lesquelles l'activité est exercée."
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n° 2008-244 du 7 mars 2008.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
 	**Modifié par**:
 
-	  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Cite**:
 
-	  - Code du travail - art. R992-2 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-
-#### Chapitre VI quater : Prélèvement spécial sur les films pornographiques et d'incitation à la violence
-
-###### Article 163 novodecies
-
-Tout redevable du prélèvement spécial prévu par l'article 235 ter L du code général des impôts est tenu de remettre au
-service des impôts, dans le délai prévu pour le versement du prélèvement, une déclaration établie en double exemplaire sur un
-imprimé conforme au modèle fixé par le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter L
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 septies (P)
-
-
-###### Article 163 octodecies
-
-Les entreprises redevables du prélèvement le versent au plus tard à la date d'expiration du délai prévu pour le dépôt de leur
-déclaration annuelle de résultats.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 sexies (P)
-
-
-###### Article 163 septdecies
-
-Le prélèvement spécial prévu par l'article 235 ter L du code général des impôts sur la fraction des bénéfices industriels et
-commerciaux imposables à l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de la distribution
-ou de la représentation de films pornographiques ou d'incitation à la violence est liquidé par les entreprises qui réalisent
-ces bénéfices. Ces entreprises l'acquittent spontanément auprès du service des impôts dont elles relèvent.
-
-La période d'imposition est, pour chaque redevable, celle qui est retenue pour l'établissement soit de l'impôt sur le revenu
-dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt sur les sociétés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter L
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 2
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 quinquies (P)
-
-
-###### Article 163 vicies
-
-Sous réserve des dispositions des articles 163 septdecies à 163 novodecies le prélèvement spécial prévu par l'article 235 ter
-L du code général des impôts est établi et recouvré selon les modalités, ainsi que sous les sûretés, garanties et sanctions
-applicables en matière de taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées comme pour cet
-impôt.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter L
-	  - CGIAN2 163 novodecies
-	  - CGIAN2 163 octodecies
-	  - CGIAN2 163 septdecies
-
-	**Modifié par**:
-
-	  - Loi n°89-935 1989-12-29 art. 8 IV VI 3 Finances pour 1990 JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 octies (P)
+	  - Code du travail - art. R6523-2 (V)
 
 
 #### Chapitre VIII : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
@@ -6980,34 +6996,6 @@ les impôts recouvrés par les comptables de la direction générale des impôts
 	**Codifié par**:
 
 	  - Décret n°2006-356 2006-03-24
-
-
-###### Article 171 ter A
-
-Pour l'application de l'article 244 bis A du code général des impôts, sont considérées comme sociétés à prépondérance
-immobilière les sociétés non cotées en bourse, autres que les sociétés immobilières pour le commerce et l'industrie, dont
-l'actif est, à la clôture des trois exercices qui précèdent la cession, constitué pour plus de 50 % de sa valeur réelle par
-des immeubles ou des droits portant sur des immeubles, non affectés à leur propre exploitation industrielle, commerciale,
-agricole ou à l'exercice d'une profession non commerciale.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 27-IV et V de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 bis A
-
-	**Modifié par**:
-
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 2
-	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### IV : Réévaluation des immobilisations non amortissables
@@ -14148,8 +14136,8 @@ entrées et sorties, ainsi que des manipulations, reste possible sur la base de 
 agents des douanes et droits indirects ou de ceux de la concurrence, de la consommation et de la répression des fraudes. 
 
 Les registres comportent les colonnes ouvertes avec les intitulés exigés par la réglementation communautaire et portent les
-références des contrats d'achat soumis au visa de l'               établissement mentionné à l' article L. 621-1 du code
-rural  pour les transactions soumises à cette procédure. 
+références des contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural pour les
+transactions soumises à cette procédure. 
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords interprofessionnels visés notamment aux articles
 L. 632-1 à L. 632-7 du code rural, les registres comportent pour les vins d'appellation d'origine, les références aux
@@ -14177,7 +14165,7 @@ l'article 286 H et du présent article.
 qu'elle comporte : 
 
 a) Toutes les indications nécessaires relatives aux mouvements des produits et au déroulement des manipulations conformément
-aux dispositions communautaires et aux informations prévues au 1° du II du présent article ; 
+aux dispositions communautaires et aux informations prévues au 1° du II ; 
 
 b) La reprise des inventaires physiques des produits réalisés au moment de la clôture de l'exercice comptable. 
 
@@ -14190,7 +14178,7 @@ Cette balance ne peut servir à elle seule d'élément de preuve pour la constat
 
 Les entrepositaires agréés transmettent au service des douanes et droits indirects territorialement compétent, au plus tard
 le cinquième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au premier alinéa
-du présent III et, le cas échéant, ceux prévus au 1° du II du présent article. 
+et, le cas échéant, ceux prévus au 1° du II. 
 
 IV.-Les registres doivent être clôturés une fois par an, à la date de souscription de la déclaration des stocks mentionnée à
 l'article 408 du code général des impôts, pour les récoltants y compris les sociétés coopératives et leurs unions. La
@@ -14243,89 +14231,100 @@ le directeur régional des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-325 du 25 mars 2009 - art. 9
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 D (V)
+	  - Code général des impôts, CGI. - art. 302 M (V)
+	  - Code général des impôts, CGI. - art. 407 (V)
+	  - Code général des impôts, CGI. - art. 614 (V)
+	  - Livre des procédures fiscales - art. L102 B (V)
+	  - Code rural ancien - art. 661 (V)
+	  - Code rural - art. L621-1 (V)
+	  - Code rural - art. L632-1 (V)
 
 
 ###### Article 286 J
 
-I. - 1° Pour les entrepositaires agréés autres que ceux produisant des produits vitivinicoles et pour les personnes
-mentionnées au II de l'article 286 H, la comptabilité matières est constituée :
+I.-1° Pour les entrepositaires agréés autres que ceux produisant des produits vitivinicoles et pour les personnes mentionnées
+au II de l'article 286 H, la comptabilité matières est constituée : 
 
-a) Soit par des documents établis conformément aux modèles prévus par arrêté du ministre chargé du budget ;
+a) Soit par des documents établis conformément aux modèles prévus par arrêté du ministre chargé du budget ; 
 
-b) Soit, pour les personnes concernées, par les registres vitivinicoles prévus par le règlement (CE) n° 884/2001 de la
+b) Soit, pour les personnes concernées, par les registres vitivinicoles prévus par le règlement (CE) n° 884 / 2001 de la
 Commission du 24 avril 2001 portant modalités d'application relatives aux documents accompagnant les transports des produits
-vitivinicoles et aux registres à tenir dans le secteur vitivinicole ;
+vitivinicoles et aux registres à tenir dans le secteur vitivinicole ; 
 
-c) Soit enfin, sur agrément délivré par le directeur régional des douanes et droits indirects, en vertu de l'article 286 K :
+c) Soit enfin, sur agrément délivré par le directeur régional des douanes et droits indirects, en vertu de l'article 286 K : 
 
 1. Par des documents établis selon d'autres modèles, sous réserve que soient reprises toutes les informations mentionnées au
 présent article, ainsi que les déclarations qu'il prévoit et, le cas échéant, les informations particulières relatives aux
 bouilleurs de cru et aux distilleries mentionnées respectivement aux articles 37 à 56 et 57 à 87 de l'annexe I au code
-général des impôts ;
+général des impôts ; 
 
 2. Par la comptabilité commerciale ou les différents registres, dont la tenue est rendue obligatoire par le code général des
 impôts et, le cas échéant, par le III de l'article 277 A de ce code et la réglementation communautaire lorsque les produits
-font l'objet d'un placement sous un régime suspensif douanier communautaire.
+font l'objet d'un placement sous un régime suspensif douanier communautaire. 
 
-2° Cette comptabilité matières doit faire apparaître :
+2° Cette comptabilité matières doit faire apparaître : 
 
-a) Toutes les informations prévues au VII et au IX ;
+a) Toutes les informations prévues au VII et au IX ; 
 
 b) Les informations relatives aux productions, transformations, stocks et mouvements de produits mentionnés au III de
 l'article 302 G du code général des impôts et des produits alcooligènes mentionnés à l'article 338 du même code, exprimées en
 volume d'alcool pur et en volume effectif pour les alcools, en volume effectif pour les produits intermédiaires et les
-produits mentionnés à l'article 438 dudit code et en volume effectif par degré alcoométrique, pour les bières.
+produits mentionnés à l'article 438 dudit code et en volume effectif par degré alcoométrique, pour les bières. 
 
 3° L'entrepositaire agréé doit remettre une copie des documents constituant la comptabilité matières aux agents des douanes
-et droits indirects, sur leur demande.
+et droits indirects, sur leur demande. 
 
-II. - 1° Les entrepositaires agréés mentionnés au I du présent article tiennent la comptabilité matières à l'adresse de
-l'entrepôt fiscal suspensif des droits d'accises auquel elle se rapporte.
+II.-1° Les entrepositaires agréés mentionnés au I tiennent la comptabilité matières à l'adresse de l'entrepôt fiscal
+suspensif des droits d'accises auquel elle se rapporte. 
 
 2° Cependant ils peuvent tenir la comptabilité matières de chacun de leurs entrepôts fiscaux suspensifs des droits d'accises
-à l'adresse d'un de ces entrepôts.
+à l'adresse d'un de ces entrepôts. 
 
-Dans ce cas :
+Dans ce cas : 
 
 a) Les entrepositaires agréés doivent pouvoir justifier, à tout moment, des entrées, des sorties et des stocks sur les lieux
-mêmes où les produits sont détenus ;
+mêmes où les produits sont détenus ; 
 
 b) Ils doivent informer l'administration des douanes et droits indirects du lieu où est tenue et conservée la comptabilité
-matières ;
+matières ; 
 
 c) Ils tiennent à l'adresse de ce lieu autant de comptabilités matières que d'entrepôts fiscaux suspensifs des droits
 d'accises concernés. Ces comptabilités matières doivent pouvoir être communiquées sans délai aux agents des douanes et droits
-indirects.
+indirects. 
 
-III. - Lorsque les éléments constitutifs de la comptabilité matières doivent faire l'objet d'un agrément, l'entrepositaire
-agréé joint à sa demande un modèle de comptabilité ou de registre.
+III.-Lorsque les éléments constitutifs de la comptabilité matières doivent faire l'objet d'un agrément, l'entrepositaire
+agréé joint à sa demande un modèle de comptabilité ou de registre. 
 
 La demande d'agrément est transmise au directeur régional des douanes et droits indirects ayant dans le ressort territorial
 de sa circonscription le ou les entrepôts fiscaux suspensifs des droits d'accises concernés ou l'entrepôt fiscal suspensif
 des droits d'accises choisi par l'entrepositaire comme lieu unique de la tenue de la comptabilité matières de l'ensemble de
-ses entrepôts.
+ses entrepôts. 
 
 La demande d'agrément contient l'adresse des entrepôts suspensifs des droits d'accises, ainsi que du lieu où sont tenus et
-conservés la comptabilité ou les registres.
+conservés la comptabilité ou les registres. 
 
-IV. - 1° Les entrepositaires agréés doivent effectuer la balance du compte principal et des comptes de production ou de
+IV.-1° Les entrepositaires agréés doivent effectuer la balance du compte principal et des comptes de production ou de
 transformation de leur comptabilité matières en y inscrivant, pour chaque produit, selon son tarif d'imposition ou selon sa
 nature, au plus tard le cinquième jour de chaque mois, le stock théorique en début du mois précédent, le stock théorique en
-fin du mois précédent et le total des entrées et des sorties du mois précédent.
+fin du mois précédent et le total des entrées et des sorties du mois précédent. 
 
 Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au
-2° du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt.
+2° du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt. 
 
 Les entrepositaires agréés transmettent, pour chaque entrepôt fiscal suspensif des droits d'accises, au service des douanes
 et droits indirects territorialement compétent, au plus tard le cinquième jour de chaque mois, une déclaration récapitulative
 comportant les renseignements mentionnés au premier alinéa, et, le cas échéant, ceux prévus par les règlements ou accords
-interprofessionnels et ceux prévus au 7° du VII du présent article.
+interprofessionnels et ceux prévus au 7° du VII. 
 
 Pour les produits mentionnés à l'article 575 A du code général des impôts, les entrepositaires agréés transmettent, pour
 chaque entrepôt fiscal suspensif des droits d'accises, au service des douanes et droits indirects territorialement compétent,
 au plus tard le quinzième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au
-premier alinéa.
+premier alinéa. 
 
 2° Sous réserve des dispositions des articles 56 et 71 de l'annexe I au code général des impôts, les entrepositaires agréés
 effectuent, chaque année, à la date de clôture de leur exercice commercial, selon les modalités fixées au VII, un inventaire
@@ -14333,159 +14332,159 @@ des stocks de chacun de leurs entrepôts suspensifs des droits d'accises, arrêt
 au plus tard le cinquième jour du deuxième mois qui suit, ainsi que les résultats de l'inventaire des stocks, au service des
 douanes et droits indirects mentionné au troisième alinéa du 1°.
 
-V. - La comptabilité matières reprend les opérations citées aux II et IV de l'article 302 G du code général des impôts
-effectuées en suspension de droits ou en droits acquittés, dans un entrepôt fiscal suspensif des droits d'accises.
+V.-La comptabilité matières reprend les opérations citées aux II et IV de l'article 302 G du code général des impôts
+effectuées en suspension de droits ou en droits acquittés, dans un entrepôt fiscal suspensif des droits d'accises. 
 
-La comptabilité matières des produits en suspension de droits est distincte de celle des produits en droits acquittés.
+La comptabilité matières des produits en suspension de droits est distincte de celle des produits en droits acquittés. 
 
-VI. - 1° La comptabilité matières des produits mentionnés au III de l'article 302 G du code général des impôts est
-constituée :
+VI.-1° La comptabilité matières des produits mentionnés au III de l'article 302 G du code général des impôts est
+constituée : 
 
-a) D'un compte principal décrivant les réceptions, détentions et expéditions de produits ;
+a) D'un compte principal décrivant les réceptions, détentions et expéditions de produits ; 
 
 b) De deux comptes pour les opérations de production ou de transformation des produits : le premier compte pour
 l'enregistrement des produits au stade de leur production et le second pour leur enregistrement au stade de leur
-transformation.
+transformation. 
 
-Pour les productions à partir de matières premières non alcooliques, les entrées sont à inscrire au compte de production.
+Pour les productions à partir de matières premières non alcooliques, les entrées sont à inscrire au compte de production. 
 
-Pour les productions à partir de matières premières alcooliques, les entrées sont à inscrire au compte de transformation ;
+Pour les productions à partir de matières premières alcooliques, les entrées sont à inscrire au compte de transformation ; 
 
 c) Le cas échéant, d'un compte de subdivision du compte principal, pour les alcools et les boissons alcooliques logés dans
-des fûts en bois non pourvus d'un revêtement intérieur ou extérieur destiné à assurer l'étanchéité.
+des fûts en bois non pourvus d'un revêtement intérieur ou extérieur destiné à assurer l'étanchéité. 
 
-2° Dispositions devenues sans objet.
+2° Dispositions devenues sans objet. 
 
-3° Par exception aux dispositions du 1° ci-dessus, la comptabilité matières des fabricants de bières est constituée :
+3° Par exception aux dispositions du 1°, la comptabilité matières des fabricants de bières est constituée : 
 
 a) D'un compte principal décrivant les réceptions, détentions et expéditions de bières, après filtration, soutirage et
-conditionnement ;
+conditionnement ; 
 
 b) D'un compte de subdivision du compte principal, pour les bières logées dans des fûts en bois non pourvus d'un revêtement
-intérieur ou extérieur destiné à assurer l'étanchéité.
+intérieur ou extérieur destiné à assurer l'étanchéité. 
 
-VII. - Sans que cela fasse obstacle aux dispositions de l'article 70 de l'annexe I au code général des impôts, la
-comptabilité matières est tenue :
+VII.-Sans que cela fasse obstacle aux dispositions de l'article 70 de l'annexe I au code général des impôts, la comptabilité
+matières est tenue : 
 
 1° Par tarif d'imposition, en volume d'alcool pur et en volume effectif, pour les alcools et les produits alcooligènes
 mentionnés à l'article 338 du code général des impôts, sous réserve des dispositions relatives aux comptes d'âge ou de
-vieillissement prévus par les textes réglementaires en vigueur et les règlements des organismes interprofessionnels ;
+vieillissement prévus par les textes réglementaires en vigueur et les règlements des organismes interprofessionnels ; 
 
 2° Par tarif d'imposition, en volume effectif, par couleur et par appellation d'origine ou dénomination pour les produits
 intermédiaires et les produits mentionnés à l'article 438 dudit code, sous réserve des règlements ou accords
-interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural ;
+interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural ; 
 
-3° Par tarif d'imposition, en volume effectif, par degré alcoométrique, pour les bières ;
+3° Par tarif d'imposition, en volume effectif, par degré alcoométrique, pour les bières ; 
 
-4° Selon les règles fixées par la réglementation communautaire, notamment par le règlement (CE) n° 884/2001, pour les
-produits vitivinicoles autres que le vin ;
+4° Selon les règles fixées par la réglementation communautaire, notamment par le règlement (CE) n° 884 / 2001, pour les
+produits vitivinicoles autres que le vin ; 
 
 5° Par tarif d'imposition, par unité de produits ou en grammes, selon le cas, pour les produits mentionnés à l'article 575 A
-du code général des impôts ;
+du code général des impôts ; 
 
 6° Pour les produits qui ne sont pas soumis aux droits mentionnés au deuxième alinéa de l'article 302 B du code général des
-impôts, par nature de produits exclusivement ;
+impôts, par nature de produits exclusivement ; 
 
-7° Par dérogation aux dispositions des 1° , 2° et 3° ci-dessus, les produits concernés par des règles spécifiques de taxation
-ou d'imposition font l'objet d'une gestion comptable séparée.
+7° Par dérogation aux dispositions des 1°, 2° et 3°, les produits concernés par des règles spécifiques de taxation ou
+d'imposition font l'objet d'une gestion comptable séparée. 
 
-De même, les produits soumis aux articles 450 du code général des impôts ou 661 et 662 du code rural font l'objet d'une
-gestion séparée.
+De même, les produits soumis aux articles 450 du code général des impôts ou 661 et 662 du code rural ancien font l'objet
+d'une gestion séparée. 
 
-VIII. - La comptabilité matières est tenue, par exercice comptable, sur un livre aux pages numérotées, jour par jour, sans
-blanc ni rature, ou selon une procédure informatisée.
+VIII.-La comptabilité matières est tenue, par exercice comptable, sur un livre aux pages numérotées, jour par jour, sans
+blanc ni rature, ou selon une procédure informatisée. 
 
 Les inscriptions sur la comptabilité matières doivent être faites au plus tard le jour ouvrable qui suit le jour de la
-réalisation de l'opération constituant une entrée ou une sortie selon les dispositions du B du IX.
+réalisation de l'opération constituant une entrée ou une sortie selon les dispositions du B du IX. 
 
-IX. - Outre les dispositions particulières prévues à l'annexe I au code général des impôts relatives aux bouilleurs de cru et
-aux distilleries, la comptabilité matières comprend les renseignements suivants :
+IX.-Outre les dispositions particulières prévues à l'annexe I au code général des impôts relatives aux bouilleurs de cru et
+aux distilleries, la comptabilité matières comprend les renseignements suivants : 
 
-A. - Renseignements généraux
+A.-Renseignements généraux 
 
-1° La mention, selon le cas : "Comptabilité matières des produits en suspension de droits" ou "Comptabilité matières des
-produits en droits acquittés" ou "Comptes de production ou de transformation" ;
+1° La mention, selon le cas : " Comptabilité matières des produits en suspension de droits " ou " Comptabilité matières des
+produits en droits acquittés " ou " Comptes de production ou de transformation " ; 
 
-2° Nom ou raison sociale et adresse du siège social de la société de l'entrepositaire agréé ;
+2° Nom ou raison sociale et adresse du siège social de la société de l'entrepositaire agréé ; 
 
-3° Numéro d'identification ;
+3° Numéro d'identification ; 
 
-4° Lieu où est tenue la comptabilité matières ;
+4° Lieu où est tenue la comptabilité matières ; 
 
-5° Adresse de l'entrepôt fiscal suspensif des droits d'accises pour lequel est tenue cette comptabilité matières ;
+5° Adresse de l'entrepôt fiscal suspensif des droits d'accises pour lequel est tenue cette comptabilité matières ; 
 
-6° Année concernée ;
+6° Année concernée ; 
 
 7° Date du dernier arrêté annuel de la comptabilité matières.
 
-B. - Renseignements particuliers
+B.-Renseignements particuliers 
 
-1° Le compte principal de la comptabilité matières doit contenir une colonne "Entrées" et une colonne "Sorties".
+1° Le compte principal de la comptabilité matières doit contenir une colonne " Entrées " et une colonne " Sorties ". 
 
-a) Dans la colonne "Entrées" du compte principal doivent figurer les quantités de produits destinées à être stockées :
+a) Dans la colonne " Entrées " du compte principal doivent figurer les quantités de produits destinées à être stockées : 
 
-1. Qui sont détenues à la date d'ouverture de la comptabilité matières, après arrêté annuel des comptes ;
+1. Qui sont détenues à la date d'ouverture de la comptabilité matières, après arrêté annuel des comptes ; 
 
-2. Qui sont reçues, produites ou transformées dans l'entrepôt suspensif des droits d'accises ;
+2. Qui sont reçues, produites ou transformées dans l'entrepôt suspensif des droits d'accises ; 
 
 3. Que l'entrepositaire agréé a constatées en excédent lors de la réception dans son entrepôt suspensif des droits
-d'accises ;
+d'accises ; 
 
 4. Qui sont replacées en suspension de droits, conformément au IV de l'article 302 G du code général des impôts, pour la
-comptabilité matières des produits en suspension de droits ;
+comptabilité matières des produits en suspension de droits ; 
 
 5. Qui sont reçues dans l'entrepôt suspensif des droits d'accises dans des récipients munis d'une capsule, empreinte,
 vignette ou de toute autre marque fiscale représentative des droits indirects. Dans ce cas, les quantités sont inscrites en
-entrée du compte principal des produits en droits acquittés.
+entrée du compte principal des produits en droits acquittés. 
 
-b) Dans la colonne "Sorties" du compte principal doivent figurer les quantités de produits :
+b) Dans la colonne " Sorties " du compte principal doivent figurer les quantités de produits : 
 
-1. Qui sont sorties de l'entrepôt suspensif des droits d'accises ou mises à la consommation ;
+1. Qui sont sorties de l'entrepôt suspensif des droits d'accises ou mises à la consommation ; 
 
 2. Qui ont fait l'objet d'une apposition de capsules, empreintes, vignettes ou de toutes autres marques fiscales
-représentatives des droits indirects ;
+représentatives des droits indirects ; 
 
 3. Qui sont replacées en suspension de droits dans les conditions fixées au IV de l'article 302 G du code général des impôts,
-pour la comptabilité matières des produits en droits acquittés ;
+pour la comptabilité matières des produits en droits acquittés ; 
 
 4. Qui sont sorties dans des récipients munis d'une capsule, empreinte, vignette ou de toute autre marque fiscale
 représentative des droits indirects. Dans ce cas, les quantités sont inscrites en sortie du compte principal des produits en
-droits acquittés.
+droits acquittés. 
 
-2° Par exception aux dispositions du 1°, la comptabilité matières des fabricants de vinaigre doit contenir une colonne
-"Entrées" et une colonne "Sorties", comme ci-après :
+2° Par exception aux dispositions du 1°, la comptabilité matières des fabricants de vinaigre doit contenir une colonne "
+Entrées " et une colonne " Sorties ", comme ci-après : 
 
-a) Dans la colonne "Entrées" du compte principal doivent figurer les quantités de produits ou de toutes autres matières
+a) Dans la colonne " Entrées " du compte principal doivent figurer les quantités de produits ou de toutes autres matières
 premières destinées à être mises en oeuvre, et leur richesse alcoolique effective ainsi que les excédents reconnus par
-l'entrepositaire agréé lors de la réception dans l'entrepôt fiscal suspensif des droits d'accises.
+l'entrepositaire agréé lors de la réception dans l'entrepôt fiscal suspensif des droits d'accises. 
 
-b) Dans la colonne "Sorties" du compte principal doivent figurer les quantités de produits qui ont été mises en oeuvre,
-produites ou transformées, selon le cas, et qui sont des déchets obtenus en cours de production ou de transformation.
+b) Dans la colonne " Sorties " du compte principal doivent figurer les quantités de produits qui ont été mises en oeuvre,
+produites ou transformées, selon le cas, et qui sont des déchets obtenus en cours de production ou de transformation. 
 
 3° Les comptes de production ou de transformation du compte principal de la comptabilité matière doivent contenir chacun une
-colonne "Entrées" et une colonne "Sorties".
+colonne " Entrées " et une colonne " Sorties ". 
 
-a) Dans la colonne "Entrées" des comptes de production ou de transformation doivent figurer les quantités de produits ou de
+a) Dans la colonne " Entrées " des comptes de production ou de transformation doivent figurer les quantités de produits ou de
 toutes autres matières premières destinées à être mises en oeuvre, et leur richesse alcoolique effective ainsi que les
-excédents reconnus par l'entrepositaire agréé lors de la réception dans l'entrepôt fiscal suspensif des droits d'accises.
+excédents reconnus par l'entrepositaire agréé lors de la réception dans l'entrepôt fiscal suspensif des droits d'accises. 
 
-b) Dans la colonne "Sorties" des comptes de production ou de transformation ou du compte principal des fabricants de
+b) Dans la colonne " Sorties " des comptes de production ou de transformation ou du compte principal des fabricants de
 vinaigre, doivent figurer les quantités de produits qui ont été mises en oeuvre, produites ou transformées, selon le cas, et
-qui sont des déchets obtenus en cours de production ou de transformation.
+qui sont des déchets obtenus en cours de production ou de transformation. 
 
 4° Une fois effectuée la production ou la transformation des produits, les quantités réellement obtenues de ces produits sont
-inscrites simultanément dans la colonne "Sorties" du compte de production ou de transformation et dans la colonne "Entrées"
-du compte principal, ou uniquement dans la colonne "Entrées" du compte principal, pour les fabricants de bières.
+inscrites simultanément dans la colonne " Sorties " du compte de production ou de transformation et dans la colonne " Entrées
+" du compte principal, ou uniquement dans la colonne " Entrées " du compte principal, pour les fabricants de bières. 
 
 5° Le compte principal doit également contenir les renseignements mentionnés au premier alinéa du 1° du IV.
 
-X. - Les documents et les pièces justificatives nécessaires à l'établissement de la comptabilité matières et la comptabilité
+X.-Les documents et les pièces justificatives nécessaires à l'établissement de la comptabilité matières et la comptabilité
 matières elle-même sont conservés dans les conditions et selon les modalités fixées à l'article L. 102 B du livre des
-procédures fiscales.
+procédures fiscales. 
 
-XI. - La validation des documents mentionnés à l'article 302 M du code général des impôts pour l'expédition ou l'enlèvement
-de produits n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à la tenue de la comptabilité
-matières telles que prévues par le présent article et les obligations mentionnées aux articles 614 et 614 A dudit code.
+XI.-La validation des documents mentionnés à l'article 302 M du code général des impôts pour l'expédition ou l'enlèvement de
+produits n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à la tenue de la comptabilité
+matières telles que prévues par le présent article et les obligations mentionnées aux articles 614 et 614 A dudit code. 
 
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
 le directeur régional des douanes et droits indirects.
@@ -14503,21 +14502,23 @@ le directeur régional des douanes et droits indirects.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 G (V)
 
-	**Cite**:
-
-	  - CGI 286 H, 286 K, 277 A, 302 G, 338, 438, 302 D, 575 A, 302 B, 450, 302 M, 614, 614 A
-	  - CGIAN1 37 à 56, 57 à 87, 71, 70
-	  - Code rural L632-1 à L632-7, L661, L662
-	  - Livre des procédures fiscales - art. L102 B (M)
-	  - Règlement CE 884/2001 2001-04-24
-
 	**Modifié par**:
 
-	  - Décret n°2006-532 du 11 mai 2006 - art. 2 () JORF 12 mai 2006
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts annexe 1, CGIAN1. - art. 37 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 56 (V)
+	  - Code général des impôts, CGI. - art. 302 G (V)
+	  - Code général des impôts, CGI. - art. 302 M (V)
+	  - Code général des impôts, CGI. - art. 338 (V)
+	  - Code général des impôts, CGI. - art. 438 (V)
+	  - Code général des impôts, CGI. - art. 450 (V)
+	  - Code général des impôts, CGI. - art. 575 A (V)
+	  - Code général des impôts, CGI. - art. 614 (V)
+	  - Code rural ancien - art. 661 (V)
+	  - Code rural - art. L632-1 (V)
 
 
 ###### Article 286 K
@@ -14707,207 +14708,218 @@ calculé en divisant les émoluments mentionnés à cet alinéa par le nombre d'
 ###### Article 289
 
 Les directeurs régionaux des douanes et droits indirects sont compétents, dans le cadre de leurs attributions, pour prendre
-les décisions administratives individuelles suivantes :
+les décisions administratives individuelles suivantes : 
 
 1° Fixation ou révision de taux annuels de déchets ou de pertes observés en cours de fabrication ou de transformation
 d'alcools et de boissons alcooliques accordés aux entrepositaires agréés par entrepôt suspensif de droits d'accises, prévues
-par le premier alinéa du 2° du 1 du I de l'article 302 D du code général des impôts et l'article 111-00 B de l'annexe Ill au
-même code ;
+par le premier alinéa du 2° du 1 du I de l'article 302 D du code général des impôts et l'article 111-00 B de l'annexe III au
+même code ; 
 
-2° Autorisation du procédé de dénaturation de l'alcool prévue au b du I de l'article 302 D bis du code général des impôts ;
+2° Autorisation du procédé de dénaturation de l'alcool prévue au b du I de l'article 302 D bis du code général des impôts ; 
 
-3° Agrément des opérateurs enregistrés prévu par l'article 302 H du code général des impôts ;
+3° Agrément des opérateurs enregistrés prévu par l'article 302 H du code général des impôts ; 
 
 4° Dispense de cautionnement en matière de contributions indirectes prévue au 2 du III de l'article 302 D, au V de l'article
 302 G, au deuxième alinéa de l'article 302 H, à l'article 302 J du code général des impôts et aux articles 286 N de l'annexe
-II, 111-0 C et 111-0 D de l'annexe III au même code ;
+II, 111-0 C et 111-0 D de l'annexe III au même code ; 
 
 5° Retrait de l'agrément accordé à l'entrepositaire agréé en cas de violation de ses obligations, de défaillance de la
 caution ou de dénonciation par cette caution de son engagement, prévu au V de l'article 302 G du code général des impôts, au
 IX de l'article 286 I et au XI de l'article 286 J de l'annexe II et aux articles 111-0 C et 111-0 D de l'annexe III au même
-code ;
+code ; 
 
 6° Remboursement et compensation des droits d'accises, prévu au IV de l'article 302 G du code général des impôts et aux 3 et
-4 du II de l'article 286 M de l'annexe II au même code ;
+4 du II de l'article 286 M de l'annexe II au même code ; 
 
 7° Autorisation de décharges de manquants pour les pertes de marchandises constatées lors de livraisons d'alcool, de boissons
 alcooliques ou de tabacs manufacturés en suspension de droits d'accises, à destination d'un entrepositaire agréé, d'un
-opérateur enregistré ou d'un opérateur non enregistré, prévue par l'article 302 K du code général des impôts ;
+opérateur enregistré ou d'un opérateur non enregistré, prévue par l'article 302 K du code général des impôts ; 
 
 8° Autorisation préalable des personnes qui désirent importer, acquérir à titre gratuit ou onéreux, obtenir en location,
 faire réparer ou transformer un ou plusieurs appareils ou portions d'appareils propres à la distillation, à la fabrication ou
 au repassage d'eaux-de-vie ou d'esprits, prévue par l'article 306 du code général des impôts et l'article 50 C de l'annexe IV
-au même code ;
+au même code ; 
 
-9° Dispense de la formalité de scellement, prévue par l'article 309 du code général des impôts ;
+9° Dispense de la formalité de scellement, prévue par l'article 309 du code général des impôts ; 
 
 10° Délivrance de permis de circulation pour les alambics utilisés par les loueurs d'alambics, prévue par les articles 311
-bis, 327 et 328 du code général des impôts ;
+bis, 327 et 328 du code général des impôts ; 
 
 11° Autorisation de remplacer le carnet de réception de sucre, glucose, isoglucose et de sirop d'inuline par tous autres
 registres ou documents présentant les mêmes indications, prévue par le deuxième alinéa de l'article 425 du code général des
-impôts ;
+impôts ; 
 
-12° Agrément donné à un entrepositaire agréé pour expédier à partir de ses locaux des produits en suspension de droits
-d'accises sans établir de titre de mouvement aux conditions et modalités prévues à l'article 443 du code général des impôts
-et au II de l'article 111 H sexies de l'annexe III au code général des impôts ;
+12° (Alinéa sans objet) ; 
 
 13° Admission en décharge des quantités d'alcool ou de boissons alcooliques en cas de pertes accidentelles, prévue au
-troisième alinéa de l'article 111-00 A de l'annexe III au code général des impôts ;
+troisième alinéa de l'article 111-00 A de l'annexe III au code général des impôts ; 
 
 14° Attribution et révision du taux annuel de pertes ou de déchets, prévues à l'article 111-00 B de l'annexe III au code
-général des impôts ;
+général des impôts ; 
 
 15° Attribution et retrait du numéro d'identification des intermédiaires, prévus au 2° du II de l'article 111-0 E de l'annexe
 III au code général des impôts et attribution et retrait du numéro d'identification des utilisateurs d'alcools et de boissons
-alcooliques en exonération de droits d'accises, prévus au 1° du I de l'article 111-0F de la même annexe ;
+alcooliques en exonération de droits d'accises, prévus au 1° du I de l'article 111-0F de la même annexe ; 
 
 16° Délivrance du numéro d'agrément des personnes responsables de l'embouteillage du produit, prévue par l'article 111 I de
-l'annexe III et le a de l'article 50-0 C de l'annexe IV au code général des impôts ;
+l'annexe III et le a de l'article 50-0 C de l'annexe IV au code général des impôts ; 
 
 17° Autorisation donnée aux entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et des débitants
 de boissons mentionnés aux articles 501 et 502 du même code, d'utiliser leurs factures ou tout autre document commercial, en
 lieu et place des documents d'accompagnement mentionnés à l'article 302 M du code précité, prévue par le II de l'article 111
-H bis de l'annexe III au code général des impôts ;
+H bis de l'annexe III au code général des impôts ; 
 
 18° Agrément des procédés de dénaturation des essences d'absinthe et produits assimilés, prévu par le premier alinéa de
-l'article 178 P de l'annexe III au code général des impôts ;
+l'article 178 P de l'annexe III au code général des impôts ; 
 
-19° Dispense des formalités à la circulation, prévue par l'article 178 AA de l'annexe III au code général des impôts ;
+19° Dispense des formalités à la circulation, prévue par l'article 178 AA de l'annexe III au code général des impôts ; 
 
 20° Autorisation de procéder à un second essai sur des objets marqués du poinçon de la garantie, prévue à l'article 207 de
-l'annexe III au code général des impôts ;
+l'annexe III au code général des impôts ; 
 
 21° Résiliation du contrat de gérance qui lie les débitants de tabacs ordinaires ou temporaires avec l'administration des
-douanes et droits indirects, prévue au deuxième alinéa du 1 de l'article 1er du décret n° 2007-906 du 15 mai 2007 ;
+douanes et droits indirects, prévue au deuxième alinéa du 1 de l'article 1er du décret n° 2007-906 du 15 mai 2007 ; 
 
 22° Rejet de la soumission d'un signataire du cahier des charges dans le cadre de la procédure d'adjudication de
-l'attribution de la gérance d'un débit de tabac, prévu par le deuxième alinéa du 3 du II de l'article 16 du décret précité ;
+l'attribution de la gérance d'un débit de tabac, prévu par le deuxième alinéa du 3 du II de l'article 16 du décret précité ; 
 
 23° Rejet de la candidature d'une personne qui a été retenue pour participer à la procédure d'adjudication en vue de
 l'attribution de la gérance d'un débit de tabac ordinaire en raison de l'absence de fourniture de l'un ou de plusieurs
-renseignements ou documents énumérés au 1 du III de l'article 16 du décret précité, prévu par le 2 du III du même article ;
+renseignements ou documents énumérés au 1 du III de l'article 16 du décret précité, prévu par le 2 du III du même article ; 
 
 24° Autorisation d'approvisionnement en tabac donnée à un candidat à la gérance d'un débit de tabac ordinaire, prévue par
-l'article 6 du décret précité ;
+l'article 6 du décret précité ; 
 
 25° Retrait de la faculté de revente des tabacs manufacturés, en cas de non-respect par le revendeur des dispositions prévues
-aux articles 23 à 25 du décret précité, prévu par l'article 26 du même décret ;
+aux articles 23 à 25 du décret précité, prévu par l'article 26 du même décret ; 
 
 26° Autorisation des entrepositaires agréés de rattacher un ou plusieurs chais ou locaux au site d'exploitation lorsqu'ils
 sont situés en dehors des limites fixées au I de l'article 50-00 B de l'annexe IV au code général des impôts, prévue par le
-III du même article ;
+III du même article ; 
 
 27° Délivrance du numéro d'agrément de la personne responsable de l'embouteillage du produit prévue au a de l'article 54-0 C
-de l'annexe IV au code général des impôts ;
+de l'annexe IV au code général des impôts ; 
 
 28° Autorisation donnée à un négociant d'embouteiller des boissons alcooliques pour le compte d'un ou de plusieurs autres
-entrepositaires agréés, prévue par le dernier alinéa de l'article 54-0 C de l'annexe IV au code général des impôts ;
+entrepositaires agréés, prévue par le dernier alinéa de l'article 54-0 C de l'annexe IV au code général des impôts ; 
 
 29° Agrément d'un type de capsule représentative de droit, prévu par l'article 54-0 G de l'annexe IV au code général des
-impôts ;
+impôts ; 
 
 30° Agrément de compteur équipant les machines à fabriquer les marques fiscales représentatives de droits, prévu par
-l'article 54-0 I de l'annexe IV au code général des impôts ;
+l'article 54-0 I de l'annexe IV au code général des impôts ; 
 
 31° Octroi des dérogations à l'emploi obligatoire des capsules fiscales pour le conditionnement des vins, prévu par le
-deuxième alinéa de l'article 54-0 U de l'annexe IV au code général des impôts ;
+deuxième alinéa de l'article 54-0 U de l'annexe IV au code général des impôts ; 
 
 32° Autorisation donnée aux entrepositaires agréés d'apposer eux-mêmes, sur les capsules qu'ils utilisent, la marque fiscale
 et les autres mentions visées au 2° du II de l'article 164 AM de l'annexe IV au code général des impôts, prévue par l'article
-54-0 V de l'annexe IV au code général des impôts ;
+54-0 V de l'annexe IV au code général des impôts ; 
 
 33° Agrément des machines destinées à apposer la marque fiscale et les autres mentions visées au 2° du II de l'article 164 AM
-de l'annexe IV au CGI, prévu par le deuxième alinéa de l'article 54-0 V de l'annexe IV au code général des impôts ;
+de l'annexe IV au CGI, prévu par le deuxième alinéa de l'article 54-0 V de l'annexe IV au code général des impôts ; 
 
 34° Autorisation de restitution ou de remise des droits et taxes afférents aux bouteilles ou récipients défectueux ou cassés,
-prévue par le deuxième alinéa de l'article 54-0 Z de l'annexe IV au code général des impôts ;
+prévue par le deuxième alinéa de l'article 54-0 Z de l'annexe IV au code général des impôts ; 
 
 35° Accord de restitution ou de remise des droits et taxes après constatation par le service des douanes et droits indirects
 de la preuve de la sortie du produit du territoire de la Communauté européenne ou après présentation d'un des documents
 mentionnés à l'article 302 M du code général des impôts, prévu par le dernier alinéa de l'article 54-0 Z de l'annexe IV au
-code général des impôts ;
+code général des impôts ; 
 
 36° Habilitation à répartir les capsules collectives représentatives des droits destinées aux récoltants, prévue par le
-premier alinéa de l'article 54-0 BW de l'annexe IV au code général des impôts ;
+premier alinéa de l'article 54-0 BW de l'annexe IV au code général des impôts ; 
 
 37° Autorisation de percevoir le droit de circulation par les personnes habilitées à répartir les capsules collectives
 représentatives des droits destinées aux récoltants, prévue par le troisième alinéa de l'article 54-0 BW de l'annexe IV au
-code général des impôts ;
+code général des impôts ; 
 
 38° Autorisation d'employer des empreintes fiscales en lieu et place de vignettes, prévue par le II de l'article 54 A de
-l'annexe IV au code général des impôts ;
+l'annexe IV au code général des impôts ; 
 
 39° implantation des débits de tabac ordinaires permanents et saisonniers respectivement prévue aux articles 10 et 17 du
 décret n° 2007-906 du 15 mai 2007 ; 
 
-40° Autorisation de transfert d'un débit de tabac ordinaire saisonnier prévue à l'article 19 du décret précité ;
+40° Autorisation de transfert d'un débit de tabac ordinaire saisonnier prévue à l'article 19 du décret précité ; 
 
 41° Notification de la fermeture provisoire ou définitive d'un débit de tabac ordinaire respectivement prévue aux articles 7
-et 8 du décret précité ;
+et 8 du décret précité ; 
 
 42° Réouverture d'un débit de tabac ordinaire fermé provisoirement à la suite de la demande de toute personne intéressée par
-la reprise de sa gérance prévue au douzième alinéa de l'article 7 du décret précité ;
+la reprise de sa gérance prévue au douzième alinéa de l'article 7 du décret précité ; 
 
 43° Autorisation de transformer un débit de tabac ordinaire saisonnier en débit de tabac ordinaire permanent prévue au II de
-l'article 18 du décret précité ;
+l'article 18 du décret précité ; 
 
 44° Autorisation de transformer un débit de tabac ordinaire permanent en débit de tabac ordinaire saisonnier prévue au III de
-l'article 18 du décret précité ;
+l'article 18 du décret précité ; 
 
 45° Autorisation délivrée aux établissements de spectacles de faire usage de distributeurs automatiques pour la délivrance de
-billets, prévue par l'article 128 de l'annexe IV au code général des impôts ;
+billets, prévue par l'article 128 de l'annexe IV au code général des impôts ; 
 
 46° Autorisation donnée aux établissements de spectacles d'utiliser des carnets journaliers de billets, prévue par le premier
-alinéa de l'article 129 de l'annexe IV au code général des impôts ;
+alinéa de l'article 129 de l'annexe IV au code général des impôts ; 
 
 47° Autorisation de déroger aux règles fixées par les articles 127, 128 et 129 de l'annexe IV au code général des impôts en
-matière de billetterie pour les représentations occasionnelles ;
+matière de billetterie pour les représentations occasionnelles ; 
 
 48° Mise en demeure adressée au comité de direction d'un cercle de jeu de ne pas maintenir en fonction un préposé n'arrivant
 pas à assurer de manière satisfaisante la concordance entre les sommes trouvées dans la cagnotte et la valeur des tickets
-détachés, prévue par le deuxième alinéa de l'article 151 de l'annexe IV au code général des impôts ;
+détachés, prévue par le deuxième alinéa de l'article 151 de l'annexe IV au code général des impôts ; 
 
 49° Autorisation d'utiliser des machines à timbrer, prévue au premier alinéa de l'article 164 AD bis de l'annexe IV au code
-général des impôts ;
+général des impôts ; 
 
 50° Autorisation de déplacement de la machine à timbrer en dehors de l'établissement désigné comme lieu d'exploitation,
-prévue à la fin du deuxième alinéa de l'article 164 AD bis au code général des impôts ;
+prévue à la fin du deuxième alinéa de l'article 164 AD bis au code général des impôts ; 
 
 51° Autorisation de mise en place ou d'installation, chez les utilisateurs, de matériels et logiciels mentionnée à l'article
 164 AM de l'annexe IV au code général des impôts, prévue au III de l'article 164 AP et au I de l'article 164 AU de la même
-annexe ;
+annexe ; 
 
 52° Autorisation de déplacement des matériels ou logiciels mentionnés à l'article 164 AM de l'annexe IV au code général des
-impôts en dehors de l'établissement désigné comme le lieu d'exploitation, prévue au I de l'article 164 AU de la même annexe ;
+impôts en dehors de l'établissement désigné comme le lieu d'exploitation, prévue au I de l'article 164 AU de la même
+annexe ; 
 
 53° Habilitation des usagers à apposer, à l'aide de leurs matériels ou logiciels, les marques fiscales sur des capsules dont
 ils font usage pour le compte de personnes pour lesquelles ils sont autorisés à embouteiller les vins, autres boissons
-fermentées, produits intermédiaires et alcools, prévue au VI de l'article 164 AU de l'annexe IV au code général des impôts ;
+fermentées, produits intermédiaires et alcools, prévue au VI de l'article 164 AU de l'annexe IV au code général des impôts ; 
 
 54° Révocation de l'autorisation donnée aux usagers de matériels ou de logiciels mentionnée au I de l'article 164 AU de
-l'annexe IV, prévue à l'article 164 AW de la même annexe ;
+l'annexe IV, prévue à l'article 164 AW de la même annexe ; 
 
-55° Décisions relatives aux réclamations contentieuses, prévues à l'article R.* 198-10 du livre des procédures fiscales.
+55° Décisions relatives aux réclamations contentieuses, prévues à l'article R. * 198-10 du livre des procédures fiscales.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er à 28 du décret n° 2007-906 du 15 mai 2007 et de l'article 2 du
-décret n° 2007-1865 du 26 décembre 2007.
+Modifications effectuées en conséquence de l'article 78-II et V de la loi n°2007-1824 du 25 décembre 2007.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 302 D, 302 D bis, 302 H, 302 J, 302 G, 302 K, 306, 309, 311 bis, 327, 328, 425, 443, 501, 502, 302 M, 244 septdecies à 244 novodecies, 164 AD bis
-	  - CGIAN2 286 N, 286 I, 286 J, 286
-	  - CGIAN3 111-0, 111 H sexies, 111-00 A, 111-00 B, 111-0 E, 111-0F, 111 I, 111 H bis, 178 P, 178 AA, 207, 244 sexies, 244 undecies, 244 quaterdecies, 244 vicies
-	  - CGIAN4 50, 50-0 C, 50-00 B, 54-0 C, 54-0 G, 54-0 I, 54-0 U, 164 AM, 54-0 V, 54-0 Z, 54-0 BW, 54 A, 57, 57 N, 57 O, 128, 129, 127, 151, 164 AD bis, 164 AP, 164 AU, 164 AW
-	  - Livre des procédures fiscales
+	  - Décret n°2007-906 du 15 mai 2007 - art. 1 (V)
+	  - Décret n°2007-906 du 15 mai 2007 - art. 10 (V)
+	  - Décret n°2007-906 du 15 mai 2007 - art. 16 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 P (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 207 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 128 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 C (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 C (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Z (V)
+	  - Code général des impôts, CGI. - art. 302 D (V)
+	  - Code général des impôts, CGI. - art. 306 (V)
+	  - Code général des impôts, CGI. - art. 425 (V)
+	  - Code général des impôts, CGI. - art. 501 (V)
+	  - Livre des procédures fiscales - art. R*198-10 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -15100,33 +15112,30 @@ donation ou de l'ouverture de la succession.
 
 L'héritier, légataire ou donataire, qui invoque son infirmité, doit justifier que celle-ci l'empêche soit de se livrer dans
 des conditions normales de rentabilité à toute activité professionnelle, soit, s'il est âgé de moins de dix-huit ans,
-d'acquérir une instruction ou une formation professionnelle d'un niveau normal.
+d'acquérir une instruction ou une formation professionnelle d'un niveau normal. 
 
-Il peut justifier de son état par tous éléments de preuve, et notamment invoquer une décision de la commission technique
-d'orientation et de reclassement professionnel prévue à l'article L. 323-11 du code du travail le classant dans la catégorie
-correspondant aux handicaps graves ou le déclarant relever soit d'un atelier protégé, soit d'un centre d'aide par le travail
-mentionné à l'article L. 344-2 du code de l'action sociale et des familles.
+Il peut justifier de son état par tous éléments de preuve, et notamment invoquer une décision de la commission des droits et
+de l'autonomie des personnes handicapées mentionnée à l'article L. 146-9 du code de l'action sociale et des familles le
+classant dans la catégorie correspondant aux handicaps graves ou le déclarant relever soit d'une entreprise adaptée définie à
+l'article L. 5213-13 du code du travail, soit d'un établissement ou service d'aide par le travail défini à l'article L. 344-2
+du code de l'action sociale et des familles.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 26-III, 39-III, 64 et 70 (3°) de la loi n° 2005-102 du 11 février 2005
+et des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
 	**Modifié par**:
 
-	  - Rapport au Président de la République relatif à l' - art. 1 (V) JORF 23 décembre 2000
-	  - Rapport au Président de la République relatif à l' - art. 3 (V) JORF 23 décembre 2000
-	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Cite**:
 
-	  - Code du travail - art. L323-11 (M)
-	  - Code de l'action sociale et des familles - art. L344-2 (M)
+	  - Code du travail - art. L5213-13 (V)
+	  - Code de l'action sociale et des familles - art. L146-9 (V)
+	  - Code de l'action sociale et des familles - art. L344-2
 
 
 ###### Article 294 bis
@@ -15452,12 +15461,11 @@ acquitté lors du dépôt de la déclaration.
 
 
 
-###### Article 300
+###### Article 301
 
-L'agrément prévu à l'article 721 du code général des impôts peut être valablement sollicité, en ce qui concerne les droits et
-taxes visés à l'article 299, jusqu'à l'expiration du délai fixé à l'article 297.
-
-En cas d'octroi de cet agrément, les droits versés en trop sont restituables.
+Les dispositions des articles 295 à 299 s'appliquent uniquement à ceux des biens des sociétés françaises ou étrangères qui
+ont, selon la nature corporelle ou incorporelle de ces biens, soit leur assiette matérielle, soit leur assiette juridique en
+France.
 
 **Nota:**
 
@@ -15465,35 +15473,13 @@ Modifications effectuées en conséquence de l'article 64-V de la loi n° 2008-7
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 721, 299, 297
-
 	**Modifié par**:
 
-	  - Loi n°98-1266 1998-12-30 art. 39 I 4 Finances pour 1999 JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Liens**:
-
-	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 2
-	  - HISTO: Edition du 31 mars 1999
-
-
-###### Article 301
-
-Les dispositions des articles 295 à 300 s'appliquent uniquement à ceux des biens des sociétés françaises ou étrangères qui
-ont, selon la nature corporelle ou incorporelle de ces biens, soit leur assiette matérielle, soit leur assiette juridique en
-France.
-
-**Liens relatifs à cet article**
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Cite**:
 
-	  - CGIAN2 295 à 300
+	  - Code général des impôts, CGI. - art. 295 (V)
 
 
 ##### B : Dispositions particulières à certaines conventions
@@ -16328,40 +16314,39 @@ pour l'ensemble de l'entreprise ; pour le calcul de ce nombre, les travailleurs 
 concurrence de la durée de leur travail ;
 
 - les apprentis sous contrat s'entendent des titulaires d'un contrat d'apprentissage passé dans les conditions prévues aux
-articles L 117-1 à L 117-18 du code du travail ; les handicapés physiques s'entendent des travailleurs handicapés reconnus
-par la commission départementale technique d'orientation et de reclassement professionnel mentionnée par l'article L 323-11
-du même code ; - les dispositions de l'article 1468 du code général des impôts concernent les chefs d'entreprises artisanales
-tenus de s'inscrire au répertoire des métiers ;
+articles L. 6221-1 à L. 6225-8 du code du travail ; les handicapés physiques s'entendent des travailleurs handicapés reconnus
+par la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 146-9 du code de l'action
+sociale et des familles ;
+
+- les dispositions de l'article 1468 du code général des impôts concernent les chefs d'entreprises artisanales tenus de
+s'inscrire au répertoire des métiers ;
 
 - l'établissement s'entend de toute installation utilisée par une entreprise en un lieu déterminé, ou d'une unité de
 production intégrée dans un ensemble industriel ou commercial lorsqu'elle peut faire l'objet d'une exploitation autonome ;
 
 - les véhicules s'entendent de tous engins circulant à l'extérieur d'une installation, sur terre, dans l'air ou sur les eaux.
 
+**Nota:**
+
+<font color="#000000" size="1">Modifications effectuées en conséquence des articles 26-III, 39-III, 64 et 70 (3°) de la loi
+n° 2005-102 du 11 février 2005 et des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.</font>
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1467 A, 1468
-	  - Code du travail - art. L323-11 (M)
-	  - Code du travail L117-1 à L117-18, L323-11
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G quater (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°73-1046 1973-11-15 art. 1, art. 4 JORF 21 novembre 1973
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er septembre 1982
+	  - Code général des impôts, CGI. - art. 1467 A (V)
+	  - Code du travail - art. L6221-1 (V)
+	  - Code de l'action sociale et des familles - art. L146-9 (V)
 
 
 ##### II : Exonérations
@@ -18660,6 +18645,122 @@ est celui applicable au lieu de l'habitation principale du redevable.
 	**Modifié par**:
 
 	  - Loi n°2009-258 du 5 mars 2009 - art. 29
+
+
+##### Section VI : Prélèvement spécial sur les films pornographiques et d'incitation à la violence
+
+###### Article 321 octies
+
+Sous réserve des dispositions des articles 321 quinquies à 321 septies le prélèvement spécial prévu par l'article 1605 sexies
+du code général des impôts est établi et recouvré selon les modalités, ainsi que sous les sûretés, garanties et sanctions
+applicables en matière de taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées comme pour cet
+impôt.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'art. 20-XVIII [9°] de la loi n° 2013-1279 du 29 décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1605 sexies (V)
+
+	**Anciens textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 vicies (T)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 quinquies (P)
+
+
+###### Article 321 quinquies
+
+Le prélèvement spécial prévu par l'article 1605 sexies du code général des impôts sur la fraction des bénéfices industriels
+et commerciaux imposables à l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de la
+distribution ou de la représentation de films pornographiques ou d'incitation à la violence est liquidé par les entreprises
+qui réalisent ces bénéfices. Ces entreprises l'acquittent spontanément auprès du service des impôts dont elles relèvent. 
+
+La période d'imposition est, pour chaque redevable, celle qui est retenue pour l'établissement soit de l'impôt sur le revenu
+dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt sur les sociétés.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'art. 20-XVIII [9°] de la loi n° 2013-1279 du 29 décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D336-1 (V)
+	  - Code général des impôts, CGI. - art. 1605 sexies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 octies (P)
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
+
+	**Anciens textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 septdecies (T)
+
+
+###### Article 321 septies
+
+Tout redevable du prélèvement spécial prévu par l'article 1605 sexies du code général des impôts est tenu de remettre au
+service des impôts, dans le délai prévu pour le versement du prélèvement, une déclaration établie en double exemplaire sur un
+imprimé conforme au modèle fixé par le ministre de l'économie et des finances.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'art. 20-XVIII [9°] de la loi n° 2013-1279 du 29 décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Anciens textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 novodecies (T)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1605 sexies (V)
+
+
+###### Article 321 sexies
+
+Les entreprises redevables du prélèvement le versent au plus tard à la date d'expiration du délai prévu pour le dépôt de leur
+déclaration annuelle de résultats.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'art. 20-XVIII [9°] de la loi n° 2013-1279 du 29 décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+
+	**Anciens textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 octodecies (T)
 
 
 #### Chapitre I bis : Taxes assimilées aux taxes sur le chiffre d'affaires

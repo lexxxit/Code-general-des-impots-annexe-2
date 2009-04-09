@@ -1,24 +1,24 @@
 # Article 163 duodecies
 
-La déclaration prévue à l'article L. 951-12 du code du travail est établie conformément aux dispositions prévues par
-l'article R. 950-19 du même code.
+La déclaration prévue à l'article 235 ter J du code général des impôts est établie conformément aux dispositions des articles
+R. 6331-30 et R. 6331-32 du code du travail.
+
+**Nota:**
+
+<font color="#000000" size="1">Modifications effectuées en conséquence de l'article 10-I-12° et III de la loi n° 2014-288 du
+5 mars 2014.</font>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-383 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Cite**:
-
-	  - Code du travail - art. L951-12 (M)
-	  - Code du travail - art. R950-19 (M)
+	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter J
+	  - Code du travail - art. R6331-30
