@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2009-04-15
+Version Consolidée au 2009-05-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9029,32 +9029,6 @@ récapitulatif des dépenses qu'il a engagées ou des contrats qu'il a conclus.
 	  - HISTO: Edition du 24 juin 1991
 
 
-###### Article 178
-
-Lorsque la condition de location par un contrat d'une durée d'au moins neuf ans cesse d'être remplie ou lorsque l'engagement
-de promotion touristique à l'étranger mentionné à l'article 176 n'est pas respecté, le redevable ou ses ayants droit sont
-replacés sous le régime de l'exonération de taxe sur la valeur ajoutée à compter de la date à laquelle ils ont été soumis à
-cette taxe pour cette location.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 176
-
-	**Créé par**:
-
-	  - Décret n°91-352 du 11 avril 1991 - art. 2 () JORF 13 avril 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2009-510 du 5 mai 2009 - art. 1
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
-
 ##### 4° : Prestations d'hébergement fournies dans les villages résidentiels de tourisme
 
 ###### Article 178 bis
@@ -9956,58 +9930,56 @@ peut faire l'objet de remboursements dans les conditions fixées par les article
 
 ###### Article 209
 
-I. - Les opérations situées hors du champ d'application de la taxe sur la valeur ajoutée et les opérations imposables doivent
-être comptabilisées dans des comptes distincts pour l'application du droit à déduction.
+I.-Les opérations situées hors du champ d'application de la taxe sur la valeur ajoutée et les opérations imposables doivent
+être comptabilisées dans des comptes distincts pour l'application du droit à déduction. 
 
 Il en va de même pour les secteurs d'activité qui ne sont pas soumis à des dispositions identiques au regard de la taxe sur
-la valeur ajoutée.
+la valeur ajoutée. 
 
-Sont constitués en secteurs d'activité :
+Sont constitués en secteurs d'activité : 
 
-1° Chaque immeuble ou ensemble d'immeubles ou fraction d'immeuble composé de logements sociaux à usage locatif dont la
-livraison à soi-même est imposable en application des neuvième à douzième alinéas du c du 1 du 7° de l'article 257 du code
-général des impôts ou dans lequel sont réalisés des travaux d'amélioration, de transformation ou d'aménagement de logement
-dont les livraisons à soi-même sont imposables en application des 7° bis et 7° quater de ce même article ;
+1° Chaque immeuble ou ensemble d'immeubles ou fraction d'immeuble dont la livraison à soi-même est imposable en application
+des neuvième à quinzième alinéas du c du 1 du 7° de l'article 257 du code général des impôts ou dans lequel sont réalisés des
+travaux d'amélioration, de transformation ou d'aménagement de logement dont les livraisons à soi-même sont imposables en
+application des 7° bis et 7° quater à 7° sexies de ce même article ; 
 
 2° Les immeubles, ensembles d'immeubles ou fractions d'immeubles dont la location est imposée en application du 2° de
-l'article 260 du code général des impôts ;
+l'article 260 du code général des impôts ; 
 
-3° Les services mentionnés à l'article 260 A du code général des impôts ;
+3° Les services mentionnés à l'article 260 A du code général des impôts ; 
 
-4° Pour les organismes agissant sans but lucratif désignés au a du 1° du 7 de l'article 261 du code général des impôts :
+4° Pour les organismes agissant sans but lucratif désignés au a du 1° du 7 de l'article 261 du code général des impôts : 
 
-a. L'ensemble de leurs opérations qui ne sont pas soumises à la taxe sur la valeur ajoutée et des ventes qu'ils consentent à
-leurs membres au-delà de 10 % de leurs recettes totales ;
+a.L'ensemble de leurs opérations qui ne sont pas soumises à la taxe sur la valeur ajoutée et des ventes qu'ils consentent à
+leurs membres au-delà de 10 % de leurs recettes totales ; 
 
 b. chacune des manifestations de bienfaisance ou de soutien qu'ils organisent et dont les recettes sont imposables à la taxe
-sur la valeur ajoutée ;
+sur la valeur ajoutée ; 
 
 5° Chaque opération de lotissement ou d'aménagement de zone réalisée par les collectivités territoriales ou leurs
-groupements.
+groupements. 
 
-II. - Les biens d'investissement ouvrant droit à déduction sont inscrits dans la comptabilité de l'entreprise pour leur prix
+II.-Les biens d'investissement ouvrant droit à déduction sont inscrits dans la comptabilité de l'entreprise pour leur prix
 d'achat ou de revient diminué de la déduction à laquelle ils donnent droit, rectifié, le cas échéant, conformément aux
 dispositions de l'article 207.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 257, 260, 260 A, 261
-	  - CGIAN2 207
-
 	**Modifié par**:
 
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
+	  - Décret n°2009-510 du 5 mai 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 206 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (VD)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 257
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 260
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 260 A
+	  - Code général des impôts, CGI. - art. 261
 
 
 ##### b : Transfert du droit à déduction
