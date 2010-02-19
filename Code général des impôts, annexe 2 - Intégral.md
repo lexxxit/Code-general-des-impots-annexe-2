@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-02-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18539,6 +18539,91 @@ prévues aux articles 311 A à 311 D en ce qui concerne la redevance communale.
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 311 A (V)
 	  - Code général des impôts, CGI. - art. 1587 (V)
+
+
+### Titre III : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
+
+#### Chapitre unique : Impôts directs et taxes assimilées
+
+##### II : Taxe perçue pour la région de Guyane
+
+###### Article 318 B
+
+La masse nette de l'or extrait chaque année, d'après laquelle est calculée l'année suivante la taxe prévue à l'article 1599
+quinquies B du code général des impôts, est définie d'après la quantité d'or effectivement extraite par un traitement
+métallurgique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-152 du 17 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1599 quinquies B
+
+
+###### Article 318 C
+
+Les investissements suivants peuvent être déduits de la taxe prévue à l'article 1599 quinquies B du code général des
+impôts : 
+
+1° Acquisition de matériels et d'équipements de mesure permettant de contrôler la qualité des rejets dans le milieu
+naturel ; 
+
+2° Achat de matériels et équipements concourant à l'étanchéité des digues et parcs à résidus ; 
+
+3° Achat de bacs de rétention ; 
+
+4° Travaux de réhabilitation et de revégétalisation des sites d'exploitation ; 
+
+5° Travaux de récupération, de traitement et d'élimination du mercure résultant d'anciens chantiers orpaillés ; 
+
+6° Réalisation d'études d'impact ou de notices d'impact préalables à des travaux ou investissements ayant pour effet de
+réduire les impacts de l'exploitation sur le milieu naturel ; 
+
+7° Réalisation d'études et de travaux concourant à la stabilité des digues et parcs à résidus ; 
+
+8° Autres investissements permettant soit d'évaluer les effets quantitatifs et qualitatifs des recherches ou des modalités
+d'extraction sur le milieu naturel, soit de réduire les impacts de l'exploitation sur ce dernier, soit d'adopter de nouvelles
+technologies réduisant les nuisances environnementales ou de concourir à la réhabilitation des sites après exploration ou
+exploitation. 
+
+Les bénéficiaires de la déduction doivent présenter, tous les ans, aux services déconcentrés chargés des mines les
+justificatifs attestant de la réalisation effective des investissements qui ont fait l'objet de déduction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-152 du 17 février 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 318 D (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1599 quinquies B
+
+
+###### Article 318 D
+
+Le représentant de l'Etat dans le département contrôle la réalisation et le bon emploi des investissements mentionnés à
+l'article 318 C de l'annexe II au code général des impôts. 
+
+Il dispose à cet effet des services déconcentrés chargés des mines, qui peuvent opérer des vérifications sur place.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-152 du 17 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 318 C (V)
 
 
 ### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers
