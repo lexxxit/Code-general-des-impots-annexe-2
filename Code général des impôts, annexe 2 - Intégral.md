@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2010-03-22
+Version Consolidée au 2010-04-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -550,16 +550,14 @@ est celle mise à la charge du souscripteur par le contrat.
 
 ###### Article 17
 
-Pour l'application des dispositions de l'article 39 bis A du code général des impôts, sont regardées comme se consacrant
-principalement ou pour une large part à l'information politique et générale les publications réunissant les caractéristiques
-suivantes : 
+Pour l'application des dispositions de l'article 39 bis A du code général des impôts, sont regardés comme consacrés pour une
+large part à l'information politique et générale les publications et services de presse en ligne réunissant les
+caractéristiques suivantes : 
 
-1° Apporter de façon permanente sur l'actualité politique et générale, locale, nationale ou internationale des informations
-et des commentaires tendant à éclairer le jugement des citoyens ; 
+1° Apporter de façon permanente et continue sur l'actualité politique et générale, locale, nationale ou internationale des
+informations et des commentaires tendant à éclairer le jugement des citoyens ; 
 
-2° Consacrer la majorité de leur surface rédactionnelle à cet objet ; 
-
-3° Présenter un intérêt dépassant d'une façon manifeste les préoccupations d'une catégorie de lecteurs.
+2° Consacrer au moins le tiers de leur surface rédactionnelle à cet objet.
 
 **Liens relatifs à cet article**
 
@@ -571,7 +569,7 @@ et des commentaires tendant à éclairer le jugement des citoyens ;
 
 	**Modifié par**:
 
-	  - Décret n°2008-260 du 14 mars 2008 - art. 1
+	  - Décret n°2010-412 du 27 avril 2010 - art. 1
 
 	**Cite**:
 
@@ -8835,49 +8833,6 @@ sont définies par l'article R. 318-17 du code de la construction et de l'habita
 
 ##### I : Opérations obligatoirement imposables
 
-##### 1° Locations de moyens de transport
-
-###### Article 172
-
-Pour les locations de moyens de transport mentionnées aux 1° et 1° bis de l'article 259 A du code général des impôts, et les
-prestations de services indiquées à l'article 259 C du même code, le prestataire est tenu d'apporter la preuve que les moyens
-de transports loués ou les prestations rendues ont été utilisés en totalité ou en partie, et, le cas échéant, dans quelle
-proportion :
-
-a. En France, dans un autre Etat membre de la Communauté européenne ou en dehors de la Communauté, s'il s'agit de la location
-de moyens de transport ;
-
-b. En France ou hors de France, s'il s'agit de prestations désignées à l'article 259 C précité.
-
-A défaut, les locations de moyens de transport et les prestations ci-dessus sont considérées comme utilisées en France.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 259 A, 259 C
-
-	**Anciens textes**:
-
-	  - CGIAN1 24
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-
-	**Modifié par**:
-
-	  - Loi n°94-1163 du 29 décembre 1994 - art. 22 (V) JORF 30 décembre 1994
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Abrogé par**:
-
-	  - Décret n°2010-413 du 27 avril 2010 - art. 2
-
-
 ##### 2° Livraisons et prestations à soi-même
 
 ###### Article 172 A
@@ -10341,74 +10296,53 @@ Ne peuvent prétendre au bénéfice des remboursements prévus aux articles 242-
 
 ###### Article 242-0 M
 
-1. Les assujettis établis à l'étranger peuvent obtenir le remboursement de la taxe sur la valeur ajoutée qui leur a été
-régulièrement facturée si, au cours du trimestre civil ou de l'année civile auquel se rapporte la demande de remboursement,
-ils n'ont pas eu en France le siège de leur activité ou un établissement stable ou, à défaut, leur domicile ou leur résidence
-habituelle et n'y ont pas réalisé, durant la même période, de livraisons de biens ou de prestations de services entrant dans
-le champ d'application de la taxe sur la valeur ajoutée au sens des articles 256, 256 A à 258 B, 259 à 259 C du code général
-des impôts.
+Aux fins de l'application des articles 242-0 N à 242-0 Z ter, on entend par : 
 
-2. Pour l'application du 1, ne sont pas considérés comme réalisés en France :
+1° assujetti non établi en France, tout assujetti établi dans un autre Etat membre de l'Union européenne qui n'a en France ni
+le siège de son activité économique, ni un établissement stable à partir duquel les opérations sont effectuées, ni, à défaut
+d'un tel siège ou d'un tel établissement, son domicile ou sa résidence habituelle. Est toutefois considéré comme établi en
+France un assujetti dont le siège est situé dans un autre Etat membre mais qui dispose en France d'une structure qui, bien
+que fournissant exclusivement des services à son siège, est identifiée sur le fondement du 4° de l'article 286 ter du code
+général des impôts ; 
 
-a. les transports et prestations accessoires exonérés en application du premier alinéa du I, des 7° à 11° bis, et 14° du II
-de l'article 262 du code général des impôts ainsi que du 2° du III de l'article 291 du même code ;
+2° requérant, l'assujetti non établi en France qui introduit en France une demande de remboursement de la taxe sur la valeur
+ajoutée ; 
 
-b. les prestations mentionnées aux 3°, 4° bis, 5° et 6° de l'article 259 A et à l'article 259 B du code général des impôts,
-pour lesquelles la taxe est due par le preneur en vertu du 2° de l'article 283 du même code ;
-
-c. Les livraisons mentionnées au 2° du I de l'article 258 D du code général des impôts, pour lesquelles la taxe est due par
-le destinataire en application du 2 ter de l'article 283 du même code ;
-
-d. Les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 277 A du code général des
-impôts ;
-
-e. les livraisons et les prestations pour lesquelles la taxe est acquittée par l'acquéreur, le destinataire ou le preneur
-dans les conditions mentionnées au second alinéa du 1 de l'article 283 du code général des impôts.
+3° service des impôts, le service des impôts chargé de procéder aux remboursements de taxe sur la valeur ajoutée aux
+assujettis non établis en France.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 256, 256 A à 258 B, 259 à 259 C, 262, 291, 259 B, 283, 259 A, 258 D, 277 A
-
 	**Modifié par**:
 
-	  - Décret n°2006-1001 du 10 août 2006 - art. 1 () JORF 11 août 2006
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 N
+	  - Code général des impôts, CGI. - art. 286 ter
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 O (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
 
 ###### Article 242-0 N
 
-Est remboursée aux assujettis établis dans un Etat membre de la Communauté européenne la taxe sur la valeur ajoutée qui a
-grevé les services qui leur ont été rendus et les biens meubles qu'ils ont acquis ou importés en France au cours de l'année
-ou du trimestre prévus à l'article 242-0 M dans la mesure où ces biens et services sont utilisés pour la réalisation ou pour
-les besoins :
+Un assujetti non établi en France peut obtenir le remboursement de la taxe sur la valeur ajoutée ayant grevé les biens qui
+lui ont été livrés ou les services qui lui ont été fournis en France par d'autres assujettis ou ayant grevé l'importation de
+biens en France, dans la mesure où ces biens et services sont utilisés pour les besoins des opérations suivantes : 
 
-a. d'opérations dont le lieu d'imposition se situe à l'étranger mais qui ouvriraient droit à déduction si ce lieu
-d'imposition était en France ;
+1° les opérations dont le lieu d'imposition se situe hors de France mais qui ouvriraient droit à déduction si ce lieu
+d'imposition était situé en France ; 
 
-b. des opérations mentionnées au 2 de l'article 242-0 M.
+2° les opérations mentionnées au 2° de l'article 242-0 O.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN2 242-0 M
-
-	**Créé par**:
-
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
 
 	**Cité par**:
 
@@ -10418,35 +10352,39 @@ b. des opérations mentionnées au 2 de l'article 242-0 M.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z quinquies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 decies (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-1-98
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-2-98
-	  - TXT_ASSOCIE: Instruction 1999-07-15 3D-2-99
-
 
 ###### Article 242-0 O
 
-Les dispositions de l'article 242-0 N sont applicables aux assujettis établis hors de la Communauté européenne à l'exception
-des assujettis établis dans un pays ou territoire qui n'accorde pas d'avantages comparables, en ce qui concerne les taxes sur
-le chiffre d'affaires, aux assujettis établis en France et qui figure sur une liste fixée par arrêté du ministre chargé du
-budget.
+Un assujetti non établi en France doit satisfaire aux conditions suivantes pour obtenir le remboursement de la taxe sur la
+valeur ajoutée mentionné à l'article 242-0 N : 
+
+1° au cours de la période sur laquelle porte la demande de remboursement, l'assujetti doit avoir été établi hors de France au
+sens du 1° de l'article 242-0 M ; 
+
+2° au cours de la période sur laquelle porte la demande de remboursement, l'assujetti ne doit avoir effectué aucune livraison
+de biens ni prestations de services en France à l'exception des opérations suivantes : 
+
+a. les prestations de services de transports et les opérations accessoires qui sont exonérées en application du I, des 7° à
+11° bis et 14° du II de l'article 262 du code général des impôts, des articles 262 bis, 263, ainsi que du 2° du III de
+l'article 291 du même code ; 
+
+b. les opérations pour lesquelles la taxe est acquittée par l'acquéreur, le destinataire ou le preneur mentionnées au second
+alinéa du 1 et aux 2, 2 ter, 2 quinquies, 2 sexies de l'article 283 du code général des impôts ; 
+
+c. les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 277 A du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 242-0 N
-
 	**Modifié par**:
 
-	  - Décret n°2003-1266 du 26 décembre 2003 - art. 1 () JORF 28 décembre 2003
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2003-1266 du 26 décembre 2003 - art. 2, v. init.
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 M
+	  - Code général des impôts, CGI. - art. 262
+	  - Code général des impôts, CGI. - art. 277 A
+	  - Code général des impôts, CGI. - art. 283
 
 	**Cité par**:
 
@@ -10457,172 +10395,446 @@ budget.
 
 ###### Article 242-0 P
 
-La taxe sur la valeur ajoutée n'est remboursée en application des articles 242-0 M à 242-0 O et 242-0 U que si elle est au
-moins égale à une somme de 25 ou 200 euros, selon que le remboursement a lieu au titre d'une année ou d'un trimestre.
+La demande de remboursement présentée ne peut pas porter sur : 
+
+1° les montants de taxe sur la valeur ajoutée facturés par erreur ; 
+
+2° les montants de taxe sur la valeur ajoutée facturés pour des livraisons de biens qui sont exonérées, ou peuvent l'être en
+application du 2° du I de l'article 262 du code général des impôts, du I de l'article 262 ter et du II de l'article 298
+sexies du même code.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 242-0 M à 242-0 O, 242-0 U
-
 	**Modifié par**:
 
-	  - Décret n°2003-1266 du 26 décembre 2003 - art. 1 () JORF 28 décembre 2003
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2003-1266 du 26 décembre 2003 - art. 2, v. init.
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 262
+	  - Code général des impôts, CGI. - art. 262 ter
+	  - Code général des impôts, CGI. - art. 298 sexies
 
 
 ###### Article 242-0 Q
 
-Le remboursement doit être demandé au service des impôts avant la fin du sixième mois suivant l'année civile au cours de
-laquelle la taxe est devenue exigible.
+I.-Pour bénéficier d'un remboursement, un assujetti non établi en France doit effectuer des opérations ouvrant droit à
+déduction dans l'Etat membre de l'Union européenne dans lequel il est établi. 
 
-La demande est établie sur un imprimé du modèle prévu par l'administration. Elle est accompagnée des originaux des factures,
-des documents d'importation et de toutes pièces justificatives. L'assujetti certifie qu'il remplit les conditions prévues à
-l'article 242-0 M.
+II.-Lorsqu'un assujetti non établi en France effectue dans l'Etat membre où il est établi à la fois des opérations ouvrant
+droit à déduction et des opérations n'ouvrant pas droit à déduction, le montant de taxe sur la valeur ajoutée mentionné à
+l'article 242-0 N n'est remboursé qu'à hauteur de la proportion de cette taxe qui est afférente aux premières opérations
+telle qu'elle est déterminée dans l'Etat d'établissement de cet assujetti, conformément à l'article 173 de la directive
+2006 / 112 / CE du 28 novembre 2006. 
 
-Si l'assujetti demande que le remboursement soit effectué dans l'Etat où il est établi, les frais bancaires sont à sa charge.
+Si, après l'introduction de la demande de remboursement, la proportion déductible est corrigée selon les dispositions de
+l'article 175 de la directive 2006 / 112 / CE, le requérant doit rectifier en conséquence le montant demandé ou déjà
+remboursé. 
+
+La correction s'effectue à l'occasion d'une nouvelle demande de remboursement déposée durant la même année civile pour une
+période postérieure à celle au titre de laquelle le remboursement à rectifier a été demandé ou obtenu, ou, si le requérant ne
+fait aucune demande de remboursement durant cette année civile, par la transmission d'une déclaration spéciale via le portail
+électronique mis à sa disposition par l'Etat membre dans lequel il est établi.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 242-0 M
+	  - Directive 2006/112/CE du Conseil du 28 novembre 2006
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 N
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°80-1079 du 24 décembre 1980 - art. 5 (V) JORF 28 décembre 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z ter (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 decies (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-1-98
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-2-98
-	  - TXT_ASSOCIE: Instruction 1999-07-15 3D-2-99
-
 
 ###### Article 242-0 R
 
-Les assujettis établis dans un Etat membre de la Communauté doivent justifier, au moyen d'une attestation délivrée par cet
-Etat, qu'ils y sont assujettis à la taxe sur la valeur ajoutée. Cette attestation est valable pendant un an à partir de sa
-délivrance, à moins qu'il ne survienne un événement remettant en cause cette qualité.
+I. - Pour bénéficier du remboursement de la taxe sur la valeur ajoutée, l'assujetti non établi en France doit adresser au
+service des impôts une demande de remboursement souscrite par voie électronique au moyen du portail mis à sa disposition par
+l'Etat de l'Union européenne où il est établi.
+
+II. - L'assujetti mentionné au I doit joindre par voie électronique à la demande de remboursement une copie de la facture ou
+du document d'importation lorsque la base d'imposition figurant sur la facture ou le document d'importation est égale ou
+supérieure à un montant de 1 000 €. Toutefois, lorsque la facture porte sur des dépenses de carburant, ce seuil est fixé à
+250 €.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°80-1079 du 24 décembre 1980 - art. 6 (V) JORF 28 décembre 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-1-98
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-2-98
-	  - TXT_ASSOCIE: Instruction 1999-07-15 3D-2-99
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
 
 
 ###### Article 242-0 S
 
-Les assujettis établis hors de la Communauté sont tenus de faire accréditer auprès du service des impôts un représentant
-assujetti établi en France qui s'engage à remplir les formalités et obligations qui leur incombent et notamment celles
-prévues à l'article 242-0 Q. Ce représentant peut, en outre, être tenu de présenter une caution solvable qui s'engage,
-solidairement avec lui, à reverser les sommes remboursées indûment.
+La demande de remboursement peut porter sur :
+
+1° l'achat de biens ou de services qui a été facturé au cours de la période du remboursement, à condition que la taxe soit
+devenue exigible avant ou au moment de la facturation, ou pour lesquels la taxe est devenue exigible au cours de la période
+du remboursement, à condition que l'achat ait été facturé avant que la taxe ne soit devenue exigible ;
+
+2° l'importation de biens effectuée au cours de la période du remboursement ;
+
+3° des factures ou des documents d'importation qui n'ont pas fait l'objet de demandes de remboursement antérieures pour
+autant qu'ils portent sur des opérations effectuées au cours de l'année civile dans laquelle s'inscrit la période de
+remboursement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN2 242-0 Q
-
-	**Créé par**:
-
-	  - Décret n°80-1079 du 24 décembre 1980 - art. 7 (V) JORF 28 décembre 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-1-98
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-2-98
-	  - TXT_ASSOCIE: Instruction 1999-07-15 3D-2-99
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
 
 
 ###### Article 242-0 T
 
-Dans le cas où le remboursement a été obtenu de façon frauduleuse et donne lieu à des poursuites pénales, tout remboursement
-ultérieur peut être suspendu jusqu'à la décision définitive sur les pénalités encourues.
+La demande de remboursement porte sur une période qui ne doit être ni supérieure à une année civile, ni inférieure à trois
+mois civils. Toutefois, cette demande peut porter sur une période inférieure à trois mois si elle constitue le solde d'une
+année civile.
+
+Les informations devant figurer dans la demande de remboursement sont fixées par arrêté du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN2 242 sexies
-
-	**Créé par**:
-
-	  - Décret n°80-1079 du 24 décembre 1980 - art. 8 (V) JORF 28 décembre 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 decies (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-1-98
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3D-2-98
-	  - TXT_ASSOCIE: Instruction 1999-07-15 3D-2-99
-
 
 ###### Article 242-0 U
 
-Les dispositions des articles 242-0 O et 242-0 S ne s'appliquent pas au remboursement de la taxe sur la valeur ajoutée
-afférente aux opérations liées aux services fournis par voie électronique, tels que mentionnés au 12° de l'article 259 B du
-code général des impôts, aux assujettis établis hors de la Communauté qui se prévalent du régime spécial prévu à l'article
-298 sexdecies F du code général des impôts.
+Si la demande de remboursement porte sur une période d'une durée inférieure à une année civile mais égale ou supérieure à
+trois mois, le montant de la taxe sur la valeur ajoutée auquel elle se rapporte ne peut être inférieur à la somme de 400 €.
 
-Est remboursée à ces assujettis la taxe sur la valeur ajoutée qui a grevé les services qui leur ont été rendus et les biens
-meubles qu'ils ont acquis ou importés en France au cours de l'année ou du trimestre prévu à l'article 242-0 M pour la
-fourniture de services électroniques en France ou pour la réalisation d'opérations mentionnées au 2 de cet article.
+Si la période de remboursement correspond à une année civile ou au solde d'une année civile, le montant de la taxe sur la
+valeur ajoutée ne peut être inférieur à la somme de 50 €.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 259 B, 298 sexdecies F
-	  - CGIAN2 242-0 O, 242-0 S, 242-0 M
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+
+###### Article 242-0 V
+
+I. ― Le service des impôts notifie dans les meilleurs délais au requérant, par voie électronique, la date à laquelle la
+demande a été reçue. 
+
+II. ― Sous réserve des dispositions de l'article 242-0 X, le service des impôts notifie au requérant sa décision d'accepter
+ou de rejeter la demande de remboursement dans un délai de quatre mois à compter de sa réception.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2003-631 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
 
-	**Liens**:
+	**Cité par**:
 
-	  - HISTO: Edition du 31 août 2003
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 W (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Y (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 X
+
+
+###### Article 242-0 W
+
+I. ― Le service des impôts peut demander par voie électronique dans le délai mentionné au II de l'article 242-0 V des
+informations complémentaires, notamment auprès du requérant ou des autorités compétentes de l'Etat membre de l'Union
+européenne dans lequel il est établi, lorsqu'il estime ne pas être en possession de toutes les informations nécessaires pour
+statuer sur la totalité ou une partie de la demande de remboursement introduite par le requérant. Lorsque ces informations
+complémentaires sont demandées à une autre personne que le requérant ou que les autorités compétentes d'un Etat membre, la
+demande doit être transmise par voie électronique si le destinataire de la demande est équipé en conséquence.
+
+S'il le juge utile, le service des impôts peut demander de nouvelles informations complémentaires. 
+
+Dans le cadre de ces demandes, le service des impôts pourra solliciter du requérant la communication de l'original d'une
+facture ou d'un document d'importation lorsqu'il a des raisons de douter de la validité ou de l'exactitude d'une créance
+particulière. La demande peut viser toutes les opérations sans considération de leur montant. 
+
+II. ― Les informations complémentaires exigées conformément aux dispositions du I doivent être fournies dans un délai d'un
+mois à compter de la date de réception de la demande d'informations par le destinataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 V
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 X (V)
+
+
+###### Article 242-0 X
+
+Lorsque le service des impôts demande des informations complémentaires, il notifie au requérant sa décision d'accepter ou de
+rejeter sa demande dans un délai de deux mois à compter de la date de réception des informations demandées ou, si aucune
+réponse à la demande n'a été reçue, dans un délai de deux mois à compter de l'expiration du délai mentionné au II de
+l'article 242-0 W. 
+
+Toutefois, lorsqu'il n'a adressé qu'une seule demande d'informations complémentaires, le service des impôts dispose de six
+mois au moins à compter de la réception de la demande de remboursement pour notifier sa décision. 
+
+Lorsque le service des impôts a demandé de nouvelles informations complémentaires, il est tenu de notifier sa décision dans
+un délai de huit mois maximum à compter de la date à laquelle il a reçu la demande de remboursement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 V (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Y (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 W
+
+
+###### Article 242-0 Y
+
+Lorsque la demande de remboursement est acceptée, le service des impôts doit procéder au remboursement du montant accepté
+dans un délai de dix jours ouvrables à compter de l'expiration du délai mentionné au II de l'article 242-0 V ou, dans le cas
+où des informations complémentaires ont été demandées, à l'expiration des délais mentionnés à l'article 242-0 X. 
+
+Si le requérant demande que le remboursement soit effectué dans l'Etat où il est établi, les frais bancaires sont à sa
+charge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 V
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 X
+
+
+###### Article 242-0 Z
+
+En cas de rejet total ou partiel de sa demande de remboursement, les motifs de ce rejet doivent être communiqués au requérant
+par le service des impôts en même temps que la décision. En l'absence de décision du service des impôts dans le délai
+imparti, le requérant peut saisir de sa réclamation le tribunal administratif compétent dès son expiration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+
+###### Article 242-0 Z bis
+
+Dans le cas où un remboursement a été obtenu de façon frauduleuse ou d'une manière incorrecte, le service des impôts procède
+directement à la mise en recouvrement des sommes indûment versées, ainsi que des pénalités et intérêts éventuels.
+
+Lorsque des pénalités ou des intérêts ont été mis en recouvrement mais n'ont pas été payés, le service des impôts est
+autorisé à suspendre tout remboursement supplémentaire à l'assujetti concerné à concurrence du montant non payé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+
+###### Article 242-0 Z ter
+
+Lorsque la correction prévue au II de l'article 242-0 Q est opérée à l'occasion d'une nouvelle demande déposée dans la même
+année civile que celle dont le montant doit faire l'objet d'une rectification, le service des impôts opère la régularisation
+par majoration ou diminution du montant à rembourser. Lorsque la correction procède d'une déclaration spéciale, la
+régularisation fait l'objet d'un paiement ou d'un recouvrement spécifique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Q
+
+
+##### B : Assujettis établis hors de l'Union européenne
+
+###### Article 242-0 Z decies
+
+Les assujettis établis hors de l'Union européenne qui se prévalent du régime spécial prévu à l'article 298 sexdecies F du
+code général des impôts bénéficient du remboursement visé à l'article 242-0 Z quater. 
+
+Les dispositions du troisième alinéa du I de l'article 242-0 Z quater et de l'article 242-0 Z octies ne s'appliquent pas aux
+assujettis mentionnés au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z octies
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z quater
+	  - Code général des impôts, CGI. - art. 298 sexdecies F
+
+
+###### Article 242-0 Z nonies
+
+Pour les assujettis établis hors de l'Union européenne qui auraient obtenu un remboursement de façon frauduleuse donnant lieu
+à des poursuites pénales, tout remboursement ultérieur peut être suspendu jusqu'à la décision définitive sur les pénalités
+encourues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+
+###### Article 242-0 Z octies
+
+Les assujettis établis hors de l'Union européenne sont tenus de faire accréditer auprès du service des impôts un représentant
+assujetti établi en France qui s'engage à remplir les formalités et obligations qui leur incombent, notamment celles prévues
+à l'article 242-0 Z septies. Ce représentant peut, en outre, être tenu de présenter une caution solvable qui s'engage,
+solidairement avec lui, à reverser les sommes remboursées indûment.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z decies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z septies
+
+
+###### Article 242-0 Z quater
+
+I. ― Les assujettis établis hors de l'Union européenne peuvent obtenir le remboursement de la taxe sur la valeur ajoutée qui
+leur a été régulièrement facturée si, au cours du trimestre ou de l'année auquel se rapporte la demande de remboursement, ils
+n'ont pas eu en France le siège de leur activité ou un établissement stable, ou, à défaut, leur domicile ou leur résidence
+habituelle et n'y ont pas réalisé, durant la même période, de livraisons de biens ou de prestations de services situées en
+France. 
+
+Est toutefois considéré comme établi en France un assujetti dont le siège est situé en pays tiers mais qui dispose en France
+d'une structure qui, bien que fournissant exclusivement des services à son siège, est identifiée sur le fondement du 4° de
+l'article 286 ter du code général des impôts. 
+
+Les dispositions du premier alinéa ne s'appliquent pas aux assujettis établis dans un pays ou territoire qui n'accorde pas
+d'avantages comparables en ce qui concerne les taxes sur le chiffre d'affaires aux assujettis établis en France, et qui
+figure sur une liste fixée par un arrêté du ministre chargé du budget. 
+
+II. ― Pour l'application du I, ne sont pas considérées comme réalisées en France les opérations visées au 2° de l'article
+242-0 O.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 O
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z decies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z quinquies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z septies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z sexies (V)
+
+
+###### Article 242-0 Z quinquies
+
+Est remboursée aux assujettis établis hors de l'Union européenne la taxe sur la valeur ajoutée qui a grevé les services qui
+leur ont été rendus et les biens meubles qu'ils ont acquis ou importés en France au cours de l'année ou du trimestre prévu à
+l'article 242-0 Z quater dans la mesure où ces biens et services sont utilisés pour la réalisation ou pour les besoins
+d'opérations visées à l'article 242-0 N.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 N
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z quater
+
+
+###### Article 242-0 Z septies
+
+Pour les assujettis établis hors de l'Union européenne, le remboursement doit être demandé au service des impôts avant la fin
+du sixième mois suivant l'année civile au cours de laquelle la taxe est devenue exigible. 
+
+La demande est établie sur un imprimé prévu par l'administration. Elle est accompagnée des originaux des factures, des
+documents d'importation et de toutes pièces justificatives.L'assujetti établi hors de l'Union européenne certifie qu'il
+remplit les conditions prévues à l'article 242-0 Z quater. 
+
+Si l'assujetti établi hors de l'Union européenne demande que le remboursement soit effectué dans l'Etat où il est établi, les
+frais bancaires sont à sa charge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z octies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z quater
+
+
+###### Article 242-0 Z sexies
+
+La taxe sur la valeur ajoutée n'est remboursée aux assujettis établis hors de l'Union européenne en application des articles
+242-0 Z quater à 242-0 Z decies que si elle est au moins égale à une somme de 25 € ou 200 €, selon que le remboursement est
+demandé au titre d'une année ou d'un trimestre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z quater
 
 
 ##### 3 : Régime suspensif
@@ -11158,49 +11370,50 @@ Les factures émises de manière périodique comportent les mentions obligatoire
 ###### Article 242 nonies A
 
 Les mentions obligatoires qui doivent figurer sur les factures en application du II de l'article 289 du code général des
-impôts sont les suivantes :
+impôts sont les suivantes : 
 
-1° Le nom complet et l'adresse de l'assujetti et de son client ;
+1° Le nom complet et l'adresse de l'assujetti et de son client ; 
 
 2° Le numéro individuel d'identification attribué à l'assujetti en application de l'article 286 ter du code général des
-impôts et sous lequel il a effectué la livraison de biens ou la prestation de services ;
+impôts et sous lequel il a effectué la livraison de biens ou la prestation de services ; 
 
 3° Les numéros d'identification à la taxe sur la valeur ajoutée du vendeur et de l'acquéreur pour les livraisons désignées au
-I de l'article 262 ter du code général des impôts ;
+I de l'article 262 ter du code général des impôts ; 
 
 4° Le numéro d'identification à la taxe sur la valeur ajoutée du prestataire ainsi que celui fourni par le preneur pour les
-prestations mentionnées aux 3°, 4° bis, 5° et 6° de l'article 259 A du code général des impôts ;
+prestations pour lesquelles le preneur est redevable de la taxe en application du 1 et du 2 de l'article 283 du code général
+des impôts ; 
 
 5° Lorsque le redevable de la taxe est un représentant fiscal au sens de l'article 289 A du code général des impôts, le
 numéro individuel d'identification attribué à ce représentant fiscal en application de l'article 286 ter du même code, ainsi
-que son nom complet et son adresse ;
+que son nom complet et son adresse ; 
 
-6° Sa date de délivrance ou d'émission pour les factures transmises par voie électronique ;
+6° Sa date de délivrance ou d'émission pour les factures transmises par voie électronique ; 
 
 7° Un numéro unique basé sur une séquence chronologique et continue ; la numérotation peut être établie dans ces conditions
 par séries distinctes lorsque les conditions d'exercice de l'activité de l'assujetti le justifient ; l'assujetti doit faire
-des séries distinctes un usage conforme à leur justification initiale ;
+des séries distinctes un usage conforme à leur justification initiale ; 
 
 8° Pour chacun des biens livrés ou des services rendus, la quantité, la dénomination précise, le prix unitaire hors taxes et
-le taux de taxe sur la valeur ajoutée légalement applicable ou, le cas échéant, le bénéfice d'une exonération ;
+le taux de taxe sur la valeur ajoutée légalement applicable ou, le cas échéant, le bénéfice d'une exonération ; 
 
 9° Tous rabais, remises, ristournes ou escomptes acquis et chiffrables lors de l'opération et directement liés à cette
-opération ;
+opération ; 
 
 10° La date à laquelle est effectuée, ou achevée, la livraison de biens ou la prestation de services ou la date à laquelle
 est versé l'acompte visé au c du 1 du I de l'article 289 du code général des impôts, dans la mesure où une telle date est
-déterminée et qu'elle est différente de la date d'émission de la facture ;
+déterminée et qu'elle est différente de la date d'émission de la facture ; 
 
 11° Le montant de la taxe à payer et, par taux d'imposition, le total hors taxe et la taxe correspondante mentionnés
-distinctement ;
+distinctement ; 
 
 12° En cas d'exonération ou lorsque le client est redevable de la taxe ou lorsque l'assujetti applique le régime de la marge
 bénéficiaire, la référence à la disposition pertinente du code général des impôts ou à la disposition correspondante de la
-directive 77/388/CEE du 17 mai 1977 ou à toute autre mention indiquant que l'opération bénéficie d'une mesure d'exonération,
-d'un régime d'autoliquidation ou du régime de la marge bénéficiaire ;
+directive 2006 / 112 / CE du 28 novembre 2006 ou à toute autre mention indiquant que l'opération bénéficie d'une mesure
+d'exonération, d'un régime d'autoliquidation ou du régime de la marge bénéficiaire ; 
 
 13° Les caractéristiques du moyen de transport neuf telles qu'elles sont définies au III de l'article 298 sexies du code
-général des impôts pour les livraisons mentionnées au II de ce même article ;
+général des impôts pour les livraisons mentionnées au II de ce même article ; 
 
 14° De manière distincte, le prix d'adjudication du bien, les impôts, droits, prélèvements et taxes ainsi que les frais
 accessoires tels que les frais de commission, d'emballage, de transport et d'assurance demandés par l'organisateur à
@@ -11211,9 +11424,9 @@ ajoutée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
+	  - Décret n°2010-413 du 27 avril 2010 - art. 2
 
 	**Cité par**:
 
@@ -11225,8 +11438,13 @@ ajoutée.
 
 	**Cite**:
 
-	  - CGI 289, 286 ter, 262 ter, 259 A, 289 A, 298 sexies, 297 A
-	  - Directive 77-388 CEE 1977-05-17 (Conseil)
+	  - Code général des impôts, CGI.
+	  - Code général des impôts, CGI. - art. 262 ter
+	  - Code général des impôts, CGI. - art. 283
+	  - Code général des impôts, CGI. - art. 286 ter
+	  - Code général des impôts, CGI. - art. 289
+	  - Code général des impôts, CGI. - art. 289 A
+	  - Code général des impôts, CGI. - art. 298 sexies
 
 
 ##### IV : Personnes ne remplissant plus les conditions pour bénéficier du régime dérogatoire prévu au 2° du I de l'article 256 bis

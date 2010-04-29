@@ -1,49 +1,50 @@
 # Article 242 nonies A
 
 Les mentions obligatoires qui doivent figurer sur les factures en application du II de l'article 289 du code général des
-impôts sont les suivantes :
+impôts sont les suivantes : 
 
-1° Le nom complet et l'adresse de l'assujetti et de son client ;
+1° Le nom complet et l'adresse de l'assujetti et de son client ; 
 
 2° Le numéro individuel d'identification attribué à l'assujetti en application de l'article 286 ter du code général des
-impôts et sous lequel il a effectué la livraison de biens ou la prestation de services ;
+impôts et sous lequel il a effectué la livraison de biens ou la prestation de services ; 
 
 3° Les numéros d'identification à la taxe sur la valeur ajoutée du vendeur et de l'acquéreur pour les livraisons désignées au
-I de l'article 262 ter du code général des impôts ;
+I de l'article 262 ter du code général des impôts ; 
 
 4° Le numéro d'identification à la taxe sur la valeur ajoutée du prestataire ainsi que celui fourni par le preneur pour les
-prestations mentionnées aux 3°, 4° bis, 5° et 6° de l'article 259 A du code général des impôts ;
+prestations pour lesquelles le preneur est redevable de la taxe en application du 1 et du 2 de l'article 283 du code général
+des impôts ; 
 
 5° Lorsque le redevable de la taxe est un représentant fiscal au sens de l'article 289 A du code général des impôts, le
 numéro individuel d'identification attribué à ce représentant fiscal en application de l'article 286 ter du même code, ainsi
-que son nom complet et son adresse ;
+que son nom complet et son adresse ; 
 
-6° Sa date de délivrance ou d'émission pour les factures transmises par voie électronique ;
+6° Sa date de délivrance ou d'émission pour les factures transmises par voie électronique ; 
 
 7° Un numéro unique basé sur une séquence chronologique et continue ; la numérotation peut être établie dans ces conditions
 par séries distinctes lorsque les conditions d'exercice de l'activité de l'assujetti le justifient ; l'assujetti doit faire
-des séries distinctes un usage conforme à leur justification initiale ;
+des séries distinctes un usage conforme à leur justification initiale ; 
 
 8° Pour chacun des biens livrés ou des services rendus, la quantité, la dénomination précise, le prix unitaire hors taxes et
-le taux de taxe sur la valeur ajoutée légalement applicable ou, le cas échéant, le bénéfice d'une exonération ;
+le taux de taxe sur la valeur ajoutée légalement applicable ou, le cas échéant, le bénéfice d'une exonération ; 
 
 9° Tous rabais, remises, ristournes ou escomptes acquis et chiffrables lors de l'opération et directement liés à cette
-opération ;
+opération ; 
 
 10° La date à laquelle est effectuée, ou achevée, la livraison de biens ou la prestation de services ou la date à laquelle
 est versé l'acompte visé au c du 1 du I de l'article 289 du code général des impôts, dans la mesure où une telle date est
-déterminée et qu'elle est différente de la date d'émission de la facture ;
+déterminée et qu'elle est différente de la date d'émission de la facture ; 
 
 11° Le montant de la taxe à payer et, par taux d'imposition, le total hors taxe et la taxe correspondante mentionnés
-distinctement ;
+distinctement ; 
 
 12° En cas d'exonération ou lorsque le client est redevable de la taxe ou lorsque l'assujetti applique le régime de la marge
 bénéficiaire, la référence à la disposition pertinente du code général des impôts ou à la disposition correspondante de la
-directive 77/388/CEE du 17 mai 1977 ou à toute autre mention indiquant que l'opération bénéficie d'une mesure d'exonération,
-d'un régime d'autoliquidation ou du régime de la marge bénéficiaire ;
+directive 2006 / 112 / CE du 28 novembre 2006 ou à toute autre mention indiquant que l'opération bénéficie d'une mesure
+d'exonération, d'un régime d'autoliquidation ou du régime de la marge bénéficiaire ; 
 
 13° Les caractéristiques du moyen de transport neuf telles qu'elles sont définies au III de l'article 298 sexies du code
-général des impôts pour les livraisons mentionnées au II de ce même article ;
+général des impôts pour les livraisons mentionnées au II de ce même article ; 
 
 14° De manière distincte, le prix d'adjudication du bien, les impôts, droits, prélèvements et taxes ainsi que les frais
 accessoires tels que les frais de commission, d'emballage, de transport et d'assurance demandés par l'organisateur à
@@ -54,9 +55,9 @@ ajoutée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
+	  - Décret n°2010-413 du 27 avril 2010 - art. 2
 
 	**Cité par**:
 
@@ -68,5 +69,10 @@ ajoutée.
 
 	**Cite**:
 
-	  - CGI 289, 286 ter, 262 ter, 259 A, 289 A, 298 sexies, 297 A
-	  - Directive 77-388 CEE 1977-05-17 (Conseil)
+	  - Code général des impôts, CGI.
+	  - Code général des impôts, CGI. - art. 262 ter
+	  - Code général des impôts, CGI. - art. 283
+	  - Code général des impôts, CGI. - art. 286 ter
+	  - Code général des impôts, CGI. - art. 289
+	  - Code général des impôts, CGI. - art. 289 A
+	  - Code général des impôts, CGI. - art. 298 sexies
