@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2010-04-30
+Version Consolidée au 2010-05-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1905,32 +1905,34 @@ exonérées qui doivent être ajoutées au revenu imposable de l'année de ruptu
 
 ###### Article 60 B
 
-I. - L'actionnaire personne physique d'une société de capital-risque informe ladite société :
+I.-L'actionnaire personne physique d'une société de capital-risque informe ladite société : 
 
 1° Des engagements qu'il prend en application de l'article 163 quinquies C du code général des impôts lors de la souscription
-ou de l'acquisition des actions ;
+ou de l'acquisition des actions ; 
 
-2° Des modalités qu'il retient pour le réinvestissement prévu au 3° du II de l'article 163 quinquies C du code précité ;
+2° Des modalités qu'il retient pour le réinvestissement prévu au au 3° du 2 du II de l'article 163 quinquies C du code
+précité ; 
 
-3° Des cessions d'actions de la société auxquelles il procède.
+3° Des cessions d'actions de la société auxquelles il procède. 
 
-II. - L'actionnaire personne morale non résidente mentionnée au b du 2 de l'article 119 bis du code général des impôts
-informe la société de capital-risque du lieu de son siège de direction effective et des modalités d'imposition des
-distributions reçues dans l'Etat où il a son siège.
+II.-L'actionnaire personne morale non résidente mentionnée au b du 2 de l'article 119 bis du code général des impôts informe
+la société de capital-risque du lieu de son siège de direction effective et des modalités d'imposition des distributions
+reçues dans l'Etat où il a son siège.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 15  I (5°) et III de la loi n° 2008-1425 du 27 décembre 2008.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+
 	**Cite**:
 
-	  - CGI 163 quinquies C, 119 bis
-
-	**Créé par**:
-
-	  - Décret n°2002-1030 du 29 juillet 2002 - art. 3 () JORF 6 août 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
+	  - Code général des impôts, CGI. - art. 119 bis (V)
+	  - Code général des impôts, CGI. - art. 163 quinquies C (V)
 
 
 ##### V : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
@@ -4143,8 +4145,8 @@ créateur ou le repreneur d'entreprise, notamment en matière de gestion, de com
 promotion, d'environnement juridique et administratif de l'entreprise, et de tout autre savoir ou savoir-faire utile, en
 fonction des besoins spécifiques du bénéficiaire ; 
 
-4° Dans le cas de reprise d'entreprise prévu au 2° de l'article 200 octies, l'ensemble des éléments d'information spécifiques
-à l'entreprise que l'accompagnateur s'engage à transmettre ; 
+4° Dans le cas de reprise d'entreprise prévu au 2° de l'article 200 octies précité, l'ensemble des éléments d'information
+spécifiques à l'entreprise que l'accompagnateur s'engage à transmettre ; 
 
 5° La durée de l'accompagnement, les modalités d'intervention de l'accompagnateur auprès du créateur ou du repreneur
 d'entreprise, avec mention, le cas échéant, des moyens mis à disposition du bénéficiaire par l'accompagnateur, les modalités
@@ -4153,15 +4155,15 @@ de prolongation éventuelle et, le cas échéant, de résiliation anticipée de 
 6° Les modalités de suivi et de bilan de l'exécution de la convention. 
 
 Sont annexés à la convention les pièces justifiant que le bénéficiaire satisfait aux conditions prévues au premier alinéa du
-1 de l'article 200 octies et, dans le cas prévu à ce même 1, l'agrément de l'accompagnateur. Le cas échéant, sont aussi
-annexées à la convention les pièces justifiant que le bénéficiaire est une personne handicapée au sens de l'article L. 114 du
-code de l'action sociale et des familles.
+1 de l'article 200 octies précité et, dans le cas prévu à ce même 1, l'agrément de l'accompagnateur. Le cas échéant, sont
+aussi annexées à la convention les pièces justifiant que le bénéficiaire est une personne handicapée au sens de l'article L.
+114 du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-321 du 20 mars 2009 - art. 1
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 	**Cite**:
 
@@ -4186,14 +4188,14 @@ création ou de reprise d'entreprise.
 Au terme de la convention, un bilan est élaboré conjointement par le créateur ou le repreneur d'entreprise et
 l'accompagnateur. 
 
-Dans le cas prévu au 1° de l'article 200 octies, ce bilan est communiqué au réseau d'appui à la création et au développement
-des entreprises ou à la maison de l'emploi qui a délivré l'agrément à l'accompagnateur.
+Dans le cas prévu au 1° de l'article 200 octies du code général des impôts, ce bilan est communiqué au réseau d'appui à la
+création et au développement des entreprises ou à la maison de l'emploi qui a délivré l'agrément à l'accompagnateur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-321 du 20 mars 2009 - art. 1
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 	**Cite**:
 
@@ -4202,12 +4204,12 @@ des entreprises ou à la maison de l'emploi qui a délivré l'agrément à l'acc
 
 ###### Article 95 Z
 
-Les contribuables qui bénéficient de la réduction d'impôt prévue à l'article 200 octies conservent, jusqu'à l'expiration du
-délai au cours duquel l'administration est susceptible d'exercer son droit de reprise : 
+Les contribuables qui bénéficient de la réduction d'impôt prévue à l'article 200 octies du code général des impôtsconservent,
+jusqu'à l'expiration du délai au cours duquel l'administration est susceptible d'exercer son droit de reprise : 
 
 1° Soit l'attestation d'agrément délivrée par le réseau d'appui à la création et au développement des entreprises ou par la
-maison de l'emploi mentionnés au second alinéa du a du 1 de l'article 200 octies, soit l'acte établissant la cession de
-l'entreprise mentionné au second alinéa du 2 du même article ; 
+maison de l'emploi mentionnés au second alinéa du a du 1 de l'article 200 octies précité, soit l'acte établissant la cession
+de l'entreprise mentionné au second alinéa du 2 du même article ; 
 
 2° La convention conclue avec le bénéficiaire du tutorat et ses avenants éventuels ; 
 
@@ -4215,13 +4217,13 @@ l'entreprise mentionné au second alinéa du 2 du même article ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-321 du 20 mars 2009 - art. 1
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 200 octies (VT)
+	  - Code général des impôts, CGI. - art. 200 octies
 
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
@@ -6255,27 +6257,27 @@ effectuée par année.
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 7 461 euros et 14 901 euros et le taux de 9,35 % à la fraction excédant 14 901 euros,
+l'année civile, qui est comprise entre 7 491 euros et 14 960 euros et le taux de 9,35 % à la fraction excédant 14 960 euros,
 et en multipliant le chiffre ainsi déterminé par le rapport qui existe entre le montant de la rémunération qui a été payée
 pendant la période d'application de la majoration et le montant total de la rémunération annuelle. 
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
 a bénéficié au cours de la période d'application de la majoration les taux de : 
 
-4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 461 euros et 14 901 euros ; 
+4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 491 euros et 14 960 euros ; 
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 14 901 euros.
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 14 960 euros.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 2-I-1° de
-la loi n° 2008-1425 du 27 décembre 2008.
+Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 18-I-1° de
+la loi n° 2009-1673 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 	**Cité par**:
 
@@ -6292,7 +6294,7 @@ la loi n° 2008-1425 du 27 décembre 2008.
 La déclaration des traitements et salaires que les employeurs sont tenus de souscrire en exécution des dispositions de
 l'article 87 du code général des impôts doit, pour ceux d'entre eux qui sont redevables en totalité ou partiellement de la
 taxe sur les salaires, faire ressortir distinctement, pour chaque bénéficiaire dont la rémunération individuelle annuelle a
-excédé 7 461 euros, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de
+excédé 7 491 euros, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de
 la majoration de la taxe sur les salaires. 
 
 Elle doit comporter, en outre, l'indication du montant des compléments de droits acquittés en application de l'article 142 à
@@ -6300,14 +6302,14 @@ raison des rémunérations payées pendant cette même période.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 2-I-1° de
-la loi n° 2008-1425 du 27 décembre 2008.
+Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 18-I-1° de
+la loi n° 2009-1673 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 	**Cite**:
 
@@ -6398,22 +6400,19 @@ s'applique le versement, le montant des sommes imposables et le montant de la ta
 ###### Article 161
 
 I.-Les employeurs assujettis à la cotisation prévue au 1 de l'article 235 bis du code général des impôts sont tenus de
-produire chaque année, au plus tard le 30 avril, et conformément aux dispositions de l'article *R. 313-3 du code de la
-construction et de l'habitation, une déclaration mentionnant notamment les éléments prévus par ce dernier article. 
+produire chaque année, au plus tard le deuxième jour ouvré suivant le 1er mai, et conformément aux dispositions de l'article
+*R. 313-3 du code de la construction et de l'habitation, une déclaration mentionnant notamment les éléments prévus par ce
+dernier article. 
 
 II.-Les employeurs assujettis à la cotisation prévue au 2 de l'article 235 bis du code général des impôts sont tenus de
-produire chaque année, au plus tard le 30 avril, et conformément aux dispositions de l'article R. 716-28 du code rural, une
-déclaration mentionnant notamment les éléments prévus par ce dernier article.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article R. 716-28 du code rural.
+produire chaque année, au plus tard le deuxième jour ouvré suivant le 1er mai, et conformément aux dispositions de l'article
+R. 716-28 du code rural, une déclaration mentionnant notamment les éléments prévus par ce dernier article.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 	**Cité par**:
 
@@ -6492,24 +6491,22 @@ Modifications effectuées en conséquence de l'article R. 716-30 du code rural.
 
 ###### Article 163 nonies
 
-Pour l'application des dispositions des articles 235 ter D et 235 ter KA du code général des impôts, le décompte des salariés
-est effectué conformément aux dispositions de l'article R. 6331-1 du code du travail.
+Pour la détermination du montant de la participation des employeurs au développement de la formation professionnelle
+continue, l'effectif de l'entreprise est calculé conformément à l'article R. 6331-1 du code du travail.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n°2008-244 du 7 mars 2008.
+Modifications effectuées en conséquence de l'article R. 6331-1 du Code du travail.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 235 ter D
-	  - Code général des impôts, CGI. - art. 235 ter KA
-	  - Code du travail - art. R6331-1
+	  - Code du travail - art. R6331-1 (V)
 
 
 ##### II : Employeurs occupant dix salariés et plus
@@ -10063,7 +10060,7 @@ II.-Par dérogation aux dispositions du I, les assujettis soumis de plein droit 
 peuvent demander un remboursement lorsque la déclaration mentionnée au 2 de l'article 287 du code général des impôts fait
 apparaître un crédit de taxe déductible. La demande de remboursement doit porter sur un montant au moins égal à 760 euros. 
 
-Les dispositions de l'alinéa précédent s'appliquent également aux exploitants agricoles ayant exercé l'option prévue au
+Les dispositions de du premier alinéa s'appliquent également aux exploitants agricoles ayant exercé l'option prévue au
 quatrième alinéa du I de l'article 1693 bis du code général des impôts pour acquitter l'impôt au vu de déclarations
 mensuelles ou trimestrielles. 
 
@@ -10077,7 +10074,7 @@ Les remboursements s'effectuent dans les conditions prévues à l'article 242 se
 
 	**Modifié par**:
 
-	  - Décret n°2009-109 du 29 janvier 2009 - art. 1
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 	**Cite**:
 
@@ -11519,7 +11516,7 @@ Du certificat de radiation de la francisation pour les autres bateaux.
 
 	**Modifié par**:
 
-	  - Décret n°2009-136 du 9 février 2009 - art. 12 (V)
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 
 ###### Article 242 quaterdecies
@@ -12650,16 +12647,16 @@ opérations imposables ont été réalisées. La redevance est acquittée dans l
 de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis que les redevables déposent leurs
 déclarations et s'acquittent de la redevance avant le 25 du mois suivant chaque trimestre civil.
 
-II. - Le poids de viande fraîche net mentionné au 1 du I de l'article 302 bis WC du code général des impôts s'entend de celui
-retenu pour l'assiette de la redevance sanitaire de découpage prévue à l'article 302 bis S dudit code.
+II. - (sans objet)
 
-III. - Les opérations mentionnées au 2 du I de l'article 302 bis WC du code général des impôts s'entendent des opérations de
-mareyage consistant en la modification de l'intégrité anatomique, telle que l'éviscération, l'étêtage, le filetage, le
-hachage ou des opérations de transformation consistant en l'application d'un procédé physique ou chimique, tel que le
-chauffage, le salage, la dessiccation, le marinage.
+III. - (sans objet)
 
 IV. - Les saisies pratiquées par les services d'inspection sanitaire et les exportations ou les expéditions vers les Etats
 membres de la Communauté européenne ne donnent pas lieu au remboursement de la redevance.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 90- I-F (1°)  de la loi n° 2009-1674 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -12669,15 +12666,7 @@ membres de la Communauté européenne ne donnent pas lieu au remboursement de la
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
@@ -15867,90 +15856,97 @@ valeur nominale des droits attribués.
 
 ###### Article 301 G
 
-I. - La personne, ou ses ayants cause à titre gratuit, qui demande à bénéficier pour la première fois du régime prévu par les
-dispositions de l'article 885 I bis du code général des impôts doit fournir les documents suivants :
+I.-La personne, ou ses ayants cause à titre gratuit, qui demande à bénéficier pour la première fois du régime prévu par les
+dispositions de l'article 885 I bis du code général des impôts doit fournir les documents suivants : 
 
 1° Une copie de l'acte enregistré mentionné au a dudit article et comportant l'identité et l'adresse des associés ayant
 souscrit l'engagement collectif de conservation, le nombre de titres soumis à cet engagement et leur répartition entre les
-associés ;
+associés ; 
 
-2° Un document indiquant l'identité de l'associé qui remplit la condition prévue au c du même article ;
+2° Un document indiquant l'identité de l'associé qui remplit la condition prévue au e du même article ; 
 
-3° L'attestation mentionnée au d du même article. Cette attestation précisera, s'il y a lieu, l'identité et l'adresse des
-cessionnaires ou des donataires de titres soumis à l'engagement ainsi que le nombre de titres transmis à chacun d'eux ;
+3° L'attestation mentionnée au premier alinéa du f du même article. Cette attestation précisera, s'il y a lieu, l'identité et
+l'adresse des cessionnaires ou des donataires de titres soumis à l'engagement ainsi que le nombre de titres transmis à chacun
+d'eux ; 
 
 4° Dans l'hypothèse où le régime prévu par l'article 885 I bis concerne les titres d'une société interposée entre la personne
 et la société signataire de l'engagement collectif de conservation, une attestation de la société interposée précisant le
 nombre de titres qu'elle détient dans la société signataire de l'engagement collectif de conservation à la date de la
-signature de celui-ci et certifiant que, depuis cette date, cette participation est demeurée inchangée.
+signature de celui-ci et certifiant que, depuis cette date, cette participation est demeurée inchangée. 
 
-II. - Les années suivantes et jusqu'à l'année suivant celle du terme de l'engagement, la personne qui a bénéficié ou qui
-continue à bénéficier du régime prévu par les dispositions de l'article 885 I bis du code général des impôts, ou ses ayants
-cause à titre gratuit par décès, doit fournir, chaque année :
+II.-Les années suivantes et jusqu'à l'année suivant celle du terme de l'engagement collectif, la personne qui a bénéficié ou
+qui continue à bénéficier du régime prévu par les dispositions de l'article 885 I bis du code général des impôts, ou ses
+ayants cause à titre gratuit, doit fournir, chaque année : 
 
-1° L'attestation mentionnée au d dudit article. Cette attestation précisera, s'il y a lieu, l'identité et l'adresse des
-cessionnaires ou des donataires de titres soumis à l'engagement ainsi que le nombre de titres transmis à chacun d'eux ;
+1° L'attestation mentionnée au premier alinéa du f dudit article. Cette attestation précisera, s'il y a lieu, l'identité et
+l'adresse des cessionnaires ou des donataires de titres soumis à l'engagement ainsi que le nombre de titres transmis à chacun
+d'eux ; 
 
-2° Le cas échéant, la copie des avenants à l'engagement conclu l'année précédant celle du fait générateur ;
+2° Le cas échéant, la copie des avenants à l'engagement conclu l'année précédant celle du fait générateur ; 
 
 3° Un document indiquant les changements ayant éventuellement affecté l'identité de la personne qui remplit la condition
-prévue au c de l'article 885 I bis ;
+prévue au e de l'article 885 I bis ; 
 
 4° Dans l'hypothèse mentionnée au 4° du I, une attestation de la société interposée certifiant que sa participation dans la
-société signataire est demeurée inchangée.
+société signataire est demeurée inchangée et, s'il y a lieu, un document indiquant l'identité et l'adresse des cessionnaires
+ou donataires de titres bénéficiant de l'exonération partielle et le nombre de titres transmis à chacun d'eux. 
+
+III.-A compter de la fin de l'engagement collectif de conservation, la personne qui a bénéficié ou qui continue à bénéficier
+du régime prévu par les dispositions de l'article 885 I bis du code général des impôts ou, le cas échéant, ses ayants cause à
+titre gratuit doit fournir chaque année : 
+
+1° L'attestation mentionnée au deuxième alinéa du f de cet article ; 
+
+2° Un document indiquant les changements ayant éventuellement affecté l'identité de la personne qui remplit la condition
+prévue au e du même article.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 885 I bis
-
-	**Créé par**:
-
-	  - Décret n°2004-851 du 24 août 2004 - art. 1 () JORF 25 août 2004
+	  - Décret n°2010-423 du 28 avril 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 H (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 J (T)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 885 I bis (V)
 
 
 ###### Article 301 H
 
 En cas de non-respect de la condition prévue au a de l'article 885 I bis du code général des impôts par l'un des signataires
 et si les autres signataires continuent de respecter la condition tenant aux seuils minimaux de 20 % ou 34 %, l'attestation
-prévue au d du même article doit certifier que ces derniers ont conservé entre eux leurs titres. En cas de non-respect
-desdits seuils et de la signature d'un nouvel engagement, la transmission de l'attestation précitée ne dispense pas les
-signataires de ce nouvel engagement de l'observation des obligations déclaratives prévues à l'article 301 G.
+prévue au premier alinéa du f du même article doit certifier que ces derniers ont conservé entre eux leurs titres. En cas de
+non-respect de ces seuils au-delà du délai minimum prévu au deuxième alinéa du b de l'article 885 I bis, les signataires qui
+respectent la condition prévue au c du même article doivent respecter les obligations déclaratives prévues au III de
+l'article 301 G.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 885 I bis, 301 G
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 G (V)
+	  - Code général des impôts, CGI. - art. 885 I bis (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-851 du 24 août 2004 - art. 1 () JORF 25 août 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2010-423 du 28 avril 2010 - art. 2
 
 
 ###### Article 301 I
 
-En cas d'opérations de fusion, de scission, d'augmentation de capital ou d'annulation de titres mentionnées au deuxième
-alinéa du e de l'article 885 I bis du code général des impôts, la personne qui a bénéficié du régime prévu par cet article
-doit fournir, jusqu'à l'année suivant celle du terme de l'engagement collectif de conservation, une attestation émanant :
+En cas d'opérations de fusion, de scission, d'augmentation de capital ou d'annulation de titres mentionnées au h de l'article
+885 I bis du code général des impôts, la personne qui a bénéficié du régime prévu par cet article doit fournir, jusqu'à
+l'année suivant celle du terme de l'engagement collectif de conservation, une attestation émanant : 
 
 1° Soit de la société bénéficiaire mentionnée à l'article 301 F certifiant que les signataires ont respecté, pendant l'année
 précédant celle du fait générateur de l'impôt, l'engagement collectif prévu au a de l'article 885 I bis ou, à défaut,
-conservé les titres reçus en contrepartie de l'opération ;
+conservé les titres reçus en contrepartie de l'opération ; 
 
 2° Soit de la société dont les titres font l'objet de l'engagement en cas d'augmentation de capital ou d'annulation de titres
 pour cause de perte certifiant que les signataires de l'engagement ont, pendant l'année précédant celle du fait générateur de
@@ -15958,20 +15954,69 @@ l'impôt, conservé les titres détenus à l'issue de l'opération.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-423 du 28 avril 2010 - art. 3
+
 	**Cite**:
 
-	  - CGI 885 I bis
-
-	**Créé par**:
-
-	  - Décret n°2004-851 du 24 août 2004 - art. 1 () JORF 25 août 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 F (V)
+	  - Code général des impôts, CGI. - art. 885 I bis (V)
 
 
 ###### Article 301 J
+
+En cas d'opération de fusion mentionnée au neuvième alinéa du b de l'article 885 I bis du code général des impôts, la
+personne qui a bénéficié du régime prévu à cet article doit fournir, jusqu'à l'année suivant celle du terme de l'engagement
+collectif de conservation, une attestation émanant de la société bénéficiaire mentionnée à l'article 301 F certifiant que les
+titres reçus en contrepartie de l'opération ont été conservés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-423 du 28 avril 2010 - art. 4
+
+
+###### Article 301 K
+
+En cas d'opérations de fusion ou de scission mentionnées au i de l'article 885 I bis du code général des impôts, la personne
+qui a bénéficié du régime prévu par cet article doit fournir, jusqu'à l'année de la transmission des titres objets de
+l'obligation de conservation individuelle, une attestation émanant de la société bénéficiaire mentionnée à l'article 301 F
+certifiant que les titres reçus en contrepartie de l'opération ont été conservés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-423 du 28 avril 2010 - art. 4
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 F (V)
+	  - Code général des impôts, CGI. - art. 885 I bis
+
+
+###### Article 301 L
+
+En cas d'opérations d'augmentation de capital ou d'annulation de titres mentionnées au i de l'article 885 I bis du code
+général des impôts, la personne qui a bénéficié du régime prévu par cet article doit fournir une attestation émanant de la
+société dont les titres font l'objet de l'obligation de conservation, comportant l'indication, au titre de l'année précédant
+celle du fait générateur de l'impôt, du nombre des titres détenus et conservés à l'issue de l'opération. Cette attestation
+doit être jointe à la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-423 du 28 avril 2010 - art. 4
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 885 I bis
+
+
+###### Article 301 M
 
 Les informations et documents mentionnés aux articles 301 G à 301 I sont communiqués à l'administration par la personne qui
 bénéficie du régime prévu à l'article 885 I bis du code général des impôts lors du dépôt de sa déclaration d'impôt de
@@ -15982,26 +16027,17 @@ service des impôts du domicile du défunt.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - HISTO: Edition du 1er janvier 2006
-	  - TRANSFERE: Décret n°2010-423 du 28 avril 2010 - art. 4
+	  - Décret n°2010-423 du 28 avril 2010 - art. 4
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 J (T)
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 G (V)
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 M (V)
+	  - Code général des impôts, CGI. - art. 885 I bis
 
 
 #### Chapitre II : Droits de timbre
@@ -16092,9 +16128,11 @@ celle-ci est intervenue à compter du 13 octobre 1998.
 
 II. - Ces déclarations sont établies sur des formules imprimées délivrées sans frais par le service des impôts.
 
-III. - Les mêmes obligations incombent aux organismes d'assurance et assimilés non établis en France et admis à y opérer en
-libre prestation de services. La déclaration souscrite par le représentant fiscal mentionné au III de l'article 990 I du code
-général des impôts est adressée à la direction des services fiscaux du domicile de l'assuré.
+III. - (sans objet).
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 72-II de la loi n° 2009-1674 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -16102,39 +16140,28 @@ général des impôts est adressée à la direction des services fiscaux du domi
 
 	  - CGI 990 I, 806
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-1052 du 14 décembre 1999 - art. 1 () JORF 16 décembre 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 
 ##### 0I : Taxe sur les conventions d'assurance
 
 ###### Article 306 F
 
-Les décisions relatives à l'agrément du représentant désigné par l'assureur étranger en application des articles 1004 et 1004
-bis du code général des impôts sont prises par le directeur des services fiscaux.
+Les décisions relatives à l'agrément du représentant désigné par l'assureur étranger en application de l'article 1004 du code
+général des impôts sont prises par le directeur des services fiscaux.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 1004, 1004 bis
+	  - Code général des impôts, CGI. - art. 1004
+
 	**Modifié par**:
 
-	  - Décret n°97-1195 1997-12-24 art. 4, art. 13 JORF 27 décembre 1997 en vigueur le 1er janvier 1998
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-
-	**Créé par**:
-
-	  - Rapport - art. 3 (V) JORF 18 janvier 1997
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 
 ##### II : Taxe sur les véhicules des sociétés
@@ -18226,25 +18253,32 @@ moyenne des deux taux suivants :
 
 1° Le taux résultant du rapport entre, d'une part, la population de la commune et, d'autre part, la population de l'ensemble
 des communes mentionnées au premier alinéa. Le chiffre de la population pris en compte est celui de la population totale
-mentionnée à l'article R. 2151-1 du code général des collectivités territoriales et majoré, le cas échéant, de la population
-résultant conformément aux dispositions des articles R. 2151-4 à R. 2151-7 du même code d'opérations de recensements
-complémentaires et d'attribution de population fictive ; 
+mentionnée à l'article R. 2151-1 du code général des collectivités territoriales  ; 
 
 2° Le taux résultant du rapport entre, d'une part, l'inverse de la distance entre le point du territoire de la commune le
 plus proche d'une unité de production et cette unité, et d'autre part, la somme des inverses de cette même distance calculés
 pour l'ensemble des communes mentionnées au premier alinéa.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er (1°) du décret n° 2009-637 du 8 juin 2009.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-851 du 26 août 2008 - art. 1
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 B
 	  - Code général des impôts, CGI. - art. 1519 C
 	  - Code général des collectivités territoriales - art. R2151-1
+	  - Code général des collectivités territoriales - art. R2151-4
 
 	**Cité par**:
 
@@ -18532,8 +18566,8 @@ une activité strictement conforme à leur objet légal ou statutaire.
 ###### Article 317 quater
 
 Dans les zones d'aménagement concerté, l'exclusion de la taxe locale d'équipement prévue au 2° du I de l'article 1585 C du
-code général des impôts est subordonnée à la condition que soit pris en charge par les constructeurs au moins le coût des
-équipements ci-après :
+code général des impôts est subordonnée à la condition que soit pris en charge par l'aménageur ou par les constructeurs au
+moins le coût des équipements ci-après :
 
 1° Dans le cas des zones d'aménagement concerté autres que de rénovation urbaine :
 
@@ -18554,6 +18588,10 @@ b) Les espaces verts, aires de jeux ou promenades correspondant aux seuls besoin
 
 c) Les aires de stationnement qui correspondent aux seuls besoins des habitants des immeubles concernés.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 117-III de la loi n° 2009-526 du 12 mai 2009.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -18562,11 +18600,11 @@ c) Les aires de stationnement qui correspondent aux seuls besoins des habitants 
 
 	**Modifié par**:
 
-	  - Décret n°87-285 du 22 avril 1987 - art. 6 (V) JORF 25 avril 1987
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 10 août 1987
+	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
 
 
 ###### Article 317 septies
@@ -18882,34 +18920,31 @@ chambre de métiers et de l'artisanat a son siège.
 
 ###### Article 321 quater
 
-Pour l'application du 1° de l'article 1605 ter du code général des impôts :
+Pour l'application du 1° de l'article 1605 ter du code général des impôts : 
 
 1° Lorsqu'un établissement comporte plusieurs points de vision imposables au montant prévu par le III de l'article 1605 du
 code général des impôts et au montant prévu par le c du 1° de l'article 1605 ter du même code, le redevable opère un décompte
 unique du nombre de points de vision. Toutefois, pour la détermination de l'abattement applicable, les points de vision
 imposés au montant prévu par le III de l'article 1605 sont pris en compte avant ceux imposés au montant prévu par le c du 1°
-de l'article 1605 ter.
+de l'article 1605 ter. 
 
-2° La minoration prévue par le b du 1° de l'article 1605 ter s'applique sur le montant total de la redevance audiovisuelle
-calculé selon les modalités prévues au 1° du présent article.
+2° La minoration prévue par le b du 1° de l'article 1605 ter s'applique sur le montant total de la contribution à
+l'audiovisuel public calculé selon les modalités prévues au 1° du présent article.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 29 de la loi n° 2009-258 du 5 mars 2009.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1605, 1605 ter
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
 	**Modifié par**:
 
-	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 1605 (V)
+	  - Code général des impôts, CGI. - art. 1605 ter (V)
 
 
 ###### Article 321 ter
@@ -18917,23 +18952,19 @@ calculé selon les modalités prévues au 1° du présent article.
 Pour l'application du III de l'article 1605 du code général des impôts, le montant de la contribution à l'audiovisuel public
 est celui applicable au lieu de l'habitation principale du redevable.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 29 de la loi n° 2009-258 du 5 mars 2009.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1605
-
-	**Créé par**:
-
-	  - Décret n°2005-1167 du 13 septembre 2005 - art. 1 () JORF 16 septembre 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 	**Modifié par**:
 
-	  - Loi n°2009-258 du 5 mars 2009 - art. 29
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1605 (V)
 
 
 ##### Section VI : Prélèvement spécial sur les films pornographiques et d'incitation à la violence
@@ -19066,8 +19097,8 @@ II.-Les personnes redevables de la taxe d'abattage doivent :
 constatation, à la liquidation et au contrôle de la taxe d'abattage, à savoir le poids des viandes avec os, par espèce et
 catégorie, retenu pour le calcul du montant de la taxe ; 
 
-2° Adresser au ministère chargé de l'agriculture ou à l'office mentionné à l'article L. 226-1 du code rural, selon le cas, un
-relevé des éléments énumérés au 1° ci-dessus. 
+2° Adresser au ministère chargé de l'agriculture ou à l'établissement mentionné à l'article L. 621-1 du code rural, selon le
+cas, un relevé des éléments énumérés au 1°. 
 
 Un arrêté conjoint des ministres chargés de l'agriculture et du budget précise le destinataire de ce relevé ainsi que ses
 modalités de transmission. 
@@ -19079,16 +19110,25 @@ somme fait l'objet d'une mention particulière au bas de la facture délivrée a
 IV.-La part du produit de la taxe d'abattage destinée à financer la gestion des opérations imputées sur le fonds auquel est
 rattaché le produit de ladite taxe est fixée à 1, 5 %.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 8 (1°) de l'ordonnance n° 2009-325 du 25 mars 2009.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-872 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 24 novembre 2008 - art. 2 (V)
 	  - Code rural - art. R228-13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+
+	**Cite**:
+
+	  - Code rural - art. L226-1
+	  - Code rural - art. L621-1
 
 
 #### Chapitre II : Enregistrement, publicité foncière et timbre
@@ -19338,7 +19378,11 @@ propriétés non bâties, la taxe d'habitation, la taxe professionnelle et leurs
 départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sous réserve de l'application des articles
 330 à 333 J.
 
-Ces dispositions s'appliquent à l'Ile Saint-Barthélemy à compter du 1er janvier 1980.
+2me alinéa : dispositions disjointes
+
+**Nota:**
+
+Dispositions du deuxième alinéa disjointes en conséquence de l'article 4 de la loi n° 2007-223 du 21 février 2007.
 
 **Liens relatifs à cet article**
 
@@ -19346,22 +19390,9 @@ Ces dispositions s'appliquent à l'Ile Saint-Barthélemy à compter du 1er janvi
 
 	  - CGI 330 à 333 J
 
-	**Anciens textes**:
-
-	  - CGIAN2 327 E
-
-	**Liens**:
-
-	  - SPEC_APPLI: Conséquence de la péremption de l'article 334 du CGI
-	  - HISTO: Edition du 31 mars 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 2 () JORF 8 juin 2002
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 
 ##### I : Taxes foncières
@@ -22058,30 +22089,24 @@ l'exception de toute majoration ou pénalité.
 L'ensemble des droits exigibles au titre de la taxe sur les salaires en application des dispositions des 1 et 2 bis de
 l'article 231 du code général des impôts et des articles 142 à 143 de la présente annexe est versé globalement au Trésor dans
 les conditions et délais et sous les sanctions prévus aux articles 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731 et aux I et
-IV de l'article 1754 du code général des impôts et 51, 369 et au 1 de l'article 374 de l'annexe III à ce code.
+IV de l'article 1754 du code général des impôts ainsi qu'aux articles 51, 369 et au 1 de l'article 374 de l'annexe III à ce
+code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1754, 231
 	  - CGIAN2 142 à 143
 	  - CGIAN3 51, 369, 374
 
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées

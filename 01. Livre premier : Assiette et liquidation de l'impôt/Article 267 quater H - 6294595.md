@@ -10,16 +10,16 @@ opérations imposables ont été réalisées. La redevance est acquittée dans l
 de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis que les redevables déposent leurs
 déclarations et s'acquittent de la redevance avant le 25 du mois suivant chaque trimestre civil.
 
-II. - Le poids de viande fraîche net mentionné au 1 du I de l'article 302 bis WC du code général des impôts s'entend de celui
-retenu pour l'assiette de la redevance sanitaire de découpage prévue à l'article 302 bis S dudit code.
+II. - (sans objet)
 
-III. - Les opérations mentionnées au 2 du I de l'article 302 bis WC du code général des impôts s'entendent des opérations de
-mareyage consistant en la modification de l'intégrité anatomique, telle que l'éviscération, l'étêtage, le filetage, le
-hachage ou des opérations de transformation consistant en l'application d'un procédé physique ou chimique, tel que le
-chauffage, le salage, la dessiccation, le marinage.
+III. - (sans objet)
 
 IV. - Les saisies pratiquées par les services d'inspection sanitaire et les exportations ou les expéditions vers les Etats
 membres de la Communauté européenne ne donnent pas lieu au remboursement de la redevance.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 90- I-F (1°)  de la loi n° 2009-1674 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -29,12 +29,4 @@ membres de la Communauté européenne ne donnent pas lieu au remboursement de la
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2

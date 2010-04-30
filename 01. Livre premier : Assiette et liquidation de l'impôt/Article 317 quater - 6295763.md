@@ -1,8 +1,8 @@
 # Article 317 quater
 
 Dans les zones d'aménagement concerté, l'exclusion de la taxe locale d'équipement prévue au 2° du I de l'article 1585 C du
-code général des impôts est subordonnée à la condition que soit pris en charge par les constructeurs au moins le coût des
-équipements ci-après :
+code général des impôts est subordonnée à la condition que soit pris en charge par l'aménageur ou par les constructeurs au
+moins le coût des équipements ci-après :
 
 1° Dans le cas des zones d'aménagement concerté autres que de rénovation urbaine :
 
@@ -23,6 +23,10 @@ b) Les espaces verts, aires de jeux ou promenades correspondant aux seuls besoin
 
 c) Les aires de stationnement qui correspondent aux seuls besoins des habitants des immeubles concernés.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 117-III de la loi n° 2009-526 du 12 mai 2009.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -31,8 +35,8 @@ c) Les aires de stationnement qui correspondent aux seuls besoins des habitants 
 
 	**Modifié par**:
 
-	  - Décret n°87-285 du 22 avril 1987 - art. 6 (V) JORF 25 avril 1987
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 10 août 1987
+	  - Décret n°2012-87 du 25 janvier 2012 - art. 2

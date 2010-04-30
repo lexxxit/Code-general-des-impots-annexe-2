@@ -34,4 +34,4 @@ Du certificat de radiation de la francisation pour les autres bateaux.
 
 	**Modifié par**:
 
-	  - Décret n°2009-136 du 9 février 2009 - art. 12 (V)
+	  - Décret n°2010-421  du 27 avril 2010 - art. 2
