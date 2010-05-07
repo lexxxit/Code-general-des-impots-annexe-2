@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3538,29 +3538,29 @@ Afin de bénéficier des dispositions du deuxième alinéa du II de l'article L.
 titulaire du plan d'épargne en actions adresse à l'organisme gestionnaire du plan un document attestant sur l'honneur que les
 sommes ou valeurs dont il demande le retrait, ou le rachat s'agissant d'un contrat de capitalisation, sont destinées à être
 affectées au financement de la création ou de la reprise d'une entreprise dans les conditions fixées par la deuxième phrase
-du 2 du II de l'article 150-0 A du code général des impôts.
+du 2 du II de l'article 150-0 A du code général des impôts. 
 
-Dans les quatre mois qui suivent le retrait ou le rachat, le titulaire du plan adresse à l'organisme gestionnaire :
+Dans les quatre mois qui suivent le retrait ou le rachat, le titulaire du plan adresse à l'organisme gestionnaire : 
 
 a. En cas d'affectation des sommes au financement de la création d'une entreprise exerçant une activité industrielle,
 commerciale, artisanale, agricole ou libérale, la copie du récépissé de dépôt de dossier de création d'entreprise tel que
-prévu à l'article L. 123-9-1 du code de commerce, à l'article L. 311-2-1 du code rural ou à l'article 19-1 de la loi n°
-96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat ou tout document officiel
-comportant l'immatriculation de l'entreprise et son identification ;
+prévu à l'article L. 123-9-1 du code de commerce, à l'article L. 311-2-1 du code rural et de la pêche maritime ou à l'article
+19-1 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat ou tout
+document officiel comportant l'immatriculation de l'entreprise et son identification ; 
 
 b. En cas d'affectation des sommes au financement de la reprise d'une entreprise exerçant une activité mentionnée au a, la
-copie du document constatant l'opération, soumis à la formalité de l'enregistrement et mentionné aux articles 635, 638 ou 639
-du code général des impôts, accompagnée de tout document officiel comportant l'immatriculation de l'entreprise et son
-identification ;
+copie du document constatant l'opération, soumis à la formalité de l'enregistrement et mentionné aux articles 635
+,638 ou 639 du code général des impôts, accompagnée de tout document officiel comportant l'immatriculation de l'entreprise et
+son identification ; 
 
 c. Une attestation sur l'honneur délivrée par l'entrepreneur individuel, la société ou, s'agissant de la reprise d'une
 entreprise, le cédant, mentionnant la date et le montant des sommes ou valeurs investies dans l'entreprise par le titulaire
-du plan conformément aux conditions fixées par la deuxième phrase du 2 du II de l'article 150-0 A précité ;
+du plan conformément aux conditions fixées par la deuxième phrase du 2 du II de l'article 150-0 A précité ; 
 
 d. L'identité et l'adresse de la ou des personnes exerçant dans la société créée ou reprise l'une des fonctions énumérées au
 1° de l'article 885 O bis du code général des impôts ou de l'exploitant individuel de l'entreprise créée ou reprise et, si
 nécessaire, la justification que l'un de ceux-ci est le conjoint ou le partenaire lié par un pacte civil de solidarité,
-l'ascendant ou le descendant du titulaire du plan.
+l'ascendant ou le descendant du titulaire du plan. 
 
 Si l'une des conditions énumérées au présent article n'est pas respectée, le retrait ou le rachat entraîne la clôture du plan
 d'épargne en actions en application du premier alinéa du II de l'article L. 221-32 du code monétaire et financier et, en cas
@@ -3569,25 +3569,20 @@ du plan dans les conditions prévues à la première phrase du 2 du II de l'arti
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 150-0 A, 635, 638, 639, 885 O bis
-	  - Loi n°96-603 du 5 juillet 1996 - art. 19-1 (V)
-	  - Code de commerce. - art. L123-9-1 (V)
-	  - Code monétaire et financier - art. L221-32 (V)
-	  - Code rural L311-2-1
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
 	**Modifié par**:
 
-	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code de commerce - art. L123-9-1 (V)
+	  - Code général des impôts, CGI. - art. 150-0 A (VT)
+	  - Code général des impôts, CGI. - art. 635 (V)
+	  - Code général des impôts, CGI. - art. 638 (V)
+	  - Code général des impôts, CGI. - art. 885 O bis (V)
+	  - Code rural - art. L311-2-1 (V)
+	  - Code monétaire et financier - art. L221-32 (V)
 
 
 ###### Article 91 quater L
@@ -6406,13 +6401,15 @@ dernier article.
 
 II.-Les employeurs assujettis à la cotisation prévue au 2 de l'article 235 bis du code général des impôts sont tenus de
 produire chaque année, au plus tard le deuxième jour ouvré suivant le 1er mai, et conformément aux dispositions de l'article
-R. 716-28 du code rural, une déclaration mentionnant notamment les éléments prévus par ce dernier article.
+R. 716-28 du code rural et de la pêche maritime, une déclaration mentionnant notamment les éléments prévus par ce dernier
+article.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
 
 	**Cité par**:
 
@@ -6435,20 +6432,17 @@ Les réclamations sont présentées, instruites et jugées comme en matière de 
 quatrième alinéa de l'article * R. 313-5 précité. 
 
 II.-La cotisation prévue au 2 de l'article 235 bis du code général des impôts est établie, contrôlée et recouvrée
-conformément aux dispositions de l'article R. 716-29 du code rural.
+conformément aux dispositions de l'article R. 716-29 du code rural et de la pêche maritime. 
 
 Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires conformément au
 quatrième alinéa de l'article R. 716-29 précité.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article R. 716-29 du code rural.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
 
 	**Cite**:
 
@@ -6460,29 +6454,26 @@ Modifications effectuées en conséquence de l'article R. 716-29 du code rural.
 ###### Article 163
 
 I.-En cas de cession, cessation, redressement ou liquidation judiciaire de l'entreprise ou de décès de l'employeur, la
-déclaration prévue à l'article *R. 313-3 du code de la construction et de l'habitation afférente à l'année en cours et à
-l'année précédente doit être souscrite conformément aux dispositions de l'article *R. 313-6 du même code. 
+déclaration prévue à l'article R*313-3 du code de la construction et de l'habitation afférente à l'année en cours et à
+l'année précédente doit être souscrite conformément aux dispositions de l'article R*313-6 du même code. 
 
 II.-En cas de cession, cessation, procédure de sauvegarde, redressement ou liquidation judiciaire de l'entreprise ou de décès
-de l'employeur, la déclaration prévue à l'article R. 716-28 du code rural 
-afférente à l'année en cours et à l'année précédente est souscrite conformément aux dispositions de l'article R. 716-30 du
-même code.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article R. 716-30 du code rural.
+de l'employeur, la déclaration prévue à l'article R. 716-28 du code rural et de la pêche maritime afférente à l'année en
+cours et à l'année précédente est souscrite conformément aux dispositions de l'article R. 716-30 du même code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code rural - art. R716-28
-	  - Code rural - art. R716-30
-	  - Code de la construction et de l'habitation. - art. R*313-3
+	  - Code rural - art. R716-28 (V)
+	  - Code rural - art. R716-30 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-6 (V)
 
 
 #### Chapitre VI ter : Participation des employeurs au développement de la formation professionnelle continue
@@ -14325,14 +14316,14 @@ entrées et sorties, ainsi que des manipulations, reste possible sur la base de 
 agents des douanes et droits indirects ou de ceux de la concurrence, de la consommation et de la répression des fraudes. 
 
 Les registres comportent les colonnes ouvertes avec les intitulés exigés par la réglementation communautaire et portent les
-références des contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural pour les
-transactions soumises à cette procédure. 
+références des contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural et de la pêche
+maritime pour les transactions soumises à cette procédure. 
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords interprofessionnels visés notamment aux articles
-L. 632-1 à L. 632-7 du code rural, les registres comportent pour les vins d'appellation d'origine, les références aux
-certificats d'agrément ou de labellisation, les numéros d'enregistrement des contrats d'achat et les numéros des déclarations
-de transactions soumis préalablement aux interprofessions tels que prévus dans les accords interprofessionnels étendus
-mentionnés aux articles précités. 
+L. 632-1 à L. 632-7 du code rural et de la pêche maritime, les registres comportent pour les vins d'appellation d'origine,
+les références aux certificats d'agrément ou de labellisation, les numéros d'enregistrement des contrats d'achat et les
+numéros des déclarations de transactions soumis préalablement aux interprofessions tels que prévus dans les accords
+interprofessionnels étendus mentionnés aux articles précités. 
 
 Les registres comportent, le cas échéant, les références aux comptes d'âges ou de vieillissement prévus par les textes
 réglementaires en vigueur et les règlements des organismes interprofessionnels. 
@@ -14420,7 +14411,8 @@ le directeur régional des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
 
 	**Cite**:
 
@@ -14561,7 +14553,7 @@ vieillissement prévus par les textes réglementaires en vigueur et les règleme
 
 2° Par tarif d'imposition, en volume effectif, par couleur et par appellation d'origine ou dénomination pour les produits
 intermédiaires et les produits mentionnés à l'article 438 dudit code, sous réserve des règlements ou accords
-interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural ; 
+interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural et de la pêche maritime ; 
 
 3° Par tarif d'imposition, en volume effectif, par degré alcoométrique, pour les bières ; 
 
@@ -14693,7 +14685,8 @@ le directeur régional des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
 
 	**Cite**:
 
@@ -19097,8 +19090,8 @@ II.-Les personnes redevables de la taxe d'abattage doivent :
 constatation, à la liquidation et au contrôle de la taxe d'abattage, à savoir le poids des viandes avec os, par espèce et
 catégorie, retenu pour le calcul du montant de la taxe ; 
 
-2° Adresser au ministère chargé de l'agriculture ou à l'établissement mentionné à l'article L. 621-1 du code rural, selon le
-cas, un relevé des éléments énumérés au 1°. 
+2° Adresser au ministère chargé de l'agriculture ou à l'établissement mentionné à l'article L. 621-1 du code rural et de la
+pêche maritime, selon le cas, un relevé des éléments énumérés au 1°. 
 
 Un arrêté conjoint des ministres chargés de l'agriculture et du budget précise le destinataire de ce relevé ainsi que ses
 modalités de transmission. 
@@ -19112,7 +19105,7 @@ rattaché le produit de ladite taxe est fixée à 1, 5 %.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 8 (1°) de l'ordonnance n° 2009-325 du 25 mars 2009.
+Modification effectuée en conséquence de l'art. 47-II [4°] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
@@ -19123,7 +19116,12 @@ Modifications effectuées en conséquence de l'article 8 (1°) de l'ordonnance n
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
 
 	**Cite**:
 
