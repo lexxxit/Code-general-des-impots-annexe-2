@@ -1,21 +1,17 @@
 # Article 140 quater
 
-Les investissements productifs réalisés dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en
-Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises
-mentionnés aux I, II et II bis de l'article 217 undecies du code général des impôts s'entendent des acquisitions ou créations
-d'immobilisations corporelles, neuves et amortissables, affectées aux activités relevant des secteurs éligibles en vertu des
-dispositions du I de l'article 199 undecies B du code général des impôts.
+Les investissements productifs réalisés dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Saint-Barthélemy, à
+Saint-Martin, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et les Terres
+australes et antarctiques françaises mentionnés aux I, I bis et II de l'article 217 undecies du code général des impôts
+s'entendent des acquisitions ou créations d'immobilisations corporelles, neuves et amortissables, affectées aux activités
+relevant des secteurs éligibles en vertu des dispositions du I de l'article 199 undecies B du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 217 undecies, 199 undecies B
-
 	**Modifié par**:
 
-	  - Décret n°2004-203 du 3 mars 2004 - art. 2 () JORF 5 mars 2004
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 217 undecies

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-05-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3802,25 +3802,21 @@ déclaration ou la demande de restitution a été déposée.
 
 ###### Article 95 K
 
-Les investissements productifs neufs réalisés dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en
-Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises
-qui ouvrent droit à la réduction d'impôt prévue au I de l'article 199 undecies B du code général des impôts sont les
-acquisitions ou créations d'immobilisations corporelles, neuves et amortissables, affectées aux activités relevant des
-secteurs éligibles en vertu des dispositions du I de cet article.
+Les investissements productifs neufs réalisés dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Saint-
+Barthélemy, à Saint-Martin, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et les
+Terres australes et antarctiques françaises qui ouvrent droit à la réduction d'impôt prévue au I de l'article 199 undecies B
+du code général des impôts sont les acquisitions ou créations d'immobilisations corporelles, neuves et amortissables,
+affectées aux activités relevant des secteurs éligibles en vertu des dispositions du I de cet article.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 199 undecies B
-
 	**Modifié par**:
 
-	  - Décret n°2004-203 du 3 mars 2004 - art. 1 () JORF 5 mars 2004
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 199 undecies B
 
 
 ###### Article 95 M
@@ -3899,66 +3895,37 @@ général des impôts sont celles qui sont organisées sur des navires autorisé
 
 ###### Article 95 Q
 
-La réduction d'impôt prévue au I de l'article 199 undecies B du code général des impôts est pratiquée au titre de l'année au
-cours de laquelle l'immobilisation est créée par l'entreprise ou lui est livrée ou est mise à sa disposition dans le cadre
-d'un contrat de crédit-bail. Lorsque l'immobilisation fait l'objet d'un contrat de crédit-bail, la réduction d'impôt est
-pratiquée par le contribuable crédit preneur ou par les associés ou membres de l'entreprise qui est crédit preneur.
+La réduction d'impôt prévue au I de l'article 199 undecies B du code général des impôts est pratiquée, sous réserve des
+dispositions de la deuxième phrase du vingtième alinéa du I du même article, au titre de l'année au cours de laquelle
+l'immobilisation est créée par l'entreprise ou lui est livrée ou est mise à sa disposition dans le cadre d'un contrat de
+crédit-bail. Lorsque l'immobilisation fait l'objet d'un contrat de crédit-bail, la réduction d'impôt est pratiquée par le
+contribuable crédit preneur ou par les associés ou membres de l'entreprise qui est crédit preneur.
 
 Elle est déterminée en tenant compte du montant des subventions publiques obtenues ou demandées et non encore accordées au 31
-décembre de l'année mentionnée au premier alinéa. S'il y a lieu, la régularisation de la réduction d'impôt est effectuée au
+décembre de l'année mentionnée au premier alinéa.S'il y a lieu, la régularisation de la réduction d'impôt est effectuée au
 titre de la même année sur demande du contribuable.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 undecies B
-
-	**Modifié par**:
-
-	  - Décret n°2004-203 du 3 mars 2004 - art. 1 () JORF 5 mars 2004
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. D333-1 (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article 95 R
-
-La limite de 1 525 000 Euros mentionnée aux vingt et unième et vingt-deuxième alinéas du I de l'article 199 undecies B du
-code général des impôts s'applique au montant total des investissements réalisés au titre de la même année. La limite de 40 %
-mentionnée au vingt-deuxième alinéa de ce même I s'applique au montant de la réduction d'impôt obtenue pour le montant total
-des investissements réalisés au titre de la même année.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 undecies B
-
 	**Modifié par**:
-
-	  - Décret n°2004-203 du 3 mars 2004 - art. 1 () JORF 5 mars 2004
-
-	**Abrogé par**:
 
 	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 199 undecies B
 
 
 ###### Article 95 S
 
 La réduction d'impôt prévue au I de l'article 199 undecies B du code général des impôts n'est pas imputable sur l'impôt
 résultant de la reprise des réductions d'impôt antérieurement pratiquées ou sur l'impôt résultant de la majoration du revenu
-global effectuée en application des vingt-troisième, vingt-cinquième et vingt-sixième alinéas de ce même I, des dispositions
-prévues à l'article 199 undecies et du 7 de l'article 199 undecies A du même code.
+global effectuée en application des vingt-troisième, vingt-cinquième et vingt-sixième alinéas de ce même I et du 7 de
+l'article 199 undecies A du même code. 
 
 De même, la créance sur l'Etat prévue au I de l'article 199 undecies B ne peut être utilisée pour le paiement de l'impôt
 résultant des reprises de réductions d'impôt, des majorations du revenu global et des réintégrations au revenu net global
@@ -3966,25 +3933,18 @@ mentionnées à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 199 undecies B, 199 undecies
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
-
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. D333-1 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 undecies A
+	  - Code général des impôts, CGI. - art. 199 undecies B
 
 
 ###### Article 95 T
@@ -4062,15 +4022,15 @@ l'article 199 undecies B.
 
 ###### Article 95 U
 
-Le taux de rétrocession mentionné au vingt-sixième alinéa du I de l'article 199 undecies B du code général des impôts est
-calculé par le rapport existant entre :
+Le taux de rétrocession mentionné aux vingt-sixième et vingt-neuvième alinéas du I de l'article 199 undecies B du code
+général des impôts est calculé par le rapport existant entre : 
 
 a) Au numérateur, la différence entre, d'une part, le montant hors taxes de l'investissement diminué de la fraction de son
 prix de revient financée par une subvention publique et, d'autre part, la valeur actualisée de l'ensemble des sommes mises à
 la charge du locataire lui permettant d'obtenir la disposition du bien et d'en acquérir la propriété au terme de la
-location ;
+location ; 
 
-b) Au dénominateur, le montant de la réduction d'impôt.
+b) Au dénominateur, le montant de la réduction d'impôt. 
 
 La valeur actualisée des sommes payées par le locataire est déterminée en retenant un taux d'actualisation égal à la moyenne
 pondérée, en fonction du montant des emprunts, des taux d'intérêts des emprunts souscrits pour le financement de
@@ -4080,17 +4040,13 @@ de ces mêmes dispositions par les associés ou membres de cette entreprise.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 199 undecies B
-
 	**Modifié par**:
 
-	  - Décret n°2004-203 du 3 mars 2004 - art. 1 () JORF 5 mars 2004
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 199 undecies B
 
 
 ###### Article 95 V
@@ -5860,33 +5816,25 @@ par l'administration, dans chaque département, au siège de l'une des caisses l
 Les souscriptions dont la déduction est autorisée par les II, II bis et II ter de l'article 217 undecies du code général des
 impôts s'entendent des souscriptions en numéraire au capital des sociétés de développement régional des départements d'outre-
 mer et des entreprises passibles de l'impôt sur les sociétés qui exercent exclusivement leur activité, outre-mer, dans les
-secteurs mentionnés aux premier, troisième, cinquième, sixième et septième alinéas du I de ce même article ou qui réalisent
-des investissements mentionnés au quatrième alinéa de ce même I.
+secteurs mentionnés aux premier, troisième, sixième, septième et huitième alinéas du I de ce même article ou qui réalisent
+des investissements mentionnés aux quatrième et cinquième alinéas de ce même I. 
 
 La valeur d'origine des éléments d'actif autres que ceux nécessaires à l'exercice de l'activité ouvrant droit à déduction ne
 doit pas excéder 10 % du montant total de l'actif brut de la société.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 217 undecies
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 duodecies (M)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 217 undecies
 
 
 ###### Article 140 duodecies
@@ -5913,103 +5861,91 @@ versement, le nombre de parts ou actions souscrites et, le cas échéant, leurs 
 
 ###### Article 140 nonies
 
-Lorsqu'une entreprise entend bénéficier de la déduction prévue aux cinquième à septième alinéas du I de l'article 217
-undecies du code général des impôts, elle est tenue, pour chaque logement, de joindre à sa déclaration de résultat de
-l'exercice au titre duquel elle pratique la déduction des documents dont la liste est fixée par décret.
+Lorsqu'une entreprise entend bénéficier de la déduction prévue aux sixième à huitième alinéas du I et au I bis de l'article
+217 undecies du code général des impôts, elle est tenue, pour chaque logement, de joindre à sa déclaration de résultat de
+l'exercice au titre duquel elle pratique la déduction des documents dont la liste est fixée par décret. 
 
 Si le bail n'est pas signé à la date de souscription de la déclaration susmentionnée, les documents relatifs au bail et au
 locataire sont joints à la déclaration de l'exercice au cours duquel le bail est signé. Il en est de même en cas de
-changement de locataire pendant une période d'une durée fixée par décret.
+changement de locataire pendant une période d'une durée fixée par décret. 
 
-Pour l'application du septième alinéa du I de l'article 217 undecies du code général des impôts, les montants annuels du
+Pour l'application du huitième alinéa du I de l'article 217 undecies du code général des impôts, les montants annuels du
 loyer et des ressources du locataire ne peuvent excéder des limites fixées par décret.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 217 undecies
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ ter (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 217 undecies
 
 
 ###### Article 140 octies
 
-La déduction prévue au premier alinéa du I de l'article 217 undecies du code général des impôts est pratiquée par
-l'entreprise propriétaire ou, si l'immobilisation fait l'objet d'un contrat de crédit-bail, par l'entreprise locataire. Elle
-est opérée sur les résultats imposables, déterminés avant tout autre déduction ou abattement, de l'exercice au cours duquel
-l'immobilisation est créée par l'entreprise ou lui est livrée ou est mise à sa disposition dans le cadre d'un contrat de
-crédit-bail.
+I.-La déduction prévue au premier alinéa du I de l'article 217 undecies du code général des impôts est pratiquée par
+l'entreprise propriétaire ou, si l'immobilisation fait l'objet d'un contrat de crédit-bail, par l'entreprise locataire. 
+
+II.-Sous réserve des dispositions de la cinquième phrase du premier alinéa du I de l'article 217 undecies du code général des
+impôts, la déduction est opérée sur les résultats imposables de l'exercice au cours duquel l'immobilisation est créée par
+l'entreprise ou lui est livrée ou est mise à sa disposition dans le cadre d'un contrat de crédit-bail. 
 
 Cette déduction est déterminée en tenant compte du montant des subventions publiques obtenues ou demandées et non encore
 accordées à la date de clôture de l'exercice mentionné au premier alinéa. S'il y a lieu, la régularisation de la déduction
-est effectuée au titre de l'exercice au cours duquel intervient la décision concernant leur octroi et leur montant.
+est effectuée au titre de l'exercice au cours duquel intervient la décision concernant leur octroi et leur montant. 
+
+III.-Les résultats imposables de l'exercice sont déterminés, sous réserve des dispositions du IV bis de l'article 217
+undecies du code général des impôts, avant tout autre déduction ou abattement.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - CGI 217 undecies
-
-	**Créé par**:
-
-	  - Décret n°99-157 du 5 mars 1999 - art. 2 () JORF 6 mars 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
+	  - Code général des impôts, CGI. - art. 217 undecies
 
 
 ###### Article 140 quater
 
-Les investissements productifs réalisés dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en
-Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises
-mentionnés aux I, II et II bis de l'article 217 undecies du code général des impôts s'entendent des acquisitions ou créations
-d'immobilisations corporelles, neuves et amortissables, affectées aux activités relevant des secteurs éligibles en vertu des
-dispositions du I de l'article 199 undecies B du code général des impôts.
+Les investissements productifs réalisés dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Saint-Barthélemy, à
+Saint-Martin, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et les Terres
+australes et antarctiques françaises mentionnés aux I, I bis et II de l'article 217 undecies du code général des impôts
+s'entendent des acquisitions ou créations d'immobilisations corporelles, neuves et amortissables, affectées aux activités
+relevant des secteurs éligibles en vertu des dispositions du I de l'article 199 undecies B du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 217 undecies, 199 undecies B
-
 	**Modifié par**:
 
-	  - Décret n°2004-203 du 3 mars 2004 - art. 2 () JORF 5 mars 2004
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 217 undecies
 
 
 ###### Article 140 quaterdecies
 
-Le taux de rétrocession mentionné au 5° du I de l'article 217 undecies du code général des impôts est calculé par le rapport
-existant entre :
+Le taux de rétrocession mentionné au dix-neuvième alinéa (5°) du I et au 3° du I bis de l'article 217 undecies du code
+général des impôts est calculé par le rapport existant entre : 
 
 a) Au numérateur, la différence entre, d'une part, le montant hors taxe de l'investissement diminué de la fraction de son
 prix de revient financée par une subvention publique et, d'autre part, la valeur actualisée de l'ensemble des sommes mises à
 la charge du locataire lui permettant d'obtenir la disposition du bien et d'en acquérir la propriété au terme de la
-location ;
+location ; 
 
 b) Au dénominateur, la valeur actualisée des économies d'impôt sur les sociétés procurée par la déduction pratiquée au titre
 de l'investissement, par l'imputation du déficit procuré par la location du bien acquis et de la moins-value réalisée lors de
-la cession de ce bien et des titres de la société bailleresse.
+la cession de ce bien et des titres de la société bailleresse. 
 
 La valeur actualisée des sommes payées par le locataire est déterminée en retenant un taux d'actualisation égal à la moyenne
 pondérée, en fonction du montant des emprunts, des taux d'intérêts des emprunts souscrits pour le financement de
@@ -6019,43 +5955,13 @@ de ces mêmes dispositions par les associés ou membres de cette entreprise.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 217 undecies
-
-	**Créé par**:
-
-	  - Décret n°2002-582 du 24 avril 2002 - art. 4 () JORF 26 avril 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
-
-
-###### Article 140 septies
-
-La valeur des immobilisations à retenir pour le calcul de la déduction prévue au premier alinéa du I de l'article 217
-undecies du code général des impôts est constituée par le prix d'achat ou le prix de revient, diminué de la fraction de ce
-prix financée par une subvention publique et, si l'entreprise est assujettie à la taxe sur la valeur ajoutée, de la taxe
-déductible conformément aux dispositions du II de l'article 209.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 217 undecies, 209
-
 	**Modifié par**:
-
-	  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
-
-	**Abrogé par**:
 
 	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 217 undecies
 
 
 ###### Article 140 terdecies
@@ -6086,24 +5992,20 @@ l'outre-mer peut déléguer son pouvoir au préfet du département d'outre-mer c
 
 La déduction prévue par les II, II bis et II ter de l'article 217 undecies du code général des impôts est pratiquée, au titre
 de l'exercice au cours duquel les fonds ont été versés, sur les résultats imposables de l'entreprise qui réalise la
-souscription, déterminés avant tout autre déduction ou abattement.
+souscription, déterminés, sous réserve des dispositions du IV bis du même article, avant tout autre déduction ou abattement. 
 
 En cas de versements échelonnés, ceux-ci sont pris en compte au titre de chacun des exercices au cours desquels ils ont été
 effectués.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - CGI 217 undecies
-
-	**Créé par**:
-
-	  - Décret n°99-157 du 5 mars 1999 - art. 2 () JORF 6 mars 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
+	  - Code général des impôts, CGI. - art. 217 undecies
 
 
 #### Chapitre II bis : Taxe d'apprentissage
@@ -8472,90 +8374,6 @@ postérieurement à la date de publication du présent décret.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2007
-
-
-##### VII quater : Déclaration des investissements dans les départements d'outre-mer
-
-###### Article 171 AX
-
-I.-Les personnes morales mentionnées au premier alinéa de l'article 242 sexies du code général des impôts déposent, dans les
-mêmes délais que leur déclaration de résultats ou de bénéfices, au titre de l'exercice au cours duquel l'investissement est
-livré, ou achevé lorsqu'il s'agit d'un immeuble, une déclaration spéciale en double exemplaire, conforme à un modèle établi
-par l'administration fiscale, comportant les renseignements suivants : 
-
-1° Les éléments permettant leur identification : dénomination sociale, adresse, code activité et numéro SIREN ; 
-
-2° L'identité de leurs associés ou membres (nom, prénom, dénomination sociale, adresse, numéro SIREN) et la répartition de
-leurs droits dans les résultats ; 
-
-3° Pour chaque investissement financé avec le recours à l'un des dispositifs prévus aux articles 199 undecies A,199 undecies
-B et 217 undecies du code général des impôts : 
-
-a) La nature de l'investissement et le secteur d'investissement, conformément à la liste fixée par l'administration fiscale,
-auquel il est affecté ; 
-
-b) La collectivité sur le territoire de laquelle est situé ou exploité à titre principal l'investissement (Martinique,
-Guadeloupe, Guyane, Réunion, Saint-Martin, Saint-Barthélemy, Saint-Pierre-et-Miquelon, Mayotte, Nouvelle-Calédonie, Polynésie
-française, Wallis-et-Futuna, Terres australes et antarctiques françaises) ; 
-
-c) Le nom de la commune ou, à Wallis-et-Futuna, de la circonscription sur le territoire de laquelle est situé ou exploité à
-titre principal l'investissement ; 
-
-d) Sa date de livraison ou d'achèvement, ainsi que sa date de mise en location et de début d'exploitation ; 
-
-e) Son prix de revient total hors taxes ; 
-
-f) S'il y a lieu, la date d'attribution, la nature et le montant de chacune des subventions accordées pour financer
-l'investissement, ainsi que le montant et la nature des aides accordées au titre d'un régime fiscal local d'aide à
-l'investissement ; 
-
-g) L'identification de chacune des entreprises exploitantes ou locataires : dénomination sociale ou commerciale, adresse,
-code activité et numéro SIREN ainsi que, s'il y a lieu, la nature de ses liens avec les personnes morales mentionnées au
-premier alinéa ; 
-
-h) Le montant de la base de calcul de l'avantage fiscal et, s'il y a lieu, le taux de la réduction d'impôt appliquée ; 
-
-i) Le cas échéant, la quote-part de l'aide fiscale rétrocédée à l'exploitant ; 
-
-j) Le nombre d'emplois directs, en équivalent temps plein, devant être créés ou maintenus pendant les cinq premières années
-d'exploitation de l'investissement ; 
-
-k) Le cas échéant, la date de l'accord, de l'agrément ou de l'autorisation préalable de l'administration. 
-
-II.-Lorsque l'investissement consiste en la réalisation de logements et ouvre droit aux dispositions prévues par les articles
-199 undecies A ou 217 undecies du code général des impôts, la déclaration précise également : 
-
-1° Si l'investissement consiste en l'acquisition ou la construction de logements ; 
-
-2° Le nombre et le type de ces logements ; 
-
-3° Si la location de ces logements relève du secteur libre ou intermédiaire ; 
-
-4° Si les logements sont situés sur le territoire d'une zone urbaine sensible définie au 3 de l'article 42 de la loi n°
-95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire ; 
-
-5° La nature des équipements installés lorsque l'investissement comporte l'acquisition d'équipements utilisant une source
-d'énergie renouvelable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 42
-	  - Code général des impôts, CGI. - art. 199 undecies A
-	  - Code général des impôts, CGI. - art. 242 sexies
-
-	**Modifié par**:
-
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2010-472 du 10 mai 2010 - art. 1
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. R114-15 (V)
 
 
 ##### VIII : Réductions d'impôts pour l'achat de biens culturels

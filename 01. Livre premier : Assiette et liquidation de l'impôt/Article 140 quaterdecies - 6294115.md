@@ -1,16 +1,16 @@
 # Article 140 quaterdecies
 
-Le taux de rétrocession mentionné au 5° du I de l'article 217 undecies du code général des impôts est calculé par le rapport
-existant entre :
+Le taux de rétrocession mentionné au dix-neuvième alinéa (5°) du I et au 3° du I bis de l'article 217 undecies du code
+général des impôts est calculé par le rapport existant entre : 
 
 a) Au numérateur, la différence entre, d'une part, le montant hors taxe de l'investissement diminué de la fraction de son
 prix de revient financée par une subvention publique et, d'autre part, la valeur actualisée de l'ensemble des sommes mises à
 la charge du locataire lui permettant d'obtenir la disposition du bien et d'en acquérir la propriété au terme de la
-location ;
+location ; 
 
 b) Au dénominateur, la valeur actualisée des économies d'impôt sur les sociétés procurée par la déduction pratiquée au titre
 de l'investissement, par l'imputation du déficit procuré par la location du bien acquis et de la moins-value réalisée lors de
-la cession de ce bien et des titres de la société bailleresse.
+la cession de ce bien et des titres de la société bailleresse. 
 
 La valeur actualisée des sommes payées par le locataire est déterminée en retenant un taux d'actualisation égal à la moyenne
 pondérée, en fonction du montant des emprunts, des taux d'intérêts des emprunts souscrits pour le financement de
@@ -20,14 +20,10 @@ de ces mêmes dispositions par les associés ou membres de cette entreprise.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-472 du 10 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - CGI 217 undecies
-
-	**Créé par**:
-
-	  - Décret n°2002-582 du 24 avril 2002 - art. 4 () JORF 26 avril 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
+	  - Code général des impôts, CGI. - art. 217 undecies
