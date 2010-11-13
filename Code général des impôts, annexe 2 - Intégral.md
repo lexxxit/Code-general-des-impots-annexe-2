@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2010-11-08
+Version Consolidée au 2010-11-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18190,10 +18190,10 @@ Il dispose à cet effet des services déconcentrés chargés des mines, qui peuv
 
 Le dépassement du produit du droit additionnel prévu au sixième alinéa de l'article 1601 du code général des impôts est
 subordonné à la conclusion de conventions conclues avec l'Etat. La convention mentionne les actions ou les investissements à
-réaliser et les engagements correspondants de la chambre de métiers et de l'artisanat. Aucun dépassement ne peut être accordé
-si les engagements de la chambre au titre de la convention précédente n'ont pas été respectés. L'autorité compétente pour
-autoriser le dépassement du produit du droit additionnel et signer la convention est le préfet du département dans lequel la
-chambre de métiers et de l'artisanat a son siège.
+réaliser et les engagements correspondants de la       chambre de métiers et de l'artisanat de région . Aucun dépassement ne
+peut être accordé si les engagements de la chambre au titre de la convention précédente n'ont pas été respectés.L'autorité
+compétente pour autoriser le dépassement du produit du droit additionnel et signer la convention est le préfet du département
+dans lequel la       chambre de métiers et de l'artisanat de région  a son siège.
 
 **Liens relatifs à cet article**
 
@@ -18203,15 +18203,11 @@ chambre de métiers et de l'artisanat a son siège.
 
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 128 () JORF 31 décembre 2005
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 
 ##### Section V : Contribution à l'audiovisuel public
@@ -19230,9 +19226,9 @@ fiscales sont accomplies auprès du service désigné par l'administration des i
 
 Pour bénéficier de l'agrément prévu par l'article 1649 quater C du code général des impôts, les centres de gestion doivent
 avoir la forme d'une association légalement constituée dont les membres fondateurs sont soit des experts comptables ou des
-sociétés membres de l'ordre, soit des chambres de commerce et d'industrie, des chambres de métiers et de l'artisanat ou des
-chambres d'agriculture, soit des organisations professionnelles légalement constituées d'industriels, de commerçants,
-d'artisans ou d'agriculteurs. 
+sociétés membres de l'ordre, soit des chambres de commerce et d'industrie, des chambres de métiers et de l'artisanat de
+région ou des chambres d'agriculture, soit des organisations professionnelles légalement constituées d'industriels, de
+commerçants, d'artisans ou d'agriculteurs. 
 
 Les organisations professionnelles mentionnées au premier alinéa comprennent les syndicats professionnels et leurs unions
 institués conformément aux dispositions des articles L. 2111-1 et suivants du code du travail et les associations
@@ -19258,7 +19254,7 @@ Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordon
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 	**Cité par**:
 
