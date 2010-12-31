@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2011-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19226,9 +19226,9 @@ fiscales sont accomplies auprès du service désigné par l'administration des i
 
 Pour bénéficier de l'agrément prévu par l'article 1649 quater C du code général des impôts, les centres de gestion doivent
 avoir la forme d'une association légalement constituée dont les membres fondateurs sont soit des experts comptables ou des
-sociétés membres de l'ordre, soit des chambres de commerce et d'industrie, des chambres de métiers et de l'artisanat de
-région ou des chambres d'agriculture, soit des organisations professionnelles légalement constituées d'industriels, de
-commerçants, d'artisans ou d'agriculteurs. 
+sociétés membres de l'ordre, soit des chambres de commerce et d'industrie territoriales, des chambres de métiers et de
+l'artisanat de région ou des chambres d'agriculture, soit des organisations professionnelles légalement constituées
+d'industriels, de commerçants, d'artisans ou d'agriculteurs. 
 
 Les organisations professionnelles mentionnées au premier alinéa comprennent les syndicats professionnels et leurs unions
 institués conformément aux dispositions des articles L. 2111-1 et suivants du code du travail et les associations
@@ -19254,7 +19254,8 @@ Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordon
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
 
 	**Cité par**:
 
@@ -19496,30 +19497,30 @@ Après s'être assuré que le dossier est complet, le directeur des services fis
 
 ###### Article 371 G
 
-La décision d'agrément est prise par une commission instituée au chef-lieu de région.
+La décision d'agrément est prise par une commission instituée au chef-lieu de région. 
 
 Cette commission, placée sous la présidence du directeur chargé de la direction des services fiscaux située au chef-lieu de
 la région dans laquelle le centre a son siège, ou du directeur chargé de la direction spécialisée des impôts pour la région
-d'Ile-de-France et pour Paris lorsque le siège du centre se situe dans la région d'Ile-de-France, comprend également :
+d'Ile-de-France et pour Paris lorsque le siège du centre se situe dans la région d'Ile-de-France, comprend également : 
 
-a. un fonctionnaire des services fiscaux ;
+a. un fonctionnaire des services fiscaux ; 
 
-b. un représentant du ministre chargé de l'industrie ;
+b. un représentant du ministre chargé de l'industrie ; 
 
-c. un représentant du ministre chargé du commerce et de l'artisanat ;
+c. un représentant du ministre chargé du commerce et de l'artisanat ; 
 
-d. un membre de l'ordre des experts-comptables désigné par le conseil régional de l'ordre ;
+d. un membre de l'ordre des experts-comptables désigné par le conseil régional de l'ordre ; 
 
-e. un industriel, un commerçant et un artisan désignés respectivement par le président de la chambre régionale de commerce et
-d'industrie et par le président de la chambre régionale de métiers et de l'artisanat.
+e. un industriel, un commerçant et un artisan désignés respectivement par le président de la       chambre de commerce et
+d'industrie de région et par le président de la chambre régionale de métiers et de l'artisanat. 
 
 Lorsque la demande d'agrément est présentée par un centre de gestion apportant son assistance principalement aux
 agriculteurs, les représentants du ministre chargé de l'industrie et du ministre chargé du commerce et de l'artisanat sont
 remplacés par deux représentants du ministre de l'agriculture et les trois représentants de la profession sont désignés parmi
 les exploitants agricoles de la région par le président de la chambre régionale d'agriculture, au vu d'une liste de six noms
-présentée par chacune des fédérations départementales de syndicats d'exploitants agricoles de la région.
+présentée par chacune des fédérations départementales de syndicats d'exploitants agricoles de la région. 
 
-Des suppléants du président et des autres membres sont nommés dans les mêmes conditions que les titulaires.
+Des suppléants du président et des autres membres sont nommés dans les mêmes conditions que les titulaires. 
 
 En cas de partage égal des voix, la voix du président de la commission est prépondérante.
 
@@ -19527,16 +19528,13 @@ En cas de partage égal des voix, la voix du président de la commission est pr�
 
 	**Modifié par**:
 
-	  - Décret n°2005-1253 du 4 octobre 2005 - art. 1 () JORF 6 octobre 2005
+	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 I (Ab)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 ID (P)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 H
