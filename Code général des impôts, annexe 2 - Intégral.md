@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18071,6 +18071,30 @@ Les modalités techniques d'application du présent article sont fixées par arr
 ### Titre II : Impositions départementales
 
 #### Chapitre premier : Impôts directs et taxes assimilées
+
+##### I bis : Cotisation sur la valeur ajoutée des entreprises
+
+###### Article 317 septies E
+
+Les entreprises de navigation aérienne et maritime qui exercent conjointement des activités en France et à l'étranger sont
+assujetties à la cotisation sur la valeur ajoutée des entreprises à raison de la part de la valeur ajoutée provenant des
+opérations effectuées dans les limites du territoire national directement liées à l'exploitation d'aéronefs et de navires. 
+
+Sont considérées comme des opérations effectuées dans les limites du territoire national celles dont le point de départ et le
+point d'arrivée sont situés en France. Les points de départ et d'arrivée s'entendent des embarquements et débarquements. 
+
+La part de la valeur ajoutée imposable mentionnée au premier alinéa est proportionnelle à la part, dans les recettes totales
+hors taxes de l'entreprise afférentes aux opérations directement liées à l'exploitation d'aéronefs et de navires armés au
+commerce, des recettes provenant de celles de ces opérations qui sont effectuées dans les limites du territoire national.
+Toutefois, lorsque le trafic assuré par l'entreprise est majoritairement en provenance ou à destination de la France, la
+proportion retenue ne peut être inférieure au dixième.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-27 du 6 janvier 2011 - art. 1
+
 
 ##### II : Redevance départementale des mines
 
