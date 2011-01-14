@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-01-09
+Version Consolidée au 2011-01-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8447,18 +8447,15 @@ La décision conjointe des ministres chargés de la culture et du budget est not
 avec demande d'avis de réception, dans les trois mois suivant la présentation de l'offre. A défaut de notification d'une
 décision dans ce délai, l'offre est réputée rejetée.
 
-Lorsque l'offre est acceptée, l'entreprise procède au versement auprès de l'agent comptable de la Réunion des musées
-nationaux, dans les conditions définies par la décision. Il en est délivré récépissé.
+Lorsque l'offre est acceptée, l'entreprise procède au versement auprès de l'agent comptable de l'Etablissement public de la
+Réunion des musées nationaux et du Grand Palais des Champs-Elysées, dans les conditions définies par la décision. Il en est
+délivré récépissé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
+	  - Décret n°2011-52 du 13 janvier 2011 - art. 27 (V)
 
 
 ###### Article 171 BD
