@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-01-15
+Version Consolidée au 2011-02-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11919,19 +11919,21 @@ e. chinchards de l'espèce Trachurus spp ;
 
 f. anchois de l'espèce Engraulis spp ;
 
-g. picarels de l'espèce Maena smaris.
+g. picarels de l'espèce Maena smaris ;
+
+h. Sprat de l'espèce Sprattus sprattus.
 
 Pour l'application de ces dispositions, un lot s'entend de la quantité de poissons d'une ou plusieurs des espèces
 susmentionnées, déchargée du même navire, et achetée ou réceptionnée par la même personne.
 
 III. - Les personnes redevables de la redevance sanitaire de première mise sur le marché des produits de la pêche ou de
-l'aquaculture doivent déposer mensuellement une déclaration conforme au modèle prescrit par la direction générale des impôts
-et comportant les indications nécessaires à l'assiette et à la perception de cette redevance.
+l'aquaculture doivent déposer mensuellement une déclaration conforme au modèle prescrit par la direction générale des
+finances publiques et comportant les indications nécessaires à l'assiette et à la perception de cette redevance.
 
 Cette déclaration est souscrite auprès du service des impôts dont relève le redevable pour le dépôt de ses déclarations de
 taxes sur le chiffre d'affaires. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les
 opérations imposables ont été réalisées. La redevance est acquittée dans le même délai. Toutefois, lorsque le montant annuel
-de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis que les redevables déposent leurs
+de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 €, il est admis que les redevables déposent leurs
 déclarations et s'acquittent de la redevance avant le 25 du mois suivant chaque trimestre civil.
 
 IV. - Les saisies pratiquées par les services d'inspection sanitaire ainsi que les exportations ou les expéditions vers les
@@ -11947,21 +11949,17 @@ de transformation ultérieures sur les produits.
 
 	  - CGI 302 bis WA, 302 bis WB
 
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2006-356 du 24 mars 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-168 du 10 février 2011 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 quaterdecies-0 A (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 267 quater G
