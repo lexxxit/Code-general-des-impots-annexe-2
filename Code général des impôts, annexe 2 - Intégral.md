@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-05-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12977,28 +12977,18 @@ tels que définis aux articles 275 B à 275 G.
 
 ###### Article 275 B
 
-Sont considérés comme cigares ou cigarillos, s'ils sont susceptibles d'être fumés en l'état :
+Sont considérés comme cigares ou cigarillos, s'ils peuvent être fumés en l'état et, compte tenu de leurs caractéristiques et
+des attentes normales des consommateurs, sont exclusivement destinés à l'être : 
 
-1° Les rouleaux de tabac constitués entièrement de tabac naturel ;
+1° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ; 
 
-2° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ;
-
-3° Les rouleaux de tabac remplis d'un mélange battu et munis d'une cape extérieure, de la couleur normale des cigares,
-couvrant entièrement le produit, y compris le filtre le cas échéant - mais non l'embout dans le cas des cigares avec embout -
-et d'une sous-cape, toutes deux en tabac reconstitué, lorsque leur masse unitaire, sans filtre ni embout, est égale ou
-supérieure à 1,2 gramme et que la cape est apposée en hélice avec un angle aigu minimal de trente degrés par rapport à l'axe
-longitudinal du cigare ;
-
-4° Les rouleaux de tabac remplis d'un mélange battu et munis d'une cape extérieure en tabac reconstitué, de la couleur
-normale des cigares, couvrant entièrement le produit, y compris le filtre le cas échéant - mais non l'embout dans le cas des
-cigares avec embout - lorsque leur masse unitaire, sans filtre ni embout, est égale ou supérieure à 2,3 grammes et que leur
-circonférence est égale ou supérieure à trente-quatre millimètres sur au moins un tiers de leur longueur.
+2° Les rouleaux de tabac remplis d'un mélange battu et munis d'une cape extérieure en tabac reconstitué, de la couleur
+normale des cigares, couvrant entièrement le produit, y compris le filtre le cas échéant-mais non l'embout dans le cas des
+cigares avec embout-lorsque leur masse unitaire, sans filtre ni embout, est égale ou supérieure à 2,3 grammes et égale ou
+inférieure à 10 grammes et que leur circonférence est égale ou supérieure à trente-quatre millimètres sur au moins un tiers
+de leur longueur.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2002-1419 du 2 décembre 2002 - art. 1 () JORF 7 décembre 2002
 
 	**Cité par**:
 
@@ -13009,102 +12999,99 @@ circonférence est égale ou supérieure à trente-quatre millimètres sur au mo
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - Décret n°2011-500 du 4 mai 2011 - art. 1
 
 
 ###### Article 275 C
 
 Les produits constitués partiellement de substances autres que le tabac et répondant aux autres critères de l'article 275 B
-sont considérés comme cigares ou cigarillos à condition toutefois qu'ils soient munis :
+sont considérés comme cigares ou cigarillos. 
 
-D'une cape en tabac naturel ;
+Les produits constitués exclusivement ou partiellement de substances autres que le tabac mais répondant aux autres critères
+de l'article 275 D sont considérés comme des cigarettes. 
 
-Ou d'une cape et d'une sous-cape, toutes deux en tabac reconstitué ;
+Les produits constitués exclusivement ou partiellement de substances autres que le tabac mais répondant aux autres critères
+de l'article 275 E sont considérés comme des tabacs fine coupe destinés à rouler les cigarettes. 
 
-Ou d'une cape en tabac reconstitué.
+Les produits constitués exclusivement ou partiellement de substances autres que le tabac mais répondant aux autres critères
+de l'article 275 E bis sont considérés comme des tabacs à fumer.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°2011-500 du 4 mai 2011 - art. 2
+
 	**Cite**:
 
-	  - CGIAN2 275 B
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 B
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
 
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Créé par**:
-
-	  - Décret n°82-553 du 29 juin 1982 - art. 4 (V) JORF 1er juillet 1982
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er septembre 1982
-
 
 ###### Article 275 D
 
 Sont considérés comme cigarettes les rouleaux de tabac susceptibles d'être fumés en l'état qui ne sont ni des cigares ou des
 cigarillos tels qu'ils sont définis à l'article 275 B ni des produits qui sont assimilés à ceux-ci en vertu de l'article 275
-C.
+C. 
 
 Un rouleau de tabac visé au premier alinéa est considéré, pour l'application du droit de consommation prévu aux articles 575
 et 575 A du code général des impôts, comme deux cigarettes lorsqu'il a une longueur, filtre et embout non compris, supérieure
-à 9 centimètres sans dépasser 18 centimètres, comme trois cigarettes lorsqu'il a une longueur, filtre et embout non compris,
-supérieure à 18 centimètres sans dépasser 27 centimètres et ainsi de suite.
+à 8 centimètres sans dépasser 11 centimètres, comme trois cigarettes lorsqu'il a une longueur, filtre et embout non compris,
+supérieure à 11 centimètres sans dépasser 14 centimètres et ainsi de suite. 
 
 Sont également considérés comme cigarettes les rouleaux de tabac qui, par une simple manipulation non industrielle, sont
 glissés dans des tubes à cigarettes ou enveloppés dans des feuilles de papier à cigarettes.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 575, 575 A
-	  - CGIAN2 275 B, 275 C
-
 	**Modifié par**:
 
-	  - Décret n°93-424 du 18 mars 1993 - art. 3 () JORF 24 mars 1993
+	  - Décret n°2011-500 du 4 mai 2011 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 B
+	  - Code général des impôts, CGI. - art. 575
+	  - Code général des impôts, CGI. - art. 575 A
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 C (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
 
 ###### Article 275 E
 
-Sont considérés comme tabacs fine coupe destinés à rouler les cigarettes :
+Sont considérés comme tabacs fine coupe destinés à rouler les cigarettes : 
 
 1° Le tabac coupé ou fractionné d'une autre façon, filé ou pressé en plaques, qui est susceptible d'être fumé sans
 transformation industrielle ultérieure pour lequel plus de 25 % en poids des particules de tabac présentent une largeur de
-coupe inférieure à 1 millimètre ;
+coupe inférieure à 1,5 millimètre ; 
 
 2° Les déchets de tabac conditionnés pour la vente au détail, qui ne relèvent pas des articles 275 B, 275 C et 275 D, qui
 sont susceptibles d'être fumés et pour lesquels plus de 25 % en poids des particules de tabac présentent une largeur de coupe
-inférieure à 1 millimètre.
+inférieure à 1,5 millimètre.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 275 B, 275 C, 275 D, 275 E bis
-
 	**Modifié par**:
 
-	  - Décret n°2002-1419 du 2 décembre 2002 - art. 2 () JORF 7 décembre 2002
+	  - Décret n°2011-500 du 4 mai 2011 - art. 4
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 B
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D
 
 	**Cité par**:
 
@@ -13112,44 +13099,53 @@ inférieure à 1 millimètre.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E bis (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E ter (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-
 
 ###### Article 275 E bis
 
-Sont considérés comme autres tabacs à fumer :
+Sont considérés comme autres tabacs à fumer : 
 
 1° Le tabac coupé ou fractionné d'une autre façon, filé ou pressé en plaques, qui est susceptible d'être fumé en l'état sans
 transformation industrielle ultérieure, pour lequel 75 % au moins en poids des particules de tabac présentent une largeur de
-coupe supérieure ou égale à 1 millimètre ;
+coupe supérieure ou égale à 1,5 millimètre ; 
 
 2° Les déchets de tabac conditionnés pour la vente au détail, pour lesquels 75 % au moins en poids des particules de tabac
-présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
+présentent une largeur de coupe supérieure ou égale à 1,5 millimètre ; 
 
-3° Alinéa supprimé.
+3° Alinéa supprimé. 
 
 4° Le tabac susceptible d'être fumé en l'état, sans transformation industrielle ultérieure, autre que celui mentionné aux 1°
 et 2° et à l'article 275 E, quel que soit son mode de présentation.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 275 E
-
 	**Modifié par**:
 
-	  - Décret n°2002-1419 du 2 décembre 2002 - art. 3 () JORF 7 décembre 2002
+	  - Décret n°2011-500 du 4 mai 2011 - art. 5
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E ter (V)
 
-	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+###### Article 275 E ter
+
+Aux fins des articles 275 E et 275 E bis, les déchets de tabac sont réputés être des restes de feuilles de tabac et des sous-
+produits obtenus dans le cadre du traitement du tabac ou de la fabrication des produits du tabac.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-500 du 4 mai 2011 - art. 6
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 E bis
 
 
 ###### Article 275 F
