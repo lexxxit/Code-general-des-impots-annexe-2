@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-05-23
+Version Consolidée au 2011-06-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4462,6 +4462,8 @@ ne répondent pas aux conditions du 5° du 1 de l'article 39 du code général d
 
 
 ##### Section I bis : Bénéfices réalisés par l'intermédiaire de sociétés établies dans des pays à régime fiscal privilégié
+
+##### Section I bis : Bénéfices réalisés par l'intermédiaire d'entités juridiques établies dans des pays à régime fiscal privilégié
 
 ###### Article 102 SA
 
@@ -15335,6 +15337,8 @@ service des impôts du domicile du défunt.
 
 ##### I : Timbre de dimension
 
+##### I. Timbre de dimension : prescriptions et prohibitions 
+
 ###### Article 302
 
 Indépendamment des mentions prescrites par l'article 67 du code de procédure civile, les huissiers sont tenus d'indiquer
@@ -16640,6 +16644,8 @@ répartition.
 
 
 ##### VI : Etablissement de la taxe
+
+##### VI : Etablissement de la cotisation
 
 ###### Article 310 HP
 
