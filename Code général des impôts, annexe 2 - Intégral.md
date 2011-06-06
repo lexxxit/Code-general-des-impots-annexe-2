@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-06-01
+Version Consolidée au 2011-06-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4460,8 +4460,6 @@ ne répondent pas aux conditions du 5° du 1 de l'article 39 du code général d
 
 	  - Code général des impôts, CGI. - art. 39 (V)
 
-
-##### Section I bis : Bénéfices réalisés par l'intermédiaire de sociétés établies dans des pays à régime fiscal privilégié
 
 ##### Section I bis : Bénéfices réalisés par l'intermédiaire d'entités juridiques établies dans des pays à régime fiscal privilégié
 
@@ -9601,6 +9599,8 @@ cession, ou volés, et qu'il est justifié de cette destruction ou de ce vol.
 
 ##### a : Dispositions applicables aux entreprises qui sont assujetties à la taxe sur la valeur ajoutée pour l'ensemble de leurs activités.
 
+##### a : Obligations déclaratives et comptables
+
 ###### Article 208
 
 I. - Le montant de la taxe déductible doit être mentionné sur les déclarations déposées pour le paiement de la taxe sur la
@@ -10508,6 +10508,12 @@ demandé au titre d'une année ou d'un trimestre.
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z quater
 
+
+##### 2 ter : Remboursement de la taxe aux assujettis non établis en France
+
+##### A : Assujettis établis dans l'Union européenne
+
+##### B : Assujettis établis hors de l'Union européenne
 
 ##### 3 : Régime suspensif
 
@@ -15335,8 +15341,6 @@ service des impôts du domicile du défunt.
 
 ##### Section I : Droits de timbre proprement dits
 
-##### I : Timbre de dimension
-
 ##### I. Timbre de dimension : prescriptions et prohibitions 
 
 ###### Article 302
@@ -15575,6 +15579,18 @@ compter du 8 juin 2015 (8 juin 2020).
 
 	  - HISTO: Edition du 1er janvier 2006
 
+
+### Titre IV : Enregistrement, publicité foncière, Impôt de solidarité sur la fortune, timbre
+
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière
+
+#### Chapitre Ier bis : Impôt de solidarité sur la fortune
+
+#### Chapitre II : Droits de timbre
+
+#### Chapitre III : Autres droits et taxes
+
+#### Chapitre IV : Régimes spéciaux et exonérations de portée générale
 
 ### Titre V : Dispositions communes aux titres Ier, II et IV
 
@@ -16643,8 +16659,6 @@ répartition.
 	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-##### VI : Etablissement de la taxe
-
 ##### VI : Etablissement de la cotisation
 
 ###### Article 310 HP
@@ -16676,6 +16690,22 @@ est souscrite par l'ancien exploitant.
 
 
 ##### VII : Annualité de la taxe
+
+##### Section II : Cotisation foncière des entreprises
+
+##### I : Dispositions générales
+
+##### II : Exonérations
+
+##### III : Base d'imposition
+
+##### IV : Disposition transitoire
+
+##### V : Répartition des bases
+
+##### VI : Etablissement de la cotisation
+
+##### VII : Annualité de la cotisation
 
 ###### Article 310 HS
 
@@ -18306,6 +18336,8 @@ Il dispose à cet effet des services déconcentrés chargés des mines, qui peuv
 #### Chapitre premier : Impôts directs et taxes assimilées
 
 ##### Section IV : Taxe pour frais de chambres de métiers.
+
+##### Section IV : Taxe pour frais de chambres de métiers et de l'artisanat
 
 ###### Article 321 bis
 
@@ -22394,6 +22426,8 @@ Celle-ci statue dans les conditions prévues au chapitre Ier du même décret.
 
 
 ### Section II : Redressement judiciaire.
+
+### Section II : Procédure de sauvegarde ou de redressement judiciaire.
 
 ###### Article 396 bis A
 
