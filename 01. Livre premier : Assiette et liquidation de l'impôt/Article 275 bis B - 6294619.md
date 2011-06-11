@@ -1,7 +1,7 @@
 # Article 275 bis B
 
-Les professionnels, notamment les fabricants, importateurs, acquéreurs intracommunautaires, commissaires-priseurs,
-responsables d'un crédit municipal ou d'une société de ventes volontaires de meubles aux enchères publiques et
+Les professionnels, notamment les fabricants, importateurs, acquéreurs intracommunautaires, commissaires-priseurs
+judiciaires, responsables d'un crédit municipal ou d'une société de ventes volontaires de meubles aux enchères publiques et
 commissionnaires en garantie qui souhaitent être habilités à apposer eux-mêmes les poinçons de titre de la garantie sur les
 ouvrages en métaux précieux qu'ils produisent ou sur les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon
 de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace
@@ -13,6 +13,10 @@ demande le cahier des charges mentionné à l'article 275 bis C.
 
 Lorsque le dossier de candidature est complet, le directeur régional des douanes et droits indirects en délivre récépissé. Le
 rejet de la demande d'habilitation est motivé.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 29 de la loi n° 2000-642 du 10 juillet 2000.
 
 **Liens relatifs à cet article**
 
@@ -28,8 +32,4 @@ rejet de la demande d'habilitation est motivé.
 
 	**Modifié par**:
 
-	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2

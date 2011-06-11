@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-06-07
+Version Consolidée au 2011-06-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -929,66 +929,43 @@ l'attestation et du plan d'installation mentionnés respectivement au I et au II
 
 ##### 9 : Contrôle des frais généraux - Obligations des entreprises
 
-###### Article 33
-
-L'administration peut demander à l'entreprise de justifier que les dépenses visées à l'article 54 quater du code général des
-impôts sont nécessitées par sa gestion :
-
-1° Lorsqu'elles excèdent le montant des bénéfices imposables de l'exercice ;
-
-2° Lorsqu'elles augmentent dans une proportion supérieure à celle de ces bénéfices.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 54 quater
-
-	**Modifié par**:
-
-	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
-
-	**Liens**:
-
-	  - DISJONCTION: Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
-
-
 ###### Article 34
 
-Les bénéfices imposables visés à l'article 33 sont déterminés en faisant abstraction :
+Les bénéfices imposables mentionnés au dixième alinéa du 5 de l'article 39 du code général des impôts sont déterminés en
+faisant abstraction : 
 
-a. Des plus-values ou moins-values provenant de la cession des éléments de l'actif immobilisé ;
+a. Des plus-values ou moins-values provenant de la cession des éléments de l'actif immobilisé ; 
 
 b. Des déficits reportables des exercices antérieurs.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 33
-
 	**Modifié par**:
 
-	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 (V)
 
 
 ###### Article 35
 
-La comparaison prévue au 2° de l'article 33 est faite par référence à l'exercice qui précède immédiatement celui au cours
-duquel les dépenses litigieuses ont été exposées.
+La comparaison prévue au dixième alinéa du 5 de l'article 39 du code général des impôts est faite par référence à l'exercice
+qui précède immédiatement celui au cours duquel les dépenses litigieuses ont été exposées. 
 
 Lorsque les deux exercices ont une durée différente, les chiffres afférents à l'exercice de référence sont ajustés au prorata
 de la durée de l'exercice pour lequel la comparaison est effectuée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 33
-
 	**Modifié par**:
 
-	  - Décret n°96-632 du 16 juillet 1996 - art. 1 () JORF 18 juillet 1996
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 (V)
 
 
 ###### Article 36
@@ -6154,27 +6131,27 @@ effectuée par année.
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 7 491 euros et 14 960 euros et le taux de 9,35 % à la fraction excédant 14 960 euros,
-et en multipliant le chiffre ainsi déterminé par le rapport qui existe entre le montant de la rémunération qui a été payée
-pendant la période d'application de la majoration et le montant total de la rémunération annuelle. 
+l'année civile, qui est comprise entre 7 604 € et 15 185 € et le taux de 9,35 % à la fraction excédant 15 185 €, et en
+multipliant le chiffre ainsi déterminé par le rapport qui existe entre le montant de la rémunération qui a été payée pendant
+la période d'application de la majoration et le montant total de la rémunération annuelle. 
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
 a bénéficié au cours de la période d'application de la majoration les taux de : 
 
-4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 491 euros et 14 960 euros ; 
+4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 604 € et 15 185 € ; 
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 14 960 euros.
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 15 185 €.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 18-I-1° de
-la loi n° 2009-1673 du 30 décembre 2009.
+Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 2-I (1°) de
+la loi n° 2010-1657 du 29 décembre 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
@@ -6191,22 +6168,22 @@ la loi n° 2009-1673 du 30 décembre 2009.
 La déclaration des traitements et salaires que les employeurs sont tenus de souscrire en exécution des dispositions de
 l'article 87 du code général des impôts doit, pour ceux d'entre eux qui sont redevables en totalité ou partiellement de la
 taxe sur les salaires, faire ressortir distinctement, pour chaque bénéficiaire dont la rémunération individuelle annuelle a
-excédé 7 491 euros, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de
-la majoration de la taxe sur les salaires. 
+excédé 7 604 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
+majoration de la taxe sur les salaires. 
 
 Elle doit comporter, en outre, l'indication du montant des compléments de droits acquittés en application de l'article 142 à
 raison des rémunérations payées pendant cette même période.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 18-I-1° de
-la loi n° 2009-1673 du 30 décembre 2009.
+Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 2-I (1°) de
+la loi n° 2010-1657 du 29 décembre 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
@@ -9344,7 +9321,7 @@ redevable de chacun de ces biens et services pour déterminer leur valeur d'util
 entre, au numérateur, la somme des valeurs d'utilisation ainsi déterminées et, au dénominateur, le montant total de la valeur
 d'acquisition de ces biens et services. 
 
-IV.-1. Le coefficient d'admission d'un bien ou d'un service est égal à l'unité, sauf dans les cas décrits aux 2 à 4. 
+IV.-1. Le coefficient d'admission d'un bien ou d'un service est égal à l'unité, sauf dans les cas décrits aux 2 à 4.
 
 2. Le coefficient d'admission est nul dans les cas suivants : 
 
@@ -9393,22 +9370,22 @@ transports ;
 a. Pour les essences utilisées comme carburants mentionnées au tableau B de l'article 265 du code des douanes, à l'exception
 de celles utilisées pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ; 
 
-b. Pour les carburéacteurs mentionnés à la position 27. 10. 00 du tableau B de l'article 265 du code des douanes utilisés
-pour les aéronefs et engins mentionnés au premier alinéa du 6° ; 
+b. Pour les carburéacteurs mentionnés à la position 27.10.00 du tableau B de l'article 265 du code des douanes utilisés pour
+les aéronefs et engins mentionnés au premier alinéa du 6° ; 
 
 c. Pour les produits pétroliers utilisés pour la lubrification des véhicules et engins mentionnés au premier alinéa du 6° ; 
 
 9° Pour les biens acquis ou construits ainsi que les services acquis dont la valeur d'achat, de construction ou de livraison
-à soi-même est prise en compte pour l'application des dispositions du e du 1 ou du sixième alinéa du 2 de l'article 266 du
-code général des impôts ainsi que de l'article 297 A du code général des impôts ; 
+à soi-même est prise en compte pour l'application des dispositions du e du 1 de l'article 266 du code général des impôts
+ainsi que de l'article 297 A du code général des impôts ; 
 
 10° Pour les prestations de services de toute nature, notamment la location, afférentes aux biens dont le coefficient
 d'admission est nul en application des dispositions du 1° au 8°. 
 
 3. Le coefficient d'admission est égal à 0,5 pour les gaz de pétrole et autres hydrocarbures présentés à l'état gazeux
-(position 27. 11. 29 du tarif des douanes) et le pétrole lampant (position 27. 10. 19. 25 du tarif des douanes) utilisés
-comme carburants, lorsque ces produits sont utilisés pour des véhicules et engins mentionnés au premier alinéa du 6° du 2 et
-pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers. 
+(position 27.11.29 du tarif des douanes) et le pétrole lampant (position 27.10.19.25 du tarif des douanes) utilisés comme
+carburants, lorsque ces produits sont utilisés pour des véhicules et engins mentionnés au premier alinéa du 6° du 2 et pour
+autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers. 
 
 4. Le coefficient d'admission est égal à 0,8 pour les gazoles et le superéthanol E 85 mentionnés au tableau B de l'article
 265 du code des douanes utilisés comme carburants pour des véhicules et engins mentionnés au premier alinéa du 6° du 2, à
@@ -9430,7 +9407,7 @@ sur la valeur ajoutée en cours d'année.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
@@ -9442,10 +9419,9 @@ sur la valeur ajoutée en cours d'année.
 
 	**Cite**:
 
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 205 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 209
-	  - Code général des impôts, CGI. - art. 205
 	  - Code général des impôts, CGI. - art. 256
-	  - Code général des impôts, CGI. - art. 257
 	  - Code général des impôts, CGI. - art. 266
 	  - Code des douanes - art. 265
 	  - Code de la santé publique - art. L3323-2
@@ -9597,8 +9573,6 @@ cession, ou volés, et qu'il est justifié de cette destruction ou de ce vol.
 
 ##### C : Dispositions diverses
 
-##### a : Dispositions applicables aux entreprises qui sont assujetties à la taxe sur la valeur ajoutée pour l'ensemble de leurs activités.
-
 ##### a : Obligations déclaratives et comptables
 
 ###### Article 208
@@ -9641,7 +9615,7 @@ Sont constitués en secteurs d'activité :
 1° Chaque immeuble ou ensemble d'immeubles ou fraction d'immeuble dont la livraison à soi-même est imposable en application
 du II de l'article 278 sexies du code général des impôts ou dans lequel sont réalisés des travaux d'amélioration, de
 transformation ou d'aménagement de logement dont les livraisons à soi-même sont imposables en application du b du 1° du 3 du
-I de l'article 257 ; 
+I de l'article 257 du même code ; 
 
 2° Les immeubles, ensembles d'immeubles ou fractions d'immeubles dont la location est imposée en application du 2° de
 l'article 260 du code général des impôts ; 
@@ -9667,7 +9641,7 @@ dispositions de l'article 207.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
@@ -9962,7 +9936,7 @@ Ne peuvent prétendre au bénéfice des remboursements prévus aux articles 242-
 	  - HISTO: Edition du 24 juin 1991
 
 
-##### 2 ter : Remboursement de la taxe aux assujettis établis hors de France
+##### 2 ter : Remboursement de la taxe aux assujettis non établis en France
 
 ##### A : Assujettis établis dans l'Union européenne
 
@@ -10508,12 +10482,6 @@ demandé au titre d'une année ou d'un trimestre.
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z quater
 
-
-##### 2 ter : Remboursement de la taxe aux assujettis non établis en France
-
-##### A : Assujettis établis dans l'Union européenne
-
-##### B : Assujettis établis hors de l'Union européenne
 
 ##### 3 : Régime suspensif
 
@@ -11713,14 +11681,21 @@ Les facultés prévues au 1 du V de l'article 206 s'exercent par période d'impo
 
 ###### Article 263
 
-Sous réserve des dispositions de l'article 264 le remboursement forfaitaire est liquidé sur le montant net des encaissements
-correspondant aux ventes ou aux livraisons qui ouvrent droit à ce remboursement.
+Sous réserve des dispositions de l'article 264 (1) le remboursement forfaitaire est liquidé sur le montant net des
+encaissements correspondant aux ventes ou aux livraisons qui ouvrent droit à ce remboursement.
+
+**Nota:**
+
+(1) Les mots : "Sous réserve des dispositions de l'article 264" deviennent sans objet.
+
+Modification effectuée en conséquence de l'article 1
+  <sup>er</sup> (L) du décret 2010-1075 du 10 septembre 2010
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN2 264
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 
 ###### Article 265
@@ -11738,7 +11713,7 @@ et du versement du solde.
 ###### Article 266
 
 I. Pour obtenir le remboursement forfaitaire, l'exploitant agricole doit établir une déclaration annuelle des encaissements
-déterminés comme il est dit aux articles 263 et 264 et perçus au cours de l'année écoulée.
+déterminés comme il est dit à l'article 263 et perçus au cours de l'année écoulée.
 
 Cette déclaration doit mentionner à part les livraisons en France, les livraisons donnant lieu à expédition ou transport dans
 un autre Etat membre de la Communauté européenne à destination d'assujettis ou de personnes morales non assujetties qui
@@ -11755,31 +11730,27 @@ Des doubles des factures relatives aux livraisons de produits agricoles expédi�
 la communauté.
 
 II. La déclaration prévue au I est formulée sur les imprimés établis par l'administration et adressée au service des impôts
-dont relève l'exploitant agricole intéressé pour l'application du I et des articles 263 à 265.
+dont relève l'exploitant agricole intéressé pour l'application du I et des articles 263 et 265.
 
 (1) Voir toutefois Annexe III, art. 98 bis.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er (L) du décret 2010-1075 du 10 septembre 2010
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 263, 264, 263 à 265
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
 
 	**Codifié par**:
 
-	  - Décret n°2005-330 2005-04-06
+	  - Décret n°2005-330 du 6 avril 2005
+
+	**Modifié par**:
+
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 98 bis (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 267 bis
@@ -12353,8 +12324,8 @@ vigueur, au besoin après distillation ou toute opération donnant des résultat
 
 ###### Article 275 bis B
 
-Les professionnels, notamment les fabricants, importateurs, acquéreurs intracommunautaires, commissaires-priseurs,
-responsables d'un crédit municipal ou d'une société de ventes volontaires de meubles aux enchères publiques et
+Les professionnels, notamment les fabricants, importateurs, acquéreurs intracommunautaires, commissaires-priseurs
+judiciaires, responsables d'un crédit municipal ou d'une société de ventes volontaires de meubles aux enchères publiques et
 commissionnaires en garantie qui souhaitent être habilités à apposer eux-mêmes les poinçons de titre de la garantie sur les
 ouvrages en métaux précieux qu'ils produisent ou sur les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon
 de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace
@@ -12366,6 +12337,10 @@ demande le cahier des charges mentionné à l'article 275 bis C.
 
 Lorsque le dossier de candidature est complet, le directeur régional des douanes et droits indirects en délivre récépissé. Le
 rejet de la demande d'habilitation est motivé.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 29 de la loi n° 2000-642 du 10 juillet 2000.
 
 **Liens relatifs à cet article**
 
@@ -12381,11 +12356,7 @@ rejet de la demande d'habilitation est motivé.
 
 	**Modifié par**:
 
-	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 
 ###### Article 275 bis C
@@ -14475,7 +14446,7 @@ Modifications effectuées en conséquence de l'article 78-II et V de la loi n°2
 	  - Décret n°2009-389 du 7 avril 2009 - art. 2
 
 
-### Titre IV : Enregistrement, publicité foncière, timbre
+### Titre IV : Enregistrement, publicité foncière, Impôt de solidarité sur la fortune, timbre
 
 #### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière
 
@@ -15580,18 +15551,6 @@ compter du 8 juin 2015 (8 juin 2020).
 	  - HISTO: Edition du 1er janvier 2006
 
 
-### Titre IV : Enregistrement, publicité foncière, Impôt de solidarité sur la fortune, timbre
-
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière
-
-#### Chapitre Ier bis : Impôt de solidarité sur la fortune
-
-#### Chapitre II : Droits de timbre
-
-#### Chapitre III : Autres droits et taxes
-
-#### Chapitre IV : Régimes spéciaux et exonérations de portée générale
-
 ### Titre V : Dispositions communes aux titres Ier, II et IV
 
 #### Chapitre unique : Suspension des avantages fiscaux attachés aux dons, legs et versements effectués au profit de certains organismes
@@ -15960,7 +15919,7 @@ II. (Sans objet).
 	  - Code général des impôts, CGI. - art. 1411 (V)
 
 
-##### Section II : Taxe professionnelle
+##### Section II : Cotisation foncière des entreprises
 
 ##### I : Dispositions générales
 
@@ -16688,22 +16647,6 @@ est souscrite par l'ancien exploitant.
 
 	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
 
-
-##### VII : Annualité de la taxe
-
-##### Section II : Cotisation foncière des entreprises
-
-##### I : Dispositions générales
-
-##### II : Exonérations
-
-##### III : Base d'imposition
-
-##### IV : Disposition transitoire
-
-##### V : Répartition des bases
-
-##### VI : Etablissement de la cotisation
 
 ##### VII : Annualité de la cotisation
 
@@ -18316,26 +18259,24 @@ justificatifs attestant de la réalisation effective des investissements qui ont
 ###### Article 318 D
 
 Le représentant de l'Etat dans le département contrôle la réalisation et le bon emploi des investissements mentionnés à
-l'article 318 C de l'annexe II au code général des impôts. 
+l'article 318 C.
 
 Il dispose à cet effet des services déconcentrés chargés des mines, qui peuvent opérer des vérifications sur place.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-152 du 17 février 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 318 C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 318 C
 
 
 ### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers
 
 #### Chapitre premier : Impôts directs et taxes assimilées
-
-##### Section IV : Taxe pour frais de chambres de métiers.
 
 ##### Section IV : Taxe pour frais de chambres de métiers et de l'artisanat
 
@@ -18610,174 +18551,116 @@ Modification effectuée en conséquence de l'art. 47-II [4°] de la loi n° 2013
 
 ###### Article 322
 
-Conformément à l'article R. 421-27 du code des assurances, les contributions prévues pour l'alimentation du fonds de garantie
-créé au profit des victimes d'accidents d'automobile et prévu à l'article 1628 quater du code général des impôts sont assises
-et recouvrées dans les conditions suivantes :
+Les contributions prévues pour l'alimentation du fonds de garantie mentionné au I de l'article 1628 quater du code général
+des impôts sont assises et recouvrées conformément aux dispositions de l'article R. 421-27 du code des assurances.
 
-1° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
-et rappels compris et annulations déduites, relatives à l'assurance des véhicules terrestres à moteur et des remorques ou
-semi-remorques des véhicules lorsque le risque est situé sur le territoire de la République française. Elle est liquidée et
-recouvrée par le fonds de garantie qui peut prévoir le versement d'acomptes ;
+**Nota:**
 
-2° La contribution des responsables d'accidents causés par l'utilisation des véhicules définis au 1°, non bénéficiaires d'une
-assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des dommages résultant de
-ces accidents.
-
-La contribution est liquidée et recouvrée par les services de la direction générale des impôts, selon les mêmes règles, sous
-les mêmes garanties et sous les mêmes sanctions qu'en matière de droits d'enregistrement. Elle est perçue sur la notification
-faite à la direction générale des impôts par le fonds de garantie.
-
-La contribution doit être acquittée dans un délai d'un mois à compter de la réclamation adressée par la direction générale
-des impôts ;
-
-3° La contribution des assurés est assise sur toutes les primes ou cotisations nettes d'annulation qu'ils versent aux
-entreprises d'assurance pour l'assurance des risques de responsabilité civile résultant d'accidents causés par les véhicules
-définis au 1°. Elle est perçue par les entreprises d'assurance et recouvrée mensuellement par le fonds de garantie. Celui-ci
-peut prévoir le versement d'acomptes.
+Modification effectuée en conséquence de l'article 62-II de la loi n° 2013-1279 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 1628 quater
-	  - Code des assurances - art. R421-27 (M)
+	  - Décret n°95-1281 du 11 décembre 1995
 
 	**Modifié par**:
 
-	  - Décret n°94-1023 du 29 novembre 1994 - art. 2 () JORF 30 novembre 1994
-	  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1628 quater
+	  - Code des assurances - art. R421-27
 
 
 ###### Article 322 A
 
-Les taux des contributions visées à l'article 322 sont fixés par arrêté du ministre chargé des assurances, dans la limite des
-montants maximaux ci-après :
+Les taux des contributions prévues pour l'alimentation du fonds de garantie mentionné au I de l'article 1628 quater du code
+général des impôts sont fixés conformément aux dispositions de l'article R. 421-28 du code des assurances.
 
-a) Contribution des entreprises d'assurances : 12 p. 100 de la totalité des charges du fonds de garantie ;
+**Nota:**
 
-b) Contribution des responsables d'accidents non assurés :
-
-10 p. 100 des indemnités restant à leur charge. Toutefois, ce taux est ramené à 5 p. 100 lorsque l'accident a été provoqué
-par un véhicule utilisé par l'État, un État étranger pour lequel a été fournie l'attestation prévue à l'article R. 211-25 du
-code des assurances, une collectivité publique, une entreprise ou un organisme bénéficiant de la dérogation à l'obligation
-d'assurance en vertu de l'article L. 211-3 du code précité. Il est également ramené à 5 p. 100 des indemnités restant à leur
-propre charge pour les bénéficiaires d'une assurance avec franchise ;
-
-c) Contribution des assurés : 2 p. 100 des primes mentionnées au 3° de l'article 322.
+Modification effectuée en conséquence de l'art. 62 II de la loi n° 2013-1279 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGIAN1 305 AB
-
-	**Cite**:
-
-	  - CGIAN2 322
-	  - Code des assurances - art. L211-3 (Ab)
-	  - Code des assurances R211-25, L211-3
+	  - Décret n°95-1281 du 11 décembre 1995
 
 	**Modifié par**:
 
-	  - Décret n°94-1023 du 29 novembre 1994 - art. 3 () JORF 30 novembre 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1628 quater
+	  - Code des assurances - art. R421-28
 
 
 ##### B : Accidents de chasse
 
 ###### Article 323
 
-Pour l'application des dispositions de l'article L421-8 du code des assurances, les contributions prévues au II de l'article
-1628 quater du code général des impôts pour l'alimentation du fonds de garantie sont assises dans les conditions suivantes :
+Les contributions prévues pour l'alimentation du fonds de garantie mentionné au II de l'article 1628 quater du code général
+des impôts sont assises et recouvrées conformément aux dispositions de l'article R. 421-38 du code des assurances.
 
-1° La contribution des sociétés d'assurances est proportionnelle aux sommes recouvrées par elles au titre de la contribution
-des assurés visée au 3° ;
+**Nota:**
 
-2° La contribution des responsables, non bénéficiaires d'une assurance, d'accidents qui donnent naissance à des dommages
-résultant d'atteinte à la personne, est assise sur le montant total des indemnités mises à leur charge à titre de réparation
-des dommages résultant de ces accidents. Sont considérées comme bénéficiaires d'une assurance au sens du présent article, les
-personnes dont la responsabilité civile résultant d'accidents de chasse ou de destruction des animaux nuisibles est couverte
-par un contrat d'assurance. En cas d'instance judiciaire la décision doit faire apparaître si le responsable est ou non
-bénéficiaire d'une assurance. La décision de justice ou la transaction doit opérer le cas échéant une ventilation entre les
-indemnités dues à titre de réparation des dommages résultant d'atteintes à la personne et celles qui sont dues à titre de
-réparation de dommages aux biens ;
-
-3° La contribution des assurés est fixée à une somme forfaitaire par personne garantie pour sa responsabilité civile
-résultant d'accidents de chasse ou de destruction des animaux nuisibles.
-
-Ces contributions sont liquidées et recouvrées selon les modalités prévues en matière d'accidents de la circulation
-automobile en application de dispositions de l'article 322.
+Modification effectuée en conséquence de l'art. 62 II de la loi n° 2013-1279 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 1628 quater, 322
-	  - Code des assurances - art. L421-8 (M)
-
-	**Anciens textes**:
-
-	  - CGIAN2 325
+	  - Décret n°95-1281 du 11 décembre 1995
 
 	**Modifié par**:
 
-	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-	  - Décret n°94-847 du 26 septembre 1994 - art. 6 () JORF 1er octobre 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1628 quater
+	  - Code des assurances - art. R421-38
 
 
 ###### Article 323 A
 
-Les taux et quotité des contributions visées à l'article 323 sont fixés par arrêté du ministre chargé des assurances dans la
-limite des maxima ci-après :
+Les taux des contributions prévues pour l'alimentation du fonds de garantie mentionné au II de l'article 1628 quater du code
+général des impôts sont fixés conformément aux dispositions de l'article R. 421-39 du code des assurances.
 
-a. Contribution des entreprises d'assurances : 12 % de la totalité des charges des opérations du fonds de garantie afférentes
-à la chasse et à la destruction des animaux nuisibles ;
+**Nota:**
 
-b. Contribution des responsables, non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
-personne : 10 % des indemnités restant à leur charge. Toutefois, ce taux est ramené à 5 % lorsque l'accident résulte d'une
-opération de destruction des animaux nuisibles effectuée en vertu des articles 393 à 395 du code rural ;
-
-c. Contribution des assurés : somme forfaitaire maximum de 0,38 euro par personne garantie.
+Modification effectuée en conséquence de l'art. 62 II de la loi n° 2013-1279 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN2 323
-	  - Code rural 393 à 395
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Règlement CE 1103/97 1997-06-17 art. 5 JO L162 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement CE 2866/98 1998-12-31 art. 1 JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement CE 974/98 1998-05-03 art. 14 JO L139 11 mai 1998 en vigueur le 1er janvier 2002
+	  - Code général des impôts, CGI. - art. 1628 quater
+	  - Code des assurances - art. R421-39
 
 
 ##### Section V : Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage
@@ -20533,22 +20416,22 @@ du ministre chargé du budget.
 La convention signée par le professionnel de l'expertise comptable n'est ni cessible ni transmissible. En cas de décès d'un
 expert-comptable personne physique ou d'incapacité temporaire à exercer son activité, pour l'application à ses clients des
 dispositions du b du 1° du 7 de l'article 158 du code général des impôts, l'administrateur provisoire éventuellement désigné
-devra disposer de l'autorisation et avoir conclu la convention prévues à l'article 1649 quater L du code général des impôts. 
+devra disposer de l'autorisation et avoir conclu la convention prévues l'article 1649 quater L du même code. 
 
-Lorsque l'administrateur provisoire ne satisfait pas aux conditions de l'article 1649 quater L du code général des impôts,
-les clients disposent, conformément aux dispositions de l'article 371 bis L, d'un délai de soixante jours à compter de la
-nomination de l'administrateur provisoire pour signer une nouvelle lettre de mission ou adhérer à un organisme agréé.
+Lorsque l'administrateur provisoire ne satisfait pas aux conditions de l'article 1649 quater L précité, les clients
+disposent, conformément aux dispositions de l'article 371 bis L, d'un délai de soixante jours à compter de la nomination de
+l'administrateur provisoire pour signer une nouvelle lettre de mission ou adhérer à un organisme agréé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-297 du 19 mars 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis L (V)
-	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis L
+	  - Code général des impôts, CGI. - art. 158
 	  - Code général des impôts, CGI. - art. 1649 quater L
 
 
@@ -20801,10 +20684,10 @@ système de transfert des données fiscales et comptables.
 ###### Article 371 AI
 
 Les attributions des centres de formalités des entreprises concernant la gestion du dossier unique des entreprises, les
-relations des centres avec les greffes des tribunaux de commerce et des tribunaux de grande instance ainsi que les
-obligations des centres sont établies conformément aux 
-articles R. 123-1 et R. 123-2 du code de commerce
-.
+relations des centres avec les greffes des tribunaux de commerce et des tribunaux de grande instance, avec les organismes et
+autorités compétents pour statuer sur les déclarations et les demandes d'autorisations afférentes à l'exercice de certaines
+activités ainsi que les obligations des centres sont établies conformément aux articles R. 123-1 et R. 123-2 du code de
+commerce.
 
 **Nota:**
 
@@ -20814,7 +20697,7 @@ Modifications effectuées en conséquence des articles R. 123-1 et R. 123-2 du c
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
@@ -20874,8 +20757,9 @@ Modifications effectuées en conséquence de l'article R. 123-5 du code de comme
 
 ###### Article 371 AL
 
-I.-Conformément à l'article R. 123-6 du code de commerce, les déclarations sont présentées au centre compétent en application
-de l'article 371 AJ, ou, en cas de pluralité de centres compétents, à l'un d'eux au choix du déclarant. 
+I.-Conformément à l'article R. 123-6 du code de commerce, les déclarations et les demandes d'autorisation sont présentées au
+centre compétent en application de l'article 371 AJ, ou, en cas de pluralité de centres compétents, à l'un d'eux au choix du
+déclarant. 
 
 II.-Le dossier unique est constitué conformément à l'article R. 123-7 du code de commerce et comprend les éléments mentionnés
 à ce même article.
@@ -20888,7 +20772,7 @@ Modifications effectuées en conséquence des articles R. 123-6 et R. 123-7 du c
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
@@ -20903,9 +20787,10 @@ Modifications effectuées en conséquence des articles R. 123-6 et R. 123-7 du c
 
 ###### Article 371 AM
 
-Conformément à l'article R. 123-8 du code de commerce, le centre de formalités des entreprises est réputé saisi lorsque les
-déclarations qui lui sont remises sont établies sur les formulaires homologués, signées du déclarant ou de son mandataire, et
-qu'elles comportent les éléments d'identification énoncés à ce même article.
+Conformément à l'article R. 123-8 du code de commerce, le centre de formalités des entreprises est réputé saisi du dossier
+mentionné à l'article 371 AI lorsque les déclarations établies sur les formulaires homologués, signées du déclarant ou de son
+mandataire et, le cas échéant, les demandes d'autorisations qui lui sont remises comportent les éléments d'identification
+énoncés à l'article R. 123-8 précité.
 
 **Nota:**
 
@@ -20915,7 +20800,7 @@ Modifications effectuées en conséquence de l'article R. 123-8 du code de comme
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
@@ -20970,8 +20855,9 @@ Modifications effectuées en conséquence de l'article R. 123-17 du code de comm
 
 ###### Article 371 AP
 
-Conformément à l'article R. 123-18 du code de commerce, les organismes destinataires des déclarations sont seuls compétents
-pour en contrôler la régularité ou en apprécier la validité.
+Conformément à l'article R. 123-18 du code de commerce, les organismes destinataires des déclarations et des demandes
+d'autorisation sont seuls compétents pour en contrôler la régularité ou en apprécier la validité. Leur transmission à ces
+organismes dessaisit le centre en ce qui concerne les formalités à accomplir.
 
 **Nota:**
 
@@ -20981,7 +20867,7 @@ Modifications effectuées en conséquence de l'article R. 123-18 du code de comm
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
@@ -20995,22 +20881,24 @@ Modifications effectuées en conséquence de l'article R. 123-18 du code de comm
 ###### Article 371 AQ
 
 Conformément à l'article R. 123-19 du code de commerce et sous la réserve prévue par ce même article, le support de la
-déclaration ainsi que les renseignements qu'elle contient et les pièces relatives à celles-ci ne peuvent être conservés par
-le centre.
+déclaration ainsi que les renseignements qu'elle contient et les pièces relatives à celles-ci ainsi que, le cas échéant, les
+pièces relatives aux procédures d'autorisations requises ne peuvent être conservées par le centre au-delà des délais
+nécessaires à la transmission prévue à l'article 371 AP.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article R. 123-19 du code de commerce.
+Modifications effectuées en conséquence de l'article R. 123-18 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
 	  - Code de commerce - art. R123-19
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 AP
 
 
 ###### Article 371 AQ bis
@@ -21059,8 +20947,8 @@ Modifications effectuées en conséquence de l'article R. 123-29 du code de comm
 ###### Article 371 AS
 
 Conformément à l'article R. 123-30 du code de commerce, les annexes aux articles R. 123-5 et R. 123-30 du même code précisent
-les déclarations devant être déposées aux centres de formalités des entreprises et les administrations, personnes ou
-organismes destinataires de ces formalités selon leur compétence.
+les déclarations mentionnées à l'article 371 AI devant être déposées aux centres de formalités des entreprises et les
+administrations, personnes ou organismes destinataires de ces formalités selon leur compétence.
 
 **Nota:**
 
@@ -21071,7 +20959,7 @@ Modifications effectuées en conséquence de l'article R. 123-30 du code de comm
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
@@ -21256,6 +21144,52 @@ de la période normale d'utilisation de ces immeubles.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2002
+
+
+### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques
+
+###### Article 376
+
+Par dérogation aux dispositions des articles 2 et 3 du décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés
+de la direction générale des finances publiques, certaines directions départementales ou régionales des finances publiques
+peuvent exercer, dans le ressort territorial d'une ou plusieurs autres directions régies par le décret précité ou d'une ou
+plusieurs directions régies par le décret n° 2000-738 du 1er août 2000 relatif à l'organisation des services déconcentrés de
+la direction générale des impôts, à l'égard des personnes physiques, les missions d'assiette et de contrôle prévues aux
+articles L. 10 et L. 168 du livre des procédures fiscales.
+
+Elles peuvent également exercer les missions prévues par le premier alinéa à l'égard des sociétés ou groupements mentionnés
+aux articles 8 à 8 quinquies du code général des impôts dont le capital est détenu en tout ou partie par les personnes
+physiques qui relèvent de leur compétence dérogatoire en application de l'alinéa précité, quel que soit le lieu de dépôt de
+déclaration ou d'imposition de ces sociétés ou groupements.
+
+Les dispositions des premier et deuxième alinéas ne s'appliquent pas aux contrôles mentionnés aux articles L. 12, L. 13, L.
+13 C, L. 13 CA et L. 16 D du livre des procédures fiscales.
+
+Les fonctionnaires de la direction générale des finances publiques appartenant à des corps des catégories A et B affectés à
+ces directions peuvent exercer les attributions correspondant aux missions mentionnées aux premier et deuxième alinéas.
+
+La liste de ces directions, la délimitation de leur ressort territorial pour l'exercice desdites missions et leur durée
+d'exercice sont fixées, pour une durée de trois ans au plus, par arrêté du ministre chargé du budget.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article art. 4-III du décret n° 2009-707 du 16 juin 2009, et de l'article 2 (1°,
+b) du décret n° 2010-939 du 24 août 2010,
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2000-738 du 1 août 2000
+	  - Décret n°2009-707 du 16 juin 2009 - art. 2
+
+	**Créé par**:
+
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*81-1 (V)
 
 
 # Livre II : Recouvrement de l'impôt
@@ -22068,14 +22002,14 @@ président de la commission ou son suppléant.
 
 Lorsqu'un représentant du président, présidant une section, ou son suppléant, assure la présidence de la section temporaire,
 il exerce, pour le fonctionnement de celle-ci, les attributions dévolues au président de la commission par les articles 384
-septies-0 C et 384 septies-0 D de la présente annexe et, le cas échéant, par les articles R. * 228-3 et R. * 228-6 du livre
-des procédures fiscales.
+septies-0 C et 384 septies-0 D et, le cas échéant, par les articles R. * 228-3 et R. * 228-6 du livre des procédures
+fiscales.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1324 du 5 novembre 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
@@ -22425,8 +22359,6 @@ Celle-ci statue dans les conditions prévues au chapitre Ier du même décret.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
-### Section II : Redressement judiciaire.
-
 ### Section II : Procédure de sauvegarde ou de redressement judiciaire.
 
 ###### Article 396 bis A
@@ -22650,27 +22582,23 @@ Les fonctions dont il s'agit sont :
 - celles prévues par l'article 350 terdecies de l'annexe III au code général des impôts pour la fixation des bases
 d'imposition ou la proposition des rectifications ;
 
-- celles prévues par les articles R. 81-1 et R. 81-2 du livre des procédures fiscales relatifs au droit de communication.
+- celles prévues par le I de l'article R.* 81-1 et l'article R.* 81-2 du livre des procédures fiscales relatifs au droit de
+communication.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4 III du décret n° 2009-707 du 16 juin 2009 et de l'article 2 (1°) du
+décret n° 2010-939 du 24 août 2010.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN2 408
-	  - CGIAN3 350 terdecies
-	  - Livre des procédures fiscales R81-1, R81-2
-
 	**Modifié par**:
 
-	  - Décret n°2004-282 du 25 mars 2004 - art. 2 () JORF 27 mars 2004 en vigueur le 1er juin 2004
+	  - Décret n°2011-645 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 terdecies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 410
