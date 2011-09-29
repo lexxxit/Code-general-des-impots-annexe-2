@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-08-04
+Version Consolidée au 2011-09-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18665,6 +18665,71 @@ l'article R. 423-13 du code de l'environnement.
 
 	  - Code général des impôts, CGI. - art. 1635 bis N (V)
 	  - Code de l'environnement - art. R423-13 (V)
+
+
+##### Section VI  : Droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel et contribution pour l'aide juridique 
+
+###### Article 326 quater
+
+Pour l'application de l'article 1635 bis Q du code général des impôts, les conditions dans lesquelles il est justifié de
+l'acquittement de la contribution pour l'aide juridique dans le cadre des instances et la sanction d'un défaut d'acquittement
+sont déterminées, pour les juridictions judiciaires, conformément aux articles 62 à 62-5 du code de procédure civile, et,
+pour les juridictions administratives, conformément aux articles R. 411-2 et R. 411-2-1 du code de justice administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 19
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 7
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis Q
+	  - Code de procédure civile - art. 62
+	  - Code de justice administrative - art. R411-2
+
+
+###### Article 326 quinquies
+
+Lorsque, pour une cause qui lui est étrangère, un auxiliaire de justice ne peut effectuer par voie électronique
+l'acquittement de la contribution pour l'aide juridique prévue à l'article 1635 bis Q du code général des impôts, il est
+justifié de l'acquittement de la contribution par l'apposition de timbres mobiles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 19
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 7
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis Q
+
+
+###### Article 326 ter
+
+Pour l'application de l'article 1635 bis P du code général des impôts, les conditions dans lesquelles il est justifié de
+l'acquittement du droit dans le cadre des appels et la sanction d'un défaut d'acquittement sont déterminées conformément aux
+articles 964 et 964-1 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 19
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis P
+	  - Code de procédure civile - art. 964
 
 
 ### Titre V : Dispositions communes aux titres I à IV
