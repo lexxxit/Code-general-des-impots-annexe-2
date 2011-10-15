@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-10-01
+Version Consolidée au 2011-10-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21240,6 +21240,24 @@ b) du décret n° 2010-939 du 24 août 2010,
 
 ### Section I : Impôts directs et taxes assimilées
 
+#### 00I : Etablissement et mise en recouvrement des rôles
+
+###### Article 376-0 bis
+
+Le grade mentionné au second alinéa de l'article 1658 du code général des impôts est celui d'administrateur des finances
+publiques adjoint.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1302 du 14 octobre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1658
+
+
 #### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux
 
 ###### Article 376 bis
@@ -22138,32 +22156,6 @@ l'article 1724 quinquies du code général des impôts.
 
 ## Chapitre II : Procédures
 
-### I : Taxes sur le chiffre d'affaires et taxes assimilées
-
-###### Article 385
-
-Les taxes sur le chiffre d'affaires et les taxes assimilées exigibles des personnes qui changent fréquemment de lieu de
-séjour ou qui séjournent dans des locaux d'emprunt ou des locaux meublés font l'objet de mesures spéciales de recouvrement.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1302 du 14 octobre 2011 - art. 4
-
-
-###### Article 386
-
-Dès qu'ils ont connaissance de la réalisation, par les personnes susvisées, d'opérations imposables auxdites taxes, les
-agents des impôts peuvent établir les bases d'imposition et le décompte des droits exigibles.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1302 du 14 octobre 2011 - art. 4
-
-
 ### III : Dispositions communes.
 
 ###### Article 396 A
@@ -22635,18 +22627,14 @@ décret n° 2010-939 du 24 août 2010.
 
 ###### Article 410
 
-Chaque fonctionnaire des impôts ou chaque fonctionnaire des douanes et droits indirects peut déléguer sa signature aux agents
-placés sous son autorité dans les conditions fixées par le directeur général des impôts ou le directeur général des douanes
-et droits indirects, selon le cas.
+Chaque fonctionnaire de la direction générale des finances publiques ou chaque fonctionnaire des douanes et droits indirects
+peut déléguer sa signature aux agents placés sous son autorité dans les conditions fixées par le directeur général des
+finances publiques ou le directeur général des douanes et droits indirects, selon le cas.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-192 du 3 mars 2003 - art. 1 () JORF 8 mars 2003
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
+	  - Décret n°2011-1302 du 14 octobre 2011 - art. 3
 
 
