@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-10-16
+Version Consolidée au 2011-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4149,6 +4149,397 @@ de l'entreprise mentionné au second alinéa du 2 du même article ;
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 200 octies
+
+
+##### Section IV : Tiers de confiance
+
+###### Article 95 ZA
+
+Le tiers de confiance mentionné à l'article 170 ter du code général des impôts qui a conclu avec l'administration fiscale la
+convention individuelle mentionnée à l'article 95 ZG signe avec son client un contrat qui définit sa mission ainsi que les
+droits et les obligations de chaque partie. 
+
+La mission du tiers de confiance prend effet à la date de signature du contrat conclu avec le client.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZD (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZE (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZG (V)
+	  - Code général des impôts, CGI. - art. 170 ter
+
+
+###### Article 95 ZB
+
+Le tiers de confiance conserve les pièces mentionnées au I de l'article 170 ter du code général des impôts sous format papier
+ou sous forme dématérialisée. 
+
+Les pièces conservées sous forme dématérialisée doivent pouvoir être éditées à tout moment dans le délai de conservation. Le
+tiers de confiance garantit la parfaite conformité et inaltérabilité de ces éditions. 
+
+Les pièces conservées sous forme dématérialisée doivent pouvoir être éditées à tout moment dans le délai de conservation. Le
+tiers de confiance garantit la parfaite conformité et inaltérabilité de ces éditions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 170 ter
+
+
+###### Article 95 ZC
+
+Le tiers de confiance transmet les pièces justificatives, ainsi que leur liste récapitulative accompagnée des montants
+qu'elles comportent, dans un délai de trente jours à compter de la notification de la demande de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+
+###### Article 95 ZD
+
+En application du contrat prévu à l'article 95 ZA, le tiers de confiance transmet à l'administration fiscale par voie
+électronique, pour le compte de ses clients, les déclarations annuelles de revenus et leurs annexes. L'obligation de
+télétransmission du tiers de confiance ne porte pas sur les déclarations à souscrire au titre des revenus perçus au cours de
+l'année durant laquelle s'achève la mission de tiers de confiance. 
+
+Le contribuable mentionné au I de l'article 170 ter du code général des impôts est regardé, pour une année donnée, comme
+client d'un tiers de confiance s'il est lié avec celui-ci par le contrat prévu à l'article 95 ZA, conclu au plus tard lors du
+dépôt, par le professionnel, de la déclaration annuelle des revenus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 1er mars 2012 - art. Annexe IV (VD)
+	  - Arrêté du 1er mars 2012 - art. Annexe V (VD)
+	  - Arrêté du 1er mars 2012 - art. Annexe VI (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZA (V)
+	  - Code général des impôts, CGI. - art. 170 ter
+
+
+###### Article 95 ZE
+
+Le client d'un tiers de confiance qui souhaite bénéficier de ce dispositif s'engage, dans le contrat prévu à l'article 95 ZA,
+à donner son accord pour permettre la télétransmission de sa déclaration annuelle de revenus. 
+
+Dans ce contrat, le client reconnaît avoir été informé par le tiers de confiance : 
+
+1° Que les modalités de contrôle de l'administration fiscale à son égard ne sont pas modifiées par le dispositif prévu à
+l'article 170 ter du code général des impôts ; 
+
+2° Qu'il doit conserver un exemplaire des pièces justificatives afin de répondre, le cas échéant, aux demandes de
+l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZA (V)
+	  - Code général des impôts, CGI. - art. 170 ter
+
+
+###### Article 95 ZF
+
+La convention nationale prévue au IV de l'article 170 ter du code général des impôts est conclue entre la direction générale
+des finances publiques et les organismes représentant au niveau national les professions concernées, selon un modèle défini
+par arrêté du ministre chargé du budget. 
+
+La convention nationale reste valide jusqu'à sa dénonciation par l'une des parties signataires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 1er mars 2012 - art. 1 (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 170 ter
+
+
+###### Article 95 ZG
+
+La personne qui souhaite exercer la mission de tiers de confiance demande par écrit la signature d'une convention
+individuelle auprès du directeur de la direction départementale ou régionale des finances publiques dans le ressort de
+laquelle cette personne est établie ou, en cas de pluralité d'établissements, dans le ressort de la direction départementale
+ou régionale dont relève son établissement principal. 
+
+Les tiers de confiance qui n'ont pas d'établissement en France adressent leur demande au directeur général des finances
+publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 1er mars 2012 - art. 2 (VD)
+	  - Arrêté du 1er mars 2012 - art. Annexe I (VD)
+	  - Arrêté du 1er mars 2012 - art. Annexe III (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZA (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZI (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZJ (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZK (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZM (V)
+
+
+###### Article 95 ZH
+
+Dans le mois qui suit la notification de la demande de conventionnement, selon le cas, le directeur départemental ou régional
+des finances publiques ou le délégataire du directeur général des finances publiques statue sur la demande après avoir
+examiné la situation du demandeur ainsi que celle des dirigeants et des administrateurs s'il s'agit d'une personne morale. 
+
+Il peut refuser de conclure la convention si, dans la période de cinq ans qui précède la demande, il a été constaté à
+l'encontre du demandeur et des dirigeants et administrateurs s'il s'agit d'une personne morale : 
+
+a) Des manquements aux obligations fiscales déclaratives ou de paiement ; 
+
+b) L'application de pénalités prévues aux articles 1728,1729,1730 à 1734 et 1737 du code général des impôts ; 
+
+c) Une condamnation définitive pour fraude fiscale en application des articles 1741,1743,1746 et 1747 du code général des
+impôts ou pour escroquerie à la TVA ou autre impôt ou taxe, ainsi que pour complicité à ces infractions ; 
+
+d) L'application de sanctions disciplinaires comportant une suspension ou une interdiction définitive d'exercer ; 
+
+e) L'application d'une amende fiscale prononcée par un tribunal. 
+
+Le délai pour statuer peut être porté à trois mois en cas de difficulté pour l'autorité administrative à obtenir les éléments
+qui lui sont nécessaires pour prendre une décision. 
+
+En cas de refus, la décision est notifiée au demandeur par lettre recommandée avec demande d'avis de réception. Ce refus est
+motivé. 
+
+En cas d'acceptation, le directeur départemental ou régional des finances publiques ou le délégataire du directeur général
+des finances publiques adresse au demandeur une convention individuelle dont le modèle est établi par arrêté du ministre
+chargé du budget. La convention est datée et signée par le directeur départemental ou régional des finances publiques ou le
+délégataire du directeur général des finances publiques et par le tiers de confiance ou une personne habilitée pour le
+représenter. Chacune des parties conserve un exemplaire de ce document.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZJ (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1729 (V)
+	  - Code général des impôts, CGI. - art. 1730 (V)
+	  - Code général des impôts, CGI. - art. 1737 (V)
+	  - Code général des impôts, CGI. - art. 1741 (V)
+	  - Code général des impôts, CGI. - art. 1743 (V)
+	  - Code général des impôts, CGI. - art. 1746 (V)
+
+
+###### Article 95 ZI
+
+La convention signée par le professionnel en qualité de tiers de confiance n'est ni cessible ni transmissible. 
+
+En cas d'incapacité temporaire ou définitive d'exercer son activité, de démission ou de décès du professionnel, s'il s'agit
+d'une personne physique ou en cas de cessation ou de cession d'activité du professionnel, s'il s'agit d'une personne morale,
+l'administrateur provisoire désigné doit demander par écrit la signature d'une convention auprès du directeur départemental
+ou régional des finances publiques ou du délégataire du directeur général des finances publiques selon les modalités fixées à
+l'article 95 ZG. Le directeur départemental ou régional ou le délégataire du directeur général statue sur cette demande et
+informe l'administrateur provisoire de sa décision dans les conditions prévues à l'article 95 ZH. 
+
+L'administrateur provisoire dont la demande est rejetée en informe ses clients et leur restitue l'ensemble des pièces
+justificatives qu'il détient dans les trois mois qui suivent la notification du refus du directeur départemental ou régional
+ou du délégataire du directeur général. 
+
+Dans les hypothèses prévues au deuxième alinéa, la convention mentionnée à l'article 95 ZG cesse de produire ses effets et
+devient caduque.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZG (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZM (V)
+
+
+###### Article 95 ZJ
+
+La convention individuelle est conclue pour une période de trois ans. Elle est renouvelable une fois par tacite reconduction
+pour la même durée, sauf dénonciation par le directeur départemental ou régional ou le délégataire du directeur général des
+finances publiques ou par le professionnel trois mois au moins avant la date d'expiration de la convention en cours. 
+
+Elle peut ensuite être renouvelée pour la même durée selon la procédure prévue aux articles 95 ZG et 95 ZH sur demande
+présentée trois mois au moins avant la date d'expiration de la convention en cours. 
+
+Le directeur départemental ou régional ou le délégataire du directeur général des finances publiques statue sur la demande et
+informe le demandeur de sa décision dans les conditions prévues à l'article 95 ZH. 
+
+Le tiers de confiance dont la convention prévue à l'article 95 ZG n'est pas renouvelée en informe ses clients et leur
+restitue l'ensemble des pièces justificatives qu'il détient dans les trois mois qui suivent la date de notification du non-
+renouvellement. 
+
+Le directeur départemental ou régional ou le délégataire du directeur général des finances publiques informe l'organisme
+représentant au niveau national la profession dont le tiers de confiance demandeur est membre de l'ensemble des décisions
+qu'il a prises concernant la convention individuelle prévue à l'article 95 ZG. 
+
+Les organismes représentant au niveau national la profession concernés sont chargés d'assurer l'établissement, la mise à jour
+et la publicité de la liste des professionnels exerçant la mission de tiers de confiance. Cette liste est transmise à
+l'administration fiscale avant le 30 avril de chaque année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZG (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZH (V)
+
+
+###### Article 95 ZK
+
+Le directeur départemental ou régional ou le délégataire du directeur général des finances publiques peut résilier la
+convention s'il constate que le tiers de confiance ou la société dans laquelle il exerce sa profession et, dans ce dernier
+cas, les dirigeants ou administrateurs ont fait l'objet : 
+
+a) De manquements au respect des obligations fiscales déclaratives ou de paiement ; 
+
+b) De pénalités prévues aux articles 1728,1729,1730 à 1734 et 1737 du code général des impôts ; 
+
+c) D'une condamnation définitive pour fraude fiscale en application des articles 1741,1743,1746 et 1747 du code général des
+impôts ou pour escroquerie à la TVA ou à un autre impôt ou taxe ainsi que pour complicité à ces infractions ; 
+
+d) De sanctions disciplinaires comportant une suspension ou une interdiction définitive d'exercer ; 
+
+e) D'une amende fiscale prononcée par un tribunal ; 
+
+f) De manquements à l'une des obligations stipulées dans la convention individuelle prévue à l'article 95 ZG.
+
+Avant de prendre sa décision, le directeur départemental ou régional ou le délégataire du directeur général des finances
+publiques met le tiers de confiance en mesure de présenter ses observations sur les faits qui lui sont reprochés. 
+
+La décision de résiliation est notifiée au tiers de confiance par lettre recommandée avec demande d'avis de réception. Cette
+décision est motivée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZG (V)
+	  - Code général des impôts, CGI. - art. 1728 (V)
+	  - Code général des impôts, CGI. - art. 1730 (V)
+	  - Code général des impôts, CGI. - art. 1737 (V)
+	  - Code général des impôts, CGI. - art. 1741 (V)
+	  - Code général des impôts, CGI. - art. 1743 (V)
+	  - Code général des impôts, CGI. - art. 1746 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZM (V)
+
+
+###### Article 95 ZL
+
+Le tiers de confiance dont la convention prévue à l'article 95 ZG est résiliée en informe ses clients et leur restitue
+l'ensemble des pièces justificatives qu'il détient dans les trois mois qui suivent la date de notification de la résiliation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+
+###### Article 95 ZM
+
+Le tiers de confiance dont la convention est caduque ou a été résiliée en application des dispositions des articles 95 ZI ou
+95 ZK ne peut déposer une nouvelle demande de convention qu'à l'expiration d'un délai de six mois, sous réserve qu'il ne
+fasse plus l'objet d'une suspension et qu'il soit toujours membre de l'organisme représentant sa profession au niveau
+national. 
+
+La demande de nouvelle convention est soumise à la procédure prévue aux articles 95 ZG et 95 ZH.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZG (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZI (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZK (V)
+
+
+###### Article 95 ZN
+
+Les déductions du revenu global, les réductions ou les crédits d'impôts pour lesquels le bénéfice du dispositif du tiers de
+confiance peut être sollicité sont ceux prévus aux articles 199 quater C, 199 quater F, 199 septies, 199 decies I, 199 decies
+E, 199 decies EA, 199 decies F, 199 decies G et 199 decies H, 199 undecies A, 199 undecies B, 199 undecies C et 199 undecies
+D, aux I à VI de l'article 199 terdecies-0A, au VI bis de l'article 199 terdecies-0A, au VI ter de l'article 199
+terdecies-0A, à l'article 199 terdecies-0B, aux 1 à 5 de l'article 199 sexdecies, aux articles 199 tervicies, 199 sexvicies,
+199 octovicies, aux articles 200,200 quater et 18 bis de l'annexe IV, 200 quater A, 200 quater B et 200 decies A du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 1er mars 2012 - art. Annexe IV (VD)
+	  - Arrêté du 1er mars 2012 - art. Annexe V (VD)
+	  - Arrêté du 1er mars 2012 - art. Annexe VI (VD)
 
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
