@@ -1,15 +1,9 @@
 # Article 242 septies A
 
 1. Les entreprises soumises au régime simplifié d'imposition des taxes sur le chiffre d'affaires qui clôturent leur exercice
-au terme d'un mois autre que celui de décembre peuvent, au cours des trois premiers mois d'un exercice, opter pour le dépôt,
-dans les trois mois qui suivent sa clôture, d'une déclaration conforme au modèle prescrit par l'administration et faisant
-ressortir les taxes sur le chiffre d'affaires dues au titre de cet exercice. Cette déclaration se substitue à celle prévue à
-l'article 242 sexies.
-
-L'option est formulée par lettre recommandée avec avis de réception adressée au service local des impôts. Elle est valable
-pour l'exercice au cours duquel elle est formulée et reconduite tacitement pour chacun des exercices suivants. Elle peut être
-dénoncée par lettre recommandée avec avis de réception adressée au service local des impôts dans le délai d'un mois qui suit
-la clôture de l'exercice couvert par cette option.
+au terme d'un mois autre que celui de décembre doivent déposer, dans les trois mois qui suivent sa clôture, une déclaration
+conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre d'affaires dues au titre de
+cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies.
 
 2. La déclaration annuelle, déposée dans le délai prévu au 1, détermine les acomptes ultérieurement exigibles selon la
 périodicité suivante :
@@ -55,14 +49,10 @@ Lorsque deux déclarations successives déterminent des acomptes pour des mois i
 
 	**Modifié par**:
 
-	  - Décret n°99-545 du 30 juin 1999 - art. 6 () JORF 1er juillet 1999
+	  - Décret n°2011-2026 du 29 décembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies E (Ab)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies F (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000

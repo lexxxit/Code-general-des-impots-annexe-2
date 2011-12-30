@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2011-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11009,15 +11009,9 @@ des acomptes sont fixées par arrêté.
 ###### Article 242 septies A
 
 1. Les entreprises soumises au régime simplifié d'imposition des taxes sur le chiffre d'affaires qui clôturent leur exercice
-au terme d'un mois autre que celui de décembre peuvent, au cours des trois premiers mois d'un exercice, opter pour le dépôt,
-dans les trois mois qui suivent sa clôture, d'une déclaration conforme au modèle prescrit par l'administration et faisant
-ressortir les taxes sur le chiffre d'affaires dues au titre de cet exercice. Cette déclaration se substitue à celle prévue à
-l'article 242 sexies.
-
-L'option est formulée par lettre recommandée avec avis de réception adressée au service local des impôts. Elle est valable
-pour l'exercice au cours duquel elle est formulée et reconduite tacitement pour chacun des exercices suivants. Elle peut être
-dénoncée par lettre recommandée avec avis de réception adressée au service local des impôts dans le délai d'un mois qui suit
-la clôture de l'exercice couvert par cette option.
+au terme d'un mois autre que celui de décembre doivent déposer, dans les trois mois qui suivent sa clôture, une déclaration
+conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre d'affaires dues au titre de
+cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies.
 
 2. La déclaration annuelle, déposée dans le délai prévu au 1, détermine les acomptes ultérieurement exigibles selon la
 périodicité suivante :
@@ -11063,7 +11057,7 @@ Lorsque deux déclarations successives déterminent des acomptes pour des mois i
 
 	**Modifié par**:
 
-	  - Décret n°99-545 du 30 juin 1999 - art. 6 () JORF 1er juillet 1999
+	  - Décret n°2011-2026 du 29 décembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -11071,26 +11065,18 @@ Lorsque deux déclarations successives déterminent des acomptes pour des mois i
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies F (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
 
 ###### Article 242 septies B
 
-Les entreprises qui exercent l'option mentionnée à l'article 242 septies A souscrivent, dans les trois premiers mois du
-premier exercice couvert par cette option, une déclaration conforme à celle prévue à l'article 242 sexies pour la période de
-l'année antérieure à la date d'ouverture de cet exercice.
+Les entreprises qui sont soumises à l'obligation mentionnée à l'article 242 septies A souscrivent, dans les trois premiers
+mois du premier exercice couvert par cette obligation, une déclaration conforme à celle prévue à l'article 242 sexies pour la
+période de l'année antérieure à la date d'ouverture de cet exercice.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°99-545 du 30 juin 1999 - art. 7 () JORF 1er juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
+	  - Décret n°2011-2026 du 29 décembre 2011 - art. 1
 
 
 ###### Article 242 septies C
@@ -11132,45 +11118,23 @@ d'imposition s'ouvre le 1er janvier suivant.
 	  - Décret n°2009-315 du 20 mars 2009 - art. 4
 
 
-###### Article 242 septies E
-
-Les entreprises qui dénoncent l'option prévue à l'article 242 septies A et restent soumises au régime d'imposition simplifié
-doivent souscrire une déclaration pour la période comprise entre la date de clôture du dernier exercice couvert par l'option
-et le 31 décembre de l'année de clôture. Cette déclaration doit être souscrite l'année suivante, au plus tard le deuxième
-jour ouvré suivant le 1er mai.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-315 du 20 mars 2009 - art. 5
-
-	**Abrogé par**:
-
-	  - Décret n°2011-2026 du 29 décembre 2011 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies A
-
-
 ###### Article 242 septies F
 
-1. Les entreprises ayant exercé l'option prévue à l'article 242 septies A qui deviennent imposables, de plein droit ou sur
+1. Les entreprises soumises à l'obligation prévue à l'article 242 septies A qui deviennent imposables, de plein droit ou sur
 option, d'après le chiffre d'affaires réel au 1er janvier de l'année  suivant cet exercice, doivent souscrire une déclaration
-pour la période comprise entre la date de clôture du dernier exercice entièrement couvert par l'option et le 31 décembre de
-la dernière année d'imposition au régime simplifié. Cette déclaration doit être souscrite l'année suivante, au plus tard le
-deuxième jour ouvré suivant le 1er mai. 
+pour la période comprise entre la date de clôture du dernier exercice entièrement couvert par l'obligation  et le 31 décembre
+de la dernière année d'imposition au régime simplifié. Cette déclaration doit être souscrite l'année suivante, au plus tard
+le deuxième jour ouvré suivant le 1er mai. 
 
 2. Les dispositions prévues au 1. sont également applicables aux assujettis qui bénéficient de la franchise de taxe sur la
 valeur ajoutée prévue à l'article 293 B du code général des impôts au titre de l'année civile suivant le dernier exercice
-couvert par l'option prévue à l'article 242 septies A.
+couvert par l'obligation prévue à l'article 242 septies A.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-315 du 20 mars 2009 - art. 6
+	  - Décret n°2011-2026 du 29 décembre 2011 - art. 1
 
 	**Cite**:
 
