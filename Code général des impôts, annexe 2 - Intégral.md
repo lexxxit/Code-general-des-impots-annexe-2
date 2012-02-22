@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-02-01
+Version Consolidée au 2012-02-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10139,7 +10139,7 @@ demande des assujettis. Le remboursement porte sur le crédit de taxe déductibl
 ###### Article 242-0 C
 
 I. 1. Les demandes de remboursement doivent être déposées au cours du mois de janvier et porter sur un montant au moins égal
-à 150 euros. 
+à 150 €. 
 
 2. Pour les assujettis placés sous le régime simplifié d'imposition, le crédit de taxe déductible résulte des énonciations de
 leur déclaration annuelle. La demande de remboursement est déposée avec cette déclaration. 
@@ -10149,15 +10149,19 @@ apparaissant le 31 décembre peut être demandé dans les conditions déterminé
 
 II.-Par dérogation aux dispositions du I, les assujettis soumis de plein droit ou sur option au régime normal d'imposition
 peuvent demander un remboursement lorsque la déclaration mentionnée au 2 de l'article 287 du code général des impôts fait
-apparaître un crédit de taxe déductible. La demande de remboursement doit porter sur un montant au moins égal à 760 euros. 
+apparaître un crédit de taxe déductible. La demande de remboursement doit porter sur un montant au moins égal à 760 €. 
 
 Les dispositions de du premier alinéa s'appliquent également aux exploitants agricoles ayant exercé l'option prévue au
 quatrième alinéa du I de l'article 1693 bis du code général des impôts pour acquitter l'impôt au vu de déclarations
 mensuelles ou trimestrielles. 
 
+II bis.-Il n'est pas fait application des montants minimaux prévus au 1 du I et au II du présent article aux assujettis
+membres du groupe désignés au 1 de l'article 1693 ter du code général des impôts, s'agissant des demandes de remboursement
+mentionnées au premier alinéa de l'article 1693 ter A du même code. 
+
 III.-Par dérogation aux dispositions du I, les assujettis placés sous le régime d'acomptes prévu au 3 de l'article 287 du
 code général des impôts peuvent demander un remboursement trimestriel du crédit constitué par la taxe déductible ayant grevé
-l'acquisition de biens constituant des immobilisations lorsque son montant est au moins égal à 760 euros. 
+l'acquisition de biens constituant des immobilisations lorsque son montant est au moins égal à 760 €. 
 
 Les remboursements s'effectuent dans les conditions prévues à l'article 242 septies J.
 
@@ -10165,13 +10169,15 @@ Les remboursements s'effectuent dans les conditions prévues à l'article 242 se
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+	  - Décret n°2012-239 du 20 février 2012 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 204 ter A
-	  - Code général des impôts, CGI. - art. 1693 bis
-	  - Code général des impôts, CGI. - art. 287
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 204 ter A (V)
+	  - Code général des impôts, CGI. - art. 1693 bis (V)
+	  - Code général des impôts, CGI. - art. 1693 ter (V)
+	  - Code général des impôts, CGI. - art. 1693 ter A (V)
+	  - Code général des impôts, CGI. - art. 287 (V)
 
 	**Cité par**:
 
@@ -10344,6 +10350,23 @@ Ne peuvent prétendre au bénéfice des remboursements prévus aux articles 242-
 	**Liens**:
 
 	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 242-0 L
+
+Le remboursement du crédit de taxe déductible mentionné au b du 3 de l'article 1693 ter du code général des impôts est opéré
+au profit du redevable du groupe selon les conditions et modalités décrites au 1 du I et au premier alinéa du II de l'article
+242-0 C.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-239 du 20 février 2012 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1693 ter
 
 
 ##### 2 ter : Remboursement de la taxe aux assujettis non établis en France
