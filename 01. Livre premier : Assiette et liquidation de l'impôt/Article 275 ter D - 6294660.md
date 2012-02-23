@@ -8,7 +8,7 @@ cas, l'organisme est préalablement informé des motifs susceptibles d'entraîne
 présenter ses observations dans un délai de trente jours.
 
 Lorsqu'un organisme ne remplit plus les conditions prévues par les articles 275 ter à 275 ter P, il est tenu de demander le
-retrait de son agrément et de cesser sans délai de délivrer la garantie.
+retrait de son agrément et de cesser sans délai d'attester la garantie du titre.
 
 **Liens relatifs à cet article**
 
@@ -18,8 +18,4 @@ retrait de son agrément et de cesser sans délai de délivrer la garantie.
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2012-247 du 21 février 2012 - art. 12

@@ -1,15 +1,12 @@
 # Article 275 ter E
 
 Les organismes de contrôle agréés sont placés sous le contrôle du directeur général des douanes et droits indirects et du
-directeur général des entreprises qui peuvent, l'un ou l'autre, sans délai, à titre conservatoire, suspendre l'agrément d'un
-organisme de contrôle qui ne respecte pas ses obligations. La procédure de retrait est immédiatement engagée.
+directeur général de la compétitivité, de l'industrie et des services qui peuvent, l'un ou l'autre, sans délai, à titre
+conservatoire, suspendre l'agrément d'un organisme de contrôle qui ne respecte pas ses obligations. La procédure de retrait
+est immédiatement engagée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2012-247 du 21 février 2012 - art. 13

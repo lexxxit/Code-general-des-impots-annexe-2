@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-02-23
+Version Consolidée au 2012-02-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12723,27 +12723,16 @@ vigueur, au besoin après distillation ou toute opération donnant des résultat
 
 Les professionnels, notamment les fabricants, importateurs, acquéreurs intracommunautaires, commissaires-priseurs
 judiciaires, responsables d'un crédit municipal ou d'une société de ventes volontaires de meubles aux enchères publiques et
-commissionnaires en garantie qui souhaitent être habilités à apposer eux-mêmes les poinçons de titre de la garantie sur les
-ouvrages en métaux précieux qu'ils produisent ou sur les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon
-de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace
-économique européen ou en Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat concerné selon
-des normes identiques ou équivalentes à celles exigées en France pour le contrôle et la certification du titre, qu'ils
-importent, introduisent en provenance d'un autre Etat membre de l'Union européenne, vendent ou qui leur sont confiés, doivent
-déposer une demande auprès de la direction régionale des douanes et droits indirects dont ils dépendent. Est joint à cette
-demande le cahier des charges mentionné à l'article 275 bis C.
-
-Lorsque le dossier de candidature est complet, le directeur régional des douanes et droits indirects en délivre récépissé. Le
-rejet de la demande d'habilitation est motivé.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 29 de la loi n° 2000-642 du 10 juillet 2000.
+commissionnaires en garantie qui souhaitent être habilités à attester eux-mêmes la garantie du titre des ouvrages qu'ils
+produisent ou du titre des ouvrages dépourvus du poinçon de garantie français ou d'un poinçon de titre apposé dans un autre
+Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace économique européen ou en
+Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat concerné selon des normes identiques ou
+équivalentes à celles exigées en France pour le contrôle et la certification du titre, qu'ils importent, introduisent en
+provenance d'un autre Etat membre de l'Union européenne, vendent ou qui leur sont confiés, doivent déposer une demande auprès
+de la direction régionale des douanes et droits indirects dont ils dépendent. Est joint à cette demande le cahier des charges
+mentionné à l'article 275 bis C.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 275 bis C
 
 	**Cité par**:
 
@@ -12753,7 +12742,11 @@ Modification effectuée en conséquence de l'article 29 de la loi n° 2000-642 d
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+	  - Décret n°2012-247 du 21 février 2012 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C
 
 
 ###### Article 275 bis C
@@ -12761,21 +12754,24 @@ Modification effectuée en conséquence de l'article 29 de la loi n° 2000-642 d
 La convention d'habilitation est conclue avec le directeur régional des douanes et droits indirects du ressort dont relève le
 professionnel. La conclusion d'une convention d'habilitation est subordonnée aux conditions suivantes :
 
-1° Le professionnel doit respecter un cahier des charges décrivant l'organisation de l'entreprise, la procédure et les
-méthodes de contrôle permettant de s'assurer du titre des ouvrages, les méthodes utilisées pour apposer le poinçon de
-garantie, ainsi que la qualification des personnes responsables de leur application. Un arrêté du ministre chargé du budget
+1° Le professionnel s'engage à respecter un cahier des charges décrivant l'organisation de l'entreprise, la procédure et les
+méthodes de contrôle permettant de s'assurer du titre des ouvrages, les méthodes utilisées pour attester la garantie du titre
+et le protocole de sécurité informatique mis en place en cas du marquage au laser et mentionnant la qualification des
+personnes responsables de son application. Un arrêté du ministre chargé du budget et du ministre chargé de l'industrie
 définit les spécifications techniques de ce cahier des charges ;
 
-2° Le professionnel doit recourir à des organismes de contrôle agréés mentionnés au II de l'article 535 du code général des
-impôts ou à des organismes de contrôle indépendants établis dans d'autres Etats membres de l'Union européenne, dans d'autres
-Etats parties à l'accord instituant l'Espace économique européen ou en Turquie, offrant des garanties identiques ou
-équivalentes à celles exigées en France pour contrôler le titre des ouvrages sur lesquels il entend apposer le poinçon de
-garantie s'il ne souhaite pas effectuer ce contrôle lui-même. Il doit déclarer ces organismes à la direction régionale des
-douanes et droits indirects ;
+2° Le professionnel recourt à des organismes de contrôle agréés mentionnés au II de l'article 535 du code général des impôts
+ou à des organismes de contrôle indépendants établis dans d'autres Etats membres de l'Union européenne, dans d'autres Etats
+parties à l'accord instituant l'Espace économique européen ou en Turquie, offrant des garanties identiques ou équivalentes à
+celles exigées en France pour contrôler le titre des ouvrages sur lesquels il entend attester la garantie du titre s'il ne
+souhaite pas effectuer ce contrôle lui-même. Il doit déclarer ces organismes à la direction régionale des douanes et droits
+indirects ;
 
-3° Le professionnel doit effectuer le poinçonnage des ouvrages dans un local présentant des mesures de sécurité adaptées au
-transport des ouvrages dans l'entreprise, à leur entreposage avant et après apposition du poinçon de garantie et à la
-conservation des poinçons fournis par l'administration.
+3° Le professionnel atteste la garantie du titre des ouvrages dans un local sécurisé de l'entreprise. Ce local est adapté à
+la conservation soit des poinçons de garantie métalliques soit des équipements dédiés à la gravure au laser.
+
+L'autorisation d'attester la garantie du titre par le marquage au laser d'un poinçon mentionnée au b de l'article 523 du code
+général des impôts est accordée par le directeur général des douanes et des droits indirects.
 
 L'administration peut vérifier sur pièces et sur place, dans les conditions visées à l'article L. 36 du livre des procédures
 fiscales, la capacité du professionnel à respecter le cahier des charges présenté ainsi que l'existence et la sécurité du
@@ -12790,7 +12786,7 @@ local de la marque.
 
 	**Modifié par**:
 
-	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
+	  - Décret n°2012-247 du 21 février 2012 - art. 3
 
 	**Cité par**:
 
@@ -12798,10 +12794,6 @@ local de la marque.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J duodecies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies B (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 bis D
@@ -12859,35 +12851,48 @@ incidence sur l'application de la convention.
 
 ###### Article 275 bis F
 
-Le professionnel habilité utilise les poinçons de garantie fabriqués par la Monnaie de Paris en application de l'article 186
-de l'annexe III au code général des impôts, sauf autorisation spéciale de marquage par d'autres méthodes délivrée par le
-directeur régional des douanes et droits indirects aux conditions qu'il détermine. Ils lui sont remis par la direction
-régionale des douanes et droits indirects de rattachement ou la Monnaie de Paris.
+La garantie du titre est attestée :
 
-Il s'assure du bon état des poinçons dont il a la charge et contrôle qu'ils ne sortent pas du local utilisé pour le
-poinçonnage des ouvrages. Il remet à la direction régionale des douanes et droits indirects dont il dépend les poinçons usés
-ou les renvoie à la Monnaie de Paris, après en avoir informé l'administration des douanes.
+1° Par l'apposition d'un poinçon de garantie métallique mentionné au a de l'article 523 du code général des impôts. Les
+poinçons sont remis par la Monnaie de Paris au professionnel habilité qui s'assure de leur bon état et de leur correcte
+conservation. Les poinçons usés sont renvoyés à la direction régionale des douanes et des droits indirects territorialement
+compétente dans le ressort de laquelle le professionnel habilité exerce son activité.
 
-Toute disparition de ces poinçons doit être signalée immédiatement à la direction régionale des douanes et droits indirects
-dont le professionnel dépend qui procède à une enquête. Pendant la durée de l'enquête, l'application de la convention est
-suspendue. Il appartient, pendant ce délai, au professionnel de faire apposer le poinçon de garantie par un bureau de
-garantie ou un organisme de contrôle agréé mentionné à l'article 548 du code général des impôts. Si la responsabilité du
-professionnel est établie à l'issue de cette enquête, la convention est résiliée.
+Toute disparition ou tout incident lié à la conservation d'un poinçon de garantie métallique est immédiatement signalé par le
+professionnel habilité à la direction régionale des douanes et droits indirects mentionnée au premier alinéa du 1° qui
+procède alors à une enquête. Pendant la durée de l'enquête, l'application de la convention est suspendue. Il appartient au
+professionnel habilité, pendant ce délai, de faire apposer le poinçon par un bureau de garantie ou un organisme de contrôle
+agréé mentionné à l'article 535 du code général des impôts. Si la responsabilité du professionnel habilité est établie à
+l'issue de cette enquête, la convention peut être résiliée ;
+
+2° Ou par le marquage au laser, conformément au b de l'article 523 du code général des impôts en utilisant des fichiers
+informatiques supportant la version dématérialisée des poinçons. Ces fichiers sont élaborés, vendus et transférés dans les
+locaux du professionnel habilité par des organismes agréés par le ministre chargé du budget et par le ministre chargé de
+l'industrie sur la base d'un dossier attestant de leur compétence, de leur expérience et de leur honorabilité. Un cahier des
+charges arrêté par ces ministres définit les missions de ces organismes, notamment la vérification de la mise en place et la
+conformité du protocole de sécurité informatique imposé aux professionnels qui demandent l'autorisation d'attester la
+garantie du titre par marquage au laser d'un poinçon, et les conditions d'exercice de ces missions.
+
+Le professionnel habilité s'assure du bon état des fichiers et de leur correcte conservation. Tout fichier dont le
+fonctionnement est devenu défectueux est signalé à la direction régionale des douanes territorialement compétente dans le
+ressort de laquelle le professionnel habilité exerce son activité.
+
+Tout incident relatif à la protection des fichiers ou toute constatation de duplication ou de disparition de ces fichiers
+doit être immédiatement signalé par le professionnel habilité à la direction régionale des douanes et droits indirects
+mentionnée au premier alinéa du 2° qui procède alors à une enquête. Pendant la durée de l'enquête, l'application de la
+convention est suspendue. Il appartient au professionnel habilité, pendant ce délai, de faire apposer le poinçon par un
+bureau de garantie ou un organisme de contrôle agréé mentionné à l'article 535 du code général des impôts. Si la
+responsabilité du professionnel habilité est établie à l'issue de cette enquête, la convention peut être résiliée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 548
-	  - CGIAN3 186
+	  - Décret n°2007-484 du 30 mars 2007
 
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2012-247 du 21 février 2012 - art. 4
 
 	**Cité par**:
 
@@ -12897,26 +12902,24 @@ professionnel est établie à l'issue de cette enquête, la convention est rési
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies D (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies E (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 523
+	  - Code général des impôts, CGI. - art. 535
 
 
 ###### Article 275 bis G
 
-Le professionnel habilité établit et tient à jour une liste des personnes désignées pour le marquage des ouvrages. Il informe
-la direction régionale des douanes et droits indirects dont il dépend de tout changement. Il désigne un ou, si la dimension
-de l'entreprise le justifie, plusieurs responsables chargés de la gestion et de la manipulation des poinçons.
+Le professionnel habilité établit et tient à jour une liste des personnes désignées pour attester la garantie du titre des
+ouvrages. Il informe la direction régionale des douanes et droits indirects dont il dépend de tout changement. Il désigne un
+ou, si la dimension de l'entreprise le justifie, plusieurs responsables chargés de la gestion et de la manipulation des
+outils et des équipements permettant d'attester la garantie du titre.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2012-247 du 21 février 2012 - art. 5
 
 
 ###### Article 275 bis H
@@ -12945,25 +12948,22 @@ titre.
 Le professionnel habilité tient une comptabilité des ouvrages produits, importés, introduits en provenance d'un autre Etat
 membre de l'Union européenne, vendus ou confiés. Il adresse à la direction régionale des douanes et droits indirects dont il
 dépend, selon une périodicité fixée dans la convention et au moins une fois par an, un état comportant le nombre des ouvrages
-essayés, le nombre des ouvrages marqués par type de métal et le nombre des ouvrages reconnus aux titres non légaux. Ces
-éléments d'information sont tenus à jour en permanence et doivent être accessibles à l'administration qui peut les consulter
-à tout moment.
+essayés, le nombre des ouvrages marqués par type de métal en or, argent et platine et le nombre des ouvrages reconnus aux
+titres non légaux. Ce relevé doit distinguer les ouvrages marqués par apposition d'un poinçon de garantie métallique de ceux
+marqués par le procédé du laser. Ces éléments d'information sont tenus à jour en permanence et doivent être accessibles à
+l'administration qui peut en solliciter la consultation à tout moment.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2012-247 du 21 février 2012 - art. 6
 
 
 ###### Article 275 bis J
 
-Le professionnel habilité prélève, de manière aléatoire, des échantillons dans les lots d'ouvrages sur lesquels il appose le
-poinçon selon un plan d'échantillonnage défini dans la convention.
+Le professionnel habilité prélève, de manière aléatoire, des échantillons dans les lots d'ouvrages pour lesquels il atteste
+la garantie du titre selon un plan d'échantillonnage défini dans la convention.
 
 Ces échantillons sont tenus à la disposition des agents de l'administration durant un délai fixé dans la convention
 d'habilitation afin que soient pratiqués les essais et contrôles jugés nécessaires. Ces agents peuvent également, lors de
@@ -12974,11 +12974,7 @@ professionnel.
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2012-247 du 21 février 2012 - art. 7
 
 
 ###### Article 275 bis K
@@ -12991,8 +12987,9 @@ ne remplit plus les conditions auxquelles était subordonnée sa conclusion ou s
 articles 275 bis B à 275 bis L. Le professionnel est préalablement informé des motifs susceptibles d'entraîner la résiliation
 de la convention et est mis à même de présenter ses observations dans un délai de quinze jours. La décision de résiliation
 est motivée. La résiliation prend effet à l'expiration d'un délai d'un mois à compter de la notification de la décision de
-résiliation. A l'expiration de ce délai, le professionnel remet immédiatement les poinçons de titre qu'il détient à
-l'administration et ne peut plus apposer le poinçon de garantie sur les ouvrages qu'il détient.
+résiliation. A l'expiration de ce délai, le professionnel remet immédiatement à l'administration des douanes et droits
+indirects les poinçons de titre et les fichiers informatiques supportant la version dématérialisée des poinçons qu'il
+détient.
 
 **Liens relatifs à cet article**
 
@@ -13002,15 +12999,11 @@ l'administration et ne peut plus apposer le poinçon de garantie sur les ouvrage
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+	  - Décret n°2012-247 du 21 février 2012 - art. 8
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis L
@@ -13037,7 +13030,7 @@ Les conventions sont passées pour un an et renouvelables par tacite reconductio
 ###### Article 275 ter
 
 Les organismes de contrôle mentionnés au II de l'article 535 du code général des impôts doivent obtenir un agrément pour
-pouvoir apposer le poinçon de garantie français sur les ouvrages en métaux précieux dépourvus d'un tel poinçon ou d'un
+pouvoir attester la garantie du titre des ouvrages en métaux précieux dépourvus d'un poinçon de garantie français ou d'un
 poinçon de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant
 l'Espace économique européen ou en Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat
 concerné selon des normes  identiques ou équivalentes à celles exigées en France pour le contrôle et la  certification du
@@ -13052,23 +13045,19 @@ titre.
 
 	**Modifié par**:
 
-	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
+	  - Décret n°2012-247 du 21 février 2012 - art. 9
 
 	**Cite**:
 
-	  - CGI 535
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 535
 
 
 ###### Article 275 ter A
 
-Les organismes de contrôle agréés doivent être établis sur le territoire national. Ils doivent être à jour de leurs
-obligations fiscales et douanières. Ils doivent souscrire une assurance couvrant leur responsabilité civile professionnelle.
-Le personnel de ces organismes doit comprendre des cadres qualifiés de laboratoires chargés des méthodes de la détermination
-du titre. Ils doivent respecter les prévisions du cahier des charges mentionnées au deuxième alinéa de l'article 275 ter B.
+Les organismes de contrôle agréés doivent être établis sur le territoire national. Ils doivent respecter leurs obligations
+fiscales et douanières et souscrire une assurance couvrant leur responsabilité civile professionnelle. Le personnel de ces
+organismes doit comprendre des cadres qualifiés de laboratoires chargés des méthodes de la détermination du titre. Ils
+doivent respecter les prévisions du cahier des charges mentionnées au deuxième alinéa de l'article 275 ter B.
 
 **Liens relatifs à cet article**
 
@@ -13078,40 +13067,41 @@ du titre. Ils doivent respecter les prévisions du cahier des charges mentionné
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2012-247 du 21 février 2012 - art. 10
 
 
 ###### Article 275 ter B
 
 La demande d'agrément en qualité d'organisme de contrôle est déposée auprès de la direction générale des douanes et droits
-indirects et de la direction générale des entreprises qui l'instruisent conjointement.
+indirects et de la direction générale de la compétitivité, de l'industrie et des services qui l'instruisent conjointement.
 
-Est joint à la demande un cahier des charges décrivant l'organisation de l'organisme, la procédure et les méthodes de
-contrôle et d'essai permettant de s'assurer du titre des ouvrages ainsi que les méthodes utilisées pour apposer le poinçon de
-garantie. Les spécifications techniques de ce cahier des charges sont définies par un arrêté du ministre chargé du budget.
+Est joint à la demande d'agrément un cahier des charges décrivant l'organisation de l'organisme de contrôle, la procédure et
+les méthodes de contrôle et d'essai permettant de s'assurer du titre des ouvrages, les méthodes utilisées pour attester la
+garantie du titre et le protocole de sécurité informatique mis en place en cas de marquage au laser. Les spécifications
+techniques de ce cahier des charges sont définies par un arrêté du ministre chargé du budget et du ministre chargé de
+l'industrie.
 
 La demande doit en outre être accompagnée des documents suivants : extrait du registre du commerce et des sociétés,
 organigramme faisant apparaître les responsabilités et les structures de décision de l'organisme, ses deux derniers comptes
 annuels si l'antériorité de l'organisme le permet.
 
+L'autorisation d'attester la garantie du titre par le marquage au laser d'un poinçon mentionnée au b de l'article 523 du code
+général des impôts est accordée par le directeur général des douanes et des droits indirects.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
+	  - Décret n°2012-247 du 21 février 2012 - art. 11
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J terdecies (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 523
 
 
 ###### Article 275 ter C
@@ -13140,7 +13130,7 @@ cas, l'organisme est préalablement informé des motifs susceptibles d'entraîne
 présenter ses observations dans un délai de trente jours.
 
 Lorsqu'un organisme ne remplit plus les conditions prévues par les articles 275 ter à 275 ter P, il est tenu de demander le
-retrait de son agrément et de cesser sans délai de délivrer la garantie.
+retrait de son agrément et de cesser sans délai d'attester la garantie du titre.
 
 **Liens relatifs à cet article**
 
@@ -13150,51 +13140,48 @@ retrait de son agrément et de cesser sans délai de délivrer la garantie.
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2012-247 du 21 février 2012 - art. 12
 
 
 ###### Article 275 ter E
 
 Les organismes de contrôle agréés sont placés sous le contrôle du directeur général des douanes et droits indirects et du
-directeur général des entreprises qui peuvent, l'un ou l'autre, sans délai, à titre conservatoire, suspendre l'agrément d'un
-organisme de contrôle qui ne respecte pas ses obligations. La procédure de retrait est immédiatement engagée.
+directeur général de la compétitivité, de l'industrie et des services qui peuvent, l'un ou l'autre, sans délai, à titre
+conservatoire, suspendre l'agrément d'un organisme de contrôle qui ne respecte pas ses obligations. La procédure de retrait
+est immédiatement engagée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2012-247 du 21 février 2012 - art. 13
 
 
 ###### Article 275 ter G
 
-L'organisme de contrôle agréé utilise les poinçons de titre fournis par la Monnaie de Paris, conformément à l'article 186 de
-l'annexe III au code général des impôts, sauf autorisation spéciale délivrée par l'administration aux conditions qu'elle
-détermine. Les poinçons portent un signe caractéristique propre à l'ensemble des organismes qui délivrent la garantie. Ce
-signe est enregistré auprès de la direction régionale des douanes et droits indirects dont ils dépendent au moment de
-l'agrément de l'organisme.
+La garantie du titre est attestée par :
+
+1° L'apposition du poinçon de garantie métallique, mentionné au a de l'article 523 du code général des impôts, qui porte un
+signe caractéristique spécifique à l'ensemble des organismes de contrôle agréés attestant la garantie du titre des ouvrages ;
+
+2° Ou le marquage au laser, conformément au b de l'article 523 du code général des impôts, en utilisant des fichiers
+informatiques supportant la version dématérialisée des poinçons. Ces fichiers sont élaborés, vendus et transférés dans les
+locaux de l'organisme de contrôle agréé par des organismes qui sont agréés par le ministre chargé du budget et par le
+ministre chargé de l'industrie sur la base d'un dossier attestant de leur compétence, de leur expérience et de leur
+honorabilité. Un cahier des charges arrêté par ces ministres définit les missions de ces organismes, notamment la
+vérification de la mise en place et la conformité du protocole de sécurité informatique imposé aux professionnels qui
+demandent l'autorisation d'attester la garantie du titre par marquage au laser d'un poinçon, et les conditions d'exercice de
+ces missions.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGIAN3 186
+	  - Décret n°2007-484 du 30 mars 2007
 
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2012-247 du 21 février 2012 - art. 14
 
 	**Cité par**:
 
@@ -13203,70 +13190,64 @@ l'agrément de l'organisme.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies D (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies E (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 523
 
 
 ###### Article 275 ter H
 
 L'organisme de contrôle agréé fournit à la direction régionale des douanes et droits indirects dont il dépend un relevé
-semestriel énonçant le nombre d'ouvrages essayés, le nombre d'ouvrages dont la garantie a été refusée par type de métal et le
-nombre d'ouvrages marqués par type de métal. Ce relevé doit distinguer les ouvrages contrôlés et marqués par lui pour le
-compte de professionnels non habilités et les ouvrages essayés et, le cas échéant, marqués pour le compte de professionnels
-habilités par une convention passée avec l'administration dans les conditions prévues à l'article 535 du code général des
-impôts. Il doit également fournir une liste mentionnant le nom et l'adresse de ses clients en distinguant les professionnels
-habilités de ceux qui ne le sont pas. Ces éléments d'information doivent être tenus à jour en permanence et doivent être
-accessibles à l'administration qui peut les consulter à tout moment.
+semestriel énonçant le nombre d'ouvrages essayés, le nombre d'ouvrages dont la garantie a été refusée par type de métal en
+or, argent et platine et le nombre d'ouvrages marqués par type de métal en or, argent et platine. Ce relevé doit distinguer
+les ouvrages marqués par apposition d'un poinçon de garantie métallique de ceux marqués par le procédé du laser, les ouvrages
+contrôlés et marqués par lui pour le compte de professionnels non habilités et les ouvrages essayés et, le cas échéant,
+marqués pour le compte de professionnels habilités par une convention passée avec l'administration dans les conditions
+prévues à l'article 535 du code général des impôts. Il doit également fournir une liste mentionnant le nom et l'adresse de
+ses clients en distinguant les professionnels habilités de ceux qui ne le sont pas. Ces éléments d'information doivent être
+tenus à jour en permanence et doivent être accessibles à l'administration qui peut les consulter à tout moment.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 535
-
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+	  - Décret n°2012-247 du 21 février 2012 - art. 15
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 535
 
 
 ###### Article 275 ter M
 
 Les organismes de contrôle agréés garantissent le titre des ouvrages selon les trois modalités suivantes :
 
-1° Ils apposent eux-mêmes, après essais, le poinçon de titre sur les ouvrages dépourvus du poinçon de garantie français ou
-d'un poinçon de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant
-l'Espace économique européen ou en Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat
-concerné selon des normes identiques ou équivalentes à celles exigées en France pour le contrôle et la certification du
-titre ;
+1° Ils apposent eux-mêmes, après essais, le poinçon de garantie métallique ou appliquent un poinçon par marquage au laser sur
+les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon de titre apposé dans un autre Etat membre de l'Union
+européenne, dans un autre Etat partie à l'accord instituant l'Espace économique européen ou en Turquie, par un organisme
+indépendant ou par l'administration compétente de l'Etat concerné selon des normes identiques ou équivalentes à celles
+exigées en France pour le contrôle et la certification du titre ;
 
-2° Ils essaient et, le cas échéant, marquent les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon de titre
-apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace économique
-européen ou en Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat concerné selon des normes
-identiques ou équivalentes à celles exigées en France pour le contrôle et la certification du titre apportés par des
-professionnels habilités par une convention passée avec l'administration dans les conditions prévues à l'article 535 du code
-général des impôts ;
+2° Ils essaient et, le cas échéant, apposent le poinçon de garantie métallique ou appliquent un poinçon par marquage au laser
+sur les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon de titre apposé dans un autre Etat membre de
+l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace économique européen ou en Turquie, par un
+organisme indépendant ou par l'administration compétente de l'Etat concerné selon des normes identiques ou équivalentes à
+celles exigées en France pour le contrôle et la certification du titre apportés par des professionnels habilités par une
+convention passée avec l'administration dans les conditions prévues à l'article 535 du code général des impôts ;
 
 3° Pour les ouvrages dispensés de poinçon en application des b et c de l'article 524 bis du code général des impôts, ils
 délivrent un document certifiant le titre de l'ouvrage.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 535, 524 bis
-
 	**Modifié par**:
 
-	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
+	  - Décret n°2012-247 du 21 février 2012 - art. 16
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 524 bis
+	  - Code général des impôts, CGI. - art. 535
 
 
 ###### Article 275 ter N
@@ -13289,25 +13270,23 @@ métaux précieux.
 ###### Article 275 ter P
 
 Les organismes de contrôle agréés déclarent immédiatement à la direction régionale des douanes et droits indirects dont ils
-dépendent toute disparition des poinçons de titre dont ils ont la charge. L'administration procède à une enquête. Pendant la
-durée de l'enquête, l'agrément est suspendu. Si la responsabilité de l'organisme est établie à l'issue de l'enquête
-administrative, l'administration engage une procédure de retrait d'agrément. Les poinçons de titre usagés ainsi que ceux
-détenus par un organisme dont l'agrément est retiré sont remis à la direction régionale des douanes et droits indirects dont
-dépend l'organisme pour être détruits ou renvoyés à la Monnaie de Paris, après information de l'administration des douanes.
+dépendent toute disparition ou tout incident lié à la conservation des poinçons de garantie métalliques ou des fichiers
+informatiques supportant la version dématérialisée des poinçons dont ils ont la charge. L'administration procède à une
+enquête. Pendant la durée de l'enquête, l'agrément est suspendu. Si la responsabilité de l'organisme est établie à l'issue de
+l'enquête administrative, l'administration engage une procédure de retrait d'agrément. Les poinçons de garantie métalliques
+usagés ou les fichiers informatiques devenus défectueux ainsi que ceux détenus par un organisme dont l'agrément est retiré
+sont remis à la direction régionale des douanes et droits indirects dont dépend l'organisme pour être détruits ou renvoyés à
+la Monnaie de Paris, après information de l'administration des douanes.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2007-484 du 30 mars 2007
 
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2012-247 du 21 février 2012 - art. 17
 
 
 #### Chapitre II : Tabacs

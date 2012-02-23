@@ -1,34 +1,47 @@
 # Article 275 bis F
 
-Le professionnel habilité utilise les poinçons de garantie fabriqués par la Monnaie de Paris en application de l'article 186
-de l'annexe III au code général des impôts, sauf autorisation spéciale de marquage par d'autres méthodes délivrée par le
-directeur régional des douanes et droits indirects aux conditions qu'il détermine. Ils lui sont remis par la direction
-régionale des douanes et droits indirects de rattachement ou la Monnaie de Paris.
+La garantie du titre est attestée :
 
-Il s'assure du bon état des poinçons dont il a la charge et contrôle qu'ils ne sortent pas du local utilisé pour le
-poinçonnage des ouvrages. Il remet à la direction régionale des douanes et droits indirects dont il dépend les poinçons usés
-ou les renvoie à la Monnaie de Paris, après en avoir informé l'administration des douanes.
+1° Par l'apposition d'un poinçon de garantie métallique mentionné au a de l'article 523 du code général des impôts. Les
+poinçons sont remis par la Monnaie de Paris au professionnel habilité qui s'assure de leur bon état et de leur correcte
+conservation. Les poinçons usés sont renvoyés à la direction régionale des douanes et des droits indirects territorialement
+compétente dans le ressort de laquelle le professionnel habilité exerce son activité.
 
-Toute disparition de ces poinçons doit être signalée immédiatement à la direction régionale des douanes et droits indirects
-dont le professionnel dépend qui procède à une enquête. Pendant la durée de l'enquête, l'application de la convention est
-suspendue. Il appartient, pendant ce délai, au professionnel de faire apposer le poinçon de garantie par un bureau de
-garantie ou un organisme de contrôle agréé mentionné à l'article 548 du code général des impôts. Si la responsabilité du
-professionnel est établie à l'issue de cette enquête, la convention est résiliée.
+Toute disparition ou tout incident lié à la conservation d'un poinçon de garantie métallique est immédiatement signalé par le
+professionnel habilité à la direction régionale des douanes et droits indirects mentionnée au premier alinéa du 1° qui
+procède alors à une enquête. Pendant la durée de l'enquête, l'application de la convention est suspendue. Il appartient au
+professionnel habilité, pendant ce délai, de faire apposer le poinçon par un bureau de garantie ou un organisme de contrôle
+agréé mentionné à l'article 535 du code général des impôts. Si la responsabilité du professionnel habilité est établie à
+l'issue de cette enquête, la convention peut être résiliée ;
+
+2° Ou par le marquage au laser, conformément au b de l'article 523 du code général des impôts en utilisant des fichiers
+informatiques supportant la version dématérialisée des poinçons. Ces fichiers sont élaborés, vendus et transférés dans les
+locaux du professionnel habilité par des organismes agréés par le ministre chargé du budget et par le ministre chargé de
+l'industrie sur la base d'un dossier attestant de leur compétence, de leur expérience et de leur honorabilité. Un cahier des
+charges arrêté par ces ministres définit les missions de ces organismes, notamment la vérification de la mise en place et la
+conformité du protocole de sécurité informatique imposé aux professionnels qui demandent l'autorisation d'attester la
+garantie du titre par marquage au laser d'un poinçon, et les conditions d'exercice de ces missions.
+
+Le professionnel habilité s'assure du bon état des fichiers et de leur correcte conservation. Tout fichier dont le
+fonctionnement est devenu défectueux est signalé à la direction régionale des douanes territorialement compétente dans le
+ressort de laquelle le professionnel habilité exerce son activité.
+
+Tout incident relatif à la protection des fichiers ou toute constatation de duplication ou de disparition de ces fichiers
+doit être immédiatement signalé par le professionnel habilité à la direction régionale des douanes et droits indirects
+mentionnée au premier alinéa du 2° qui procède alors à une enquête. Pendant la durée de l'enquête, l'application de la
+convention est suspendue. Il appartient au professionnel habilité, pendant ce délai, de faire apposer le poinçon par un
+bureau de garantie ou un organisme de contrôle agréé mentionné à l'article 535 du code général des impôts. Si la
+responsabilité du professionnel habilité est établie à l'issue de cette enquête, la convention peut être résiliée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 548
-	  - CGIAN3 186
+	  - Décret n°2007-484 du 30 mars 2007
 
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2012-247 du 21 février 2012 - art. 4
 
 	**Cité par**:
 
@@ -38,6 +51,7 @@ professionnel est établie à l'issue de cette enquête, la convention est rési
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies D (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies E (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 523
+	  - Code général des impôts, CGI. - art. 535

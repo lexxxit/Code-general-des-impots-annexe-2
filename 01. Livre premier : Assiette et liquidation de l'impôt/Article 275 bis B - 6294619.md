@@ -2,27 +2,16 @@
 
 Les professionnels, notamment les fabricants, importateurs, acquéreurs intracommunautaires, commissaires-priseurs
 judiciaires, responsables d'un crédit municipal ou d'une société de ventes volontaires de meubles aux enchères publiques et
-commissionnaires en garantie qui souhaitent être habilités à apposer eux-mêmes les poinçons de titre de la garantie sur les
-ouvrages en métaux précieux qu'ils produisent ou sur les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon
-de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace
-économique européen ou en Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat concerné selon
-des normes identiques ou équivalentes à celles exigées en France pour le contrôle et la certification du titre, qu'ils
-importent, introduisent en provenance d'un autre Etat membre de l'Union européenne, vendent ou qui leur sont confiés, doivent
-déposer une demande auprès de la direction régionale des douanes et droits indirects dont ils dépendent. Est joint à cette
-demande le cahier des charges mentionné à l'article 275 bis C.
-
-Lorsque le dossier de candidature est complet, le directeur régional des douanes et droits indirects en délivre récépissé. Le
-rejet de la demande d'habilitation est motivé.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 29 de la loi n° 2000-642 du 10 juillet 2000.
+commissionnaires en garantie qui souhaitent être habilités à attester eux-mêmes la garantie du titre des ouvrages qu'ils
+produisent ou du titre des ouvrages dépourvus du poinçon de garantie français ou d'un poinçon de titre apposé dans un autre
+Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace économique européen ou en
+Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat concerné selon des normes identiques ou
+équivalentes à celles exigées en France pour le contrôle et la certification du titre, qu'ils importent, introduisent en
+provenance d'un autre Etat membre de l'Union européenne, vendent ou qui leur sont confiés, doivent déposer une demande auprès
+de la direction régionale des douanes et droits indirects dont ils dépendent. Est joint à cette demande le cahier des charges
+mentionné à l'article 275 bis C.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 275 bis C
 
 	**Cité par**:
 
@@ -32,4 +21,8 @@ Modification effectuée en conséquence de l'article 29 de la loi n° 2000-642 d
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+	  - Décret n°2012-247 du 21 février 2012 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C
