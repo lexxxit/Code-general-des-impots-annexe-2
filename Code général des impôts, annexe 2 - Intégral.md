@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-02-24
+Version Consolidée au 2012-03-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16035,93 +16035,6 @@ Cette demande est transmise, dans un délai d'un mois à compter de sa date de r
 
 ##### Section 0I : Taxes foncières
 
-###### Article 310-0 H
-
-Les critères de qualité environnementale mentionnés au I bis de l'article 1384 A du code général des impôts sont ainsi
-définis :
-
-1° Critère relatif aux modalités de conception de la construction :
-
-a. Pour l'élaboration et la mise en oeuvre des décisions relatives aux caractéristiques environnementales de la construction,
-le maître d'ouvrage désigne en son sein une personne ou un service ou est assisté par une tierce personne physique ou morale
-possédant des compétences en matière d'environnement ;
-
-b. Le maître d'ouvrage fixe les caractéristiques environnementales de la construction qui sont annexées aux dossiers de
-consultation de la maîtrise d'oeuvre et des entreprises, notamment les modalités de réalisation, les performances énergétique
-et acoustique, les moyens mis en oeuvre pour l'utilisation d'énergies et de matériaux renouvelables et la maîtrise des
-fluides ;
-
-c. Le maître d'ouvrage définit et met en oeuvre un système de management environnemental de la construction au regard des
-missions des maîtres d'oeuvre et des entrepreneurs, qui précise notamment les compétences requises pour chacun d'entre eux et
-les modalités de l'évaluation de la construction au regard des caractéristiques environnementales mentionnées ci-dessus ;
-
-2° Critère relatif aux modalités de réalisation de la construction :
-
-a. Le maître d'ouvrage définit les objectifs visant à réduire les nuisances du chantier telles que les rejets d'eau,
-l'émission de poussières, les bruits, la circulation des engins et véhicules des entreprises, et à améliorer la gestion des
-déchets du chantier afin d'en réduire le volume, d'en promouvoir le tri et d'en assurer la traçabilité ;
-
-b. Le dossier de consultation des entreprises chargées des travaux de construction prévoit que celles-ci doivent fournir leur
-plan d'organisation dans le cadre du chantier et un plan de gestion de leurs déchets répondant aux exigences précitées ;
-
-3° Critère relatif aux performances énergétique et acoustique :
-
-a. La consommation conventionnelle d'énergie pour le chauffage et l'eau chaude sanitaire doit être inférieure de 8 % au moins
-à la consommation de référence fixée dans les conditions prévues à l'article R. 111-20 du code de la construction et de
-l'habitation ;
-
-b. Le niveau de pression acoustique pondéré du bruit de choc standardisé perçu dans chaque pièce principale de tous les
-logements doit être inférieur ou égal au niveau fixé dans les conditions prévues à l'article R. 111-4 du code de la
-construction et de l'habitation, diminué de trois décibels ;
-
-4° Critère relatif à l'utilisation d'énergies et de matériaux renouvelables :
-
-a. La part de la consommation conventionnelle d'énergie réalisée au moyen d'un système utilisant des énergies renouvelables
-doit être supérieure, soit à 40 % de la consommation conventionnelle correspondant au chauffage de l'eau chaude sanitaire
-dans le cas d'immeubles ne comportant pas plus de deux logements et à 30 % dans les autres cas, soit à 15 % de la
-consommation conventionnelle totale correspondant au chauffage des parties privatives et des parties communes, à l'éclairage
-des parties communes et au chauffage de l'eau chaude sanitaire ;
-
-b. La quantité de matériaux renouvelables utilisés pour la construction doit représenter au moins 20 décimètres cubes par
-mètre carré de surface hors oeuvre nette pour les bâtiments composés d'au plus quatre étages, et au moins 10 décimètres cubes
-par mètre carré pour ceux comportant plus de quatre étages.
-
-Un arrêté du ministre chargé du logement et de la construction définit les sources d'énergie renouvelable et les matériaux
-renouvelables à prendre en compte ;
-
-5° Critère relatif à la maîtrise des fluides :
-
-a. Les logements doivent être équipés de matériels économes en eau dont la liste figure dans l'arrêté mentionné au 4° et, le
-cas échéant, de réducteurs de pression limitant la pression de l'eau à trois bars aux points de puisage ;
-
-b. Des moyens d'information sur la bonne gestion des fluides doivent être mis en place au profit des habitants des logements
-dans des conditions définies par le maître d'ouvrage.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1384 A
-	  - Code de la construction et de l'habitation R111-20, R111-4
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Modifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H bis (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 121-0 AA (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-
 ###### Article 310-00 H
 
 L'engagement de gestion prévu à l'article 1395 D du code général des impôts porte sur la conservation du caractère humide des
@@ -16149,6 +16062,92 @@ des zones humides dans les chartes et documents de gestion ou d'objectifs approu
 	**Codifié par**:
 
 	  - L'article sera codifié ultérieurement
+
+
+###### Article 310-0 H
+
+Les critères de qualité environnementale mentionnés au I bis de l'article 1384 A du code général des impôts sont ainsi
+définis : 
+
+1° Critère relatif aux modalités de conception de la construction : 
+
+a. Pour l'élaboration et la mise en oeuvre des décisions relatives aux caractéristiques environnementales de la construction,
+le maître d'ouvrage désigne en son sein une personne ou un service ou est assisté par une tierce personne physique ou morale
+possédant des compétences en matière d'environnement ; 
+
+b. Le maître d'ouvrage fixe les caractéristiques environnementales de la construction qui sont annexées aux dossiers de
+consultation de la maîtrise d'oeuvre et des entreprises, notamment les modalités de réalisation, les performances énergétique
+et acoustique, les moyens mis en oeuvre pour l'utilisation d'énergies et de matériaux renouvelables et la maîtrise des
+fluides ; 
+
+c. Le maître d'ouvrage définit et met en oeuvre un système de management environnemental de la construction au regard des
+missions des maîtres d'oeuvre et des entrepreneurs, qui précise notamment les compétences requises pour chacun d'entre eux et
+les modalités de l'évaluation de la construction au regard des caractéristiques environnementales mentionnées ci-dessus ; 
+
+2° Critère relatif aux modalités de réalisation de la construction : 
+
+a. Le maître d'ouvrage définit les objectifs visant à réduire les nuisances du chantier telles que les rejets d'eau,
+l'émission de poussières, les bruits, la circulation des engins et véhicules des entreprises, et à améliorer la gestion des
+déchets du chantier afin d'en réduire le volume, d'en promouvoir le tri et d'en assurer la traçabilité ; 
+
+b. Le dossier de consultation des entreprises chargées des travaux de construction prévoit que celles-ci doivent fournir leur
+plan d'organisation dans le cadre du chantier et un plan de gestion de leurs déchets répondant aux exigences précitées ; 
+
+3° Critère relatif aux performances énergétique et acoustique : 
+
+a. La consommation conventionnelle d'énergie pour le chauffage et l'eau chaude sanitaire doit être inférieure de 8 % au moins
+à la consommation de référence fixée dans les conditions prévues à l'article R. 111-20 du code de la construction et de
+l'habitation ; 
+
+b. Le niveau de pression acoustique pondéré du bruit de choc standardisé perçu dans chaque pièce principale de tous les
+logements doit être inférieur ou égal au niveau fixé dans les conditions prévues à l'article R. 111-4 du code de la
+construction et de l'habitation, diminué de trois décibels ; 
+
+4° Critère relatif à l'utilisation d'énergies et de matériaux renouvelables : 
+
+a. La part de la consommation conventionnelle d'énergie réalisée au moyen d'un système utilisant des énergies renouvelables
+doit être supérieure, soit à 40 % de la consommation conventionnelle correspondant au chauffage de l'eau chaude sanitaire
+dans le cas d'immeubles ne comportant pas plus de deux logements et à 30 % dans les autres cas, soit à 15 % de la
+consommation conventionnelle totale correspondant au chauffage des parties privatives et des parties communes, à l'éclairage
+des parties communes et au chauffage de l'eau chaude sanitaire ; 
+
+b. La quantité de matériaux renouvelables utilisés pour la construction doit représenter au moins 20 décimètres cubes par
+mètre carré de surface hors oeuvre nette dans sa définition applicable avant l'entrée en vigueur de l'ordonnance n° 2011-1539
+du 16 novembre 2011 portant réforme de la surface de plancher pour les bâtiments composés d'au plus quatre étages, et au
+moins 10 décimètres cubes par mètre carré pour ceux comportant plus de quatre étages. 
+
+Un arrêté du ministre chargé du logement et de la construction définit les sources d'énergie renouvelable et les matériaux
+renouvelables à prendre en compte ; 
+
+5° Critère relatif à la maîtrise des fluides : 
+
+a. Les logements doivent être équipés de matériels économes en eau dont la liste figure dans l'arrêté mentionné au 4° et, le
+cas échéant, de réducteurs de pression limitant la pression de l'eau à trois bars aux points de puisage ; 
+
+b. Des moyens d'information sur la bonne gestion des fluides doivent être mis en place au profit des habitants des logements
+dans des conditions définies par le maître d'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006
+
+	**Cite**:
+
+	  - Ordonnance n°2011-1539 du 16 novembre 2011 (V)
+	  - Code général des impôts, CGI. - art. 1384 A
+	  - Code de la construction et de l'habitation. - art. R*111-20
+	  - Code de la construction et de l'habitation. - art. R*111-4
+
+	**Modifié par**:
+
+	  - Décret n°2011-2054 du 29 décembre 2011 - art. 5
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H bis (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121-0 AA (V)
 
 
 ###### Article 310-0 H bis
@@ -17501,305 +17500,6 @@ regroupe est jointe à la notification, mentionnée au VI de ce même article, d
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1529 (V)
-
-
-#### Chapitre II : Enregistrement
-
-##### Section I : Taxe locale d'équipement
-
-###### Article 317 bis
-
-Pour l'application du 1° du I de l'article 1585 C du code général des impôts, sont exclues du champ d'application de la taxe
-locale d'équipement les constructions définies ci-après : 
-
-1° Les constructions édifiées par l'Etat, les collectivités territoriales et leurs groupements, qui sont exemptées de la taxe
-foncière sur les propriétés bâties en application du 1° de l'article 1382 du code général des impôts ; 
-
-1° bis Les constructions édifiées pour le compte de l'Etat, des collectivités territoriales ou de leurs groupements, en vertu
-d'un contrat de partenariat, d'un bail emphytéotique administratif prévu à l'article L. 1311-2 du code général des
-collectivités territoriales ou à l'article L. 6148-2 du code de la santé publique, d'un bail prévu à l'article L. 2122-15 du
-code général de la propriété des personnes publiques, d'un contrat mentionné à l'article 2 de la loi n° 87-432 du 22 juin
-1987 relative au service public pénitentiaire ou à l'article 3 de la loi n° 2002-1094 du 29 août 2002 d'orientation et de
-programmation pour la sécurité intérieure, ou d'une autorisation d'occupation du domaine public assortie de droits réels,
-qui, à l'expiration de ce contrat, sont incorporées au domaine de la personne publique conformément aux clauses du contrat et
-exemptées de la taxe foncière sur les propriétés bâties en application du 1° de l'article 1382 du code général des impôts. 
-
-La condition relative à l'absence de production de revenus prévue au 1° de l'article 1382 du code général des impôts doit
-être appréciée au regard de la personne publique au domaine de laquelle l'immeuble doit être incorporé ; 
-
-2° Les constructions destinées à recevoir une affectation d'assistance, de bienfaisance, de santé, d'enseignement ou
-culturelle, scientifique ou sportive lorsque ces constructions sont édifiées par ou, dans le cadre d'un des contrats
-mentionnés au 1° bis, pour le compte : 
-
-Des établissements publics n'ayant pas un caractère industriel ou commercial ; 
-
-Des associations, des unions d'associations ou des fondations reconnues d'utilité publique ; 
-
-Des établissements congréganistes légalement reconnus ou autorisés ; 
-
-Des associations déclarées qui ont pour but exclusif l'assistance ou la bienfaisance ou dont l'objet et la gestion présentent
-un caractère désintéressé au sens de l'article 1er du décret n° 67-731 du 30 août 1967. Le bénéfice de cette disposition est
-subordonné à la condition que l'association constructrice s'engage, pour elle et ses ayants cause, à donner à la construction
-une affectation conforme à ce qui est dit ci-dessus pendant une durée minimale de cinq ans à compter de l'achèvement de cette
-construction ; 
-
-Des caisses primaires et régionales d'assurance maladie et d'assurance vieillesse, des caisses générales de sécurité sociale
-des départements d'outre mer, des caisses d'allocations familiales, des unions ou fédérations de caisses, des caisses
-départementales de mutualité sociale agricole, des caisses centrales de secours mutuels agricoles et d'allocations familiales
-mutuelles agricoles, de la caisse nationale d'assurance vieillesse agricole, des services et organismes gérant des régimes
-spéciaux prévus à l'article L 711-1 du code de la sécurité sociale, des institutions de retraite ou de prévoyance
-complémentaires visées à l'article L 732-1 du même code, des caisses constituées pour l'application des titres II, III, IV du
-livre VI du même code, concernant le régime d'assurance vieillesse des travailleurs non salariés et de l'article L 611-1 du
-même code, relatif à l'assurance maladie maternité des travailleurs non salariés des professions non agricoles ; 
-
-Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles, dont les statuts ont été approuvés dans les
-conditions prévues à l'article L 122-5 du code de la mutualité. 
-
-3° Les constructions édifiées par les établissements publics du culte dans les départements du Bas-Rhin, du Haut-Rhin ou de
-la Moselle ou, dans le cadre d'un des contrats mentionnés au 1° bis, pour leur compte ; 
-
-4° Les constructions édifiées par les associations cultuelles ou unions d'associations cultuelles ou, dans le cadre d'un des
-contrats mentionnés au 1° bis, pour leur compte et celles qui, édifiées par d'autres groupements ou, dans le cadre d'un des
-mêmes contrats, pour leur compte, sont destinées à être exclusivement affectées à l'exercice public d'un culte ; 
-
-5° Les constructions édifiées soit par les Etats étrangers ou, dans le cadre d'un des contrats mentionnés au 1° bis, pour
-leur compte à usage de locaux diplomatiques ou consulaires ou pour la résidence d'un chef de poste consulaire de carrière,
-soit par les organisations internationales intergouvernementales ou, dans le cadre d'un des mêmes contrats, pour leur compte,
-pour la réalisation de leur objet sous réserve des accords passés entre la France et ces organisations. 
-
-Toutefois, pour qu'ils puissent bénéficier des dispositions du présent article, les organismes constructeurs doivent avoir
-une activité strictement conforme à leur objet légal ou statutaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-731 du 30 août 1967
-	  - Loi n°2002-1094 du 29 août 2002
-	  - Code général des impôts, CGI. - art. 1382
-	  - Code général des impôts, CGI. - art. 1585 C
-	  - Code général de la propriété des personnes publiques. - art. L2122-15
-	  - Code général des collectivités territoriales - art. L1311-2
-	  - Code de la santé publique - art. L6148-2
-	  - Code de la sécurité sociale. - art. L611-1
-	  - Code de la sécurité sociale. - art. L711-1
-	  - Code de la sécurité sociale. - art. L732-1
-	  - Code de la mutualité - art. L122-5
-
-	**Modifié par**:
-
-	  - Décret n°2009-569 du 20 mai 2009 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-
-###### Article 317 quater
-
-Dans les zones d'aménagement concerté, l'exclusion de la taxe locale d'équipement prévue au 2° du I de l'article 1585 C du
-code général des impôts est subordonnée à la condition que soit pris en charge par l'aménageur ou par les constructeurs au
-moins le coût des équipements ci-après :
-
-1° Dans le cas des zones d'aménagement concerté autres que de rénovation urbaine :
-
-a) Les voies intérieures à la zone qui n'assurent pas la circulation de secteur à secteur ainsi que les réseaux non concédés
-qui leur sont rattachés;
-
-b) Les espaces verts, aires de jeux et promenades correspondant aux seuls besoins des habitants ou des usagers de chaque
-secteur;
-
-c) Les aires de stationnement correspondant aux seuls besoins des habitants ou des usagers de chaque secteur.
-
-2° Dans le cas de rénovation urbaine :
-
-a) Les voies d'accès aux immeubles inclus dans le périmètre de rénovation et les réseaux non concédés qui leur sont
-rattachés;
-
-b) Les espaces verts, aires de jeux ou promenades correspondant aux seuls besoins des habitants des immeubles concernés;
-
-c) Les aires de stationnement qui correspondent aux seuls besoins des habitants des immeubles concernés.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 117-III de la loi n° 2009-526 du 12 mai 2009.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1585 C I 2°
-
-	**Modifié par**:
-
-	  - Décret n°2010-421  du 27 avril 2010 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-
-###### Article 317 septies
-
-Est prise en compte pour l'assiette de la taxe locale d'équipement la surface hors oeuvre nette telle qu'elle est définie à
-l'article R. 112-2 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°87-285 du 22 avril 1987 - art. 4 (V) JORF 25 avril 1987
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-
-
-###### Article 317 sexies
-
-I. Les valeurs modifiées conformément aux dispositions du I de l'article 1585 D du code général des impôts sont arrondies à
-l'euro le plus proche, la fraction égale à 0,5 étant comptée pour 1. Elles sont applicables aux constructions pour lesquelles
-le permis de construire a été notifié ou tacitement délivré, ou, s'il s'agit de constructions soumises à la déclaration
-prévue à l'article L. 422-2 du code de l'urbanisme, pour lesquelles le délai d'opposition dont, en vertu de ce même article,
-dispose l'autorité compétente en matière de permis de construire, est venu à expiration, postérieurement au 1er juillet de
-chaque année et antérieurement au 1er juillet de l'année suivante.
-
-II. A défaut de délibération du conseil municipal fixant le taux de la catégorie 1 visée au 1° du I de l'article 1585 D, le
-taux qui est applicable à cette catégorie est celui qui a été fixé antérieurement à la publication du décret n° 81-620 du 20
-mai 1981 relatif à la taxe locale d'équipement pour la catégorie 2 visée au 2° du I du même article.
-
-Pour les autres catégories, en l'absence de délibération du conseil municipal ou de l'organe délibérant de l'établissement
-public groupant plusieurs communes, les taux fixés respectivement pour les catégories correspondantes antérieurement à la
-publication du décret précité s'appliquent sans modification.
-
-III. Afin de bénéficier du classement en 4e catégorie visée au 4° du I de l'article 1585 D, l'intéressé doit fournir au
-responsable du service de l'Etat chargé de l'urbanisme dans le département ou, en cas d'application de l'article R. 421-21 du
-code de l'urbanisme, au maire :
-
-Une attestation de l'organisme de financement précisant que le prêt aidé à l'accession à la propriété ou le prêt locatif aidé
-a été octroyé ;
-
-Ou, pour les immeubles d'habitation collectifs, une attestation que les constructions satisfont aux conditions nécessaires à
-l'octroi de tels prêts.
-
-Cette attestation doit être remise à l'autorité ci-dessus désignée dans le délai de quinze mois suivant la notification du
-permis de construire, sa délivrance tacite ou la date à laquelle les travaux soumis à la déclaration prévue à l'article L.
-422-2 du code de l'urbanisme peuvent, en l'absence d'opposition, être exécutés.
-
-A l'expiration de ce délai, faute pour le constructeur de fournir cette attestation, la taxe est liquidée par application de
-la valeur forfaitaire et du taux prévus pour la 5e catégorie visée au 5° du I de l'article 1585 D si la construction remplit
-les conditions nécessaires à l'attribution d'un prêt conventionné, ou si les prix de revient ne sont pas supérieurs aux prix
-plafonds prévus pour l'application de l'article R. 331-68 du code de la construction et de l'habitation ; dans le cas
-contraire, la taxe est liquidée dans les conditions applicables pour la 7e catégorie visée au 7° du I de l'article 1585 D.
-
-IV. Afin de pouvoir bénéficier du classement en 5e catégorie visée au 5° du I de l'article 1585 D et à défaut de la
-production d'une justification de l'octroi d'un prêt conventionné, l'intéressé doit attester au responsable du service de
-l'Etat chargé de l'urbanisme dans le département ou, en cas d'application de l'article R. 421-21 du code de l'urbanisme, au
-maire, que la construction satisfait aux conditions de prix fixées par la réglementation applicable aux prêts conventionnés.
-
-La justification ou l'attestation précitée doit être remise à l'autorité ci-dessus désignée dans le délai de quinze mois
-suivant la notification du permis de construire, sa délivrance tacite ou la date à laquelle les travaux soumis à la
-déclaration prévue à l'article L. 422-2 du code de l'urbanisme peuvent, en l'absence d'opposition, être exécutés.
-
-A l'expiration de ce délai, faute pour le constructeur de produire l'un ou l'autre de ces documents, la taxe est liquidée par
-application de la valeur forfaitaire et du taux prévus pour la 7e catégorie visée au 7° du I de l'article 1585 D.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1585 D
-	  - Décret n°81-620 du 20 mai 1981
-	  - Code de l'urbanisme - art. L422-2
-	  - Code de l'urbanisme - art. R421-21
-	  - Code de la construction et de l'habitation. - art. R331-68
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-
-###### Article 317 ter
-
-Lorsque le constructeur est une société entrant dans les prévisions de l'article 1655 ter du code général des impôts, il
-n'est pas tenu compte, pour la détermination de la base d'imposition à la taxe locale d'équipement, des locaux qui sont
-destinés à être attribués à une collectivité visée à l'article 317 bis et à recevoir l'une des affectations prévues audit
-article.
-
-Dans le cas prévu au neuvième alinéa du même article, l'engagement d'affecter les locaux à l'une des activités définies par
-le troisième alinéa de cette disposition doit être pris par le titulaire des actions ou des parts sociales donnant vocation à
-leur propriété ou à leur jouissance, conjointement avec la société de construction.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1655 ter
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-
-##### Section II : Impositions ayant le permis de construire pour fait générateur
-
-###### Article 317 septies A
-
-La détermination de l'assiette et la liquidation des impositions dont la délivrance du permis de construire constitue le fait
-générateur sont effectuées par le responsable du service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas
-d'application de l'article R. 424-1 du code de l'urbanisme, par le maire.
-
-Les modalités techniques d'application du présent article sont fixées par arrêté du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°83-1261 1983-12-30 art. 38 : Code de l'urbanisme art. R424-1, art. R424-3, JORF 7 janvier 1984 en vigueur le 1er avril 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 du 24 septembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-	**Cite**:
-
-	  - Code de l'urbanisme R424-1
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1985
 
 
 ### Titre II : Impositions départementales
