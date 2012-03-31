@@ -1,25 +1,21 @@
 # Article 396 quindecies
 
 Pour l'exécution des enquêtes auxquelles procèdent les membres du comité du contentieux fiscal douanier et des changes en vue
-de l'élaboration du rapport annuel prévu à l'article L 138 du livre des procédures fiscales, le comité fait appel aux corps
-ou services habilités à contrôler l'activité des services déconcentrés de la direction générale des impôts.
+de l'élaboration du rapport annuel prévu à l'article L. 138 du livre des procédures fiscales, le comité fait appel aux corps
+ou services habilités à contrôler l'activité des services déconcentrés de la direction générale des finances publiques. 
 
-Il peut demander au directeur général des impôts de désigner des agents à cette fin.
+Il peut demander au directeur général des finances publiques de désigner des agents à cette fin.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - Décret n°92-836 du 27 août 1992
 
 	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°2012-430 du 29 mars 2012 - art. 14
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L138 (M)
+	  - Livre des procédures fiscales - art. L138

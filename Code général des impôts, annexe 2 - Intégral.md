@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-04-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1778,15 +1778,16 @@ mobilières ou dont la profession comporte à titre accessoire des opérations d
 aucun paiement ni ouvrir aucun compte sans exiger du requérant la justification de son identité et l'indication de son
 domicile réel.
 
-Elle est, en outre, tenue de remettre à la direction des services fiscaux du lieu de l'établissement payeur, dans des
-conditions qui sont arrêtées par le ministre de l'économie et des finances (1), le relevé des sommes payées par elle, sous
-quelque forme que ce soit, sur présentation ou remise de coupons ou d'instruments représentatifs de coupons.
+Elle est, en outre, tenue de remettre à la direction départementale ou, le cas échéant, régionale des finances publiques du
+lieu de l'établissement payeur, dans des conditions qui sont arrêtées par le ministre chargé du budget (1), le relevé des
+sommes payées par elle, sous quelque forme que ce soit, sur présentation ou remise de coupons ou d'instruments représentatifs
+de coupons.
 
 Les mêmes obligations incombent aux collectivités pour les dividendes et intérêts de leurs propres actions, parts ou
 obligations qu'elles payent à des personnes ou sociétés autres que celles qui sont chargées du service de leurs coupons.
 
-Des arrêtés du ministre de l'économie et des finances (1) fixent les conditions dans lesquelles les caisses publiques sont
-tenues d'appliquer les dispositions du présent article.
+Des arrêtés du ministre chargé du budget (1) fixent les conditions dans lesquelles les caisses publiques sont tenues
+d'appliquer les dispositions du présent article.
 
 2. Les coupons présentés sont, sauf preuve contraire, réputés propriété du requérant. Dans le cas où celui-ci présente des
 coupons pour le compte de tiers, il a la faculté de remettre à l'établissement payeur une liste indiquant, outre ses nom,
@@ -1797,9 +1798,9 @@ appartenant à chacun d'eux.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN4 7 à 17
+	  - Décret n°2012-430 du 29 mars 2012 - art. 2
 
 	**Cité par**:
 
@@ -3804,14 +3805,14 @@ de la demande de restitution à raison du crédit d'impôt afférent aux revenus
 
 ###### Article 95
 
-Le mandatement des sommes à restituer est fait par le directeur des services fiscaux du département dans lequel la
-déclaration ou la demande de restitution a été déposée.
+Le mandatement des sommes à restituer est fait par le   directeur départemental ou, le cas échéant, régional des finances
+publiques  du département dans lequel la déclaration ou la demande de restitution a été déposée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 199 ter I, II
+	  - Décret n°2012-430 du 29 mars 2012 - art. 17
 
 
 ##### III : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer
@@ -5156,32 +5157,29 @@ même délai la déclaration prévue à l'article 102 Z.
 
 Lorsqu'elle relève du I de l'article 209 B du code général des impôts, la personne morale établie en France et passible de
 l'impôt sur les sociétés doit joindre avec le relevé de solde d'impôt sur les sociétés prévu au 2 de l'article 1668 du même
-code qu'elle dépose auprès du comptable de la direction générale des impôts un état faisant apparaître le montant des
-prélèvements fiscaux et des retenues à la source imputables sur l'impôt sur les sociétés par application des articles 102 W,
-102 X et 102 XA. Cet état précise notamment leur montant, la nature du revenu correspondant, leur taux et leur Etat
-d'origine.
+code qu'elle dépose auprès du comptable de la direction générale des finances publiques du lieu d'imposition défini à
+l'article 218 A du même code, un état faisant apparaître le montant des prélèvements fiscaux et des retenues à la source
+imputables sur l'impôt sur les sociétés par application des articles 102 W, 102 X et 102 XA. Cet état précise notamment leur
+montant, la nature du revenu correspondant, leur taux et leur Etat d'origine.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 209 B, 1668, 102 W, 102 X, 102 XA
-
-	**Créé par**:
-
-	  - Décret n°2006-1309 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
-
 	**Codifié par**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2007-484 du 30 mars 2007
 
 	**Modifié par**:
 
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
+	  - Décret n°2012-430 du 29 mars 2012 - art. 3
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 W
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 X
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 XA
+	  - Code général des impôts, CGI. - art. 1668
+	  - Code général des impôts, CGI. - art. 209 B
+	  - Code général des impôts, CGI. - art. 218 A (V)
 
 
 ##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger
@@ -6374,25 +6372,23 @@ de ces mêmes dispositions par les associés ou membres de cette entreprise.
 ###### Article 140 terdecies
 
 Pour l'application du III de l'article 217 undecies du code général des impôts, l'avis du ministre chargé de l'outre-mer est
-donné dans un délai de trente jours à compter de la date d'envoi de la demande du ministre chargé du budget.
+donné dans un délai de trente jours à compter de la date d'envoi de la demande du ministre chargé du budget. 
 
-Lorsque le ministre chargé du budget a délégué son pouvoir de décision aux directeurs des services fiscaux des départements
-d'outre-mer, en application des dispositions du I de l'article 1649 nonies du code général des impôts, le ministre chargé de
-l'outre-mer peut déléguer son pouvoir au préfet du département d'outre-mer concerné.
+Lorsque le ministre chargé du budget a délégué son pouvoir de décision aux directeurs régionaux ou, le cas échéant,
+départementaux des finances publiques des départements d'outre-mer, en application des dispositions du I de l'article 1649
+nonies du code général des impôts, le ministre chargé de l'outre-mer peut déléguer son pouvoir au préfet du département
+d'outre-mer concerné.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 4
+
 	**Cite**:
 
-	  - CGI 217 undecies, 1649 nonies
-
-	**Créé par**:
-
-	  - Décret n°99-157 du 5 mars 1999 - art. 2 () JORF 6 mars 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
+	  - Code général des impôts, CGI. - art. 1649 nonies
+	  - Code général des impôts, CGI. - art. 217 undecies
 
 
 ###### Article 140 undecies
@@ -6674,8 +6670,8 @@ l'article 159 A.
 
 ###### Article 159 C
 
-La taxe est constatée, recouvrée et contrôlée comme en matière de taxe sur les salaires. Elle est versée au comptable du
-Trésor avant le 5 de chaque mois, quel que soit le montant dû.
+La taxe est constatée, recouvrée et contrôlée comme en matière de taxe sur les salaires. Elle est versée au comptable de la
+direction générale des finances publiques avant le 5 de chaque mois, quel que soit le montant dû.
 
 En cas de cession ou de cessation d'activité du fournisseur des services d'informations ou interactifs à caractère
 pornographique, la taxe est immédiatement exigible.
@@ -6686,17 +6682,13 @@ s'applique le versement, le montant des sommes imposables et le montant de la ta
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°91-633 du 4 juillet 1991 - art. 3 (V) JORF 10 juillet 1992
-
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°92-836 du 27 août 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - Décret n°2012-430 du 29 mars 2012 - art. 5
 
 
 #### Chapitre VI : Cotisation perçue au titre de la participation des employeurs à l'effort de construction
@@ -7302,37 +7294,34 @@ b. D'un état comportant indication de l'emploi de la provision dans les deux an
 Les personnes passibles du prélèvement institué par l'article 244 bis A du code général des impôts doivent accréditer, auprès
 de l'administration chargée du recouvrement, un représentant domicilié en France qui s'engage à remplir les formalités
 auxquelles elles sont soumises et à acquitter ce prélèvement en leur lieu et place, y compris, le cas échéant, l'amende
-prévue au 1 de l'article 1761 du code précité.
+prévue au 1 de l'article 1761 du code précité. 
 
-La déclaration de plus-value, portant mention du représentant accrédité et visée par l'intéressé, est déposée :
+La déclaration de plus-value, portant mention du représentant accrédité et visée par l'intéressé, est déposée : 
 
 A l'appui de la réquisition de publier ou de la présentation à l'enregistrement s'il s'agit d'une cession constatée par un
-acte ;
+acte ; 
 
-Au service des impôts dont relève le domicile du représentant accrédité dans le cas contraire.
+Au service des impôts dont relève le domicile du représentant accrédité dans le cas contraire. 
 
 Il est fait application, dans le premier cas, des règles d'exigibilité et de recouvrement prévues aux articles 1701 à 1712 du
 code général des impôts et, dans le second cas, de celles qui sont prévues au titre IV du livre des procédures fiscales pour
-les impôts recouvrés par les comptables de la direction générale des impôts.
+les impôts recouvrés par voie d'avis de mise en recouvrement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 244 bis A, 1761, 1701 à 1712
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+	  - Décret n°2012-430 du 29 mars 2012 - art. 6
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Code général des impôts, CGI. - art. 1701
+	  - Code général des impôts, CGI. - art. 1761
+	  - Code général des impôts, CGI. - art. 244 bis A
 
 
 ##### IV : Réévaluation des immobilisations non amortissables
@@ -8174,48 +8163,49 @@ qui ouvraient droit à la déduction lors de la souscription initiale.
 ###### Article 171 AK
 
 La demande tendant à l'obtention de l'agrément prévu au dixième alinéa de l'article 238 bis HN du code général des impôts est
-formulée sur papier libre et présentée préalablement à la réalisation de l'opération qui la motive.
+formulée sur papier libre et présentée préalablement à la réalisation de l'opération qui la motive. 
 
 La demande, faite par un représentant unique, dûment habilité, du promoteur du projet, est adressée en quatre exemplaires au
-ministre chargé du budget (services centraux de la direction générale des impôts) et comporte les renseignements permettant
-d'apprécier la portée exacte du projet au regard des conditions fixées pour l'octroi de l'agrément et concernant notamment :
+ministre chargé du budget (services centraux de la direction générale des finances publiques) et comporte les renseignements
+permettant d'apprécier la portée exacte du projet au regard des conditions fixées pour l'octroi de l'agrément et concernant
+notamment : 
 
-1. L'identification de l'opérateur économique et de son activité ;
+1. L'identification de l'opérateur économique et de son activité ; 
 
-2. L'identification de la copropriété maritime ;
+2. L'identification de la copropriété maritime ; 
 
-3. Les conditions d'acquisition, d'exploitation et de financement du navire ;
+3. Les conditions d'acquisition, d'exploitation et de financement du navire ; 
 
-4. L'intérêt économique du projet ;
+4. L'intérêt économique du projet ; 
 
-5. Les conditions et modalités de souscription des parts de copropriété.
+5. Les conditions et modalités de souscription des parts de copropriété. 
 
 Dès réception de la demande, le ministre chargé du budget procède à son instruction et saisit pour avis les ministres chargés
-respectivement de la marine marchande et de l'équipement naval.
+respectivement de la marine marchande et de l'équipement naval. 
 
 Dans le cas où le demandeur n'a pas fourni la totalité des renseignements nécessaires pour l'instruction de la demande, le
-ministre chargé du budget l'invite à les produire.
+ministre chargé du budget l'invite à les produire. 
 
 L'agrément n'est délivré par le ministre chargé du budget qu'après réception des avis mentionnés au huitième alinéa et
 lorsque toutes les conditions prévues pour son obtention sont remplies.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 238 bis HN
-
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-923 du 6 juin 2002
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2012-430 du 29 mars 2012 - art. 16
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis HN
 
 
 ##### VII bis : Sociétés de capital-risque
@@ -9492,17 +9482,14 @@ l'emploi et de la formation professionnelle pour les départements d'outre-mer d
 de la formation professionnelle continue pour les organismes soumis aux agréments, mentionnés au II, dispose d'un délai de
 trois mois à compter de la réception de la demande pour délivrer l'attestation. A défaut de décision dans ce délai,
 l'attestation est réputée accordée. Le refus de délivrance de l'attestation doit être motivé. Un exemplaire de l'attestation
-ou de la décision de refus est adressé au demandeur et à la direction des services fiscaux dont il relève.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+ou de la décision de refus est adressé au demandeur et à la   direction départementale ou, le cas échéant, régionale des
+finances publiques dont il relève.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2012-430 du 29 mars 2012 - art. 15
 
 	**Cité par**:
 
@@ -9554,17 +9541,14 @@ l'article 202 A.
 Cette décision a pour effet de remettre en cause l'exonération de TVA des opérations mentionnées à l'article 202 B, qui
 deviennent imposables à la TVA à partir de la date de sa notification. 
 
-Un exemplaire de cette notification est adressé à la direction des services fiscaux dont relève le titulaire.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Un exemplaire de cette notification est adressé à la   direction départementale ou, le cas échéant, régionale des finances
+publiques dont relève le titulaire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2012-430 du 29 mars 2012 - art. 15
 
 	**Cite**:
 
@@ -10947,51 +10931,50 @@ ministre de l'économie et des finances, qui en fixe les modalités et condition
 
 ###### Article 242 C
 
-I. - Pour l'application du d du 1° du 7 de l'article 261 du code général des impôts, la transparence financière des
-organismes qui décident de verser une rémunération à leurs dirigeants est établie lorsque les conditions suivantes sont
-satisfaites :
+I.-Pour l'application du d du 1° du 7 de l'article 261 du code général des impôts, la transparence financière des organismes
+qui décident de verser une rémunération à leurs dirigeants est établie lorsque les conditions suivantes sont satisfaites : 
 
 a) Le montant des rémunérations versées à chacun des dirigeants concernés est indiqué dans une annexe aux comptes de
-l'organisme ;
+l'organisme ; 
 
 b) Le représentant statutaire, ou le commissaire aux comptes, présente un rapport à l'organe délibérant sur les conventions
-prévoyant une telle rémunération ;
+prévoyant une telle rémunération ; 
 
-c) Les comptes de l'organisme sont certifiés par un commissaire aux comptes.
+c) Les comptes de l'organisme sont certifiés par un commissaire aux comptes. 
 
-II. - L'adéquation de la rémunération aux sujétions imposées aux dirigeants désignés au d du 1° du 7 de l'article 261 du même
+II.-L'adéquation de la rémunération aux sujétions imposées aux dirigeants désignés au d du 1° du 7 de l'article 261 du même
 code est réputée acquise lorsque, dans la limite du montant prévu au neuvième alinéa du d précité, les conditions suivantes
-sont satisfaites :
+sont satisfaites : 
 
-a) La rémunération versée est la contrepartie de l'exercice effectif de son mandat par le dirigeant concerné ;
+a) La rémunération versée est la contrepartie de l'exercice effectif de son mandat par le dirigeant concerné ; 
 
 b) La rémunération est proportionnée aux sujétions effectivement imposées aux dirigeants concernés, notamment en termes de
-temps de travail ;
+temps de travail ; 
 
 c) La rémunération est comparable à celles couramment versées pour des responsabilités de nature similaire et de niveau
-équivalent.
+équivalent. 
 
-III. - Pour l'appréciation des montants de ressources mentionnés aux quatrième, cinquième, sixième et huitième alinéas du d
-du 1° du 7 de l'article 261 du même code :
+III.-Pour l'appréciation des montants de ressources mentionnés aux quatrième, cinquième, sixième et huitième alinéas du d du
+1° du 7 de l'article 261 du même code : 
 
 a) Sont prises en compte les ressources financières versées aux organismes concernés, à quelque titre que ce soit, par des
 personnes physiques ou par des personnes morales de droit privé sauf si ces dernières sont contrôlées en droit ou en fait et
-financées majoritairement par des personnes morales de droit public ;
+financées majoritairement par des personnes morales de droit public ; 
 
-b) Ne sont pas pris en compte les contributions ou apports effectués en nature ou en industrie ;
+b) Ne sont pas pris en compte les contributions ou apports effectués en nature ou en industrie ; 
 
 c) Sont prises en compte, le cas échéant, les ressources financières, hors versements publics, des associations membres de
 l'organisme concerné et qui remplissent les conditions leur permettant de bénéficier des dispositions du d du 1° du 7 de
-l'article 261 du même code ;
+l'article 261 du même code ; 
 
 d) Les ressources financières perçues par un organisme ne peuvent être prises en compte que pour l'appréciation de son propre
 montant de ressources et, le cas échéant, pour l'appréciation du montant des ressources d'un seul des organismes dont il est
-membre.
+membre. 
 
-IV. - L'organisme qui rémunère, en application du d du 1° du 7 de l'article 261 du même code, un ou plusieurs de ses
-dirigeants, doit communiquer chaque année à la direction des services fiscaux dont il dépend un document attestant du montant
-de ses ressources mentionnées au huitième alinéa du d précité, constaté dans les conditions prévues à ce même alinéa et
-précisant l'identité des dirigeants rémunérés.
+IV.-L'organisme qui rémunère, en application du d du 1° du 7 de l'article 261 du même code, un ou plusieurs de ses
+dirigeants, doit communiquer chaque année à la   direction départementale ou, le cas échéant, régionale des finances
+publiques dont il dépend un document attestant du montant de ses ressources mentionnées au huitième alinéa du d précité,
+constaté dans les conditions prévues à ce même alinéa et précisant l'identité des dirigeants rémunérés. 
 
 Ce document doit être déposé au plus tard dans les six mois suivant la clôture de l'exercice au titre duquel les
 rémunérations ont été versées.
@@ -11004,15 +10987,11 @@ rémunérations ont été versées.
 
 	**Codifié par**:
 
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2004-1070 du 8 octobre 2004
 
 	**Modifié par**:
 
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 2 () JORF 10 octobre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2012-430 du 29 mars 2012 - art. 15
 
 
 ##### Section III ter : Obligations des redevables
@@ -12371,36 +12350,33 @@ transformation des produits de la pêche ou de l'aquaculture.
 
 ###### Article 267 quater H
 
-I. - Les personnes redevables de la redevance sanitaire pour le contrôle de certaines substances et de leurs résidus prévue à
+I.-Les personnes redevables de la redevance sanitaire pour le contrôle de certaines substances et de leurs résidus prévue à
 l'article 302 bis WC du code général des impôts doivent déposer mensuellement une déclaration conforme au modèle prescrit par
-la direction générale des impôts et comportant les indications nécessaires à l'assiette et à la perception de la redevance.
+la direction générale des finances publiques et comportant les indications nécessaires à l'assiette et à la perception de la
+redevance. 
 
 Cette déclaration est souscrite auprès du service des impôts dont relève le redevable pour le dépôt de ses déclarations de
 taxes sur le chiffre d'affaires. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les
 opérations imposables ont été réalisées. La redevance est acquittée dans le même délai. Toutefois, lorsque le montant annuel
-de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis que les redevables déposent leurs
-déclarations et s'acquittent de la redevance avant le 25 du mois suivant chaque trimestre civil.
+de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 €, il est admis que les redevables déposent leurs
+déclarations et s'acquittent de la redevance avant le 25 du mois suivant chaque trimestre civil. 
 
-II. - (sans objet)
+II.-(sans objet) 
 
-III. - (sans objet)
+III.-(sans objet) 
 
-IV. - Les saisies pratiquées par les services d'inspection sanitaire et les exportations ou les expéditions vers les Etats
+IV.-Les saisies pratiquées par les services d'inspection sanitaire et les exportations ou les expéditions vers les Etats
 membres de la Communauté européenne ne donnent pas lieu au remboursement de la redevance.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 90- I-F (1°)  de la loi n° 2009-1674 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 302 bis WC, 302 bis S
-
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+	  - Décret n°2012-430 du 29 mars 2012 - art. 16
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 bis WC
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
@@ -14879,49 +14855,46 @@ Les assureurs sont tenus, sur la demande des bénéficiaires, de leur communique
 
 I. Les assureurs qui doivent verser des sommes, rentes ou émoluments quelconques au titre des contrats mentionnés à l'article
 292 A doivent, dans les quarante-cinq jours qui suivent le jour où ils ont connaissance du décès de l'assuré sur la tête
-duquel un ou plusieurs contrats en cause ont été souscrits, adresser à la direction des services fiscaux du domicile de
-l'assuré un document faisant connaître :
+duquel un ou plusieurs contrats en cause ont été souscrits, adresser à la direction départementale ou, le cas échéant,
+régionale des finances publiques du domicile de l'assuré un document faisant connaître : 
 
-1. Le nom ou la raison sociale et le domicile de l'assureur ;
+1. Le nom ou la raison sociale et le domicile de l'assureur ; 
 
-2. Les nom, prénoms et domicile de l'assuré ainsi que la date de son décès ;
+2. Les nom, prénoms et domicile de l'assuré ainsi que la date de son décès ; 
 
-3. Les nom, prénoms et domicile du ou des bénéficiaires ;
+3. Les nom, prénoms et domicile du ou des bénéficiaires ; 
 
-4. La date de souscription du ou des contrats ;
+4. La date de souscription du ou des contrats ; 
 
-5. Le montant des primes versées après le soixante- dixième anniversaire de l'assuré pour chacun des contrats.
+5. Le montant des primes versées après le soixante-dixième anniversaire de l'assuré pour chacun des contrats. 
 
 Les mêmes obligations incombent aux assureurs pour les contrats souscrits avant le 20 novembre 1991, lorsque des avenants
 prévus à l'article L. 112-3 du code des assurances de nature à transformer l'économie même de ces contrats ont été souscrits
-après cette date.
+après cette date. 
 
-Ces documents sont établis sur des formules imprimées délivrées sans frais par le service des impôts.
+Ces documents sont établis sur des formules imprimées délivrées sans frais par le service des impôts. 
 
 II. Les assureurs ne peuvent se libérer des sommes, rentes ou émoluments quelconques dus au titre des contrats mentionnés à
 l'article 292 A que dans les conditions prévues aux premier et deuxième alinéas du III de l'article 806 du code général des
-impôts ou dans celles prévues au troisième alinéa du même III, sous réserve de la production d'un certificat du comptable des
-impôts attestant le dépôt d'une déclaration contenant les références du ou des contrats ainsi que les indications prévues à
-l'article 292 A et qu'après avoir satisfait aux obligations édictées au I du présent article.
+impôts ou dans celles prévues au troisième alinéa du même III, sous réserve de la production d'un certificat du comptable de
+la direction générale des finances publiques chargé de la formalité de l'enregistrement attestant le dépôt d'une déclaration
+contenant les références du ou des contrats ainsi que les indications prévues à l'article 292 A et qu'après avoir satisfait
+aux obligations édictées au I du présent article.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 292 A, 806
-	  - Code des assurances - art. L112-3 (M)
-
 	**Modifié par**:
 
-	  - Décret n°92-468 du 21 mai 1992 - art. 2 () JORF 27 mai 1992
+	  - Décret n°2012-430 du 29 mars 2012 - art. 7
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 292 A
+	  - Code des assurances - art. L112-3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 370 C (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### B : Liquidation
@@ -15742,51 +15715,51 @@ dispositions qui précèdent.
 
 ###### Article 306-0 F
 
-I. - Les organismes d'assurance et assimilés qui doivent verser des sommes, rentes ou valeurs quelconques entrant dans le
-champ d'application de l'article 990 I du code général des impôts ne peuvent se libérer de ces sommes, rentes ou valeurs dues
-par eux à raison du décès de l'assuré à chaque bénéficiaire désigné au contrat qu'après avoir adressé à la direction des
-services fiscaux du domicile de l'assuré, dans les soixante jours qui suivent le jour où ils ont eu connaissance du décès de
-celui-ci, une déclaration contenant les informations énumérées au IV de l'article 806 du code général des impôts, en
-précisant au titre de chaque contrat et pour chaque bénéficiaire :
+I.-Les organismes d'assurance et assimilés qui doivent verser des sommes, rentes ou valeurs quelconques entrant dans le champ
+d'application de l'article 990 I du code général des impôts ne peuvent se libérer de ces sommes, rentes ou valeurs dues par
+eux à raison du décès de l'assuré à chaque bénéficiaire désigné au contrat qu'après avoir adressé à la direction
+départementale ou, le cas échéant, régionale des finances publiques du domicile de l'assuré, dans les soixante jours qui
+suivent le jour où ils ont eu connaissance du décès de celui-ci, une déclaration contenant les informations énumérées au IV
+de l'article 806 du code général des impôts, en précisant au titre de chaque contrat et pour chaque bénéficiaire : 
 
-a. L'assiette du prélèvement ;
+a. L'assiette du prélèvement ; 
 
-b. Le montant de l'abattement pratiqué ;
+b. Le montant de l'abattement pratiqué ; 
 
-c. Le montant du prélèvement acquitté au titre des sommes, rentes ou valeurs dues à chaque bénéficiaire.
+c. Le montant du prélèvement acquitté au titre des sommes, rentes ou valeurs dues à chaque bénéficiaire. 
 
 L'obligation faite aux organismes d'assurance et assimilés de déclarer les sommes, rentes ou valeurs dues au jour du décès de
 l'assuré au titre de chaque contrat rachetable qui correspondent aux primes versées à compter du 13 octobre 1998 et le
 montant des primes versées à compter de la même date au titre de chaque contrat non rachetable est satisfaite par la
-communication à l'administration fiscale des éléments suivants :
+communication à l'administration fiscale des éléments suivants : 
 
 a. Pour la fraction rachetable de chaque contrat mentionné au I de l'article 990 I précité : la part de la valeur de rachat
 au jour du décès de l'assuré qui correspond aux sommes, rentes ou valeurs dues à raison des primes versées à compter du 13
-octobre 1998 ;
+octobre 1998 ; 
 
 b. Pour la fraction non rachetable de chaque contrat mentionné au I de l'article 990 I précité : le produit résultant de la
 multiplication du montant du capital-décès dû, diminué de la valeur de rachat au jour du décès de l'assuré, par le taux de
 mortalité qui correspond à l'âge de l'assuré lors de son décès dans la table de mortalité applicable à cette date ; pour les
 contrats non rachetables : la prime annuelle ou le montant de la prime unique versée à la souscription du contrat, lorsque
-celle-ci est intervenue à compter du 13 octobre 1998.
+celle-ci est intervenue à compter du 13 octobre 1998. 
 
-II. - Ces déclarations sont établies sur des formules imprimées délivrées sans frais par le service des impôts.
+II.-a. Ces déclarations sont établies sur des formules imprimées délivrées sans frais par le service des impôts. 
 
-III. - (sans objet).
+b. Le comptable public compétent mentionné au II de l'article 990 I précité est le comptable de la direction générale des
+finances publiques chargé de la formalité de l'enregistrement. 
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 72-II de la loi n° 2009-1674 du 30 décembre 2009.
+III.-(sans objet).
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 990 I, 806
-
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+	  - Décret n°2012-430 du 29 mars 2012 - art. 8
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 806
+	  - Code général des impôts, CGI. - art. 990 I (V)
 
 
 ##### 0I : Taxe sur les conventions d'assurance
@@ -15794,18 +15767,17 @@ Modifications effectuées en conséquence de l'article 72-II de la loi n° 2009-
 ###### Article 306 F
 
 Les décisions relatives à l'agrément du représentant désigné par l'assureur étranger en application de l'article 1004 du code
-général des impôts sont prises par le directeur des services fiscaux.
+général des impôts sont prises par le directeur départemental ou, le cas échéant, régional des finances publiques.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1004, 1004 bis
-	  - Code général des impôts, CGI. - art. 1004
-
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 2
+	  - Décret n°2012-430 du 29 mars 2012 - art. 17
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1004
 
 
 ##### II : Taxe sur les véhicules des sociétés
@@ -16998,14 +16970,18 @@ dates de référence indiquées à l'article 310 octies.
 La commission centrale des impôts directs statue définitivement. Les décisions rendues sur des demandes introduites par les
 maires ou les propriétaires des communes d'une région agricole ou forestière donnée produisent effet à l'égard de l'ensemble
 des biens de la région auxquels s'appliquent les coefficients contestés. Il en est de même de la décision rendue sur une
-demande présentée par le directeur des services fiscaux contre une décision de la commission départementale afférente à une
-région agricole ou forestière déterminée.
+demande présentée par le   directeur départemental ou, le cas échéant, régional des finances publiques  contre une décision
+de la commission départementale afférente à une région agricole ou forestière déterminée.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+	  - Décret n°2012-430 du 29 mars 2012 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2017-769 du 4 mai 2017 - art. 1 (VD)
 
 
 ###### Article 310 octodecies
@@ -17049,69 +17025,87 @@ d'évaluations foncières des propriétés non bâties.
 
 ###### Article 310 quindecies
 
-La commission se prononce sur des propositions qui sont établies par le directeur des services fiscaux, après avis de la
-commission consultative départementale des évaluations foncières des propriétés non bâties. Elle peut entendre, à titre
-consultatif, toute personne susceptible de donner un avis autorisé sur le régime des baux ruraux et sur l'évolution des prix
-des fermages dans le département.
+La commission se prononce sur des propositions qui sont établies par le directeur départemental ou, le cas échéant, régional
+des finances publiques, après avis de la commission consultative départementale des évaluations foncières des propriétés non
+bâties. Elle peut entendre, à titre consultatif, toute personne susceptible de donner un avis autorisé sur le régime des baux
+ruraux et sur l'évolution des prix des fermages dans le département.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+	  - Décret n°2012-430 du 29 mars 2012 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2017-769 du 4 mai 2017 - art. 1 (VD)
 
 
 ###### Article 310 septdecies
 
 Dans les deux mois qui suivent l'affichage des coefficients, le maire, dûment autorisé par le conseil municipal, et le
-directeur des services fiscaux peuvent, respectivement, faire appel des décisions de la commission départementale devant la
-commission centrale des impôts directs prévue à l'article 1652 bis du code général des impôts. Le recours du maire s'exerce à
-l'encontre des coefficients arrêtés pour la région agricole ou forestière dans le ressort de laquelle se trouve située la
-commune intéressée.
+directeur départemental ou, le cas échéant, régional des finances publiques peuvent, respectivement, faire appel des
+décisions de la commission départementale devant la commission centrale des impôts directs prévue à l'article 1652 bis du
+code général des impôts. Le recours du maire s'exerce à l'encontre des coefficients arrêtés pour la région agricole ou
+forestière dans le ressort de laquelle se trouve située la commune intéressée.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2017-769 du 4 mai 2017 - art. 1 (VD)
+
 	**Cite**:
 
-	  - CGI 1652 bis
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+	  - Code général des impôts, CGI. - art. 1652 bis
 
 
 ###### Article 310 sexdecies
 
 Les décisions de la commission sont prises à la majorité des voix ou dans les conditions prévues par le deuxième alinéa de
 l'article 1651 du code général des impôts. Elles sont notifiées par le président, dans le délai de vingt jours, au directeur
-des services fiscaux du département et aux maires des communes concernées. Un extrait du procès-verbal de la séance au cours
-de laquelle ont été prises lesdites décisions est annexé à chaque notification. Le maire de chaque commune doit, dans un
-délai de cinq jours à compter de cette notification, faire afficher les décisions dont il s'agit à la porte de la mairie et
-adresser au directeur des services fiscaux un certificat attestant que cette formalité a été remplie.
+départemental ou, le cas échéant, régional des finances publiques du département et aux maires des communes concernées. Un
+extrait du procès-verbal de la séance au cours de laquelle ont été prises lesdites décisions est annexé à chaque
+notification. Le maire de chaque commune doit, dans un délai de cinq jours à compter de cette notification, faire afficher
+les décisions dont il s'agit à la porte de la mairie et adresser au directeur départemental ou, le cas échéant, régional des
+finances publiques un certificat attestant que cette formalité a été remplie.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2017-769 du 4 mai 2017 - art. 1 (VD)
+
 	**Cite**:
 
-	  - CGI 1651 7
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+	  - Code général des impôts, CGI. - art. 1651
 
 
 ###### Article 310 vicies
 
 Lorsque les contestations contre les coefficients d'adaptation ont été portées devant la commission centrale par les maires,
-les directeurs des services fiscaux, ou par les contribuables, les revenus imposables sont néanmoins déterminés conformément
-à ces coefficients et compris dans les rôles. En cas de décision favorable aux propriétaires, des dégrèvements sont
-rétroactivement accordés aux intéressés; au cas contraire, il n'est procédé à aucune imposition supplémentaire.
+les directeurs départementaux des finances publiques, ou par les contribuables, les revenus imposables sont néanmoins
+déterminés conformément à ces coefficients et compris dans les rôles. En cas de décision favorable aux propriétaires, des
+dégrèvements sont rétroactivement accordés aux intéressés; au cas contraire, il n'est procédé à aucune imposition
+supplémentaire.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+	  - Décret n°2012-430 du 29 mars 2012 - art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°2017-769 du 4 mai 2017 - art. 1 (VD)
 
 
 ##### III : Dispositions communes aux biens passibles des impôts directs locaux
@@ -17218,31 +17212,28 @@ ont fonctionné lesdites exploitations ou explorations.
 Cette déclaration fait ressortir, pour chaque exploitation ou exploration et pour l'ensemble de l'année, en le décomposant
 par communes intéressées, le tonnage net du produit extrait, et, s'il y a lieu, le tonnage contenu de chacun des métaux dont
 la taxation est prévue par l'arrêté visé au II de l'article 1519 du code général des impôts, ces divers chiffres étant
-évalués comme il est prescrit à l'article 311 A.
+évalués comme il est prescrit à l'article 311 A. 
 
-L'ingénieur en chef, après avoir vérifié la déclaration, transmet à la direction des services fiscaux, pour chaque
-exploitation ou exploration, les éléments nécessaires au calcul des deux redevances départementale et communale, ainsi qu'à
-la répartition de la redevance communale (1). 
+L'ingénieur en chef, après avoir vérifié la déclaration, transmet à la direction départementale ou, le cas échéant, régionale
+des finances publiques, pour chaque exploitation ou exploration, les éléments nécessaires au calcul des deux redevances
+départementale et communale, ainsi qu'à la répartition de la redevance communale (1). 
 
 (1) Voir Annexe II, art. 312 et 315.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 21 (P)
-
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°92-836 du 27 août 1992
+
+	**Modifié par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 15
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 311 A (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 311 A
+	  - Code général des impôts, CGI. - art. 1519
 
 
 ###### Article 311 D
@@ -18964,26 +18955,31 @@ Les centres s'engagent à exiger de toute personne collaborant à leurs travaux 
 ###### Article 371 F
 
 Les demandes d'agrément accompagnées des documents désignés à l'article 11 du décret n° 75-911 du 6 octobre 1975 sont remises
-au directeur des services fiscaux du département dans lequel le centre de gestion a son siège.
+au directeur départemental ou, le cas échéant, régional des finances publiques du département dans lequel le centre de
+gestion a son siège. 
 
-Après s'être assuré que le dossier est complet, le directeur des services fiscaux en délivre récépissé.
+Après s'être assuré que le dossier est complet, le directeur départemental ou, le cas échéant, régional des finances
+publiques en délivre récépissé.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°75-911 du 6 octobre 1975 - art. 11 (V)
+	  - Décret n°75-911 du 6 octobre 1975 - art. 11
+
+	**Modifié par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 17
 
 
 ###### Article 371 G
 
 La décision d'agrément est prise par une commission instituée au chef-lieu de région. 
 
-Cette commission, placée sous la présidence du directeur chargé de la direction des services fiscaux située au chef-lieu de
-la région dans laquelle le centre a son siège, ou du directeur chargé de la direction spécialisée des impôts pour la région
-d'Ile-de-France et pour Paris lorsque le siège du centre se situe dans la région d'Ile-de-France, comprend également : 
+Cette commission, placée sous la présidence du directeur régional des finances publiques de la région dans laquelle le centre
+a son siège, comprend également : 
 
-a. un fonctionnaire des services fiscaux ; 
+a. un fonctionnaire de la direction régionale des finances publiques ; 
 
 b. un représentant du ministre chargé de l'industrie ; 
 
@@ -18991,7 +18987,7 @@ c. un représentant du ministre chargé du commerce et de l'artisanat ;
 
 d. un membre de l'ordre des experts-comptables désigné par le conseil régional de l'ordre ; 
 
-e. un industriel, un commerçant et un artisan désignés respectivement par le président de la       chambre de commerce et
+e. un industriel, un commerçant et un artisan désignés respectivement par le président de la chambre de commerce et
 d'industrie de région et par le président de la chambre régionale de métiers et de l'artisanat. 
 
 Lorsque la demande d'agrément est présentée par un centre de gestion apportant son assistance principalement aux
@@ -19008,8 +19004,7 @@ En cas de partage égal des voix, la voix du président de la commission est pr�
 
 	**Modifié par**:
 
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
+	  - Décret n°2012-430 du 29 mars 2012 - art. 10
 
 	**Cité par**:
 
@@ -19044,49 +19039,48 @@ L'absence de décision dans le délai fixé vaut acceptation de la demande. Le r
 Pour que l'agrément prévu à l'article 1649 quater C du code général des impôts les habilite à tenir et à présenter les
 documents comptables de leurs adhérents, les centres de gestion apportant leur assistance exclusivement aux agriculteurs
 doivent établir que les responsables de leurs services comptables remplissent les conditions définies au I de l'article 16 du
-décret n° 75-911 du 6 octobre 1975.
+décret n° 75-911 du 6 octobre 1975. 
 
 Pour que l'agrément prévu à l'article 1649 quater C précité les habilite à tenir et présenter les documents comptables de
 leurs adhérents ayant opté pour le régime simplifié d'imposition, les centres de gestion créés par les personnes ou
 organismes mentionnés à l'article 371 A doivent, lorsqu'ils apportent leur assistance à des industriels, commerçants et
 artisans, établir que les responsables de leurs services comptables remplissent les conditions définies au I de l'article 16
 du décret n° 75-911 du 6 octobre 1975, la pratique professionnelle s'appréciant en matière de gestion et de comptabilité des
-entreprises industrielles ou commerciales.
+entreprises industrielles ou commerciales. 
 
 Les pièces justificatives des titres ou diplômes et de la pratique professionnelle désignés à l'article 16 du décret n°
 75-911 du 6 octobre 1975 modifié par l'article 7 du décret n° 79-71 du 23 janvier 1979 sont jointes aux documents mentionnés
-à l'article 371 F.
+à l'article 371 F. 
 
 La commission mentionnée à l'article 371 G rend sa décision sur la demande d'habilitation après examen des pièces mentionnées
-au troisième alinéa.
+au troisième alinéa. 
 
 Dans le cas où des changements interviennent en ce qui concerne les responsables de leurs services comptables, les centres
-bénéficiant des habilitations mentionnées aux premier et deuxième alinéas doivent informer le directeur chargé de la
-direction des services fiscaux située au chef-lieu de la région dans laquelle le centre a son siège, ou le directeur chargé
-de la direction spécialisée des impôts pour la région d'Ile-de-France et pour Paris lorsque le siège du centre se situe dans
-la région d'Ile-de-France dans un délai d'un mois. Le maintien de l'habilitation est subordonné à une décision de la
-commission prise dans les conditions prévues aux troisième et quatrième alinéas.
+bénéficiant des habilitations mentionnées aux premier et deuxième alinéas doivent informer le directeur régional des finances
+publiques de la région dans laquelle le centre a son siège, dans un délai d'un mois. Le maintien de l'habilitation est
+subordonné à une décision de la commission prise dans les conditions prévues aux troisième et quatrième alinéas.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1649 quater C, 371 A, 371 F, 371 G
-	  - Décret n°75-911 du 6 octobre 1975 - art. 16 (M)
-	  - Décret n°79-71 1979-01-23 art. 7
+	  - Décret n°75-911 du 6 octobre 1975 - art. 16
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 A
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 G
+	  - Code général des impôts, CGI. - art. 1649 quater C
 
 	**Modifié par**:
 
-	  - Décret n°2005-1253 du 4 octobre 2005 - art. 1 () JORF 6 octobre 2005
+	  - Décret n°2012-430 du 29 mars 2012 - art. 11
+
+	**Abrogé par**:
+
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 E (VD)
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 EA (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 371 J
@@ -19505,34 +19499,36 @@ aux adhérents relevant du régime prévu à l'article 102 ter du code général
 ###### Article 371 R
 
 Les demandes d'agrément, accompagnées des documents désignés à l'article 11 du décret n° 77-1519 du 31 décembre 1977, sont
-remises au directeur des services fiscaux du département dans lequel l'association a son siège.
+remises au directeur départemental ou, le cas échéant, régional des finances publiques du département dans lequel
+l'association a son siège. 
 
-Après s'être assuré que le dossier est complet, le directeur de  s services fiscaux en délivre récépissé.
+Après s'être assuré que le dossier est complet, le directeur départemental ou, le cas échéant, régional des finances
+publiques en délivre récépissé.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°77-1519 du 31 décembre 1977 - art. 11 (V)
+	  - Décret n°77-1519 du 31 décembre 1977 - art. 11
+
+	**Modifié par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 17
 
 
 ###### Article 371 S
 
-La décision d'agrément est prise par le directeur chargé de la direction des services fiscaux située au chef-lieu de la
-région dans laquelle l'association a son siège ou par le directeur chargé de la direction spécialisée des impôts pour la
-région d'Ile-de-France et pour Paris lorsque le siège de l'association se situe dans la région d'Ile-de-France.
+La décision d'agrément est prise par le directeur régional des finances publiques de la région dans laquelle l'association a
+son siège. 
 
-Dans les départements d'outre-mer, la décision est prise par le directeur des services fiscaux.
+Dans les départements d'outre-mer, la décision est prise par le directeur régional ou, le cas échéant, départemental des
+finances publiques.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 1 () JORF 25 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Décret n°2012-430 du 29 mars 2012 - art. 12
 
 
 ###### Article 371 T
@@ -19924,16 +19920,16 @@ financières de l'entreprise avec l'indication, le cas échéant, des démarches
 
 ###### Article 371 bis G
 
-Le respect des engagements prévus par la convention est examiné, une fois au moins tous les trois ans, dans le cadre de
-l'examen d'activité professionnelle mis en œuvre par la profession ou sur requête de l'administration fiscale. 
+Le respect des engagements prévus par la convention est examiné, une fois au moins tous les trois ans, dans le cadre du
+contrôle de qualité mis en œuvre par la profession ou sur requête de l'administration fiscale. 
 
-Les résultats de cet examen sont transmis au commissaire du Gouvernement dans un délai de trois mois après sa conclusion.
+Les résultats de ce contrôle sont transmis au commissaire du Gouvernement dans un délai de trois mois après sa conclusion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-297 du 19 mars 2010 - art. 1
+	  - Décret n°2012-432 du 30 mars 2012 - art. 200
 
 	**Cité par**:
 
@@ -21041,24 +21037,24 @@ I. L'héritier, le donataire, le légataire ou le copartageant, qui désire acqu
 de partage dont il est redevable par la remise d'immeubles visés à l'article 1716 bis du code général des impôts, doit
 déposer au service des impôts ou à la conservation des hypothèques compétent pour enregistrer l'acte constatant la mutation,
 le partage ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la valeur de
-chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
+chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé. 
 
 L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
-de l'acte constatant la mutation ou le partage.
+de l'acte constatant la mutation ou le partage. 
 
 II. L'offre est adressée par le service des impôts ou la conservation des hypothèques à une commission dont la composition
 est fixée par arrêté conjoint du Premier ministre, du ministre chargé du budget et du ministre chargé de la protection de la
-nature (1).
+nature (1). 
 
-Avant de se prononcer, cette commission consulte le Conservatoire de l'espace littoral et des rivages lacustres.
+Avant de se prononcer, cette commission consulte le Conservatoire de l'espace littoral et des rivages lacustres. 
 
 La commission émet un avis sur la situation et l'intérêt écologique ou paysager du bien offert ainsi que, après avoir
-consulté le service des domaines, sur sa valeur libératoire.
+consulté le directeur départemental ou, le cas échéant, régional des finances publiques, sur sa valeur libératoire. 
 
 III. Au vu de l'avis de la commission, le ministre chargé de la protection de la nature propose au ministre chargé du budget
-l'octroi ou le refus de l'agrément.
+l'octroi ou le refus de l'agrément. 
 
-IV. La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
+IV. La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception. 
 
 V. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter par lettre simple, le
 cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert en paiement des droits.
@@ -21070,70 +21066,70 @@ cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert e
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 1716 bis
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2012-430 du 29 mars 2012 - art. 18
 
 	**Cité par**:
 
 	  - Décret n°2015-1469 du 13 novembre 2015 - art. 36 (V)
 	  - Code de l'environnement - art. R322-9 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 1716 bis
 
 
 ##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels
 
 ###### Article 384 A ter
 
-I. - L'héritier, le donataire, le légataire ou le copartageant, qui désire acquitter tout ou partie des droits de mutation ou
+I.-L'héritier, le donataire, le légataire ou le copartageant, qui désire acquitter tout ou partie des droits de mutation ou
 de partage dont il est redevable par la remise d'immeubles en nature de bois et forêts ou espaces naturels pouvant être
-incorporés au domaine forestier de l'Etat mentionnés à l'article 1716 bis du code général des impôts, doit déposer à la
-recette des impôts ou à la conservation des hypothèques compétente pour enregistrer l'acte constatant la mutation, le partage
-ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la valeur de chacun des
-biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
+incorporés au domaine forestier de l'Etat mentionnés à l'article 1716 bis du code général des impôts, doit déposer au service
+des impôts ou à la conservation des hypothèques compétent pour enregistrer l'acte constatant la mutation, le partage ou la
+déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la valeur de chacun des biens
+qu'il envisage de remettre à l'Etat. Il en est délivré récépissé. 
 
 L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
-de l'acte constatant la mutation ou le partage.
+de l'acte constatant la mutation ou le partage. 
 
-II. - L'offre est adressée par le service des impôts à une commission dont la composition est fixée par arrêté conjoint du
-Premier ministre, du ministre chargé du budget, du ministre chargé des forêts et du ministre chargé de la protection de la
-nature.
+II.-L'offre est adressée par le service des impôts ou la conservation des hypothèques à une commission dont la composition
+est fixée par arrêté conjoint du Premier ministre, du ministre chargé du budget, du ministre chargé des forêts et du ministre
+chargé de la protection de la nature. 
 
-Avant de se prononcer, cette commission consulte l'Office national des forêts.
+Avant de se prononcer, cette commission consulte l'Office national des forêts. 
 
 La commission émet un avis sur l'existence d'un intérêt économique, environnemental ou social du bien offert, sur les
 conditions de sa gestion ainsi que sur la contribution de ce bien à l'enrichissement de l'ensemble foncier auquel il pourrait
-être, le cas échéant, incorporé. La commission se prononce également, après avoir consulté le service des domaines, sur sa
-valeur libératoire.
+être, le cas échéant, incorporé. La commission se prononce également, après avoir consulté le directeur départemental ou, le
+cas échéant, régional des finances publiques, sur sa valeur libératoire. 
 
-III. - Au vu de l'avis de la commission, le ministre chargé des forêts propose au ministre chargé du budget l'octroi ou le
-refus de l'agrément.
+III.-Au vu de l'avis de la commission, le ministre chargé des forêts propose au ministre chargé du budget l'octroi ou le
+refus de l'agrément. 
 
-IV. - La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
+IV.-La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception. 
 
-V. - En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter par lettre simple, le
+V.-En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter par lettre simple, le
 cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert en paiement des droits.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 18
+
 	**Cite**:
 
-	  - CGI 1716 bis
-
-	**Créé par**:
-
-	  - Décret n°2003-281 du 24 mars 2003 - art. 1 () JORF 29 mars 2003
+	  - Code général des impôts, CGI. - art. 1716 bis
 
 
 ##### 4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement
@@ -21249,44 +21245,48 @@ Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la lo
 Conformément à l'article R. 333-6 du code de l'urbanisme, modifié par l'article 118 de la loi n° 89-935 du 29 décembre 1989
 modifiée, le responsable du service de l'Etat dans le département, chargé de l'urbanisme, arrête le montant global du
 versement et le communique avec les indications nécessaires à la détermination de la part revenant à chaque attributaire au
-trésorier payeur général et au maire. Il le communique également au pétitionnaire.
+directeur départemental ou, le cas échéant, régional des finances publiques et au maire. Il le communique également au
+pétitionnaire. 
 
 En cas d'application de l'article R. 424-1 du code précité, le maire est substitué au responsable du service de l'Etat dans
 le département, chargé de l'urbanisme, et informe celui-ci du montant du versement dans les mêmes conditions. Il en avise
-également le pétitionnaire.
+également le pétitionnaire. 
 
-Le comptable du Trésor notifie le montant du versement au redevable. Le paiement doit être effectué dans les conditions
-définies aux deuxième et troisième alinéas de l'article 1723 octies du code général des impôts.
+Le comptable de la direction générale des finances publiques notifie le montant du versement au redevable. Le paiement doit
+être effectué dans les conditions définies aux deuxième et troisième alinéas de l'article 1723 octies du code général des
+impôts. 
 
 Lorsque la décision de la juridiction de l'expropriation n'est plus susceptible d'appel ni de pourvoi en cassation, le
-comptable du trésor procède, s'il y a lieu, à la mise en recouvrement d'une somme complémentaire ou à un dégrèvement. Le
-paiement du complément doit intervenir dans les conditions indiquées au quatrième alinéa de l'article 1723 octies du code
-général des impôts (1).
+comptable de la direction générale des finances publiques procède, s'il y a lieu, à la mise en recouvrement d'une somme
+complémentaire ou à un dégrèvement. Le paiement du complément doit intervenir dans les conditions indiquées au quatrième
+alinéa de l'article 1723 octies du code général des impôts (1).
 
-(1) Voir la note (1) de l'article 1723 octies du CGI.
+Voir la note (1) de l'article 1723 octies du CGI.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1723 octies
-	  - Loi n°89-935 1989-12-29 art. 118
-	  - Code de l'urbanisme - art. R333-6 (Ab)
-	  - Code de l'urbanisme R333-6, R424-1
-
-	**Modifié par**:
-
-	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
-	  - Loi n°94-112 du 9 février 1994 - art. 14 () JORF 10 février 1994
-	  - Loi n°94-112 du 9 février 1994 - art. 15 () JORF 10 février 1994
+	  - Loi n°89-935 du 29 décembre 1989 de finances pour 1990 - art. 118
+	  - Code général des impôts, CGI. - art. 1723 octies
+	  - Code de l'urbanisme - art. R*424-1
+	  - Code de l'urbanisme - art. R333-6
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°95-1281 du 11 décembre 1995
+
+	**Modifié par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 13
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
 
 
 ###### Article 384 D
@@ -21297,33 +21297,31 @@ le versement complémentaire éventuellement exigible est liquidé, notifié et 
 384 B et 384 C.
 
 Lorsque l'autorité compétente autorise le transfert d'un permis de construire qui a rendu exigible le versement, elle doit en
-informer sans délai le trésorier payeur général.
+informer sans délai le directeur départemental ou, le cas échéant, régional des finances publiques.
 
-administrative.
+**Nota:**
 
-(1) Voir la note (1) de l'article 1723 octies du CGI.
+Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 384 B, 384 C
-	  - Loi n°89-935 1989-12-29 art. 118
-	  - Code de l'urbanisme R333-7
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Modifié par**:
-
-	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
-	  - Loi n°94-112 du 9 février 1994 - art. 14 () JORF 10 février 1994
-	  - Loi n°94-112 du 9 février 1994 - art. 15 () JORF 10 février 1994
+	  - Loi n°89-935 du 29 décembre 1989 de finances pour 1990 - art. 118
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 B (P)
+	  - Code de l'urbanisme - art. R*333-7
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°95-1281 du 11 décembre 1995
+
+	**Modifié par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 19
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
 
 
 ###### Article 384 E
@@ -21359,43 +21357,39 @@ Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la lo
 ###### Article 384 F
 
 Comme il est dit à l'article R. 333-9 du code de l'urbanisme, l'intervention d'une décision de l'autorité compétente pour
-statuer sur le permis de construire constatant la péremption de celui-ci entraîne de plein droit la restitution du versement.
+statuer sur le permis de construire constatant la péremption de celui-ci entraîne de plein droit la restitution du
+versement. 
 
 Dans les cas visés à l'article 384 E et au premier alinéa du présent article, les demandes de dégrèvement sont recevables
 jusqu'au 31 décembre de la deuxième année qui suit celle de leur mise en recouvrement et celles de restitution jusqu'au 31
-décembre de la deuxième année qui suit celle du versement.
+décembre de la deuxième année qui suit celle du versement. 
 
 Les demandes de dégrèvement ou de restitution sont adressées au responsable du service de l'Etat dans le département, chargé
 de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du même code, au maire, qui fait connaître le cas échéant au
-trésorier payeur général le montant du dégrèvement ou de la restitution à effectuer. Ce montant est calculé déduction faite
-du prélèvement pour frais d'assiette et de perception mentionné à l'article L. 333-12, deuxième alinéa, du même code.
+directeur départemental ou, le cas échéant, régional des finances publiques le montant du dégrèvement ou de la restitution à
+effectuer. Ce montant est calculé déduction faite du prélèvement pour frais d'assiette et de perception mentionné à l'article
+L. 333-12, deuxième alinéa, du même code. 
 
 La décision de dégrèvement ou de restitution est prise par le chef du service de l'Etat dans le département, chargé de
-l'urbanisme, ou en cas d'application de l'article R. 424-1 du même code, par le maire.
+l'urbanisme, ou en cas d'application de l'article R. 424-1 du même code, par le maire. 
 
 (1) Voir la note (1) de l'article 1723 octies du CGI.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 384 E
-	  - Code de l'urbanisme - art. L333-12 (Ab)
-	  - Code de l'urbanisme R333-9, R424-1, L333-12
+	  - Décret n°95-1281 du 11 décembre 1995
 
 	**Modifié par**:
 
-	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
-	  - Loi n°94-112 du 9 février 1994 - art. 14 () JORF 10 février 1994
-	  - Loi n°94-112 du 9 février 1994 - art. 15 () JORF 10 février 1994
+	  - Décret n°2012-430 du 29 mars 2012 - art. 19
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°95-1281 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - Code de l'urbanisme - art. L333-12
+	  - Code de l'urbanisme - art. R*333-9
+	  - Code de l'urbanisme - art. R*424-1
 
 
 ## Chapitre I bis : Pénalités
@@ -21843,28 +21837,24 @@ En cas de partage égal des voix, celle du président est prépondérante.
 ###### Article 396 quindecies
 
 Pour l'exécution des enquêtes auxquelles procèdent les membres du comité du contentieux fiscal douanier et des changes en vue
-de l'élaboration du rapport annuel prévu à l'article L 138 du livre des procédures fiscales, le comité fait appel aux corps
-ou services habilités à contrôler l'activité des services déconcentrés de la direction générale des impôts.
+de l'élaboration du rapport annuel prévu à l'article L. 138 du livre des procédures fiscales, le comité fait appel aux corps
+ou services habilités à contrôler l'activité des services déconcentrés de la direction générale des finances publiques. 
 
-Il peut demander au directeur général des impôts de désigner des agents à cette fin.
+Il peut demander au directeur général des finances publiques de désigner des agents à cette fin.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - Décret n°92-836 du 27 août 1992
 
 	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°2012-430 du 29 mars 2012 - art. 14
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L138 (M)
+	  - Livre des procédures fiscales - art. L138
 
 
 ###### Article 396 quinquies
@@ -21888,12 +21878,17 @@ président du comité.
 ###### Article 396 septies
 
 Le secrétariat du comité du contentieux est placé sous l'autorité du président. Il est dirigé par un secrétaire nommé, sur
-proposition du président du comité, parmi les fonctionnaires de la direction générale des impôts ou de la direction générale
-des douanes et des droits indirects ayant au moins le grade d'inspecteur principal.
+proposition du président du comité, parmi les fonctionnaires de la   direction générale des finances publiques  ou de la
+direction générale des douanes et des droits indirects ayant au moins le grade d'inspecteur principal. 
 
 Les moyens nécessaires au fonctionnement du secrétariat, notamment les moyens en personnel, sont mis à la disposition du
 président du comité par le ministre du budget.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 16
 
 
 ###### Article 396 sexies
