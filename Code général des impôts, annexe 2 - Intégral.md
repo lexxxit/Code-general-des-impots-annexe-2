@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-04-01
+Version Consolidée au 2012-04-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3668,6 +3668,290 @@ rente et comportant les indications suivantes :
 
 	  - Code général des impôts, CGI. - art. 156 (V)
 	  - Code civil - art. 373-2-3 (V)
+
+
+##### VIII : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile hors de France
+
+###### Article 91 duodecies
+
+Le contribuable qui entend bénéficier du sursis de paiement prévu au V de l'article 167 bis du code général des impôts en
+fait la demande sur le formulaire mentionné au deuxième alinéa de l'article 91 undecies.
+
+Il déclare sur ce formulaire le montant des plus-values latentes, des créances trouvant leur origine dans une clause de
+complément de prix et des plus-values en report, le montant de l'impôt correspondant à ces plus-values et créances ainsi que
+les éléments nécessaires au calcul de cet impôt. 
+
+Il indique le nom ou la dénomination sociale ainsi que l'adresse de son représentant fiscal. Celui-ci s'engage, sur ce même
+document, à représenter le contribuable dans les conditions prévues au deuxième alinéa du b du 1 du V de l'article 167 bis
+précité. 
+
+Ce formulaire est déposé, dans les trente jours précédant le transfert du domicile fiscal hors de France, au service des
+impôts des particuliers non résidents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005
+
+	**Modifié par**:
+
+	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies (V)
+	  - Code général des impôts, CGI. - art. 167 bis
+
+
+###### Article 91 novodecies
+
+Dans les cas prévus au VIII de l'article 167 bis du code général des impôts, le contribuable demande le dégrèvement de
+l'impôt bénéficiant du sursis de paiement sur le formulaire prévu au deuxième alinéa de l'article 91 undecies et déposé,
+l'année suivant la réalisation de l'événement entraînant le dégrèvement, selon les modalités prévues au premier alinéa de
+l'article 91 quaterdecies. 
+
+Il indique la nature et la date de l'événement à l'origine de sa demande et joint, à l'appui du formulaire, les éléments de
+calcul et les justificatifs correspondant au montant du dégrèvement demandé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies (V)
+	  - Code général des impôts, CGI. - art. 167 bis
+
+
+###### Article 91 octodecies
+
+Pour l'application du dernier alinéa du 3 du IX de l'article 167 bis du code général des impôts, le contribuable demande le
+dégrèvement de l'impôt bénéficiant du sursis de paiement ou la restitution de l'impôt acquitté sur le formulaire prévu au
+deuxième alinéa de l'article 91 undecies et déposé l'année suivant la réalisation de l'événement entraînant le dégrèvement ou
+la restitution, selon les modalités prévues au premier alinéa de l'article 91 quaterdecies. 
+
+Il indique la nature et la date de l'événement à l'origine de sa demande et joint, à l'appui du formulaire, les éléments de
+calcul et les justificatifs correspondant au montant du dégrèvement ou de la restitution demandé.
+
+**Nota:**
+
+Dans sa décision n° 359994 du 12 juillet 2013, le Conseil d'Etat a annulé le II de l'article 1er du décret n° 2012-457 du 6
+avril 2012 créant l'article 91 octodecies inséré dans l'annexe II au code général des impôts, en tant qu'il porte application
+des dispositions du b du 1 du VII, du 2 du VII de l'article 167 bis et du 3 du IX de l'article 167 bis du même code,
+relatives aux preuves à apporter par les contribuables ayant transféré leur résidence fiscale dans un Etat membre de l'Union
+européenne pour établir que les donations de titres n'ont pas un but exclusivement fiscal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies (V)
+	  - Code général des impôts, CGI. - art. 167 bis
+
+
+###### Article 91 quaterdecies
+
+Dans les cas prévus aux 2 et 3 du IX de l'article 167 bis du code général des impôts, le formulaire mentionné au deuxième
+alinéa de l'article 91 undecies dûment renseigné est déposé au service des impôts des particuliers non résidents, à l'appui
+de la déclaration prévue au 1 de l'article 170 du même code, dans le délai prévu à l'article 175 de ce code. 
+
+Les transferts de domicile fiscal intervenant postérieurement au transfert de domicile fiscal hors de France sont portés à la
+connaissance du service des impôts des particuliers non résidents dans les conditions prévues au 5 du IX de l'article 167 bis
+précité. 
+
+Pour l'application du 4 du IX de l'article 167 bis précité, l'exigibilité de l'impôt en sursis de paiement est rétablie
+lorsque le contribuable n'a pas satisfait à ses obligations déclaratives dans les trente jours suivant la notification d'une
+mise en demeure, adressée, le cas échéant, à son représentant fiscal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005
+
+	**Modifié par**:
+
+	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 novodecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 octodecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 septdecies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 167 bis
+	  - Code général des impôts, CGI. - art. 170
+	  - Code général des impôts, CGI. - art. 175
+
+
+###### Article 91 quindecies
+
+Pour l'application du 5 du VIII de l'article 167 bis du code général des impôts, l'impôt acquitté hors de France est
+imputable sur l'impôt définitif dû en application du I et des 1 et 3 du VIII de cet article sous réserve que : 
+
+a) L'impôt acquitté hors de France soit un impôt personnel sur le revenu assis sur les plus-values de cession de valeurs
+mobilières ou de droits sociaux ; 
+
+b) Soit calculé à partir du prix ou de la valeur d'acquisition des titres concernés retenu pour l'application du premier
+alinéa du 2 du I de l'article 167 bis précité. 
+
+Cet impôt, dont il incombe au contribuable de justifier du paiement effectif, est converti en euros sur la base du taux de
+change en vigueur à la date dudit paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005
+
+	**Modifié par**:
+
+	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 167 bis
+
+
+###### Article 91 septdecies
+
+Pour l'application du deuxième alinéa du 3 du IX de l'article 167 bis du code général des impôts, le contribuable demande la
+restitution de l'impôt déjà acquitté sur le formulaire prévu au deuxième alinéa de l'article 91 undecies et déposé, l'année
+suivant la réalisation de l'événement entraînant la restitution, selon les modalités prévues au premier alinéa de l'article
+91 quaterdecies. 
+
+Il indique la nature et la date de l'événement à l'origine de sa demande et joint, à l'appui du formulaire, les éléments de
+calcul et les justificatifs correspondant au montant de la restitution demandée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005
+
+	**Modifié par**:
+
+	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies (V)
+	  - Code général des impôts, CGI. - art. 167 bis
+
+
+###### Article 91 sexdecies
+
+Lors du paiement de l'impôt définitif, le contribuable joint aux documents mentionnés au premier alinéa du 3 du IX de
+l'article 167 bis du code général des impôts une copie des avis d'imposition établis en application des dispositions de
+l'article 91 terdecies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005
+
+	**Modifié par**:
+
+	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 167 bis
+
+
+###### Article 91 terdecies
+
+Lorsque le contribuable bénéficie du sursis de paiement prévu au IV ou au V de l'article 167 bis du code général des impôts,
+l'impôt afférent aux plus-values latentes, aux créances trouvant leur origine dans une clause de complément de prix et aux
+plus-values en report fait l'objet d'une mise en recouvrement spécifique et d'une prise en charge des rôles correspondants
+par le service des impôts des particuliers non résidents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005
+
+	**Modifié par**:
+
+	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 167 bis
+
+
+###### Article 91 undecies
+
+Le contribuable renseigne sur la déclaration prévue au 1 de l'article 170 du code général des impôts établie l'année suivant
+celle du transfert du domicile fiscal hors de France le montant total des plus-values latentes, des créances trouvant leur
+origine dans une clause de complément de prix et des plus-values en report, mentionnées respectivement aux premier et
+deuxième alinéas du 1 du I et au II de l'article 167 bis du code précité. 
+
+Sont précisés, sur un formulaire distinct, la date du transfert du domicile fiscal hors de France, l'adresse du nouveau
+domicile fiscal, le montant des plus-values latentes, des créances trouvant leur origine dans une clause de complément de
+prix et des plus-values en report, le montant de l'impôt correspondant à ces plus-values et créances ainsi que les éléments
+nécessaires au calcul de cet impôt. 
+
+Le formulaire mentionné au deuxième alinéa est déposé au service des impôts des particuliers ou au centre des impôts dont
+dépendait le domicile fiscal du contribuable en France avant son transfert, à l'appui de la déclaration mentionnée au premier
+alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005
+
+	**Modifié par**:
+
+	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 duodecies (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 novodecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 octodecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 septdecies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 167 bis (VT)
+	  - Code général des impôts, CGI. - art. 170 (V)
+
+
+###### Article 91 vicies
+
+Dans les cas prévus au 3 du IX de l'article 167 bis du code général des impôts, les garanties prises en vertu du deuxième
+alinéa du b du 1 du V de cet article sont levées à hauteur de l'impôt acquitté ou du montant d'impôt dégrevé. 
+
+Dans les cas de dégrèvement prévus au VIII et au dernier alinéa du 3 du IX de l'article 167 bis précité, il est procédé au
+remboursement des frais de constitution de garanties supportés par le contribuable, dans les conditions prévues aux articles
+R. * 208-3 à R. * 208-6 du livre des procédures fiscales, à hauteur du montant d'impôt dégrevé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 167 bis
+	  - Livre des procédures fiscales - art. R*208-3 (V)
 
 
 ##### Section III : Calcul de l'impôt
