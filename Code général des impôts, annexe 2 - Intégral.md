@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-04-08
+Version Consolidée au 2012-04-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21206,6 +21206,95 @@ l'exception de toute majoration ou pénalité.
 	**Cite**:
 
 	  - CGIAN2 380, 381
+
+
+#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité
+
+###### Article 382 bis
+
+La demande en décharge de responsabilité prévue par les dispositions du II de l'article 1691 bis du code général des impôts
+est adressée au directeur départemental des finances publiques du lieu d'établissement des impositions concernées ou,
+s'agissant d'impositions et de pénalités recouvrées par un service à compétence nationale, au directeur chargé de ce service.
+Elle est appuyée de toutes les justifications nécessaires à l'appréciation de la situation financière et patrimoniale, nette
+de charges, du demandeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-511 du 18 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1691 bis
+
+
+###### Article 382 quater
+
+Si aucune décision n'a été prise dans les délais prévus à l'article 382 ter ou lorsque la décision, notifiée par lettre
+recommandée avec demande d'avis de réception, ne lui donne pas satisfaction, le demandeur doit, à peine de forclusion, porter
+l'affaire devant le tribunal compétent dans le délai de deux mois à compter : 
+
+a) Soit de la date d'expiration du délai mentionné au premier alinéa de l'article 382 ter ; 
+
+b) Soit de la date de notification de la décision prise sur la demande en décharge. 
+
+La procédure ne peut, à peine d'irrecevabilité, être engagée avant ces dates. 
+
+Le demandeur ne peut soumettre au juge des pièces justificatives autres que celles qu'il a déjà produites à l'appui de la
+demande de décharge de responsabilité qu'il a présentée au directeur départemental des finances publiques ou au directeur en
+charge du service à compétence nationale, ni invoquer des faits autres que ceux exposés dans cette demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-511 du 18 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 382 ter
+
+
+###### Article 382 quinquies
+
+La demande prévue au III de l'article 1691 bis du code général des impôts tendant à obtenir la remise partielle ou totale des
+impositions laissées à la charge d'une personne ayant bénéficié d'une décharge de responsabilité solidaire en application du
+II de l'article 1691 bis est adressée au directeur départemental des finances publiques du lieu d'établissement des
+impositions concernées ou, s'agissant d'impositions et pénalités recouvrées par un service à compétence nationale, au
+directeur chargé de ce service. Elle peut lui être adressée simultanément ou postérieurement au dépôt d'une demande en
+décharge de responsabilité solidaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-511 du 18 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1691 bis
+
+
+###### Article 382 ter
+
+Le directeur départemental des finances publiques ou le directeur chargé du service à compétence nationale se prononce dans
+un délai de six mois à compter de la date de sa réception sur la demande de décharge de responsabilité. Ce délai peut être
+prorogé dans la limite de trois mois après information du demandeur par lettre simple.
+
+Lorsque l'administration demande la production de pièces complémentaires nécessaires à l'instruction de la demande, le délai
+d'instruction mentionné au premier alinéa est suspendu jusqu'à la date fixée pour produire les pièces requises. Toutefois, la
+production de ces pièces avant l'expiration du délai fixé met fin à cette suspension.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-511 du 18 avril 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 382 quater (V)
 
 
 #### IV : Taxe sur les salaires. Taux majorés
