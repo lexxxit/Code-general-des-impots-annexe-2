@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-04-21
+Version Consolidée au 2012-05-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2106,27 +2106,28 @@ dernière entrée dans le patrimoine professionnel.
 
 Les contribuables qui réalisent des opérations imposables en application de l'article 150-0 A du code général des impôts sont
 tenus de souscrire, dans le délai prévu à l'article 175 du même code, une déclaration spéciale des plus-values sur une
-formule délivrée par l'administration indiquant :
+formule délivrée par l'administration indiquant : 
 
-a) Le montant global, compte non tenu des frais, de l'ensemble des cessions réalisées au cours de l'année d'imposition ;
+a) Le montant global, compte non tenu des frais, de l'ensemble des cessions réalisées au cours de l'année d'imposition ; 
 
-b) Le montant du gain net imposable assorti des éléments nécessaires à sa détermination ;
+b) Le montant du gain net imposable assorti des éléments nécessaires à sa détermination ; 
 
-c) le montant de l'abattement mentionné à l'article 150-0 D bis du code précité ainsi que les éléments nécessaires à sa
-détermination.
+c) le montant de l'abattement mentionné à l'article 150-0 D bis du code précité dans sa rédaction antérieure à l'entrée en
+vigueur de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, ainsi que les éléments nécessaires à sa
+détermination. 
 
 Toutefois, les contribuables peuvent se libérer de cette obligation en fournissant, pour les titres en dépôt ou inscrits en
 compte auprès d'un intermédiaire habilité, un document établi par ce dernier et faisant apparaître les mêmes éléments.
 
+**Nota:**
+
+Modifications effectuées en conséquence de la loi n° 2011-1977 du 28 décembre 2011, article 80-I et II
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150-0 A, 175, 150-0 D bis
 
 	**Modifié par**:
 
-	  - Décret n°2006-1421 du 21 novembre 2006 - art. 2 () JORF 23 novembre 2006
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
 	**Cité par**:
 
@@ -2138,9 +2139,11 @@ compte auprès d'un intermédiaire habilité, un document établi par ce dernier
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 M (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies G bis (P)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 150-0 A (V)
+	  - Code général des impôts, CGI. - art. 150-0 D bis (V)
+	  - Code général des impôts, CGI. - art. 175 (V)
 
 
 ###### Article 74-0 F bis
@@ -4513,14 +4516,13 @@ ou sous forme dématérialisée.
 Les pièces conservées sous forme dématérialisée doivent pouvoir être éditées à tout moment dans le délai de conservation. Le
 tiers de confiance garantit la parfaite conformité et inaltérabilité de ces éditions. 
 
-Les pièces conservées sous forme dématérialisée doivent pouvoir être éditées à tout moment dans le délai de conservation. Le
-tiers de confiance garantit la parfaite conformité et inaltérabilité de ces éditions.
+(Alinéa disjoint).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
 	**Cite**:
 
@@ -4849,24 +4851,44 @@ La demande de nouvelle convention est soumise à la procédure prévue aux artic
 ###### Article 95 ZN
 
 Les déductions du revenu global, les réductions ou les crédits d'impôts pour lesquels le bénéfice du dispositif du tiers de
-confiance peut être sollicité sont ceux prévus aux articles 199 quater C, 199 quater F, 199 septies, 199 decies I, 199 decies
-E, 199 decies EA, 199 decies F, 199 decies G et 199 decies H, 199 undecies A, 199 undecies B, 199 undecies C et 199 undecies
-D, aux I à VI de l'article 199 terdecies-0A, au VI bis de l'article 199 terdecies-0A, au VI ter de l'article 199
-terdecies-0A, à l'article 199 terdecies-0B, aux 1 à 5 de l'article 199 sexdecies, aux articles 199 tervicies, 199 sexvicies,
-199 octovicies, aux articles 200,200 quater et 18 bis de l'annexe IV, 200 quater A, 200 quater B et 200 decies A du code
-général des impôts.
+confiance peut être sollicité sont ceux prévus aux articles 199 quater C, 
+199 quater F, 199 septies, 199 decies I, 199 decies E, 199 decies EA, 199 decies F, 199 decies G et 199 decies H, 199
+undecies A, 199 undecies B, 199 undecies C et 199 undecies D, aux I à VI ter de l'article 199 terdecies-0 A, à l'article 199
+terdecies-0B, aux 1 à 5 de l'article 199 sexdecies, aux articles 199 tervicies, 
+199 sexvicies, 
+199 octovicies, aux articles 200,200 quater, 200 quater A, 200 quater B et 200 decies A du code général des impôts et à
+l'article 18 bis de l'annexe IV à ce code.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1997 du 28 décembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 1er mars 2012 - art. Annexe IV (VD)
 	  - Arrêté du 1er mars 2012 - art. Annexe V (VD)
 	  - Arrêté du 1er mars 2012 - art. Annexe VI (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (V)
+	  - Code général des impôts, CGI. - art. 199 decies E (V)
+	  - Code général des impôts, CGI. - art. 199 decies F (V)
+	  - Code général des impôts, CGI. - art. 199 decies I (V)
+	  - Code général des impôts, CGI. - art. 199 octovicies (V)
+	  - Code général des impôts, CGI. - art. 199 quater C (V)
+	  - Code général des impôts, CGI. - art. 199 quater F (V)
+	  - Code général des impôts, CGI. - art. 199 septies (V)
+	  - Code général des impôts, CGI. - art. 199 sexdecies (V)
+	  - Code général des impôts, CGI. - art. 199 sexvicies (V)
+	  - Code général des impôts, CGI. - art. 199 tervicies (V)
+	  - Code général des impôts, CGI. - art. 199 undecies A (VT)
+	  - Code général des impôts, CGI. - art. 199 undecies D (V)
+	  - Code général des impôts, CGI. - art. 200 (VT)
+	  - Code général des impôts, CGI. - art. 200 decies A (V)
+	  - Code général des impôts, CGI. - art. 200 quater (V)
 
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
@@ -6758,38 +6780,6 @@ Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret 
 	  - Code du travail - art. R6241-7
 
 
-##### IV : Régimes spéciaux.
-
-###### Article 140 M
-
-Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, le taux de la taxe d'apprentissage est réduit conformément
-aux dispositions de l'article R. 119-33-1 du code du travail.
-
-**Nota:**
-
-Décret n° 2012-653 du 4 mai 2012, article 2 : cet article devient sans objet en conséquence du décret n° 2008-244 du 7 mars
-2008, article 9-I et 11.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006
-
-	**Modifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
-
-	**Liens**:
-
-	  - PERIME: Décret n°2012-653 du 4 mai 2012 - art. 2
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail - art. R119-33-1
-
-
 #### Chapitre III : Taxe sur les salaires
 
 ##### Section I : Taux majorés
@@ -8303,92 +8293,100 @@ engagement de conservation des parts de copropriété.
 ###### Article 171 AG
 
 I. L'état individuel prévu à l'article 171 AF comporte, lorsque le copropriétaire n'est pas un fonds de placement quirataire,
-les renseignements suivants :
+les renseignements suivants : 
 
 a) La date de la convention de copropriété, la dénomination et l'adresse de cette copropriété ainsi que l'identité et
-l'adresse de son gérant ;
+l'adresse de son gérant ; 
 
 b) Pour les navires déjà francisés, le nom et la désignation du navire, la date et le numéro de sa fiche matricule prévue à
-l'article 90 du décret n° 67-967 du 27 octobre 1967 modifié portant statut des navires et autres bâtiments de mer, l'adresse
-du bureau des douanes du port d'attache ainsi que les dates de livraison et de début d'exploitation du navire.
+l'article 95 du décret n° 67-967 du 27 octobre 1967 modifié portant statut des navires et autres bâtiments de mer, l'adresse
+du bureau des douanes du port d'attache ainsi que les dates de livraison et de début d'exploitation du navire. 
 
-Pour les navires non encore francisés et relevant des dispositions de l'article 89 du décret précité, le nom et la
-désignation du navire, la date et le numéro de sa fiche matricule et l'adresse du bureau des douanes du port d'attache ainsi
-que les dates prévues de livraison et de début d'exploitation du navire.
+Pour les navires non encore francisés et relevant des dispositions de l'article L. 5114-2 du code des transports, le nom et
+la désignation du navire, la date et le numéro de sa fiche matricule et l'adresse du bureau des douanes du port d'attache
+ainsi que les dates prévues de livraison et de début d'exploitation du navire. 
 
-Pour les navires non encore francisés et ne relevant pas de l'article 89 du décret précité, le nom et la désignation du
-navire, le contrat de construction, éventuellement traduit en langue française et comportant notamment la date de livraison,
-l'adresse du bureau des douanes du port d'attache où le navire sera francisé ainsi que la date prévue de début d'exploitation
-du navire ;
+Pour les navires non encore francisés et ne relevant pas de l'article L. 5114-2 du code des transports, le nom et la
+désignation du navire, le contrat de construction, éventuellement traduit en langue française et comportant notamment la date
+de livraison, l'adresse du bureau des douanes du port d'attache où le navire sera francisé ainsi que la date prévue de début
+d'exploitation du navire ; 
 
 c) S'il y a lieu, les dates de signature et d'effet du contrat d'affrètement ainsi que les éléments permettant
-l'identification de l'affréteur : dénomination sociale, objet social et siège social ;
+l'identification de l'affréteur : dénomination sociale, objet social et siège social ; 
 
 d) Le numéro des parts souscrites, la date de leur souscription, le montant et la date des versements effectués jusqu'à la
-livraison du navire ;
+livraison du navire ; 
 
 e) S'il y a lieu, la date, le prix et le numéro des parts cédées par le copropriétaire ainsi que les noms et adresses des
-cessionnaires.
+cessionnaires. 
 
 II. L'état individuel prévu à l'article 171 AF comporte, dans le cas où le copropriétaire du navire est un fonds de placement
-quirataire :
+quirataire : 
 
-a) Les renseignements dont la liste figure au I ;
+a) Les renseignements dont la liste figure au I ; 
 
-b) L'indication du montant de la quote-part détenue par le contribuable dans le fonds de placement quirataire ;
+b) L'indication du montant de la quote-part détenue par le contribuable dans le fonds de placement quirataire ; 
 
 c) S'il y a lieu, la date, le prix, le nombre de parts du fonds de placement quirataire cédées par le contribuable et
 l'identité du cessionnaire.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'ordonnance n° 2010-1307 du 28 octobre 2010, article 3-7 [54°] et 17 et du décret
+n° 2011-1485 du 9 novembre 2011, article 1er-II.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 171 AF
-	  - Décret n°67-967 du 27 octobre 1967 - art. 89 (V)
-	  - Décret n°67-967 du 27 octobre 1967 - art. 90 (V)
+	  - Décret n°67-967 du 27 octobre 1967 - art. 95
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 AF (P)
+	  - Code des transports - art. L5114-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
 
 
 ###### Article 171 AH
 
 Le gérant de la copropriété de navire adresse au service des impôts dont dépend celle-ci pour le dépôt de ses déclarations de
-résultat, les documents énumérés ci-après :
+résultat, les documents énumérés ci-après : 
 
 a) En annexe de la première déclaration de résultat : un document attestant la date de livraison du navire ainsi que le
-certificat d'inscription mentionné à l'article 95 du décret n° 67-967 du 27 octobre 1967 modifié portant statut des navires
-et autres bâtiments de mer ;
+certificat d'inscription mentionné à l'article L. 5114-4 du code des transports; 
 
-b) Chaque année, en même temps que la déclaration de résultat :
+b) Chaque année, en même temps que la déclaration de résultat : 
 
-la liste des copropriétaires et les numéros de leurs parts ;
+la liste des copropriétaires et les numéros de leurs parts ; 
 
 c) Dès qu'une demande d'annulation de la fiche matricule du navire est présentée : la copie de cette demande.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'ordonnance n° 2010-1307 du 28 ocrtobre 2010, article 3-7 [54°] et 17.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-967 du 27 octobre 1967 - art. 95 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2006-356 du 24 mars 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L5114-4
 
 
 ###### Article 171 AI
@@ -9046,36 +9044,35 @@ et le propriétaire en application de l'article L. 121-1 du code du patrimoine, 
 que l'acquisition de ce bien peut donner lieu aux versements mentionnés à l'article 238 bis-0 A du code général des impôts,
 publie un avis au Journal officiel de la République française. Cet avis informe les entreprises susceptibles de bénéficier de
 la réduction d'impot prévue par le même article qu'elles peuvent présenter une offre de versement en faveur de l'achat de ce
-bien.
+bien. 
 
 Lorsque l'acquisition par l'Etat d'un bien culturel proposé à la vente présente un intérêt majeur pour le patrimoine national
 du point de vue de l'histoire, de l'art ou de l'archéologie au sens du deuxième alinéa de l'article 238 bis-0 A, le ministre
-chargé de la culture saisit la commission consultative des trésors nationaux mentionnée à l'article 5 du décret n° 93-124 du
-29 janvier 1993 relatif aux biens culturels soumis à certaines restrictions de circulation, afin que celle-ci se prononce sur
-l'intérêt de l'acquisition du bien et sur la valeur de ce dernier. S'il estime que l'acquisition de ce bien peut donner lieu
-au versement mentionné au deuxième alinéa de l'article 238 bis-0 A précité et lorsque le prix de cession de ce bien fait
-l'objet d'un accord entre l'Etat et le propriétaire, le ministre chargé de la culture publie un avis au Journal officiel de
-la République française selon les modalités fixées au premier alinéa du présent article.
+chargé de la culture saisit la commission consultative des trésors nationaux mentionnée à l'article L. 111-4 du code du
+patrimoine, afin que celle-ci se prononce sur l'intérêt de l'acquisition du bien et sur la valeur de ce dernier. S'il estime
+que l'acquisition de ce bien peut donner lieu au versement mentionné au deuxième alinéa de l'article 238 bis-0 A précité et
+lorsque le prix de cession de ce bien fait l'objet d'un accord entre l'Etat et le propriétaire, le ministre chargé de la
+culture publie un avis au Journal officiel de la République française selon les modalités fixées au premier alinéa du présent
+article.
+
+**Nota:**
+
+Modifications effectuées en conséquence du décret n° 2011-574 du 24 mai 2011, articles 2 et 5 [22].
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 238 bis-0 A
-	  - Décret n°93-124 1993-01-29 art. 5
-	  - Code du patrimoine. - art. L121-1 (V)
+	  - Décret n°2005-330 du 6 avril 2005
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 art. 1, art. 3, art. 7, JORF 24 février 2004
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2005-330 2005-04-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 238 bis-0 A
+	  - Code du patrimoine - art. L111-4
 
 
 ###### Article 171 BB
@@ -9112,11 +9109,15 @@ Lorsque l'offre est acceptée, l'entreprise procède au versement auprès de l'a
 Réunion des musées nationaux et du Grand Palais des Champs-Elysées, dans les conditions définies par la décision. Il en est
 délivré récépissé.
 
+**Nota:**
+
+Modifications effectuées en conséquence du décret n° 2011-52 du 13 janvier 2011, article 27 [1°]
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-52 du 13 janvier 2011 - art. 27 (V)
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
 
 ###### Article 171 BD
@@ -9183,41 +9184,38 @@ le ministre chargé de la culture et le ministre chargé du budget.
 
 ###### Article 171 BG
 
-Le ministre chargé de la culture saisit la commission consultative des trésors nationaux mentionnée à l'article 5 du décret
-n° 93-124 du 29 janvier 1993 relatif aux biens culturels soumis à certaines restrictions de circulation, afin qu'elle se
-prononce sur la valeur d'acquisition du bien.
+Le ministre chargé de la culture saisit la commission consultative des trésors nationaux mentionnée à l'article L. 111-4 du
+code du patrimoine, afin qu'elle se prononce sur la valeur d'acquisition du bien. 
 
 Il soumet en outre la question de l'intérêt du classement de ce bien, selon le cas, à l'avis de la Commission nationale des
-monuments historiques prévue par l'article L. 611-1 du code du patrimoine ou à celui de la Commission supérieure des archives
-mentionnée à l'article 2 du décret n° 79-1040 du 3 décembre 1979 relatif à la sauvegarde des archives privées présentant du
-point de vue de l'Histoire un intérêt public.
+monuments historiques prévue par l'article L. 611-1 du code du patrimoine ou à celui du Conseil supérieur des archives
+mentionné à l'article R. 212-79 du même code. 
 
 Le ministre chargé de la culture transmet sans délai les avis prévus aux premier et deuxième alinéas au ministre chargé du
 budget.
 
+**Nota:**
+
+Modifications effectuées en conséquence du décret n° 2011-574 du 24 mai 2011, article 2-5 [9°] et 22°.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°79-1040 du 3 décembre 1979 - art. 2 (V)
-	  - Décret n°93-124 1993-01-29 art. 5
-	  - Code du patrimoine. - art. L611-1 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2006-356 du 24 mars 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
 	**Cité par**:
 
 	  - Code du patrimoine. - art. R111-23 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L111-4
+	  - Code du patrimoine - art. R212-79
 
 
 ###### Article 171 BH
@@ -9747,10 +9745,10 @@ auprès du service des impôts.
 I. Pour obtenir l'attestation mentionnée au a du 4° du 4 de l'article 261 du code général des impôts, les personnes de droit
 privé exerçant une activité de formation professionnelle continue souscrivent une demande sur un imprimé conforme au modèle
 établi par un arrêté conjoint des ministres chargés de la formation professionnelle continue et du budget. Cette demande est
-adressée par lettre recommandée avec accusé de réception à la direction régionale du travail, de l'emploi et de la formation
-professionnelle ou à la direction du travail, de l'emploi et de la formation professionnelle pour les départements d'outre-
-mer dont le demandeur relève ou, s'agissant des organismes paritaires titulaires d'un des agréments mentionnés au II, auprès
-de l'autorité qui a procédé à leur agrément. 
+adressée par lettre recommandée avec accusé de réception à  la direction régionale des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi ou à la direction des  entreprises, de la concurrence, de la consommation, du travail
+et de  l'emploi pour les départements d'outre-mer dont le demandeur relève ou, s'agissant des organismes paritaires
+titulaires d'un des agréments mentionnés au II, auprès de l'autorité qui a procédé à leur agrément. 
 
 II. Seules les personnes qui ont souscrit la déclaration mentionnée à l'article L. 6351-1 du code du travail ou qui
 bénéficient d'un des agréments mentionnés aux articles L. 6332-1, L. 6332-7 et L. 6332-19 du même code peuvent obtenir
@@ -9761,19 +9759,24 @@ formation professionnelle continue telle que définie conjointement par les arti
 ou relève des missions légalement dévolues aux organismes paritaires agréés. Le demandeur doit être à jour de ses obligations
 résultant de l'article L. 6352-11 du code du travail. 
 
-III. La direction régionale du travail, de l'emploi et de la formation professionnelle ou la direction du travail, de
-l'emploi et de la formation professionnelle pour les départements d'outre-mer dont relève le demandeur ou le ministre chargé
-de la formation professionnelle continue pour les organismes soumis aux agréments, mentionnés au II, dispose d'un délai de
-trois mois à compter de la réception de la demande pour délivrer l'attestation. A défaut de décision dans ce délai,
-l'attestation est réputée accordée. Le refus de délivrance de l'attestation doit être motivé. Un exemplaire de l'attestation
-ou de la décision de refus est adressé au demandeur et à la   direction départementale ou, le cas échéant, régionale des
-finances publiques dont il relève.
+III. La  direction régionale des entreprises, de la concurrence, de la  consommation, du travail et de l'emploi ou la
+direction des entreprises,  de la concurrence, de la consommation, du travail et de l'emploi pour les départements d'outre-
+mer dont relève le demandeur ou le ministre chargé de la formation professionnelle continue pour les organismes soumis aux
+agréments, mentionnés au II, dispose d'un délai de trois mois à compter de la réception de la demande pour délivrer
+l'attestation. A défaut de décision dans ce délai, l'attestation est réputée accordée. Le refus de délivrance de
+l'attestation doit être motivé. Un exemplaire de l'attestation ou de la décision de refus est adressé au demandeur et à la
+direction départementale ou, le cas échéant, régionale des finances publiques dont il relève.
+
+**Nota:**
+
+Modifications effectuées en conséquence dedes décrets n° 2009-1377 du 10 novembre 2009, article 1er, 7-I et 11-II, décret n°
+2010-687 du 24 juin 2010, article 2-I et décret n° 2010-1582 du 17 décembre 2010, article 6-I et 37-II [7°] et [9°].
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 15
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
 	**Cité par**:
 
@@ -11188,27 +11191,35 @@ demandé au titre d'une année ou d'un trimestre.
 
 ###### Article 242 A
 
-I Les entreprises qui se livrent à l'exploration du plateau continental (1) et à l'exploitation de ses ressources naturelles
-peuvent demander à acquérir, en suspension du paiement de la taxe sur la valeur ajoutée, les installations et dispositifs,
-ainsi que les matériels et produits industriels qu'elles utilisent sur le plateau continental pour effectuer ces opérations
-et qui ouvrent normalement droit à déduction dans les conditions prévues aux articles 271 et 273 du code général des impôts. 
+I. - Les entreprises qui se livrent à l'exploration du plateau continental (1) et à l'exploitation de ses ressources
+naturelles peuvent demander à acquérir, en suspension du paiement de la taxe sur la valeur ajoutée, les installations et
+dispositifs, ainsi que les matériels et produits industriels qu'elles utilisent sur le plateau continental pour effectuer ces
+opérations et qui ouvrent normalement droit à déduction dans les conditions prévues aux articles 271 et 273 du code général
+des impôts. 
 
-II Le bénéfice de la suspension peut être, dans les mêmes conditions, demandé par les entreprises qui donnent en location ces
-installations, dispositifs et matériels d'équipement aux entreprises définies au I ou exécutent pour le compte de celles-ci
-des travaux d'exploration ou d'exploitation. 
+II. - Le bénéfice de la suspension peut être, dans les mêmes conditions, demandé par les entreprises qui donnent en location
+ces installations, dispositifs et matériels d'équipement aux entreprises définies au I ou exécutent pour le compte de celles-
+ci des travaux d'exploration ou d'exploitation. 
 
-III La suspension est autorisée, après avis du ministre du développement industriel et scientifique, par une décision du
+III. - La suspension est autorisée, après avis du ministre du développement industriel et scientifique, par une décision du
 ministre de l'économie et des finances, qui en fixe les modalités et conditions conformément aux dispositions des articles
-274 à 276 du code général des impôts et des textes pris pour leur application.
+275 et 276 du code général des impôts et des textes pris pour leur application.
 
 (1) Voir loi n° 71-1060 du 24 décembre 1971 relative à la délimitation des eaux territoriales françaises (JO du 30).
 
+**Nota:**
+
+Cet article devient sans objet en conséquence de la loi n° 2011-1977 du 28 décembre 2011, article 23-1°.
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 271, 273, 274 à 276
-	  - Loi n°71-1060 1971-12-24
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
 
 
 ##### 4 : Organismes sans but lucratif
@@ -13595,9 +13606,13 @@ tels que définis aux articles 275 B à 275 G.
 Sont considérés comme cigares ou cigarillos, s'ils peuvent être fumés en l'état et, compte tenu de leurs caractéristiques et
 des attentes normales des consommateurs, sont exclusivement destinés à l'être : 
 
-1° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ; 
+1° (Abrogé) ;
 
-2° Les rouleaux de tabac remplis d'un mélange battu et munis d'une cape extérieure en tabac reconstitué, de la couleur
+2° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ; 
+
+3° (Abrogé) ; 
+
+4° Les rouleaux de tabac remplis d'un mélange battu et munis d'une cape extérieure en tabac reconstitué, de la couleur
 normale des cigares, couvrant entièrement le produit, y compris le filtre le cas échéant-mais non l'embout dans le cas des
 cigares avec embout-lorsque leur masse unitaire, sans filtre ni embout, est égale ou supérieure à 2,3 grammes et égale ou
 inférieure à 10 grammes et que leur circonférence est égale ou supérieure à trente-quatre millimètres sur au moins un tiers
@@ -13616,7 +13631,7 @@ de leur longueur.
 
 	**Modifié par**:
 
-	  - Décret n°2011-500 du 4 mai 2011 - art. 1
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
 
 ###### Article 275 C
@@ -14272,9 +14287,9 @@ de déclarations mensuelles et annuelles mentionnées à l'article 286 J.
 
 ###### Article 286 I
 
-I.-1° Pour les entrepositaires agréés produisant des produits vitivinicoles régis par le règlement (CE) n° 1493 / 1999 du
+I.-1° Pour les entrepositaires agréés produisant des produits vitivinicoles régis par le règlement (CE) n° 1493/1999 du
 Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, la comptabilité matières est constituée par les
-registres vitivinicoles prévus par le règlement (CE) n° 884 / 2001 de la Commission du 24 avril 2001 portant modalités
+registres vitivinicoles prévus par le règlement (CE) n° 884/2001 de la Commission du 24 avril 2001 portant modalités
 d'application relatives aux documents accompagnant les transports des produits vitivinicoles et aux registres à tenir dans le
 secteur vitivinicole. 
 
@@ -14308,8 +14323,8 @@ réglementaires en vigueur et les règlements des organismes interprofessionnels
 
 En cas d'application des dispositions de l'article 450 du code général des impôts ou des articles 661 et 662 du code rural
 ancien, les registres doivent faire référence, pour chaque mouvement de produits vitivinicoles mentionnés au règlement (CE)
-n° 1493 / 1999 du Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, à l'avis de blocage, à
-l'engagement de garantie ou de mainlevée du porteur du warrant agricole ou du porteur de l'engagement de garantie.
+n° 1493/1999 du Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, à l'avis de blocage, à
+l'engagement de garantie ou de mainlevée du porteur du warrant agricole ou du porteur de l'engagement de garantie. 
 
 L'identité du détenteur des registres doit figurer sur la première page de chacun des registres. 
 
@@ -14323,7 +14338,7 @@ l'article 286 H et du présent article.
 qu'elle comporte : 
 
 a) Toutes les indications nécessaires relatives aux mouvements des produits et au déroulement des manipulations conformément
-aux dispositions communautaires et aux informations prévues au 1° du II ; 
+aux dispositions européennes et aux informations prévues au 1° du II ; 
 
 b) La reprise des inventaires physiques des produits réalisés au moment de la clôture de l'exercice comptable. 
 
@@ -14332,7 +14347,7 @@ vitivinicoles, au plus tard le cinquième jour de chaque mois, le stock théoriq
 théorique en fin du mois précédent et le total des entrées et des sorties du mois précédent. 
 
 Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au
-2° du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt. 
+2° bis du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt. 
 
 Les entrepositaires agréés transmettent au service des douanes et droits indirects territorialement compétent, au plus tard
 le cinquième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au premier alinéa
@@ -14341,7 +14356,7 @@ et, le cas échéant, ceux prévus au 1° du II.
 IV.-Les registres doivent être clôturés une fois par an, à la date de souscription de la déclaration des stocks mentionnée à
 l'article 408 du code général des impôts, pour les récoltants y compris les sociétés coopératives et leurs unions. La
 déclaration annuelle est transmise au service des douanes et droits indirects territorialement compétent, au plus tard le
-cinquième jour du deuxième mois qui suit la clôture des comptes.
+cinquième jour du deuxième mois qui suit la clôture des comptes. 
 
 V.-Les registres peuvent être constitués par des annotations au verso des déclarations de récolte et des stocks mentionnées
 aux articles 407 et 408 du code général des impôts. 
@@ -14369,6 +14384,11 @@ dudit code.
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
 le directeur régional des douanes et droits indirects.
 
+**Nota:**
+
+Modifications effectuées en conséquence de la loi n° 2011-1978 du 28 décembre 2011, article 68-I et arrêté du 8 décembre
+2011, article 16 [1°].
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -14389,19 +14409,18 @@ le directeur régional des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 302 D (V)
-	  - Code général des impôts, CGI. - art. 302 M (V)
-	  - Code général des impôts, CGI. - art. 407 (V)
-	  - Code général des impôts, CGI. - art. 614 (V)
-	  - Livre des procédures fiscales - art. L102 B (V)
-	  - Code rural ancien - art. 661 (V)
-	  - Code rural - art. L621-1 (V)
-	  - Code rural - art. L632-1 (V)
+	  - Code général des impôts, CGI. - art. 302 D
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 407
+	  - Code général des impôts, CGI. - art. 614
+	  - Livre des procédures fiscales - art. L102 B
+	  - Code rural ancien - art. 661
+	  - Code rural - art. L621-1
+	  - Code rural - art. L632-1
 
 
 ###### Article 286 J
@@ -14473,7 +14492,7 @@ nature, au plus tard le cinquième jour de chaque mois, le stock théorique en d
 fin du mois précédent et le total des entrées et des sorties du mois précédent. 
 
 Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au
-2° du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt. 
+2° bis du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt. 
 
 Les entrepositaires agréés transmettent, pour chaque entrepôt fiscal suspensif des droits d'accises, au service des douanes
 et droits indirects territorialement compétent, au plus tard le cinquième jour de chaque mois, une déclaration récapitulative
@@ -14648,6 +14667,10 @@ matières telles que prévues par le présent article et les obligations mention
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
 le directeur régional des douanes et droits indirects.
 
+**Nota:**
+
+Modifications effectuées en conséquence de la loi n° 2011-1978 du 28 décembre 2011, article 68-I.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -14663,22 +14686,21 @@ le directeur régional des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts annexe 1, CGIAN1. - art. 37 (V)
-	  - Code général des impôts annexe 1, CGIAN1. - art. 56 (V)
-	  - Code général des impôts, CGI. - art. 302 G (V)
-	  - Code général des impôts, CGI. - art. 302 M (V)
-	  - Code général des impôts, CGI. - art. 338 (V)
-	  - Code général des impôts, CGI. - art. 438 (V)
-	  - Code général des impôts, CGI. - art. 450 (V)
-	  - Code général des impôts, CGI. - art. 575 A (V)
-	  - Code général des impôts, CGI. - art. 614 (V)
-	  - Code rural ancien - art. 661 (V)
-	  - Code rural - art. L632-1 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 37
+	  - Code général des impôts annexe 1, CGIAN1. - art. 56
+	  - Code général des impôts, CGI. - art. 302 G
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 338
+	  - Code général des impôts, CGI. - art. 438
+	  - Code général des impôts, CGI. - art. 450
+	  - Code général des impôts, CGI. - art. 575 A
+	  - Code général des impôts, CGI. - art. 614
+	  - Code rural ancien - art. 661
+	  - Code rural - art. L632-1
 
 
 ###### Article 286 K
@@ -16406,44 +16428,6 @@ dans des conditions définies par le maître d'ouvrage.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121-0 AA (V)
 
 
-###### Article 310-0 H bis
-
-I. - En vue de l'établissement du certificat mentionné au I bis de l'article 1384 A du code général des impôts par la
-direction départementale de l'équipement dans le ressort de laquelle se situe la construction, le maître d'ouvrage transmet à
-cette direction une attestation délivrée par un organisme certificateur accrédité selon la norme EN 45011 par le comité
-français d'accréditation ou par un autre organisme d'accréditation d'un Etat membre de l'Espace économique européen,
-signataire de l'accord européen multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation.
-
-Cette attestation indique que le maître d'ouvrage a obtenu une certification de produit établissant pour la construction le
-respect d'au moins quatre des cinq critères de qualité environnementale tels qu'ils sont définis à l'article 310-0 H et qu'il
-a pris toutes dispositions pour que la construction satisfasse à ces quatre critères.
-
-II. - Le directeur départemental de l'équipement établit un certificat constatant que la construction respecte au moins
-quatre des cinq critères de qualité environnementale tels qu'ils sont définis à l'article 310-0 H.
-
-III. - La transmission du certificat au centre des impôts foncier du lieu de situation de la construction doit être
-accompagnée de la déclaration mentionnée à l'article 1406 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1384 A, 1406
-	  - CGIAN2 310-0 H
-
-	**Créé par**:
-
-	  - Décret n°2005-1174 du 16 septembre 2005 - art. 1 () JORF 18 septembre 2005
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H ter (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-
 ###### Article 310-00 H bis
 
 L'engagement de gestion prévu à l'article 1395 D du code général des impôts comporte les éléments suivants : 
@@ -16470,27 +16454,45 @@ demandée ;
 	  - Code général des impôts, CGI. - art. 1400 (V)
 
 
-###### Article 310-0 H ter
+###### Article 310-0 H bis
 
-Si postérieurement à la délivrance du certificat mentionné à l'article 310-0 H bis, il est constaté, lors d'un contrôle
-réalisé par un agent assermenté relevant de la direction départementale de l'équipement géographiquement compétente, le non-
-respect par le maître d'ouvrage de l'un des critères figurant dans le certificat délivré en application du II du même
-article, ce constat fait l'objet d'un signalement par cette direction au centre des impôts foncier du lieu de situation de la
-construction.
+I.-En vue de l'établissement du certificat mentionné au I bis de l'article 1384 A du code général des impôts par la direction
+départementale des territoires ou la direction départementale des territoires et de la mer dans le ressort de laquelle se
+situe la construction, le maître d'ouvrage transmet à cette direction une attestation délivrée par un organisme certificateur
+accrédité selon la norme EN 45011 par le comité français d'accréditation ou par un autre organisme d'accréditation d'un Etat
+membre de l'Espace économique européen, signataire de l'accord européen multilatéral pris dans le cadre de la coordination
+européenne des organismes d'accréditation. 
+
+Cette attestation indique que le maître d'ouvrage a obtenu une certification de produit établissant pour la construction le
+respect d'au moins quatre des cinq critères de qualité environnementale tels qu'ils sont définis à l'article 310-0 H et qu'il
+a pris toutes dispositions pour que la construction satisfasse à ces quatre critères. 
+
+II.-Le directeur départemental des territoires ou directeur départemental des territoires et de la mer établit un certificat
+constatant que la construction respecte au moins quatre des cinq critères de qualité environnementale tels qu'ils sont
+définis à l'article 310-0 H. 
+
+III.-La transmission du certificat au centre des impôts foncier du lieu de situation de la construction doit être accompagnée
+de la déclaration mentionnée à l'article 1406 du code général des impôts.
+
+**Nota:**
+
+Modifications effectuées en conséquence du décret n° 2009-1484 du 3 décembre 2009, article 20-I et II, 22 et 24.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
+
 	**Cite**:
 
-	  - CGIAN2 310-0 H bis
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H (V)
+	  - Code général des impôts, CGI. - art. 1384 A (V)
+	  - Code général des impôts, CGI. - art. 1406 (V)
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Décret n°2005-1174 du 16 septembre 2005 - art. 1 () JORF 18 septembre 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H ter (V)
 
 
 ###### Article 310-00 H ter
@@ -16518,6 +16520,29 @@ la réalisation du contrôle.
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H
 	  - Code général des impôts, CGI. - art. 1395 D
+
+
+###### Article 310-0 H ter
+
+Si postérieurement à la délivrance du certificat mentionné à l'article 310-0 H bis, il est constaté, lors d'un contrôle
+réalisé par un agent assermenté relevant de la direction départementale des territoires ou de la direction départementale des
+territoires et de la mer géographiquement compétente, le non-respect par le maître d'ouvrage de l'un des critères figurant
+dans le certificat délivré en application du II du même article, ce constat fait l'objet d'un signalement par cette direction
+au centre des impôts foncier du lieu de situation de la construction.
+
+**Nota:**
+
+Modifications effectuées en conséquence du décret n° 2009-1484 du 3 décembre 2009, articles 20-I, 22 et 24.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-653 du 4 mai 2012 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H bis (V)
 
 
 ##### Section I : Taxe d'habitation
