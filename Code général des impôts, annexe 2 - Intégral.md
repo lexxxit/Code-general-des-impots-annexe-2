@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-05-07
+Version Consolidée au 2012-05-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6971,7 +6971,7 @@ s'applique le versement, le montant des sommes imposables et le montant de la ta
 
 I.-Les employeurs assujettis à la cotisation prévue au 1 de l'article 235 bis du code général des impôts sont tenus de
 produire chaque année, au plus tard le deuxième jour ouvré suivant le 1er mai, et conformément aux dispositions de l'article
-*R. 313-3 du code de la construction et de l'habitation, une déclaration mentionnant notamment les éléments prévus par ce
+R. 313-2 du code de la construction et de l'habitation, une déclaration mentionnant notamment les éléments prévus par ce
 dernier article. 
 
 II.-Les employeurs assujettis à la cotisation prévue au 2 de l'article 235 bis du code général des impôts sont tenus de
@@ -6983,8 +6983,7 @@ article.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
+	  - Décret n°2012-721 du 9 mai 2012 - art. 6
 
 	**Cité par**:
 
@@ -6995,16 +6994,16 @@ article.
 
 	  - Code général des impôts, CGI. - art. 235 bis
 	  - Code rural - art. R716-28
-	  - Code de la construction et de l'habitation. - art. R*313-3
+	  - Code de la construction et de l'habitation. - art. R*313-2
 
 
 ###### Article 162
 
 I.-La cotisation prévue au 1 de l'article 235 bis du code général des impôts est établie, contrôlée et recouvrée conformément
-aux dispositions de l'article *R. 313-5 du code de la construction et de l'habitation. 
+aux dispositions de l'article R. 313-3 du code de la construction et de l'habitation. 
 
 Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires conformément au
-quatrième alinéa de l'article * R. 313-5 précité. 
+quatrième alinéa de l'article * R. 313-3 précité. 
 
 II.-La cotisation prévue au 2 de l'article 235 bis du code général des impôts est établie, contrôlée et recouvrée
 conformément aux dispositions de l'article R. 716-29 du code rural et de la pêche maritime. 
@@ -7016,21 +7015,20 @@ quatrième alinéa de l'article R. 716-29 précité.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
+	  - Décret n°2012-721 du 9 mai 2012 - art. 6
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 235 bis
 	  - Code rural - art. R716-29
-	  - Code de la construction et de l'habitation. - art. R*313-5
+	  - Code de la construction et de l'habitation. - art. R*313-3
 
 
 ###### Article 163
 
-I.-En cas de cession, cessation, redressement ou liquidation judiciaire de l'entreprise ou de décès de l'employeur, la
-déclaration prévue à l'article R*313-3 du code de la construction et de l'habitation afférente à l'année en cours et à
-l'année précédente doit être souscrite conformément aux dispositions de l'article R*313-6 du même code. 
+I.-En cas de cession, cessation, procédure de sauvegarde, redressement ou liquidation judiciaire de l'entreprise ou de décès
+de l'employeur, la déclaration prévue à l'article R. 313-2 du code de la construction et de l'habitation afférente à l'année
+en cours et à l'année précédente doit être souscrite conformément aux dispositions de l'article R. 313-4 du même code. 
 
 II.-En cas de cession, cessation, procédure de sauvegarde, redressement ou liquidation judiciaire de l'entreprise ou de décès
 de l'employeur, la déclaration prévue à l'article R. 716-28 du code rural et de la pêche maritime afférente à l'année en
@@ -7040,15 +7038,18 @@ cours et à l'année précédente est souscrite conformément aux dispositions d
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
+	  - Décret n°2012-721 du 9 mai 2012 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2014-277 du 28 février 2014 - art. 3
 
 	**Cite**:
 
-	  - Code rural - art. R716-28 (V)
-	  - Code rural - art. R716-30 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-3 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-6 (V)
+	  - Code rural - art. R716-28
+	  - Code rural - art. R716-30
+	  - Code de la construction et de l'habitation. - art. R*313-2
+	  - Code de la construction et de l'habitation. - art. R313-4
 
 
 #### Chapitre VI ter : Participation des employeurs au développement de la formation professionnelle continue
