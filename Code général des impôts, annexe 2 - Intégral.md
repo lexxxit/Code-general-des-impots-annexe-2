@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-05-11
+Version Consolidée au 2012-05-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -22339,6 +22339,8 @@ prépondérante.
 
 
 ## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects
+
+## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects
 
 ###### Article 408
 
