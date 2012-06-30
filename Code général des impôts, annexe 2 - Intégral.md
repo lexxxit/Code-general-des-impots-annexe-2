@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-05-24
+Version Consolidée au 2012-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19024,24 +19024,20 @@ représentant de l'adhérent.
 
 Ils ne peuvent agir en qualité de mandataires de leurs membres. 
 
-Toutefois, les centres peuvent recevoir mandat de leurs membres ayant adhéré au système de transfert des données fiscales et
-comptables pour transmettre les informations correspondant aux obligations déclaratives de ces membres.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Toutefois, les centres doivent recevoir mandat de leurs membres en vue de la télétransmission des attestations qu'ils
+délivrent à leurs adhérents ainsi que des déclarations de résultats, de leurs annexes et des autres documents les
+accompagnant selon la procédure prévue par le système de transfert des données fiscales et comptables.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 25 novembre 2010 - art. (Ab)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 I (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
 
 	**Cite**:
 
@@ -19060,20 +19056,13 @@ bénéfice réel.
 L'agrément d'un centre pourra n'être pas renouvelé si le nombre des adhérents n'atteint pas trois cents dans un délai de
 trois ans à compter de la date d'agrément.
 
-En ce qui concerne les centres prévus aux II, III et IV de l'article 1649 quater D du code général des impôts, ces nombres
-sont respectivement fixés à soixante-quinze et cent cinquante.
-
 Il n'est pas exigé d'effectif minimum des centres créés dans les départements d'outre-mer.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1649 quater D
-
 	**Modifié par**:
 
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 5
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
 
 
 ###### Article 371 C
@@ -19138,7 +19127,7 @@ participer au conseil d'administration ou à tout autre organe dirigeant, à hau
 
 Ils doivent comporter en outre les stipulations suivantes : 
 
-1° Le centre fournit à ses membres adhérents imposés d'après leur bénéfice réel dans un délai de sept mois suivant la clôture
+1° Le centre fournit à ses membres adhérents imposés d'après leur bénéfice réel dans un délai de neuf mois suivant la clôture
 de leur exercice comptable lorsque celui-ci coïncide avec l'année civile, et dans un délai de six mois lorsque l'exercice
 comptable ne coïncide pas avec l'année civile, un dossier comprenant : 
 
@@ -19148,9 +19137,9 @@ l'industrie et du ministre du commerce et de l'artisanat (1) ;
 
 b. Un commentaire sur la situation financière et économique de l'entreprise ; 
 
-c. A partir de la clôture du deuxième exercice suivant celui de l'adhésion et dans le même délai de six mois, le centre
-fournit à ses adhérents une analyse comparative des bilans et des comptes d'exploitation de l'entreprise. Toutefois, pour les
-entreprises soumises au régime simplifié d'imposition, seule l'analyse comparative des comptes d'exploitation doit être
+c. A partir de la clôture du deuxième exercice suivant celui de l'adhésion et dans l'un des délais prévus ci-dessus, le
+centre fournit à ses adhérents une analyse comparative des bilans et des comptes de résultat de l'entreprise. Toutefois, pour
+les entreprises soumises au régime simplifié d'imposition, seule l'analyse comparative des comptes d'exploitation doit être
 fournie ; 
 
 d. Un document de synthèse présentant une analyse des informations économiques, comptables et financières de l'entreprise et
@@ -19167,18 +19156,14 @@ centre ;
 a. L'engagement de produire à la personne ou à l'organisme chargé de tenir et de présenter leurs documents comptables tous
 les éléments nécessaires à l'établissement d'une comptabilité sincère de leur exploitation ; 
 
-b. L'engagement de faire viser leurs déclarations de résultats par l'expert comptable de leur choix qui tient, centralise ou
-surveille leur comptabilité, lorsque les documents comptables ne sont pas tenus et présentés par un centre bénéficiant de
-l'une des habilitations prévues à l'article 371 I ; 
+b. Abrogé ; 
 
-c. L'obligation de communiquer au centre le bilan et les comptes d'exploitation générale et de pertes et profits de leur
-exploitation ainsi que tous documents annexes : toutefois, l'obligation de communiquer le bilan au centre ne concerne pas les
-entreprises soumises au régime simplifié d'imposition ; 
+c. L'obligation de communiquer au centre le bilan et les comptes de résultat ainsi que tous documents annexes ; 
 
 d. Abrogé ; 
 
-e. L'autorisation pour le centre de communiquer à l'agent de l'administration fiscale qui apporte son assistance technique au
-centre les documents mentionnés au présent article. 
+e. L'autorisation pour le centre de communiquer à l'administration fiscale, dans le cadre de l'assistance que cette dernière
+lui apporte, les documents mentionnés au présent article. 
 
 En cas de manquements graves ou répétés aux engagements ou obligations sus-énoncés l'adhérent est exclu du centre. Il doit
 être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés. 
@@ -19187,19 +19172,17 @@ En cas de manquements graves ou répétés aux engagements ou obligations sus-é
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 25 novembre 2010 - art. (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
+
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 I (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 164 F unvicies (V)
-	  - Code général des impôts, CGI. - art. 1649 quater C
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies
 
 
 ###### Article 371 EA
@@ -19286,8 +19269,8 @@ publiques en délivre récépissé.
 
 La décision d'agrément est prise par une commission instituée au chef-lieu de région. 
 
-Cette commission, placée sous la présidence du directeur régional des finances publiques de la région dans laquelle le centre
-a son siège, comprend également : 
+Cette commission, placée sous la présidence du directeur régional des finances publiques en fonction au chef-lieu de région
+dans laquelle le centre a son siège, comprend également : 
 
 a. un fonctionnaire de la direction régionale des finances publiques ; 
 
@@ -19306,15 +19289,45 @@ remplacés par deux représentants du ministre de l'agriculture et les trois rep
 les exploitants agricoles de la région par le président de la chambre régionale d'agriculture, au vu d'une liste de six noms
 présentée par chacune des fédérations départementales de syndicats d'exploitants agricoles de la région. 
 
-Des suppléants du président et des autres membres sont nommés dans les mêmes conditions que les titulaires. 
+Le président désigne des suppléants parmi ses collaborateurs. Les autres membres suppléants de la commission sont nommés dans
+les mêmes conditions que les titulaires.
 
-En cas de partage égal des voix, la voix du président de la commission est prépondérante.
+Le membre d'une commission qui, au cours de son mandat, décède, démissionne ou perd la qualité au titre de laquelle il a été
+désigné est remplacé pour la durée du mandat restant à courir par une personne désignée dans les mêmes conditions. 
+
+La commission se réunit sur convocation de son président, qui fixe l'ordre du jour. Cette convocation peut être adressée par
+tout moyen, y compris par télécopie ou par courrier électronique. Il en est de même des pièces ou documents nécessaires à la
+préparation de la réunion ou établis à l'issue de celle-ci. 
+
+Sauf urgence, les membres de la commission reçoivent, quinze jours au moins avant la date de la réunion, une convocation
+comportant l'ordre du jour et, le cas échéant, les documents nécessaires à l'examen des affaires qui y sont inscrites. 
+
+Lorsqu'il n'est pas suppléé, le membre d'une commission peut donner mandat à un autre membre. Sauf dispositions contraires,
+nul ne peut détenir plus d'un mandat. 
+
+Le quorum est atteint lorsque la moitié au moins des membres composant la commission sont présents, y compris les membres
+prenant part aux débats au moyen d'une conférence téléphonique ou audiovisuelle. 
+
+Lorsque le quorum n'est pas atteint, la commission délibère valablement sans condition de quorum après une nouvelle
+convocation portant sur le même ordre du jour et spécifiant qu'aucun quorum ne sera exigé. 
+
+La commission se prononce à la majorité des voix des membres présents ou représentés. En cas de partage égal des voix, la
+voix du président de la commission est prépondérante.
+
+Les membres d'une commission ne peuvent prendre part aux délibérations lorsqu'ils ont un intérêt personnel à l'affaire objet
+de la délibération. La violation de cette règle entraîne la nullité de la décision prise à la suite de cette délibération
+lorsqu'il n'est pas établi que la participation du ou des membres intéressés est restée sans influence sur la délibération. 
+
+Le procès-verbal de la réunion de la commission indique le nom et la qualité des membres présents, les questions traitées au
+cours de la séance et le sens de chacune des délibérations. 
+
+Tout membre de la commission peut demander qu'il soit fait mention de son désaccord avec la décision rendue.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 10
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
 
 	**Cité par**:
 
@@ -19342,55 +19355,6 @@ L'absence de décision dans le délai fixé vaut acceptation de la demande. Le r
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2006
-
-
-###### Article 371 I
-
-Pour que l'agrément prévu à l'article 1649 quater C du code général des impôts les habilite à tenir et à présenter les
-documents comptables de leurs adhérents, les centres de gestion apportant leur assistance exclusivement aux agriculteurs
-doivent établir que les responsables de leurs services comptables remplissent les conditions définies au I de l'article 16 du
-décret n° 75-911 du 6 octobre 1975. 
-
-Pour que l'agrément prévu à l'article 1649 quater C précité les habilite à tenir et présenter les documents comptables de
-leurs adhérents ayant opté pour le régime simplifié d'imposition, les centres de gestion créés par les personnes ou
-organismes mentionnés à l'article 371 A doivent, lorsqu'ils apportent leur assistance à des industriels, commerçants et
-artisans, établir que les responsables de leurs services comptables remplissent les conditions définies au I de l'article 16
-du décret n° 75-911 du 6 octobre 1975, la pratique professionnelle s'appréciant en matière de gestion et de comptabilité des
-entreprises industrielles ou commerciales. 
-
-Les pièces justificatives des titres ou diplômes et de la pratique professionnelle désignés à l'article 16 du décret n°
-75-911 du 6 octobre 1975 modifié par l'article 7 du décret n° 79-71 du 23 janvier 1979 sont jointes aux documents mentionnés
-à l'article 371 F. 
-
-La commission mentionnée à l'article 371 G rend sa décision sur la demande d'habilitation après examen des pièces mentionnées
-au troisième alinéa. 
-
-Dans le cas où des changements interviennent en ce qui concerne les responsables de leurs services comptables, les centres
-bénéficiant des habilitations mentionnées aux premier et deuxième alinéas doivent informer le directeur régional des finances
-publiques de la région dans laquelle le centre a son siège, dans un délai d'un mois. Le maintien de l'habilitation est
-subordonné à une décision de la commission prise dans les conditions prévues aux troisième et quatrième alinéas.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°75-911 du 6 octobre 1975 - art. 16
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 A
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 G
-	  - Code général des impôts, CGI. - art. 1649 quater C
-
-	**Modifié par**:
-
-	  - Décret n°2012-430 du 29 mars 2012 - art. 11
-
-	**Abrogé par**:
-
-	  - Décret n°2012-470 du 11 avril 2012 - art. 1
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 E (VD)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 EA (V)
 
 
 ###### Article 371 J
@@ -19469,7 +19433,10 @@ b) En cas de première adhésion à un centre agréé pour l'imposition du bén�
 première fois ; 
 
 c) En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours déclaré dans les
-conditions prévues à l' article 53 A du code général des impôts. 
+conditions prévues à l'article 53 A du code général des impôts ; 
+
+d) En cas de démission d'un centre de gestion agréé suivie, dans le délai maximum de trente jours à la date de la démission,
+de l'adhésion à un autre centre de gestion agréé. 
 
 Les déclarations de résultats des membres adhérents d'un centre de gestion agréé, mentionnés au premier alinéa, doivent être
 accompagnées d'une attestation fournie par le centre indiquant la date d'adhésion et, le cas échéant, la date à laquelle est
@@ -19480,7 +19447,7 @@ attestation.
 
 	**Modifié par**:
 
-	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
 
 	**Cité par**:
 
@@ -19489,8 +19456,36 @@ attestation.
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 53 A (V)
+	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code général des impôts, CGI. - art. 53 A (V)
+
+
+###### Article 371 L bis
+
+Pour l'application du deuxième alinéa des articles L. 169 et L. 176 du livre des procédures fiscales, un contribuable n'est
+pas considéré comme adhérent d'un centre de gestion agréé s'il n'a pas été membre adhérent d'un tel centre pendant toute la
+durée de l'exercice considéré. 
+
+Cette condition n'est toutefois pas exigée dans les cas mentionnés aux a, b, c et d de l'article 371 L.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article 80-I de la loi n° 2014-1654 du 29 décembre 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 L
+	  - Livre des procédures fiscales - art. L169
 
 
 ###### Article 371 LA
@@ -19634,22 +19629,19 @@ offices. Les formations proposées par l'organisme agréé sont également offer
 
 Elles ne peuvent agir en qualité de mandataires de leurs membres. 
 
-Toutefois, les associations peuvent recevoir mandat de leurs membres ayant adhéré au système de transfert des données
-fiscales et comptables pour transmettre les informations correspondant aux obligations déclaratives de ces membres.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Toutefois, les associations doivent recevoir mandat de leurs membres en vue de la télétransmission des attestations qu'elles
+délivrent à leurs adhérents ainsi que des déclarations de résultats, de leurs annexes et des autres documents les
+accompagnant selon la procédure prévue par le système de transfert des données fiscales et comptables.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 25 novembre 2010 - art. (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
 
 	**Cite**:
 
@@ -19715,7 +19707,7 @@ Les statuts des associations doivent contenir les clauses suivantes :
 
 1° L'association a pour objet de fournir à ses membres adhérents des services ou informations qui leur permettent de
 développer l'usage de la comptabilité et qui facilitent l'accomplissement de leurs obligations administratives et fiscales.
-L'association fournit à ses membres adhérents, dans un délai de sept mois qui suit la date de clôture de leur exercice, un
+L'association fournit à ses membres adhérents, dans un délai de neuf mois qui suit la date de clôture de leur exercice, un
 document de synthèse présentant une analyse des informations économiques, comptables et financières de l'entreprise et lui
 indiquant, le cas échéant, les démarches à accomplir afin de régler ces difficultés ; 
 
@@ -19739,30 +19731,30 @@ b. L'engagement par ceux de ces membres dont les déclarations de bénéfices so
 celle-ci tous les éléments nécessaires à l'établissement de déclarations sincères et complètes ; 
 
 c. L'engagement par ceux de ces membres qui ne font pas élaborer leur déclaration par l'association, de lui communiquer
-préalablement à l'envoi au service des impôts de la déclaration prévue à l'article 97 du même code, le montant du résultat
-imposable et l'ensemble des données utilisées pour la détermination de ce résultat ; 
+préalablement à l'envoi au service des impôts des entreprises de la déclaration prévue à l'article 97 du code général des
+impôts, le montant du résultat imposable et l'ensemble des données utilisées pour la détermination de ce résultat ; 
 
-d. L'autorisation donnée à l'association de communiquer à l'agent de l'administration fiscale qui apporte son assistance
-technique à l'association les renseignements ou documents mentionnés au présent article ; 
+d. L'autorisation pour l'association de communiquer à l'administration fiscale, dans le cadre de l'assistance que cette
+dernière lui apporte, les documents mentionnés au présent article ; 
 
 e. En cas de manquements graves ou répétés aux engagements énoncés ci-dessus, l'adhérent sera exclu de l'association. Il
 devra être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 25 novembre 2010 - art. (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
+
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 X (V)
-	  - Code général des impôts, CGI. - art. 1649 quater F (V)
-	  - Code général des impôts, CGI. - art. 97 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 X
+	  - Code général des impôts, CGI. - art. 1649 quater F
+	  - Code général des impôts, CGI. - art. 97
 
 
 ###### Article 371 QA
@@ -19939,7 +19931,10 @@ d'imposition commencée depuis moins de cinq mois à la date de l'adhésion. Le 
 cessation est considéré comme adhérant pour la première fois ; 
 
 c) En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours déclaré dans les
-conditions prévues à l'article 53 A du code général des impôts. 
+conditions prévues à l'article 97 du code général des impôts ; 
+
+d) En cas de démission d'une association agréée suivie, dans le délai maximum de trente jours à la date de la démission, de
+l'adhésion à une autre association agréée. 
 
 Les déclarations de résultats des membres adhérents d'une association agréée, mentionnés au premier alinéa, doivent être
 accompagnées d'une attestation fournie par l'association indiquant la date d'adhésion et, le cas échéant, la date à laquelle
@@ -19950,12 +19945,39 @@ attestation.
 
 	**Modifié par**:
 
-	  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (V)
-	  - Code général des impôts, CGI. - art. 53 A
+	  - Code général des impôts, CGI. - art. 158
+	  - Code général des impôts, CGI. - art. 97
+
+
+###### Article 371 W bis
+
+Pour l'application du deuxième alinéa des articles L. 169 et L. 176 du livre des procédures fiscales, un contribuable n'est
+pas considéré comme adhérent d'une association agréée s'il n'a pas été membre adhérent d'une telle association pendant toute
+la durée de l'exercice considéré. 
+
+Cette condition n'est toutefois pas exigée dans les cas mentionnés aux a, b, c et d de l'article 371 W.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article 80-I de la loi n° 2014-1654 du 29 décembre 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L169
 
 
 ###### Article 371 X
@@ -20203,8 +20225,9 @@ prises en matière de convention prévue à l'article 371 bis B.
 ###### Article 371 bis F
 
 Le professionnel de l'expertise comptable qui a conclu la convention prévue à l'article 371 bis B transmet à ses clients ou
-adhérents imposés d'après leur bénéfice réel, dans un délai de six mois suivant la clôture de leur exercice comptable, un
-dossier comprenant : 
+adhérents imposés d'après leur bénéfice réel, dans un délai de neuf mois suivant la clôture de leur exercice comptable
+lorsque celui-ci coïncide avec l'année civile, et dans un délai de six mois lorsque l'exercice comptable ne coïncide pas avec
+l'année civile, un dossier comprenant : 
 
 a) Les ratios et les autres éléments caractérisant la situation financière et économique de l'entreprise ; 
 
@@ -20219,13 +20242,13 @@ financières de l'entreprise avec l'indication, le cas échéant, des démarches
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-297 du 19 mars 2010 - art. 1
+	  - Décret n°2012-470 du 11 avril 2012 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B
 
 
 ###### Article 371 bis G
@@ -22337,8 +22360,6 @@ Les sections ou le comité se prononcent à la majorité des voix. En cas de par
 prépondérante.
 
 
-
-## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects
 
 ## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects
 
