@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2012-09-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14288,11 +14288,13 @@ de déclarations mensuelles et annuelles mentionnées à l'article 286 J.
 
 ###### Article 286 I
 
-I.-1° Pour les entrepositaires agréés produisant des produits vitivinicoles régis par le règlement (CE) n° 1493/1999 du
-Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, la comptabilité matières est constituée par les
-registres vitivinicoles prévus par le règlement (CE) n° 884/2001 de la Commission du 24 avril 2001 portant modalités
-d'application relatives aux documents accompagnant les transports des produits vitivinicoles et aux registres à tenir dans le
-secteur vitivinicole. 
+I.-1° Pour les entrepositaires agréés produisant des produits vitivinicoles régis par le règlement (CE) n° 1234/2007 du
+Conseil du 22 octobre 2007 portant organisation commune des marchés dans le secteur agricole et dispositions spécifiques en
+ce qui concerne certains produits de ce secteur (règlement " OCM unique "), la comptabilité matières est constituée par les
+registres vitivinicoles prévus par le règlement (CE) n° 436/2009 de la Commission du 26 mai 2009 portant modalités
+d'application du règlement (CE) n° 479/2008 du Conseil en ce qui concerne le casier viticole, les déclarations obligatoires
+et l'établissement des informations pour le suivi du marché, les documents accompagnant les transports des produits et les
+registres à tenir dans le secteur vitivinicole ; 
 
 2° L'entrepositaire agréé doit remettre une copie des documents constituant la comptabilité matières aux agents des douanes
 et droits indirects, sur leur demande. 
@@ -14305,7 +14307,7 @@ procédure informatisée, chronologiquement et au plus tard le jour ouvrable qui
 ouvrable pour les sorties. 
 
 Par exception aux dispositions qui précèdent, les écritures relatives à chaque opération peuvent être portées sur les
-registres au plus tard le cinquième jour de chaque mois pour les opérations du mois précédent, à condition qu'un contrôle des
+registres au plus tard le dixième jour de chaque mois pour les opérations du mois précédent, à condition qu'un contrôle des
 entrées et sorties, ainsi que des manipulations, reste possible sur la base de pièces justificatives à toute réquisition des
 agents des douanes et droits indirects ou de ceux de la concurrence, de la consommation et de la répression des fraudes. 
 
@@ -14314,18 +14316,19 @@ références des contrats d'achat soumis au visa de l'établissement mentionné 
 maritime pour les transactions soumises à cette procédure. 
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords interprofessionnels visés notamment aux articles
-L. 632-1 à L. 632-7 du code rural et de la pêche maritime, les registres comportent pour les vins d'appellation d'origine,
-les références aux certificats d'agrément ou de labellisation, les numéros d'enregistrement des contrats d'achat et les
-numéros des déclarations de transactions soumis préalablement aux interprofessions tels que prévus dans les accords
-interprofessionnels étendus mentionnés aux articles précités. 
+L. 632-1 à L. 632-7 du code rural et de la pêche maritime, les registres comportent pour les vins bénéficiant d'une
+protection de dénomination, les références aux déclarations de revendication au bénéfice de cette protection prévues par la
+réglementation en vigueur, les numéros d'enregistrement des contrats d'achat et les numéros des déclarations de transactions
+soumis préalablement aux interprofessions tels que prévus dans les accords interprofessionnels étendus mentionnés aux
+articles précités. 
 
 Les registres comportent, le cas échéant, les références aux comptes d'âges ou de vieillissement prévus par les textes
 réglementaires en vigueur et les règlements des organismes interprofessionnels. 
 
 En cas d'application des dispositions de l'article 450 du code général des impôts ou des articles 661 et 662 du code rural
 ancien, les registres doivent faire référence, pour chaque mouvement de produits vitivinicoles mentionnés au règlement (CE)
-n° 1493/1999 du Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, à l'avis de blocage, à
-l'engagement de garantie ou de mainlevée du porteur du warrant agricole ou du porteur de l'engagement de garantie. 
+n° 1234/2007 précité, à l'avis de blocage, à l'engagement de garantie ou de mainlevée du porteur du warrant agricole ou du
+porteur de l'engagement de garantie. 
 
 L'identité du détenteur des registres doit figurer sur la première page de chacun des registres. 
 
@@ -14344,20 +14347,20 @@ aux dispositions européennes et aux informations prévues au 1° du II ;
 b) La reprise des inventaires physiques des produits réalisés au moment de la clôture de l'exercice comptable. 
 
 III.-Les entrepositaires agréés doivent effectuer la balance des registres en y inscrivant pour tous les produits
-vitivinicoles, au plus tard le cinquième jour de chaque mois, le stock théorique en début du mois précédent, le stock
-théorique en fin du mois précédent et le total des entrées et des sorties du mois précédent. 
+vitivinicoles, au plus tard le dixième jour de chaque mois, le stock théorique en début du mois précédent, le stock théorique
+en fin du mois précédent et le total des entrées et des sorties du mois précédent. 
 
 Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au
 2° bis du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt. 
 
 Les entrepositaires agréés transmettent au service des douanes et droits indirects territorialement compétent, au plus tard
-le cinquième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au premier alinéa
-et, le cas échéant, ceux prévus au 1° du II. 
+le dixième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au premier alinéa et,
+le cas échéant, ceux prévus au 1° du II. 
 
 IV.-Les registres doivent être clôturés une fois par an, à la date de souscription de la déclaration des stocks mentionnée à
 l'article 408 du code général des impôts, pour les récoltants y compris les sociétés coopératives et leurs unions. La
 déclaration annuelle est transmise au service des douanes et droits indirects territorialement compétent, au plus tard le
-cinquième jour du deuxième mois qui suit la clôture des comptes. 
+dixième jour du deuxième mois qui suit la clôture des comptes. 
 
 V.-Les registres peuvent être constitués par des annotations au verso des déclarations de récolte et des stocks mentionnées
 aux articles 407 et 408 du code général des impôts. 
@@ -14377,18 +14380,13 @@ VII.-Les registres vitivinicoles peuvent être regroupés sur un seul document.
 VIII.-Les registres et les pièces justificatives nécessaires à leur tenue et les documents prévus aux IV et VI sont conservés
 dans les conditions et selon les modalités fixées à l'article L. 102 B du livre des procédures fiscales. 
 
-IX.-La validation des documents mentionnés à l'article 302 M du code général des impôts pour l'expédition ou l'enlèvement des
-produits vitivinicoles n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à la tenue de la
-comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles 614 et 614 A
-dudit code. 
+IX.-La validation des documents mentionnés aux articles 302 M et 302 M ter du code général des impôts pour l'expédition ou
+l'enlèvement des produits vitivinicoles n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à la
+tenue de la comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles 614
+et 614 A dudit code. 
 
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
 le directeur régional des douanes et droits indirects.
-
-**Nota:**
-
-Modifications effectuées en conséquence de la loi n° 2011-1978 du 28 décembre 2011, article 68-I et arrêté du 8 décembre
-2011, article 16 [1°].
 
 **Liens relatifs à cet article**
 
@@ -14410,7 +14408,9 @@ Modifications effectuées en conséquence de la loi n° 2011-1978 du 28 décembr
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 2
+	  - Décret n°2012-1075 du 21 septembre 2012 - art. 2
+	  - Décret n°2012-1075 du 21 septembre 2012 - art. 4
+	  - Décret n°2012-1075 du 21 septembre 2012 - art. 5
 
 	**Cite**:
 
@@ -14900,11 +14900,11 @@ même code ;
 
 2° Autorisation du procédé de dénaturation de l'alcool prévue au b du I de l'article 302 D bis du code général des impôts ; 
 
-3° Agrément des opérateurs enregistrés prévu par l'article 302 H du code général des impôts ; 
+3° (abrogé) 
 
 4° Dispense de cautionnement en matière de contributions indirectes prévue au 2 du III de l'article 302 D, au V de l'article
-302 G, au deuxième alinéa de l'article 302 H, à l'article 302 J du code général des impôts et aux articles 286 N de l'annexe
-II, 111-0 C et 111-0 D de l'annexe III au même code ; 
+302 G, au premier alinéa du I de l'article 302 H ter, à l'article 302 J du code général des impôts et aux articles 286 N de
+l'annexe II, 111-0 C et 111-0 D de l'annexe III au même code ; 
 
 5° Retrait de l'agrément accordé à l'entrepositaire agréé en cas de violation de ses obligations, de défaillance de la
 caution ou de dénonciation par cette caution de son engagement, prévu au V de l'article 302 G du code général des impôts, au
@@ -14915,8 +14915,8 @@ code ;
 4 du II de l'article 286 M de l'annexe II au même code ; 
 
 7° Autorisation de décharges de manquants pour les pertes de marchandises constatées lors de livraisons d'alcool, de boissons
-alcooliques ou de tabacs manufacturés en suspension de droits d'accises, à destination d'un entrepositaire agréé, d'un
-opérateur enregistré ou d'un opérateur non enregistré, prévue par l'article 302 K du code général des impôts ; 
+alcooliques ou de tabacs manufacturés en suspension de droits d'accises, à destination d'un entrepositaire agréé ou d'un
+destinataire enregistré, prévue par l'article 302 K du code général des impôts ; 
 
 8° Autorisation préalable des personnes qui désirent importer, acquérir à titre gratuit ou onéreux, obtenir en location,
 faire réparer ou transformer un ou plusieurs appareils ou portions d'appareils propres à la distillation, à la fabrication ou
@@ -14948,9 +14948,9 @@ alcooliques en exonération de droits d'accises, prévus au 1° du I de l'articl
 l'annexe III et le a de l'article 50-0 C de l'annexe IV au code général des impôts ; 
 
 17° Autorisation donnée aux entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et des débitants
-de boissons mentionnés aux articles 501 et 502 du même code, d'utiliser leurs factures ou tout autre document commercial, en
-lieu et place des documents d'accompagnement mentionnés à l'article 302 M du code précité, prévue par le II de l'article 111
-H bis de l'annexe III au code général des impôts ; 
+de boissons mentionnés à l'article 502 du même code, d'utiliser leurs factures ou tout autre document commercial, en lieu et
+place des documents d'accompagnement mentionnés à l'article 302 M du code précité, prévue par le II de l'article 111 H bis de
+l'annexe III au code général des impôts ; 
 
 18° Agrément des procédés de dénaturation des essences d'absinthe et produits assimilés, prévu par le premier alinéa de
 l'article 178 P de l'annexe III au code général des impôts ; 
@@ -15043,7 +15043,7 @@ billets, prévue par l'article 128 de l'annexe IV au code général des impôts 
 46° Autorisation donnée aux établissements de spectacles d'utiliser des carnets journaliers de billets, prévue par le premier
 alinéa de l'article 129 de l'annexe IV au code général des impôts ; 
 
-47° Autorisation de déroger aux règles fixées par les articles 127, 128 et 129 de l'annexe IV au code général des impôts en
+47° Autorisation de déroger aux règles fixées par les articles 127,128 et 129 de l'annexe IV au code général des impôts en
 matière de billetterie pour les représentations occasionnelles ; 
 
 48° Mise en demeure adressée au comité de direction d'un cercle de jeu de ne pas maintenir en fonction un préposé n'arrivant
@@ -15073,36 +15073,56 @@ l'annexe IV, prévue à l'article 164 AW de la même annexe ;
 
 55° Décisions relatives aux réclamations contentieuses, prévues à l'article R. * 198-10 du livre des procédures fiscales.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 78-II et V de la loi n°2007-1824 du 25 décembre 2007.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2007-906 du 15 mai 2007 - art. 1 (V)
-	  - Décret n°2007-906 du 15 mai 2007 - art. 10 (V)
-	  - Décret n°2007-906 du 15 mai 2007 - art. 16 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 C (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 B (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 P (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 207 (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 128 (V)
+	  - Décret n°2007-906 du 15 mai 2007 - art. 1
+	  - Décret n°2007-906 du 15 mai 2007 - art. 10
+	  - Décret n°2007-906 du 15 mai 2007 - art. 16
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 N (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 C
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 B
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AA (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 P
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 207
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 128
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 129 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 151 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 C (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 C (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Z (V)
-	  - Code général des impôts, CGI. - art. 302 D (V)
-	  - Code général des impôts, CGI. - art. 306 (V)
-	  - Code général des impôts, CGI. - art. 425 (V)
-	  - Code général des impôts, CGI. - art. 501 (V)
-	  - Livre des procédures fiscales - art. R*198-10 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 C
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 C (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 C
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 I (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Z
+	  - Code général des impôts, CGI. - art. 302 D
+	  - Code général des impôts, CGI. - art. 302 D bis (V)
+	  - Code général des impôts, CGI. - art. 302 G (V)
+	  - Code général des impôts, CGI. - art. 302 H ter (V)
+	  - Code général des impôts, CGI. - art. 302 J (V)
+	  - Code général des impôts, CGI. - art. 302 K (V)
+	  - Code général des impôts, CGI. - art. 306
+	  - Code général des impôts, CGI. - art. 309 (V)
+	  - Code général des impôts, CGI. - art. 311 bis (V)
+	  - Code général des impôts, CGI. - art. 327 (V)
+	  - Code général des impôts, CGI. - art. 425
+	  - Code général des impôts, CGI. - art. 502 (V)
+	  - Livre des procédures fiscales - art. R*198-10
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - Décret n°2012-1075 du 21 septembre 2012 - art. 5
 
 
 ### Titre IV : Enregistrement, publicité foncière, Impôt de solidarité sur la fortune, timbre
