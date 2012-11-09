@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-11-01
+Version Consolidée au 2012-11-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21419,44 +21419,84 @@ toutefois en demander la restitution.
 
 ###### Article 384 A
 
-I. L'héritier, le donataire, le légataire ou le co-partageant qui désire acquitter tout ou partie des droits de mutation ou
-de partage dont il est redevable par la remise d'oeuvres ou de documents visés à l'article 1716 bis du code général des
-impôts doit déposer au service des impôts ou à la conservation des hypothèques compétent pour enregistrer l'acte constatant
-la mutation, le partage ou la déclaration de succession, une offre de dation à l'Etat indiquant la nature et la valeur de
-chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
+I. Le redevable qui désire acquitter tout ou partie des droits dus par la remise d'œuvres d'art, de livres, d'objets de
+collection, de documents, de haute valeur artistique ou historique mentionnés à l'article 1716 bis du code général des
+impôts, doit déposer une offre de dation à l'Etat, précisant la nature et la valeur de chacun des biens qu'il envisage de
+remettre à l'Etat, au service des impôts compétent pour enregistrer l'acte constatant la mutation ou le partage, la
+déclaration de la succession ou, s'agissant de l'impôt de solidarité sur la fortune, pour recevoir la déclaration spécifique
+ou la déclaration complémentaire de revenus. Il en est délivré récépissé. 
 
-L'offre de dation en paiement est soumise aux mêmes conditions que celles fixées par les I et II de l'article 310 G pour
-l'offre de donation des mêmes oeuvres ou documents faite en vue de l'exonération des droits de mutation.
+II. L'offre de dation est soumise aux conditions fixées à l'article 384-0 A bis. 
 
-II. En cas d'agrément, le demandeur dispose du délai fixé par la décision d'agrément pour accepter par lettre simple, le
-cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert en paiement des droits.
-
-III. En l'absence de décision notifiée dans le délai d'un an à compter de la date du récépissé de l'offre, celle-ci est
+III. En l'absence de décision notifiée dans le délai de deux ans à compter de la date du récépissé de l'offre, celle-ci est
 considérée comme refusée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 1716 bis
-	  - CGIAN2 310 G
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2012-1241 du 7 novembre 2012 - art. 1
 
 	**Cité par**:
 
 	  - Code du patrimoine. - art. D122-1 (V)
 	  - Code général de la propriété des personnes publ... - art. R1111-3 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384-0 A bis (V)
+	  - Code général des impôts, CGI. - art. 1716 bis
+
+
+###### Article 384-0 A bis
+
+I. - L'offre de dation d'œuvres d'art, de livres, d'objets de collection, de documents, de haute valeur artistique ou
+historique prévue à l'
+article 1716 bis du code général des impôts
+, doit être faite dans le délai prévu pour l'enregistrement de l'acte constatant la mutation ou le partage, ou de la
+déclaration de la succession ou, pour l'impôt de solidarité sur la fortune, dans le délai de dépôt de la déclaration. 
+
+II. - L'offre est adressée par le service des impôts à la commission prévue au II de l'article 310 G. 
+
+La commission peut consulter toute personne ou organisme dont l'expertise est susceptible de l'éclairer en matière
+d'acquisition d'œuvres d'art, de livres, d'objets de collection ou de documents, de haute valeur artistique ou historique. 
+
+La commission peut, le cas échéant, ne retenir que certains biens présentés dans l'offre ou proposer au demandeur la
+substitution ou l'adjonction d'autres biens à son offre. Cette proposition est notifiée au demandeur par le président de la
+commission par pli recommandé avec demande d'avis de réception. Dans ce dernier cas, le demandeur présente le nouveau contenu
+de son offre au service de l'administration fiscale en charge de son instruction, ou lui fait part de son refus. 
+
+La commission émet un avis tant sur l'intérêt artistique ou historique que sur la valeur des biens offerts. 
+
+Au vu de l'avis de la commission, le ministre chargé de la culture propose au ministre chargé du budget l'octroi ou le refus
+de l'agrément. 
+
+La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception. 
+
+III. - Le service des impôts compétent notifie au demandeur la valeur libératoire des biens offerts en paiement, par pli
+recommandé avec demande d'avis de réception, lorsqu'elle est différente de celle qu'il a proposée dans son offre. Le
+demandeur dispose du délai prévu au septième alinéa de l'article 1716 bis à compter de la date de réception de la
+notification pour l'accepter. S'il ne répond pas dans ce délai, il est considéré que le demandeur a retiré son offre et les
+droits redeviennent exigibles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1241 du 7 novembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 G
+	  - Code général des impôts, CGI. - art. 1716 bis
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 A (V)
 
 
 ##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres
