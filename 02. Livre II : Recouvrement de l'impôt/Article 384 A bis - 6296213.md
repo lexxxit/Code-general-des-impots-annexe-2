@@ -2,16 +2,16 @@
 
 I. L'héritier, le donataire, le légataire ou le copartageant, qui désire acquitter tout ou partie des droits de mutation ou
 de partage dont il est redevable par la remise d'immeubles visés à l'article 1716 bis du code général des impôts, doit
-déposer au service des impôts ou à la conservation des hypothèques compétent pour enregistrer l'acte constatant la mutation,
-le partage ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la valeur de
-chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé. 
+déposer au service des impôts ou au service de la publicité foncière compétent pour enregistrer l'acte constatant la
+mutation, le partage ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la
+valeur de chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé. 
 
 L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
 de l'acte constatant la mutation ou le partage. 
 
-II. L'offre est adressée par le service des impôts ou la conservation des hypothèques à une commission dont la composition
-est fixée par arrêté conjoint du Premier ministre, du ministre chargé du budget et du ministre chargé de la protection de la
-nature (1). 
+II. L'offre est adressée par le service des impôts    ou le service de la publicité foncière à une commission dont la
+composition est fixée par arrêté conjoint du Premier ministre, du ministre chargé du budget et du ministre chargé de la
+protection de la nature (1). 
 
 Avant de se prononcer, cette commission consulte le Conservatoire de l'espace littoral et des rivages lacustres. 
 
@@ -39,7 +39,7 @@ cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert e
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 18
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
