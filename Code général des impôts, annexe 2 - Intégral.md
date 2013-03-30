@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-03-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6787,41 +6787,36 @@ Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret 
 ###### Article 142
 
 Sous réserve de la régularisation prévue à l'article 143, le montant de la majoration de la taxe sur les salaires visée à
-l'article 231 du code général des impôts est déterminé, pour chaque mois, à raison de :
+l'article 231 du code général des impôts est déterminé, pour chaque mois, à raison de : 
 
 4,25 % de la fraction des traitements et salaires individuels, payés au cours du mois, qui est comprise entre les douzièmes
-des seuils d'application des taux majorés de 8,50 % et de 13,60 % figurant à l'article 231 du code général des impôts ;
+des seuils d'application des taux majorés de 8,50 % et de 13,60 % figurant à l'article 231 du code général des impôts ; 
 
-9,35 % de la fraction de ces traitements et salaires dépassant le douzième du seuil d'application du taux majoré de 13,60 %
-précité.
+9,35 % de la fraction de ces traitements et salaires qui est comprise entre les douzièmes des seuils d'application des taux
+majorés de 13,60 % et de 20 % figurant au même article ; 
+
+15,75 % de la fraction de ces traitements et salaires dépassant le douzième du seuil d'application du taux majoré de 20 %
+précité. 
 
 En ce qui concerne les rémunérations qui sont payées suivant une périodicité ou à des intervalles excédant un mois, l'impôt
 peut être déterminé en ramenant au mois le paiement imposable et en appliquant au montant des droits, calculé conformément
-aux dispositions des premier à troisième alinéas sur la somme ainsi obtenue, la proportion qui existe entre la période à
+aux dispositions des premier à quatrième alinéas sur la somme ainsi obtenue, la proportion qui existe entre la période à
 laquelle s'applique le paiement et le mois.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 231, 143
-
 	**Codifié par**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2007-484 du 30 mars 2007
 
 	**Modifié par**:
 
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
+	  - Décret n°2013-265 du 28 mars 2013 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 144 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 143
@@ -6831,27 +6826,25 @@ effectuée par année.
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 7 604 € et 15 185 € et le taux de 9,35 % à la fraction excédant 15 185 €, et en
-multipliant le chiffre ainsi déterminé par le rapport qui existe entre le montant de la rémunération qui a été payée pendant
-la période d'application de la majoration et le montant total de la rémunération annuelle. 
+l'année civile, qui est comprise entre 7 604 € et 15 185 € ,le taux de 9,35 % à la fraction comprise entre 15 185 € et 150
+000 € et le taux de 20 % à la fraction excédant 150 000 €  et en multipliant le chiffre ainsi déterminé par le rapport qui
+existe entre le montant de la rémunération qui a été payée pendant la période d'application de la majoration et le montant
+total de la rémunération annuelle. 
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
 a bénéficié au cours de la période d'application de la majoration les taux de : 
 
 4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 604 € et 15 185 € ; 
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 15 185 €.
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 15 185 € et 150 000 € ;
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 2-I (1°) de
-la loi n° 2010-1657 du 29 décembre 2010.
+15,75 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 150 000 €.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+	  - Décret n°2013-265 du 28 mars 2013 - art. 2
 
 	**Cité par**:
 
