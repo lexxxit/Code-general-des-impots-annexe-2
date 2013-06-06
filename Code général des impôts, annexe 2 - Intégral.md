@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2013-06-01
+Version Consolidée au 2013-06-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5488,913 +5488,6 @@ montant, la nature du revenu correspondant, leur taux et leur Etat d'origine.
 	  - Code général des impôts, CGI. - art. 218 A (V)
 
 
-##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger
-
-##### II : Régime du bénéfice consolidé
-
-##### 1 : Périmètre de consolidation
-
-###### Article 113
-
-Lorsqu'elles ont été agréées à cet effet par le ministre de l'économie et des finances, les sociétés et autres personnes
-morales françaises passibles de l'impôt sur les sociétés sont, pour l'assiette des impôts établis sur la réalisation et la
-distribution de leurs bénéfices, autorisées à consolider leurs résultats tels qu'ils sont définis au I de l'article 209 du
-code général des impôts, avec les résultats de leurs exploitations directes situées hors de la France métropolitaine et des
-départements d'outre-mer et ceux de leurs exploitations indirectes situées en France et hors de France.
-
-Lorsque la décision d'agrément mentionnée à l'article 209 quinquies du code général des impôts autorise l'option, en
-application des dispositions du 2 de l'article 223 P de ce code, pour le régime de groupe défini à l'article 223 A du même
-code, le résultat d'ensemble mentionné à l'article 223 B de ce code se substitue aux résultats des sociétés membres de ce
-groupe pour la détermination du résultat consolidé (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 I, 209 quinquies, 223 A, 223 B, 223 P
-
-	**Modifié par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 1 () JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 4 juillet 1992
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 134 (P)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 134 A (P)
-
-
-###### Article 114
-
-1. Pour l'application des articles 113 à 123, les exploitations directes s'entendent des succursales, bureaux, comptoirs,
-usines et installations permanentes de toute nature n'ayant pas une personnalité juridique distincte et dans lesquels la
-société ou la personne morale agréée exerce tout ou partie de son activité.
-
-Les exploitations indirectes sont les parts d'intérêts possédées par la société ou la personne morale agréée dans des
-sociétés en participation, des sociétés de personnes et des personnes morales assimilées, ainsi que les participations que la
-société ou la personne morale agréée détient dans des sociétés de capitaux placées sous son contrôle, à l'exception de celles
-qui sont possédées par la société agréée dans des sociétés qui sont membres d'un groupe qu'elle a constitué ou que l'une de
-ses exploitations indirectes a constitué, en application des dispositions des articles 223 A à 223 U du code général des
-impôts.
-
-2. Sont considérées comme placées sous le contrôle d'une société ou d'une personne morale agréée les sociétés de capitaux
-françaises ou étrangères dans lesquelles la société ou personne morale agréée détient 50 p. 100 au moins des droits de vote,
-directement ou indirectement ; par exception aux dispositions du deuxième alinéa du 1, les droits de vote détenus par
-l'intermédiaire de sociétés membres d'un groupe constitué par la société agréée ou par l'une de ses exploitations indirectes
-sont pris en compte pour apprécier ce pourcentage.
-
-Pour l'application du premier alinéa, l'appréciation des droits détenus indirectement par la société ou la personne morale
-agréée s'opère en multipliant successivement, quel que soit le degré de filiation, les pourcentages détenus par chaque
-société mère.
-
-3. Par dérogation à la règle fixée au 2, un pourcentage inférieur à 50 % peut être retenu lorsque la détention d'une
-participation égale ou supérieure à 50 % est interdite par la législation interne de l'Etat dans lequel la société contrôlée
-est implantée, lorsqu'elle résulte d'accords intervenus entre la France et cet Etat ou lorsqu'elle est imposée par la nature
-même de l'activité du groupe des sociétés contrôlées.
-
-4. La société agréée et ses diverses exploitations indirectes doivent ouvrir et clore leurs exercices aux mêmes dates.
-
-5. (Abrogé).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 223 A à 223 U
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 31 mars 2002
-
-
-###### Article 115
-
-1. Les sociétés agrées en vertu de l'article 113 doivent déterminer leur bénéfice imposable en tenant compte, sauf
-disposition contraire de la décision d'agrément, des résultats de l'ensemble de leurs exploitations directes ou indirectes,
-définies à l'article 114, qui existent à la date d'octroi de l'agrément et, à moins que l'administration ne s'y oppose, de
-l'ensemble des exploitations de même nature acquises ou créées postérieurement à l'agrément. Il est tenu compte des résultats
-des exploitations acquises ou créées postérieurement à l'agrément à compter de l'exercice suivant leur création ou leur
-acquisition à l'exception des résultats des exploitations mentionnées au b et au d du 1 de l'article 116 qui sont retenus dès
-l'exercice au cours duquel ces exploitations ont été créées ou acquises (1). En outre, l'administration peut exiger la
-consolidation des résultats d'une exploitation indirecte ne remplissant pas les conditions prévues aux 2, 3 et 4 de l'article
-114.
-
-1 bis. Lorsque la société agréée ou l'une ou plusieurs de ses exploitations indirectes dont les résultats ont été retenus
-pour la détermination du résultat consolidé sont autorisées à opter, en application des dispositions du 2 de l'article 223 P
-du code général des impôts, pour le régime de groupe défini à l'article 223 A de ce code, le résultat d'ensemble mentionné à
-l'article 223 B du même code se substitue aux résultats des sociétés membres de ce groupe (1).
-
-2. Lorsque les résultats d'une exploitation directe ont été retenus pour déterminer le résultat consolidé de la société
-agréée et que cette exploitation est ultérieurement transformée en exploitation indirecte, ses résultats restent pris en
-compte même si les conditions fixées aux 2, 3 et 4 de l'article 114 ne sont pas remplies en ce qui concerne cette
-exploitation.
-
-3. Lorsque les résultats d'une exploitation indirecte ont été retenus pour déterminer le résultat consolidé de la société
-agréée et que les conditions énumérées aux 2 et 3 de l'article 114 cessent d'être remplies pour quelque raison que ce soit,
-les résultats de cette exploitation doivent néanmoins continuer à être retenus aussi longtemps que la société ou la personne
-morale agréée détient une participation dans cette exploitation.
-
-4. La société agréée peut être relevée des obligations prévues aux 2 et 3, par voie d'avenant à l'agrément. Cet avenant peut
-notamment imposer à la société agréée d'ajouter aux résultats consolidés tout ou partie des sommes correspondant aux déficits
-ou moins-values à long terme afférents à l'exploitation dont il s'agit et qui auraient antérieurement été pris en compte pour
-la détermination du résultat consolidé ou de la plus-value ou moins-value nette à long terme consolidée (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 P, 223 A, 223 B
-
-	**Modifié par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 3 () JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 4 juillet 1992
-
-
-##### 2 : Résultat consolidé. Plus-value ou moins-value nette à long terme consolidée
-
-###### Article 116
-
-Sous réserve des dispositions des articles 118 à 120, 125 et 126, le résultat consolidé de la société agréée est déterminé
-comme suit : 
-
-1. La société agréée fait la somme algébrique : 
-
-a) Du résultat de cette société, déterminé dans les conditions de droit commun ou, le cas échéant, du résultat d'ensemble
-mentionné à l'article 223 B du code général des impôts lorsque la société a été autorisée à opter, en application des
-dispositions du 2 de l'article 223 P de ce code, pour le régime défini à l'article 223 A du même code ; 
-
-b) Du résultat des exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer, déterminé
-dans les conditions prévues aux articles 116 bis et 116 ter ; 
-
-c) Du résultat des exploitations indirectes situées en France métropolitaine ou dans les départements d'outre-mer, tel qu'il
-est retenu pour l'imposition de ces dernières à l'impôt sur les sociétés, dans la proportion correspondant aux droits de la
-société agréée dans la distribution des bénéfices de ces exploitations à la date de clôture de la période d'imposition ou à
-la date de la distribution des dividendes afférents à cette période d'imposition, si la participation de la société agréée
-est plus forte à cette date qu'à la clôture de la période d'imposition ; si une ou plusieurs de ces sociétés ont été
-autorisées à opter, en application des dispositions du 2 de l'article 223 P du code général des impôts, pour le régime de
-groupe défini à l'article 223 A de ce code, le résultat d'ensemble de ce groupe, mentionné à l'article 223 B du même code, se
-substitue au résultat propre de la société ; 
-
-d) De la fraction du résultat des exploitations indirectes situées hors de France qui correspond aux droits de la société
-agréée dans la distribution des bénéfices de ces exploitations à la date de clôture de la période d'imposition ou à la date
-de distribution des dividendes afférents à cette période d'imposition, si la participation de la société est plus forte à
-cette date qu'à la clôture de la période d'imposition. Ce résultat est déterminé selon les règles prévues aux articles 116
-bis et 116 ter ci-après. 
-
-2. La société agréée fait la somme algébrique des plus-values ou moins-values nettes à long terme déterminées dans les
-conditions prévues aux articles 39 duodecies à 39 quindecies du code général des impôts ou, le cas échéant, à l'article 223 D
-du même code, réalisées ou subies par la société agréée et les exploitations qui sont mentionnées au 1, et retenues dans la
-proportion définie au c et au d du 1. 
-
-La plus-value nette à long terme consolidée, après imputation, le cas échéant, des moins-values nettes à long terme
-consolidées reportables des exercices antérieurs, est imposée au taux normal prévu au deuxième alinéa du I de l'article 219
-du code général des impôts dans le rapport existant entre les taux réduits d'imposition des plus-values à long terme et le
-taux normal. 
-
-Toutefois, si la somme visée au 1 est négative, la plus-value nette à long terme consolidée, déterminée dans les conditions
-définies au deuxième alinéa, peut être utilisée à compenser le déficit consolidé correspondant. 
-
-3. Les sommes définies au 1 et au 2 ci-dessus sont respectivement minorées ou majorées des plus-values ou moins-values
-résultant de la cession d'éléments de l'actif immobilisé entre les exploitations mentionnées au b et au d du 1, à condition
-que la valeur pour laquelle ces éléments sont inscrits au bilan de l'exploitation cédante ne soit pas modifiée. Cette
-rectification est effectuée dans la plus faible des proportions retenues pour la prise en compte du résultat de
-l'exploitation cédante ou de l'exploitation cessionnaire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 223 B
-
-
-###### Article 116 bis
-
-Pour chacune de ses exploitations directes et indirectes situées hors de la France métropolitaine ou des départements
-d'outre-mer, la société agréée doit établir un bilan de départ. L'actif net de ce bilan sert de base à la détermination des
-résultats de ces exploitations au titre de la première période d'imposition pour laquelle le régime défini à l'article 113
-est appliqué.
-
-Les éléments figurant au bilan de départ doivent être retenus pour la valeur exprimée en monnaie locale qu'ils comportaient
-au regard de la législation fiscale française à la date d'effet de l'agrément ou à celle de l'ouverture du premier exercice
-au titre duquel le régime défini à l'article 113 est appliqué.
-
-La valeur des immobilisations amortissables est réputée être celle qui a été portée au bilan de clôture de l'exercice
-précédant celui de l'établissement du bilan de départ. Le compte d'amortissement correspondant est crédité du montant total
-des amortissements portés à ce même bilan.
-
-Les immobilisations dont la durée d'utilisation n'est pas achevée continuent à être amorties selon les modalités prévues au
-2° du 1 de l'article 39 du code général des impôts.
-
-La décision d'agrément peut imposer à la société agréée l'observation de règles ou de méthodes particulières d'évaluation
-afin que le bilan de départ, établi conformément au principe énoncé au deuxième alinéa du présent article, soit sincère au
-regard de la législation fiscale française.
-
-Les provisions pour charges et les charges à payer qui ne sont pas déductibles du résultat en application des dispositions du
-code général des impôts font l'objet d'une inscription distincte au passif du bilan de départ de l'exploitation étrangère
-(1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39
-
-	**Créé par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 5 () JORF 20 décembre 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 du 27 août 1992
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 4 juillet 1992
-
-
-###### Article 116 ter
-
-Les résultats de chacune des exploitations directes ou indirectes situées hors de la France métropolitaine et des
-départements d'outre-mer sont, sous réserve des dispositions particulières des articles 113 à 134, déterminés selon les
-règles fixées par le code général des impôts en prenant en considération le bilan de départ établi dans les conditions fixées
-à l'article 116 bis. Ces résultats sont convertis en euros sur la base du taux de change en vigueur à la date de clôture de
-l'exercice.
-
-Lorsqu'une exploitation mentionnée au b ou au d du 1 de l'article 116 est située dans un Etat ou territoire dans lequel le
-taux de variation de l'indice des prix, calculé sur une période comprenant l'exercice et les deux exercices antérieurs,
-excède de 50 points le taux constaté en France au titre de la même période, la dotation aux amortissements au titre de cet
-exercice est retenue dans la proportion existant entre, d'une part, le cours de change de la date de clôture de l'exercice
-d'acquisition des biens concernés ou de la date d'inscription de ces biens au bilan de départ défini à l'article 116 bis et,
-d'autre part, le cours de change retenu pour la conversion du résultat de l'exercice au titre duquel la dotation est
-effectuée. Si, au titre d'un exercice ultérieur, le taux de variation de l'indice des prix de cet Etat ou de ce territoire,
-calculé dans les mêmes conditions, devient inférieur au taux constaté en France majoré de 50 points, la dotation aux
-amortissements de cet exercice est déterminée en retenant la proportion utilisée au titre de l'exercice précédent.
-
-Pour être retenu, le taux de variation de l'indice des prix doit être calculé en fonction d'un indice comparable à l'indice
-des prix à la consommation de l'ensemble des ménages utilisé en France, être reconnu par les autorités de l'Etat ou
-territoire concerné et faire l'objet d'une publication périodique dans un organe officiel.
-
-Lorsqu'un bien est cédé au cours d'un exercice au titre duquel la dotation aux amortissements a été calculée selon les
-modalités fixées au deuxième alinéa ou au cours de l'un des deux exercices suivants, la valeur nette comptable de ce bien est
-affectée du dernier rapport pris en compte pour le calcul de cette dotation.
-
-Pour les exploitations indirectes dont les résultats ont été pris en compte dans le résultat consolidé au titre d'exercice
-clos avant le 1er janvier 1992, les règles définies au premier alinéa s'appliquent aux exercices ouvert à compter du 1er
-janvier 1993. Pour chacune de ces exploitations, la société agréée établit un nouveau bilan de départ ; à cet effet, la
-valeur exprimée en euros de chacun des éléments du bilan de l'exercice clos le 31 décembre 1992 est divisée par le cours à
-cette même date de la monnaie locale concernée.
-
-Le résultat consolidé tel qu'il est défini à l'article 116 est respectivement majoré ou minoré, dans la proportion qui
-correspond aux droits mentionnés aux c et d du 1 du même article, des pertes ou gains de change constatés en application du 4
-de l'article 38 du code général des impôts à raison des créances ou des dettes à plus d'un an qui existent entre des sociétés
-ou exploitations mentionnées à l'article 114 libellées dans la monnaie de l'une ou l'autre des sociétés ou exploitations
-contractantes concernées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 38
-
-	**Modifié par**:
-
-	  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 31 mars 2002
-
-
-##### 3 : Rectification du résultat consolidé
-
-###### Article 118
-
-Le résultat de la société agréée, tel qu'il est défini à l'article 116, est, le cas échéant, rectifié de manière à éliminer
-les opérations qui font double emploi. La liste de ces opérations est arrêtée par le ministre de l'économie et des finances
-(1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 116
-
-	**Modifié par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 7 () JORF 20 décembre 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 du 27 août 1992
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 4 juillet 1992
-
-
-##### 4 : Sort du résultat consolidé et de la plus-value ou moins-value nette à long terme consolidée
-
-###### Article 120
-
-1. Le résultat consolidé défini à l'article 116 est, selon le cas, imposé ou reporté dans les conditions prévues
-respectivement au I de l'article 219 du code général des impôts ou au troisième alinéa du I de l'article 209 du même code.
-
-Toutefois, le montant du déficit consolidé reportable à la clôture du dernier exercice d'application du régime prévu à
-l'article 209 quinquies du code général des impôts ne peut être considéré comme une charge déductible des bénéfices
-ultérieurs de la société agréée que pour une fraction ; cette fraction est obtenue en appliquant à ce montant le rapport
-entre, d'une part, le montant des déficits propres de cette société déclarés en application du 1 de l'article 128 et, d'autre
-part, la somme de ces mêmes déficits et de ceux qui sont pris en compte au titre des exploitations visées au b et au d du 1
-de l'article 116 pour la détermination du résultat consolidé et qui seraient reportables en application des règles fiscales
-françaises.
-
-2. (Abrogé).
-
-3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
-consolidée, dans la limite de la plus-value nette à long terme de la société agréée déterminée dans les conditions prévues
-aux articles 39 duodecies à 39 quindecies du même code ou, le cas échéant, à l'article 223 D de ce code, augmentée ou
-diminuée des plus-values ou moins-values de même nature réalisées ou subies par les exploitations directes de la société
-agréée.
-
-4. La moins-value nette à long terme consolidée est soumise au régime prévu au 2 du I de l'article 39 quindecies du code
-général des impôts. Toutefois, le montant de la moins-value nette à long terme reportable à la clôture du dernier exercice
-d'application du régime prévu à l'article 209 quinquies du même code n'est imputable sur les plus-values nettes à long terme
-ultérieures de la société agréée que pour une fraction ; cette fraction est obtenue en appliquant à ce montant le rapport
-entre, d'une part, le montant des moins-values nettes à long terme propres de cette société déclarées en application du 1 de
-l'article 128 et, d'autre part, la somme de ces mêmes moins-values nettes à long terme et de celles qui sont prises en compte
-au titre des exploitations visées au b et au d du 1 de l'article 116 pour la détermination des plus-values ou moins-values
-nettes à long terme consolidées et qui seraient reportables en application des règles fiscales françaises.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 219, 209, 116, 209 quinquies, 128, 209 quater, 39 duodecies à 39 quindecies, 223
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Modifié par**:
-
-	  - Loi - art. 89 (V) JORF 31 décembre 2003
-
-
-##### 5 : Sort des déficits déjà pris en compte
-
-###### Article 121
-
-1. Les déficits et les moins-values nettes à long terme des exploitations mentionnées au b et d du 1 de l'article 116 pris en
-compte pour la détermination du résultat consolidé d'une société agréée ne sont pas reportables sur les résultats ultérieurs
-de ces exploitations.
-
-2. La fraction des déficits et moins-values nettes à long terme prise en compte pour le calcul du résultat consolidé d'un
-exercice antérieur est rapportée par la société agréée lorsqu'ils sont déduits par les exploitations mentionnées au c du 1 de
-l'article 116 ou par les sociétés membres d'un groupe mentionné à l'article 223 A du code général des impôts dans les
-conditions prévues à l'article 223 I de ce code.
-
-Il en est de même des déficits et moins-values à long terme ainsi pris en compte, qui demeurent reportables à la clôture du
-dernier exercice au cours duquel les résultats de ces exploitations sont retenus dans le résultat consolidé, ou en cas de
-baisse des intérêts détenus par la société agréée dans ces exploitations (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 223 A, 223 I
-
-	**Modifié par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 9 () JORF 20 décembre 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 4 juillet 1992
-
-
-##### 6 : Imputation et report des impôts étrangers
-
-###### Article 122
-
-1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, au titre de
-chaque exercice, à raison du résultat consolidé, les prélèvements fiscaux effectués, au titre du même exercice, hors de la
-France métropolitaine et des départements d'outre-mer, sur les bénéfices de ses exploitations directes et indirectes.
-
-Les prélèvements fiscaux s'entendent des impôts de quotité, exprimés en unité monétaire, assis sur un résultat fiscal, non
-déductibles de ce résultat et qui sont versés, à titre définitif et sans contrepartie, au profit d'Etats souverains, d'Etats
-membres d'Etats fédéraux ou confédérés ou de territoires non souverains jouissant de l'autonomie financière par rapport à
-l'Etat souverain dont ils dépendent.
-
-La liste des prélèvements fiscaux définis au premier alinéa est mentionnée dans la décision d'agrément.
-
-Les amendes ou pénalités afférentes à ces impôts, taxes ou droits ne peuvent, en aucun cas, donner lieu à imputation.
-
-2. Les sommes à imputer sont toutefois limitées, pour chaque Etat ou territoire dans lequel la société agréée possède des
-exploitations, au montant de l'impôt français sur les sociétés qui frapperait le résultat, au sens de l'article 116, des
-exploitations situées dans cet Etat ou territoire.
-
-La fraction des sommes excédant cette limite peut être imputée, au titre de l'exercice suivant et dans les mêmes conditions,
-après qu'ont été imputés les prélèvements fiscaux effectués, au titre de cet exercice, dans le même Etat ou territoire ;
-l'imputation de la fraction qui n'a pu être imputée demeure possible, dans les mêmes conditions, au titre des quatre
-exercices suivants.
-
-En ce qui concerne les exploitations indirectes, cette imputation porte sur la fraction des impôts considérés afférente à la
-fraction des résultats pris en compte pour la détermination du résultat consolidé.
-
-3. Si une convention internationale le prévoit, il est accordé aux sociétés agréées un crédit d'impôt destiné à compenser, en
-tout ou en partie, les réductions d'impôts imputables sur l'impôt sur les sociétés français, qui pourraient être consenties
-par des Etats en vue d'assurer leur développement économique.
-
-4. Les prélèvements effectués, compte tenu des conventions internationales en vigueur, sur les distributions à des sociétés
-dont les résultats sont retenus pour la détermination du résultat consolidé sont ajoutés à la somme des impôts de la société
-distributrice, imputables sur l'impôt sur les sociétés dû par la société agréée.
-
-La limite de l'imputation est calculée, au titre de l'exercice sur les bénéfices duquel la distribution est prélevée, à
-partir du total ainsi formé.
-
-5. Les montants des impôts étrangers imputables sont convertis en euros à la date de clôture de l'exercice au titre duquel
-ils ont été acquittés. Il incombe à la société agréée d'apporter la preuve du paiement effectif de ces impôts. Les rappels ou
-les dégrèvements d'impôts imputables doivent être notifiés à l'administration dans le délai mentionné au 3 de l'article 128.
-Les bases de l'impôt sur les sociétés dû au titre de l'exercice auquel se rapportent ces rappels ou ces dégrèvements sont
-régularisées en conséquence.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 116, 128
-
-	**Modifié par**:
-
-	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
-
-
-###### Article 122 bis
-
-Lorsque le montant de l'impôt sur les sociétés dû par la société agréée au titre d'un exercice à raison du résultat consolidé
-est insuffisant pour permettre la déduction des impôts étrangers ou de la fraction de ces impôts dont l'imputation est
-autorisée, la partie non déduite de ces impôts est ajoutée successivement au montant des impôts étrangers imputables au titre
-des exercices suivants jusqu'au cinquième exercice inclusivement.
-
-Ce report est effectué après imputation des impôts étrangers afférents à chacun de ces exercices, en retenant en priorité les
-impôts afférents aux exercices les plus anciens.
-
-Les impôts qui ne peuvent être imputés ne sont en aucun cas remboursés par le Trésor.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
-
-
-##### 7 : Imputation et restitution des impôts français
-
-###### Article 123
-
-1. - Après avoir procédé, conformément aux dispositions des articles 122 et 122 bis, à l'imputation des impôts acquittés, la
-société agréée peut imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, au titre de chaque exercice
-et dans l'ordre suivant :
-
-a) La fraction des crédits d'impôt admis en paiement de l'impôt sur les sociétés afférent à la part des bénéfices du même
-exercice réalisés par chacune de ses exploitations indirectes situées en France métropolitaine ou dans les départements
-d'outre-mer et qui ont été pris en compte pour la détermination du résultat consolidé ;
-
-b) La fraction de l'impôt sur les sociétés payé par ces exploitations au titre des mêmes bénéfices ;
-
-c) (Dispositions abrogées)
-
-2. La société agréée peut obtenir la restitution de la fraction des sommes qu'il ne lui serait pas possible d'imputer, à
-l'exclusion des crédits d'impôt non restituables en application des dispositions du code général des impôts ou des
-conventions internationales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 122, 122 bis
-
-	**Modifié par**:
-
-	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
-
-
-##### 8 : Rapatriement des bénéfices
-
-###### Article 124
-
-Toute société agréée au titre de l'article 113 peut demander à distraire temporairement du résultat consolidé les résultats
-de celles de ses exploitations directes ou indirectes dont les profits ne peuvent être transférés en France du fait d'une
-interdiction émanant des autorités de l'Etat où elles sont situées (1).
-
-Cette demande doit être formulée en même temps que la demande d'agrément s'il s'agit d'exploitations remplissant alors ces
-conditions. Elle doit être présentée à la clôture de l'exercice au cours duquel est intervenue l'interdiction de transfert
-dans les autres cas.
-
-Lorsque l'interdiction de transfert se trouve levée, les résultats des exploitations considérées doivent être pris en compte
-pour la détermination du bénéfice imposable de la société agréée.
-
-Les résultats de la société agréée ayant servi de base à l'imposition de cette dernière à l'impôt sur les sociétés au titre
-des exercices écoulés, selon le cas, depuis la demande d'agrément ou depuis l'interdiction du transfert, sont revisés en
-conséquence.
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 113
-
-	**Modifié par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 13 () JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 4 juillet 1992
-
-
-##### 9 : Imputation des déficits antérieurs à l'entrée
-
-###### Article 125
-
-La société agréée en vertu de l'article 113 ne peut en aucun cas reporter sur le résultat consolidé les déficits subis par
-les exploitations mentionnées au b et au d du 1 de l'article 116, au cours d'exercices antérieurs au premier exercice pour
-lequel les résultats de ces exploitations sont pris en compte pour la détermination du résultat consolidé.
-
-Les déficits et moins-values nettes à long terme des exploitations mentionnées au c du 1 de l'article 116, subis au cours des
-exercices mentionnés au premier alinéa, sont pris en considération pour la détermination du résultat consolidé dans la mesure
-où ils sont admis en déduction respectivement des bénéfices et plus-values imposables des sociétés qui les ont subis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 113, 116
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 31 mars 2002
-
-
-##### 10 : Résultats des exploitations étrangères
-
-###### Article 126
-
-1. Les dispositions particulières du code général des impôts qui autorisent des provisions ou des déductions spéciales ou des
-amortissements exceptionnels ou qui prévoient l'application du régime des plus-values à long terme aux produits de la
-propriété industrielle ne sont pas applicables pour la détermination du résultat des exploitations mentionnées au b et au d
-du 1 de l'article 116.
-
-2. (Abrogé).
-
-3. Lorsque, en vertu des dispositions du code général des impôts, le montant d'une charge déductible est calculé ou limité en
-fonction du bénéfice, du chiffre d'affaires ou du montant des ventes de l'entreprise, la charge totale que la société agréée
-est admise à déduire à ce titre, en vue de la détermination de son résultat consolidé, est limitée au chiffre obtenu par
-l'application de ces dispositions, selon le cas, au résultat consolidé, au chiffre d'affaires consolidé du groupe ou au
-montant consolidé de ses ventes.
-
-4. Des arrêtés du ministre de l'économie et des finances adapteront, en tant que de besoin, les conditions de forme
-auxquelles peuvent être subordonnées certaines déductions de charges, lorsque l'observation de ces conditions par les
-exploitations directes ou indirectes des sociétés agréées apparaîtra impossible.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 116
-
-	**Modifié par**:
-
-	  - Loi - art. 11 (V) JORF 31 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 31 mars 2001
-
-
-##### 12 : Obligations déclaratives et sanctions
-
-###### Article 128
-
-1. Les sociétés agréées en vertu de l'article 113 demeurent tenues de souscrire chaque année la déclaration prévue, selon le
-cas, à l'article 223 ou à l'article 223 Q du code général des impôts.
-
-2. (Abrogé)
-
-3. Les sociétés agréées en vertu de l'article 113 doivent souscrire avant la fin du onzième mois suivant la clôture de
-l'exercice la déclaration du résultat consolidé. A cette déclaration doivent être annexés :
-
-pour chacune des exploitations directes et indirectes situées hors de France, l'ensemble des documents exigés des sociétés
-passibles de l'impôt sur les sociétés en annexe à la déclaration de leurs résultats, y compris le bilan et le compte de
-résultats établis en euros suivant les règles fixées par les articles 113 à 134 ;
-
-le bilan et le compte de résultats de chacune de ces exploitations fournis aux administrations fiscales des pays où elles
-sont situées, dans tous les cas où ces administrations exigent le dépôt de tels documents ;
-
-un état faisant apparaître de manière détaillée le mode de calcul du résultat consolidé ;
-
-un état faisant apparaître le montant des impôts imputables sur l'impôt sur les sociétés dû par la société agréée.
-
-4. (Dispositions abrogées)
-
-5. Les sociétés agréées en vertu de l'article 113 doivent produire au service qui a accordé l'agrément :
-
-1° La liste des exploitations directes et indirectes acquises ou créées dont les résultats doivent être pris en compte dans
-le résultat consolidé mentionné à l'article 116, les attestations mentionnées à l'article 131 concernant ces exploitations
-ainsi que la liste des sociétés membres d'un groupe défini à l'article 223 A du code général des impôts ; ces documents
-doivent être adressés avant l'ouverture de l'exercice suivant celui au cours duquel ces exploitations ont été acquises ou
-créées ;
-
-2° La liste des exploitations indirectes dont les résultats ne sont plus pris en compte dans le résultat consolidé ; cette
-liste est adressée au plus tard dans le délai indiqué au 3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 Q, 223, 113 à 134, 223 sexies, 223 A, 116, 131
-
-	**Modifié par**:
-
-	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
-
-
-###### Article 129
-
-Les indemnités de retard, majorations, amendes et autres pénalités prévues au code général des impôts sont exigibles en cas
-d'infraction aux dispositions des articles 113 à 134 (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 113 à 134
-
-	**Modifié par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 18 () JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 4 juillet 1992
-
-
-##### 13 : Dispositions relatives à l'agrément
-
-###### Article 130
-
-L'agrément visé à l'article 113 est accordé par le ministre de l'économie et des finances.
-
-Son octroi peut être subordonné à des conditions particulières relatives notamment aux modalités d'établissement des bilans
-de départ, à la traduction des comptabilités tenues en langues étrangères et à la vérification sur place des comptabilités
-des exploitations directes ou indirectes situées hors de la France métropolitaine et des départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 113
-
-	**Modifié par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 10 (V)
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-
-
-###### Article 131
-
-Toute société qui sollicite l'agrément prévu à l'article 113 doit joindre à sa demande des attestations émanant de chacune de
-ses exploitations indirectes et par lesquelles ces dernières l'autorisent à prendre en considération leurs propres résultats
-en vue de la détermination du résultat consolidé du groupe et s'engagent, lorsqu'elles sont situées hors de la France
-métropolitaine et des départements d'outre-mer, à permettre à l'administration fiscale française de faire procéder à la
-vérification de leur comptabilité, là où elle est tenue, selon les règles et dans les conditions prévues au code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 113
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-
-
-###### Article 132
-
-L'agrément visé à l'article 113 est accordé pour une durée de cinq ans. Il peut être renouvelé par période de trois ans (1).
-
-(1) Cette disposition s'applique aux exercices ouverts à compter du 1er janvier 1992.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 113
-
-	**Modifié par**:
-
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 20 () JORF 20 décembre 1991
-	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 4 juillet 1992
-
-
-###### Article 134
-
-1.L'agrément prévu à l'article 113 peut être retiré, ou les sociétés qui l'ont obtenu peuvent en être déchues, par
-application des dispositions de l'article 1649 nonies A du code général des impôts. 
-
-Il peut, bien que les engagements en vue de l'obtenir aient été remplis ou que les conditions mises à son octroi aient été
-respectées, être retiré notamment dans les cas suivants : 
-
-a. Lorsqu'une société agréée au titre des articles 113 à 123 est convaincue soit d'avoir constitué des exploitations directes
-ou indirectes hors de France dans des conditions telles que leurs résultats n'aient pas à être consolidés alors que la
-société en garde le contrôle par personne ou par société interposée, soit d'avoir, par moyen d'une transformation, d'une
-fusion ou de toute opération juridique, supprimé une exploitation tout en gardant le contrôle de ses moyens de production ; 
-
-b. Lorsqu'une société agréée au titre des articles 113 à 123 est convaincue d'avoir modifié son pourcentage de participation
-dans une exploitation indirecte à seule fin d'accroître le montant des déficits de cette exploitation qui doivent être pris
-en compte pour la détermination du résultat consolidé ; 
-
-c. Lorsqu'une société agréée au titre des articles 113 à 123 constitue une exploitation indirecte destinée à se substituer à
-une exploitation directe existante, dans des conditions telles que les résultats de cette exploitation indirecte n'ont pas à
-être compris dans le résultat consolidé de la société agréée. 
-
-Le retrait de l'agrément est prononcé par l'autorité qui l'a accordé après consultation du comité dont la composition est
-prévue à l'article 1653 C du code général des impôts. La société agréée est au préalable informée des faits qui lui sont
-reprochés et peut fournir toute justification à leur égard.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 35-IV et IX de la loi n° 2008-1443 du 30 décembre 2008.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 113
-	  - Code général des impôts, CGI. - art. 1653 C
-
-
-##### III : Régime du bénéfice mondial
-
-###### Article 134 A
-
-La décision visée à l'article 209 quinquies du code général des impôts peut prévoir que les sociétés mentionnées à cet
-article sont, pour l'assiette des impôts établis sur la réalisation et la distribution de leurs bénéfices, autorisées à faire
-la somme de leurs résultats, tels qu'ils sont définis au I de l'article 209 du même code, et des résultats de leurs
-exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer. 
-
-Les dispositions des articles 113 à 134 sont, le cas échéant, applicables à ces sociétés ou personnes morales.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 113
-	  - Code général des impôts, CGI. - art. 209 quinquies
-
-
 ##### Section III : Imputation de l'impôt sur le revenu (retenue à la source) sur le montant de l'impôt sur les sociétés
 
 ###### Article 135
@@ -10411,7 +9504,7 @@ leur déclaration annuelle. La demande de remboursement est déposée avec cette
 Pour les assujettis qui ont exercé l'option prévue au 2 de l'article 204 ter A, le remboursement du crédit de taxe déductible
 apparaissant le 31 décembre peut être demandé dans les conditions déterminées au 1. 
 
-II.-Par dérogation aux dispositions du I, les assujettis soumis de plein droit ou sur option au régime normal d'imposition
+II. - Par dérogation aux dispositions du I, les assujettis soumis de plein droit ou sur option au régime normal d'imposition
 peuvent demander un remboursement lorsque la déclaration mentionnée au 2 de l'article 287 du code général des impôts fait
 apparaître un crédit de taxe déductible. La demande de remboursement doit porter sur un montant au moins égal à 760 €. 
 
@@ -10419,11 +9512,11 @@ Les dispositions de du premier alinéa s'appliquent également aux exploitants a
 quatrième alinéa du I de l'article 1693 bis du code général des impôts pour acquitter l'impôt au vu de déclarations
 mensuelles ou trimestrielles. 
 
-II bis.-Il n'est pas fait application des montants minimaux prévus au 1 du I et au II du présent article aux assujettis
-membres du groupe désignés au 1 de l'article 1693 ter du code général des impôts, s'agissant des demandes de remboursement
-mentionnées au premier alinéa de l'article 1693 ter A du même code. 
+II bis. - Il n'est pas fait application des montants minimaux prévus au 1 du I et au II aux assujettis membres du groupe
+désignés au 1 de l'article 1693 ter du code général des impôts, s'agissant des demandes de remboursement mentionnées au
+premier alinéa de l'article 1693 ter A du même code. 
 
-III.-Par dérogation aux dispositions du I, les assujettis placés sous le régime d'acomptes prévu au 3 de l'article 287 du
+III. - Par dérogation aux dispositions du I, les assujettis placés sous le régime d'acomptes prévu au 3 de l'article 287 du
 code général des impôts peuvent demander un remboursement trimestriel du crédit constitué par la taxe déductible ayant grevé
 l'acquisition de biens constituant des immobilisations lorsque son montant est au moins égal à 760 €. 
 
@@ -10433,15 +9526,15 @@ Les remboursements s'effectuent dans les conditions prévues à l'article 242 se
 
 	**Modifié par**:
 
-	  - Décret n°2012-239 du 20 février 2012 - art. 1
+	  - Décret n°2013-463 du 3 juin 2013 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 204 ter A (V)
-	  - Code général des impôts, CGI. - art. 1693 bis (V)
-	  - Code général des impôts, CGI. - art. 1693 ter (V)
-	  - Code général des impôts, CGI. - art. 1693 ter A (V)
-	  - Code général des impôts, CGI. - art. 287 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 204 ter A
+	  - Code général des impôts, CGI. - art. 1693 bis
+	  - Code général des impôts, CGI. - art. 1693 ter
+	  - Code général des impôts, CGI. - art. 1693 ter A
+	  - Code général des impôts, CGI. - art. 287
 
 	**Cité par**:
 
@@ -12066,51 +11159,26 @@ des éléments mentionnés au I.
 
 ##### II : Dispositions relatives aux mutations
 
-###### Article 250
+###### Article 251
 
-La personne qui réalise une livraison mentionnée au a du 2° du 3 du I de l'article 257 du code général des impôts est tenue
-de remettre au comptable de la direction générale des finances publiques compétent une déclaration conforme au modèle fixé
-par l'administration et contenant les éléments nécessaires à la liquidation de la taxe sur la valeur ajoutée au moment de
-l'exécution de la formalité de l'enregistrement. La taxe ainsi liquidée est acquittée au moment de cette formalité.
+Le bénéfice des dispositions du A de l'article 1594 F quinquies du code général des impôts est subordonné (1) à la
+justification de la prise en charge de la taxe sur la valeur ajoutée par les services des impôts compétents.
 
 **Nota:**
 
-Dispositions devenues sans objet en conséquence de l'article 64-I F-1 de la loi n° 2012-1510 du 29 décembre 2012.
+(1) Les mots : "au paiement de la taxe lors du dépôt de la déclaration prévue à l'article 250 ou, dans les autres
+situations," deviennent sans objet.
+
+Modification effectuée en conséquence de l'article 64-I F-1 de la loi n° 2012-1510 du 29 décembre 2012.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 251 (V)
+	  - Décret n°2013-463 du 3 juin 2013 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 257
-
-
-###### Article 251
-
-Le bénéfice des dispositions du A de l'article 1594 F quinquies du code général des impôts est subordonné au paiement de la
-taxe lors du dépôt de la déclaration prévue à l'article 250 ou, dans les autres situations, à la justification de la prise en
-charge de la taxe sur la valeur ajoutée par les services des impôts compétents.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 250
 	  - Code général des impôts, CGI. - art. 1594 F quinquies
 
 
@@ -14793,7 +13861,7 @@ compensation ou de remboursement des droits acquittés ou supportés.
 
 ###### Article 286 N
 
-En application du premier alinéa du V de l'article 302 G du code général des impôts, peuvent être dispensés de caution en
+En application du deuxième alinéa  du V de l'article 302 G du code général des impôts, peuvent être dispensés de caution en
 matière de production, de transformation et de détention de leur propre production :
 
 1° Les récoltants qui sont propriétaires non exploitants, propriétaires exploitants, fermiers ou métayers ;
@@ -14803,23 +13871,23 @@ statut de la coopération agricole, en ce qui concerne les opérations de toute 
 
 3° Les brasseurs.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 55 de la loi n° 2012-1510 du 29 décembre 2012.
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 302 G
-
-	**Créé par**:
-
-	  - Décret n°2000-739 du 1 août 2000 - art. 1 () JORF 4 août 2000
+	  - Décret n°2013-463 du 3 juin 2013 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 302 G
 
 
 #### Chapitre III : Dispositions communes à l'ensemble des contributions indirectes
@@ -16634,33 +15702,31 @@ toutes les opérations d'une même catégorie définies au premier alinéa de ce
 
 ###### Article 310 HB quater
 
-Les zones dans lesquelles l'aménagement du territoire justifie une exonération temporaire de taxe professionnelle en faveur
-des entreprises qui procèdent aux opérations énumérées à l'article 1465 du code général des impôts sont définies par arrêté
-du ministre du budget (1).
+Les zones dans lesquelles l'aménagement du territoire justifie une exonération temporaire de cotisation foncière des
+entreprises  en faveur des entreprises qui procèdent aux opérations énumérées à l'article 1465 du code général des impôts
+sont définies par arrêté du ministre du budget (1).
 
 (1) Voir Annexe IV, art. 121 quinquies DB bis, annexes I, et IV à l'arrêté du 24 novembre 1980 (J.O. du 7 décembre) et annexe
 de l'arrêté du 24 novembre 1982 (J.O. du 24 mars 1983).
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 2-6.1.16 [3]° de la loi n° 2009-1673 du 30 décembre 2009.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1980-11-24 ANNEXES I, IV
-	  - Arrêté 1982-11-24
-	  - CGI 1465
-	  - CGIAN4 121 quinquies DB bis
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-
-	**Créé par**:
-
-	  - Décret n°80-921 du 21 novembre 1980 - art. 3 (V) JORF 23 novembre 1980
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°81-866 du 15 septembre 1981
+
+	**Modifié par**:
+
+	  - Décret n°2013-463 du 3 juin 2013 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1465
+	  - 
 
 
 ###### Article 310 HB septies
@@ -21814,13 +20880,16 @@ décembre de la deuxième année qui suit celle du versement.
 Les demandes de dégrèvement ou de restitution sont adressées au responsable du service de l'Etat dans le département, chargé
 de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du même code, au maire, qui fait connaître le cas échéant au
 directeur départemental ou, le cas échéant, régional des finances publiques le montant du dégrèvement ou de la restitution à
-effectuer. Ce montant est calculé déduction faite du prélèvement pour frais d'assiette et de perception mentionné à l'article
-L. 333-12, deuxième alinéa, du même code. 
+effectuer. 
 
 La décision de dégrèvement ou de restitution est prise par le chef du service de l'Etat dans le département, chargé de
 l'urbanisme, ou en cas d'application de l'article R. 424-1 du même code, par le maire. 
 
 (1) Voir la note (1) de l'article 1723 octies du CGI.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
@@ -21830,11 +20899,14 @@ l'urbanisme, ou en cas d'application de l'article R. 424-1 du même code, par le
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 19
+	  - Décret n°2013-463 du 3 juin 2013 - art. 3
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L333-12
 	  - Code de l'urbanisme - art. R*333-9
 	  - Code de l'urbanisme - art. R*424-1
 
