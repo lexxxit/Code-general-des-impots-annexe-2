@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2013-07-01
+Version Consolidée au 2013-07-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1419,18 +1419,21 @@ première période d'imposition.
 
 ###### Article 50 decies
 
-I.-La proportion d'investissement de 30 % mentionnée au premier alinéa du I quinquies de l'article 125-0 A du code général
-des impôts s'apprécie chaque jour de calcul de la valeur liquidative de l'organisme concerné telle qu'elle est déterminée
+I. - La proportion d'investissement de 30 % mentionnée au premier alinéa du I quinquies de l'article 125-0 A du code général
+des impôts s'apprécie chaque jour de calcul de la valeur liquidative de l'organisme ou du placement collectif relevant de la
+section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier concerné telle qu'elle est déterminée
 conformément à la réglementation en vigueur, en retenant la valeur des titres figurant à cette date dans le portefeuille de
-l'organisme de placement collectif en valeurs mobilières. 
+l'organisme de placement collectif en valeurs mobilières ou du placement collectif relevant de la section 2 du chapitre IV du
+titre Ier du livre II du code monétaire et financier. 
 
 Les proportions d'investissement de 10 % et 5 % mentionnées au dixième alinéa du 1 du I quinquies de l'article 125-0 A
 mentionné ci-dessus et de 75 % mentionnée au c du 1 du I quinquies du même article s'apprécient, pour les organismes soumis à
 l'article L. 214-17 du code monétaire et financier, comme pour les organismes de la nature de ceux mentionnés au c du 2° du I
 de l'article L. 221-31 du même code, à la fin de chacun des semestres de l'exercice, en retenant la valeur des titres
-figurant à cette date dans le portefeuille de l'organisme de placement collectif en valeurs mobilières. 
+figurant à cette date dans le portefeuille de l'organisme de placement collectif en valeurs mobilières ou du placement
+collectif relevant de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier. 
 
-II.-La proportion d'investissement de 50 % mentionnée au g du 1 du I quinquies de l'article 125-0 A mentionné ci-dessus
+II. - La proportion d'investissement de 50 % mentionnée au g du 1 du I quinquies de l'article 125-0 A mentionné ci-dessus
 s'apprécie, pour chaque catégorie de fonds énuméré au d du 1 du I quinquies du même article, dans les conditions fixées par
 le code monétaire et financier et, pour les sociétés de capital-risque, dans les conditions fixées à l'article 171 AM.
 
@@ -1438,14 +1441,14 @@ le code monétaire et financier et, pour les sociétés de capital-risque, dans 
 
 	**Modifié par**:
 
-	  - Décret n°2011-922 du 1er août 2011 - art. 23
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 25
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 AM (V)
-	  - Code général des impôts, CGI. - art. 125-0 A (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 AM
+	  - Code général des impôts, CGI. - art. 125-0 A
 	  - Code monétaire et financier - art. L214-17
-	  - Code monétaire et financier - art. L221-31 (V)
+	  - Code monétaire et financier - art. L221-31
 
 
 ###### Article 50 duodecies
@@ -7971,10 +7974,10 @@ n° 2006-1726 du 23 décembre 2006.
 
 ###### Article 171 AT
 
-Le porteur de parts, personne physique, d'un fonds commun de placement à risques informe la société de gestion du fonds des
-engagements pris en application de l'article 163 quinquies B du code général des impôts lors de la souscription des parts du
-fonds et des modalités retenues pour le réinvestissement prévu au 2° du II de ce même article, ainsi que de la cession de
-parts.
+Le porteur de parts, personne physique,        d'un fonds commun de placement à risques ou d'un fonds professionnel de
+capital investissement informe la société de gestion du fonds des engagements pris en application de l'article 163 quinquies
+B du code général des impôts lors de la souscription des parts du fonds et des modalités retenues pour le réinvestissement
+prévu au 2° du II de ce même article, ainsi que de la cession de parts.
 
 **Liens relatifs à cet article**
 
@@ -7982,13 +7985,9 @@ parts.
 
 	  - CGI 163 quinquies B
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1503 du 23 décembre 2002 - art. 2 () JORF 26 décembre 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 25
 
 
 ###### Article 171 AU
@@ -8072,10 +8071,10 @@ code monétaire et financier.
 
 ###### Article 171 AW
 
-I.-La société de gestion du fonds commun de placement à risques adresse, dans les quatre mois qui suivent la clôture de
-l'exercice du fonds, la déclaration prévue au I de l'article 242 quinquies du code général des impôts, établie sur papier
-libre, qui mentionne pour chaque investissement retenu pour le calcul du quota de 50 % prévu au 1° du II de l'article 163
-quinquies B du même code : 
+I. - La société de gestion du fonds commun de placement à risques ou du fonds professionnel de capital investissement
+adresse, dans les quatre mois qui suivent la clôture de l'exercice du fonds, la déclaration prévue au I de l'article 242
+quinquies du code général des impôts, établie sur papier libre, qui mentionne pour chaque investissement retenu pour le
+calcul du quota de 50 % prévu au 1° du II de l'article 163 quinquies B du même code : 
 
 1° La dénomination de la société ou de l'entité, l'adresse de son siège social et de son siège de direction effective si elle
 est différente ; 
@@ -8089,9 +8088,9 @@ ou un prestataire de services d'investissement ;
 4° Le montant et la nature des investissements retenus pour le calcul du quota de 50 % précité et pour la limite de 20 %
 prévue au         III de l'article L. 214-28  du code monétaire et financier. 
 
-II.-Lorsque le fonds commun de placement à risques investit dans des sociétés mentionnées au premier alinéa du 1° quater du
-II de l'article 163 quinquies B du code général des impôts ou dans des entités mentionnées au l° quinquies du même II, la
-société de gestion joint en outre à la déclaration mentionnée au I : 
+II. - Lorsque le fonds commun de placement à risques ou le fonds professionnel de capital investissement  investit dans des
+sociétés mentionnées au premier alinéa du 1° quater du II de l'article 163 quinquies B du code général des impôts ou dans des
+entités mentionnées au l° quinquies du même II, la société de gestion joint en outre à la déclaration mentionnée au I : 
 
 1° Un état, établi sur papier libre, qui fait apparaître, pour chaque investissement dans des sociétés mentionnées au premier
 alinéa du 1° quater du II de l'article 163 quinquies B susmentionné, les éléments permettant d'apprécier le montant des
@@ -8112,7 +8111,7 @@ III de l'article L. 214-28  du code monétaire et financier.
 
 	**Modifié par**:
 
-	  - Décret n°2011-922 du 1er août 2011 - art. 23
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 25
 
 	**Cite**:
 
@@ -20655,14 +20654,16 @@ cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert e
 
 ###### Article 384 A quater
 
-I.-L'héritier, le donataire, le légataire ou le copartageant qui désire acquitter tout ou partie des droits de mutation ou de
-partage dont il est redevable par la remise de blocs de titres de sociétés cotées, de titres d'organismes de placement
-collectif en valeurs mobilières investis en titres de sociétés cotées ou en obligations négociables, ainsi que d'obligations
-négociables, mentionnés à l'article 1716 bis du code général des impôts, doit déposer au service des impôts ou au service de
-la publicité foncière compétent pour enregistrer l'acte constatant la mutation, le partage ou la déclaration de succession,
-une offre de dation à l'Etat indiquant le marché sur lequel sont cotés les titres qu'il envisage de remettre à l'Etat ainsi
-que leur nombre et leur code d'identification sur ce marché. L'offre est accompagnée de la copie du dernier relevé de compte
-titres sur lequel les titres sont inscrits. Il en est délivré récépissé. 
+I. - L'héritier, le donataire, le légataire ou le copartageant qui désire acquitter tout ou partie des droits de mutation ou
+de partage dont il est redevable par la remise de blocs de titres de sociétés cotées, de titres d'organismes de placement
+collectif en valeurs mobilières ou de placements collectifs relevant des paragraphes 1, 2 et 6 de la sous-section 2, du
+paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la section 2 du chapitre IV du titre Ier du
+livre II du code monétaire et financier investis en titres de sociétés cotées ou en obligations négociables, ainsi que
+d'obligations négociables, mentionnés à l'article 1716 bis du code général des impôts, doit déposer au service des impôts ou
+au service de la publicité foncière compétent pour enregistrer l'acte constatant la mutation, le partage ou la déclaration de
+succession, une offre de dation à l'Etat indiquant le marché sur lequel sont cotés les titres qu'il envisage de remettre à
+l'Etat ainsi que leur nombre et leur code d'identification sur ce marché. L'offre est accompagnée de la copie du dernier
+relevé de compte titres sur lequel les titres sont inscrits. Il en est délivré récépissé. 
 
 Toutefois, l'offre n'est recevable que si l'imposition due et la valeur liquidative ou le cours de bourse des titres offerts
 en dation de la veille du jour du dépôt de l'offre sont supérieurs ou égaux à un montant fixé par arrêté conjoint des
@@ -20671,15 +20672,15 @@ ministres chargés du budget, de l'enseignement supérieur et de la recherche.
 L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
 de l'acte constatant la mutation ou le partage. 
 
-II.-Abrogé. 
+II. - Abrogé. 
 
-III.-Le ministre chargé de l'enseignement supérieur et de la recherche ou, le cas échéant, le ministre chargé de
+III. - Le ministre chargé de l'enseignement supérieur et de la recherche ou, le cas échéant, le ministre chargé de
 l'enseignement supérieur ou celui chargé de la recherche ou ces deux ministres conjointement, suivant la nature du projet,
 proposent au ministre chargé du budget l'octroi ou le refus de l'agrément. 
 
-IV.-La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception. 
+IV. - La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception. 
 
-V.-En cas de décision d'agrément, la dation en paiement n'est parfaite que si, d'une part, dans le délai mentionné ci-
+V. - En cas de décision d'agrément, la dation en paiement n'est parfaite que si, d'une part, dans le délai mentionné ci-
 dessous, le demandeur accepte cette décision et transfère à l'Etat les titres offerts et si, d'autre part, au jour du
 transfert effectif des titres dans les comptes de l'Etat, leur dernier cours de clôture connu en bourse ou leur dernière
 valeur liquidative est au moins égal au montant de l'imposition due. 
@@ -20697,7 +20698,7 @@ L'ensemble des frais afférents à l'opération de transfert des titres à l'Eta
 
 La décision d'agrément est caduque si les conditions susmentionnées ne sont pas respectées. 
 
-VI.-Les titres sont cédés par l'Etat, à titre gratuit et sous forme de dotation à l'établissement public à caractère
+VI. - Les titres sont cédés par l'Etat, à titre gratuit et sous forme de dotation à l'établissement public à caractère
 scientifique, culturel et professionnel ou à l'établissement public à caractère scientifique et technologique ou à la
 fondation de recherche reconnue d'utilité publique ou assimilée, désigné dans la décision d'agrément, dans les deux mois
 suivant leur transfert effectif dans les comptes de l'Etat. Les frais de gestion des titres sont à la charge de l'organisme
@@ -20708,7 +20709,11 @@ la cession.
 
 	**Modifié par**:
 
-	  - Décret n°2013-420 du 23 mai 2013 - art. 11 (V)
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 25
+
+	**Abrogé par**:
+
+	  - Décret n°2014-132 du 17 février 2014 - art. 33
 
 	**Cite**:
 
