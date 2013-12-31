@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2013-12-21
+Version Consolidée au 2014-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6456,39 +6456,39 @@ de la construction et de l'habitation sont remplies.
 Lorsque la cession d'actions ou de parts de sociétés visées à l'article 1655 ter du code général des impôts porte sur des
 titres donnant droit à l'attribution d'immeuble ou de fraction d'immeuble non encore achevé, cette cession peut néanmoins
 être assimilée à une vente d'immeuble achevé pour l'application du II de l'article 219 et del'article 238 octies dudit code
-lorsque les conditions suivantes sont remplies :
+lorsque les conditions suivantes sont remplies : 
 
-a) La cession est postérieure à l'achèvement des fondations de l'immeuble ;
+a) La cession est postérieure à l'achèvement des fondations de l'immeuble ; 
 
-b) Le contrat de cession - qui devra revêtir la forme d'un acte authentique à compter d'une date qui sera fixée par arrêté du
-ministre de l'économie et des finances précise :
+b) Le contrat de cession-qui devra revêtir la forme d'un acte authentique à compter d'une date qui sera fixée par arrêté du
+ministre de l'économie et des finances précise : 
 
-1° La consistance et les conditions techniques d'exécution des travaux ;
+1° La consistance et les conditions techniques d'exécution des travaux ; 
 
 2° Le prix à payer au cédant tant pour la cession des titres que pour le remboursement des sommes qu'il a déjà versées à la
-société ;
+société ; 
 
 3° Les versements qui restent à faire à la société pour achever l'immeuble ou la fraction d'immeuble auquel les actions ou
 parts cédées donnent vocation à la date de la cession, sous réserve de l'application au coût de construction des clauses de
-variation stipulées dans les marchés et les contrats conclus par la société ;
+variation stipulées dans les marchés et les contrats conclus par la société ; 
 
 c) Le cédant s'engage vis-à-vis du cessionnaire à couvrir les appels de fonds de la société correspondant au coût de
-construction dans la mesure où les versements exigés à ce titre excéderaient le montant des versements définis au 3° du b.
+construction dans la mesure où les versements exigés à ce titre excéderaient le montant des versements définis au 3° du b. 
 
 Cet engagement doit être garanti par une caution solidaire donnée par un établissement de crédit ou une société de caution
-mutuelle constituée conformément aux dispositions des articles L. 512-2, L. 512-20, L. 515-4 et L. 515-13 du code monétaire
-et financier.
+mutuelle constituée conformément aux dispositions des articles L. 512-2, L. 512-20, L. 515-4 et    L.513-2 du code monétaire
+et financier. 
 
 A défaut de pouvoir fournir cette caution, l'intéressé doit constituer un cautionnement en numéraire dans un organisme
 habilité à cet effet et désigné dans le contrat. Le montant de ce cautionnement doit être au moins égal à 10 % du montant des
 versements restant à faire à la société tels qu'ils sont définis au 3° du b. Le cautionnement doit être maintenu jusqu'à la
 date de règlement des comptes de construction de la société. Toutefois, il peut être libéré à l'expiration d'un délai d'un an
 après l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les actions ou parts cédées, si le cessionnaire
-n'a intenté aucune action dans ce délai à l'encontre du cédant ;
+n'a intenté aucune action dans ce délai à l'encontre du cédant ; 
 
 d) La société de construction doit intervenir à l'acte de cession et justifier qu'elle bénéficie de l'engagement pris par un
 établissement de crédit ou une société de caution mutuelle constituée conformément aux dispositions des articles L. 512-2, L.
-512-20, L. 515-4 et L. 515-13 du code monétaire et financier, de répondre aux appels de fonds de la société en cas de
+512-20, L. 515-4 et    L.513-2 du code monétaire et financier, de répondre aux appels de fonds de la société en cas de
 défaillance des associés.
 
 **Liens relatifs à cet article**
@@ -6496,22 +6496,18 @@ défaillance des associés.
 	**Cite**:
 
 	  - CGI 1655 ter, 238 octies, 219
-	  - Code monétaire et financier - art. L512-2 (V)
-	  - Code monétaire et financier - art. L512-20 (M)
-	  - Code monétaire et financier - art. L515-13 (M)
-	  - Code monétaire et financier - art. L515-4 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 15°, 73° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+	  - Code monétaire et financier - art. L512-2
+	  - Code monétaire et financier - art. L512-20
+	  - Code monétaire et financier - art. L515-13
+	  - Code monétaire et financier - art. L515-4
 
 	**Codifié par**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2001-435 du 21 mai 2001
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 35 (VD)
 
 
 ###### Article 168
@@ -9568,47 +9564,6 @@ inférieure à un an. La demande de remboursement doit être déposée avec cett
 Le crédit de taxe déductible dont le remboursement a été demandé ne peut donner lieu à imputation ; il est annulé lors du
 remboursement.
 
-
-
-###### Article 242-0 F
-
-A l'exclusion de ceux qui bénéficient des modalités simplifiées de liquidation de la taxe sur la valeur ajoutée prévues au 3
-de l'article 287 du code général des impôts, les redevables peuvent bénéficier de remboursements mensuels ou trimestriels de
-leur crédit de taxe déductible dans la limite de la taxe sur la valeur ajoutée calculée sur le montant des exportations et
-opérations assimilées réalisées au cours de la période correspondant à chaque déclaration de chiffre d'affaires. 
-
-Les redevables qui ont demandé, au titre de l'un ou des deux premiers mois d'un trimestre civil un tel remboursement,
-peuvent, lors du dépôt de la dernière demande de ce trimestre, renoncer à ce régime et demander un remboursement dans les
-conditions énoncées aux articles 242-0 A et 242-0 C.
-
-**Nota:**
-
-Conformément au décret n° 2013-1035 du 15 novembre 2013, article 1er, ces dispositions sont abrogées pour les demandes de
-remboursement de crédit de taxe sur la valeur ajoutée portant sur une période de remboursement postérieure au 1er janvier
-2014.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Modifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1035 du 15 novembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 A (V)
-	  - Code général des impôts, CGI. - art. 287 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 242-0 G
@@ -17411,64 +17366,19 @@ l'article R. 423-13 du code de l'environnement.
 	  - Code de l'environnement - art. R423-13 (V)
 
 
-##### Section VI  : Droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel et contribution pour l'aide juridique 
-
-###### Article 326 quater
-
-Pour l'application de l'article 1635 bis Q du code général des impôts, les conditions dans lesquelles il est justifié de
-l'acquittement de la contribution pour l'aide juridique dans le cadre des instances et la sanction d'un défaut d'acquittement
-sont déterminées, pour les juridictions judiciaires, conformément aux articles 62 à 62-5 du code de procédure civile, et,
-pour les juridictions administratives, conformément aux articles R. 411-2 et R. 411-2-1 du code de justice administrative.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1202 du 28 septembre 2011 - art. 19
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1280 du 29 décembre 2013 - art. 7
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1635 bis Q
-	  - Code de procédure civile - art. 62
-	  - Code de justice administrative - art. R411-2
-
-
-###### Article 326 quinquies
-
-Lorsque, pour une cause qui lui est étrangère, un auxiliaire de justice ne peut effectuer par voie électronique
-l'acquittement de la contribution pour l'aide juridique prévue à l'article 1635 bis Q du code général des impôts, il est
-justifié de l'acquittement de la contribution par l'apposition de timbres mobiles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1202 du 28 septembre 2011 - art. 19
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1280 du 29 décembre 2013 - art. 7
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1635 bis Q
-
+##### Section VI  : Droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel
 
 ###### Article 326 ter
 
 Pour l'application de l'article 1635 bis P du code général des impôts, les conditions dans lesquelles il est justifié de
 l'acquittement du droit dans le cadre des appels et la sanction d'un défaut d'acquittement sont déterminées conformément aux
-articles 964 et 964-1 du code de procédure civile.
+articles 963 et 964-1 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1202 du 28 septembre 2011 - art. 19
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 7
 
 	**Cite**:
 
@@ -18089,9 +17999,9 @@ représentant de l'adhérent.
 
 Ils ne peuvent agir en qualité de mandataires de leurs membres. 
 
-Toutefois, les centres doivent recevoir mandat de leurs membres en vue de la télétransmission des attestations qu'ils
-délivrent à leurs adhérents ainsi que des déclarations de résultats, de leurs annexes et des autres documents les
-accompagnant selon la procédure prévue par le système de transfert des données fiscales et comptables.
+Toutefois, les centres doivent recevoir mandat de leurs membres en vue de la télétransmission des déclarations de résultats,
+de leurs annexes et des autres documents les accompagnant selon la procédure prévue par le système de transfert des données
+fiscales et comptables.
 
 **Liens relatifs à cet article**
 
@@ -18102,7 +18012,7 @@ accompagnant selon la procédure prévue par le système de transfert des donné
 
 	**Modifié par**:
 
-	  - Décret n°2012-470 du 11 avril 2012 - art. 1
+	  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
 
 	**Cite**:
 
@@ -18158,28 +18068,39 @@ l'article 1747 du code général des impôts.
 
 ###### Article 371 D
 
-Les centres doivent établir par la production de certificats délivrés par l'administration fiscale, sur demande des
-intéressées, que les personnes qui les dirigent ou les administrent ne font pas l'objet des mesures prévues à l'article 1750
-du code général des impôts ou n'ont pas fait l'objet au cours des cinq dernières années :
+Les centres doivent établir, par la production de certificats délivrés par l'administration fiscale sur demande des
+intéressés, que les personnes qui les dirigent ou les administrent ont respecté leurs obligations déclaratives et de paiement
+en matière fiscale pendant la période de cinq ans qui précède la demande d'agrément et ne font pas l'objet des mesures
+prévues à l'article 1750 du code général des impôts ou n'ont pas fait l'objet au cours des cinq dernières années : 
 
 D'une condamnation figurant au bulletin n° 2 prévu à l'article 775 du code de procédure pénale, à l'exception des
-condamnations pour blessures, coups ou homicide involontaires et pour infraction au code de la route ;
+condamnations pour blessures, coups ou homicide involontaires et pour infraction au code de la route ; 
 
-D'une amende fiscale prononcée par un tribunal ;
+D'une amende fiscale prononcée par un tribunal ; 
 
 D'une sanction fiscale prononcée par l'administration pour manoeuvres frauduleuses.
 
+**Nota:**
+
+Conformément au décret n° 2013-1034 du 15 novembre 2013, article 2 : Ces dispositions s'appliquent aux demandes d'agrément ou
+de renouvellement d'agrément présentées conformément aux articles 371 F et 371 R de l'annexe II au code général des impôts
+déposées à compter du 1er janvier 2014.
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1750
-	  - CODE DE PROCEDURE PENALE - art. 775 (M)
+	  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 QA (M)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 EA (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1750
+	  - Code de procédure pénale - art. 775
 
 
 ###### Article 371 E
@@ -18193,8 +18114,7 @@ participer au conseil d'administration ou à tout autre organe dirigeant, à hau
 Ils doivent comporter en outre les stipulations suivantes : 
 
 1° Le centre fournit à ses membres adhérents imposés d'après leur bénéfice réel dans un délai de neuf mois suivant la clôture
-de leur exercice comptable lorsque celui-ci coïncide avec l'année civile, et dans un délai de six mois lorsque l'exercice
-comptable ne coïncide pas avec l'année civile, un dossier comprenant : 
+de leur exercice comptable, un dossier comprenant : 
 
 a. Les ratios et les autres éléments caractérisant la situation financière et économique de l'entreprise : la nature de ces
 ratios et autres éléments est fixée par arrêté du ministre du budget, du ministre de l'agriculture, du ministre de
@@ -18202,9 +18122,9 @@ l'industrie et du ministre du commerce et de l'artisanat (1) ;
 
 b. Un commentaire sur la situation financière et économique de l'entreprise ; 
 
-c. A partir de la clôture du deuxième exercice suivant celui de l'adhésion et dans l'un des délais prévus ci-dessus, le
-centre fournit à ses adhérents une analyse comparative des bilans et des comptes de résultat de l'entreprise. Toutefois, pour
-les entreprises soumises au régime simplifié d'imposition, seule l'analyse comparative des comptes d'exploitation doit être
+c. A partir de la clôture du deuxième exercice suivant celui de l'adhésion et dans le même délai de neuf mois, le centre
+fournit à ses adhérents une analyse comparative des bilans et des comptes de résultat de l'entreprise. Toutefois, pour les
+entreprises soumises au régime simplifié d'imposition, seule l'analyse comparative des comptes d'exploitation doit être
 fournie ; 
 
 d. Un document de synthèse présentant une analyse des informations économiques, comptables et financières de l'entreprise et
@@ -18243,7 +18163,7 @@ En cas de manquements graves ou répétés aux engagements ou obligations sus-é
 
 	**Modifié par**:
 
-	  - Décret n°2012-470 du 11 avril 2012 - art. 1
+	  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
 
 	**Cite**:
 
@@ -18461,11 +18381,17 @@ l'administration fiscale ;
 3° Au cas où le nombre des adhérents du centre, tel qu'il est défini à l'article 371 B, est inférieur pendant plus d'un an
 aux chiffres minima prévus à cet article ;
 
-4° Au cas où le centre conserve parmi ses dirigeants ou administrateurs une personne ayant fait l'objet, postérieurement à
-l'agrément, d'une des sanctions prévues à l'article 371 D ;
+4° Au cas où le centre conserve parmi ses dirigeants ou administrateurs une personne n'ayant pas respecté ses obligations
+déclaratives ou de paiement en matière fiscale ou ayant fait l'objet, postérieurement à l'agrément, d'une des sanctions
+prévues à l'article 371 D ;
 
 5° Au cas où le centre ne prononce pas l'exclusion des adhérents qui ne respectent pas les obligations leur incombant en
 vertu des statuts ou du règlement intérieur.
+
+**Nota:**
+
+Conformément au décret n° 2013-1034 du 15 novembre 2013, article 2 : Ces dispositions ne s'appliquent pas aux agréments
+délivrés avant le 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -18475,11 +18401,7 @@ vertu des statuts ou du règlement intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1253 du 4 octobre 2005 - art. 1 () JORF 6 octobre 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
 
 
 ###### Article 371 L
@@ -18694,9 +18616,9 @@ offices. Les formations proposées par l'organisme agréé sont également offer
 
 Elles ne peuvent agir en qualité de mandataires de leurs membres. 
 
-Toutefois, les associations doivent recevoir mandat de leurs membres en vue de la télétransmission des attestations qu'elles
-délivrent à leurs adhérents ainsi que des déclarations de résultats, de leurs annexes et des autres documents les
-accompagnant selon la procédure prévue par le système de transfert des données fiscales et comptables.
+Toutefois, les associations doivent recevoir mandat de leurs membres en vue de la télétransmission des déclarations de
+résultats, de leurs annexes et des autres documents les accompagnant selon la procédure prévue par le système de transfert
+des données fiscales et comptables.
 
 **Liens relatifs à cet article**
 
@@ -18706,7 +18628,7 @@ accompagnant selon la procédure prévue par le système de transfert des donné
 
 	**Modifié par**:
 
-	  - Décret n°2012-470 du 11 avril 2012 - art. 1
+	  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
 
 	**Cite**:
 
@@ -18959,11 +18881,17 @@ l'administration fiscale ;
 3° Au cas où le nombre des adhérents de l'association, tel qu'il est défini à l'article 371 N est inférieur pendant plus d'un
 an au chiffre minimum prévu à cet article ;
 
-4° Au cas où l'association conserve parmi ses dirigeants ou administrateurs une personne ayant fait l'objet, postérieurement
-à l'agrément, d'une des sanctions prévues à l'article 371 D ;
+4° Au cas où l'association conserve parmi ses dirigeants ou administrateurs une personne n'ayant pas respecté ses obligations
+déclaratives ou de paiement en matière fiscale ou ayant fait l'objet, postérieurement à l'agrément, d'une des sanctions
+prévues à l'article 371 D ;
 
 5° Au cas où l'association ne prononce pas l'exclusion des adhérents qui ne respectent pas les obligations leur incombant en
 vertu des statuts ou du règlement intérieur.
+
+**Nota:**
+
+Conformément au décret n° 2013-1034 du 15 novembre 2013, article 2 : Ces dispositions ne s'appliquent pas aux agréments
+délivrés avant le 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -18973,11 +18901,7 @@ vertu des statuts ou du règlement intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 1 () JORF 25 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
 
 
 ###### Article 371 W
@@ -19163,8 +19087,10 @@ en cas de pluralité d'établissements, dans le ressort du conseil régional de 
 
 La demande est accompagnée d'un certificat délivré par l'administration fiscale, sur demande de l'expert-comptable, de la
 société d'expertise comptable, de l'association de gestion et de comptabilité ou de chacun de leurs dirigeants et
-administrateurs. Ce certificat atteste que l'expert-comptable, les dirigeants et administrateurs ne font pas l'objet de
-mesures prévues à l'article 1750 du code général des impôts ou n'ont pas fait l'objet au cours des cinq dernières années : 
+administrateurs. Ce certificat atteste que l'expert-comptable, les dirigeants et administrateurs ont respecté leurs
+obligations déclaratives et de paiement en matière fiscale pendant la période de cinq ans qui précède la demande d'agrément
+et ne font pas l'objet des mesures prévues à l'article 1750 du code général des impôts ou n'ont pas fait l'objet au cours des
+cinq dernières années : 
 
 a) D'une condamnation figurant au bulletin n° 2 prévu à l'article 775 du code de procédure pénale, à l'exception des
 condamnations pour blessures, coups ou homicide involontaires et pour infraction au code de la route ; 
@@ -19173,11 +19099,13 @@ b) D'une amende fiscale prononcée par un tribunal ;
 
 c) D'une sanction fiscale prononcée par l'administration pour manœuvres frauduleuses.
 
+**Nota:**
+
+Conformément au décret n° 2013-1034 du 15 novembre 2013, article 2 : Ces dispositions s'appliquent aux demandes d'agrément ou
+de renouvellement d'agrément présentées conformément aux articles 371 F et 371 R de l'annexe II au code général des impôts
+déposées à compter du 1er janvier 2014.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-297 du 19 mars 2010 - art. 1
 
 	**Cité par**:
 
@@ -19188,9 +19116,13 @@ c) D'une sanction fiscale prononcée par l'administration pour manœuvres fraudu
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis I (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis K (M)
 
+	**Modifié par**:
+
+	  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
+
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code général des impôts, CGI. - art. 158
 	  - Code général des impôts, CGI. - art. 1750
 	  - Code de procédure pénale - art. 775
 	  - Code de la route.
@@ -19290,9 +19222,8 @@ prises en matière de convention prévue à l'article 371 bis B.
 ###### Article 371 bis F
 
 Le professionnel de l'expertise comptable qui a conclu la convention prévue à l'article 371 bis B transmet à ses clients ou
-adhérents imposés d'après leur bénéfice réel, dans un délai de neuf mois suivant la clôture de leur exercice comptable
-lorsque celui-ci coïncide avec l'année civile, et dans un délai de six mois lorsque l'exercice comptable ne coïncide pas avec
-l'année civile, un dossier comprenant : 
+adhérents imposés d'après leur bénéfice réel, dans un délai de neuf mois suivant la clôture de leur exercice comptable, un
+dossier comprenant : 
 
 a) Les ratios et les autres éléments caractérisant la situation financière et économique de l'entreprise ; 
 
@@ -19309,7 +19240,7 @@ financières de l'entreprise avec l'indication, le cas échéant, des démarches
 
 	**Modifié par**:
 
-	  - Décret n°2012-470 du 11 avril 2012 - art. 1
+	  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
 
 	**Cite**:
 
