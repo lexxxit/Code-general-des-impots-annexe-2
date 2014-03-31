@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2014-02-19
+Version Consolidée au 2014-04-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6053,25 +6053,27 @@ s'applique le versement, le montant des sommes imposables et le montant de la ta
 	  - Décret n°2012-430 du 29 mars 2012 - art. 5
 
 
-#### Chapitre VI : Cotisation perçue au titre de la participation des employeurs à l'effort de construction
+#### Chapitre VI : Participation des employeurs à l'effort de construction et participation des employeurs agricoles à l'effort de construction
 
 ###### Article 161
 
-I.-Les employeurs assujettis à la cotisation prévue au 1 de l'article 235 bis du code général des impôts sont tenus de
-produire chaque année, au plus tard le deuxième jour ouvré suivant le 1er mai, et conformément aux dispositions de l'article
-R. 313-2 du code de la construction et de l'habitation, une déclaration mentionnant notamment les éléments prévus par ce
-dernier article. 
+I. ― Conformément aux dispositions de l'article R. 313-2 du code de la construction et de l'habitation, les employeurs
+redevables de la participation prévue à l'article L. 313-1 du même code sont tenus d'en mentionner, chaque année, l'assiette
+sur la déclaration prévue à l'article 87 du code général des impôts. 
 
-II.-Les employeurs assujettis à la cotisation prévue au 2 de l'article 235 bis du code général des impôts sont tenus de
-produire chaque année, au plus tard le deuxième jour ouvré suivant le 1er mai, et conformément aux dispositions de l'article
-R. 716-28 du code rural et de la pêche maritime, une déclaration mentionnant notamment les éléments prévus par ce dernier
-article.
+II. ― Conformément aux dispositions de l'article R. 716-28 du code rural et de la pêche maritime, les employeurs redevables
+de la participation prévue à l'article L. 716-2 du même code sont tenus d'en mentionner, chaque année, l'assiette sur la
+déclaration prévue à l'article 87 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-721 du 9 mai 2012 - art. 6
+	  - Décret n°2014-277 du 28 février 2014 - art. 3
+
+	**Liens**:
+
+	  - DISJOINT: Décret n°2017-698 du 2 mai 2017 - art. 2
 
 	**Cité par**:
 
@@ -6080,8 +6082,10 @@ article.
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 235 bis
+	  - Code général des impôts, CGI. - art. 87
+	  - Code rural - art. L716-2
 	  - Code rural - art. R716-28
+	  - Code de la construction et de l'habitation. - art. L313-1
 	  - Code de la construction et de l'habitation. - art. R*313-2
 
 
@@ -6091,53 +6095,25 @@ I.-La cotisation prévue au 1 de l'article 235 bis du code général des impôts
 aux dispositions de l'article R. 313-3 du code de la construction et de l'habitation. 
 
 Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires conformément au
-quatrième alinéa de l'article * R. 313-3 précité. 
+deuxième alinéa de l'article * R. 313-3 précité. 
 
 II.-La cotisation prévue au 2 de l'article 235 bis du code général des impôts est établie, contrôlée et recouvrée
 conformément aux dispositions de l'article R. 716-29 du code rural et de la pêche maritime. 
 
 Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires conformément au
-quatrième alinéa de l'article R. 716-29 précité.
+deuxième alinéa de l'article R. 716-29 précité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-721 du 9 mai 2012 - art. 6
+	  - Décret n°2014-277 du 28 février 2014 - art. 3
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 235 bis
 	  - Code rural - art. R716-29
 	  - Code de la construction et de l'habitation. - art. R*313-3
-
-
-###### Article 163
-
-I.-En cas de cession, cessation, procédure de sauvegarde, redressement ou liquidation judiciaire de l'entreprise ou de décès
-de l'employeur, la déclaration prévue à l'article R. 313-2 du code de la construction et de l'habitation afférente à l'année
-en cours et à l'année précédente doit être souscrite conformément aux dispositions de l'article R. 313-4 du même code. 
-
-II.-En cas de cession, cessation, procédure de sauvegarde, redressement ou liquidation judiciaire de l'entreprise ou de décès
-de l'employeur, la déclaration prévue à l'article R. 716-28 du code rural et de la pêche maritime afférente à l'année en
-cours et à l'année précédente est souscrite conformément aux dispositions de l'article R. 716-30 du même code.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-721 du 9 mai 2012 - art. 6
-
-	**Abrogé par**:
-
-	  - Décret n°2014-277 du 28 février 2014 - art. 3
-
-	**Cite**:
-
-	  - Code rural - art. R716-28
-	  - Code rural - art. R716-30
-	  - Code de la construction et de l'habitation. - art. R*313-2
-	  - Code de la construction et de l'habitation. - art. R313-4
 
 
 #### Chapitre VI ter : Participation des employeurs au développement de la formation professionnelle continue
