@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2014-04-01
+Version Consolidée au 2014-05-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1924,7 +1924,7 @@ considérée et des deux années précédentes dans les cas suivants :
 
 a) Licenciement du contribuable ou de l'un des époux soumis à une imposition commune ; bénéficient de cette disposition les
 personnes qui se trouvent privées d'activité professionnelle pour des raisons indépendantes de leur volonté et sont inscrites
-comme demandeurs d'emploi à l'institution mentionnée à l'article L. 5312-1 du code du travail ; 
+comme demandeurs d'emploi à Pôle emploi ; 
 
 b) Départ à la retraite ou en préretraite du contribuable ou de l'un des époux soumis à une imposition commune, sous réserve
 que l'intéressé ne poursuive ou ne reprenne aucune activité professionnelle ; les personnes qui partent à la retraite ne
@@ -1951,21 +1951,21 @@ Les cessions concernées sont celles réalisées l'année même de l'événement
 suivante dès lors qu'il est établi que ces dernières ont un lien avec cet événement et portent sur des titres acquis
 antérieurement à sa survenance.
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 7-1 et 14 du decret n° 2008-1010 du 29 septembre 2008.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - Décret n°2014-524 du 22 mai 2014 - art. 21
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 150-0 A
 	  - Code du travail - art. L311-7
-	  - Code de la sécurité sociale. - art. L341-4 (V)
+	  - Code de la sécurité sociale. - art. L341-4
 	  - Code de l'action sociale et des familles - art. L241-3
 
 
