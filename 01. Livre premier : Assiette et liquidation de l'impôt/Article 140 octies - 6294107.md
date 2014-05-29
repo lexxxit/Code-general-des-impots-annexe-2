@@ -3,7 +3,7 @@
 I.-La déduction prévue au premier alinéa du I de l'article 217 undecies du code général des impôts est pratiquée par
 l'entreprise propriétaire ou, si l'immobilisation fait l'objet d'un contrat de crédit-bail, par l'entreprise locataire. 
 
-II.-Sous réserve des dispositions de la cinquième phrase du premier alinéa du I de l'article 217 undecies du code général des
+II.-Sous réserve des dispositions de la neuvième phrase du premier alinéa du I de l'article 217 undecies du code général des
 impôts, la déduction est opérée sur les résultats imposables de l'exercice au cours duquel l'immobilisation est créée par
 l'entreprise ou lui est livrée ou est mise à sa disposition dans le cadre d'un contrat de crédit-bail. 
 
@@ -14,11 +14,11 @@ est effectuée au titre de l'exercice au cours duquel intervient la décision co
 III.-Les résultats imposables de l'exercice sont déterminés, sous réserve des dispositions du IV bis de l'article 217
 undecies du code général des impôts, avant tout autre déduction ou abattement.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 21-I F [1°, a] de la loi n° 2013-1278 du 29 décembre 2013.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
 	**Cite**:
 

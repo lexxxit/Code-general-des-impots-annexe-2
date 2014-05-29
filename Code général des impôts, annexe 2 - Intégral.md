@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2014-05-25
+Version Consolidée au 2014-05-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1419,21 +1419,21 @@ première période d'imposition.
 
 ###### Article 50 decies
 
-I. - La proportion d'investissement de 30 % mentionnée au premier alinéa du I quinquies de l'article 125-0 A du code général
+I.-La proportion d'investissement de 30 % mentionnée au premier alinéa du I quinquies de l'article 125-0 A du code général
 des impôts s'apprécie chaque jour de calcul de la valeur liquidative de l'organisme ou du placement collectif relevant de la
 section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier concerné telle qu'elle est déterminée
 conformément à la réglementation en vigueur, en retenant la valeur des titres figurant à cette date dans le portefeuille de
 l'organisme de placement collectif en valeurs mobilières ou du placement collectif relevant de la section 2 du chapitre IV du
-titre Ier du livre II du code monétaire et financier. 
+titre Ier du livre II du même code. 
 
 Les proportions d'investissement de 10 % et 5 % mentionnées au dixième alinéa du 1 du I quinquies de l'article 125-0 A
 mentionné ci-dessus et de 75 % mentionnée au c du 1 du I quinquies du même article s'apprécient, pour les organismes soumis à
 l'article L. 214-17 du code monétaire et financier, comme pour les organismes de la nature de ceux mentionnés au c du 2° du I
 de l'article L. 221-31 du même code, à la fin de chacun des semestres de l'exercice, en retenant la valeur des titres
 figurant à cette date dans le portefeuille de l'organisme de placement collectif en valeurs mobilières ou du placement
-collectif relevant de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier. 
+collectif relevant de la section 2 du chapitre IV du titre Ier du livre II du même code. 
 
-II. - La proportion d'investissement de 50 % mentionnée au g du 1 du I quinquies de l'article 125-0 A mentionné ci-dessus
+II.-La proportion d'investissement de 50 % mentionnée au g du 1 du I quinquies de l'article 125-0 A mentionné ci-dessus
 s'apprécie, pour chaque catégorie de fonds énuméré au d du 1 du I quinquies du même article, dans les conditions fixées par
 le code monétaire et financier et, pour les sociétés de capital-risque, dans les conditions fixées à l'article 171 AM.
 
@@ -1441,14 +1441,14 @@ le code monétaire et financier et, pour les sociétés de capital-risque, dans 
 
 	**Modifié par**:
 
-	  - Décret n°2013-687 du 25 juillet 2013 - art. 25
+	  - Décret n°2014-549 du 26 mai 2014 - art. 2
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 AM
 	  - Code général des impôts, CGI. - art. 125-0 A
 	  - Code monétaire et financier - art. L214-17
-	  - Code monétaire et financier - art. L221-31
+	  - Code monétaire et financier - art. L221-31 (VT)
 
 
 ###### Article 50 duodecies
@@ -2115,22 +2115,16 @@ a) Le montant global, compte non tenu des frais, de l'ensemble des cessions réa
 
 b) Le montant du gain net imposable assorti des éléments nécessaires à sa détermination ; 
 
-c) le montant de l'abattement mentionné à l'article 150-0 D bis du code précité dans sa rédaction antérieure à l'entrée en
-vigueur de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, ainsi que les éléments nécessaires à sa
-détermination. 
+c) (Sans objet). 
 
 Toutefois, les contribuables peuvent se libérer de cette obligation en fournissant, pour les titres en dépôt ou inscrits en
 compte auprès d'un intermédiaire habilité, un document établi par ce dernier et faisant apparaître les mêmes éléments.
 
 **Nota:**
 
-Modifications effectuées en conséquence de la loi n° 2011-1977 du 28 décembre 2011, article 80-I et II
+Modification effectuée en conséquence des art. 17-I G et 17-III de la Loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-653 du 4 mai 2012 - art. 2
 
 	**Cité par**:
 
@@ -2144,30 +2138,29 @@ Modifications effectuées en conséquence de la loi n° 2011-1977 du 28 décembr
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150-0 A (V)
-	  - Code général des impôts, CGI. - art. 150-0 D bis (V)
-	  - Code général des impôts, CGI. - art. 175 (V)
+	  - Code général des impôts, CGI. - art. 150-0 A
+	  - Code général des impôts, CGI. - art. 175
 
 
 ###### Article 74-0 F bis
 
-Pour l'application des dispositions des articles 150-0 D bis et 150-0 D ter du code général des impôts, les contribuables
-produisent à l'administration fiscale, sur sa demande, tout document de nature à justifier la durée de détention des titres
-ou droits cédés et le caractère continu de cette détention.
+Pour l'application des dispositions de l'article 150-0 D ter du code général des impôts, les contribuables produisent à
+l'administration fiscale, sur sa demande, tout document de nature à justifier la durée de détention des titres ou droits
+cédés et le caractère continu de cette détention.
+
+**Nota:**
+
+Modification effectuée en conséquence des art. 17-I G et 17-III de la Loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1421 du 21 novembre 2006 - art. 3 () JORF 23 novembre 2006
+	  - Décret n°2014-549 du 26 mai 2014 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150-0 D bis (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 150-0 D ter
 
 
 ###### Article 74-0 G
@@ -2269,30 +2262,30 @@ cessions ou acquisitions de parts intervenues en cours d'année ainsi que l'iden
 sociaux, bordereaux d'opérations et autres pièces de recettes et de dépenses de nature à justifier l'exactitude des
 renseignements portés sur la déclaration prévue au b du 1.
 
-3. Pour l'application des dispositions des articles 150-0 D bis et 150-0 D ter du code général des impôts, les sociétés ou
-groupements, agissant en tant que personnes interposées, produisent à l'administration fiscale, sur sa demande, tout document
-de nature à justifier la durée de détention des titres ou droits cédés et le caractère continu de cette détention.
+3. Pour l'application des dispositions de l'article 150-0 D ter du code général des impôts, les sociétés ou groupements,
+agissant en tant que personnes interposées, produisent à l'administration fiscale, sur sa demande, tout document de nature à
+justifier la durée de détention des titres ou droits cédés et le caractère continu de cette détention.
+
+**Nota:**
+
+Modification effectuée en conséquence des art. 17-I G et 17-III de la Loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-1421 du 21 novembre 2006 - art. 4 () JORF 23 novembre 2006
+	  - Décret n°2014-549 du 26 mai 2014 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F (V)
-	  - Code général des impôts, CGI. - art. 150-0 A (V)
-	  - Code général des impôts, CGI. - art. 150-0 D bis (V)
-	  - Code général des impôts, CGI. - art. 175 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F
+	  - Code général des impôts, CGI. - art. 150-0 A
+	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
+	  - Code général des impôts, CGI. - art. 175
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 J (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 74-0 J
@@ -5110,37 +5103,6 @@ déduits à compter du 1er janvier 1980 pour le calcul de l'impôt.
 	  - Loi n°81-1180 du 31 décembre 1981 - art. 5 (V) JORF 1er janvier 1982
 
 
-###### Article 102 P
-
-A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
-constitué au 31 décembre 1979 des provisions pour un montant égal ou supérieur à 0,50 % de l'encours des crédits, les caisses
-sont tenues de faire figurer au 1er janvier 1980 à leur bilan la provision prévue au quinzième alinéa du 5° du 1 de l'article
-39 du code général des impôts pour un montant de 0,50 % de l'encours des crédits afférents auxdites opérations.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'art. 26-I c de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 1
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
-	  - HISTO: Edition du 31 mars 2002
-
-
 ###### Article 102 Q
 
 La provision de 0,50 % devant figurer au bilan du 1er janvier 1980 est constituée en ajoutant aux provisions pour risques sur
@@ -5698,7 +5660,7 @@ loyer et des ressources du locataire ne peuvent excéder des limites fixées par
 I.-La déduction prévue au premier alinéa du I de l'article 217 undecies du code général des impôts est pratiquée par
 l'entreprise propriétaire ou, si l'immobilisation fait l'objet d'un contrat de crédit-bail, par l'entreprise locataire. 
 
-II.-Sous réserve des dispositions de la cinquième phrase du premier alinéa du I de l'article 217 undecies du code général des
+II.-Sous réserve des dispositions de la neuvième phrase du premier alinéa du I de l'article 217 undecies du code général des
 impôts, la déduction est opérée sur les résultats imposables de l'exercice au cours duquel l'immobilisation est créée par
 l'entreprise ou lui est livrée ou est mise à sa disposition dans le cadre d'un contrat de crédit-bail. 
 
@@ -5709,11 +5671,11 @@ est effectuée au titre de l'exercice au cours duquel intervient la décision co
 III.-Les résultats imposables de l'exercice sont déterminés, sous réserve des dispositions du IV bis de l'article 217
 undecies du code général des impôts, avant tout autre déduction ou abattement.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 21-I F [1°, a] de la loi n° 2013-1278 du 29 décembre 2013.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -5812,69 +5774,6 @@ effectués.
 	  - Code général des impôts, CGI. - art. 217 undecies
 
 
-#### Chapitre II bis : Taxe d'apprentissage
-
-##### III : Modalités de versement et exonérations
-
-###### Article 140 K quater
-
-La part du quota de la taxe d'apprentissage mentionnée au deuxième alinéa de l'article L. 6241-2 du code du travail est
-versée au Trésor public par les organismes collecteurs dans le délai prévu à l'article R. 6241-5 du même code.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n° 2008-244 du 7 mars 2008.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-549 du 26 mai 2014 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 318 (P)
-
-	**Cite**:
-
-	  - Code du travail - art. L6241-2
-	  - Code du travail - art. R6241-5
-
-
-###### Article 140 K quinquies
-
-L'assujetti à la taxe d'apprentissage bénéficie d'une exonération totale ou partielle de la taxe à raison des dépenses
-exposées en vue de favoriser les premières formations conformément aux dispositions prévues à l'article R. 6241-7 du code du
-travail
-.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n° 2008-244 du 7 mars 2008.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-549 du 26 mai 2014 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 318 A (V)
-
-	**Cite**:
-
-	  - Code du travail - art. R6241-7
-
-
 #### Chapitre III : Taxe sur les salaires
 
 ##### Section I : Taux majorés
@@ -5921,25 +5820,30 @@ effectuée par année.
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 7 604 € et 15 185 € ,le taux de 9,35 % à la fraction comprise entre 15 185 € et 150
-000 € et le taux de 20 % à la fraction excédant 150 000 €  et en multipliant le chiffre ainsi déterminé par le rapport qui
+l'année civile, qui est comprise entre 7 666 € et 15 308 € ,le taux de 9,35 % à la fraction comprise entre 15 308 € et 151
+208 € et le taux de 20 % à la fraction excédant 151 208 € et en multipliant le chiffre ainsi déterminé par le rapport qui
 existe entre le montant de la rémunération qui a été payée pendant la période d'application de la majoration et le montant
 total de la rémunération annuelle. 
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
 a bénéficié au cours de la période d'application de la majoration les taux de : 
 
-4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 604 € et 15 185 € ; 
+4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 666 € et 15 308 € ; 
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 15 185 € et 150 000 € ;
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 15 308 € et 151 208 € ;
 
-15,75 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 150 000 €.
+15,75 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 151 208 €.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'art. 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'art. 2-I [1°] de la loi
+n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-265 du 28 mars 2013 - art. 2
+	  - Décret n°2014-549 du 26 mai 2014 - art. 2
 
 	**Cité par**:
 
@@ -5956,7 +5860,7 @@ a bénéficié au cours de la période d'application de la majoration les taux d
 La déclaration des traitements et salaires que les employeurs sont tenus de souscrire en exécution des dispositions de
 l'article 87 du code général des impôts doit, pour ceux d'entre eux qui sont redevables en totalité ou partiellement de la
 taxe sur les salaires, faire ressortir distinctement, pour chaque bénéficiaire dont la rémunération individuelle annuelle a
-excédé 7 604 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
+excédé 7 666 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
 majoration de la taxe sur les salaires. 
 
 Elle doit comporter, en outre, l'indication du montant des compléments de droits acquittés en application de l'article 142 à
@@ -5964,14 +5868,14 @@ raison des rémunérations payées pendant cette même période.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'article 2-I (1°) de
-la loi n° 2010-1657 du 29 décembre 2010.
+Modification effectuée en conséquence de l'art. 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'art. 2-I [1°] de la loi
+n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+	  - Décret n°2014-549 du 26 mai 2014 - art. 2
 
 	**Cite**:
 
@@ -6452,8 +6356,8 @@ c) Le cédant s'engage vis-à-vis du cessionnaire à couvrir les appels de fonds
 construction dans la mesure où les versements exigés à ce titre excéderaient le montant des versements définis au 3° du b. 
 
 Cet engagement doit être garanti par une caution solidaire donnée par un établissement de crédit ou une société de caution
-mutuelle constituée conformément aux dispositions des articles L. 512-2, L. 512-20, L. 515-4 et    L.513-2 du code monétaire
-et financier. 
+mutuelle constituée conformément aux dispositions des articles L. 512-2, L. 512-20, L. 515-4 et L.513-2 du code monétaire et
+financier. 
 
 A défaut de pouvoir fournir cette caution, l'intéressé doit constituer un cautionnement en numéraire dans un organisme
 habilité à cet effet et désigné dans le contrat. Le montant de ce cautionnement doit être au moins égal à 10 % du montant des
@@ -6464,8 +6368,12 @@ n'a intenté aucune action dans ce délai à l'encontre du cédant ;
 
 d) La société de construction doit intervenir à l'acte de cession et justifier qu'elle bénéficie de l'engagement pris par un
 établissement de crédit ou une société de caution mutuelle constituée conformément aux dispositions des articles L. 512-2, L.
-512-20, L. 515-4 et    L.513-2 du code monétaire et financier, de répondre aux appels de fonds de la société en cas de
+512-20, L. 515-4 et L.513-2 du code monétaire et financier, de répondre aux appels de fonds de la société en cas de
 défaillance des associés.
+
+**Nota:**
+
+Modification effectuée en conséquence des art. 4-48°, 35 et 36 de l'ordonnance n° 2013-544 du 27 juin 2013.
 
 **Liens relatifs à cet article**
 
@@ -6483,7 +6391,7 @@ défaillance des associés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 35 (VD)
+	  - Décret n°2014-549 du 26 mai 2014 - art. 2
 
 
 ###### Article 168
@@ -16858,7 +16766,55 @@ prévues aux articles 311 A à 311 D en ce qui concerne la redevance communale.
 
 #### Chapitre unique : Impôts directs et taxes assimilées
 
+##### I : Taxe d'apprentissage
+
+###### Article 318 A
+
+L'assujetti à la taxe d'apprentissage bénéficie d'une exonération totale ou partielle de la taxe à raison des dépenses
+exposées en vue de favoriser les premières formations conformément aux dispositions prévues à l'article R. 6241-7 du code du
+travail
+.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'art. 60-I A [2°] de la loi n° 2013-1279 du 29 décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-549 du 26 mai 2014 - art. 2
+
+	**Anciens textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 K quinquies (T)
+
+
 ##### II : Taxe perçue pour la région de Guyane
+
+###### Article 318
+
+La part du quota de la taxe d'apprentissage mentionnée au deuxième alinéa de l'article L. 6241-2 du code du travail est
+versée au Trésor public par les organismes collecteurs dans le délai prévu à l'article R. 6241-5 du même code.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article 8-I-1 et VI de la loi n° 2014-891 du 8 août 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-549 du 26 mai 2014 - art. 2
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
+
+	**Anciens textes**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 K quater (T)
+
 
 ###### Article 318 B
 
@@ -17039,294 +16995,7 @@ Modifications effectuées en conséquence de l'article 29 de la loi n° 2009-258
 	  - Code général des impôts, CGI. - art. 1605 (V)
 
 
-##### Section VI : Prélèvement spécial sur les films pornographiques et d'incitation à la violence
-
-###### Article 321 octies
-
-Sous réserve des dispositions des articles 321 quinquies à 321 septies le prélèvement spécial prévu par l'article 1605 sexies
-du code général des impôts est établi et recouvré selon les modalités, ainsi que sous les sûretés, garanties et sanctions
-applicables en matière de taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées comme pour cet
-impôt.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'art. 20-XVIII [9°] de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1605 sexies (V)
-
-	**Anciens textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 vicies (T)
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 quinquies (P)
-
-
-###### Article 321 quinquies
-
-Le prélèvement spécial prévu par l'article 1605 sexies du code général des impôts sur la fraction des bénéfices industriels
-et commerciaux imposables à l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la production, de la
-distribution ou de la représentation de films pornographiques ou d'incitation à la violence est liquidé par les entreprises
-qui réalisent ces bénéfices. Ces entreprises l'acquittent spontanément auprès du service des impôts dont elles relèvent. 
-
-La période d'imposition est, pour chaque redevable, celle qui est retenue pour l'établissement soit de l'impôt sur le revenu
-dû à raison de ses bénéfices industriels et commerciaux, soit de l'impôt sur les sociétés.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'art. 20-XVIII [9°] de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. D336-1 (V)
-	  - Code général des impôts, CGI. - art. 1605 sexies (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 321 octies (P)
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
-
-	**Anciens textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 septdecies (T)
-
-
-###### Article 321 septies
-
-Tout redevable du prélèvement spécial prévu par l'article 1605 sexies du code général des impôts est tenu de remettre au
-service des impôts, dans le délai prévu pour le versement du prélèvement, une déclaration établie en double exemplaire sur un
-imprimé conforme au modèle fixé par le ministre de l'économie et des finances.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'art. 20-XVIII [9°] de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Anciens textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 novodecies (T)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1605 sexies (V)
-
-
-###### Article 321 sexies
-
-Les entreprises redevables du prélèvement le versent au plus tard à la date d'expiration du délai prévu pour le dépôt de leur
-déclaration annuelle de résultats.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'art. 20-XVIII [9°] de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Anciens textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 octodecies (T)
-
-
-#### Chapitre I bis : Taxes assimilées aux taxes sur le chiffre d'affaires
-
-##### Section I : Taxe d'abattage
-
-###### Article 321 A
-
-I.-(Abrogé). 
-
-II.-Les personnes redevables de la taxe d'abattage doivent : 
-
-1° Tenir un registre, non modifiable a posteriori, faisant apparaître jour par jour les éléments nécessaires à la
-constatation, à la liquidation et au contrôle de la taxe d'abattage, à savoir le poids des viandes avec os, par espèce et
-catégorie, retenu pour le calcul du montant de la taxe ; 
-
-2° Adresser au ministère chargé de l'agriculture ou à l'établissement mentionné à l'article L. 621-1 du code rural et de la
-pêche maritime, selon le cas, un relevé des éléments énumérés au 1°. 
-
-Un arrêté conjoint des ministres chargés de l'agriculture et du budget précise le destinataire de ce relevé ainsi que ses
-modalités de transmission. 
-
-III.-Toute personne mentionnée au II doit informer chacun de ses clients du montant des charges dont elle s'acquitte au titre
-du financement du service public de l'équarrissage, à proportion des viandes ou des prestations d'abattage facturées. Cette
-somme fait l'objet d'une mention particulière au bas de la facture délivrée au chaque client. 
-
-IV.-La part du produit de la taxe d'abattage destinée à financer la gestion des opérations imputées sur le fonds auquel est
-rattaché le produit de ladite taxe est fixée à 1, 5 %.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'art. 47-II [4°] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 24 novembre 2008 - art. 2 (V)
-	  - Code rural - art. R228-13 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2 (V)
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
-
-	**Cite**:
-
-	  - Code rural - art. L226-1
-	  - Code rural - art. L621-1
-
-
 #### Chapitre II : Enregistrement, publicité foncière et timbre
-
-##### Section I : Fonds de garantie des assurances obligatoires de dommages
-
-##### A : Accidents de circulation
-
-###### Article 322
-
-Les contributions prévues pour l'alimentation du fonds de garantie mentionné au I de l'article 1628 quater du code général
-des impôts sont assises et recouvrées conformément aux dispositions de l'article R. 421-27 du code des assurances.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 62-II de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995
-
-	**Modifié par**:
-
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1628 quater
-	  - Code des assurances - art. R421-27
-
-
-###### Article 322 A
-
-Les taux des contributions prévues pour l'alimentation du fonds de garantie mentionné au I de l'article 1628 quater du code
-général des impôts sont fixés conformément aux dispositions de l'article R. 421-28 du code des assurances.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'art. 62 II de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995
-
-	**Modifié par**:
-
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1628 quater
-	  - Code des assurances - art. R421-28
-
-
-##### B : Accidents de chasse
-
-###### Article 323
-
-Les contributions prévues pour l'alimentation du fonds de garantie mentionné au II de l'article 1628 quater du code général
-des impôts sont assises et recouvrées conformément aux dispositions de l'article R. 421-38 du code des assurances.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'art. 62 II de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995
-
-	**Modifié par**:
-
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1628 quater
-	  - Code des assurances - art. R421-38
-
-
-###### Article 323 A
-
-Les taux des contributions prévues pour l'alimentation du fonds de garantie mentionné au II de l'article 1628 quater du code
-général des impôts sont fixés conformément aux dispositions de l'article R. 421-39 du code des assurances.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'art. 62 II de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1628 quater
-	  - Code des assurances - art. R421-39
-
 
 ##### Section V : Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage
 
@@ -17903,29 +17572,26 @@ ni concédées, ni exploitées.
 
 Il en est de même pour les terrains cédés aux communes en application des dispositions du 3° de l'article L. 5142-1 du code
 général de la propriété des personnes publiques qui ne sont ni concédés ni exploités, tant qu'ils sont exonérés en
-application des dispositions des articles 1394 et 1599 ter B du code général des impôts.
+application des dispositions de l'article 1394 du code général des impôts.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'art. 108-XIX C-1 de la loi n° 2010-1657 du 29 décembre 2010.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1394, 1599 ter B
-	  - Code général de la propriété des personnes publiqu - art. L5142-1 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 1 (V) JORF 22 avril 2006
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 13 (V) JORF 22 avril 2006
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 2 (V) JORF 22 avril 2006
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006
+	  - Code général de la propriété des personnes publiques. - art. L5142-1
 
 	**Codifié par**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2007-484 du 30 mars 2007
+
+	**Modifié par**:
+
+	  - Décret n°2014-549 du 26 mai 2014 - art. 2
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
