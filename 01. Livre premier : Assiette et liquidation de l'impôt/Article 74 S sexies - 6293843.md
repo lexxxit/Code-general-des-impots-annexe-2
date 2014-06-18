@@ -1,23 +1,24 @@
 # Article 74 S sexies
 
-La déclaration mentionnée à l'article 150 VM du code général des impôts indique :
+La déclaration mentionnée à l'article 150 VM du code général des impôts indique : 
 
-a. en cas de cession, l'identité du vendeur ou, le cas échéant, celle de l'intermédiaire participant à la transaction ;
+a. en cas de cession, l'identité du vendeur ou, le cas échéant, celle de l'intermédiaire participant à la transaction ou de
+l'acquéreur assujetti à la taxe sur la valeur ajoutée établi en France ; 
 
 b. en cas d'exportation, l'identité de l'exportateur et, le cas échéant, celle de l'intermédiaire participant à la
-transaction ;
+transaction ; 
 
-c. la date de l'opération ;
+c. la date de l'opération ; 
 
 d. la désignation et la nature du bien cédé ou exporté ainsi que, selon le cas, le prix de cession ou la valeur en douane de
 ce bien.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2014-621 du 16 juin 2014 - art. 1
+
 	**Cite**:
 
-	  - CGI 150 VM
-
-	**Créé par**:
-
-	  - Décret n°2007-1386 du 26 septembre 2007 - art. 1 () JORF 28 septembre 2007
+	  - Code général des impôts, CGI. - art. 150 VM (VT)

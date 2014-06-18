@@ -4,7 +4,7 @@ L'option mentionnée à l'article 150 VL du code général des impôts est irré
 
 Lorsque cette option est exercée, le vendeur ou l'exportateur présente, à l'appui de la déclaration prévue par l'article 150
 VM du même code, les éléments permettant d'établir la date et le prix d'acquisition du bien cédé ou exporté ou de justifier
-que ce dernier est détenu depuis plus de douze ans. 
+que ce dernier est détenu depuis plus de vingt-deux ans. 
 
 En cas d'exportation, la déclaration mentionnée au deuxième alinéa doit être déposée, accompagnée du paiement de l'impôt
 éventuellement dû, par l'exportateur ou, le cas échéant, par l'intermédiaire participant à la transaction, au service des
@@ -16,7 +16,7 @@ valoir justificatif de non-paiement de la taxe forfaitaire prévue à l'article 
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2014-621 du 16 juin 2014 - art. 1
 
 	**Cite**:
 
