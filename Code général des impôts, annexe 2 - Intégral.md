@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2014-06-19
+Version Consolidée au 2014-07-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1058,13 +1058,26 @@ h. Le Japan Prize en sciences ;
 
 i. Les prix Lasker pour la recherche médicale ; 
 
-j. Les prix Gairdner pour la recherche médicale.
+j. Les prix Gairdner pour la recherche médicale ;
+
+k. Les prix de la fondation "Fundamental Physics Prize Foundation" dans le domaine de la physique ;
+
+l. Les prix "Breakthrough Prize in Life Sciences" dans le domaine des sciences de la vie ;
+
+m. Les prix "Shaw" pour l'astronomie, les sciences de la vie et la médecine, les mathématiques ;
+
+n. Le prix "Queen Elizabeth Prize for Engineering" dans le domaine de l'ingénierie ;
+
+o. Le prix "Holberg International Memorial Prize" dans les domaines des humanités, des sciences sociales, des arts, du droit
+et de la théologie ;
+
+p. Les "ENI Awards" dans le domaine de l'énergie et de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-570 du 20 mai 2009 - art. 1
+	  - Décret n°2014-839 du 24 juillet 2014 - art. 1
 
 	**Cite**:
 
