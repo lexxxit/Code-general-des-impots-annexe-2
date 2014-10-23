@@ -2,8 +2,8 @@
 
 Pour l'application du dernier alinéa du 3 du IX de l'article 167 bis du code général des impôts, le contribuable demande le
 dégrèvement de l'impôt bénéficiant du sursis de paiement ou la restitution de l'impôt acquitté sur le formulaire prévu au
-deuxième alinéa de l'article 91 undecies et déposé l'année suivant la réalisation de l'événement entraînant le dégrèvement ou
-la restitution, selon les modalités prévues au premier alinéa de l'article 91 quaterdecies. 
+premier alinéa du 3 du IX de l'article 167 bis du code précité et déposé l'année suivant la réalisation de l'événement
+entraînant le dégrèvement ou la restitution, selon les modalités prévues au premier alinéa de l'article 91 quaterdecies. 
 
 Il indique la nature et la date de l'événement à l'origine de sa demande et joint, à l'appui du formulaire, les éléments de
 calcul et les justificatifs correspondant au montant du dégrèvement ou de la restitution demandé.
@@ -18,12 +18,12 @@ européenne pour établir que les donations de titres n'ont pas un but exclusive
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies
 	  - Code général des impôts, CGI. - art. 167 bis

@@ -4,8 +4,7 @@ Le contribuable qui entend bénéficier du sursis de paiement prévu au V de l'a
 fait la demande sur le formulaire mentionné au deuxième alinéa de l'article 91 undecies.
 
 Il déclare sur ce formulaire le montant des plus-values latentes, des créances trouvant leur origine dans une clause de
-complément de prix et des plus-values en report, le montant de l'impôt correspondant à ces plus-values et créances ainsi que
-les éléments nécessaires au calcul de cet impôt. 
+complément de prix et des plus-values en report ainsi que les éléments nécessaires à leur détermination 
 
 Il indique le nom ou la dénomination sociale ainsi que l'adresse de son représentant fiscal. Celui-ci s'engage, sur ce même
 document, à représenter le contribuable dans les conditions prévues au deuxième alinéa du b du 1 du V de l'article 167 bis
@@ -22,7 +21,7 @@ impôts des particuliers non résidents.
 
 	**Modifié par**:
 
-	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 

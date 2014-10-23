@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2014-09-08
+Version Consolidée au 2014-10-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1930,72 +1930,21 @@ Modifications effectuées en conséquence de l'article 15  I (5°) et III de la 
 
 ##### 1 : Valeurs mobilières, droits sociaux et titres assimilés
 
-###### Article 74-0 A
+###### Article 74-0 B
 
-La limite indiquée au 1 du I de l'article 150-0 A du code général des impôts s'entend de la moyenne des cessions de l'année
-considérée et des deux années précédentes dans les cas suivants : 
-
-a) Licenciement du contribuable ou de l'un des époux soumis à une imposition commune ; bénéficient de cette disposition les
-personnes qui se trouvent privées d'activité professionnelle pour des raisons indépendantes de leur volonté et sont inscrites
-comme demandeurs d'emploi à Pôle emploi ; 
-
-b) Départ à la retraite ou en préretraite du contribuable ou de l'un des époux soumis à une imposition commune, sous réserve
-que l'intéressé ne poursuive ou ne reprenne aucune activité professionnelle ; les personnes qui partent à la retraite ne
-bénéficient de la mesure que lorsqu'elles n'en ont pas déjà obtenu l'application à l'occasion de leur départ en
-préretraite ; 
-
-c) Survenance d'une invalidité affectant le contribuable ou l'un des époux soumis à une imposition commune ou un enfant à
-charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L.
-341-4 du code de la sécurité sociale et ouvrant droit à la carte d'invalidité prévue à l'article L. 241-3 du code de l'action
-sociale et des familles ; 
-
-d) Décès du contribuable ou de l'un des époux soumis à une imposition commune ; 
-
-e) Divorce ou séparation de corps ; 
-
-f) Procédure de sauvegarde, redressement ou liquidation judiciaire du contribuable ou de l'un des époux soumis à une
-imposition commune ; 
-
-g) Tout autre événement exceptionnel affectant la situation personnelle, familiale ou professionnelle du contribuable et
-revêtant un caractère de gravité tel qu'il contraigne le contribuable, pour y faire face, à liquider tout ou partie de son
-portefeuille. 
-
-Les cessions concernées sont celles réalisées l'année même de l'événement ainsi que celles réalisées au cours de l'année
-suivante dès lors qu'il est établi que ces dernières ont un lien avec cet événement et portent sur des titres acquis
-antérieurement à sa survenance.
+Le prix de cession et le prix d'acquisition définis au premier alinéa du 1 de l'article 150-0 D du code général des impôts
+comprennent toutes les charges et indemnités stipulées au profit du cédant ou d'un tiers, à quelque titre que ce soit, en
+rémunération de l'opération.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Décret n°2014-524 du 22 mai 2014 - art. 21
-
-	**Abrogé par**:
 
 	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150-0 A
-	  - Code du travail - art. L311-7
-	  - Code de la sécurité sociale. - art. L341-4
-	  - Code de l'action sociale et des familles - art. L241-3
-
-
-###### Article 74-0 B
-
-Le prix de cession et le prix d'acquisition comprennent toutes les charges et indemnités stipulées au profit du cédant ou
-d'un tiers, à quelque titre que ce soit, en rémunération de l'opération.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2006-1421 du 21 novembre 2006 - art. 1 () JORF 23 novembre 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 150-0 D
 
 
 ###### Article 74-0 C
@@ -2073,7 +2022,7 @@ d'acquisition est réputé égal à leur valeur à la date de ce retrait.
 
 ###### Article 74-0 E ter
 
-I.-Lorsque les titres ou droits cédés ont fait partie du patrimoine privé du cédant avant d'être loués ou d'être considérés
+I. - Lorsque les titres ou droits cédés ont fait partie du patrimoine privé du cédant avant d'être loués ou d'être considérés
 comme des éléments d'actif affectés à l'exercice de la profession en application des dispositions des articles 93 ou 151
 nonies du code général des impôts ou d'être inscrits à l'actif d'une entreprise, le gain net imposable suivant les règles des
 articles 150-0 A à 150-0 E du même code est déterminé par différence entre la valeur réelle au moment de l'entrée dans le
@@ -2084,7 +2033,7 @@ La valeur réelle mentionnée à l'alinéa précédent s'entend soit de la valeu
 entreprise, soit de la valeur des titres à la date à laquelle ils sont considérés comme des éléments de l'actif professionnel
 en application de l'article 93 ou du I de l'article 151 nonies précités. 
 
-II.-Lorsque les titres ou droits cédés ont été loués ou considérés comme des éléments d'actifs affectés à l'exercice de la
+II. - Lorsque les titres ou droits cédés ont été loués ou considérés comme des éléments d'actifs affectés à l'exercice de la
 profession en application des dispositions des articles 93 ou 151 nonies du code général des impôts ou inscrits à l'actif
 d'une entreprise, puis sont revenus dans le patrimoine privé du contribuable, le gain net imposable suivant les règles des
 articles 150-0 A à 150-0 E du même code est déterminé par la différence entre le prix effectif de cession et la valeur réelle
@@ -2094,28 +2043,25 @@ La valeur réelle mentionnée à l'alinéa précédent s'entend soit de la valeu
 entreprise, soit de la valeur des titres à la date à laquelle ils cessent d'être considérés comme des éléments de l'actif
 professionnel en application de l'article 93 ou du I de l'article 151 nonies précités. 
 
-III.-Lorsque les titres ou droits cédés ont successivement fait partie du patrimoine privé, été inscrits à l'actif d'une
+III. - Lorsque les titres ou droits cédés ont successivement fait partie du patrimoine privé, été inscrits à l'actif d'une
 entreprise ou considérés comme des éléments d'actifs affectés à l'exercice de la profession en application des dispositions
 des articles 93 ou 151 nonies du code général des impôts ou été loués, puis sont revenus dans le patrimoine privé, la somme
 des gains nets relatifs aux périodes de détention des titres dans le patrimoine privé est égale à la somme algébrique de ces
 gains afférents à chacune des périodes et calculés selon les modalités mentionnées au I et au II. 
 
-IV.-Pour l'appréciation du seuil d'imposition prévu au 1 du I de l'article 150-0 A du code général des impôts, lorsque les
-titres ou droits cédés figurent dans le patrimoine professionnel du contribuable, le montant de cession à retenir est égal à
-la valeur réelle des titres ou droits, déterminée selon les modalités mentionnées au deuxième alinéa du I, à la date de leur
-dernière entrée dans le patrimoine professionnel.
+IV. - (Abrogé).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-859 du 11 juillet 2006 - art. 1 () JORF 13 juillet 2006
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150-0 A (V)
-	  - Code général des impôts, CGI. - art. 151 nonies (V)
-	  - Code général des impôts, CGI. - art. 93 (V)
+	  - Code général des impôts, CGI. - art. 150-0 A
+	  - Code général des impôts, CGI. - art. 151 nonies
+	  - Code général des impôts, CGI. - art. 93
 
 
 ###### Article 74-0 F
@@ -2124,26 +2070,31 @@ Les contribuables qui réalisent des opérations imposables en application de l'
 tenus de souscrire, dans le délai prévu à l'article 175 du même code, une déclaration spéciale des plus-values sur une
 formule délivrée par l'administration indiquant : 
 
-a) Le montant global, compte non tenu des frais, de l'ensemble des cessions réalisées au cours de l'année d'imposition ; 
+a) Abrogé ; 
 
-b) Le montant du gain net imposable assorti des éléments nécessaires à sa détermination ; 
+b) Le montant du gain net ou de la distribution imposable assorti des éléments nécessaires à sa détermination ; 
 
-c) (Sans objet). 
+c. Le montant des abattements prévus au 1 de l'article 150-0 D et à l'article 150-0 D ter du code général des impôts ainsi
+que les éléments nécessaires à leur détermination.
 
 Toutefois, les contribuables peuvent se libérer de cette obligation en fournissant, pour les titres en dépôt ou inscrits en
-compte auprès d'un intermédiaire habilité, un document établi par ce dernier et faisant apparaître les mêmes éléments.
-
-**Nota:**
-
-Modification effectuée en conséquence des art. 17-I G et 17-III de la Loi n° 2013-1278 du 29 décembre 2013.
+compte auprès d'un intermédiaire habilité, un document établi par ce dernier et faisant apparaître les mêmes éléments. La
+dispense de déclaration prévue à la première phrase du présent alinéa ne s'applique pas lorsque le contribuable a bénéficié
+de la réduction d'impôt prévue à l'article 199 terdecies-0 A du code général des impôts au titre de la souscription des
+titres cédés ou lorsque le gain net ouvre droit au bénéfice des abattements mentionnés au 1 quater de l'article 150-0 D ou à
+l'article 150-0 D ter du code précité.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 G (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 G bis (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 I (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 I (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 K (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 L bis (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 M (V)
@@ -2157,23 +2108,22 @@ Modification effectuée en conséquence des art. 17-I G et 17-III de la Loi n° 
 
 ###### Article 74-0 F bis
 
-Pour l'application des dispositions de l'article 150-0 D ter du code général des impôts, les contribuables produisent à
-l'administration fiscale, sur sa demande, tout document de nature à justifier la durée de détention des titres ou droits
-cédés et le caractère continu de cette détention.
+Pour l'application des dispositions des 1 à 1 quinquies de l'article 150-0 D et de l'article 150-0 D ter du code général des
+impôts, les contribuables produisent à l'administration fiscale, sur sa demande, tout document de nature à justifier la durée
+de détention des titres ou droits cédés et le caractère continu de cette détention. 
 
-**Nota:**
-
-Modification effectuée en conséquence des art. 17-I G et 17-III de la Loi n° 2013-1278 du 29 décembre 2013.
+Ils justifient, selon les mêmes modalités que celles prévues au premier alinéa, du respect de l'ensemble des conditions
+d'application des abattements prévus par les articles précités.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 2
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150-0 D ter
+	  - Code général des impôts, CGI. - art. 150-0 D
 
 
 ###### Article 74-0 G
@@ -2275,25 +2225,22 @@ cessions ou acquisitions de parts intervenues en cours d'année ainsi que l'iden
 sociaux, bordereaux d'opérations et autres pièces de recettes et de dépenses de nature à justifier l'exactitude des
 renseignements portés sur la déclaration prévue au b du 1.
 
-3. Pour l'application des dispositions de l'article 150-0 D ter du code général des impôts, les sociétés ou groupements,
-agissant en tant que personnes interposées, produisent à l'administration fiscale, sur sa demande, tout document de nature à
-justifier la durée de détention des titres ou droits cédés et le caractère continu de cette détention.
-
-**Nota:**
-
-Modification effectuée en conséquence des art. 17-I G et 17-III de la Loi n° 2013-1278 du 29 décembre 2013.
+3. Pour l'application des dispositions des 1 à 1 quinquies de l'article 150-0 D et de l'article 150-0 D ter du code général
+des impôts, les sociétés ou groupements, agissant en tant que personnes interposées, produisent à l'administration fiscale,
+sur sa demande, tout document de nature à justifier la durée de détention des titres ou droits cédés et le caractère continu
+de cette détention.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 2
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F (M)
 	  - Code général des impôts, CGI. - art. 150-0 A
-	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
+	  - Code général des impôts, CGI. - art. 150-0 D
 	  - Code général des impôts, CGI. - art. 175
 
 	**Cité par**:
@@ -2424,8 +2371,8 @@ de titres reçus lors de cette opération.
 
 ###### Article 74-0 P
 
-Pour l'application du c du 2° du I de l'article 150-0 D ter du code général des impôts, la date à laquelle le cédant fait
-valoir ses droits à la retraite s'entend de la date à laquelle il entre en jouissance des droits qu'il a acquis dans le
+Pour l'application du c du 2° du 3 du I de l'article 150-0 D ter du code général des impôts, la date à laquelle le cédant
+fait valoir ses droits à la retraite s'entend de la date à laquelle il entre en jouissance des droits qu'il a acquis dans le
 régime obligatoire de base d'assurance vieillesse auquel il a été affilié à raison de ses fonctions de direction ou, s'il n'a
 été affilié auprès d'aucun régime obligatoire de base pour cette activité, dans le régime obligatoire de base d'assurance
 vieillesse auquel il a été affilié au titre de sa dernière activité. 
@@ -2435,30 +2382,30 @@ premier alinéa, sur lesquelles figure la date prévue audit alinéa.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1421 du 21 novembre 2006 - art. 5 () JORF 23 novembre 2006
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
+	  - Code général des impôts, CGI. - art. 150-0 D ter
 
 
 ###### Article 74-0 Q
 
-Les conditions d'effectif, de chiffre d'affaires ou de total de bilan mentionnées aux a et b du 3° du I de l'article 150-0 D
-ter du code général des impôts sont déterminées sur la base des comptes de la société dont les titres ou droits sont cédés.
-Si cette société établit des comptes consolidés, les conditions précitées sont déterminées sur la base de ces comptes.
+Les conditions d'effectif, de chiffre d'affaires ou de total de bilan mentionnées aux a et b du 3° du 3 du I de l'article
+150-0 D ter du code général des impôts sont déterminées sur la base des comptes de la société dont les titres ou droits sont
+cédés. Si cette société établit des comptes consolidés, les conditions précitées sont déterminées sur la base de ces comptes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1421 du 21 novembre 2006 - art. 5 () JORF 23 novembre 2006
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
+	  - Code général des impôts, CGI. - art. 150-0 D ter
 
 
 ##### 2 : Biens et droits mobiliers ou immobiliers.
@@ -3528,34 +3475,25 @@ la contribution additionnelle à ce prélèvement qui seront, le cas échéant, 
 
 ###### Article 91 quater J
 
-En cas de clôture du plan avant ou, dans les conditions prévues au 2 bis du II de l'article 150-0 A du code général des
-impôts, après l'expiration de la cinquième année, le titulaire de ce plan doit ajouter au montant global des cessions qu'il
-est tenu d'indiquer sur la déclaration mentionnée à l'article 74-0 F la valeur liquidative du plan, ou la valeur de rachat
-pour un contrat de capitalisation, à la date de sa clôture diminuée des sommes ou valeurs correspondant à des retraits ou
-rachats réalisés, concomitamment à la clôture, en vue de la création ou de la reprise d'une entreprise dans les conditions
-fixées par la deuxième phrase du 2 du II de l'article 150-0 A précité. La valeur liquidative est, le cas échéant, diminuée du
-montant des produits ne bénéficiant pas de l'exonération prévue au 5° bis de l'article 157 du code général des impôts. Dans
-ce dernier cas, le contribuable joint à la déclaration susmentionnée les éléments nécessaires à la détermination de cette
-correction. 
-
-Le gain net défini au 6 de l'article 150-0 D du code général des impôts réalisé depuis l'ouverture du plan d'épargne en
+Le gain net défini au 6 de l'article 150-0 D du code général des impôts réalisé depuis l'ouverture d'un plan d'épargne en
 actions est, le cas échéant, diminué du montant des produits qui n'ont pas bénéficié de l'exonération prévue au 5° bis de
-l'article 157 du même code. 
+l'article 157 du même code. Le contribuable joint à la déclaration mentionnée à l'article 74-0 F les éléments nécessaires à
+la détermination de cette correction
 
-Lorsque la clôture du plan intervient avant l'expiration de la deuxième année, cette déclaration doit faire apparaître sous
-une rubrique spéciale le montant du gain net visé au deuxième alinéa assorti des éléments nécessaires à sa détermination.
+Lorsque la clôture du plan intervient avant l'expiration de la cinquième année, cette déclaration doit faire apparaître sous
+une rubrique spéciale le montant du gain net visé au premier alinéa assorti des éléments nécessaires à sa détermination.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150-0 A (VT)
-	  - Code général des impôts, CGI. - art. 150-0 D (V)
-	  - Code général des impôts, CGI. - art. 157 (V)
+	  - Code général des impôts, CGI. - art. 150-0 A
+	  - Code général des impôts, CGI. - art. 150-0 D
+	  - Code général des impôts, CGI. - art. 157
 
 
 ###### Article 91 quater K
@@ -3687,8 +3625,7 @@ Le contribuable qui entend bénéficier du sursis de paiement prévu au V de l'a
 fait la demande sur le formulaire mentionné au deuxième alinéa de l'article 91 undecies.
 
 Il déclare sur ce formulaire le montant des plus-values latentes, des créances trouvant leur origine dans une clause de
-complément de prix et des plus-values en report, le montant de l'impôt correspondant à ces plus-values et créances ainsi que
-les éléments nécessaires au calcul de cet impôt. 
+complément de prix et des plus-values en report ainsi que les éléments nécessaires à leur détermination 
 
 Il indique le nom ou la dénomination sociale ainsi que l'adresse de son représentant fiscal. Celui-ci s'engage, sur ce même
 document, à représenter le contribuable dans les conditions prévues au deuxième alinéa du b du 1 du V de l'article 167 bis
@@ -3705,7 +3642,7 @@ impôts des particuliers non résidents.
 
 	**Modifié par**:
 
-	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
@@ -3716,23 +3653,23 @@ impôts des particuliers non résidents.
 ###### Article 91 novodecies
 
 Dans les cas prévus au VIII de l'article 167 bis du code général des impôts, le contribuable demande le dégrèvement de
-l'impôt bénéficiant du sursis de paiement sur le formulaire prévu au deuxième alinéa de l'article 91 undecies et déposé,
-l'année suivant la réalisation de l'événement entraînant le dégrèvement, selon les modalités prévues au premier alinéa de
-l'article 91 quaterdecies. 
+l'impôt bénéficiant du sursis de paiement sur le formulaire prévu au       premier alinéa du 3 du IX de l'article 167 bis du
+code précité et déposé, l'année suivant la réalisation de l'événement entraînant le dégrèvement, selon les modalités prévues
+au premier alinéa de l'article 91 quaterdecies. 
 
 Il indique la nature et la date de l'événement à l'origine de sa demande et joint, à l'appui du formulaire, les éléments de
 calcul et les justificatifs correspondant au montant du dégrèvement demandé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies
 	  - Code général des impôts, CGI. - art. 167 bis
 
 
@@ -3740,8 +3677,8 @@ calcul et les justificatifs correspondant au montant du dégrèvement demandé.
 
 Pour l'application du dernier alinéa du 3 du IX de l'article 167 bis du code général des impôts, le contribuable demande le
 dégrèvement de l'impôt bénéficiant du sursis de paiement ou la restitution de l'impôt acquitté sur le formulaire prévu au
-deuxième alinéa de l'article 91 undecies et déposé l'année suivant la réalisation de l'événement entraînant le dégrèvement ou
-la restitution, selon les modalités prévues au premier alinéa de l'article 91 quaterdecies. 
+premier alinéa du 3 du IX de l'article 167 bis du code précité et déposé l'année suivant la réalisation de l'événement
+entraînant le dégrèvement ou la restitution, selon les modalités prévues au premier alinéa de l'article 91 quaterdecies. 
 
 Il indique la nature et la date de l'événement à l'origine de sa demande et joint, à l'appui du formulaire, les éléments de
 calcul et les justificatifs correspondant au montant du dégrèvement ou de la restitution demandé.
@@ -3756,22 +3693,23 @@ européenne pour établir que les donations de titres n'ont pas un but exclusive
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies
 	  - Code général des impôts, CGI. - art. 167 bis
 
 
 ###### Article 91 quaterdecies
 
-Dans les cas prévus aux 2 et 3 du IX de l'article 167 bis du code général des impôts, le formulaire mentionné au deuxième
-alinéa de l'article 91 undecies dûment renseigné est déposé au service des impôts des particuliers non résidents, à l'appui
-de la déclaration prévue au 1 de l'article 170 du même code, dans le délai prévu à l'article 175 de ce code. 
+Pour l'application des 2 et 3 du IX de l'article 167 bis du code général des impôts , le formulaire mentionné au premier
+alinéa du 3 du IX de l'article 167 bis du code précité dûment renseigné est déposé au service des impôts des particuliers non
+résidents, à l'appui de la déclaration prévue au 1 de l'article 170 du même code, dans le délai prévu à l'article 175 de ce
+code. 
 
 Les transferts de domicile fiscal intervenant postérieurement au transfert de domicile fiscal hors de France sont portés à la
 connaissance du service des impôts des particuliers non résidents dans les conditions prévues au 5 du IX de l'article 167 bis
@@ -3789,7 +3727,7 @@ mise en demeure, adressée, le cas échéant, à son représentant fiscal.
 
 	**Modifié par**:
 
-	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cité par**:
 
@@ -3807,13 +3745,13 @@ mise en demeure, adressée, le cas échéant, à son représentant fiscal.
 ###### Article 91 quindecies
 
 Pour l'application du 5 du VIII de l'article 167 bis du code général des impôts, l'impôt acquitté hors de France est
-imputable sur l'impôt définitif dû en application du I et des 1 et 3 du VIII de cet article sous réserve que : 
+imputable sur les prélèvements sociaux et l'impôt sur le revenu dans les conditions de ce même 5 sous réserve que : 
 
 a) L'impôt acquitté hors de France soit un impôt personnel sur le revenu assis sur les plus-values de cession de valeurs
 mobilières ou de droits sociaux ; 
 
-b) Soit calculé à partir du prix ou de la valeur d'acquisition des titres concernés retenu pour l'application du premier
-alinéa du 2 du I de l'article 167 bis précité. 
+b) Et que l'impôt mentionné au a du présent article soit calculé à partir du prix ou de la valeur d'acquisition des titres
+concernés retenu pour l'application du premier alinéa du 2 du I de l'article 167 bis précité. 
 
 Cet impôt, dont il incombe au contribuable de justifier du paiement effectif, est converti en euros sur la base du taux de
 change en vigueur à la date dudit paiement.
@@ -3826,19 +3764,34 @@ change en vigueur à la date dudit paiement.
 
 	**Modifié par**:
 
-	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 167 bis
 
 
+###### Article 91 quindecies A
+
+Lorsque les droits sociaux, valeurs, titres ou droits sur lesquels une plus-value latente a été constatée lors du transfert
+du domicile fiscal hors de France font l'objet d'une opération d'échange ou d'apport entrant dans le champ d'application des
+articles 150-0 B ou 150-0 B ter du code général des impôts, le contribuable mentionne sur le formulaire prévu au premier
+alinéa du 3 du IX de l'article 167 bis du même code, déposé l'année suivant la réalisation de cette opération, la nature et
+la date de l'opération ainsi que le nombre de titres remis et de titres reçus lors de cette opération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
+
+
 ###### Article 91 septdecies
 
 Pour l'application du deuxième alinéa du 3 du IX de l'article 167 bis du code général des impôts, le contribuable demande la
-restitution de l'impôt déjà acquitté sur le formulaire prévu au deuxième alinéa de l'article 91 undecies et déposé, l'année
-suivant la réalisation de l'événement entraînant la restitution, selon les modalités prévues au premier alinéa de l'article
-91 quaterdecies. 
+restitution de l'impôt déjà acquitté sur le formulaire prévu au       premier alinéa du 3 du IX de l'article 167 bis du code
+précité et déposé, l'année suivant la réalisation de l'événement entraînant la restitution, selon les modalités prévues au
+premier alinéa de l'article 91 quaterdecies. 
 
 Il indique la nature et la date de l'événement à l'origine de sa demande et joint, à l'appui du formulaire, les éléments de
 calcul et les justificatifs correspondant au montant de la restitution demandée.
@@ -3851,12 +3804,12 @@ calcul et les justificatifs correspondant au montant de la restitution demandée
 
 	**Modifié par**:
 
-	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quaterdecies
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 undecies
 	  - Code général des impôts, CGI. - art. 167 bis
 
 
@@ -3903,21 +3856,54 @@ par le service des impôts des particuliers non résidents.
 	  - Code général des impôts, CGI. - art. 167 bis
 
 
+###### Article 91 terdecies A
+
+Les moins-values mentionnées au premier et au dernier alinéa du 4 bis du VIII de l'article 167 bis du code général des impôts
+, imputables dans les conditions prévues au même 4 bis, font l'objet d'un suivi séparé sur le formulaire mentionné au 2 et au
+premier alinéa du 3 du IX de l'article précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 167 bis
+
+
+###### Article 91 terdecies B
+
+Le contribuable demande à bénéficier de l'option prévue à l'avant-dernier alinéa du VIII bis de l'article 167 bis du code
+général des impôts
+sur le formulaire prévu au premier alinéa du 3 du IX du même article. Ce formulaire est déposé l'année suivant la survenance
+du premier événement prévu au VII de l'article précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 167 bis
+
+
 ###### Article 91 undecies
 
 Le contribuable renseigne sur la déclaration prévue au 1 de l'article 170 du code général des impôts établie l'année suivant
 celle du transfert du domicile fiscal hors de France le montant total des plus-values latentes, des créances trouvant leur
-origine dans une clause de complément de prix et des plus-values en report, mentionnées respectivement aux premier et
-deuxième alinéas du 1 du I et au II de l'article 167 bis du code précité. 
+origine dans une clause de complément de prix et des plus-values en report, imposables en application des premier et deuxième
+alinéas du 1 du I et du II de l'article 167 bis du code précité. 
 
 Sont précisés, sur un formulaire distinct, la date du transfert du domicile fiscal hors de France, l'adresse du nouveau
 domicile fiscal, le montant des plus-values latentes, des créances trouvant leur origine dans une clause de complément de
-prix et des plus-values en report, le montant de l'impôt correspondant à ces plus-values et créances ainsi que les éléments
-nécessaires au calcul de cet impôt. 
+prix et des plus-values en report, ainsi que les éléments nécessaires à leur détermination. 
 
-Le formulaire mentionné au deuxième alinéa est déposé au service des impôts des particuliers ou au centre des impôts dont
-dépendait le domicile fiscal du contribuable en France avant son transfert, à l'appui de la déclaration mentionnée au premier
-alinéa.
+Le formulaire mentionné au deuxième alinéa est déposé au service des impôts des particuliers dont dépendait le domicile
+fiscal du contribuable en France avant son transfert, à l'appui de la déclaration mentionnée au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -3927,19 +3913,19 @@ alinéa.
 
 	**Modifié par**:
 
-	  - Décret n°2012-457 du 6 avril 2012 - art. 1
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 duodecies (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 duodecies (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 novodecies (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 octodecies (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 septdecies (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 167 bis (VT)
-	  - Code général des impôts, CGI. - art. 170 (V)
+	  - Code général des impôts, CGI. - art. 167 bis
+	  - Code général des impôts, CGI. - art. 170
 
 
 ###### Article 91 vicies
