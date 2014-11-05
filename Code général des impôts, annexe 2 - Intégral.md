@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2014-10-24
+Version Consolidée au 2014-11-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6351,35 +6351,25 @@ variation stipulées dans les marchés et les contrats conclus par la société 
 c) Le cédant s'engage vis-à-vis du cessionnaire à couvrir les appels de fonds de la société correspondant au coût de
 construction dans la mesure où les versements exigés à ce titre excéderaient le montant des versements définis au 3° du b. 
 
-Cet engagement doit être garanti par une caution solidaire donnée par un établissement de crédit ou une société de caution
-mutuelle constituée conformément aux dispositions des articles L. 512-2, L. 512-20, L. 515-4 et L.513-2 du code monétaire et
-financier. 
+Cet engagement doit être garanti par une caution solidaire donnée par un établissement de crédit, une société de financement
+ou une société de caution mutuelle constituée conformément aux dispositions des articles L. 512-2, L. 512-20, L. 515-4 et L.
+513-2 du code monétaire et financier. 
 
 A défaut de pouvoir fournir cette caution, l'intéressé doit constituer un cautionnement en numéraire dans un organisme
 habilité à cet effet et désigné dans le contrat. Le montant de ce cautionnement doit être au moins égal à 10 % du montant des
 versements restant à faire à la société tels qu'ils sont définis au 3° du b. Le cautionnement doit être maintenu jusqu'à la
-date de règlement des comptes de construction de la société. Toutefois, il peut être libéré à l'expiration d'un délai d'un an
-après l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les actions ou parts cédées, si le cessionnaire
-n'a intenté aucune action dans ce délai à l'encontre du cédant ; 
+date de règlement des comptes de construction de la société. 
+
+Toutefois, il peut être libéré à l'expiration d'un délai d'un an après l'achèvement de l'immeuble ou de la fraction
+d'immeuble représenté par les actions ou parts cédées, si le cessionnaire n'a intenté aucune action dans ce délai à
+l'encontre du cédant ; 
 
 d) La société de construction doit intervenir à l'acte de cession et justifier qu'elle bénéficie de l'engagement pris par un
-établissement de crédit ou une société de caution mutuelle constituée conformément aux dispositions des articles L. 512-2, L.
-512-20, L. 515-4 et L.513-2 du code monétaire et financier, de répondre aux appels de fonds de la société en cas de
-défaillance des associés.
-
-**Nota:**
-
-Modification effectuée en conséquence des art. 4-48°, 35 et 36 de l'ordonnance n° 2013-544 du 27 juin 2013.
+établissement de crédit, une société de financement ou une société de caution mutuelle constituée conformément aux
+dispositions des articles L. 512-2, L. 512-20, L. 515-4 et L. 513-2 du code monétaire et financier, de répondre aux appels de
+fonds de la société en cas de défaillance des associés.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1655 ter, 238 octies, 219
-	  - Code monétaire et financier - art. L512-2
-	  - Code monétaire et financier - art. L512-20
-	  - Code monétaire et financier - art. L515-13
-	  - Code monétaire et financier - art. L515-4
 
 	**Codifié par**:
 
@@ -6387,7 +6377,17 @@ Modification effectuée en conséquence des art. 4-48°, 35 et 36 de l'ordonnanc
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 2
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 12
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1655 ter
+	  - Code général des impôts, CGI. - art. 219
+	  - Code général des impôts, CGI. - art. 238 octies
+	  - Code monétaire et financier - art. L512-2
+	  - Code monétaire et financier - art. L512-20
+	  - Code monétaire et financier - art. L513-2
+	  - Code monétaire et financier - art. L515-4
 
 
 ###### Article 168
