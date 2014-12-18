@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2014-11-06
+Version Consolidée au 2014-12-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16005,6 +16005,247 @@ IV. La valeur locative des immobilisations de référence est déterminée selon
 
 (1) Arrêté du 22 mai 1974 (J.O. du 9 juin), Arrêté du 9 janvier 1976 (J.O. du 6 février).
 
+
+
+##### D : Ports de plaisance
+
+###### Article 310 N
+
+La modulation prévue au III de l'article 1501 du code général des impôts est déterminée en fonction du nombre pondéré
+d'équipements et de services offerts selon le barème suivant : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+NOMBRE PONDÉRÉ D'ÉQUIPEMENTS 
+
+et de services offerts 
+
+</th>
+      <th>
+
+MODULATION 
+
+</th>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Entre 0 et 20
+
+</td>
+      <td valign="middle" align="center">
+
+- 40 % 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Entre 21 et 40
+
+</td>
+      <td align="center" valign="middle">
+
+- 20 % 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Entre 41 et 60 
+
+</td>
+      <td align="center" valign="middle">
+
+0 % 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Entre 61 et 80 
+
+</td>
+      <td valign="middle" align="center">
+
++ 20 % 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Entre 81 et 100 
+
+</td>
+      <td align="center" valign="middle">
+
++ 40 % 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1520 du 16 décembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 P (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1501
+
+
+###### Article 310 O
+
+Pour la détermination du nombre d'équipements et services mentionnés à l'article 310 N, sont pris en compte les équipements
+et services présents dans les limites administratives portuaires suivants, chaque alinéa étant retenu pour un : 
+
+a) L'accessibilité à l'ensemble des bassins à toute heure, aux navires présentant un tirant d'eau maximum supérieur à un
+mètre ou un tirant d'air maximum supérieur à trois mètres ; 
+
+b) La mise à disposition d'un site et d'aménagements dont les profondeurs nécessaires à la navigation peuvent être maintenues
+sans nécessité de recourir à des opérations de dragage pour en garantir l'exploitation ; 
+
+c) La mise à disposition d'emplacements de stationnement de véhicules terrestres à moteur réservés aux plaisanciers ; 
+
+d) La présence de commerces ; 
+
+e) La présence d'équipements de sûreté ; 
+
+f) L'exécution de prestations de gardiennage ; 
+
+g) L'exécution de prestation de collecte des eaux usées des navires ; 
+
+h) La présence d'une station d'avitaillement ; 
+
+i) La mise à disposition d'une aire de carénage ; 
+
+j) La présence de moyens de levage d'une capacité supérieure à 30 tonnes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1520 du 16 décembre 2014 - art. 1
+
+
+###### Article 310 P
+
+Pour la détermination de la pondération mentionnée à l'article 310 N, est prise en compte, pour chaque port de plaisance, la
+capacité moyenne d'accueil d'un poste d'amarrage selon le barème suivant : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CAPACITÉ MOYENNE D'ACCUEIL D'UN POSTE 
+
+d'amarrage (en mètres) 
+
+</th>
+      <th>
+
+COEFFICIENT 
+
+de pondération 
+
+</th>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Inférieure ou égale à 8 
+
+</td>
+      <td valign="middle" align="center">
+
+2 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Supérieure à 8 et inférieure ou égale à 10 
+
+</td>
+      <td align="center" valign="middle">
+
+4 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Supérieure à 10 et inférieure ou égale à 14 
+
+</td>
+      <td align="center" valign="middle">
+
+6 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Supérieure à 14 et inférieure ou égale à 18 
+
+</td>
+      <td valign="middle" align="center">
+
+8 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Supérieure à 18 
+
+</td>
+      <td valign="middle" align="center">
+
+10 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+La capacité moyenne d'accueil d'un poste d'amarrage est égale au rapport, exprimé en mètres, entre la somme des longueurs des
+navires pouvant stationner sur chaque poste d'amarrage et la somme des postes d'amarrage présents au sein du port de
+plaisance. Ne sont pas inclus les dispositifs permanents d'amarrage par un corps mort ou directement par ancre présents dans
+la rade d'un port ainsi que les postes qui se situent dans les zones d'échouage. 
+
+Le nombre pondéré d'équipements et de services offerts mentionné à l'article 310 N est égal au produit du nombre de services
+et équipements effectivement offerts mentionnés à l'article 310 O par le coefficient de pondération prévu au tableau annexé
+au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1520 du 16 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 N
 
 
 ##### II : Évaluation des propriétés non bâties. Règles particulières à la révision quinquennale (1970-1974).
