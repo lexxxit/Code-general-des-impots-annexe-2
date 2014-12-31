@@ -3,56 +3,92 @@
 1. Les entreprises soumises au régime simplifié d'imposition des taxes sur le chiffre d'affaires qui clôturent leur exercice
 au terme d'un mois autre que celui de décembre doivent déposer, dans les trois mois qui suivent sa clôture, une déclaration
 conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre d'affaires dues au titre de
-cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies.
+cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies. 
 
 2. La déclaration annuelle, déposée dans le délai prévu au 1, détermine les acomptes ultérieurement exigibles selon la
-périodicité suivante :
+périodicité suivante : 
 
-DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Janvier, février, N
+<table>
+    <tbody>
+      <tr>
+        <th>DATE LIMITE DE DÉPÔT 
 
-ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+de la déclaration annuelle 
 
-Avril N, juillet N, octobre N, décembre N
+au cours de l'année n 
 
-DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Avril, mai, N
+</th>
+        <th>
 
-ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+ACOMPTES DES ANNÉES N 
 
-Juillet N, octobre N, décembre N, avril N + 1
+et n + 1 déterminés 
 
-DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Juin, juillet, août, N
+par cette déclaration 
 
-ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+</th>
+      </tr>
+      <tr>
+        <td align="left">
 
-Octobre N, décembre N, avril N + 1, juillet N + 1
+Janvier, février, avril, mai n 
 
-DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Septembre, octobre, N
+</td>
+        <td align="left">
 
-ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+Juillet n, décembre n 
 
-Décembre N, avril N + 1, juillet N + 1, octobre N + 1
+</td>
+      </tr>
+      <tr>
+        <td align="left">
 
-DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Novembre, décembre, N
+Juin, juillet, août, septembre, octobre n 
 
-ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+</td>
+        <td align="left">
 
-Avril N + 1, juillet N + 1, octobre N + 1, décembre N + 1
+Décembre n, juillet n + 1 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Novembre, décembre n 
+
+</td>
+        <td align="left">
+
+Juillet n + 1, décembre n + 1 </td>
+      </tr>
+    </tbody>
+  </table>
 
 Lorsque deux déclarations successives déterminent des acomptes pour des mois identiques, la nouvelle périodicité se substitue
-à l'ancienne.
+à l'ancienne. 
+
+3. Chaque versement des acomptes est accompagné d'un relevé indiquant son échéance, son montant et, le cas échéant, les
+éléments permettant de déterminer le montant du crédit de taxe déductible sur les immobilisations mentionné au III de
+l'article 242-0 C.
+
+**Nota:**
+
+Décret n° 2014-1686 du 29 décembre 2014, article 2 : les modifications prévues aux 1° à 4° de l'article 1er dudit décret
+s'appliquent aux acomptes dus à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 242 sexies, 287
-
 	**Modifié par**:
 
-	  - Décret n°2011-2026 du 29 décembre 2011 - art. 1
+	  - Décret n°2014-1686 du 29 décembre 2014 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies E (Ab)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies F (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 242 sexies (V)

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2014-12-19
+Version Consolidée au 2015-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2432,14 +2432,14 @@ I.-L'indemnité d'expropriation à retenir pour le calcul de la plus-value impos
 indemnités allouées en espèces ou en nature à un même bénéficiaire, à l'exception de celles qui ne sont pas représentatives
 de la valeur de cession des biens expropriés. 
 
-Les acomptes perçus en application de l'article L. 13-28 du code de l'expropriation pour cause d'utilité publique sont
+Les acomptes perçus en application de  l'article L. 323-3 du code de l'expropriation pour cause d'utilité publique sont
 rattachés à l'indemnité dont ils constituent un élément. 
 
-Lorsque, dans le cadre des dispositions de l'article L. 13-20 du code précité, l'indemnité a été remplacée par l'attribution
+Lorsque, dans le cadre des dispositions de l'article L. 322-12 du code précité, l'indemnité a été remplacée par l'attribution
 d'un local de réinstallation, la somme à retenir pour le calcul de la plus-value est constituée par le montant de l'indemnité
 d'expropriation, fixée au préalable. 
 
-II.-S'il est fait application de l'article L. 13-12 du code de l'expropriation pour cause d'utilité publique, le supplément
+II.-S'il est fait application de  l'article L. 321-5 du code de l'expropriation pour cause d'utilité publique, le supplément
 de valeur acquis par le reste de la propriété, tel qu'il est fixé par le juge, est considéré comme faisant partie de
 l'indemnité d'expropriation ; en cas de cession ultérieure, il est assimilé à une dépense d'amélioration pour la
 détermination de la plus-value. 
@@ -2450,15 +2450,15 @@ la propriété, elle est retranchée du prix d'acquisition.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-12 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-20 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-28 (V)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L13-12
+	  - Code de l'expropriation pour cause d'utilité publique - art. L13-20
+	  - Code de l'expropriation pour cause d'utilité publique - art. L13-28
 
 
 ###### Article 74 SD
@@ -9405,16 +9405,23 @@ désignés au 1 de l'article 1693 ter du code général des impôts, s'agissant 
 premier alinéa de l'article 1693 ter A du même code. 
 
 III. - Par dérogation aux dispositions du I, les assujettis placés sous le régime d'acomptes prévu au 3 de l'article 287 du
-code général des impôts peuvent demander un remboursement trimestriel du crédit constitué par la taxe déductible ayant grevé
-l'acquisition de biens constituant des immobilisations lorsque son montant est au moins égal à 760 €. 
+code général des impôts peuvent demander, lors du dépôt du relevé mentionné au dernier alinéa de l'article 242 sexies relatif
+à l'acompte de juillet ou d'un relevé mentionné au 3 de l'article 242 septies A, un remboursement du crédit constitué par la
+taxe déductible ayant grevé l'acquisition de biens constituant des immobilisations lorsque son montant est au moins égal à
+760 €. 
 
 Les remboursements s'effectuent dans les conditions prévues à l'article 242 septies J.
+
+**Nota:**
+
+Décret n° 2014-1686 du 29 décembre 2014, article 2 : les modifications prévues aux 1° à 4° de l'article 1er dudit décret
+s'appliquent aux acomptes dus à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 3
+	  - Décret n°2014-1686 du 29 décembre 2014 - art. 1
 
 	**Cite**:
 
@@ -10255,16 +10262,24 @@ Les entreprises placées sous le régime simplifié souscrivent chaque année, a
 mai la déclaration mentionnée au 3 de l'article 287 du code général des impôts suivant le modèle prescrit par
 l'administration. 
 
-Cette déclaration détermine les acomptes exigibles en juillet, octobre, décembre et avril suivants. Les dates de versement
-des acomptes sont fixées par arrêté. 
+Cette déclaration détermine les acomptes exigibles en juillet et décembre suivants. Les dates de versement des acomptes sont
+fixées par arrêté. 
+
+Chaque versement est accompagné d'un relevé indiquant son échéance, son montant et, le cas échéant, les éléments permettant
+de déterminer le montant du crédit de taxe déductible sur les immobilisations mentionné au III de l'article 242-0 C. 
 
 (Voir l'article 39 de l'annexe IV).
+
+**Nota:**
+
+Décret n° 2014-1686 du 29 décembre 2014, article 2 : les modifications prévues aux 1° à 4° de l'article 1er dudit décret
+s'appliquent aux acomptes dus à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-315 du 20 mars 2009 - art. 3
+	  - Décret n°2014-1686 du 29 décembre 2014 - art. 1
 
 	**Cité par**:
 
@@ -10272,6 +10287,7 @@ des acomptes sont fixées par arrêté.
 
 	**Cite**:
 
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 39
 	  - Code général des impôts, CGI. - art. 287
 
@@ -10283,59 +10299,95 @@ des acomptes sont fixées par arrêté.
 1. Les entreprises soumises au régime simplifié d'imposition des taxes sur le chiffre d'affaires qui clôturent leur exercice
 au terme d'un mois autre que celui de décembre doivent déposer, dans les trois mois qui suivent sa clôture, une déclaration
 conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre d'affaires dues au titre de
-cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies.
+cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies. 
 
 2. La déclaration annuelle, déposée dans le délai prévu au 1, détermine les acomptes ultérieurement exigibles selon la
-périodicité suivante :
+périodicité suivante : 
 
-DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Janvier, février, N
+<table>
+    <tbody>
+      <tr>
+        <th>DATE LIMITE DE DÉPÔT 
 
-ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+de la déclaration annuelle 
 
-Avril N, juillet N, octobre N, décembre N
+au cours de l'année n 
 
-DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Avril, mai, N
+</th>
+        <th>
 
-ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+ACOMPTES DES ANNÉES N 
 
-Juillet N, octobre N, décembre N, avril N + 1
+et n + 1 déterminés 
 
-DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Juin, juillet, août, N
+par cette déclaration 
 
-ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+</th>
+      </tr>
+      <tr>
+        <td align="left">
 
-Octobre N, décembre N, avril N + 1, juillet N + 1
+Janvier, février, avril, mai n 
 
-DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Septembre, octobre, N
+</td>
+        <td align="left">
 
-ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+Juillet n, décembre n 
 
-Décembre N, avril N + 1, juillet N + 1, octobre N + 1
+</td>
+      </tr>
+      <tr>
+        <td align="left">
 
-DATE LIMITE DE DEPOT DE LA DECLARATION ANNUELLE AU COURS DE L'ANNEE N : Novembre, décembre, N
+Juin, juillet, août, septembre, octobre n 
 
-ACOMPTES DES ANNEES N ET N + 1 DETERMINES PAR CETTE DECLARATION :
+</td>
+        <td align="left">
 
-Avril N + 1, juillet N + 1, octobre N + 1, décembre N + 1
+Décembre n, juillet n + 1 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Novembre, décembre n 
+
+</td>
+        <td align="left">
+
+Juillet n + 1, décembre n + 1 </td>
+      </tr>
+    </tbody>
+  </table>
 
 Lorsque deux déclarations successives déterminent des acomptes pour des mois identiques, la nouvelle périodicité se substitue
-à l'ancienne.
+à l'ancienne. 
+
+3. Chaque versement des acomptes est accompagné d'un relevé indiquant son échéance, son montant et, le cas échéant, les
+éléments permettant de déterminer le montant du crédit de taxe déductible sur les immobilisations mentionné au III de
+l'article 242-0 C.
+
+**Nota:**
+
+Décret n° 2014-1686 du 29 décembre 2014, article 2 : les modifications prévues aux 1° à 4° de l'article 1er dudit décret
+s'appliquent aux acomptes dus à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 242 sexies, 287
-
 	**Modifié par**:
 
-	  - Décret n°2011-2026 du 29 décembre 2011 - art. 1
+	  - Décret n°2014-1686 du 29 décembre 2014 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies E (Ab)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies F (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 242 sexies (V)
 
 
 ###### Article 242 septies B
@@ -10459,30 +10511,47 @@ achevée la même année, ce rapport est calculé à partir des éléments de l'
 ###### Article 242 septies J
 
 Les remboursements prévus au III de l'article 242-0 C ne peuvent être obtenus que sur présentation, avec la demande déposée
-auprès du service local des impôts au cours du mois suivant le trimestre considéré, de la ou des factures qui mentionnent
-notamment la taxe déductible sur les immobilisations à l'origine du crédit.
+auprès du service local des impôts simultanément au dépôt des relevés mentionnés aux quatre derniers alinéas du présent
+article, de la ou des factures qui mentionnent notamment la taxe déductible sur les immobilisations à l'origine du crédit. 
 
-Les remboursements trimestriels ont un caractère provisionnel :
+Les remboursements ont un caractère provisionnel : 
 
 ils donnent lieu à régularisation lors du dépôt de la déclaration annuelle prévue aux articles 242 sexies et 242 septies A.
 
+Pour les entreprises soumises au dépôt de la déclaration mentionnée au premier alinéa de l'article 242 sexies, le montant du
+remboursement est indiqué sur le relevé mentionné au dernier alinéa de cet article relatif à l'acompte de juillet et calculé
+en fonction des opérations réalisées sur la période comprise entre le 1er janvier et le 30 juin. 
+
+Pour les entreprises soumises au dépôt de la déclaration mentionnée à l'article 242 septies A, le montant du remboursement
+est indiqué sur le relevé mentionné au 3 de l'article 242 septies A relatif aux acomptes de : 
+
+1° Juillet. Il est calculé en fonction des opérations réalisées sur la période d'imposition en cours au 30 juin comprise
+entre le 1er décembre de l'année précédente ou la date d'ouverture de la période d'imposition si elle est intervenue
+postérieurement au 1er décembre de l'année précédente, et le 30 juin de l'année en cours ; 
+
+2° Décembre. Il est calculé en fonction des opérations réalisées sur la période d'imposition en cours au 30 novembre comprise
+entre le 1er juillet ou la date d'ouverture de la période d'imposition si elle est intervenue postérieurement au 1er juillet,
+et le 30 novembre.
+
+**Nota:**
+
+Décret n° 2014-1686 du 29 décembre 2014, article 2 : les modifications prévues aux 1° à 4° de l'article 1er dudit décret
+s'appliquent aux acomptes dus à compter du 1er janvier 2015.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 242-0 C, 242 sexies, 242 septies A
 
 	**Modifié par**:
 
-	  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
+	  - Décret n°2014-1686 du 29 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies A (V)
+	  - Code général des impôts, CGI. - art. 242 sexies (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 242 septies L
@@ -11451,52 +11520,63 @@ titre d'activités portant sur lesdits animaux, la facture doit expressément po
 
 ###### Article 267 quater F
 
-I. - Le poids des produits mentionné au II de l'article 302 bis WA du code général des impôts s'entend d'un poids net exprimé
-en kilogrammes.
+I.-Le poids des produits mentionné au II de l'article 302 bis WA du code général des impôts s'entend d'un poids net exprimé
+en kilogrammes. 
 
-II. - Les espèces mentionnées au 3 du V de l'article 302 bis WA du code général des impôts sont les suivantes :
+II.-Les espèces mentionnées au 3 du V de l'article 302 bis WA du code général des impôts sont les suivantes : 
 
-a. harengs de l'espèce Clupea harengus ;
+a. harengs de l'espèce Clupea harengus ; 
 
-b. sardines de l'espèce Sardina pilchardus ;
+b. sardines de l'espèce Sardina pilchardus ; 
 
-c. maquereaux de l'espèce Scomber scombrus ;
+c. maquereaux de l'espèce Scomber scombrus ; 
 
-d. maquereaux de l'espèce Scomber japonicus ;
+d. maquereaux de l'espèce Scomber japonicus ; 
 
-e. chinchards de l'espèce Trachurus spp ;
+e. chinchards de l'espèce Trachurus spp ; 
 
-f. anchois de l'espèce Engraulis spp ;
+f. anchois de l'espèce Engraulis spp ; 
 
-g. picarels de l'espèce Maena smaris ;
+g. picarels de l'espèce Maena smaris ; 
 
-h. Sprat de l'espèce Sprattus sprattus.
+h. Sprat de l'espèce Sprattus sprattus. 
 
 Pour l'application de ces dispositions, un lot s'entend de la quantité de poissons d'une ou plusieurs des espèces
-susmentionnées, déchargée du même navire, et achetée ou réceptionnée par la même personne.
+susmentionnées, déchargée du même navire, et achetée ou réceptionnée par la même personne. 
 
-III. - Les personnes redevables de la redevance sanitaire de première mise sur le marché des produits de la pêche ou de
-l'aquaculture doivent déposer mensuellement une déclaration conforme au modèle prescrit par la direction générale des
-finances publiques et comportant les indications nécessaires à l'assiette et à la perception de cette redevance.
+III.-Les personnes redevables de la redevance sanitaire de première mise sur le marché des produits de la pêche ou de
+l'aquaculture doivent la déclarer et l'acquitter avec le dépôt : 
 
-Cette déclaration est souscrite auprès du service des impôts dont relève le redevable pour le dépôt de ses déclarations de
-taxes sur le chiffre d'affaires. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les
-opérations imposables ont été réalisées. La redevance est acquittée dans le même délai. Toutefois, lorsque le montant annuel
-de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 €, il est admis que les redevables déposent leurs
-déclarations et s'acquittent de la redevance avant le 25 du mois suivant chaque trimestre civil.
+1° De chaque déclaration mensuelle de taxe sur la valeur ajoutée pour les redevables qui acquittent cette taxe selon les
+modalités prévues au premier alinéa du 2 de l'article 287 du code général des impôts ; 
 
-IV. - Les saisies pratiquées par les services d'inspection sanitaire ainsi que les exportations ou les expéditions vers les
-Etats membres de la Communauté européenne ne donnent pas lieu au remboursement de la redevance.
+2° De chaque déclaration trimestrielle de taxe sur la valeur ajoutée pour les redevables qui acquittent cette taxe selon les
+modalités prévues au dernier alinéa du 2 du même article 287 ; 
 
-V. - La perception de la redevance de première mise sur le marché ne fait pas obstacle à la perception de la redevance
+3° De la déclaration mentionnée au 3 du même article 287 pour les redevables placés sous le régime simplifié d'imposition
+prévu à l'article 302 septies A du même code. 
+
+IV.-Les saisies pratiquées par les services d'inspection sanitaire ainsi que les exportations ou les expéditions vers les
+Etats membres de l'Union européenne ne donnent pas lieu au remboursement de la redevance. 
+
+V.-La perception de la redevance de première mise sur le marché ne fait pas obstacle à la perception de la redevance
 sanitaire de transformation, prévue à l'article 302 bis WB du code général des impôts, en cas d'opérations de préparation ou
 de transformation ultérieures sur les produits.
+
+**Nota:**
+
+Décret n° 2014-1686 du 29 décembre 2014, article 2 : les modifications prévues aux 5° à 7° de l'article 1er dudit décret
+s'appliquent aux déclarations portant sur une période d'imposition postérieure au 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 302 bis WA, 302 bis WB
+	  - Code général des impôts, CGI. - art. 287 (V)
+	  - Code général des impôts, CGI. - art. 302 bis WA (V)
+	  - Code général des impôts, CGI. - art. 302 bis WB (V)
+	  - Code général des impôts, CGI. - art. 302 septies A (V)
 
 	**Codifié par**:
 
@@ -11504,7 +11584,7 @@ de transformation ultérieures sur les produits.
 
 	**Modifié par**:
 
-	  - Décret n°2011-168 du 10 février 2011 - art. 1
+	  - Décret n°2014-1686 du 29 décembre 2014 - art. 1
 
 	**Cité par**:
 
@@ -11545,28 +11625,34 @@ transformation des produits de la pêche ou de l'aquaculture.
 ###### Article 267 quater H
 
 I.-Les personnes redevables de la redevance sanitaire pour le contrôle de certaines substances et de leurs résidus prévue à
-l'article 302 bis WC du code général des impôts doivent déposer mensuellement une déclaration conforme au modèle prescrit par
-la direction générale des finances publiques et comportant les indications nécessaires à l'assiette et à la perception de la
-redevance. 
+l'article 302 bis WC du code général des impôts doivent la déclarer et l'acquitter avec le dépôt : 
 
-Cette déclaration est souscrite auprès du service des impôts dont relève le redevable pour le dépôt de ses déclarations de
-taxes sur le chiffre d'affaires. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les
-opérations imposables ont été réalisées. La redevance est acquittée dans le même délai. Toutefois, lorsque le montant annuel
-de l'ensemble des redevances sanitaires exigibles est inférieur à 1 830 €, il est admis que les redevables déposent leurs
-déclarations et s'acquittent de la redevance avant le 25 du mois suivant chaque trimestre civil. 
+1° De chaque déclaration mensuelle de taxe sur la valeur ajoutée pour les redevables qui acquittent cette taxe selon les
+modalités prévues au premier alinéa du 2 de l'article 287 du code général des impôts ; 
+
+2° De chaque déclaration trimestrielle de taxe sur la valeur ajoutée pour les redevables qui acquittent cette taxe selon les
+modalités prévues au dernier alinéa du 2 du même article 287 ; 
+
+3° De la déclaration mentionnée au 3 du même article 287 pour les redevables placés sous le régime simplifié d'imposition
+prévu à l'article 302 septies A du même code.
 
 II.-(sans objet) 
 
 III.-(sans objet) 
 
 IV.-Les saisies pratiquées par les services d'inspection sanitaire et les exportations ou les expéditions vers les Etats
-membres de la Communauté européenne ne donnent pas lieu au remboursement de la redevance.
+membres de l'Union européenne ne donnent pas lieu au remboursement de la redevance.
+
+**Nota:**
+
+Décret n° 2014-1686 du 29 décembre 2014, article 2 : les modifications prévues aux 5° à 7° de l'article 1er dudit décret
+s'appliquent aux déclarations portant sur une période d'imposition postérieure au 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 16
+	  - Décret n°2014-1686 du 29 décembre 2014 - art. 1
 
 	**Cite**:
 
@@ -20745,44 +20831,64 @@ Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la lo
 
 ###### Article 384 septies-0 A
 
-La commission des infractions fiscales mentionnée à l'article 1741 A du code général des impôts est composée de douze membres
-titulaires et de douze membres suppléants.
+Sont élus, dans les mêmes conditions que les membres titulaires élus de la commission des infractions fiscales mentionnés aux
+1° à 3° de l'article 1741 A du code général des impôts, douze membres suppléants : 
 
-Ces membres sont des conseillers d'Etat et des conseillers maîtres à la Cour des comptes, en activité ou à la retraite. Le
-nombre des membres titulaires en activité ne peut être inférieur à six.
+1° Quatre conseillers d'Etat, en activité ou honoraires ; 
 
-Le président de la commission et son suppléant sont choisis parmi les conseillers d'Etat membres de la commission.
+2° Quatre conseillers maîtres à la Cour des comptes, en activité ou honoraires ; 
+
+3° Quatre magistrats honoraires à la Cour de cassation. 
+
+La liste des membres de la commission ainsi que chacune de ses modifications sont publiées au Journal officiel de la
+République française.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2014-1636 du 26 décembre 2014 - art. 1
+
 	**Cite**:
 
-	  - CGI 1741 A
+	  - Code général des impôts, CGI. - art. 1741 A (V)
 
 
 ###### Article 384 septies-0 B
 
-I.-La commission comprend quatre sections. Chaque section est composée de trois membres.
+I.-La commission comprend quatre sections. Chaque section est composée de sept membres titulaires : 
+
+1° Deux conseillers d'Etat, en activité ou honoraires ; 
+
+2° Deux conseillers maîtres à la Cour des comptes, en activité ou honoraires ; 
+
+3° Deux magistrats honoraires à la Cour de cassation ; 
+
+4° Une des personnalités qualifiées mentionnées aux 4° et 5° de l'article 1741 A du code général des impôts. 
 
 L'une des sections est présidée par le président de la commission. Chacune des trois autres est présidée par un de ses
-membres, qui a la qualité de représentant du président de la commission. Toutefois, le président de la commission peut
-décider de présider certaines séances de ces sections. Dans ce cas, la section peut comporter quatre membres, y compris le
-président. 
+membres mentionnés aux 1° à 3° de l'article 1741 A du code général des impôts, qui a la qualité de représentant du président
+de la commission. Toutefois, le président de la commission peut décider de présider certaines séances de ces sections. Dans
+ce cas, la section peut comporter huit membres, y compris le président. 
+
+Le président de la commission répartit les membres titulaires entre les sections. Il désigne son suppléant parmi les
+conseillers d'Etat membres titulaires ou suppléants de la commission. Il désigne également ses trois représentants et leurs
+suppléants issus de la même juridiction que ces derniers. 
 
 En cas d'empêchement d'un représentant, celui-ci est remplacé par son suppléant. En cas d'empêchement du président de la
 commission, la présidence de la section dont il a la charge est assurée par son suppléant. Celui-ci peut aussi présider une
 section à la demande du président empêché. 
 
-La répartition des membres titulaires et suppléants entre les sections est établie par arrêté du ministre du budget. Les
-trois représentants du président et leurs suppléants sont désignés par ce même arrêté qui est pris sur proposition du
-président de la commission. 
+En cas d'empêchement de l'un des autres membres de la commission mentionnés aux 1° à 3° de l'article 1741 A du code général
+des impôts, le président de la commission désigne, pour chaque séance de la commission ou de la section, son remplaçant parmi
+les membres suppléants issus de la même juridiction. 
 
 II.-En vue d'assurer la continuité de l'activité de la commission, le président de celle-ci ou, en cas d'absence ou
 d'empêchement, son suppléant peut constituer une section temporaire, pour une durée qui ne peut excéder trois mois. Il la
-préside et désigne deux autres membres de la section, ainsi que leurs suppléants, parmi les membres de la commission. En cas
-d'absence ou d'empêchement du président de la commission et de son suppléant, la présidence de la section temporaire est
-assurée par l'un des représentants du président, présidant une section, ou son suppléant, selon l'ordre arrêté par le
-président de la commission ou son suppléant. 
+préside et désigne six autres membres de la section, ainsi que, le cas échéant, leurs suppléants, parmi les membres de la
+commission. En cas d'absence ou d'empêchement du président de la commission et de son suppléant, la présidence de la section
+temporaire est assurée par l'un des représentants du président, présidant une section, ou son suppléant, selon l'ordre arrêté
+par le président de la commission ou son suppléant. 
 
 Lorsqu'un représentant du président, présidant une section, ou son suppléant, assure la présidence de la section temporaire,
 il exerce, pour le fonctionnement de celle-ci, les attributions dévolues au président de la commission par les articles 384
@@ -20793,12 +20899,13 @@ fiscales.
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+	  - Décret n°2014-1636 du 26 décembre 2014 - art. 2
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 septies-0 C
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 septies-0 D
+	  - Code général des impôts, CGI. - art. 1741 A (V)
 	  - Livre des procédures fiscales - art. R*228-3
 	  - Livre des procédures fiscales - art. R*228-6
 
