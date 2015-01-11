@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-01-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9661,13 +9661,22 @@ l'article 291 du même code ;
 b. les opérations pour lesquelles la taxe est acquittée par l'acquéreur, le destinataire ou le preneur mentionnées au second
 alinéa du 1 et aux 2, 2 ter, 2 quinquies, 2 sexies de l'article 283 du code général des impôts ; 
 
-c. les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 277 A du code général des impôts.
+c. les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 277 A du code général des
+impôts ;
+
+d. Les prestations de services mentionnées à l'article 259 D du code général des impôts lorsqu'elles sont déclarées selon le
+régime particulier prévu aux articles 369 bis à 369 duodecies de la directive 2006/112/ CE du 28 novembre 2006.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux demandes de remboursement de la taxe sur la valeur ajoutée présentées au titre des périodes
+postérieures au 1er janvier 2015 .
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+	  - Décret n°2015-19 du 9 janvier 2015 - art. 1
 
 	**Cite**:
 
@@ -10113,14 +10122,19 @@ frais bancaires sont à sa charge.
 ###### Article 242-0 Z sexies
 
 La taxe sur la valeur ajoutée n'est remboursée aux assujettis établis hors de l'Union européenne en application des articles
-242-0 Z quater à 242-0 Z decies que si elle est au moins égale à une somme de 25 € ou 200 €, selon que le remboursement est
+242-0 Z quater à 242-0 Z decies que si elle est au moins égale à une somme de 50 € ou 400 €, selon que le remboursement est
 demandé au titre d'une année ou d'un trimestre.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux demandes de remboursement de la taxe sur la valeur ajoutée présentées au titre des périodes
+postérieures au 1er janvier 2015 .
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-413 du 27 avril 2010 - art. 1
+	  - Décret n°2015-19 du 9 janvier 2015 - art. 1
 
 	**Cite**:
 
