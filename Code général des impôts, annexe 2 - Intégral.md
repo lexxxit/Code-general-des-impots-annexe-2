@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-01-19
+Version Consolidée au 2015-02-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18055,7 +18055,10 @@ Ils ne peuvent agir en qualité de mandataires de leurs membres.
 
 Toutefois, les centres doivent recevoir mandat de leurs membres en vue de la télétransmission des déclarations de résultats,
 de leurs annexes et des autres documents les accompagnant selon la procédure prévue par le système de transfert des données
-fiscales et comptables.
+fiscales et comptables. 
+
+Les centres peuvent fournir à des entreprises non adhérentes des services de dématérialisation et de télétransmission de
+leurs déclarations fiscales, à l'occasion de leur première déclaration par cette voie.
 
 **Liens relatifs à cet article**
 
@@ -18066,7 +18069,7 @@ fiscales et comptables.
 
 	**Modifié par**:
 
-	  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
+	  - Décret n°2015-185 du 17 février 2015 - art. 1
 
 	**Cite**:
 
@@ -18672,7 +18675,10 @@ Elles ne peuvent agir en qualité de mandataires de leurs membres.
 
 Toutefois, les associations doivent recevoir mandat de leurs membres en vue de la télétransmission des déclarations de
 résultats, de leurs annexes et des autres documents les accompagnant selon la procédure prévue par le système de transfert
-des données fiscales et comptables.
+des données fiscales et comptables. 
+
+Les associations peuvent fournir à des professionnels non adhérents des services de dématérialisation et de télétransmission
+de leurs déclarations fiscales, à l'occasion de leur première déclaration par cette voie.
 
 **Liens relatifs à cet article**
 
@@ -18682,11 +18688,12 @@ des données fiscales et comptables.
 
 	**Modifié par**:
 
-	  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
+	  - Décret n°2015-185 du 17 février 2015 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1649 quater F
+	  - Code du travail - art. L2111-1
 
 
 ###### Article 371 N
