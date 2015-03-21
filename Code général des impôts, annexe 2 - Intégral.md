@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-02-20
+Version Consolidée au 2015-03-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16894,7 +16894,7 @@ accessoires à l'exploitation minière proprement dite.
 La fraction de 10 % est répartie entre les communes intéressées au prorata de la partie du tonnage extrait de leurs
 territoires respectifs au cours de l'année écoulée. Toutefois, la fraction de 10 % de la redevance frappant les charbons
 extraits sous territoire étranger et amenés au jour par des puits et installations sis en France est répartie par le conseil
-général entre les communes qu'il désigne et selon les modalités qu'il choisit.
+départemental entre les communes qu'il désigne et selon les modalités qu'il choisit.
 
 La fraction de 55 % forme pour l'ensemble de la France un fonds commun qui est réparti chaque année entre les communes où se
 trouvent domiciliés les ouvriers ou employés occupés à l'exploitation des mines et aux industries annexes, et au prorata du
@@ -16908,13 +16908,13 @@ totale communale.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 sexies (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
 
 
 ###### Article 313
@@ -16947,7 +16947,7 @@ Toutefois, aucune commune ne pourra percevoir annuellement à ce titre une attri
 autres recettes ordinaires pour les trois dernières années ; 
 
 b) Les sommes éventuellement retenues au titre du quatrième alinéa et les 70 % de la seconde moitié sont répartis par le
-conseil général entre les communes qu'il désigne et selon les modalités qu'il choisit. 
+conseil départemental entre les communes qu'il désigne et selon les modalités qu'il choisit. 
 
 Si les hydrocarbures ont été extraits sur le territoire de plusieurs départements, la part de l'ensemble des communes de
 chaque département dans les recettes visées au b sera fixée au prorata du tonnage extrait sur le territoire de chacun des
@@ -16959,13 +16959,9 @@ départements producteurs.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
 
 	**Cite**:
 
