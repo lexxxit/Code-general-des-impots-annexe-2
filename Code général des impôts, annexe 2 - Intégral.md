@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-04-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13103,6 +13103,37 @@ des prix, due par le fournisseur à chacun des débitants consignataires.
 
 
 
+###### Article 285 A
+
+La personne mentionnée à l'article 302 F ter du code général des impôts, exploitant un comptoir de vente ou une boutique de
+vente à bord et qui souhaite vendre des tabacs manufacturés, dépose auprès du service des douanes et droits indirects dans le
+ressort territorial duquel est situé le comptoir de vente ou la boutique à bord, une demande d'agrément de statut d'acheteur-
+revendeur prévu à l'article 568 du même code au moyen d'un formulaire dont le modèle est fixé par arrêté du ministre chargé
+du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 F ter
+
+
+###### Article 285 B
+
+Chaque unité de conditionnement de tabacs manufacturés vendus dans les  comptoirs de vente, dans les boutiques de vente à
+bord ou destinés à  l'avitaillement est revêtue de la mention : “ exportation ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+
 ##### II : Régime fiscal
 
 ###### Article 286
@@ -13838,6 +13869,242 @@ Modification effectuée en conséquence de l'article 55 de la loi n° 2012-1510 
 	  - Code général des impôts, CGI. - art. 302 G
 
 
+#### Chapitre II ter : Comptoirs de vente, boutiques de vente à bord, avitaillement
+
+
+##### Section I : Dispositions générales
+
+###### Article 286 O
+
+La personne mentionnée à l'article 302 F ter du code général des impôts, qui exploite un comptoir de vente ou une boutique de
+vente à bord, précise dans sa déclaration les modalités d'ouverture et de fonctionnement de son comptoir de vente ou de sa
+boutique de vente à bord. Cette déclaration est adressée au service des douanes et droits indirects dans le ressort
+territorial duquel est situé le comptoir de vente ou la boutique de vente à bord. Le modèle de cette déclaration est fixé par
+arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 W (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 BA (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 F ter
+
+
+###### Article 286 P
+
+I.-Les alcools, boissons alcooliques et tabacs manufacturés destinés à être livrés à des comptoirs de vente, à des boutiques
+de vente à bord et dans le cadre de l'avitaillement sont détenus en suspension de droits d'accises dans un entrepôt fiscal
+suspensif. 
+
+II.-Les alcools, boissons alcooliques et tabacs manufacturés destinés aux comptoirs de vente circulent dans des contenants
+scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport et sous couvert du
+document d'accompagnement prévu à l'article 302 M ou 302 M ter du code général des impôts. 
+
+Les alcools, boissons alcooliques et tabacs manufacturés destinés à la vente à bord ou à l'avitaillement circulent dans des
+contenants scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport et sont
+accompagnés d'un document dénommé “ document d'avitaillement et livraisons à emporter ” dont le modèle est fixé par arrêté du
+ministre chargé du budget. 
+
+III.-Lorsque les produits sont chargés à bord, le responsable à bord de la boutique de vente ou le responsable de
+l'avitaillement à bord du navire ou de l'aéronef signe le document mentionné au II et prend livraison des produits et
+quantités indiqués sur ledit document. 
+
+Dans le cas où des produits ont vocation à être vendus dans une boutique de vente à bord et à servir à l'avitaillement du
+navire ou de l'aéronef, deux documents d'avitaillement et livraisons à emporter distincts doivent être fournis en fonction de
+leur usage. 
+
+Les produits en suspension de droits d'accises destinés à l'avitaillement et à la vente à bord sont stockés de façon
+sécurisée. 
+
+IV.-Les alcools, boissons alcooliques et tabacs manufacturés qui ne sont pas consommés à bord des navires et aéronefs ou qui
+ne sont pas vendus dans les boutiques de vente à bord réintègrent l'entrepôt fiscal suspensif ou à défaut peuvent être mis à
+la consommation sur le territoire métropolitain.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 S (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 T (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 U (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 BB (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 302 M ter
+
+
+##### Section II : Dispositions propres aux comptoirs de vente
+
+###### Article 286 Q
+
+L'entrepositaire agréé qui gère un comptoir de vente tient une comptabilité matières permettant de distinguer les entrées et
+sorties dans chacun des lieux de vente du comptoir de vente et en reprenant les références du document d'accompagnement prévu
+à l'article 302 M ou 302 M ter du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 302 M ter
+
+
+##### Section III : Dispositions propres aux boutiques de vente à bord
+
+
+###### Article 286 R
+
+Les alcools, boissons alcooliques et tabacs manufacturés destinés à la vente dans les boutiques de vente à bord des navires
+et aéronefs sont stockés, de façon sécurisée, séparément de ceux destinés à l'avitaillement. Ils font l'objet de deux
+comptabilités matières distinctes.
+
+Un journal des ventes est tenu pour chaque boutique de vente à bord. Ce journal des ventes indique si les ventes ont été
+réalisées en exonération des droits d'accises ou en droits acquittés.
+
+Un état des stocks des produits mentionnés ci-dessus est également établi à la fin de chaque navigation et tenu à la
+disposition du service des douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+
+###### Article 286 S
+
+Si les alcools, boissons alcooliques et tabacs manufacturés sont débarqués à l'issue d'une navigation maritime ou aérienne,
+ils réintègrent, dans leurs contenants scellés, l'entrepôt fiscal suspensif. Ils sont accompagnés d'un document
+d'avitaillement et livraisons à emporter prévu à l'article 286 P. 
+
+Lorsque les produits débarqués sont destinés à des boutiques de vente à bord, le document mentionné à l'alinéa précédent
+comporte la mention du numéro du document d'avitaillement et livraisons à emporter ayant accompagné la livraison à bord
+initiale des produits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 P
+
+
+##### Section IV : Dispositions propres à l'avitaillement
+
+###### Article 286 T
+
+I.-Un état des stocks des produits non consommés à bord au cours de la navigation est dressé par la personne responsable des
+provisions de bord. Cet état des stocks est tenu à la disposition du service des douanes et droits indirects. 
+
+II.-Lors du retour du navire ou de l'aéronef sur le territoire métropolitain, les alcools, boissons alcooliques et tabacs
+manufacturés sont débarqués et réintègrent soit l'entrepôt fiscal suspensif, soit la zone de mise à bord mentionnée à
+l'article 286 V. Ils sont accompagnés d'un document d'avitaillement et livraisons à emporter prévu à l'article 286 P. 
+
+Pour l'avitaillement des aéronefs, le document comporte la référence du ou des documents d'avitaillement et livraisons à
+emporter ayant accompagné la livraison à bord initiale des produits. 
+
+Par dérogation au premier alinéa du présent II, les alcools, boissons alcooliques et tabacs manufacturés peuvent ne pas être
+débarqués des navires, à la condition d'être stockés dans un local fermé à clé et accessible uniquement au personnel désigné
+par le responsable des provisions de bord. 
+
+III.-A la sortie de l'entrepôt fiscal suspensif et, à l'issue de chaque navigation, avant la réintégration des produits en
+entrepôt ou dans la zone de mise à bord, les produits destinés à l'avitaillement du navire ou de l'aéronef sont placés dans
+des contenants scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 P
+
+
+###### Article 286 U
+
+Lors de la sortie de l'entrepôt fiscal suspensif à destination du navire ou de l'aéronef, les alcools, boissons alcooliques
+et tabacs manufacturés destinés à l'avitaillement sont accompagnés d'un document d'avitaillement et livraisons à emporter
+prévu à l'article 286 P. 
+
+Ce document indique le nombre de passagers et de membres d'équipage ainsi que la durée de la navigation. 
+
+A la sortie de l'entrepôt fiscal suspensif, les produits destinés à l'avitaillement sont placés dans des contenants scellés
+ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 P
+
+
+###### Article 286 V
+
+Lors de la sortie de l'entrepôt fiscal suspensif et avant mise à bord d'un aéronef, les alcools et boissons alcooliques
+destinés à l'avitaillement des aéronefs peuvent être stockés dans une zone de mise à bord.
+
+La zone de mise à bord est une zone située dans l'enceinte aéroportuaire, contiguë à l'entrepôt suspensif des droits
+d'accises et où ces produits sont placés pour être conditionnés avant embarquement.
+
+La zone de mise à bord reçoit les produits destinés à être embarqués à bord des aéronefs ainsi que les produits qui en sont
+débarqués.
+
+La zone de mise à bord est soumise aux mêmes règles de stockage sécurisé des produits que celles applicables aux entrepôts
+suspensifs des droits d'accises.
+
+Après chaque navigation aérienne, lorsque les produits réintègrent la zone de mise à bord de l'avitailleur, ils sont
+obligatoirement embarqués à nouveau pour l'avitaillement de l'aéronef.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+
+###### Article 286 W
+
+L'inobservation des dispositions des articles 286 O à 286 V peut entraîner, pour les acheteurs-revendeurs de tabac
+manufacturé ainsi que pour les entrepositaires agréés, la suspension ou le retrait de leur agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 O
+
+
 #### Chapitre III : Dispositions communes à l'ensemble des contributions indirectes
 
 ##### I : Frais de surveillance
@@ -14058,7 +14325,10 @@ fermentées, produits intermédiaires et alcools, prévue au VI de l'article 164
 54° Révocation de l'autorisation donnée aux usagers de matériels ou de logiciels mentionnée au I de l'article 164 AU de
 l'annexe IV, prévue à l'article 164 AW de la même annexe ; 
 
-55° Décisions relatives aux réclamations contentieuses, prévues à l'article R. * 198-10 du livre des procédures fiscales.
+55° Décisions relatives aux réclamations contentieuses, prévues à l'article R. * 198-10 du livre des procédures fiscales ; 
+
+56° Délivrance et retrait de l'agrément d'acheteur-revendeur de tabacs manufacturés prévu à l'article 568 du code général des
+impôts.
 
 **Liens relatifs à cet article**
 
@@ -14068,48 +14338,49 @@ l'annexe IV, prévue à l'article 164 AW de la même annexe ;
 	  - Décret n°2007-906 du 15 mai 2007 - art. 10
 	  - Décret n°2007-906 du 15 mai 2007 - art. 16
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 N (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 I (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 N
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 I
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 C
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 D (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 E (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 D
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 E
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 B
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AA (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AA
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 P
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 207
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 128
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 129 (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 151 (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 129
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 151
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 C
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 C (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 C
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 C
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 I (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 I
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Z
 	  - Code général des impôts, CGI. - art. 302 D
-	  - Code général des impôts, CGI. - art. 302 D bis (V)
-	  - Code général des impôts, CGI. - art. 302 G (V)
-	  - Code général des impôts, CGI. - art. 302 H ter (V)
-	  - Code général des impôts, CGI. - art. 302 J (V)
-	  - Code général des impôts, CGI. - art. 302 K (V)
+	  - Code général des impôts, CGI. - art. 302 D bis
+	  - Code général des impôts, CGI. - art. 302 G
+	  - Code général des impôts, CGI. - art. 302 H ter
+	  - Code général des impôts, CGI. - art. 302 J
+	  - Code général des impôts, CGI. - art. 302 K
 	  - Code général des impôts, CGI. - art. 306
-	  - Code général des impôts, CGI. - art. 309 (V)
-	  - Code général des impôts, CGI. - art. 311 bis (V)
-	  - Code général des impôts, CGI. - art. 327 (V)
+	  - Code général des impôts, CGI. - art. 309
+	  - Code général des impôts, CGI. - art. 311 bis
+	  - Code général des impôts, CGI. - art. 327
 	  - Code général des impôts, CGI. - art. 425
-	  - Code général des impôts, CGI. - art. 502 (V)
+	  - Code général des impôts, CGI. - art. 502
+	  - Code général des impôts, CGI. - art. 568
 	  - Livre des procédures fiscales - art. R*198-10
 
 	**Modifié par**:
 
-	  - Décret n°2012-1075 du 21 septembre 2012 - art. 5
+	  - Décret n°2015-184 du 17 février 2015 - art. 1
 
 
 ### Titre IV : Enregistrement, publicité foncière, Impôt de solidarité sur la fortune, timbre
