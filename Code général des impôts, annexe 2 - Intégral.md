@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-04-01
+Version Consolidée au 2015-04-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8247,6 +8247,104 @@ sont définies par l'article R. 318-17 du code de la construction et de l'habita
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2006
+
+
+##### X : Déclaration des investissements réalisés outre-mer et mise en concurrence des intermédiaires en défiscalisation. 
+
+
+
+###### Article 171 BK
+
+I.-Les entreprises mentionnées au premier alinéa de l'article 242 septies du code général des impôts souscrivent une
+déclaration annuelle, conforme à un modèle établi par l'administration, relative aux opérations qu'elles réalisent en
+application des dispositions mentionnées à ce même alinéa. 
+
+Cette déclaration comporte : 
+
+1. Les informations suivantes relatives à l'entreprise déclarante : 
+
+a) Sa dénomination et sa forme juridique ; 
+
+b) L'adresse de son siège social ; 
+
+c) Son numéro d'identité tel que défini au premier alinéa de l'article R. 123-221 du code de commerce. 
+
+2. Pour chaque opération ouvrant droit à l'un des avantages fiscaux mentionnés au premier alinéa de l'article 242 septies
+précité : 
+
+a) Les éléments mentionnés au neuvième alinéa du même article ; 
+
+b) La référence à l'article du code général des impôts sur le fondement duquel l'opération est réalisée ; 
+
+c) La dénomination et l'adresse de l'exploitant ainsi que son numéro d'identité tel que défini au premier alinéa de l'article
+R. 123-221 du code de commerce ; 
+
+d) Le cas échéant, si l'investissement consiste en la souscription au capital d'une société, la dénomination de celle-ci,
+l'adresse de son siège social et son numéro d'identité tel que défini au premier alinéa de l'article R. 123-221 du code de
+commerce. 
+
+II.-Pour les entreprises dont le siège social est situé en métropole ou dans les départements d'outre-mer, la déclaration
+mentionnée au I est déposée, selon le cas, auprès du service des impôts des entreprises dont elles relèvent ou de la
+direction des grandes entreprises de la direction générale des finances publiques. Pour les autres entreprises, la
+déclaration est déposée auprès du service des impôts des non-résidents de la direction générale des finances publiques. 
+
+III.-La déclaration mentionnée au I est déposée dans le même délai que celui prévu pour le dépôt de la déclaration de
+résultats souscrite au titre : 
+
+a) Soit de l'exercice au titre duquel les investissements mentionnés au premier alinéa de l'article 242 septies précité
+ouvrent droit aux avantages fiscaux ; 
+
+b) Soit, lorsque l'investissement porte sur un bien immobilier, de l'exercice au cours duquel l'immeuble est achevé. 
+
+IV.-La charte de déontologie mentionnée au huitième alinéa de l'article 242 septies précité est annexée au présent article.
+
+**Nota:**
+
+Voir l'annexe au décret n° 2015-149 du 10 février 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-149 du 10 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. R123-221 (V)
+	  - Code général des impôts, CGI. - art. 242 septies (V)
+
+
+###### Article 171 BL
+
+I.-Dans le cas où ne seraient applicables ni les dispositions de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés
+passés par certaines personnes publiques ou privées non soumises au code des marchés publics, ni les dispositions de droit
+local applicables en matière de commande publique dans les collectivités d'outre-mer, la mise en concurrence prévue par le
+onzième alinéa de l'article 242 septies du code général des impôts est effectuée conformément aux dispositions du II. 
+
+II.-Le contrat conclu avec une entreprise mentionnée au premier alinéa de l'article 242 septies précité est passé selon des
+modalités librement définies par la société exploitant l'investissement mentionnée au onzième alinéa de l'article 242 septies
+précité, dans le respect des principes de transparence et d'égalité de traitement des candidats. 
+
+La société exploitant l'investissement publie un avis au Bulletin officiel des annonces des marchés publics. Cet avis précise
+notamment les caractéristiques essentielles du contrat et la date limite de présentation des candidatures. 
+
+Le choix du cocontractant est effectué en application de critères objectifs et non discriminatoires indiqués dans l'avis
+susmentionné ou dans les documents de la consultation. 
+
+Lorsque, après une première mise en concurrence, aucune offre n'a été déposée, l'exploitant peut conclure un contrat avec une
+entreprise mentionnée au premier alinéa de l'article 242 septies précité sans nouvelle mise en concurrence, sous réserve que
+les caractéristiques initiales du contrat n'aient pas été substantiellement modifiées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005
+	  - Code général des impôts, CGI. - art. 242 septies
+
+	**Créé par**:
+
+	  - Décret n°2015-149 du 10 février 2015 - art. 1
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
