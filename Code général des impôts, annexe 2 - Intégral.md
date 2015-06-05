@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-05-15
+Version Consolidée au 2015-06-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2079,22 +2079,22 @@ que les éléments nécessaires à leur détermination.
 
 Toutefois, les contribuables peuvent se libérer de cette obligation en fournissant, pour les titres en dépôt ou inscrits en
 compte auprès d'un intermédiaire habilité, un document établi par ce dernier et faisant apparaître les mêmes éléments. La
-dispense de déclaration prévue à la première phrase du présent alinéa ne s'applique pas lorsque le contribuable a bénéficié
-de la réduction d'impôt prévue à l'article 199 terdecies-0 A du code général des impôts au titre de la souscription des
-titres cédés ou lorsque le gain net ouvre droit au bénéfice des abattements mentionnés au 1 quater de l'article 150-0 D ou à
-l'article 150-0 D ter du code précité.
+dispense de déclaration prévue à la première phrase ne s'applique pas lorsque le contribuable a bénéficié de la réduction
+d'impôt prévue à l'article 199 terdecies-0 A du code général des impôts au titre de la souscription des titres cédés ou
+lorsque le gain net ouvre droit au bénéfice des abattements mentionnés au 1 quater de l'article 150-0 D ou à l'article 150-0
+D ter du code précité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 G (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 G bis (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 I (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 I (M)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 K (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 L bis (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 M (V)
@@ -3357,24 +3357,28 @@ revenu en application du 22° de l'article 157 du code général des impôts.
 
 ##### V bis : Plan d'épargne en actions
 
+##### V bis : Plans d'épargne en actions
+
 ###### Article 91 quater E
 
-Les dispositions relatives aux modalités d'ouverture d'un plan d'épargne en actions sont prévues par l'article R. 221-111 du
-code monétaire et financier.
+Les modalités d'ouverture d'un plan d'épargne en actions et d'un plan d'épargne en actions destiné au financement des petites
+et moyennes entreprises et des entreprises de taille intermédiaire sont respectivement prévues par les articles R. 221-111 et
+D. 221-113-3 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2006-356 du 24 mars 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-356 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R221-111 (V)
+	  - Code monétaire et financier - art. D221-113-3
+	  - Code monétaire et financier - art. R221-111
 
 
 ###### Article 91 quater G
@@ -5577,24 +5581,29 @@ par l'administration, dans chaque département, au siège de l'une des caisses l
 
 ###### Article 140 decies
 
-Les souscriptions dont la déduction est autorisée par les II, II bis et II ter de l'article 217 undecies du code général des
-impôts s'entendent des souscriptions en numéraire au capital des sociétés de développement régional des départements d'outre-
-mer et des entreprises passibles de l'impôt sur les sociétés qui exercent exclusivement leur activité, outre-mer, dans les
-secteurs mentionnés aux premier, troisième, sixième, septième et huitième alinéas du I de ce même article ou qui réalisent
-des investissements mentionnés aux quatrième et cinquième alinéas de ce même I. 
+Les souscriptions dont la déduction est autorisée par les II, II bis (1) et II ter de l'article 217 undecies du code général
+des impôts s'entendent des souscriptions en numéraire au capital des sociétés de développement régional des départements
+d'outre-mer et des entreprises passibles de l'impôt sur les sociétés qui exercent exclusivement leur activité, outre-mer,
+dans les secteurs mentionnés aux premier, troisième, sixième, septième et huitième alinéas du I de ce même article ou qui
+réalisent des investissements mentionnés aux quatrième et cinquième alinéas de ce même I. 
 
 La valeur d'origine des éléments d'actif autres que ceux nécessaires à l'exercice de l'activité ouvrant droit à déduction ne
 doit pas excéder 10 % du montant total de l'actif brut de la société.
+
+**Nota:**
+
+(1) la référence [, II bis] devient dans objet, modification effectuée en conséquence de l'article 67-I F 2° et III B de la
+loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-472 du 10 mai 2010 - art. 1
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 duodecies (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 duodecies (V)
 
 	**Cite**:
 
@@ -5603,24 +5612,29 @@ doit pas excéder 10 % du montant total de l'actif brut de la société.
 
 ###### Article 140 duodecies
 
-Lorsqu'une entreprise entend bénéficier de la déduction prévue par le II, le II bis ou le II ter de l'article 217 undecies du
-code général des impôts à raison de la souscription d'actions ou de parts d'une société mentionnée à l'article 140 decies,
-elle doit joindre à sa déclaration de résultat de l'exercice au cours duquel la déduction est pratiquée une attestation
-délivrée par cette société précisant que cette dernière exerce son activité dans les conditions prévues à l'article 140
-decies et s'engage à réaliser, dans les délais prévus au II de l'article 217 undecies du code précité, des investissements
-productifs pour un montant au moins égal à celui des fonds versés et indiquant le montant des fonds versés, la date du
-versement, le nombre de parts ou actions souscrites et, le cas échéant, leurs numéros.
+Lorsqu'une entreprise entend bénéficier de la déduction prévue par le II, le II bis (1) ou le II ter de l'article 217
+undecies du code général des impôts à raison de la souscription d'actions ou de parts d'une société mentionnée à l'article
+140 decies, elle doit joindre à sa déclaration de résultat de l'exercice au cours duquel la déduction est pratiquée une
+attestation délivrée par cette société précisant que cette dernière exerce son activité dans les conditions prévues à
+l'article 140 decies et s'engage à réaliser, dans les délais prévus au II de l'article 217 undecies du code précité, des
+investissements productifs pour un montant au moins égal à celui des fonds versés et indiquant le montant des fonds versés,
+la date du versement, le nombre de parts ou actions souscrites et, le cas échéant, leurs numéros.
+
+**Nota:**
+
+(1) les mots [, II bis] deviennent dans objet, modification effectuée en conséquence de l'article 67-I F [2°] et III B de la
+loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-157 du 5 mars 1999 - art. 2 () JORF 6 mars 1999
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 decies (V)
-	  - Code général des impôts, CGI. - art. 217 undecies (V)
+	  - Code général des impôts, CGI. - art. 217 undecies
 
 
 ###### Article 140 nonies
@@ -5753,18 +5767,23 @@ d'outre-mer concerné.
 
 ###### Article 140 undecies
 
-La déduction prévue par les II, II bis et II ter de l'article 217 undecies du code général des impôts est pratiquée, au titre
-de l'exercice au cours duquel les fonds ont été versés, sur les résultats imposables de l'entreprise qui réalise la
+La déduction prévue par les II, II bis (1) et II ter de l'article 217 undecies du code général des impôts est pratiquée, au
+titre de l'exercice au cours duquel les fonds ont été versés, sur les résultats imposables de l'entreprise qui réalise la
 souscription, déterminés, sous réserve des dispositions du IV bis du même article, avant tout autre déduction ou abattement. 
 
 En cas de versements échelonnés, ceux-ci sont pris en compte au titre de chacun des exercices au cours desquels ils ont été
 effectués.
 
+**Nota:**
+
+(1) la référence [, II bis] devient dans objet, modification effectuée en conséquence de l'article 67-I F 2° et III B de la
+loi n° 2014-1655 du 29 décembre 2014.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-472 du 10 mai 2010 - art. 1
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cite**:
 
@@ -5817,30 +5836,29 @@ effectuée par année.
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 7 666 € et 15 308 € ,le taux de 9,35 % à la fraction comprise entre 15 308 € et 151
-208 € et le taux de 20 % à la fraction excédant 151 208 € et en multipliant le chiffre ainsi déterminé par le rapport qui
+l'année civile, qui est comprise entre 7 705 € et 15 385 € ,le taux de 9,35 % à la fraction comprise entre 15 385 € et 151
+965 € et le taux de 20 % à la fraction excédant 151 965 € et en multipliant le chiffre ainsi déterminé par le rapport qui
 existe entre le montant de la rémunération qui a été payée pendant la période d'application de la majoration et le montant
 total de la rémunération annuelle. 
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
 a bénéficié au cours de la période d'application de la majoration les taux de : 
 
-4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 666 € et 15 308 € ; 
+4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 705 € et 15 385 € ; 
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 15 308 € et 151 208 € ;
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 15 385 € et 151 965 € ;
 
-15,75 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 151 208 €.
+15,75 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 151 965 €.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'art. 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'art. 2-I [1°] de la loi
-n° 2013-1278 du 29 décembre 2013.
+Modification effectuée en conséquence de l'art. 2-II de la loi n° 2014-1654 du 29 décembre 2014
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cité par**:
 
@@ -5849,7 +5867,7 @@ n° 2013-1278 du 29 décembre 2013.
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 383
-	  - Code général des impôts, CGI. - art. 231
+	  - Code général des impôts, CGI. - art. 231 (M)
 
 
 ###### Article 144
@@ -5857,7 +5875,7 @@ n° 2013-1278 du 29 décembre 2013.
 La déclaration des traitements et salaires que les employeurs sont tenus de souscrire en exécution des dispositions de
 l'article 87 du code général des impôts doit, pour ceux d'entre eux qui sont redevables en totalité ou partiellement de la
 taxe sur les salaires, faire ressortir distinctement, pour chaque bénéficiaire dont la rémunération individuelle annuelle a
-excédé 7 666 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
+excédé 7 705 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
 majoration de la taxe sur les salaires. 
 
 Elle doit comporter, en outre, l'indication du montant des compléments de droits acquittés en application de l'article 142 à
@@ -5865,14 +5883,13 @@ raison des rémunérations payées pendant cette même période.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'art. 2-V de la loi n° 93-1352 du 30 décembre 1993 et de l'art. 2-I [1°] de la loi
-n° 2013-1278 du 29 décembre 2013.
+Modification effectuée en conséquence de l'art. 2-II de la loi n° 2014-1654 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cite**:
 
@@ -6091,32 +6108,6 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2008-2
 	  - Code du travail - art. R6331-9 (V)
 
 
-###### Article 163 undecies B
-
-Les réductions de versement prévues à l'article 235 ter EB du code général des impôts pour les employeurs qui atteignent ou
-dépassent au titre d'une année, pour la première fois, l'effectif de vingt salariés, s'appliquent conformément et dans les
-conditions prévues à l'article R. 6331-11 du code du travail.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 2-2° et 3 du décret n° 2014-968 du 22 août 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Liens**:
-
-	  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 235 ter EB (V)
-	  - Code du travail - art. R6331-11
-
-
 ###### Article 163 undecies C
 
 Les réductions de versement prévues à l'article 235 ter EB du code général des impôts pour les employeurs qui atteignent ou
@@ -6140,77 +6131,25 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2008-2
 
 ##### 3° : Obligations déclaratives et versement de la participation
 
-###### Article 163 duodecies
-
-La déclaration prévue à l'article 235 ter J du code général des impôts est établie conformément aux dispositions des articles
-R. 6331-30 et R. 6331-32 du code du travail.
-
-**Nota:**
-
-<font color="#000000" size="1">Modifications effectuées en conséquence de l'article 10-I-12° et III de la loi n° 2014-288 du
-5 mars 2014.</font>
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Liens**:
-
-	  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 235 ter J
-	  - Code du travail - art. R6331-30
-
-
-###### Article 163 quaterdecies
-
-La déclaration prévue à l'article 235 ter J du code général des impôts est déposée dans les conditions et délais prévus aux
-articles R. 6331-29 et R. 6331-33 du code du travail.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 10-I-12° et III de la loi n° 2014-288 du 5 mars 2014.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
-
-	**Liens**:
-
-	  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 235 ter J (Dis)
-	  - Code du travail - art. R6331-29
-	  - Code du travail - art. R6331-33
-
-
 ###### Article 163 quaterdecies A
 
-Les versements prévus aux articles 235 ter G, 235 ter H bis et 235 ter H ter du code général des impôts sont réalisés dans
-les conditions prévues à l'article R. 6331-35 du code du travail.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er, 3 et 9-I du décret n° 2008-244 du 7 mars 2008.
+Les versements prévus aux articles 235 ter G et 235 ter H bis du code général des impôts sont réalisés dans les conditions
+prévues à l'article R. 6331-35 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
+
+	**Liens**:
+
+	  - PERIME: Décret n°2016-775 du 10 juin 2016 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 235 ter G (V)
-	  - Code du travail - art. R6331-35 (V)
+	  - Code général des impôts, CGI. - art. 235 ter G
+	  - Code du travail - art. R6331-35
 
 
 ##### III : Employeurs occupant moins de dix salariés
@@ -6337,7 +6276,7 @@ lorsque les conditions suivantes sont remplies :
 
 a) La cession est postérieure à l'achèvement des fondations de l'immeuble ; 
 
-b) Le contrat de cession-qui devra revêtir la forme d'un acte authentique à compter d'une date qui sera fixée par arrêté du
+b) Le contrat de cession qui devra revêtir la forme d'un acte authentique à compter d'une date qui sera fixée par arrêté du
 ministre de l'économie et des finances précise : 
 
 1° La consistance et les conditions techniques d'exécution des travaux ; 
@@ -6378,7 +6317,7 @@ fonds de la société en cas de défaillance des associés.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 12
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cite**:
 
@@ -10240,41 +10179,6 @@ postérieures au 1er janvier 2015 .
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 Z quater
 
 
-##### 3 : Régime suspensif
-
-###### Article 242 A
-
-I. - Les entreprises qui se livrent à l'exploration du plateau continental (1) et à l'exploitation de ses ressources
-naturelles peuvent demander à acquérir, en suspension du paiement de la taxe sur la valeur ajoutée, les installations et
-dispositifs, ainsi que les matériels et produits industriels qu'elles utilisent sur le plateau continental pour effectuer ces
-opérations et qui ouvrent normalement droit à déduction dans les conditions prévues aux articles 271 et 273 du code général
-des impôts. 
-
-II. - Le bénéfice de la suspension peut être, dans les mêmes conditions, demandé par les entreprises qui donnent en location
-ces installations, dispositifs et matériels d'équipement aux entreprises définies au I ou exécutent pour le compte de celles-
-ci des travaux d'exploration ou d'exploitation. 
-
-III. - La suspension est autorisée, après avis du ministre du développement industriel et scientifique, par une décision du
-ministre de l'économie et des finances, qui en fixe les modalités et conditions conformément aux dispositions des articles
-275 et 276 du code général des impôts et des textes pris pour leur application.
-
-(1) Voir loi n° 71-1060 du 24 décembre 1971 relative à la délimitation des eaux territoriales françaises (JO du 30).
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de la loi n° 2011-1977 du 28 décembre 2011, article 23-1°.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-653 du 4 mai 2012 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-
 ##### 4 : Organismes sans but lucratif
 
 ###### Article 242 C
@@ -12442,7 +12346,7 @@ doivent respecter les prévisions du cahier des charges mentionnées au deuxièm
 ###### Article 275 ter B
 
 La demande d'agrément en qualité d'organisme de contrôle est déposée auprès de la direction générale des douanes et droits
-indirects et de la direction générale de la compétitivité, de l'industrie et des services qui l'instruisent conjointement.
+indirects et de la direction générale des entreprises qui l'instruisent conjointement.
 
 Est joint à la demande d'agrément un cahier des charges décrivant l'organisation de l'organisme de contrôle, la procédure et
 les méthodes de contrôle et d'essai permettant de s'assurer du titre des ouvrages, les méthodes utilisées pour attester la
@@ -12457,11 +12361,15 @@ annuels si l'antériorité de l'organisme le permet.
 L'autorisation d'attester la garantie du titre par le marquage au laser d'un poinçon mentionnée au b de l'article 523 du code
 général des impôts est accordée par le directeur général des douanes et des droits indirects.
 
+**Nota:**
+
+Modification effectuée en conséquence du décret n° 2014-1048 du 15 septembre 2014, article 4.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-247 du 21 février 2012 - art. 11
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cité par**:
 
@@ -12515,15 +12423,18 @@ retrait de son agrément et de cesser sans délai d'attester la garantie du titr
 ###### Article 275 ter E
 
 Les organismes de contrôle agréés sont placés sous le contrôle du directeur général des douanes et droits indirects et du
-directeur général de la compétitivité, de l'industrie et des services qui peuvent, l'un ou l'autre, sans délai, à titre
-conservatoire, suspendre l'agrément d'un organisme de contrôle qui ne respecte pas ses obligations. La procédure de retrait
-est immédiatement engagée.
+directeur général des entreprises qui peuvent, l'un ou l'autre, sans délai, à titre conservatoire, suspendre l'agrément d'un
+organisme de contrôle qui ne respecte pas ses obligations. La procédure de retrait est immédiatement engagée.
+
+**Nota:**
+
+Modification effectuée en conséquence du décret n° 2014-1048 du 15 septembre 2014, article 4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-247 du 21 février 2012 - art. 13
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 
 ###### Article 275 ter G
@@ -17273,13 +17184,9 @@ totale communale.
 
 **Nota:**
 
-
+Modification effectuée en conséquence du décret n° 2013-938 du 18 octobre 2013, article 1er-2° et 71
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
 
 	**Cité par**:
 
@@ -17324,17 +17231,13 @@ départements producteurs.
 
 **Nota:**
 
-
+Modification effectuée en conséquence du décret n° 2013-938 du 18 octobre 2013, article 1er-2° et 71
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
-
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 312 (V)
+	  - Code général des impôts, CGI. - art. 312
 
 
 ##### II : Taxes facultatives
@@ -17555,30 +17458,6 @@ Modification effectuée en conséquence de l'art. 60-I A [2°] de la loi n° 201
 
 
 ##### II : Taxe perçue pour la région de Guyane
-
-###### Article 318
-
-La part du quota de la taxe d'apprentissage mentionnée au deuxième alinéa de l'article L. 6241-2 du code du travail est
-versée au Trésor public par les organismes collecteurs dans le délai prévu à l'article R. 6241-5 du même code.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 8-I-1 et VI de la loi n° 2014-891 du 8 août 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-549 du 26 mai 2014 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-	**Anciens textes**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 K quater (T)
-
 
 ###### Article 318 B
 
@@ -17814,31 +17693,27 @@ articles 963 et 964-1 du code de procédure civile.
 
 ###### Article 327
 
-Les dispositions du troisième alinéa du I de l'article 1638 du code général des impôts ne sont applicables que lorsque la
+Les dispositions du quatrième alinéa du I de l'article 1638 du code général des impôts ne sont applicables que lorsque la
 section de commune ou la portion du territoire communal réunie à une autre commune compte au moins cinquante habitants à la
 date de la décision prononçant la mesure de rattachement.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 34-I D de la loi n° 2014-1655 du 29 décembre 2014.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN2 327 A
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°87-940 du 23 novembre 1987
 
 	**Modifié par**:
 
-	  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1638 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
+	  - Code général des impôts, CGI. - art. 1638
 
 
 #### Chapitre III : Dispositions relatives à la fiscalité directe locale applicables dans les départements d'outre-mer
@@ -18869,34 +18744,6 @@ attestation.
 	  - Code général des impôts, CGI. - art. 53 A (V)
 
 
-###### Article 371 L bis
-
-Pour l'application du deuxième alinéa des articles L. 169 et L. 176 du livre des procédures fiscales, un contribuable n'est
-pas considéré comme adhérent d'un centre de gestion agréé s'il n'a pas été membre adhérent d'un tel centre pendant toute la
-durée de l'exercice considéré. 
-
-Cette condition n'est toutefois pas exigée dans les cas mentionnés aux a, b, c et d de l'article 371 L.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 80-I de la loi n° 2014-1654 du 29 décembre 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-470 du 11 avril 2012 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 L
-	  - Livre des procédures fiscales - art. L169
-
-
 ###### Article 371 LA
 
 Pour l'application de l'article 1649 quater E bis du code général des impôts, la clientèle des industriels, commerçants,
@@ -19366,33 +19213,6 @@ attestation.
 
 	  - Code général des impôts, CGI. - art. 158
 	  - Code général des impôts, CGI. - art. 97
-
-
-###### Article 371 W bis
-
-Pour l'application du deuxième alinéa des articles L. 169 et L. 176 du livre des procédures fiscales, un contribuable n'est
-pas considéré comme adhérent d'une association agréée s'il n'a pas été membre adhérent d'une telle association pendant toute
-la durée de l'exercice considéré. 
-
-Cette condition n'est toutefois pas exigée dans les cas mentionnés aux a, b, c et d de l'article 371 W.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 80-I de la loi n° 2014-1654 du 29 décembre 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-470 du 11 avril 2012 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L169
 
 
 ###### Article 371 X
@@ -20326,42 +20146,46 @@ de la période normale d'utilisation de ces immeubles.
 
 ###### Article 376
 
-Par dérogation aux dispositions des articles 2 et 3 du décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés
-de la direction générale des finances publiques, certaines directions départementales ou régionales des finances publiques
-peuvent exercer, dans le ressort territorial d'une ou plusieurs autres directions régies par le décret précité ou d'une ou
-plusieurs directions régies par le décret n° 2000-738 du 1er août 2000 relatif à l'organisation des services déconcentrés de
-la direction générale des impôts, à l'égard des personnes physiques, les missions d'assiette et de contrôle prévues aux
-articles L. 10 et L. 168 du livre des procédures fiscales.
+I.-Par dérogation aux dispositions des articles 2 et 3 du décret n° 2009-707 du 16 juin 2009 relatif aux services
+déconcentrés de la direction générale des finances publiques, certaines directions départementales ou régionales des finances
+publiques peuvent exercer, dans le ressort territorial d'une ou plusieurs autres directions régies par le décret précité, à
+l'égard des personnes physiques, les missions d'assiette et de contrôle prévues aux articles L. 10 et L. 168 du livre des
+procédures fiscales. 
 
 Elles peuvent également exercer les missions prévues par le premier alinéa à l'égard des sociétés ou groupements mentionnés
 aux articles 8 à 8 quinquies du code général des impôts dont le capital est détenu en tout ou partie par les personnes
 physiques qui relèvent de leur compétence dérogatoire en application de l'alinéa précité, quel que soit le lieu de dépôt de
-déclaration ou d'imposition de ces sociétés ou groupements.
+déclaration ou d'imposition de ces sociétés ou groupements. 
 
 Les dispositions des premier et deuxième alinéas ne s'appliquent pas aux contrôles mentionnés aux articles L. 12, L. 13, L.
-13 C, L. 13 CA et L. 16 D du livre des procédures fiscales.
+13 C, L. 13 CA et L. 16 D du livre des procédures fiscales. 
 
 Les fonctionnaires de la direction générale des finances publiques appartenant à des corps des catégories A et B affectés à
-ces directions peuvent exercer les attributions correspondant aux missions mentionnées aux premier et deuxième alinéas.
+ces directions peuvent exercer les attributions correspondant aux missions mentionnées aux premier et deuxième alinéas. 
 
 La liste de ces directions, la délimitation de leur ressort territorial pour l'exercice desdites missions et leur durée
-d'exercice sont fixées, pour une durée de trois ans au plus, par arrêté du ministre chargé du budget.
+d'exercice sont fixées, pour une durée de trois ans au plus, par arrêté du ministre chargé du budget. 
+
+II.-Une direction départementale ou régionale des finances publiques peut assurer tout ou partie des opérations de gestion du
+timbre dématérialisé relevant de l'ensemble des directions départementales et régionales, par dérogation aux dispositions de
+l'article 4 de la loi n° 92-125 du 6 février 1992. La direction en charge desdites opérations et la nature de celles-ci sont
+fixées par arrêté du ministre chargé du budget.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article art. 4-III du décret n° 2009-707 du 16 juin 2009, et de l'article 2 (1°,
-b) du décret n° 2010-939 du 24 août 2010,
+Modification effectuée en conséquence des articles 1er-2° et 2 du décret n° 2014-1564 du 22 décembre 2014.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Loi n°92-125 du 6 février 1992 - art. 4
 	  - Décret n°2000-738 du 1 août 2000
 	  - Décret n°2009-707 du 16 juin 2009 - art. 2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cité par**:
 
@@ -21016,202 +20840,6 @@ cachet de la poste faisant foi, la valeur libératoire reconnue au bien offert e
 	  - Code général des impôts, CGI. - art. 1716 bis
 
 
-#### I bis : Versement pour dépassement du plafond légal de densité (1).
-
-###### Article 384 B
-
-Comme il est dit à l'article R333-5 du code de l'urbanisme, le montant du versement pour dépassement du plafond légal de
-densité est calculé par le responsable du service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas
-d'application de l'article R 424-1 du même code, par le maire.
-
-En cas de désaccord sur la valeur du terrain, le versement est provisoirement liquidé sur la base de l'estimation
-administrative.
-
-(1) Voir la note (1) de l'article 1723 octies du CGI.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la loi n° 2014-1655 du 29 décembre 2014.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-669 1984-07-17 art. 8 JORF 21 juillet 1984
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
-	  - HISTO: Edition du 15 juillet 1985
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 D (P)
-
-	**Cite**:
-
-	  - Code de l'urbanisme
-	  - Code de l'urbanisme - art. R333-5
-
-
-###### Article 384 C
-
-Conformément à l'article R. 333-6 du code de l'urbanisme, modifié par l'article 118 de la loi n° 89-935 du 29 décembre 1989
-modifiée, le responsable du service de l'Etat dans le département, chargé de l'urbanisme, arrête le montant global du
-versement et le communique avec les indications nécessaires à la détermination de la part revenant à chaque attributaire au
-directeur départemental ou, le cas échéant, régional des finances publiques et au maire. Il le communique également au
-pétitionnaire. 
-
-En cas d'application de l'article R. 424-1 du code précité, le maire est substitué au responsable du service de l'Etat dans
-le département, chargé de l'urbanisme, et informe celui-ci du montant du versement dans les mêmes conditions. Il en avise
-également le pétitionnaire. 
-
-Le comptable de la direction générale des finances publiques notifie le montant du versement au redevable. Le paiement doit
-être effectué dans les conditions définies aux deuxième et troisième alinéas de l'article 1723 octies du code général des
-impôts. 
-
-Lorsque la décision de la juridiction de l'expropriation n'est plus susceptible d'appel ni de pourvoi en cassation, le
-comptable de la direction générale des finances publiques procède, s'il y a lieu, à la mise en recouvrement d'une somme
-complémentaire ou à un dégrèvement. Le paiement du complément doit intervenir dans les conditions indiquées au quatrième
-alinéa de l'article 1723 octies du code général des impôts (1).
-
-Voir la note (1) de l'article 1723 octies du CGI.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la loi n° 2014-1655 du 29 décembre 2014.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°89-935 du 29 décembre 1989 de finances pour 1990 - art. 118
-	  - Code général des impôts, CGI. - art. 1723 octies
-	  - Code de l'urbanisme - art. R*424-1
-	  - Code de l'urbanisme - art. R333-6
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995
-
-	**Modifié par**:
-
-	  - Décret n°2012-430 du 29 mars 2012 - art. 13
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-
-###### Article 384 D
-
-Comme il est dit à l'article R. 333-7 du code de l'urbanisme modifié par l'article 118 de la loi n° 89-935 du 29 décembre
-1989 modifiée, en cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré,
-le versement complémentaire éventuellement exigible est liquidé, notifié et recouvré dans les conditions prévues aux articles
-384 B et 384 C.
-
-Lorsque l'autorité compétente autorise le transfert d'un permis de construire qui a rendu exigible le versement, elle doit en
-informer sans délai le directeur départemental ou, le cas échéant, régional des finances publiques.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la loi n° 2014-1655 du 29 décembre 2014.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°89-935 du 29 décembre 1989 de finances pour 1990 - art. 118
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 B (P)
-	  - Code de l'urbanisme - art. R*333-7
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995
-
-	**Modifié par**:
-
-	  - Décret n°2012-430 du 29 mars 2012 - art. 19
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-
-###### Article 384 E
-
-Comme il est dit à l'article R 333-8 du code de l'urbanisme, lorsque la modification du permis de construire entraîne une
-diminution ou la suppression du versement pour dépassement du plafond légal de densité, la somme correspondante est restituée
-au titulaire de l'autorisation de construire si le versement a été acquitté ; dans le cas contraire, le montant du versement
-est réduit à due concurrence.
-
-L'autorité qui a délivré le permis de construire peut, sur la demande de son bénéficiaire, prononcer le retrait à titre
-gracieux dudit permis. La décision de retrait entraîne de plein droit le dégrèvement du versement ou sa restitution s'il a
-été acquitté, déduction faite du prélèvement pour frais d'assiette et de perception prévu à l'article L 333-12, deuxième
-alinéa, du code précité. administrative.
-
-(1) Voir la note (1) de l'article 1723 octies du CGI.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la loi n° 2014-1655 du 29 décembre 2014.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de l'urbanisme
-	  - Code de l'urbanisme - art. L333-12
-
-
-###### Article 384 F
-
-Comme il est dit à l'article R. 333-9 du code de l'urbanisme, l'intervention d'une décision de l'autorité compétente pour
-statuer sur le permis de construire constatant la péremption de celui-ci entraîne de plein droit la restitution du
-versement. 
-
-Dans les cas visés à l'article 384 E et au premier alinéa du présent article, les demandes de dégrèvement sont recevables
-jusqu'au 31 décembre de la deuxième année qui suit celle de leur mise en recouvrement et celles de restitution jusqu'au 31
-décembre de la deuxième année qui suit celle du versement. 
-
-Les demandes de dégrèvement ou de restitution sont adressées au responsable du service de l'Etat dans le département, chargé
-de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du même code, au maire, qui fait connaître le cas échéant au
-directeur départemental ou, le cas échéant, régional des finances publiques le montant du dégrèvement ou de la restitution à
-effectuer. 
-
-La décision de dégrèvement ou de restitution est prise par le chef du service de l'Etat dans le département, chargé de
-l'urbanisme, ou en cas d'application de l'article R. 424-1 du même code, par le maire. 
-
-(1) Voir la note (1) de l'article 1723 octies du CGI.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 44-IV [2°] de la loi n° 2014-1655 du 29 décembre 2014.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995
-
-	**Modifié par**:
-
-	  - Décret n°2013-463 du 3 juin 2013 - art. 3
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*333-9
-	  - Code de l'urbanisme - art. R*424-1
-
-
 ## Chapitre I bis : Pénalités
 
 ### Section I : Commission des infractions fiscales
@@ -21574,30 +21202,6 @@ Celle-ci statue dans les conditions prévues au chapitre Ier du même décret.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
-
-
-### Section II : Procédure de sauvegarde ou de redressement judiciaire.
-
-###### Article 396 bis A
-
-Les cessions de rang de privilège ou d'hypothèque ou l'abandon de ces sûretés prévus par l'article 1929 septies du code
-général des impôts peuvent, sans extinction préalable de la créance, être accordés après consultation de la commission
-départementale des chefs des services financiers et des représentants des organismes de recouvrement des cotisations de
-sécurité sociale et d'assurance chômage. Les frais afférents à ces opérations sont à la charge du débiteur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
-
-	**Liens**:
-
-	  - DISJOINT: Décret n°2015-608 du 3 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1929 septies (Dis)
 
 
 ## Chapitre II ter : Dégrèvements et restitutions d'impôts

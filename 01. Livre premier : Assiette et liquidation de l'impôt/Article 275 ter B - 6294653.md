@@ -1,7 +1,7 @@
 # Article 275 ter B
 
 La demande d'agrément en qualité d'organisme de contrôle est déposée auprès de la direction générale des douanes et droits
-indirects et de la direction générale de la compétitivité, de l'industrie et des services qui l'instruisent conjointement.
+indirects et de la direction générale des entreprises qui l'instruisent conjointement.
 
 Est joint à la demande d'agrément un cahier des charges décrivant l'organisation de l'organisme de contrôle, la procédure et
 les méthodes de contrôle et d'essai permettant de s'assurer du titre des ouvrages, les méthodes utilisées pour attester la
@@ -16,11 +16,15 @@ annuels si l'antériorité de l'organisme le permet.
 L'autorisation d'attester la garantie du titre par le marquage au laser d'un poinçon mentionnée au b de l'article 523 du code
 général des impôts est accordée par le directeur général des douanes et des droits indirects.
 
+**Nota:**
+
+Modification effectuée en conséquence du décret n° 2014-1048 du 15 septembre 2014, article 4.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-247 du 21 février 2012 - art. 11
+	  - Décret n°2015-608 du 3 juin 2015 - art. 2
 
 	**Cité par**:
 
