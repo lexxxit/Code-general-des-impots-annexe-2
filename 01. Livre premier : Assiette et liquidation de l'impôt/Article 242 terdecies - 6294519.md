@@ -1,11 +1,16 @@
 # Article 242 terdecies
 
 I. Toute personne qui acquiert un moyen de transport mentionné au 1 du III de l'article 298 sexies du code général des
-impôts, en provenance d'un autre Etat membre de la Communauté européenne, est tenue de demander auprès de l'administration
-fiscale dont elle relève le certificat fiscal prévu au V bis de l'article 298 sexies du code général des impôts.
+impôts, en provenance d'un autre Etat membre de l'Union européenne, est tenue de demander auprès de l'administration fiscale
+dont elle relève le certificat fiscal prévu au V bis de l'article 298 sexies du code général des impôts.
 
 Le certificat doit être obligatoirement présenté pour obtenir l'immatriculation ou la francisation d'un moyen de transport
-mentionné au premier alinéa et provenant d'un autre Etat membre de la Communauté européenne.
+mentionné au premier alinéa et provenant d'un autre Etat membre de l'Union  européenne.
+
+Lorsqu'un véhicule terrestre à moteur d'occasion est acquis auprès d'un assujetti revendeur qui a appliqué le régime prévu à
+l'article 297 A du code général des impôts à la revente du véhicule, le certificat est demandé par cet assujetti revendeur
+ou, si l'opération a été réalisée par l'intermédiaire d'un mandataire agissant au nom et pour le compte de l'acquéreur du
+véhicule, par ce mandataire
 
 II. Pour les moyens de transport qui ne sont pas soumis à immatriculation, ce certificat doit être conservé par l'utilisateur
 pour être présenté à toute demande de l'administration.
@@ -18,9 +23,4 @@ pour être présenté à toute demande de l'administration.
 
 	**Modifié par**:
 
-	  - Décret n°99-197 du 11 mars 1999 - art. 1 () JORF 18 mars 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1999-08-03 3L-1-99
+	  - Décret n°2015-725 du 24 juin 2015 - art. 1

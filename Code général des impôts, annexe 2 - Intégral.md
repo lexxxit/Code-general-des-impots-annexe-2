@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-06-06
+Version Consolidée au 2015-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3354,8 +3354,6 @@ revenu en application du 22° de l'article 157 du code général des impôts.
 	  - Code général des impôts, CGI. - art. 157 (V)
 	  - Code général des impôts, CGI. - art. 242 ter (V)
 
-
-##### V bis : Plan d'épargne en actions
 
 ##### V bis : Plans d'épargne en actions
 
@@ -10870,11 +10868,32 @@ b) L'identification, le prix et la date de chacune des acquisitions intracommuna
 en application du 2° bis du I du même article ;
 
 c) L'identification, le prix et la date de chacune des acquisitions de moyens de transport en provenance d'un autre Etat
-membre de la Communauté européenne qui ne relèvent pas des deux catégories ci-dessus ;
+membre de l'Union européenne qui ne relèvent pas des deux catégories ci-dessus ;
 
 3° Les personnes autres que celles qui sont mentionnées au 1° indiquent sur le certificat fiscal mentionné au I de l'article
 242 terdecies, selon le cas, que la taxe sur la valeur ajoutée exigible a été acquittée ou qu'au vu des renseignements
 communiqués aucune taxe n'est due au titre de cette opération.
+
+4° L'assujetti revendeur ou, selon le cas, le mandataire mentionné au dernier alinéa du I de l'article 242 terdecies joint à
+sa demande de certificat fiscal :
+
+a) Une copie du certificat définitif d'immatriculation délivré à l'étranger, lorsque le véhicule y a fait l'objet de cette
+formalité ;
+
+b) Une copie de la facture d'achat du véhicule remise à l'assujetti revendeur ;
+
+c) Lorsque l'assujetti revendeur n'a pas acquis le véhicule directement auprès du titulaire du certificat d'immatriculation,
+une copie de la facture de vente du véhicule par ce titulaire indiquant que cette vente n'a pas été soumise à la taxe sur la
+valeur ajoutée ou, à défaut, une attestation signée par ce titulaire, mentionnant ses nom et prénom ou sa raison sociale, son
+adresse, son numéro individuel d'identification à la taxe sur la valeur ajoutée, le numéro et la date d'émission de la
+facture de vente, les nom et prénom ou la raison sociale et l'adresse de l'acquéreur ainsi que les caractéristiques du
+véhicule. L'attestation mentionne que le titulaire du certificat d'immatriculation n'a pas soumis cette vente à la taxe sur
+la valeur ajoutée ou, le cas échéant, qu'il n'est pas un assujetti à la taxe sur la valeur ajoutée. Lorsque l'attestation est
+rédigée dans une autre langue que le français, une traduction certifiée est jointe à cette attestation.
+
+L'administration peut demander la communication des originaux des documents mentionnés aux a et b. Les documents originaux
+sont ensuite restitués au demandeur. Le défaut de production de ces documents originaux constitue un motif de refus de
+délivrance du certificat fiscal.
 
 **Liens relatifs à cet article**
 
@@ -10885,12 +10904,11 @@ communiqués aucune taxe n'est due au titre de cette opération.
 
 	**Modifié par**:
 
-	  - Décret n°99-197 du 11 mars 1999 - art. 2 () JORF 18 mars 1999
+	  - Décret n°2015-725 du 24 juin 2015 - art. 1
 
-	**Liens**:
+	**Cité par**:
 
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1999-08-03 3L-1-99
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 sexdecies (VD)
 
 
 ###### Article 242 quindecies
@@ -10919,14 +10937,35 @@ dispense de caution est rapportée. Cette décision, motivée, est notifiée au 
 	  - TXT_ASSOCIE: Instruction 1999-08-03 3L-1-99
 
 
+###### Article 242 sexdecies
+
+L'assujetti revendeur d'un véhicule terrestre à moteur d'occasion est tenu de fournir à l'administration, lorsque celle-ci
+lui en fait la demande, une copie des documents mentionnés au 4° de l'article 242 quaterdecies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-725 du 24 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 quaterdecies (VD)
+
+
 ###### Article 242 terdecies
 
 I. Toute personne qui acquiert un moyen de transport mentionné au 1 du III de l'article 298 sexies du code général des
-impôts, en provenance d'un autre Etat membre de la Communauté européenne, est tenue de demander auprès de l'administration
-fiscale dont elle relève le certificat fiscal prévu au V bis de l'article 298 sexies du code général des impôts.
+impôts, en provenance d'un autre Etat membre de l'Union européenne, est tenue de demander auprès de l'administration fiscale
+dont elle relève le certificat fiscal prévu au V bis de l'article 298 sexies du code général des impôts.
 
 Le certificat doit être obligatoirement présenté pour obtenir l'immatriculation ou la francisation d'un moyen de transport
-mentionné au premier alinéa et provenant d'un autre Etat membre de la Communauté européenne.
+mentionné au premier alinéa et provenant d'un autre Etat membre de l'Union  européenne.
+
+Lorsqu'un véhicule terrestre à moteur d'occasion est acquis auprès d'un assujetti revendeur qui a appliqué le régime prévu à
+l'article 297 A du code général des impôts à la revente du véhicule, le certificat est demandé par cet assujetti revendeur
+ou, si l'opération a été réalisée par l'intermédiaire d'un mandataire agissant au nom et pour le compte de l'acquéreur du
+véhicule, par ce mandataire
 
 II. Pour les moyens de transport qui ne sont pas soumis à immatriculation, ce certificat doit être conservé par l'utilisateur
 pour être présenté à toute demande de l'administration.
@@ -10939,12 +10978,7 @@ pour être présenté à toute demande de l'administration.
 
 	**Modifié par**:
 
-	  - Décret n°99-197 du 11 mars 1999 - art. 1 () JORF 18 mars 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1999-08-03 3L-1-99
+	  - Décret n°2015-725 du 24 juin 2015 - art. 1
 
 
 ###### Article 242 undecies
