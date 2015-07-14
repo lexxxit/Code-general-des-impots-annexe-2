@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-07-01
+Version Consolidée au 2015-07-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7785,6 +7785,8 @@ n° 2006-1726 du 23 décembre 2006.
 
 
 ##### VII ter : Fonds communs de placement à risques
+
+##### VII ter : Fonds communs de placement à risques et fonds professionnel de capital investissement
 
 ###### Article 171 AT
 
