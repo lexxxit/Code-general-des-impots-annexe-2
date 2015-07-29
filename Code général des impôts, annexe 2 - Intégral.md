@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-07-15
+Version Consolidée au 2015-07-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4195,12 +4195,12 @@ général des impôts sont celles qui sont organisées sur des navires autorisé
 
 La réduction d'impôt prévue au I de l'article 199 undecies B du code général des impôts est pratiquée, sous réserve des
 dispositions de la deuxième phrase du vingtième alinéa du I du même article, au titre de l'année au cours de laquelle
-l'immobilisation est créée par l'entreprise ou lui est livrée ou est mise à sa disposition dans le cadre d'un contrat de
-crédit-bail. Lorsque l'immobilisation fait l'objet d'un contrat de crédit-bail, la réduction d'impôt est pratiquée par le
-contribuable crédit preneur ou par les associés ou membres de l'entreprise qui est crédit preneur.
+l'immobilisation est mise en service ou est mise à la disposition de l'entreprise dans le cadre d'un contrat de crédit-bail.
+Lorsque l'immobilisation fait l'objet d'un contrat de crédit-bail, la réduction d'impôt est pratiquée par le contribuable
+crédit preneur ou par les associés ou membres de l'entreprise qui est crédit preneur. 
 
-Elle est déterminée en tenant compte du montant des subventions publiques obtenues ou demandées et non encore accordées au 31
-décembre de l'année mentionnée au premier alinéa.S'il y a lieu, la régularisation de la réduction d'impôt est effectuée au
+Elle est déterminée en tenant compte du montant des aides publiques obtenues ou demandées et non encore accordées au 31
+décembre de l'année mentionnée au premier alinéa. S'il y a lieu, la régularisation de la réduction d'impôt est effectuée au
 titre de la même année sur demande du contribuable.
 
 **Liens relatifs à cet article**
@@ -4211,7 +4211,7 @@ titre de la même année sur demande du contribuable.
 
 	**Modifié par**:
 
-	  - Décret n°2010-472 du 10 mai 2010 - art. 1
+	  - Décret n°2015-919 du 27 juillet 2015 - art. 1
 
 	**Cite**:
 
@@ -4252,20 +4252,23 @@ impôts doivent joindre à la déclaration des revenus de l'année au titre de l
 état faisant apparaître pour chaque investissement à raison duquel elle est pratiquée : 
 
 a) Le nom et l'adresse du siège social de l'entreprise propriétaire de l'investissement ou, lorsque ce dernier fait l'objet
-d'un contrat de crédit-bail, de celle qui en est locataire ; 
+d'un contrat de crédit-bail, de celle qui en est locataire, ainsi que le chiffre d'affaires de l'entreprise qui exploite
+l'investissement, apprécié selon les modalités définies au premier alinéa du I de l'article 199 undecies B du code général
+des impôts ; 
 
 b) S'il y a lieu, le pourcentage des droits aux résultats détenus directement ou indirectement par le contribuable dans la
 société ou le groupement propriétaire de l'investissement ; 
 
 c) La nature précise de l'investissement ; 
 
-d) Le prix de revient hors taxe de l'investissement et le montant des subventions publiques obtenues ou demandées et non
-encore accordées pour son financement ; 
+d) Le prix de revient hors taxe de l'investissement, la valeur réelle des biens remplacés et le montant des aides publiques
+obtenues ou demandées et non encore accordées pour son financement ; 
 
-e) La date à laquelle l'investissement a été livré ou, s'il s'agit d'un bien créé par l'entreprise, à laquelle il a été
-achevé ou, s'il s'agit d'un bien faisant l'objet d'un contrat de crédit-bail, à laquelle il a été mis à sa disposition ; 
+e) La date à laquelle l'investissement a été mis en service ou, en cas de construction ou d'acquisition d'un immeuble à
+construire, celle à laquelle les fondations sont achevées, ou, s'il s'agit d'un bien faisant l'objet d'un contrat de crédit-
+bail, celle à laquelle il a été mis à la disposition de l'entreprise ; 
 
-f) La ou les dates de décision d'octroi des subventions publiques ; 
+f) La ou les dates de décision d'octroi des aides publiques ; 
 
 g) Le nom, l'adresse et la nature de l'activité de l'établissement dans lequel l'investissement est exploité ; 
 
@@ -4311,11 +4314,11 @@ l'article 199 undecies B.
 
 	**Modifié par**:
 
-	  - Décret n°2004-203 du 3 mars 2004 - art. 1 () JORF 5 mars 2004
+	  - Décret n°2015-919 du 27 juillet 2015 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 199 undecies B (V)
+	  - Code général des impôts, CGI. - art. 199 undecies B
 
 
 ###### Article 95 U
@@ -4324,9 +4327,8 @@ Le taux de rétrocession mentionné aux vingt-sixième et vingt-neuvième aliné
 général des impôts est calculé par le rapport existant entre : 
 
 a) Au numérateur, la différence entre, d'une part, le montant hors taxes de l'investissement diminué de la fraction de son
-prix de revient financée par une subvention publique et, d'autre part, la valeur actualisée de l'ensemble des sommes mises à
-la charge du locataire lui permettant d'obtenir la disposition du bien et d'en acquérir la propriété au terme de la
-location ; 
+prix de revient financée par une aide publique et, d'autre part, la valeur actualisée de l'ensemble des sommes mises à la
+charge du locataire lui permettant d'obtenir la disposition du bien et d'en acquérir la propriété au terme de la location ; 
 
 b) Au dénominateur, le montant de la réduction d'impôt. 
 
@@ -4340,7 +4342,7 @@ de ces mêmes dispositions par les associés ou membres de cette entreprise.
 
 	**Modifié par**:
 
-	  - Décret n°2010-472 du 10 mai 2010 - art. 1
+	  - Décret n°2015-919 du 27 juillet 2015 - art. 1
 
 	**Cite**:
 
@@ -5669,21 +5671,24 @@ I.-La déduction prévue au premier alinéa du I de l'article 217 undecies du co
 l'entreprise propriétaire ou, si l'immobilisation fait l'objet d'un contrat de crédit-bail, par l'entreprise locataire. 
 
 II.-Sous réserve des dispositions de la neuvième phrase du premier alinéa du I de l'article 217 undecies du code général des
-impôts, la déduction est opérée sur les résultats imposables de l'exercice au cours duquel l'immobilisation est créée par
-l'entreprise ou lui est livrée ou est mise à sa disposition dans le cadre d'un contrat de crédit-bail. 
+impôts, la déduction est opérée sur les résultats imposables de l'exercice au cours duquel l'immobilisation est mise en
+service ou, en cas de construction ou d'acquisition d'un immeuble à construire, l'exercice au cours duquel les fondations
+sont achevées, ou celui au cours duquel l'immobilisation est mise à la disposition de l'entreprise dans le cadre d'un contrat
+de crédit-bail. 
 
-Cette déduction est déterminée en tenant compte du montant des subventions publiques obtenues ou demandées et non encore
-accordées à la date de clôture de l'exercice mentionné au premier alinéa. S'il y a lieu, la régularisation de la déduction
-est effectuée au titre de l'exercice au cours duquel intervient la décision concernant leur octroi et leur montant. 
+Cette déduction est déterminée en tenant compte du montant des aides publiques ou, lorsque l'investissement consiste en
+l'acquisition ou la construction d'un logement neuf, des subventions publiques obtenues ou demandées et non encore accordées
+à la date de clôture de l'exercice mentionné au premier alinéa. S'il y a lieu, la régularisation de la déduction est
+effectuée au titre de l'exercice au cours duquel intervient la décision concernant leur octroi et leur montant. 
 
 III.-Les résultats imposables de l'exercice sont déterminés, sous réserve des dispositions du IV bis de l'article 217
 undecies du code général des impôts, avant tout autre déduction ou abattement.
 
-**Nota:**
-
-Modification effectuée en conséquence de l'article 21-I F [1°, a] de la loi n° 2013-1278 du 29 décembre 2013.
-
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-919 du 27 juillet 2015 - art. 1
 
 	**Cite**:
 
@@ -5712,13 +5717,13 @@ secteurs éligibles en vertu des dispositions du I de l'article 199 undecies B d
 
 ###### Article 140 quaterdecies
 
-Le taux de rétrocession mentionné au dix-neuvième alinéa (5°) du I et au 3° du I bis de l'article 217 undecies du code
+I. - Le taux de rétrocession mentionné au dix-neuvième alinéa (5°) du I et au 3° du I bis de l'article 217 undecies du code
 général des impôts est calculé par le rapport existant entre : 
 
 a) Au numérateur, la différence entre, d'une part, le montant hors taxe de l'investissement diminué de la fraction de son
-prix de revient financée par une subvention publique et, d'autre part, la valeur actualisée de l'ensemble des sommes mises à
-la charge du locataire lui permettant d'obtenir la disposition du bien et d'en acquérir la propriété au terme de la
-location ; 
+prix de revient financée par une aide publique ou, lorsque l'investissement consiste en l'acquisition ou la construction d'un
+logement neuf, une subvention publique et, d'autre part, la valeur actualisée de l'ensemble des sommes mises à la charge du
+locataire lui permettant d'obtenir la disposition du bien et d'en acquérir la propriété au terme de la location ; 
 
 b) Au dénominateur, la valeur actualisée des économies d'impôt sur les sociétés procurée par la déduction pratiquée au titre
 de l'investissement, par l'imputation du déficit procuré par la location du bien acquis et de la moins-value réalisée lors de
@@ -5730,11 +5735,28 @@ l'investissement par le bailleur. Lorsque les emprunts sont rémunérés par un 
 connu est retenu pour le calcul de la moyenne. Il n'est pas tenu compte pour ce calcul de l'avantage consenti en application
 de ces mêmes dispositions par les associés ou membres de cette entreprise.
 
+II. - Pour l'application du II quinquies de l'article 217 undecies du code général des impôts, le taux de rétrocession est
+calculé par le rapport existant entre :
+
+a) Au numérateur, la différence entre, d'une part, le montant de la souscription et, d'autre part, la valeur actualisée des
+sommes mises à la charge de la société bénéficiaire de la souscription lui permettant d'acquérir la propriété des titres
+souscrits ;
+
+b) Au dénominateur, la valeur actualisée des économies d'impôt sur les sociétés procurée par la déduction pratiquée au titre
+de la souscription et, le cas échéant, par la moins-value réalisée lors de la cession des titres reçus lors de la
+souscription.
+
+La valeur actualisée des sommes payées par la société bénéficiaire de la souscription est déterminée en retenant un taux
+d'actualisation égal à la moyenne pondérée, en fonction du montant des emprunts, des taux d'intérêt des emprunts souscrits
+pour le financement de la souscription par la société qui la réalise. Lorsque les emprunts sont rémunérés par un taux
+d'intérêt variable, seul le premier taux connu est retenu pour le calcul de la moyenne. Il n'est pas tenu compte pour ce
+calcul de l'avantage consenti en application de ces mêmes dispositions par les associés ou membres de cette entreprise.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-472 du 10 mai 2010 - art. 1
+	  - Décret n°2015-919 du 27 juillet 2015 - art. 1
 
 	**Cite**:
 
@@ -7783,8 +7805,6 @@ n° 2006-1726 du 23 décembre 2006.
 
 	  - HISTO: Edition du 1er janvier 2007
 
-
-##### VII ter : Fonds communs de placement à risques
 
 ##### VII ter : Fonds communs de placement à risques et fonds professionnel de capital investissement
 
