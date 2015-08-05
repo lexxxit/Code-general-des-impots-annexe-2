@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-07-30
+Version Consolidée au 2015-08-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3097,14 +3097,18 @@ au c de l'article 111 du code général des impôts.
 
 ###### Article 91 bis
 
-I.-1° Les bénéficiaires d'options sur titres attribuées dans les conditions prévues au I de l'article 163 bis C du code
-général des impôts joignent à leur déclaration de revenus souscrite au titre de l'année de levée des options un état
-individuel délivré, au plus tard le 1er mars de l'année de dépôt de la déclaration, par l'entreprise ou la société mentionnée
-au 2°. 
+I. - 1° L'entreprise ou la société mentionnée au 2° délivre un état individuel aux bénéficiaires d'options sur titres
+attribuées jusqu'au 27 septembre 2012 dans les conditions prévues au I de l'article 163 bis C du code général des impôts dans
+sa rédaction antérieure à celle résultant de l'article 11 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013,
+au plus tard le 1er mars de l'année de dépôt de leur déclaration de revenus souscrite au titre de l'année de la levée des
+options. Les bénéficiaires doivent le conserver jusqu'à l'expiration du délai de reprise et le présenter sur demande de
+l'administration fiscale.
 
 Cet état mentionne : 
 
-a) L'objet pour lequel il est établi : application de l'article 163 bis C du code général des impôts ; 
+a) L'objet pour lequel il est établi : application de l'article 163 bis C du code général des impôts dans sa rédaction
+antérieure à celle résultant de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, pour les options sur titres
+attribuées jusqu'au 27 septembre 2012  ; 
 
 b) La raison sociale et le siège social de la société émettrice des titres et, le cas échéant, celle de l'entreprise qui
 établit l'état ; 
@@ -3120,10 +3124,6 @@ f) Les dates d'attribution et de levée des options ;
 g) Lorsque les dispositions du II de l'article 80 bis du code général des impôts trouvent à s'appliquer, le montant de la
 différence définie à cet article. 
 
-Les contribuables qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649
-quater B ter du code général des impôts, sont dispensés de joindre cet état à cette déclaration. Ils doivent le conserver
-jusqu'à l'expiration du délai de reprise et le présenter à l'administration sur demande de sa part. 
-
 2° La société émettrice qui a son siège social en France et dans laquelle le titulaire des options sur titres exerce son
 activité ou l'entreprise mentionnée au III de l'article 80 bis du code général des impôts transmet à l'administration
 fiscale, dans la déclaration prévue à l'article 87 du même code, les informations mentionnées au i du 2° de l'article 39 de
@@ -3133,9 +3133,9 @@ Lorsque le titulaire exerce son activité dans une entreprise différente de la 
 l'alinéa précédent au moment de la levée des options, cette information est transmise, selon les mêmes modalités, par
 l'entreprise dans laquelle il exerce son activité lorsqu'elle dispose des informations nécessaires. 
 
-Dans les autres cas, la société émettrice ou l'entreprise mentionnée au premier alinéa adresse au service des impôts dont
-elle relève, au plus tard le 1er mars de l'année qui suit celle au cours de laquelle a eu lieu la levée des options, un
-duplicata de l'état individuel mentionné au 1°. 
+Dans les autres cas, la société émettrice ou l'entreprise mentionnée au premier alinéa adresse au service des impôts des
+entreprises  dont elle relève, au plus tard le 1er mars de l'année qui suit celle au cours de laquelle a eu lieu la levée des
+options, un duplicata de l'état individuel mentionné au 1°. 
 
 3° Lorsque les actions issues des options sur titres sont inscrites sur un compte titres qui n'est pas tenu par l'entreprise
 ou la société mentionnée au 2°, celle-ci communique, soit au plus tard le 1er mars de l'année qui suit celle de la levée des
@@ -3146,28 +3146,25 @@ du code général des impôts.
 En cas de transfert des titres sur un autre compte, l'établissement mentionné à l'alinéa précédent transmet une copie du
 duplicata au nouveau redevable de la retenue à la source. 
 
-II.-1° En cas de conversion au porteur, de mise en location ou de cession avant le terme de la période d'indisponibilité
-prévue au I de l'article 163 bis C du code général des impôts, l'entreprise ou la société mentionnée au 2° du I du présent
-article adresse au service des impôts dont elle relève, au plus tard le 1er mars de l'année qui suit celle au cours de
-laquelle a eu lieu l'opération, un état individuel qui mentionne la date et la nature de l'opération, le nombre d'actions
-concernées, les informations mentionnées aux b à g du 1° du I et, le cas échéant, la survenance d'un événement prévu à
-l'article 91 ter. 
+II. - 1° En cas de conversion au porteur, de mise en location ou de cession d'actions issues d'options sur titres attribuées
+jusqu'au 27 septembre 2012, avant le terme de la période d'indisponibilité prévue au I de l'article 163 bis C du code général
+des impôts dans sa rédaction antérieure à celle résultant de l'article 11 de la loi n° 2012-1509 du 29 décembre 2012 de
+finances pour 2013, l'entreprise ou la société mentionnée au 2° du I du présent article adresse au service des impôts des
+entreprises  dont elle relève, au plus tard le 1er mars de l'année qui suit celle au cours de laquelle a eu lieu l'opération,
+un état individuel qui mentionne la date et la nature de l'opération, le nombre d'actions concernées, les informations
+mentionnées aux b à g du 1° du I et, le cas échéant, la survenance d'un événement prévu à l'article 91 ter. 
 
 Elle communique une copie de cet état au titulaire des options et, le cas échéant, à l'établissement mentionné au 3° du I. 
 
-2° En cas d'échange sans soulte d'actions résultant d'une opération mentionnée au I bis de l'article 163 bis C du code
-général des impôts, l'entreprise ou la société mentionnée au 2° du I du présent article adresse au service des impôts dont
-elle relève, au plus tard le 1er mars de l'année qui suit celle au cours de laquelle a eu lieu l'opération, un état
-individuel qui mentionne la date et la nature de l'opération, le nombre d'actions reçues en échange, la raison sociale et
-l'adresse de la société dont les actions sont remises en échange ainsi que les informations mentionnées aux b à g du 1° du
-I. 
+2° En cas d'échange sans soulte d'actions issues d'options sur titres attribuées jusqu'au 27 septembre 2012 et résultant
+d'une opération mentionnée au I bis de l'article 163 bis C du code général des impôts dans sa rédaction antérieure à celle
+résultant de l'article 11 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, l'entreprise ou la société
+mentionnée au 2° du I du présent article adresse au service des impôts des entreprises  dont elle relève, au plus tard le 1er
+mars de l'année qui suit celle au cours de laquelle a eu lieu l'opération, un état individuel qui mentionne la date et la
+nature de l'opération, le nombre d'actions reçues en échange, la raison sociale et l'adresse de la société dont les actions
+sont remises en échange ainsi que les informations mentionnées aux b à g du 1° du I. 
 
 Elle communique une copie de cet état au titulaire des options et, le cas échéant, à l'établissement mentionné au 3° du I.
-
-**Nota:**
-
-Conformément à l'article 2 du décret n° 2012-130 du 30 janvier 2012, ces dispositions s'appliquent aux déclarations
-souscrites à compter du 1er janvier 2013 relatives aux options sur titres levées à compter du 1er janvier 2012.
 
 **Liens relatifs à cet article**
 
@@ -3175,28 +3172,29 @@ souscrites à compter du 1er janvier 2013 relatives aux options sur titres levé
 
 	  - Décret n°2001-435 du 21 mai 2001
 
+	**Cite**:
+
+	  - Loi n°2012-1509 du 29 décembre 2012
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 11
+	  - Code général des impôts, CGI. - art. 163 bis C
+	  - Code général des impôts, CGI. - art. 182 A ter
+	  - Code général des impôts, CGI. - art. 80 bis
+
 	**Modifié par**:
 
-	  - Décret n°2012-130 du 30 janvier 2012 - art. 1
+	  - Décret n°2015-966 du 31 juillet 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
 
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 163 bis C (Ab)
-	  - Code général des impôts, CGI. - art. 1649 quater B ter (V)
-	  - Code général des impôts, CGI. - art. 182 A ter (V)
-	  - Code général des impôts, CGI. - art. 39 (V)
-	  - Code général des impôts, CGI. - art. 80 bis (V)
-	  - Code général des impôts, CGI. - art. 87 (V)
-
 
 ###### Article 91 ter
 
-Les cas dans lesquels il peut être exceptionnellement disposé des actions avant l'expiration du délai fixé au I de l'article
-163 bis C du code général des impôts, sans perte du bénéfice des dispositions prévues audit article, sont les suivants :
+Le bénéficiaire d'options sur titres attribuées jusqu'au 27 septembre 2012 peut exceptionnellement disposer des actions avant
+le terme de la période d'indisponibilité fixée au I de l'article 163 bis C du code général des impôts dans sa rédaction
+antérieure à celle résultant de l'article 11 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, sans perte du
+bénéfice des dispositions prévues à cet article, dans les situations suivantes : 
 
 1° licenciement du titulaire ;
 
@@ -3210,29 +3208,21 @@ Les cas dans lesquels il peut être exceptionnellement disposé des actions avan
 Dans les situations définies aux 1° et 2° les options doivent avoir été levées au moins trois mois avant la date de
 réalisation de l'événement invoqué.
 
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 11-I F et IV de la loi n° 2012-1509 du 29 décembre 2012.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 bis C I
-
-	**Modifié par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
-	  - Décret n°87-588 1987-07-30 art. 1 JORF 31 juillet 1987
 
 	**Codifié par**:
 
 	  - Décret n°98-400 du 22 mai 1998
 
-	**Liens**:
+	**Cite**:
 
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 22 avril 1998
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 11
+	  - Code général des impôts, CGI. - art. 163 bis C
+	  - Code de la sécurité sociale. - art. L341-4
+
+	**Modifié par**:
+
+	  - Décret n°2015-966 du 31 juillet 2015 - art. 1
 
 
 ##### IV bis : Bons de souscription de parts de créateur d'entreprise. Evaluation de la capitalisation boursière
@@ -8334,26 +8324,6 @@ partiellement ou totalement déductible.
 	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
 
 
-###### Article 174
-
-Les cas d'exclusion, de limitation et de régularisation prévus au II de l'article 257 du code général des impôts sont ceux
-qui sont prévus aux 2, 3 et 4 du IV de l'article 206 et à l'article 207.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 257
-
-	**Modifié par**:
-
-	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2015-965 du 31 juillet 2015 - art. 1
-
-
 ###### Article 175
 
 La taxe due en application du II de l'article 257 du code général des impôts est exigible à la date de la première
@@ -9217,9 +9187,9 @@ IV.-1. (alinéa abrogé)
 déduction, la taxe initiale peut être déduite à proportion du coefficient de déduction résultant de ce changement. 
 
 3. Pour l'application du II et des 1° et 2° du 1 du III, un immeuble ou une fraction d'immeuble en stock est considéré comme
-immobilisé lorsque, au-delà de la date d'échéance mentionnée au II de l'article 270 du code général des impôts, il est
-utilisé pendant plus d'un an pour une opération relevant d'une activité économique mentionnée à l'article 256 A du code
-général des impôts.
+immobilisé lorsque, au 31 décembre de la deuxième année qui suit celle au cours de laquelle est intervenu l'achèvement de
+l'immeuble, il est utilisé pendant plus d'un an pour une opération relevant d'une activité économique mentionnée à l'article
+256 A du code général des impôts.
 
 V.-1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 271 du code général des impôts
 ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article ou au 3 du I de l'article
@@ -9254,7 +9224,7 @@ cession, ou volés, et qu'il est justifié de cette destruction ou de ce vol.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
+	  - Décret n°2015-965 du 31 juillet 2015 - art. 1
 
 	**Cite**:
 
@@ -9268,7 +9238,7 @@ cession, ou volés, et qu'il est justifié de cette destruction ou de ce vol.
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (V)
 
 
 ##### C : Dispositions diverses
@@ -9304,7 +9274,7 @@ peut faire l'objet de remboursements dans les conditions fixées par les article
 
 ###### Article 209
 
-I.-Les opérations situées hors du champ d'application de la taxe sur la valeur ajoutée et les opérations imposables doivent
+I. - Les opérations situées hors du champ d'application de la taxe sur la valeur ajoutée et les opérations imposables doivent
 être comptabilisées dans des comptes distincts pour l'application du droit à déduction. 
 
 Il en va de même pour les secteurs d'activité qui ne sont pas soumis à des dispositions identiques au regard de la taxe sur
@@ -9314,8 +9284,8 @@ Sont constitués en secteurs d'activité :
 
 1° Chaque immeuble ou ensemble d'immeubles ou fraction d'immeuble dont la livraison à soi-même est imposable en application
 du II de l'article 278 sexies du code général des impôts ou dans lequel sont réalisés des travaux d'amélioration, de
-transformation ou d'aménagement de logement dont les livraisons à soi-même sont imposables en application du b du 1° du 3 du
-I de l'article 257 du même code ; 
+transformation ou d'aménagement de logement dont les livraisons à soi-même sont imposables en application du 1° du 3 du I de
+l'article 257 du même code ; 
 
 2° Les immeubles, ensembles d'immeubles ou fractions d'immeubles dont la location est imposée en application du 2° de
 l'article 260 du code général des impôts ; 
@@ -9333,7 +9303,7 @@ sur la valeur ajoutée ;
 5° Chaque opération de lotissement ou d'aménagement de zone réalisée par les collectivités territoriales ou leurs
 groupements. 
 
-II.-Les biens d'investissement ouvrant droit à déduction sont inscrits dans la comptabilité de l'entreprise pour leur prix
+II. - Les biens d'investissement ouvrant droit à déduction sont inscrits dans la comptabilité de l'entreprise pour leur prix
 d'achat ou de revient diminué de la déduction à laquelle ils donnent droit, rectifié, le cas échéant, conformément aux
 dispositions de l'article 207.
 
@@ -9341,7 +9311,7 @@ dispositions de l'article 207.
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+	  - Décret n°2015-965 du 31 juillet 2015 - art. 1
 
 	**Cité par**:
 
@@ -11067,13 +11037,13 @@ de transport n'a pas déjà été mis en circulation, une mention selon laquelle
 
 ###### Article 244
 
-I.-Pour les livraisons à soi-même mentionnées au a du 1° du 3 du I de l'article 257 du code général des impôts et pour
+I. - Pour les livraisons à soi-même mentionnées au 2° du 1 du II de l'article 257 du code général des impôts et pour
 l'application de l'article 270 de ce code, le redevable est tenu de déposer une déclaration spéciale au service des impôts
 dont il dépend dans le mois de l'achèvement tel qu'il est défini au b du 1 de l'article 269 de ce code. Sur la déclaration
 mentionnée à l'article 287 du même code, le redevable insère une mention particulière se référant à la déclaration spéciale
 et informant l'administration du montant de la livraison à soi-même ainsi que de la liquidation de la taxe. 
 
-II.-Pour les livraisons à soi-même mentionnées au b du 2° du 3 du I de l'article 257 du code général des impôts, dès qu'il
+II. - Pour les livraisons à soi-même mentionnées au 2° du 3 du I de l'article 257 du code général des impôts, dès qu'il
 dispose de tous les éléments d'information nécessaires à la liquidation de la taxe à la suite de l'achèvement tel qu'il est
 défini au I, le redevable est tenu de déposer au service des impôts du lieu de la situation de l'immeuble une déclaration
 particulière conforme au modèle fixé par l'administration.
@@ -11082,7 +11052,7 @@ particulière conforme au modèle fixé par l'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
+	  - Décret n°2015-965 du 31 juillet 2015 - art. 1
 
 	**Cité par**:
 

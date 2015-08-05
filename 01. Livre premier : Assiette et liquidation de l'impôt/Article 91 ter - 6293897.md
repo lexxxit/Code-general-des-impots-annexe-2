@@ -1,7 +1,9 @@
 # Article 91 ter
 
-Les cas dans lesquels il peut être exceptionnellement disposé des actions avant l'expiration du délai fixé au I de l'article
-163 bis C du code général des impôts, sans perte du bénéfice des dispositions prévues audit article, sont les suivants :
+Le bénéficiaire d'options sur titres attribuées jusqu'au 27 septembre 2012 peut exceptionnellement disposer des actions avant
+le terme de la période d'indisponibilité fixée au I de l'article 163 bis C du code général des impôts dans sa rédaction
+antérieure à celle résultant de l'article 11 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, sans perte du
+bénéfice des dispositions prévues à cet article, dans les situations suivantes : 
 
 1° licenciement du titulaire ;
 
@@ -15,26 +17,18 @@ Les cas dans lesquels il peut être exceptionnellement disposé des actions avan
 Dans les situations définies aux 1° et 2° les options doivent avoir été levées au moins trois mois avant la date de
 réalisation de l'événement invoqué.
 
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 11-I F et IV de la loi n° 2012-1509 du 29 décembre 2012.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 bis C I
-
-	**Modifié par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
-	  - Décret n°87-588 1987-07-30 art. 1 JORF 31 juillet 1987
 
 	**Codifié par**:
 
 	  - Décret n°98-400 du 22 mai 1998
 
-	**Liens**:
+	**Cite**:
 
-	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 3
-	  - HISTO: Edition du 22 avril 1998
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 11
+	  - Code général des impôts, CGI. - art. 163 bis C
+	  - Code de la sécurité sociale. - art. L341-4
+
+	**Modifié par**:
+
+	  - Décret n°2015-966 du 31 juillet 2015 - art. 1
