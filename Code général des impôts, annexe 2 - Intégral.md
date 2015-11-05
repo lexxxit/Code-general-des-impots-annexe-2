@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-09-17
+Version Consolidée au 2015-11-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17588,8 +17588,13 @@ III.-A compter du 1er janvier 2013, la convention prévue au I est complétée p
 évaluant, d'une part, le degré de réalisation des projets et des objectifs opérationnels de l'établissement et, d'autre part,
 l'impact sur les entreprises artisanales de ses activités.
 
-A compter de la même date, la convention peut être conclue pour une période pluriannuelle. En ce cas, un compte rendu
-d'exécution annuel est transmis au préfet de région et au directeur régional des finances publiques. 
+A compter de la même date, la convention peut être conclue soit pour une période annuelle, soit pour une période
+pluriannuelle. Dans tous les cas, un rapport d'exécution annuel est transmis au préfet de région, au directeur régional des
+finances publiques et au ministre chargé de l'artisanat au plus tard le 31 janvier de l'année suivant celle sur laquelle
+porte ce rapport. Ce rapport présente les montants de dépassement du droit additionnel à la cotisation foncière des
+entreprises prévus et effectivement perçus, le nombre d'assujettis concernés, ainsi qu'une description détaillée des actions
+ou des investissements mis en œuvre, de leur financement, des résultats obtenus et de leur niveau de réalisation par rapport
+aux objectifs fixés. Il mesure également le niveau de réalisation des indicateurs d'activité et de performance. 
 
 IV.-Le préfet de région peut, lorsque les engagements fixés dans la convention n'ont pas été respectés, plafonner ou
 supprimer le droit à dépassement prévu par les deuxième et troisième alinéas du b de l'article 1601 du code général des
@@ -17606,7 +17611,7 @@ intéressé un mois au moins avant la date limite de vote de son produit de taxe
 
 	**Modifié par**:
 
-	  - Décret n°2011-350 du 30 mars 2011 - art. 4
+	  - Décret n°2015-1401 du 3 novembre 2015 - art. 20
 
 	**Cite**:
 
