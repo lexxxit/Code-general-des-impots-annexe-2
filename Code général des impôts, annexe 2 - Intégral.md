@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-11-15
+Version Consolidée au 2016-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9192,8 +9192,7 @@ l'immeuble, il est utilisé pendant plus d'un an pour une opération relevant d'
 256 A du code général des impôts.
 
 V.-1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 271 du code général des impôts
-ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article ou au 3 du I de l'article
-210. 
+ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article. 
 
 2. Les coefficients d'assujettissement, de taxation et d'admission de référence sont initialement égaux aux coefficients
 retenus pour le calcul de la déduction opérée en application de l'article 206 lors de l'acquisition, de l'importation ou de
@@ -9220,17 +9219,23 @@ Ce reversement doit être opéré avant le 25 du mois qui suit celui au cours du
 intervenu. Toutefois, ces reversements ne sont pas exigés lorsque les biens ont été détruits avant toute utilisation ou
 cession, ou volés, et qu'il est justifié de cette destruction ou de ce vol.
 
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-1763 du 24 décembre 2015, les présentes dispositions s'appliquent aux dépenses
+d'investissements publics mis à disposition de délégataires de service public en application de contrats de délégation
+conclus à compter du 1er janvier 2016 et aux dépenses d'édification ou d'acquisition d'immeubles par des sociétés civiles
+d'attribution pour lesquels un état descriptif de division a été établi à compter de cette date.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-965 du 31 juillet 2015 - art. 1
+	  - Décret n°2015-1763 du 24 décembre 2015 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 205
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 206
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 210
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 268
 	  - Code général des impôts, CGI. - art. 256 A
 	  - Code général des impôts, CGI. - art. 257 bis
@@ -9238,7 +9243,7 @@ cession, ou volés, et qu'il est justifié de cette destruction ou de ce vol.
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (M)
 
 
 ##### C : Dispositions diverses
@@ -14474,25 +14479,16 @@ Les assureurs sont tenus, sur la demande des bénéficiaires, de leur communique
 ###### Article 292 B
 
 I. Les assureurs qui doivent verser des sommes, rentes ou émoluments quelconques au titre des contrats mentionnés à l'article
-292 A doivent, dans les quarante-cinq jours qui suivent le jour où ils ont connaissance du décès de l'assuré sur la tête
-duquel un ou plusieurs contrats en cause ont été souscrits, adresser à la direction départementale ou, le cas échéant,
-régionale des finances publiques du domicile de l'assuré un document faisant connaître : 
-
-1. Le nom ou la raison sociale et le domicile de l'assureur ; 
-
-2. Les nom, prénoms et domicile de l'assuré ainsi que la date de son décès ; 
-
-3. Les nom, prénoms et domicile du ou des bénéficiaires ; 
-
-4. La date de souscription du ou des contrats ; 
-
-5. Le montant des primes versées après le soixante-dixième anniversaire de l'assuré pour chacun des contrats. 
+292 A déclarent à l'administration fiscale, dans les soixante jours qui suivent le jour où ils ont connaissance du décès de
+l'assuré sur la tête duquel un ou plusieurs contrats en cause ont été souscrits, les éléments mentionnés aux I et II de
+l'article 370 C ainsi que le montant des primes versées après le soixante-dixième anniversaire de l'assuré et leur
+répartition entre chacun des bénéficiaires pour chaque contrat. 
 
 Les mêmes obligations incombent aux assureurs pour les contrats souscrits avant le 20 novembre 1991, lorsque des avenants
 prévus à l'article L. 112-3 du code des assurances de nature à transformer l'économie même de ces contrats ont été souscrits
-après cette date. 
+après cette date. Les dates, les références ou numéros de police de ces avenants sont alors déclarés. 
 
-Ces documents sont établis sur des formules imprimées délivrées sans frais par le service des impôts. 
+Ces éléments sont déclarés dans les conditions prévues aux V à VII de l'article 370 C. 
 
 II. Les assureurs ne peuvent se libérer des sommes, rentes ou émoluments quelconques dus au titre des contrats mentionnés à
 l'article 292 A que dans les conditions prévues aux premier et deuxième alinéas du III de l'article 806 du code général des
@@ -14505,11 +14501,12 @@ aux obligations édictées au I du présent article.
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 7
+	  - Décret n°2015-362 du 30 mars 2015 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 292 A
+	  - Code général des impôts, CGI. - art. 806
 	  - Code des assurances - art. L112-3
 
 	**Cité par**:
@@ -15337,36 +15334,32 @@ dispositions qui précèdent.
 
 I.-Les organismes d'assurance et assimilés qui doivent verser des sommes, rentes ou valeurs quelconques entrant dans le champ
 d'application de l'article 990 I du code général des impôts ne peuvent se libérer de ces sommes, rentes ou valeurs dues par
-eux à raison du décès de l'assuré à chaque bénéficiaire désigné au contrat qu'après avoir adressé à la direction
-départementale ou, le cas échéant, régionale des finances publiques du domicile de l'assuré, dans les soixante jours qui
-suivent le jour où ils ont eu connaissance du décès de celui-ci, une déclaration contenant les informations énumérées au IV
-de l'article 806 du code général des impôts, en précisant au titre de chaque contrat et pour chaque bénéficiaire : 
+eux à raison du décès de l'assuré à chaque bénéficiaire désigné au contrat qu'après avoir déclaré à l'administration fiscale
+dans les soixante jours qui suivent le jour où ils ont eu connaissance du décès de l'assuré les éléments mentionnés aux I et
+II de l'article 370 C, et au titre de chaque contrat et pour chaque bénéficiaire : 
 
 a. L'assiette du prélèvement ; 
 
-b. Le montant de l'abattement pratiqué ; 
+b. Le montant des différents abattements pratiqués ; 
 
-c. Le montant du prélèvement acquitté au titre des sommes, rentes ou valeurs dues à chaque bénéficiaire. 
+c. Le montant du prélèvement acquitté au titre des sommes, rentes ou valeurs dues à chaque bénéficiaire ;
 
-L'obligation faite aux organismes d'assurance et assimilés de déclarer les sommes, rentes ou valeurs dues au jour du décès de
-l'assuré au titre de chaque contrat rachetable qui correspondent aux primes versées à compter du 13 octobre 1998 et le
-montant des primes versées à compter de la même date au titre de chaque contrat non rachetable est satisfaite par la
-communication à l'administration fiscale des éléments suivants : 
+d. La date de souscription et le numéro de police du ou des avenants prévus par l'article L. 112-3 du code des assurances de
+nature à transformer l'économie même du contrat ; 
 
-a. Pour la fraction rachetable de chaque contrat mentionné au I de l'article 990 I précité : la part de la valeur de rachat
+e. Pour la fraction rachetable de chaque contrat mentionné au I de l'article 990 I précité : la part de la valeur de rachat
 au jour du décès de l'assuré qui correspond aux sommes, rentes ou valeurs dues à raison des primes versées à compter du 13
-octobre 1998 ; 
+octobre 1998 ; pour la fraction rachetable de chaque contrat contenant une clause prévoyant un différé de paiement du capital
+par l'assureur au bénéficiaire, la valeur de rachat déterminée au jour du versement des sommes, rentes ou valeurs
+quelconques ; 
 
-b. Pour la fraction non rachetable de chaque contrat mentionné au I de l'article 990 I précité : le produit résultant de la
+f. Pour la fraction non rachetable de chaque contrat mentionné au I de l'article 990 I précité : le produit résultant de la
 multiplication du montant du capital-décès dû, diminué de la valeur de rachat au jour du décès de l'assuré, par le taux de
 mortalité qui correspond à l'âge de l'assuré lors de son décès dans la table de mortalité applicable à cette date ; pour les
 contrats non rachetables : la prime annuelle ou le montant de la prime unique versée à la souscription du contrat, lorsque
 celle-ci est intervenue à compter du 13 octobre 1998. 
 
-II.-a. Ces déclarations sont établies sur des formules imprimées délivrées sans frais par le service des impôts. 
-
-b. Le comptable public compétent mentionné au II de l'article 990 I précité est le comptable de la direction générale des
-finances publiques chargé de la formalité de l'enregistrement. 
+II. - Les éléments mentionnés au I sont déclarés dans les conditions prévues aux V à VII de l'article 370 C. 
 
 III.-(sans objet).
 
@@ -15374,12 +15367,15 @@ III.-(sans objet).
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 8
+	  - Décret n°2015-362 du 30 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 370 C (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 806
-	  - Code général des impôts, CGI. - art. 990 I (V)
+	  - Code général des impôts, CGI. - art. 990 I
 
 
 ###### Article 306-0 F bis
@@ -18267,6 +18263,99 @@ Modification effectuée en conséquence de l'art. 108-XIX C-1 de la loi n° 2010
 ## Troisième partie : Dispositions communes aux première et deuxième parties
 
 ### Chapitre premier : Obligations des contribuables
+
+#### Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés.
+
+###### Article 370 C
+
+I.-Les déclarations de souscription et de dénouement mentionnées au I de l'article 1649 ter du code général des impôts
+comportent les indications suivantes : 
+
+1° Le nom ou la raison sociale et la domiciliation de l'organisme ; 
+
+2° La nature du contrat ou placement ; 
+
+3° La date de souscription du contrat ou placement ; 
+
+4° La référence du contrat ou placement, ou son numéro de police ; 
+
+5° Les noms, prénoms, date et lieu de naissance, et domicile du ou des souscripteurs personnes physiques ainsi que la raison
+sociale, l'adresse du siège et le numéro SIREN ou RNA du ou des souscripteurs personnes morales ; 
+
+6° Les nom, prénoms, date et lieu de naissance, et domicile du ou des assurés ; 
+
+7° En cas de dénouement du contrat ou placement, la date et la cause de ce dénouement ; 
+
+8° En cas de décès du souscripteur n'entraînant pas le dénouement du contrat, la date du décès ainsi que les noms, prénoms,
+date et lieu de naissance, et domicile du ou des ayants droit. 
+
+II.-En cas de dénouement du contrat ou placement par décès de l'assuré, les éléments mentionnés aux articles 292 B ou 306-0 F
+sont également déclarés ainsi que : 
+
+1° Les noms, prénoms, date et lieu de naissance, et domicile du ou des bénéficiaires personnes physiques ; 
+
+2° La raison sociale, l'adresse du siège et le numéro SIREN ou RNA du ou des bénéficiaires personnes morales ; 
+
+3° Le montant des sommes, rentes ou valeurs quelconques devant être versées à chacun des bénéficiaires ; 
+
+4° En cas de démembrement de la clause bénéficiaire, la qualité de nu-propriétaire ou d'usufruitier des bénéficiaires
+concernés et la part leur revenant dans les sommes, rentes ou valeurs quelconques devant être versées. 
+
+III.-En cas de versement à la Caisse des dépôts et consignations de sommes en application des articles L. 132-27-2 du code
+des assurances et L. 223-25-4 du code de la mutualité, la date et le montant des sommes ainsi versées sont également
+déclarés. 
+
+IV.-Les déclarations mentionnées au II de l'article 1649 ter du code général des impôts comportent les indications
+mentionnées aux 1° à 5° du présent I. 
+
+V.-Les déclarations prévues aux I et II de l'article 1649 ter du code général des impôts s'effectuent de manière
+dématérialisée. Les déclarations mentionnées au I de l'article précité s'effectuent, selon le cas, dans les soixante jours
+suivant la souscription ou le dénouement du contrat, ou en cas de dénouement du contrat par décès de l'assuré, dans les
+soixante jours de la date de prise de connaissance du décès de l'assuré. La déclaration mentionnée au II de ce même article
+s'effectue au plus tard le 15 juin de l'année. 
+
+Ces déclarations font l'objet d'un traitement informatisé dénommé " gestion du fichier des contrats de capitalisation et
+d'assurance-vie " qui recense, sur support informatique, les contrats et placements mentionnés à l'article 1649 ter du code
+général des impôts et porte à la connaissance des services autorisés à consulter ce fichier, pour chaque contrat ou
+placement, les éléments mentionnés à l'article précité et aux I à IV. 
+
+VI.-En cas de modification des éléments mentionnés aux I à IV, une nouvelle déclaration comportant les éléments modifiés est
+effectuée dans les conditions prévues au V, dans les soixante jours de la prise de connaissance de ces modifications par les
+personnes morales mentionnées au I de l'article 1649 ter du code général des impôts. 
+
+VII.-Si les éléments mentionnés au II ne peuvent pas être déclarés dans les soixante jours de la date de prise de
+connaissance du décès de l'assuré, une nouvelle déclaration comportant les nouveaux éléments est effectuée, dans les
+conditions prévues au V, dans les soixante jours de la prise de connaissance de ces nouveaux éléments par les personnes
+morales mentionnées au I de l'article 1649 ter du code général des impôts. 
+
+Si les éléments mentionnés au 8° du I ne peuvent pas être déclarés dans les soixante jours de la date de prise de
+connaissance du décès du souscripteur, une nouvelle déclaration doit être effectuée dans les mêmes conditions que celles
+prévues au premier alinéa du présent VII. 
+
+VIII.-Pour les contrats souscrits avant le 1er janvier 1998 et placés sous le régime fiscal de l'anonymat, le contrat est
+déclaré conformément aux dispositions du présent article lorsque le souscripteur ou le bénéficiaire opte pour la levée de
+l'anonymat. 
+
+IX.-Les déclarations mentionnées à l'article 1649 ter du code général des impôts sont conservées jusqu'à la fin de la
+trentième année suivant celle du dépôt de la déclaration de dénouement. 
+
+En cas de versement prévu au III et par exception à l'alinéa précédant, les déclarations sont conservées jusqu'à la fin de la
+vingtième année suivant celle de ce versement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-362 du 30 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 292 B
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 306-0 F (VD)
+	  - Code général des impôts, CGI. - art. 1649 ter
+	  - Code des assurances - art. L132-27-2
+	  - Code de la mutualité - art. L223-25-4
+
 
 #### Section II : Forains
 
