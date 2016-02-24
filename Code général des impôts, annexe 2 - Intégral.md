@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-02-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2277,6 +2277,129 @@ part du montant des cessions correspondant aux droits de chacun de leurs membres
 	  - HISTO: Edition du 31 mars 2001
 
 
+###### Article 74-0 K
+
+1. Le contribuable qui réalise une opération relevant du champ d'application du régime du report d'imposition prévu à
+l'article 150-0 B ter du code général des impôts mentionne distinctement sur la déclaration spéciale des plus-values prévue à
+l'article 74-0 F le montant de la plus-value dont l'imposition est reportée ainsi que les éléments nécessaires à sa
+détermination. 
+
+Le contribuable mentionne en outre les informations suivantes : 
+
+a) La date de l'opération d'apport ; 
+
+b) La dénomination et l'adresse du siège social ou du principal établissement de la société bénéficiaire de l'apport et, le
+cas échéant, de la société ou du groupement interposé qui a réalisé l'apport de titres ; 
+
+c) La nature juridique des droits apportés ; 
+
+d) Le nombre de titres apportés ainsi que leur valeur réelle unitaire à la date de l'apport ; 
+
+e) Le nombre de titres reçus ainsi que leur valeur nominale et leur valeur réelle unitaire à la date de l'apport ; 
+
+f) Le cas échéant, le montant de la soulte reçue ou de la soulte versée. 
+
+2. Le contribuable joint à la déclaration mentionnée au 1 une attestation émise par la société bénéficiaire de l'apport
+précisant qu'elle est informée que les titres qui lui ont été apportés sont grevés d'une plus-value en report d'imposition en
+application de l'article 150-0 B ter du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-177 du 22 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F
+	  - Code général des impôts, CGI. - art. 150-0 B ter
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 L bis (V)
+
+
+###### Article 74-0 L
+
+1. Lorsque, dans les trois années suivant la date de l'apport, les titres apportés sont affectés par l'un des événements
+mentionnés à la première phrase du 2° du I de l'article 150-0 B ter du code général des impôts, la société bénéficiaire de
+l'apport mentionne, sur une attestation annexée à sa déclaration de résultat de l'année de survenance de l'événement, les
+informations suivantes :
+
+a) La nature et la date de l'événement ayant affecté les titres qui lui ont été apportés ;
+
+b) Le nombre de titres affectés par cet événement ainsi que, le cas échéant, leur prix de cession à la date de cet
+événement ;
+
+c) Le cas échéant, l'engagement d'investir au moins 50 % du produit de la cession des titres concernés au plus tard à
+l'expiration d'un délai de deux ans à compter de la date de la cession dans les conditions prévues au 2° du I de l'article
+150-0 B ter du code général des impôts.
+
+2. Lorsque la société qui s'est engagée à investir au moins 50 % du produit de la cession dans les conditions prévues au 2°
+du I de l'article 150-0 B ter du code général des impôts satisfait à cet engagement, elle joint à sa déclaration de résultat
+de l'année du réinvestissement une attestation mentionnant les informations suivantes :
+
+a) Le montant du produit de cession réinvesti ;
+
+b) La nature et la date du réinvestissement ;
+
+c) Le cas échéant, la dénomination et l'adresse du siège social de la société dans laquelle le produit de la cession des
+titres a été réinvesti.
+
+3. Lorsque la société ne respecte pas l'engagement de réinvestissement qu'elle a souscrit, elle joint à sa déclaration de
+résultat de l'année du non-respect de la condition de réinvestissement une attestation précisant que le produit de la cession
+des titres apportés n'est pas réinvesti dans les conditions prévues au 2° du I de l'article 150-0 B ter du code général des
+impôts.
+
+4. Une copie des attestations mentionnées aux 1, 2 et 3 est transmise par la société au contribuable ayant réalisé l'apport
+des titres grevés d'une plus-value en report d'imposition ou, le cas échéant, au donataire de ces titres.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-177 du 22 février 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 N (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150-0 B ter
+
+
+###### Article 74-0 L bis
+
+1. Pour l'application du II de l'article 150-0 B ter du code général des impôts, le donateur communique au donataire les
+éléments mentionnés à l'article 74-0 K lui permettant de déclarer la plus-value en report d'imposition afférente aux titres
+transmis. 
+
+Lorsque la donation intervient dans le délai de trois ans suivant la date de l'apport, délai décompté de date à date, le
+donateur informe la société bénéficiaire de l'apport de l'identité et de l'adresse du donataire. 
+
+2. Le donateur mentionne sur la formule prévue à l'article 74-0 F, souscrite au titre de l'année de la transmission,
+l'identité et l'adresse du donataire, la date de la transmission, le nombre de titres transmis et le montant de la plus-value
+en report d'imposition afférente à ces titres. 
+
+3. Le donataire mentionne sur la formule prévue à l'article 74-0 F, souscrite au titre de l'année de la transmission,
+l'identité et l'adresse du donateur, la date de la transmission, le nombre de titres transmis, le montant de la plus-value en
+report d'imposition afférente à ces titres et les éléments mentionnés au premier alinéa du 1. Le cas échéant, il joint à
+cette formule l'attestation mentionnée au 2 de l'article 74-0 K.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-177 du 22 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 K (V)
+	  - Code général des impôts, CGI. - art. 150-0 B ter
+
+
 ###### Article 74-0 M
 
 1. Le montant des plus-values de cession ou d'échange de valeurs mobilières ou de droits sociaux dont l'imposition a été
@@ -2285,31 +2408,27 @@ au titre de l'anné au cours de laquelle l'expiration du report est intervenue. 
 sociétés concernées et, le cas échéant, la désignation de la société ou du groupement interposé qui a réalisé l'opération,
 ainsi que la nature et la date de l'opération. 
 
-2. Les contribuables joignent à cette déclaration un état conforme à celui mentionné à l'article 74-0 N.
+2. Les contribuables joignent à cette déclaration un état conforme à celui mentionné au 1 de l'article 74-0 N.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+	  - Décret n°2016-177 du 22 février 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74 SH (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74 SH
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 N (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 N (V)
 
 
 ###### Article 74-0 N
 
-L'état prévu au 2 de l'article 74-0 M, établi sur une formule délivrée par l'administration, fait apparaître, pour chaque
+1. L'état prévu au 2 de l'article 74-0 M, établi sur une formule délivrée par l'administration, fait apparaître, pour chaque
 plus-value dont le report n'est pas expiré : 
 
 a) La nature et la date de l'opération ainsi que le régime d'imposition applicable ; 
@@ -2321,52 +2440,52 @@ c) Le montant de ces plus-values au 31 décembre de l'année d'imposition et au 
 d) La nature et la date de l'événement ayant entraîné la modification de ce montant ; 
 
 e) Le cas échéant, la désignation de la société ou du groupement interposé qui a réalisé l'opération d'échange de titres
-ainsi que la quote-part des droits détenus dans la société ou le groupement à la date de l'échange.
+ainsi que la quote-part des droits détenus dans la société ou le groupement à la date de l'échange. 
+
+2. Pour l'application du 2° du I de l'article 150-0 B ter du code général des impôts, les contribuables joignent, le cas
+échéant, à la formule prévue au 1 une copie des attestations mentionnées à l'article 74-0 L.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2006-1421 du 21 novembre 2006 - art. 6 () JORF 23 novembre 2006
-
 	**Codifié par**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2007-484 du 30 mars 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-177 du 22 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 L (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 M (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 O (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 O (V)
 
 
 ###### Article 74-0 O
 
-Lorsque les titres grevés d'un report d'imposition sont eux-mêmes échangés dans les conditions du II de l'article 150 UB ou
-de l'article 150-0 B du code général des impôts, les contribuables doivent joindre à la déclaration prévue au 1 de l'article
-170 du même code un état établi sur une formule délivrée par l'administration, qui fait apparaître, en plus des éléments
-mentionnés à l'article 74-0 N, la nature et la date de la nouvelle opération d'échange ainsi que le nombre de titres remis et
-de titres reçus lors de cette opération.
+Lorsque les titres grevés d'un report d'imposition sont eux-mêmes échangés dans les conditions du II de l'article 150 UB, de
+l'article 150-0 B ou du IV de l'article 150-0 B ter du code général des impôts, les contribuables doivent joindre à la
+déclaration prévue au 1 de l'article 170 du même code un état établi sur une formule délivrée par l'administration, qui fait
+apparaître, en plus des éléments mentionnés à l'article 74-0 N, la nature et la date de la nouvelle opération d'échange ainsi
+que le nombre de titres remis et de titres reçus lors de cette opération.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-1384 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+	  - Décret n°2016-177 du 22 février 2016 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 N (V)
-	  - Code général des impôts, CGI. - art. 150 UB (V)
-	  - Code général des impôts, CGI. - art. 150-0 B (V)
-	  - Code général des impôts, CGI. - art. 170 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 150 UB
+	  - Code général des impôts, CGI. - art. 150-0 B
+	  - Code général des impôts, CGI. - art. 150-0 B ter
+	  - Code général des impôts, CGI. - art. 170
 
 
 ###### Article 74-0 P
