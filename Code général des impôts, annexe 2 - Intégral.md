@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-02-25
+Version Consolidée au 2016-05-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18382,6 +18382,183 @@ Modification effectuée en conséquence de l'art. 108-XIX C-1 de la loi n° 2010
 ## Troisième partie : Dispositions communes aux première et deuxième parties
 
 ### Chapitre premier : Obligations des contribuables
+
+#### Section I : Registre public des trusts 
+
+###### Article 368
+
+I. - Un traitement automatisé de données à caractère personnel dénommé "Registre public des trusts" est mis en œuvre par la
+direction générale des finances publiques.
+
+II. - Les informations traitées, issues du traitement dénommé "Base nationale des données patrimoniales", sont les
+suivantes :
+
+1° La dénomination du trust et son adresse ;
+
+2° La date de constitution, la date d'extinction du trust ;
+
+3° La date et la nature de la déclaration de trust mentionnée à l'article 1649 AB du code général des impôts ;
+
+4° Les éléments d'identification du constituant, du bénéficiaire et de l'administrateur du trust.
+
+Les éléments d'identification du constituant et du bénéficiaire, personne physique, sont leur nom, leur prénom, leur date et
+lieu de naissance, leur date de décès.
+
+Les éléments d'identification de l'administrateur sont son nom, son prénom, sa date et son lieu de naissance.
+
+Les éléments d'identification d'une personne morale sont sa dénomination sociale et son numéro SIREN.
+
+III. - Les informations mentionnées au II sont conservées pendant dix ans après la date d'extinction du trust.
+
+**Nota:**
+
+Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
+article devient sans objet,
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 du 20 octobre 1988
+
+	**Modifié par**:
+
+	  - Décret n°2016-567 du 10 mai 2016 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 368 B (P)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 368 C (P)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 AB
+
+
+###### Article 368 A
+
+I. - Toute personne peut obtenir, par voie électronique, la délivrance des informations mentionnées à l'article 368. L'accès
+au traitement automatisé est réalisé dans le cadre d'une procédure sécurisée d'authentification fixée par arrêté du ministre
+chargé du budget.
+
+II. - A. - La consultation du registre est effectuée, par voie électronique, auprès de la direction générale des finances
+publiques, à partir de l'un des critères de recherche suivants :
+
+1° La dénomination du trust ;
+
+2° L'identité du constituant, du bénéficiaire ou de l'administrateur en indiquant, s'il s'agit d'une personne physique, son
+nom ou, s'il s'agit d'une personne morale, sa dénomination sociale ou son numéro SIREN.
+
+B. - La recherche peut être complétée en y ajoutant l'un des critères facultatifs suivants :
+
+1° La commune ou le pays d'établissement du trust, sa date de constitution ;
+
+2° Pour le constituant ou le bénéficiaire, personne physique, son prénom, sa date de naissance, sa commune, son département
+ou son pays de naissance, sa date de décès ;
+
+3° Pour l'administrateur, personne physique, son prénom, sa date de naissance, sa commune, son département ou son pays de
+naissance.
+
+III. - Les interrogations du registre font l'objet d'un enregistrement journalier qui se traduit par la conservation, pour
+chaque connexion, des éléments suivants :
+
+1° Identifiant de l'usager ;
+
+2° Adresse IP de l'usager ;
+
+3° Date et heure de la recherche.
+
+Ces éléments sont conservés pendant une durée d'un an.
+
+**Nota:**
+
+Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
+article devient sans objet,
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 du 20 octobre 1988
+
+	**Modifié par**:
+
+	  - Décret n°2016-567 du 10 mai 2016 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
+
+
+###### Article 368 B
+
+I.-Lors de chaque accès au traitement mentionné à l'article 368, le demandeur est informé de ses conditions générales
+d'utilisation telles que fixées par arrêté du ministre chargé du budget. 
+
+II.-Le droit d'accès et le droit de rectification, prévus par la loi du 6 janvier 1978 susvisée, s'exercent auprès du
+directeur général des finances publiques. 
+
+Le droit d'opposition prévu par l'article 38 de la même loi ne s'applique pas au présent traitement.
+
+**Nota:**
+
+Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
+article devient sans objet,
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 368
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 du 20 octobre 1988
+
+	**Modifié par**:
+
+	  - Décret n°2016-567 du 10 mai 2016 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
+
+
+###### Article 368 C
+
+Les informations faisant l'objet du traitement prévu à l'article 368 sont transmises périodiquement au ministre de la
+justice, aux agents des douanes mentionnés à l'article 28-1 du code de procédure pénale ainsi qu'aux agents des services
+fiscaux mentionnés à l'article 28-2 du même code.
+
+**Nota:**
+
+Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
+article devient sans objet,
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 du 20 octobre 1988
+
+	**Modifié par**:
+
+	  - Décret n°2016-567 du 10 mai 2016 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 368 (P)
+	  - Code de procédure pénale - art. 28-1
+
 
 #### Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés.
 
