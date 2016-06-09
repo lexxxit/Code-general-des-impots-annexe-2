@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-05-12
+Version Consolidée au 2016-06-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13237,20 +13237,18 @@ prévues au décret n° 80-354 du 14 mai 1980 relatif à l'arbitrage.
 
 ###### Article 284
 
-Les fabricants et les fournisseurs agréés communiquent leur prix de vente au détail des tabacs manufacturés, pour chacun de
-leurs produits, à la direction générale des douanes et droits indirects.
+A  la demande de l'administration, les fournisseurs agréés communiquent,  par voie dématérialisée auprès de la direction
+générale des douanes et  droits indirects, les prix de vente au détail des tabacs manufacturés,  pour chacun de leurs
+produits par marque et dénomination commerciale. 
 
-Les prix sont homologués par arrêté du ministre chargé du budget et publiés au Journal officiel de la République française.
+Les prix sont homologués par arrêté conjoint du ministre chargé du  budget et du ministre chargé de la santé et publiés au
+Journal officiel  de la République française.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°99-503 du 16 juin 1999 - art. 1 () JORF 18 juin 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
+	  - Décret n°2016-757 du 7 juin 2016 - art. 1
 
 
 ###### Article 285
