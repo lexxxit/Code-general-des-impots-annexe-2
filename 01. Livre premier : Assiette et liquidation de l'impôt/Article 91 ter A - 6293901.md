@@ -1,9 +1,9 @@
 # Article 91 ter A
 
-I.-Pour l'application du premier alinéa du II de l'article 163 bis G du code général des impôts, la capitalisation boursière
-d'une société est déterminée par le produit du nombre de ses titres de capital admis à la négociation à l'ouverture du jour
-de négociation précédant celui de l'émission des bons par la moyenne des cours d'ouverture des soixante jours de négociation
-précédant celui de l'émission des bons. 
+I.-Pour l'application du 4 du II de l'article 163 bis G du code général des impôts, la capitalisation boursière d'une société
+est déterminée par le produit du nombre de ses titres de capital admis à la négociation à l'ouverture du jour de négociation
+précédant celui de l'émission des bons par la moyenne des cours d'ouverture des soixante jours de négociation précédant celui
+de l'émission des bons. 
 
 Toutefois, lorsque les titres de capital de la société sont pour la première fois admis à la négociation durant ces soixante
 jours, la moyenne retenue est celle des cours d'ouverture des jours de négociation depuis le jour de l'admission à la
@@ -22,12 +22,16 @@ boursière est déterminée par le produit du nombre total des titres de capital
 à la négociation à l'issue de l'opération par le cours de clôture du dernier jour de négociation précédant l'admission à la
 négociation de ces nouveaux titres de capital.
 
+**Nota:**
+
+Modification effectuée en conséquence des articles 141-I A et II A de la loi n° 2015-990 du 6 août 2015.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-470 du 28 mars 2007 - art. 1 () JORF 30 mars 2007
+	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 163 bis G (V)
+	  - Code général des impôts, CGI. - art. 163 bis G

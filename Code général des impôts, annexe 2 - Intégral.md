@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-06-10
+Version Consolidée au 2016-06-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3348,10 +3348,10 @@ réalisation de l'événement invoqué.
 
 ###### Article 91 ter A
 
-I.-Pour l'application du premier alinéa du II de l'article 163 bis G du code général des impôts, la capitalisation boursière
-d'une société est déterminée par le produit du nombre de ses titres de capital admis à la négociation à l'ouverture du jour
-de négociation précédant celui de l'émission des bons par la moyenne des cours d'ouverture des soixante jours de négociation
-précédant celui de l'émission des bons. 
+I.-Pour l'application du 4 du II de l'article 163 bis G du code général des impôts, la capitalisation boursière d'une société
+est déterminée par le produit du nombre de ses titres de capital admis à la négociation à l'ouverture du jour de négociation
+précédant celui de l'émission des bons par la moyenne des cours d'ouverture des soixante jours de négociation précédant celui
+de l'émission des bons. 
 
 Toutefois, lorsque les titres de capital de la société sont pour la première fois admis à la négociation durant ces soixante
 jours, la moyenne retenue est celle des cours d'ouverture des jours de négociation depuis le jour de l'admission à la
@@ -3370,15 +3370,19 @@ boursière est déterminée par le produit du nombre total des titres de capital
 à la négociation à l'issue de l'opération par le cours de clôture du dernier jour de négociation précédant l'admission à la
 négociation de ces nouveaux titres de capital.
 
+**Nota:**
+
+Modification effectuée en conséquence des articles 141-I A et II A de la loi n° 2015-990 du 6 août 2015.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-470 du 28 mars 2007 - art. 1 () JORF 30 mars 2007
+	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 163 bis G (V)
+	  - Code général des impôts, CGI. - art. 163 bis G
 
 
 ##### V : Plan d'épargne populaire.
@@ -5965,29 +5969,29 @@ effectuée par année.
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 7 705 € et 15 385 € ,le taux de 9,35 % à la fraction comprise entre 15 385 € et 151
-965 € et le taux de 20 % à la fraction excédant 151 965 € et en multipliant le chiffre ainsi déterminé par le rapport qui
+l'année civile, qui est comprise entre 7 713 € et 15 401 €, le taux de 9,35 % à la fraction comprise entre 15 401 € et 152
+122 € et le taux de 20 % à la fraction excédant 152 122 € et en multipliant le chiffre ainsi déterminé par le rapport qui
 existe entre le montant de la rémunération qui a été payée pendant la période d'application de la majoration et le montant
 total de la rémunération annuelle. 
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
 a bénéficié au cours de la période d'application de la majoration les taux de : 
 
-4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 705 € et 15 385 € ; 
+4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 713 € et 15 401 € ; 
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 15 385 € et 151 965 € ;
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 15 401 € et 152 122 € ;
 
-15,75 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 151 965 €.
+15,75 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 152 122 €.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'art. 2-II de la loi n° 2014-1654 du 29 décembre 2014
+Modification effectuée en conséquence de l'article 2-I-1° de la loi n° 2015-1785 du 29 décembre 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 2
+	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 	**Cité par**:
 
@@ -5996,7 +6000,7 @@ Modification effectuée en conséquence de l'art. 2-II de la loi n° 2014-1654 d
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 383
-	  - Code général des impôts, CGI. - art. 231 (M)
+	  - Code général des impôts, CGI. - art. 231
 
 
 ###### Article 144
@@ -6004,7 +6008,7 @@ Modification effectuée en conséquence de l'art. 2-II de la loi n° 2014-1654 d
 La déclaration des traitements et salaires que les employeurs sont tenus de souscrire en exécution des dispositions de
 l'article 87 du code général des impôts doit, pour ceux d'entre eux qui sont redevables en totalité ou partiellement de la
 taxe sur les salaires, faire ressortir distinctement, pour chaque bénéficiaire dont la rémunération individuelle annuelle a
-excédé 7 705 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
+excédé 7 713 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
 majoration de la taxe sur les salaires. 
 
 Elle doit comporter, en outre, l'indication du montant des compléments de droits acquittés en application de l'article 142 à
@@ -6012,13 +6016,13 @@ raison des rémunérations payées pendant cette même période.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'art. 2-II de la loi n° 2014-1654 du 29 décembre 2014.
+Modification effectuée en conséquence de l'article 2-I-1° de la loi n° 2015-1785 du 29 décembre 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 2
+	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 	**Cite**:
 
@@ -6256,29 +6260,6 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2008-2
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 235 ter EB
-
-
-##### 3° : Obligations déclaratives et versement de la participation
-
-###### Article 163 quaterdecies A
-
-Les versements prévus aux articles 235 ter G et 235 ter H bis du code général des impôts sont réalisés dans les conditions
-prévues à l'article R. 6331-35 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-608 du 3 juin 2015 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2016-775 du 10 juin 2016 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 235 ter G
-	  - Code du travail - art. R6331-35
 
 
 ##### III : Employeurs occupant moins de dix salariés
@@ -9144,9 +9125,8 @@ personnel sur les lieux du travail ;
 
 d. Affectés de façon exclusive à l'enseignement de la conduite ; 
 
-e. De type tout terrain affectés exclusivement à l'exploitation des remontées mécaniques et des domaines skiables, dès lors
-qu'ils ont été certifiés par le service technique des remontées mécaniques et des transports guidés, dans des conditions
-fixées par décret ; 
+e. De type tout terrain affectés exclusivement à l'exploitation des remontées mécaniques et des domaines skiables, dans des
+conditions fixées par décret ; 
 
 f. Acquis par les entreprises de transports publics de voyageurs et affectés de façon exclusive à la réalisation desdits
 transports ; 
@@ -9192,11 +9172,19 @@ imposables, un coefficient d'assujettissement unique, sous réserve d'en justifi
 avant le 25 avril de l'année suivante ou le 31 décembre de l'année suivante pour ceux qui deviennent redevables de la taxe
 sur la valeur ajoutée en cours d'année.
 
+**Nota:**
+
+<font size="1" color="#000000">
+    <font size="1">En conséquence</font> des articles art. 4 et 21-I de l'ordonnance n° 2015-1682 du 17 décembre 2015, a</
+font>
+  <font size="1" color="#000000">u e du 6° du 2 du IV, les mots : " dès lors qu'ils ont été certifiés par le service
+technique des remontées mécaniques et des transports guidés, " devenus sans objet ont été supprimés.</font>
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 2
+	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 	**Cité par**:
 
@@ -9208,7 +9196,7 @@ sur la valeur ajoutée en cours d'année.
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 205 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 205
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 209
 	  - Code général des impôts, CGI. - art. 256
 	  - Code général des impôts, CGI. - art. 266
@@ -11943,10 +11931,9 @@ régime simplifié de liquidation des taxes sur le chiffre d'affaires.
 
 ###### Article 267 octies
 
-Les déclarations prévues aux articles 407 et 408 de récolte et de stocks de vins prévues aux articles 407 et 408 du code
-général des impôts et qui renferment en outre les indications fixées par décrets (1) sont établies sur des imprimés mis à la
-disposition des déclarants et déposées à la mairie qui en donne récépissé. Une copie de ces déclarations reste en mairie et
-doit être communiquée à tout requérant. 
+La déclaration prévue à l'article 407 du code général des impôts et qui renferme en outre les indications fixées par décrets
+est établie sur des imprimés mis à la disposition des déclarants et déposée à la mairie qui en donne récépissé. Une copie de
+cette déclaration reste en mairie et doit être communiquée à tout requérant. 
 
 Les autres exemplaires sont transmis, par les soins de la mairie, au service des douanes et droits indirects dans le ressort
 duquel sont situées les exploitations intéressées. Ce service ne peut délivrer des titres de mouvement au déclarant pour une
@@ -11959,7 +11946,7 @@ dans les mêmes conditions que ci-dessus, sauf l'affichage qui a lieu après la 
 
 **Nota:**
 
-(1) Voir l'article 169 bis de l'annexe III.
+Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015.
 
 **Liens relatifs à cet article**
 
@@ -11970,16 +11957,11 @@ dans les mêmes conditions que ci-dessus, sauf l'affichage qui a lieu après la 
 
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 42 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 169 bis (Ab)
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
 
 
 ##### 2° : Mesurage des appareils et vaisseaux
@@ -13536,13 +13518,12 @@ Les entrepositaires agréés transmettent au service des douanes et droits indir
 le dixième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au premier alinéa et,
 le cas échéant, ceux prévus au 1° du II. 
 
-IV.-Les registres doivent être clôturés une fois par an, à la date de souscription de la déclaration des stocks mentionnée à
-l'article 408 du code général des impôts, pour les récoltants y compris les sociétés coopératives et leurs unions. La
-déclaration annuelle est transmise au service des douanes et droits indirects territorialement compétent, au plus tard le
-dixième jour du deuxième mois qui suit la clôture des comptes. 
+IV.-Les registres doivent être clôturés une fois par an pour les récoltants y compris les sociétés coopératives et leurs
+unions. La déclaration annuelle est transmise au service des douanes et droits indirects territorialement compétent, au plus
+tard le dixième jour du deuxième mois qui suit la clôture des comptes. 
 
-V.-Les registres peuvent être constitués par des annotations au verso des déclarations de récolte et des stocks mentionnées
-aux articles 407 et 408 du code général des impôts. 
+V.-Les registres peuvent être constitués par des annotations au verso des déclarations de récolte et des stocks mentionnées à
+l'article 407 du code général des impôts. 
 
 VI.-Les registres sont tenus par entrepôt fiscal suspensif de droits d'accises et sur les lieux mêmes où les produits sont
 détenus. 
@@ -13567,6 +13548,10 @@ et 614 A dudit code.
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
 le directeur régional des douanes et droits indirects.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -13574,7 +13559,7 @@ le directeur régional des douanes et droits indirects.
 	  - Arrêté du 27 juillet 2003 - art. 6 (V)
 	  - Arrêté du 27 juillet 2003 - art. 7 (V)
 	  - Arrêté du 27 juillet 2003 - art. 8 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H ter (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 C (V)
@@ -13587,9 +13572,7 @@ le directeur régional des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1075 du 21 septembre 2012 - art. 2
-	  - Décret n°2012-1075 du 21 septembre 2012 - art. 4
-	  - Décret n°2012-1075 du 21 septembre 2012 - art. 5
+	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 	**Cite**:
 
@@ -14063,7 +14046,7 @@ suspensif.
 
 II.-Les alcools, boissons alcooliques et tabacs manufacturés destinés aux comptoirs de vente circulent dans des contenants
 scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport et sous couvert du
-document d'accompagnement prévu à l'article 302 M ou 302 M ter du code général des impôts. 
+document d'accompagnement prévu à l'article 302 M ou à l'article 302 M ter du code général des impôts. 
 
 Les alcools, boissons alcooliques et tabacs manufacturés destinés à la vente à bord ou à l'avitaillement circulent dans des
 contenants scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport et sont
@@ -14087,9 +14070,9 @@ la consommation sur le territoire métropolitain.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-184 du 17 février 2015 - art. 1
+	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 	**Cité par**:
 
@@ -14110,13 +14093,13 @@ la consommation sur le territoire métropolitain.
 
 L'entrepositaire agréé qui gère un comptoir de vente tient une comptabilité matières permettant de distinguer les entrées et
 sorties dans chacun des lieux de vente du comptoir de vente et en reprenant les références du document d'accompagnement prévu
-à l'article 302 M ou 302 M ter du code général des impôts.
+à l'article 302 M ou à l'article 302 M ter du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-184 du 17 février 2015 - art. 1
+	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 	**Cite**:
 
@@ -14264,39 +14247,6 @@ manufacturé ainsi que pour les entrepositaires agréés, la suspension ou le re
 
 #### Chapitre III : Dispositions communes à l'ensemble des contributions indirectes
 
-##### I : Frais de surveillance
-
-###### Article 287
-
-Le montant de la somme à rembourser en application du troisième alinéa de l'article 631 du code général des impôts est
-calculé en divisant les émoluments mentionnés à cet alinéa par le nombre d'heures de travail légal dans l'année.
-
-**Nota:**
-
-<font color="#000000" size="1">En conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015</font>
-  <font color="#000000" size="1">, cet article devient sans objet.</font>
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PERIME: Décret n°2016-775 du 10 juin 2016 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 631
-
-
 ##### III : Compétences des directeurs régionaux des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées
 
 ###### Article 289
@@ -14339,9 +14289,7 @@ au même code ;
 10° Délivrance de permis de circulation pour les alambics utilisés par les loueurs d'alambics, prévue par les articles 311
 bis, 327 et 328 du code général des impôts ; 
 
-11° Autorisation de remplacer le carnet de réception de sucre, glucose, isoglucose et de sirop d'inuline par tous autres
-registres ou documents présentant les mêmes indications, prévue par le deuxième alinéa de l'article 425 du code général des
-impôts ; 
+11° (Alinéa sans objet) ;
 
 12° (Alinéa sans objet) ; 
 
@@ -14487,6 +14435,10 @@ l'annexe IV, prévue à l'article 164 AW de la même annexe ;
 56° Délivrance et retrait de l'agrément d'acheteur-revendeur de tabacs manufacturés prévu à l'article 568 du code général des
 impôts.
 
+**Nota:**
+
+En conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015, le 11° devient sans objet.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -14494,7 +14446,7 @@ impôts.
 	  - Décret n°2007-906 du 15 mai 2007 - art. 1
 	  - Décret n°2007-906 du 15 mai 2007 - art. 10
 	  - Décret n°2007-906 du 15 mai 2007 - art. 16
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (M)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 N
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 I
@@ -14537,7 +14489,7 @@ impôts.
 
 	**Modifié par**:
 
-	  - Décret n°2015-184 du 17 février 2015 - art. 1
+	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 
 ### Titre IV : Enregistrement, publicité foncière, Impôt de solidarité sur la fortune, timbre
