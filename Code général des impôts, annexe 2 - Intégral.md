@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-06-13
+Version Consolidée au 2016-07-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15454,7 +15454,7 @@ impôts
 et l'actif des organismes de placement collectif mentionnés au même e sont composés d'immeubles bâtis respectant les
 conditions mentionnées aux a à c de l'article 279-0 bis A du code précité ou d'immeubles bâtis financés dans les conditions
 mentionnées aux 
-articles R. 331-17 à R. 331-21 du code de la construction et de l'habitation
+articles R. 331-17 à R. 331-21 du code de la construction et de l'habitation 
 ou de droits réels portant sur ces derniers immeubles. 
 
 II.-Le nombre de salariés, le chiffre d'affaires et le total de bilan de la société émettrice des titres mentionnés au b du
@@ -15469,6 +15469,11 @@ laquelle elle détient des participations.
 Les données retenues pour apprécier le respect des conditions mentionnées au premier alinéa du II sont celles afférentes au
 dernier exercice comptable, déposé au greffe du tribunal de commerce ou rendu public par un dispositif équivalent, et qui
 précède la date d'acquisition des titres. Elles sont calculées sur une base annuelle. 
+
+II bis.-Sont considérés comme des actifs relevant de l'économie sociale et solidaire, au titre du c du 2° du 2 du I bis de
+l'article 990 I du code général des impôts, les titres émis par les entreprises agréées " entreprise solidaire d'utilité
+sociale " en application de l'article L. 3332-17-1 du code du travail ainsi que les parts ou actions d'organismes de
+placement collectif comprenant au minimum 5 % de titres émis par ces entreprises. 
 
 III.-Le respect de la proportion d'investissement prévue au neuvième alinéa du 2 du I bis de l'article 990 I du code général
 des impôts s'apprécie au regard du rapport entre la valeur des titres mentionnés au 1° et aux a à c du 2° du 2 du I bis de
@@ -15498,13 +15503,14 @@ alinéa du 2 du I bis de l'article 990 I du code général des impôts dans les 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1011 du 5 septembre 2014 - art. 1
+	  - Décret n°2016-918 du 4 juillet 2016 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 990 I
+	  - Code du travail - art. L3332-17-1
 	  - Code de la construction et de l'habitation. - art. R331-17
 
 
