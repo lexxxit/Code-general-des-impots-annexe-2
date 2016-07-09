@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-07-07
+Version Consolidée au 2016-07-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12156,27 +12156,29 @@ mentionné à l'article 275 bis C.
 
 ###### Article 275 bis C
 
-La convention d'habilitation est conclue avec le directeur régional des douanes et droits indirects du ressort dont relève le
-professionnel. La conclusion d'une convention d'habilitation est subordonnée aux conditions suivantes :
+La convention d'habilitation est conclue avec le directeur interrégional des douanes et droits indirects du ressort dont
+relève le professionnel ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, le directeur régional des douanes et droits
+indirects. La conclusion d'une convention d'habilitation est subordonnée aux conditions suivantes : 
 
 1° Le professionnel s'engage à respecter un cahier des charges décrivant l'organisation de l'entreprise, la procédure et les
 méthodes de contrôle permettant de s'assurer du titre des ouvrages, les méthodes utilisées pour attester la garantie du titre
 et le protocole de sécurité informatique mis en place en cas du marquage au laser et mentionnant la qualification des
 personnes responsables de son application. Un arrêté du ministre chargé du budget et du ministre chargé de l'industrie
-définit les spécifications techniques de ce cahier des charges ;
+définit les spécifications techniques de ce cahier des charges ; 
 
 2° Le professionnel recourt à des organismes de contrôle agréés mentionnés au II de l'article 535 du code général des impôts
 ou à des organismes de contrôle indépendants établis dans d'autres Etats membres de l'Union européenne, dans d'autres Etats
 parties à l'accord instituant l'Espace économique européen ou en Turquie, offrant des garanties identiques ou équivalentes à
 celles exigées en France pour contrôler le titre des ouvrages sur lesquels il entend attester la garantie du titre s'il ne
 souhaite pas effectuer ce contrôle lui-même. Il doit déclarer ces organismes à la direction régionale des douanes et droits
-indirects ;
+indirects ; 
 
 3° Le professionnel atteste la garantie du titre des ouvrages dans un local sécurisé de l'entreprise. Ce local est adapté à
-la conservation soit des poinçons de garantie métalliques soit des équipements dédiés à la gravure au laser.
+la conservation soit des poinçons de garantie métalliques soit des équipements dédiés à la gravure au laser. 
 
 L'autorisation d'attester la garantie du titre par le marquage au laser d'un poinçon mentionnée au b de l'article 523 du code
-général des impôts est accordée par le directeur général des douanes et des droits indirects.
+général des impôts est accordée par le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane,
+à La Réunion et à Mayotte, le directeur régional des douanes et droits indirects. 
 
 L'administration peut vérifier sur pièces et sur place, dans les conditions visées à l'article L. 36 du livre des procédures
 fiscales, la capacité du professionnel à respecter le cahier des charges présenté ainsi que l'existence et la sécurité du
@@ -12188,10 +12190,12 @@ local de la marque.
 
 	  - CGI 535
 	  - CGI Livre des procédures fiscales L36
+	  - Code général des impôts, CGI. - art. 523 (V)
+	  - Code général des impôts, CGI. - art. 535 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2012-247 du 21 février 2012 - art. 3
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
 
 	**Cité par**:
 
@@ -12207,23 +12211,20 @@ Le professionnel habilité doit informer la direction régionale des douanes et 
 modification des conditions auxquelles était subordonnée la conclusion de la convention. La déclaration en est faite au plus
 tard quarante jours avant la date envisagée pour sa mise en oeuvre.
 
-Le directeur régional des douanes et droits indirects dispose d'un délai de trente jours à compter de la réception de l'avis
-du professionnel pour lui faire connaître son agrément ou son opposition à la modification projetée. Il peut, le cas échéant,
+Le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, le
+directeur régional des douanes et droits indirects dispose d'un délai de trente jours à compter de la réception de l'avis du
+professionnel pour lui faire connaître son agrément ou son opposition à la modification projetée. Il peut, le cas échéant,
 proposer un avenant à la convention.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 275 bis E
@@ -12385,10 +12386,12 @@ professionnel.
 ###### Article 275 bis K
 
 Il est mis fin à la convention d'habilitation à la demande du professionnel sous réserve de respecter un préavis d'un mois à
-compter de la réception de l'avis par le directeur régional des douanes et droits indirects.
+compter de la réception de l'avis par le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en
+Guyane, à La Réunion et à Mayotte, le directeur régional des douanes et droits indirects.
 
-Le directeur régional des douanes et droits indirects peut résilier d'office la convention d'habilitation si le professionnel
-ne remplit plus les conditions auxquelles était subordonnée sa conclusion ou s'il a manqué aux obligations résultant des
+Le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, le
+directeur régional des douanes et droits indirects peut résilier d'office la convention d'habilitation si le professionnel ne
+remplit plus les conditions auxquelles était subordonnée sa conclusion ou s'il a manqué aux obligations résultant des
 articles 275 bis B à 275 bis L. Le professionnel est préalablement informé des motifs susceptibles d'entraîner la résiliation
 de la convention et est mis à même de présenter ses observations dans un délai de quinze jours. La décision de résiliation
 est motivée. La résiliation prend effet à l'expiration d'un délai d'un mois à compter de la notification de la décision de
@@ -12404,7 +12407,7 @@ détient.
 
 	**Modifié par**:
 
-	  - Décret n°2012-247 du 21 février 2012 - art. 8
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
 
 	**Cité par**:
 
@@ -12491,17 +12494,18 @@ organigramme faisant apparaître les responsabilités et les structures de déci
 annuels si l'antériorité de l'organisme le permet.
 
 L'autorisation d'attester la garantie du titre par le marquage au laser d'un poinçon mentionnée au b de l'article 523 du code
-général des impôts est accordée par le directeur général des douanes et des droits indirects.
+général des impôts est accordée par le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane,
+à La Réunion et à Mayotte, le directeur régional des douanes et droits indirects.
 
 **Nota:**
 
-Modification effectuée en conséquence du décret n° 2014-1048 du 15 septembre 2014, article 4.
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 2
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
 
 	**Cité par**:
 
@@ -13546,11 +13550,7 @@ tenue de la comptabilité matières telles que prévues par le présent article 
 et 614 A dudit code. 
 
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
-le directeur régional des douanes et droits indirects.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015.
+le directeur interrégional des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
@@ -13559,7 +13559,7 @@ Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2
 	  - Arrêté du 27 juillet 2003 - art. 6 (V)
 	  - Arrêté du 27 juillet 2003 - art. 7 (V)
 	  - Arrêté du 27 juillet 2003 - art. 8 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H ter (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 C (V)
@@ -13572,7 +13572,7 @@ Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 3
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
 
 	**Cite**:
 
@@ -13598,7 +13598,8 @@ Commission du 26 mai 2009 portant modalités d'application du règlement (CE) n�
 casier viticole, les déclarations obligatoires et l'établissement des informations pour le suivi du marché, les documents
 accompagnant les transports des produits et les registres à tenir dans le secteur vitivinicole ; 
 
-c) Soit enfin, sur agrément délivré par le directeur régional des douanes et droits indirects, en vertu de l'article 286 K : 
+c) Soit enfin, sur agrément délivré par le directeur interrégional des douanes et droits indirects, en vertu de l'article 286
+K : 
 
 1. Par des documents établis selon d'autres modèles, sous réserve que soient reprises toutes les informations mentionnées au
 présent article, ainsi que les déclarations qu'il prévoit et, le cas échéant, les informations particulières relatives aux
@@ -13642,10 +13643,10 @@ indirects.
 III.-Lorsque les éléments constitutifs de la comptabilité matières doivent faire l'objet d'un agrément, l'entrepositaire
 agréé joint à sa demande un modèle de comptabilité ou de registre. 
 
-La demande d'agrément est transmise au directeur régional des douanes et droits indirects ayant dans le ressort territorial
-de sa circonscription le ou les entrepôts fiscaux suspensifs des droits d'accises concernés ou l'entrepôt fiscal suspensif
-des droits d'accises choisi par l'entrepositaire comme lieu unique de la tenue de la comptabilité matières de l'ensemble de
-ses entrepôts. 
+La demande d'agrément est transmise au directeur interrégional des douanes et droits indirects ayant dans le ressort
+territorial de sa circonscription le ou les entrepôts fiscaux suspensifs des droits d'accises concernés ou l'entrepôt fiscal
+suspensif des droits d'accises choisi par l'entrepositaire comme lieu unique de la tenue de la comptabilité matières de
+l'ensemble de ses entrepôts. 
 
 La demande d'agrément contient l'adresse des entrepôts suspensifs des droits d'accises, ainsi que du lieu où sont tenus et
 conservés la comptabilité ou les registres. 
@@ -13820,7 +13821,7 @@ comptabilité matières telles que prévues par le présent article et les oblig
 dudit code. 
 
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
-le directeur régional des douanes et droits indirects.
+le directeur interrégional des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
@@ -13837,21 +13838,17 @@ le directeur régional des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1075 du 21 septembre 2012 - art. 1
-	  - Décret n°2012-1075 du 21 septembre 2012 - art. 2
-	  - Décret n°2012-1075 du 21 septembre 2012 - art. 3
-	  - Décret n°2012-1075 du 21 septembre 2012 - art. 4
-	  - Décret n°2012-1075 du 21 septembre 2012 - art. 5
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
 
 	**Cite**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 37
 	  - Code général des impôts annexe 1, CGIAN1. - art. 56
-	  - Code général des impôts annexe 1, CGIAN1. - art. 70 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 K (V)
-	  - Code général des impôts, CGI. - art. 277 A (V)
-	  - Code général des impôts, CGI. - art. 302 D (V)
-	  - Code général des impôts, CGI. - art. 302 G (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 70
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 K
+	  - Code général des impôts, CGI. - art. 277 A
+	  - Code général des impôts, CGI. - art. 302 D
+	  - Code général des impôts, CGI. - art. 302 G
 	  - Code général des impôts, CGI. - art. 302 M
 	  - Code général des impôts, CGI. - art. 338
 	  - Code général des impôts, CGI. - art. 438
@@ -13864,7 +13861,7 @@ le directeur régional des douanes et droits indirects.
 
 ###### Article 286 K
 
-Pour obtenir la qualité d'entrepositaire agréé, la demande d'agrément est transmise au directeur régional des douanes et
+Pour obtenir la qualité d'entrepositaire agréé, la demande d'agrément est transmise au directeur interrégional des douanes et
 droits indirects ayant dans le ressort territorial de sa circonscription le ou les entrepôts fiscaux suspensifs des droits
 d'accises concernés ou l'entrepôt fiscal suspensif des droits d'accises choisi par l'entrepositaire comme lieu unique de la
 tenue de la comptabilité matières de l'ensemble de ses entrepôts.
@@ -13876,14 +13873,14 @@ En cas de tenue, par un entrepositaire agréé, de la comptabilité matières de
 d'accises à l'adresse d'un de ces entrepôts, l'entrepositaire agréé précise également dans sa demande l'adresse de l'entrepôt
 où les comptabilités matières sont tenues.
 
-Le directeur régional des douanes et droits indirects accorde la qualité d'entrepositaire agréé et lui attribue, le cas
+Le directeur interrégional des douanes et droits indirects accorde la qualité d'entrepositaire agréé et lui attribue, le cas
 échéant par entrepôt suspensif des droits d'accises, un numéro d'identification.
 
 Les personnes qui avaient le statut de marchand en gros au 31 décembre 1999 ou qui étaient inscrites, à cette même date, dans
 le casier viticole informatisé constitué en application du règlement (CEE) n° 2392/86 du Conseil du 24 juillet 1986, sont
 réputées remplir les obligations mentionnées au III de l'article 302 G du code général des impôts et ont de ce fait la
-qualité d'entrepositaire agréé à compter du 1er janvier 2000, sans démarche préalable de leur part. Le directeur régional des
-douanes et droits indirects leur notifie leur numéro d'identification.
+qualité d'entrepositaire agréé à compter du 1er janvier 2000, sans démarche préalable de leur part. Le directeur
+interrégional des douanes et droits indirects leur notifie leur numéro d'identification.
 
 **Liens relatifs à cet article**
 
@@ -13891,10 +13888,6 @@ douanes et droits indirects leur notifie leur numéro d'identification.
 
 	  - CGI 302 G
 	  - Règlement CEE 2392/86 1986-07-24 (Conseil)
-
-	**Créé par**:
-
-	  - Décret n°2000-739 du 1 août 2000 - art. 1 () JORF 4 août 2000
 
 	**Cité par**:
 
@@ -13904,9 +13897,9 @@ douanes et droits indirects leur notifie leur numéro d'identification.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AO (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
 
 
 ###### Article 286 L
@@ -13955,7 +13948,7 @@ III de l'article 302 D du code général des impôts.
 Le bénéfice du remboursement des droits est demandé par l'entrepositaire agréé lorsque la compensation des droits ne peut
 être réalisée par celui-ci au cours des trois mois qui suivent la demande.
 
-Le directeur régional des douanes et droits indirects est compétent pour statuer sur les demandes susmentionnées de
+Le directeur interrégional des douanes et droits indirects est compétent pour statuer sur les demandes susmentionnées de
 compensation ou de remboursement des droits acquittés ou supportés.
 
 **Liens relatifs à cet article**
@@ -13966,16 +13959,12 @@ compensation ou de remboursement des droits acquittés ou supportés.
 
 	**Modifié par**:
 
-	  - Décret n°2006-532 du 11 mai 2006 - art. 2 () JORF 12 mai 2006
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 178-0 bis B (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 G (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 286 N
@@ -14251,8 +14240,9 @@ manufacturé ainsi que pour les entrepositaires agréés, la suspension ou le re
 
 ###### Article 289
 
-Les directeurs régionaux des douanes et droits indirects sont compétents, dans le cadre de leurs attributions, pour prendre
-les décisions administratives individuelles suivantes : 
+Les directeurs interrégionaux des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, les
+directeurs régionaux des douanes et droits indirects sont compétents, dans le cadre de leurs attributions, pour prendre les
+décisions administratives individuelles suivantes : 
 
 1° Fixation ou révision de taux annuels de déchets ou de pertes observés en cours de fabrication ou de transformation
 d'alcools et de boissons alcooliques accordés aux entrepositaires agréés par entrepôt suspensif de droits d'accises, prévues
@@ -14261,7 +14251,7 @@ même code ;
 
 2° Autorisation du procédé de dénaturation de l'alcool prévue au b du I de l'article 302 D bis du code général des impôts ; 
 
-3° (abrogé) 
+3° (abrogé) ; 
 
 4° Dispense de cautionnement en matière de contributions indirectes prévue au 2 du III de l'article 302 D, au V de l'article
 302 G, au premier alinéa du I de l'article 302 H ter, à l'article 302 J du code général des impôts et aux articles 286 N de
@@ -14272,8 +14262,8 @@ caution ou de dénonciation par cette caution de son engagement, prévu au V de 
 IX de l'article 286 I et au XI de l'article 286 J de l'annexe II et aux articles 111-0 C et 111-0 D de l'annexe III au même
 code ; 
 
-6° Remboursement et compensation des droits d'accises, prévu au IV de l'article 302 G du code général des impôts et aux 3 et
-4 du II de l'article 286 M de l'annexe II au même code ; 
+6° Remboursement et compensation des droits d'accises, prévu au IV de l'article 302 G du code général des impôts et à
+l'article 286 M de l'annexe II au même code ; 
 
 7° Autorisation de décharges de manquants pour les pertes de marchandises constatées lors de livraisons d'alcool, de boissons
 alcooliques ou de tabacs manufacturés en suspension de droits d'accises, à destination d'un entrepositaire agréé ou d'un
@@ -14289,22 +14279,20 @@ au même code ;
 10° Délivrance de permis de circulation pour les alambics utilisés par les loueurs d'alambics, prévue par les articles 311
 bis, 327 et 328 du code général des impôts ; 
 
-11° (Alinéa sans objet) ;
+11° (supprimé) ; 
 
-12° (Alinéa sans objet) ; 
+12° (supprimé) ; 
 
 13° Admission en décharge des quantités d'alcool ou de boissons alcooliques en cas de pertes accidentelles, prévue au
 troisième alinéa de l'article 111-00 A de l'annexe III au code général des impôts ; 
 
-14° Attribution et révision du taux annuel de pertes ou de déchets, prévues à l'article 111-00 B de l'annexe III au code
-général des impôts ; 
+14° (supprimé) ; 
 
 15° Attribution et retrait du numéro d'identification des intermédiaires, prévus au 2° du II de l'article 111-0 E de l'annexe
 III au code général des impôts et attribution et retrait du numéro d'identification des utilisateurs d'alcools et de boissons
 alcooliques en exonération de droits d'accises, prévus au 1° du I de l'article 111-0F de la même annexe ; 
 
-16° Délivrance du numéro d'agrément des personnes responsables de l'embouteillage du produit, prévue par l'article 111 I de
-l'annexe III et le a de l'article 50-0 C de l'annexe IV au code général des impôts ; 
+16° (supprimé) ; 
 
 17° Autorisation donnée aux entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et des débitants
 de boissons mentionnés à l'article 502 du même code, d'utiliser leurs factures ou tout autre document commercial, en lieu et
@@ -14316,24 +14304,10 @@ l'article 178 P de l'annexe III au code général des impôts ;
 
 19° Dispense des formalités à la circulation, prévue par l'article 178 AA de l'annexe III au code général des impôts ; 
 
-20° Autorisation de procéder à un second essai sur des objets marqués du poinçon de la garantie, prévue à l'article 207 de
-l'annexe III au code général des impôts ; 
+20° Autorisation de procéder à la vérification de la légalité du titre d'un ouvrage en or, argent ou platine marqué d'un
+poinçon de garantie, prévue à l'article 207 de l'annexe III au code général des impôts ; 
 
-21° Résiliation du contrat de gérance qui lie les débitants de tabacs ordinaires ou temporaires avec l'administration des
-douanes et droits indirects, prévue au deuxième alinéa du 1 de l'article 1er du décret n° 2007-906 du 15 mai 2007 ; 
-
-22° Rejet de la soumission d'un signataire du cahier des charges dans le cadre de la procédure d'adjudication de
-l'attribution de la gérance d'un débit de tabac, prévu par le deuxième alinéa du 3 du II de l'article 16 du décret précité ; 
-
-23° Rejet de la candidature d'une personne qui a été retenue pour participer à la procédure d'adjudication en vue de
-l'attribution de la gérance d'un débit de tabac ordinaire en raison de l'absence de fourniture de l'un ou de plusieurs
-renseignements ou documents énumérés au 1 du III de l'article 16 du décret précité, prévu par le 2 du III du même article ; 
-
-24° Autorisation d'approvisionnement en tabac donnée à un candidat à la gérance d'un débit de tabac ordinaire, prévue par
-l'article 6 du décret précité ; 
-
-25° Retrait de la faculté de revente des tabacs manufacturés, en cas de non-respect par le revendeur des dispositions prévues
-aux articles 23 à 25 du décret précité, prévu par l'article 26 du même décret ; 
+21° à 25° (supprimés) ; 
 
 26° Autorisation des entrepositaires agréés de rattacher un ou plusieurs chais ou locaux au site d'exploitation lorsqu'ils
 sont situés en dehors des limites fixées au I de l'article 50-00 B de l'annexe IV au code général des impôts, prévue par le
@@ -14365,9 +14339,9 @@ de l'annexe IV au CGI, prévu par le deuxième alinéa de l'article 54-0 V de l'
 prévue par le deuxième alinéa de l'article 54-0 Z de l'annexe IV au code général des impôts ; 
 
 35° Accord de restitution ou de remise des droits et taxes après constatation par le service des douanes et droits indirects
-de la preuve de la sortie du produit du territoire de la Communauté européenne ou après présentation d'un des documents
-mentionnés à l'article 302 M du code général des impôts, prévu par le dernier alinéa de l'article 54-0 Z de l'annexe IV au
-code général des impôts ; 
+de la preuve de la sortie du produit du territoire de l'Union européenne ou après présentation d'un des documents mentionnés
+à l'article 302 M du code général des impôts, prévu par le dernier alinéa de l'article 54-0 Z de l'annexe IV au code général
+des impôts ; 
 
 36° Habilitation à répartir les capsules collectives représentatives des droits destinées aux récoltants, prévue par le
 premier alinéa de l'article 54-0 BW de l'annexe IV au code général des impôts ; 
@@ -14379,31 +14353,7 @@ code général des impôts ;
 38° Autorisation d'employer des empreintes fiscales en lieu et place de vignettes, prévue par le II de l'article 54 A de
 l'annexe IV au code général des impôts ; 
 
-39° implantation des débits de tabac ordinaires permanents et saisonniers respectivement prévue aux articles 10 et 17 du
-décret n° 2007-906 du 15 mai 2007 ; 
-
-40° Autorisation de transfert d'un débit de tabac ordinaire saisonnier prévue à l'article 19 du décret précité ; 
-
-41° Notification de la fermeture provisoire ou définitive d'un débit de tabac ordinaire respectivement prévue aux articles 7
-et 8 du décret précité ; 
-
-42° Réouverture d'un débit de tabac ordinaire fermé provisoirement à la suite de la demande de toute personne intéressée par
-la reprise de sa gérance prévue au douzième alinéa de l'article 7 du décret précité ; 
-
-43° Autorisation de transformer un débit de tabac ordinaire saisonnier en débit de tabac ordinaire permanent prévue au II de
-l'article 18 du décret précité ; 
-
-44° Autorisation de transformer un débit de tabac ordinaire permanent en débit de tabac ordinaire saisonnier prévue au III de
-l'article 18 du décret précité ; 
-
-45° Autorisation délivrée aux établissements de spectacles de faire usage de distributeurs automatiques pour la délivrance de
-billets, prévue par l'article 128 de l'annexe IV au code général des impôts ; 
-
-46° Autorisation donnée aux établissements de spectacles d'utiliser des carnets journaliers de billets, prévue par le premier
-alinéa de l'article 129 de l'annexe IV au code général des impôts ; 
-
-47° Autorisation de déroger aux règles fixées par les articles 127,128 et 129 de l'annexe IV au code général des impôts en
-matière de billetterie pour les représentations occasionnelles ; 
+39° à 47° (supprimés) ; 
 
 48° Mise en demeure adressée au comité de direction d'un cercle de jeu de ne pas maintenir en fonction un préposé n'arrivant
 pas à assurer de manière satisfaisante la concordance entre les sommes trouvées dans la cagnotte et la valeur des tickets
@@ -14430,48 +14380,74 @@ fermentées, produits intermédiaires et alcools, prévue au VI de l'article 164
 54° Révocation de l'autorisation donnée aux usagers de matériels ou de logiciels mentionnée au I de l'article 164 AU de
 l'annexe IV, prévue à l'article 164 AW de la même annexe ; 
 
-55° Décisions relatives aux réclamations contentieuses, prévues à l'article R. * 198-10 du livre des procédures fiscales ; 
+55° (supprimé) ; 
 
 56° Délivrance et retrait de l'agrément d'acheteur-revendeur de tabacs manufacturés prévu à l'article 568 du code général des
-impôts.
+impôts ; 
 
-**Nota:**
+57° Délivrance des certificats d'exportation préalable de rhums traditionnels des départements d'outre-mer, en application de
+l'article 144 bis de l'annexe III au code général des impôts et de l'article 52 quater de l'annexe IV au même code ; 
 
-En conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015, le 11° devient sans objet.
+58° Autorisation d'attester la garantie du titre par marquage au laser prévue par le b de l'article 523 du code général des
+impôts, les articles 275 bis C et 275 ter B de l'annexe II au même code et les articles 56 J duodecies et 56 J terdecies de
+l'annexe IV au même code ; 
+
+59° Demande de procéder à un second essai en cas de contestation sur le titre, en application du premier alinéa de l'article
+530 du code général des impôts et de l'article 203 de l'annexe III au même code ; 
+
+60° Conclusion des conventions habilitant les professionnels à attester eux-mêmes la garantie du titre, en application du I
+de l'article 535 du code général des impôts et de l'article 275 bis C de l'annexe II au même code ; 
+
+61° Autorisation de modifier les conditions auxquelles était subordonnée la conclusion de la convention des professionnels
+habilités à attester eux-mêmes la garantie du titre, en application du I de l'article 535 du code général des impôts et de
+l'article 275 bis D de l'annexe II au même code ; 
+
+62° Décision de résiliation des conventions habilitant les professionnels à attester eux-mêmes la garantie du titre, en
+application du deuxième alinéa du I de l'article 535 du code général des impôts et du deuxième alinéa de l'article 275 bis K
+de l'annexe II au même code ; 
+
+63° Autorisation de refonte d'ouvrages aux titres légaux destinés à une commercialisation en dehors du territoire français
+sans apposition des poinçons réglementaires, en application de l'article 543 du code général des impôts et de l'article 208
+de l'annexe I au même code.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
+
 	**Cite**:
 
-	  - Décret n°2007-906 du 15 mai 2007 - art. 1
-	  - Décret n°2007-906 du 15 mai 2007 - art. 10
-	  - Décret n°2007-906 du 15 mai 2007 - art. 16
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (M)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 208 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis D (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis K (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter B (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 N
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 I
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 C
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 D
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 E
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 B
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 144 bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AA
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 P
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 207
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 128
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 129
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 203 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 207 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 151
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 C
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 C
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 52 quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 C
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 I
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Z
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J duodecies (V)
 	  - Code général des impôts, CGI. - art. 302 D
 	  - Code général des impôts, CGI. - art. 302 D bis
 	  - Code général des impôts, CGI. - art. 302 G
@@ -14482,14 +14458,12 @@ En conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 20
 	  - Code général des impôts, CGI. - art. 309
 	  - Code général des impôts, CGI. - art. 311 bis
 	  - Code général des impôts, CGI. - art. 327
-	  - Code général des impôts, CGI. - art. 425
 	  - Code général des impôts, CGI. - art. 502
+	  - Code général des impôts, CGI. - art. 523 (V)
+	  - Code général des impôts, CGI. - art. 530 (V)
+	  - Code général des impôts, CGI. - art. 535 (V)
+	  - Code général des impôts, CGI. - art. 543 (V)
 	  - Code général des impôts, CGI. - art. 568
-	  - Livre des procédures fiscales - art. R*198-10
-
-	**Modifié par**:
-
-	  - Décret n°2016-775 du 10 juin 2016 - art. 3
 
 
 ### Titre IV : Enregistrement, publicité foncière, Impôt de solidarité sur la fortune, timbre
@@ -21728,9 +21702,10 @@ prépondérante.
 
 ###### Article 408
 
-I.-1° Le directeur départemental des finances publiques ou le directeur régional des douanes et droits indirects ou,
-s'agissant des impositions et pénalités établies à l'initiative d'une direction spécialisée des finances publiques ou d'un
-service à compétence nationale, le directeur chargé de cette direction ou de ce service a seul pouvoir de : 
+I.-1° Le directeur départemental des finances publiques ou le directeur interrégional des douanes et droits indirects ou, en
+Guadeloupe, en Guyane, à La Réunion et à Mayotte, le directeur régional des douanes et droits indirects ou, s'agissant des
+impositions et pénalités établies à l'initiative d'une direction spécialisée des finances publiques ou d'un service à
+compétence nationale, le directeur chargé de cette direction ou de ce service a seul pouvoir de : 
 
 a) Statuer sur les réclamations contentieuses mentionnées à l'article L. 190 du livre des procédures fiscales ; 
 
@@ -21745,8 +21720,9 @@ et R. * 247-5 de ce livre ;
 e) Représenter l'Etat devant le tribunal administratif et devant les juridictions des premier et second degrés de l'ordre
 judiciaire dans les instances relatives aux affaires mentionnées aux a, b, c et d. 
 
-2° Le directeur départemental des finances publiques ou le directeur régional des douanes et droits indirects ou, s'agissant
-des impositions et pénalités recouvrées par une direction spécialisée des finances publiques ou un service à compétence
+2° Le directeur départemental des finances publiques ou le directeur interrégional des douanes et droits indirects ou, en
+Guadeloupe, en Guyane, à La Réunion et à Mayotte, le directeur régional des douanes et droits indirects ou, s'agissant des
+impositions et pénalités recouvrées par une direction spécialisée des finances publiques ou un service à compétence
 nationale, le directeur chargé de cette direction ou de ce service, a seul pouvoir de : 
 
 a) Statuer sur les demandes de décharge de l'obligation de paiement solidaire fondées sur les dispositions du II de l'article
@@ -21759,8 +21735,9 @@ livre ;
 c) Représenter l'Etat devant le tribunal administratif et devant les juridictions des premier et second degrés de l'ordre
 judiciaire dans les instances relatives aux affaires mentionnées aux a et b. 
 
-3° Le directeur départemental des finances publiques ou le directeur régional des douanes et droits indirects ou, s'agissant
-des impositions et pénalités recouvrées par une direction spécialisée des finances publiques ou un service à compétence
+3° Le directeur départemental des finances publiques ou le directeur interrégional des douanes et droits indirects ou, en
+Guadeloupe, en Guyane, à La Réunion et à Mayotte, le directeur régional des douanes et droits indirects ou, s'agissant des
+impositions et pénalités recouvrées par une direction spécialisée des finances publiques ou un service à compétence
 nationale, le directeur chargé de cette direction ou de ce service a seul pouvoir de : 
 
 a) Statuer sur les contestations relatives au recouvrement prévues par les articles L. 281 et L. 283 du livre des procédures
@@ -21778,13 +21755,29 @@ est fixée par arrêté du ministre chargé du budget et les agents chargés de 
 sous l'autorité duquel ils sont placés, les décisions et actes mentionnés au I. Cet arrêté fixe également les conditions et
 les limites de la délégation. 
 
-Le changement de directeur ne met pas fin à la délégation. 
+Le changement de directeur ne met pas fin à la délégation.
+
+A compter du jour où prend effet l'acte les nommant dans leurs fonctions, pour ce qui concerne l'administration des douanes
+et droits indirects, les chefs des services spécialisés ou les directeurs régionaux des douanes et droits indirects, à
+l'exception des directeurs régionaux des douanes et droits indirects en Guadeloupe, en Guyane, à La Réunion et à Mayotte, et
+les agents chargés de leur intérim peuvent signer, au nom du directeur interrégional des douanes et droits indirects sous
+l'autorité duquel ils sont placés, les décisions et actes mentionnés au I. Un arrêté du ministre chargé du budget fixe les
+conditions et les limites de la délégation. 
+
+Le changement de directeur interrégional des douanes et droits indirects ne met pas fin à la délégation.  
 
 IV.-Les responsables de service mentionnés au III ou, le cas échéant, les agents chargés de leur intérim peuvent, dans les
 conditions fixées par arrêté du ministre chargé du budget, donner délégation aux agents placés sous leur autorité pour signer
 les décisions et actes relatifs aux affaires pour lesquelles ils ont eux-mêmes reçu délégation. 
 
 Cette délégation prend fin en même temps que les fonctions de celui qui l'a donnée. 
+
+Les directeurs régionaux des douanes et droits indirects ou les chefs des services spécialisés mentionnés au troisième alinéa
+du III ou, le cas échéant, les agents chargés de leur intérim peuvent, dans les conditions fixées par arrêté du ministre
+chargé du budget, donner délégation aux agents placés sous leur autorité pour signer les décisions et actes relatifs aux
+affaires pour lesquelles ils ont eux-mêmes reçu délégation. 
+
+Cette délégation prend fin en même temps que les fonctions de celui qui l'a donnée.
 
 V.-Les délégations prévues au II et au IV font l'objet : 
 
@@ -21803,6 +21796,11 @@ d'une direction spécialisée des finances publiques ou d'un service à compéte
 
 b) Au recueil des actes administratifs du département du siège de la direction dont ils relèvent, dans les autres cas.
 
+La liste nominative des directeurs régionaux des douanes et droits indirects ou des chefs des services spécialisés disposant
+de la délégation prévue au troisième alinéa du III et ses modifications font l'objet d'une publication au recueil des actes
+administratifs du département du siège de la direction interrégionale dont ils relèvent et au recueil des actes
+administratifs du département du siège de la direction régionale concernée ou du service spécialisé.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -21811,7 +21809,7 @@ b) Au recueil des actes administratifs du département du siège de la direction
 
 	**Modifié par**:
 
-	  - Décret n°2013-443 du 30 mai 2013 - art. 1
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
 
 	**Cité par**:
 
@@ -21820,12 +21818,12 @@ b) Au recueil des actes administratifs du département du siège de la direction
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1691 bis (V)
-	  - Livre des procédures fiscales - art. L190 (V)
-	  - Livre des procédures fiscales - art. L247 (V)
-	  - Livre des procédures fiscales - art. L281 (V)
-	  - Livre des procédures fiscales - art. R*247-4 (V)
-	  - Livre des procédures fiscales - art. R247-10 (V)
+	  - Code général des impôts, CGI. - art. 1691 bis
+	  - Livre des procédures fiscales - art. L190
+	  - Livre des procédures fiscales - art. L247
+	  - Livre des procédures fiscales - art. L281
+	  - Livre des procédures fiscales - art. R*247-4
+	  - Livre des procédures fiscales - art. R247-10
 
 
 ###### Article 409
