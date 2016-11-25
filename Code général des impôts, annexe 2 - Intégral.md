@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-10-14
+Version Consolidée au 2016-11-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11925,10 +11925,6 @@ régime simplifié de liquidation des taxes sur le chiffre d'affaires.
 
 #### Chapitre 0I : Boisson. Vins et cidres
 
-##### Section unique : Production
-
-##### 1° : Déclarations
-
 ###### Article 267 octies
 
 La déclaration prévue à l'article 407 du code général des impôts et qui renferme en outre les indications fixées par décrets
@@ -11955,14 +11951,20 @@ Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2
 	  - CGI 407, 408
 	  - CGIAN3 169 bis
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 3
+	  - DEPLACE: Décret n°2016-1585 du 24 novembre 2016 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1586 du 24 novembre 2016 - art. 1 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 169 bis (Ab)
 
+
+##### Section unique : Production
 
 ##### 2° : Mesurage des appareils et vaisseaux
 

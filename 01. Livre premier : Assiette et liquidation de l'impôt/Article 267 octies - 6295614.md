@@ -24,9 +24,13 @@ Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2
 	  - CGI 407, 408
 	  - CGIAN3 169 bis
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 3
+	  - DEPLACE: Décret n°2016-1585 du 24 novembre 2016 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1586 du 24 novembre 2016 - art. 1 (V)
 
 	**Cité par**:
 
