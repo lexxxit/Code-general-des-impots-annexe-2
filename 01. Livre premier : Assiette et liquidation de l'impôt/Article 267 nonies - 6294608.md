@@ -1,23 +1,17 @@
 # Article 267 nonies
 
-Les détenteurs d'appareils et de vaisseaux affectés à la production, au logement et au transport de liquides soumis à un
-droit indirect sont tenus de présenter au service des douanes et droits indirects dont ils relèvent, pour chacun de ces
-appareils ou vaisseaux et avant toute utilisation, le certificat de mesurage établi et remis au détenteur par le service des
-instruments de mesure en application de l'article 1er du décret n° 70-791 du 2 septembre 1970 et de tenir ensuite ce document
-à la disposition des agents chargés du contrôle, à tout moment, et notamment pendant les transports pour les récipients
-affectés au transport.
+Aucun certificat de jaugeage des récipients destinés à la production ou au stockage des vins, cidres et autres produits
+fermentés soumis au droit de circulation prévu à l'article 438 du code général des impôts et des bières mentionnées au a du I
+de l'article 520 A du même code n'est exigé pour des opérations fiscales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°791 1970-09-02 ART. 1
-
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 43 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°2016-1585 du 24 novembre 2016 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, CGI. - art. 438 (V)
+	  - Code général des impôts, CGI. - art. 520 A (V)
+	  - Décret n°791 1970-09-02 ART. 1

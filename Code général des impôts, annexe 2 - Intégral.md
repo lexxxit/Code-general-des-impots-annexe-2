@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-11-26
+Version Consolidée au 2016-11-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11923,74 +11923,25 @@ régime simplifié de liquidation des taxes sur le chiffre d'affaires.
 
 ### Titre III : Contributions indirectes
 
-#### Chapitre 0I : Boisson. Vins et cidres
-
-###### Article 267 octies
-
-La déclaration prévue à l'article 407 du code général des impôts et qui renferme en outre les indications fixées par décrets
-est établie sur des imprimés mis à la disposition des déclarants et déposée à la mairie qui en donne récépissé. Une copie de
-cette déclaration reste en mairie et doit être communiquée à tout requérant. 
-
-Les autres exemplaires sont transmis, par les soins de la mairie, au service des douanes et droits indirects dans le ressort
-duquel sont situées les exploitations intéressées. Ce service ne peut délivrer des titres de mouvement au déclarant pour une
-quantité de vin supérieure à celle qu'il a déclarée. 
-
-Le relevé nominatif des déclarations établi d'après leur ordre de dépôt, est affiché à la mairie. 
-
-Dès le début de la récolte, au fur et à mesure des nécessités de la vente, des déclarations partielles peuvent être faites
-dans les mêmes conditions que ci-dessus, sauf l'affichage qui a lieu après la déclaration totale.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 407, 408
-	  - CGIAN3 169 bis
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2016-1585 du 24 novembre 2016 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1586 du 24 novembre 2016 - art. 1 (V)
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 169 bis (Ab)
-
-
-##### Section unique : Production
-
-##### 2° : Mesurage des appareils et vaisseaux
+#### Chapitre 0I : Boisson. Vins, bières et cidres
 
 ###### Article 267 nonies
 
-Les détenteurs d'appareils et de vaisseaux affectés à la production, au logement et au transport de liquides soumis à un
-droit indirect sont tenus de présenter au service des douanes et droits indirects dont ils relèvent, pour chacun de ces
-appareils ou vaisseaux et avant toute utilisation, le certificat de mesurage établi et remis au détenteur par le service des
-instruments de mesure en application de l'article 1er du décret n° 70-791 du 2 septembre 1970 et de tenir ensuite ce document
-à la disposition des agents chargés du contrôle, à tout moment, et notamment pendant les transports pour les récipients
-affectés au transport.
+Aucun certificat de jaugeage des récipients destinés à la production ou au stockage des vins, cidres et autres produits
+fermentés soumis au droit de circulation prévu à l'article 438 du code général des impôts et des bières mentionnées au a du I
+de l'article 520 A du même code n'est exigé pour des opérations fiscales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°791 1970-09-02 ART. 1
-
 	**Modifié par**:
 
-	  - Décret n°93-310 du 9 mars 1993 - art. 43 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décret n°2016-1585 du 24 novembre 2016 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, CGI. - art. 438 (V)
+	  - Code général des impôts, CGI. - art. 520 A (V)
+	  - Décret n°791 1970-09-02 ART. 1
 
 
 #### Chapitre premier : Régime économique de l'alcool
