@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-11-27
+Version Consolidée au 2017-02-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8044,6 +8044,90 @@ III de l'article L. 214-28  du code monétaire et financier.
 	  - Code général des impôts, CGI. - art. 163 quinquies B
 	  - Code général des impôts, CGI. - art. 242 quinquies
 	  - Code monétaire et financier - art. L214-28
+
+
+##### VII quater : Information de leurs utilisateurs par les plates-formes de mise en relation par voie électronique
+
+###### Article 171 AX
+
+I.-Pour l'application de l'article 242 bis du code général des impôts, à l'occasion de chaque transaction réalisée par
+l'intermédiaire d'une plate-forme de mise en relation par voie électronique, l'entreprise communique au vendeur, au
+prestataire ou aux parties à l'échange ou au partage d'un bien ou d'un service, lorsque ceux-ci ont perçu des sommes à
+l'occasion des transactions, les informations relatives aux régimes fiscaux et à la réglementation sociale applicables à ces
+sommes, aux obligations déclaratives et de paiement qui en résultent auprès de l'administration fiscale et des organismes de
+recouvrement des cotisations sociales ainsi qu'aux sanctions encourues en cas de manquement à ces obligations. 
+
+II.-Les sites internet édités par les entreprises mentionnées ci-dessus indiquent les liens hypertexte directs ou indirects
+vers les sites de l'administration fiscale et des organismes de sécurité sociale permettant d'accéder aux informations
+mentionnées au I. L'obligation prévue au I est réputée satisfaite si les messages envoyés aux parties aux transactions
+mentionnées au I incluent de manière lisible ces liens hypertexte. 
+
+La liste de ces liens est publiée au Bulletin officiel des finances publiques-impôts (BOFiP-Impôts). 
+
+III.-Le document mentionné au II de l'article 242 bis précité comporte les indications suivantes : 
+
+1° Sa date d'émission ; 
+
+2° Le nom complet et l'adresse de l'entreprise de mise en relation ainsi que son numéro de taxe sur la valeur ajoutée
+intracommunautaire ou, si elle en est dépourvue, son numéro d'identité défini au premier alinéa de l'article R. 123-221 du
+code de commerce ou, pour les entreprises non résidentes, leur numéro d'immatriculation auprès de l'administration fiscale de
+leur pays de résidence ; 
+
+3° Le nom complet et l'adresse électronique et, le cas échéant, postale de l'utilisateur, ainsi que, si ce dernier est une
+entreprise, son numéro de taxe sur la valeur ajoutée intracommunautaire ou, si elle en est dépourvue, son numéro d'identité
+défini au premier alinéa de l'article R. 123-221 du code de commerce ou, pour les entreprises non résidentes, leur numéro
+d'immatriculation auprès de l'administration fiscale de leur pays de résidence ; 
+
+4° Le nombre des transactions réalisées ; 
+
+5° Le montant total des sommes perçues par l'utilisateur à l'occasion des transactions réalisées sur une plate-forme, dont
+les entreprises de mise en relation ont connaissance, hors commissions perçues par l'entreprise. 
+
+IV.-Le présent article s'applique aux utilisateurs résidents ou établis en France ou qui effectuent des opérations situées en
+France au sens des articles 258 à 259 D du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-126 du 2 février 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. R123-221
+	  - Code général des impôts, CGI. - art. 242 bis
+	  - Code général des impôts, CGI. - art. 258
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R114-15 (V)
+
+
+###### Article 171 AY
+
+Le certificat mentionné au IV de l'article 242 bis du code général des impôts atteste que l'entreprise a pris toutes les
+dispositions nécessaires pour se mettre en conformité avec les obligations définies aux I et II du même article. Il est
+délivré par un commissaire aux comptes, un cabinet d'audit ou toute autre entité, personne physique ou morale, ayant son
+siège sur le territoire de l'Union européenne et respectant une méthode d'audit assurant un examen impartial et exhaustif. 
+
+L'entité délivrant l'attestation doit présenter des garanties d'indépendance, d'intégrité et d'honorabilité et accomplir sa
+mission en évitant tout conflit d'intérêts. Elle ne doit pas être soumise à l'entreprise à laquelle elle délivre
+l'attestation par les liens de dépendance définis au deuxième alinéa du 12 de l'article 39 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-126 du 2 février 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R114-15 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 242 bis
+	  - Code général des impôts, CGI. - art. 39
 
 
 ##### VIII : Réductions d'impôts pour l'achat de biens culturels
