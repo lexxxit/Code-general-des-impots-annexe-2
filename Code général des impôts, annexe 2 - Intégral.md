@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2017-02-04
+Version Consolidée au 2017-04-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8282,9 +8282,9 @@ le ministre chargé de la culture et le ministre chargé du budget.
 Le ministre chargé de la culture saisit la commission consultative des trésors nationaux mentionnée à l'article L. 111-4 du
 code du patrimoine, afin qu'elle se prononce sur la valeur d'acquisition du bien. 
 
-Il soumet en outre la question de l'intérêt du classement de ce bien, selon le cas, à l'avis de la Commission nationale des
-monuments historiques prévue par l'article L. 611-1 du code du patrimoine ou à celui du Conseil supérieur des archives
-mentionné à l'article R. 212-79 du même code. 
+Il soumet en outre la question de l'intérêt du classement de ce bien, selon le cas, à l'avis de la    Commission nationale du
+patrimoine et de l'architecture prévue par l'article L. 611-1 du code du patrimoine ou à celui du Conseil supérieur des
+archives mentionné à l'article R. 212-79 du même code. 
 
 Le ministre chargé de la culture transmet sans délai les avis prévus aux premier et deuxième alinéas au ministre chargé du
 budget.
@@ -8301,7 +8301,7 @@ Modifications effectuées en conséquence du décret n° 2011-574 du 24 mai 2011
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 2
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
 
 	**Cité par**:
 
