@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-05-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4963,10 +4963,14 @@ Les déductions du revenu global, les réductions ou les crédits d'impôts pour
 confiance peut être sollicité sont ceux prévus aux articles 199 quater C, 
 199 quater F, 199 septies, 199 decies I, 199 decies E, 199 decies EA, 199 decies F, 199 decies G et 199 decies H, 199
 undecies A, 199 undecies B, 199 undecies C et 199 undecies D, aux I à VI ter de l'article 199 terdecies-0 A, à l'article 199
-terdecies-0B, aux 1 à 5 de l'article 199 sexdecies, aux articles 199 tervicies, 
+terdecies-0B, aux 1 à 4 de l'article 199 sexdecies, aux articles 199 tervicies, 
 199 sexvicies, 
 199 octovicies, aux articles 200,200 quater, 200 quater A, 200 quater B et 200 decies A du code général des impôts et à
 l'article 18 bis de l'annexe IV à ce code.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 82-I A 4° et III de la loi n° 2016-1917 du 29 décembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -4978,26 +4982,26 @@ l'article 18 bis de l'annexe IV à ce code.
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 2
+	  - Décret n°2017-698 du 2 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (V)
-	  - Code général des impôts, CGI. - art. 199 decies E (V)
-	  - Code général des impôts, CGI. - art. 199 decies F (V)
-	  - Code général des impôts, CGI. - art. 199 decies I (V)
-	  - Code général des impôts, CGI. - art. 199 octovicies (V)
-	  - Code général des impôts, CGI. - art. 199 quater C (V)
-	  - Code général des impôts, CGI. - art. 199 quater F (V)
-	  - Code général des impôts, CGI. - art. 199 septies (V)
-	  - Code général des impôts, CGI. - art. 199 sexdecies (V)
-	  - Code général des impôts, CGI. - art. 199 sexvicies (V)
-	  - Code général des impôts, CGI. - art. 199 tervicies (V)
-	  - Code général des impôts, CGI. - art. 199 undecies A (VT)
-	  - Code général des impôts, CGI. - art. 199 undecies D (V)
-	  - Code général des impôts, CGI. - art. 200 (VT)
-	  - Code général des impôts, CGI. - art. 200 decies A (V)
-	  - Code général des impôts, CGI. - art. 200 quater (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis
+	  - Code général des impôts, CGI. - art. 199 decies E
+	  - Code général des impôts, CGI. - art. 199 decies F
+	  - Code général des impôts, CGI. - art. 199 decies I
+	  - Code général des impôts, CGI. - art. 199 octovicies
+	  - Code général des impôts, CGI. - art. 199 quater C
+	  - Code général des impôts, CGI. - art. 199 quater F
+	  - Code général des impôts, CGI. - art. 199 septies
+	  - Code général des impôts, CGI. - art. 199 sexdecies
+	  - Code général des impôts, CGI. - art. 199 sexvicies
+	  - Code général des impôts, CGI. - art. 199 tervicies
+	  - Code général des impôts, CGI. - art. 199 undecies A
+	  - Code général des impôts, CGI. - art. 199 undecies D
+	  - Code général des impôts, CGI. - art. 200
+	  - Code général des impôts, CGI. - art. 200 decies A
+	  - Code général des impôts, CGI. - art. 200 quater
 
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
@@ -5965,33 +5969,33 @@ laquelle s'applique le paiement et le mois.
 ###### Article 143
 
 La régularisation des droits dus en vertu de l'article 231 du code général des impôts et des articles 142 et 383 est
-effectuée par année. 
+effectuée par année.
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 7 713 € et 15 401 €, le taux de 9,35 % à la fraction comprise entre 15 401 € et 152
-122 € et le taux de 20 % à la fraction excédant 152 122 € et en multipliant le chiffre ainsi déterminé par le rapport qui
+l'année civile, qui est comprise entre 7 721 € et 15 417 €, le taux de 9,35 % à la fraction comprise entre 15 417 € et 152
+279 € et le taux de 20 % à la fraction excédant 152 279 € et en multipliant le chiffre ainsi déterminé par le rapport qui
 existe entre le montant de la rémunération qui a été payée pendant la période d'application de la majoration et le montant
-total de la rémunération annuelle. 
+total de la rémunération annuelle.
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
-a bénéficié au cours de la période d'application de la majoration les taux de : 
+a bénéficié au cours de la période d'application de la majoration les taux de :
 
-4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 713 € et 15 401 € ; 
+4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 721 € et 15 417 € ;
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 15 401 € et 152 122 € ;
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 15 417 € et 152 279 € ;
 
-15,75 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 152 122 €.
+15,75 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 152 279 €.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 2-I-1° de la loi n° 2015-1785 du 29 décembre 2015.
+Modification effectuée en conséquence de l'article 2-I-2° la loi n° 2016-1917 du 29 décembre 2016.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 3
+	  - Décret n°2017-698 du 2 mai 2017 - art. 2
 
 	**Cité par**:
 
@@ -6008,21 +6012,21 @@ Modification effectuée en conséquence de l'article 2-I-1° de la loi n° 2015-
 La déclaration des traitements et salaires que les employeurs sont tenus de souscrire en exécution des dispositions de
 l'article 87 du code général des impôts doit, pour ceux d'entre eux qui sont redevables en totalité ou partiellement de la
 taxe sur les salaires, faire ressortir distinctement, pour chaque bénéficiaire dont la rémunération individuelle annuelle a
-excédé 7 713 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
-majoration de la taxe sur les salaires. 
+excédé 7 721 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
+majoration de la taxe sur les salaires.
 
 Elle doit comporter, en outre, l'indication du montant des compléments de droits acquittés en application de l'article 142 à
 raison des rémunérations payées pendant cette même période.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 2-I-1° de la loi n° 2015-1785 du 29 décembre 2015.
+Modification effectuée en conséquence de l'article 2-I-2° de la loi n° 2016-1917 du 29 décembre 2016.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 3
+	  - Décret n°2017-698 du 2 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -6105,40 +6109,6 @@ s'applique le versement, le montant des sommes imposables et le montant de la ta
 
 
 #### Chapitre VI : Participation des employeurs à l'effort de construction et participation des employeurs agricoles à l'effort de construction
-
-###### Article 161
-
-I. ― Conformément aux dispositions de l'article R. 313-2 du code de la construction et de l'habitation, les employeurs
-redevables de la participation prévue à l'article L. 313-1 du même code sont tenus d'en mentionner, chaque année, l'assiette
-sur la déclaration prévue à l'article 87 du code général des impôts. 
-
-II. ― Conformément aux dispositions de l'article R. 716-28 du code rural et de la pêche maritime, les employeurs redevables
-de la participation prévue à l'article L. 716-2 du même code sont tenus d'en mentionner, chaque année, l'assiette sur la
-déclaration prévue à l'article 87 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-277 du 28 février 2014 - art. 3
-
-	**Liens**:
-
-	  - DISJOINT: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. D133-9-1 (Ab)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 87
-	  - Code rural - art. L716-2
-	  - Code rural - art. R716-28
-	  - Code de la construction et de l'habitation. - art. L313-1
-	  - Code de la construction et de l'habitation. - art. R*313-2
-
 
 ###### Article 162
 
@@ -7171,338 +7141,6 @@ Ces dispositions s'appliquent aux réévaluations réalisées à compter du 1er 
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2005
-
-
-##### VII : Souscription de parts de copropriété de navires
-
-###### Article 171 AB
-
-Pour ouvrir droit au bénéfice du premier alinéa de l'article 238 bis HN du code général des impôts, les navires armés au
-commerce doivent être exploités exclusivement dans un but lucratif et avoir un équipage composé de professionnels.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis HN
-
-	**Créé par**:
-
-	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-	  - HISTO: Edition du 11 avril 1997
-
-
-###### Article 171 AC
-
-Les sommes versées pour la souscription de parts de copropriété de navire dans les conditions définies à l'article 238 bis HN
-du code général des impôts ne comprennent pas les frais et charges non directement liés à l'acquisition du navire par la
-copropriété.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis HN
-
-	**Créé par**:
-
-	  - Décret n°96-843 du 23 septembre 1996 - art. 1 () JORF 25 septembre 1996
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-	  - HISTO: Edition du 11 avril 1997
-
-
-###### Article 171 AD
-
-I. Pour l'application du b de l'article 238 bis HN du code général des impôts et en cas d'acquisition d'un navire neuf,
-l'agrément n'est pas remis en cause lorsque la livraison n'est pas intervenue à l'expiration du délai de trente mois suivant
-la souscription, si le gérant de la copropriété de navire établit qu'un premier essai à la mer a eu lieu dans ce délai et
-qu'il justifie du retard de la livraison, et si celle-ci intervient dans un délai raisonnable.
-
-II. Les sociétés de classification mentionnées au b de l'article 238 bis HN précité sont celles qui sont visées au II de
-l'article 42 du décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine en mer, à l'habitabilité à
-bord des navires et à la prévention de la pollution.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°84-810 du 30 août 1984 - art. 42
-	  - Code général des impôts, CGI. - art. 238 bis HN
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-	  - HISTO: Edition du 31 mars 2002
-
-
-###### Article 171 AE
-
-Les parts de copropriété de navire visées au c de l'article 238 bis HN du code général des impôts doivent être
-individualisées par un numéro.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis HN
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-	  - HISTO: Edition du 31 mars 2002
-
-
-###### Article 171 AF
-
-Pour l'application des premier à neuvième alinéas de l'article 238 bis HN du code général des impôts, le contribuable doit
-joindre à sa déclaration de revenus ou de résultat une copie de la décision d'agrément, un état individuel ainsi qu'un
-engagement de conservation des parts de copropriété.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis HN
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-	  - HISTO: Edition du 31 mars 2002
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 AG (P)
-
-
-###### Article 171 AG
-
-I. L'état individuel prévu à l'article 171 AF comporte, lorsque le copropriétaire n'est pas un fonds de placement quirataire,
-les renseignements suivants : 
-
-a) La date de la convention de copropriété, la dénomination et l'adresse de cette copropriété ainsi que l'identité et
-l'adresse de son gérant ; 
-
-b) Pour les navires déjà francisés, le nom et la désignation du navire, la date et le numéro de sa fiche matricule prévue à
-l'article 95 du décret n° 67-967 du 27 octobre 1967 modifié portant statut des navires et autres bâtiments de mer, l'adresse
-du bureau des douanes du port d'attache ainsi que les dates de livraison et de début d'exploitation du navire. 
-
-Pour les navires non encore francisés et relevant des dispositions de l'article L. 5114-2 du code des transports, le nom et
-la désignation du navire, la date et le numéro de sa fiche matricule et l'adresse du bureau des douanes du port d'attache
-ainsi que les dates prévues de livraison et de début d'exploitation du navire. 
-
-Pour les navires non encore francisés et ne relevant pas de l'article L. 5114-2 du code des transports, le nom et la
-désignation du navire, le contrat de construction, éventuellement traduit en langue française et comportant notamment la date
-de livraison, l'adresse du bureau des douanes du port d'attache où le navire sera francisé ainsi que la date prévue de début
-d'exploitation du navire ; 
-
-c) S'il y a lieu, les dates de signature et d'effet du contrat d'affrètement ainsi que les éléments permettant
-l'identification de l'affréteur : dénomination sociale, objet social et siège social ; 
-
-d) Le numéro des parts souscrites, la date de leur souscription, le montant et la date des versements effectués jusqu'à la
-livraison du navire ; 
-
-e) S'il y a lieu, la date, le prix et le numéro des parts cédées par le copropriétaire ainsi que les noms et adresses des
-cessionnaires. 
-
-II. L'état individuel prévu à l'article 171 AF comporte, dans le cas où le copropriétaire du navire est un fonds de placement
-quirataire : 
-
-a) Les renseignements dont la liste figure au I ; 
-
-b) L'indication du montant de la quote-part détenue par le contribuable dans le fonds de placement quirataire ; 
-
-c) S'il y a lieu, la date, le prix, le nombre de parts du fonds de placement quirataire cédées par le contribuable et
-l'identité du cessionnaire.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'ordonnance n° 2010-1307 du 28 octobre 2010, article 3-7 [54°] et 17 et du décret
-n° 2011-1485 du 9 novembre 2011, article 1er-II.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-967 du 27 octobre 1967 - art. 95
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 AF (P)
-	  - Code des transports - art. L5114-2
-
-	**Modifié par**:
-
-	  - Décret n°2012-653 du 4 mai 2012 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-
-###### Article 171 AH
-
-Le gérant de la copropriété de navire adresse au service des impôts dont dépend celle-ci pour le dépôt de ses déclarations de
-résultat, les documents énumérés ci-après : 
-
-a) En annexe de la première déclaration de résultat : un document attestant la date de livraison du navire ainsi que le
-certificat d'inscription mentionné à l'article L. 5114-4 du code des transports; 
-
-b) Chaque année, en même temps que la déclaration de résultat : 
-
-la liste des copropriétaires et les numéros de leurs parts ; 
-
-c) Dès qu'une demande d'annulation de la fiche matricule du navire est présentée : la copie de cette demande.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'ordonnance n° 2010-1307 du 28 ocrtobre 2010, article 3-7 [54°] et 17.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006
-
-	**Modifié par**:
-
-	  - Décret n°2012-653 du 4 mai 2012 - art. 2
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-	**Cite**:
-
-	  - Code des transports - art. L5114-4
-
-
-###### Article 171 AI
-
-Les documents relatifs aux opérations réalisées par la copropriété de navire sont conservés par le gérant de celle-ci jusqu'à
-la fin de la cinquième année suivant celle de l'expiration du délai de conservation des parts prévu au c de l'article 238 bis
-HN du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis HN
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-	  - HISTO: Edition du 31 mars 2002
-
-
-###### Article 171 AJ
-
-Dans l'hypothèse où l'une des conditions prévues aux d à g de l'article 238 bis HN du code général des impôts n'est pas
-remplie ou cesse de l'être, le gérant de la copropriété de navire le notifie à chaque copropriétaire ainsi qu'au service des
-impôts dont dépend la copropriété pour le dépôt de ses déclarations de résultat, en indiquant le numéro et le prix des parts
-qui ouvraient droit à la déduction lors de la souscription initiale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis HN
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-	  - HISTO: Edition du 1er janvier 2006
-
-
-###### Article 171 AK
-
-La demande tendant à l'obtention de l'agrément prévu au dixième alinéa de l'article 238 bis HN du code général des impôts est
-formulée sur papier libre et présentée préalablement à la réalisation de l'opération qui la motive. 
-
-La demande, faite par un représentant unique, dûment habilité, du promoteur du projet, est adressée en quatre exemplaires au
-ministre chargé du budget (services centraux de la direction générale des finances publiques) et comporte les renseignements
-permettant d'apprécier la portée exacte du projet au regard des conditions fixées pour l'octroi de l'agrément et concernant
-notamment : 
-
-1. L'identification de l'opérateur économique et de son activité ; 
-
-2. L'identification de la copropriété maritime ; 
-
-3. Les conditions d'acquisition, d'exploitation et de financement du navire ; 
-
-4. L'intérêt économique du projet ; 
-
-5. Les conditions et modalités de souscription des parts de copropriété. 
-
-Dès réception de la demande, le ministre chargé du budget procède à son instruction et saisit pour avis les ministres chargés
-respectivement de la marine marchande et de l'équipement naval. 
-
-Dans le cas où le demandeur n'a pas fourni la totalité des renseignements nécessaires pour l'instruction de la demande, le
-ministre chargé du budget l'invite à les produire. 
-
-L'agrément n'est délivré par le ministre chargé du budget qu'après réception des avis mentionnés au huitième alinéa et
-lorsque toutes les conditions prévues pour son obtention sont remplies.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
-
-	**Modifié par**:
-
-	  - Décret n°2012-430 du 29 mars 2012 - art. 16
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 238 bis HN
 
 
 ##### VII bis : Sociétés de capital-risque
@@ -8574,45 +8212,6 @@ récapitulatif des dépenses qu'il a engagées ou des contrats qu'il a conclus.
 	**Liens**:
 
 	  - HISTO: Edition du 24 juin 1991
-
-
-##### 4° : Prestations d'hébergement fournies dans les villages résidentiels de tourisme
-
-###### Article 178 bis
-
-Pour l'application du d du 4° de l'articles 261 D du code général des impôts, les locaux d'habitation du village résidentiel
-de tourisme doivent avoir été achevés depuis plus de neuf ans.
-
-**Nota:**
-
-En conséquence de l'article 82-I de la loi n° 2016-1888 du 28 décembre 2016, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 261 D
-
-	**Anciens textes**:
-
-	  - CGIAN2 179
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
-
-	**Créé par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 2 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-	  - HISTO: Edition du 31 mars 2002
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D421-1 (V)
 
 
 ##### II : Opérations imposables sur option
@@ -13234,28 +12833,28 @@ commandes passées aux fournisseurs et du paiement des livraisons qui en résult
 Les débitants ne peuvent recevoir pour la commercialisation des tabacs manufacturés et la publicité concernant ces produits,
 aucun avantage, direct ou indirect, autre que la remise prévue au 3° du I de l'article 570 du code général des impôts.
 
-La répartition des espaces publicitaires entre les différentes marques est arrêtée, sur le plan national, par un accord entre
-les fabricants, les fournisseurs et les débitants. A défaut d'accord, le litige est soumis à l'arbitrage dans les conditions
-prévues au décret n° 80-354 du 14 mai 1980 relatif à l'arbitrage.
+<font color="#000000" size="1">(Dispositions devenues sans objet)</font>
+
+**Nota:**
+
+Au deuxième alinéa, les mots "et la publicité concernant ces produits" et le troisième alinéa deviennent sans objet
+
+Modification effectuée en conséquence de l'article 23 III de la loi n° 2016-41 du 26 janvier 2016
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 570
-	  - Décret n°80-354 1980-05-14
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Décret n°80-354 du 14 mai 1980
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2000-477 du 2 juin 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-698 du 2 mai 2017 - art. 2
 
 
 ###### Article 284
@@ -15770,35 +15369,6 @@ Cette demande est transmise, dans un délai d'un mois à compter de sa date de r
 
 ##### Section 0I : Taxes foncières
 
-###### Article 310-00 H
-
-L'engagement de gestion prévu à l'article 1395 D du code général des impôts porte sur la conservation du caractère humide des
-parcelles ainsi que sur leur maintien en nature de prés et prairies naturels, d'herbages, de pâturages, de landes, de marais,
-de pâtis, de bruyères et de terres vaines et vagues. 
-
-Dans les zones visées au II de cet article, il porte en outre sur le respect des mesures définies en vue de la conservation
-des zones humides dans les chartes et documents de gestion ou d'objectifs approuvés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-511 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 310-00 H ter (M)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H bis (V)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1395 D (V)
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
-
-
 ###### Article 310-0 H
 
 Les critères de qualité environnementale mentionnés au I bis de l'article 1384 A du code général des impôts sont ainsi
@@ -15885,30 +15455,36 @@ dans des conditions définies par le maître d'ouvrage.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121-0 AA (V)
 
 
-###### Article 310-00 H bis
+###### Article 310-00 H
 
-L'engagement de gestion prévu à l'article 1395 D du code général des impôts comporte les éléments suivants : 
+L'engagement de gestion prévu à l'article 1395 B bis du code général des impôts porte sur la conservation du caractère humide
+des parcelles ainsi que sur leur maintien en nature de prés et prairies naturels, d'herbages, de pâturages, de landes, de
+marais, de pâtis, de bruyères et de terres vaines et vagues. Dans les zones visées au II de cet article, il porte en outre
+sur le respect des mesures définies en vue de la conservation des zones humides dans les chartes et documents de gestion ou
+d'objectifs approuvés.
 
-1° L'identité et l'adresse du redevable de la taxe foncière sur les propriétés non bâties mentionné à l'article 1400 du même
-code et, le cas échéant, celles du preneur des parcelles faisant l'objet de l'engagement de gestion ; 
+**Nota:**
 
-2° Les références cadastrales, les natures de culture et de propriété définies dans l'instruction ministérielle du 31
-décembre 1908 et la superficie des parcelles sur laquelle l'exonération de taxe foncière sur les propriétés non bâties est
-demandée ; 
-
-3° Les mesures de conservation à mettre en oeuvre en vue de respecter les engagements mentionnés à l'article 310-00 H.
+Modification effectuée en conséquence de l'article 114-I de la loi n° 2016-1087 du 8 août 2016.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-511 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
+	  - Décret n°2017-698 du 2 mai 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H bis (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H ter (V)
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H (V)
-	  - Code général des impôts, CGI. - art. 1395 D (V)
-	  - Code général des impôts, CGI. - art. 1400 (V)
+	  - Code général des impôts, CGI. - art. 1395 B bis
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 310-0 H bis
@@ -15952,31 +15528,30 @@ Modifications effectuées en conséquence du décret n° 2009-1484 du 3 décembr
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H ter (V)
 
 
-###### Article 310-00 H ter
+###### Article 310-00 H bis
 
-Préalablement à son envoi au service des impôts par le propriétaire, l'engagement de gestion prévu à l'article 1395 D du code
-général des impôts doit être visé par le préfet du lieu de situation des parcelles, qui vérifie sa conformité aux conditions
-et modalités définies aux articles 310-00 H et 310-00 H bis. 
+L'engagement de gestion prévu à l'article 1395 B bis du code général des impôts comporte les éléments suivants : 1°
+L'identité et l'adresse du redevable de la taxe foncière sur les propriétés non bâties mentionné à l'article 1400 du même
+code et, le cas échéant, celles du preneur des parcelles faisant l'objet de l'engagement de gestion ; 2° Les références
+cadastrales, les natures de culture et de propriété définies dans l'instruction ministérielle du 31 décembre 1908 et la
+superficie des parcelles sur laquelle l'exonération de taxe foncière sur les propriétés non bâties est demandée ; 3° Les
+mesures de conservation à mettre en oeuvre en vue de respecter les engagements mentionnés à l'article 310-00 H.
 
-Le préfet s'assure du respect des engagements souscrits dans le cadre de l'engagement de gestion. A cet effet, les agents des
-services de l'Etat et de ses établissements publics peuvent procéder à des vérifications sur place. Ils informent le
-propriétaire et, le cas échéant, le preneur des parcelles faisant l'objet de l'engagement de gestion et leur proposent
-d'assister au contrôle. 
+**Nota:**
 
-Si, lors du contrôle, l'une des obligations prévues par l'engagement de gestion n'est pas respectée, ce constat fait l'objet
-d'un signalement au service des impôts du lieu de situation de la parcelle avant le ler janvier de l'année suivant celle de
-la réalisation du contrôle.
+Modification effectuée en conséquence de l'article 114-I de la loi n° 2016-1087 du 8 août 2016.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 2
+	  - Décret n°2017-698 du 2 mai 2017 - art. 2
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H
 	  - Code général des impôts, CGI. - art. 1395 D
+	  - Code général des impôts, CGI. - art. 1400
 
 
 ###### Article 310-0 H ter
@@ -16000,6 +15575,37 @@ Modifications effectuées en conséquence du décret n° 2009-1484 du 3 décembr
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H bis (V)
+
+
+###### Article 310-00 H ter
+
+Préalablement à son envoi au service des impôts par le propriétaire, l'engagement de gestion prévu à l'article 1395 B bis du
+code général des impôts doit être visé par le préfet du lieu de situation des parcelles, qui vérifie sa conformité aux
+conditions et modalités définies aux articles 310-00 H et 310-00 H bis.
+
+Le préfet s'assure du respect des engagements souscrits dans le cadre de l'engagement de gestion. A cet effet, les agents des
+services de l'Etat et de ses établissements publics peuvent procéder à des vérifications sur place. Ils informent le
+propriétaire et, le cas échéant, le preneur des parcelles faisant l'objet de l'engagement de gestion et leur proposent
+d'assister au contrôle.
+
+Si, lors du contrôle, l'une des obligations prévues par l'engagement de gestion n'est pas respectée, ce constat fait l'objet
+d'un signalement au service des impôts du lieu de situation de la parcelle avant le ler janvier de l'année suivant celle de
+la réalisation du contrôle.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 114-I de la loi n° 2016-1087 du 8 août 2016.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-698 du 2 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H (V)
+	  - Code général des impôts, CGI. - art. 1395 D
 
 
 ##### Section I : Taxe d'habitation
@@ -18349,183 +17955,6 @@ Modification effectuée en conséquence de l'art. 108-XIX C-1 de la loi n° 2010
 ## Troisième partie : Dispositions communes aux première et deuxième parties
 
 ### Chapitre premier : Obligations des contribuables
-
-#### Section I : Registre public des trusts 
-
-###### Article 368
-
-I. - Un traitement automatisé de données à caractère personnel dénommé "Registre public des trusts" est mis en œuvre par la
-direction générale des finances publiques.
-
-II. - Les informations traitées, issues du traitement dénommé "Base nationale des données patrimoniales", sont les
-suivantes :
-
-1° La dénomination du trust et son adresse ;
-
-2° La date de constitution, la date d'extinction du trust ;
-
-3° La date et la nature de la déclaration de trust mentionnée à l'article 1649 AB du code général des impôts ;
-
-4° Les éléments d'identification du constituant, du bénéficiaire et de l'administrateur du trust.
-
-Les éléments d'identification du constituant et du bénéficiaire, personne physique, sont leur nom, leur prénom, leur date et
-lieu de naissance, leur date de décès.
-
-Les éléments d'identification de l'administrateur sont son nom, son prénom, sa date et son lieu de naissance.
-
-Les éléments d'identification d'une personne morale sont sa dénomination sociale et son numéro SIREN.
-
-III. - Les informations mentionnées au II sont conservées pendant dix ans après la date d'extinction du trust.
-
-**Nota:**
-
-Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
-article devient sans objet,
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 du 20 octobre 1988
-
-	**Modifié par**:
-
-	  - Décret n°2016-567 du 10 mai 2016 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 368 B (P)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 368 C (P)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1649 AB
-
-
-###### Article 368 A
-
-I. - Toute personne peut obtenir, par voie électronique, la délivrance des informations mentionnées à l'article 368. L'accès
-au traitement automatisé est réalisé dans le cadre d'une procédure sécurisée d'authentification fixée par arrêté du ministre
-chargé du budget.
-
-II. - A. - La consultation du registre est effectuée, par voie électronique, auprès de la direction générale des finances
-publiques, à partir de l'un des critères de recherche suivants :
-
-1° La dénomination du trust ;
-
-2° L'identité du constituant, du bénéficiaire ou de l'administrateur en indiquant, s'il s'agit d'une personne physique, son
-nom ou, s'il s'agit d'une personne morale, sa dénomination sociale ou son numéro SIREN.
-
-B. - La recherche peut être complétée en y ajoutant l'un des critères facultatifs suivants :
-
-1° La commune ou le pays d'établissement du trust, sa date de constitution ;
-
-2° Pour le constituant ou le bénéficiaire, personne physique, son prénom, sa date de naissance, sa commune, son département
-ou son pays de naissance, sa date de décès ;
-
-3° Pour l'administrateur, personne physique, son prénom, sa date de naissance, sa commune, son département ou son pays de
-naissance.
-
-III. - Les interrogations du registre font l'objet d'un enregistrement journalier qui se traduit par la conservation, pour
-chaque connexion, des éléments suivants :
-
-1° Identifiant de l'usager ;
-
-2° Adresse IP de l'usager ;
-
-3° Date et heure de la recherche.
-
-Ces éléments sont conservés pendant une durée d'un an.
-
-**Nota:**
-
-Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
-article devient sans objet,
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 du 20 octobre 1988
-
-	**Modifié par**:
-
-	  - Décret n°2016-567 du 10 mai 2016 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-
-###### Article 368 B
-
-I.-Lors de chaque accès au traitement mentionné à l'article 368, le demandeur est informé de ses conditions générales
-d'utilisation telles que fixées par arrêté du ministre chargé du budget. 
-
-II.-Le droit d'accès et le droit de rectification, prévus par la loi du 6 janvier 1978 susvisée, s'exercent auprès du
-directeur général des finances publiques. 
-
-Le droit d'opposition prévu par l'article 38 de la même loi ne s'applique pas au présent traitement.
-
-**Nota:**
-
-Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
-article devient sans objet,
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 368
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 du 20 octobre 1988
-
-	**Modifié par**:
-
-	  - Décret n°2016-567 du 10 mai 2016 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-
-###### Article 368 C
-
-Les informations faisant l'objet du traitement prévu à l'article 368 sont transmises périodiquement au ministre de la
-justice, aux agents des douanes mentionnés à l'article 28-1 du code de procédure pénale ainsi qu'aux agents des services
-fiscaux mentionnés à l'article 28-2 du même code.
-
-**Nota:**
-
-Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
-article devient sans objet,
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 du 20 octobre 1988
-
-	**Modifié par**:
-
-	  - Décret n°2016-567 du 10 mai 2016 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 368 (P)
-	  - Code de procédure pénale - art. 28-1
-
 
 #### Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés.
 
