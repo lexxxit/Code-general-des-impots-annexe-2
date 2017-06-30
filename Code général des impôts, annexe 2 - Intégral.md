@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2017-05-06
+Version Consolidée au 2017-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13080,10 +13080,10 @@ VII.-Les registres vitivinicoles peuvent être regroupés sur un seul document.
 VIII.-Les registres et les pièces justificatives nécessaires à leur tenue et les documents prévus aux IV et VI sont conservés
 dans les conditions et selon les modalités fixées à l'article L. 102 B du livre des procédures fiscales. 
 
-IX.-La validation des documents mentionnés aux articles 302 M et 302 M ter du code général des impôts pour l'expédition ou
-l'enlèvement des produits vitivinicoles n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à la
-tenue de la comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles 614
-et 614 A dudit code. 
+IX.-La validation des documents mentionnés aux articles 302 M, 302 M bis et 302 M ter du code général des impôts pour
+l'expédition ou l'enlèvement des produits vitivinicoles n'est possible que si l'entrepositaire agréé respecte les obligations
+afférentes à la tenue de la comptabilité matières telles que prévues par le présent article et les obligations mentionnées
+aux articles 614 et 614 A dudit code. 
 
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
 le directeur interrégional des douanes et droits indirects.
@@ -13095,7 +13095,7 @@ le directeur interrégional des douanes et droits indirects.
 	  - Arrêté du 27 juillet 2003 - art. 6 (V)
 	  - Arrêté du 27 juillet 2003 - art. 7 (V)
 	  - Arrêté du 27 juillet 2003 - art. 8 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H ter (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 C (V)
@@ -13108,13 +13108,16 @@ le directeur interrégional des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
+	  - Décret n°2016-1584 du 24 novembre 2016 - art. 2
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 302 D
 	  - Code général des impôts, CGI. - art. 302 M
-	  - Code général des impôts, CGI. - art. 407
+	  - Code général des impôts, CGI. - art. 302 M bis (VD)
+	  - Code général des impôts, CGI. - art. 302 M ter (VD)
+	  - Code général des impôts, CGI. - art. 407 (V)
+	  - Code général des impôts, CGI. - art. 450 (VD)
 	  - Code général des impôts, CGI. - art. 614
 	  - Livre des procédures fiscales - art. L102 B
 	  - Code rural ancien - art. 661
@@ -13351,10 +13354,10 @@ X.-Les documents et les pièces justificatives nécessaires à l'établissement 
 matières elle-même sont conservés dans les conditions et selon les modalités fixées à l'article L. 102 B du livre des
 procédures fiscales. 
 
-XI.-La validation des documents mentionnés aux articles 302 M et 302 M ter du code général des impôts pour l'expédition ou
-l'enlèvement de produits n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à la tenue de la
-comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles 614 et 614 A
-dudit code. 
+XI.-La validation des documents mentionnés aux articles 302 M, 302 M bis et 302 M ter du code général des impôts pour
+l'expédition ou l'enlèvement de produits n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à
+la tenue de la comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles
+614 et 614 A dudit code. 
 
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
 le directeur interrégional des douanes et droits indirects.
@@ -13374,7 +13377,7 @@ le directeur interrégional des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
+	  - Décret n°2016-1584 du 24 novembre 2016 - art. 2
 
 	**Cite**:
 
@@ -13385,12 +13388,15 @@ le directeur interrégional des douanes et droits indirects.
 	  - Code général des impôts, CGI. - art. 277 A
 	  - Code général des impôts, CGI. - art. 302 D
 	  - Code général des impôts, CGI. - art. 302 G
-	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 302 M (VD)
+	  - Code général des impôts, CGI. - art. 302 M bis (VD)
+	  - Code général des impôts, CGI. - art. 302 M ter (VD)
 	  - Code général des impôts, CGI. - art. 338
 	  - Code général des impôts, CGI. - art. 438
 	  - Code général des impôts, CGI. - art. 450
 	  - Code général des impôts, CGI. - art. 575 A
 	  - Code général des impôts, CGI. - art. 614
+	  - Livre des procédures fiscales - art. L102 B (V)
 	  - Code rural ancien - art. 661
 	  - Code rural - art. L632-1
 
@@ -13570,8 +13576,8 @@ de vente à bord et dans le cadre de l'avitaillement sont détenus en suspension
 suspensif. 
 
 II.-Les alcools, boissons alcooliques et tabacs manufacturés destinés aux comptoirs de vente circulent dans des contenants
-scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport et sous couvert du
-document d'accompagnement prévu à l'article 302 M ou à l'article 302 M ter du code général des impôts. 
+scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport et sous couvert d'un
+des documents prévus aux articles 302 M, 302 M bis et 302 M ter du code général des impôts. 
 
 Les alcools, boissons alcooliques et tabacs manufacturés destinés à la vente à bord ou à l'avitaillement circulent dans des
 contenants scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport et sont
@@ -13597,7 +13603,7 @@ la consommation sur le territoire métropolitain.
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 3
+	  - Décret n°2016-1584 du 24 novembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -13608,8 +13614,9 @@ la consommation sur le territoire métropolitain.
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 302 M
-	  - Code général des impôts, CGI. - art. 302 M ter
+	  - Code général des impôts, CGI. - art. 302 M (VD)
+	  - Code général des impôts, CGI. - art. 302 M bis (VD)
+	  - Code général des impôts, CGI. - art. 302 M ter (VD)
 
 
 ##### Section II : Dispositions propres aux comptoirs de vente
@@ -13617,19 +13624,20 @@ la consommation sur le territoire métropolitain.
 ###### Article 286 Q
 
 L'entrepositaire agréé qui gère un comptoir de vente tient une comptabilité matières permettant de distinguer les entrées et
-sorties dans chacun des lieux de vente du comptoir de vente et en reprenant les références du document d'accompagnement prévu
-à l'article 302 M ou à l'article 302 M ter du code général des impôts.
+sorties dans chacun des lieux de vente du comptoir de vente et en reprenant les références d'un des documents prévus aux
+articles 302 M, 302 M bis et 302 M ter du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 3
+	  - Décret n°2016-1584 du 24 novembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 302 M
-	  - Code général des impôts, CGI. - art. 302 M ter
+	  - Code général des impôts, CGI. - art. 302 M (VD)
+	  - Code général des impôts, CGI. - art. 302 M bis (VD)
+	  - Code général des impôts, CGI. - art. 302 M ter (VD)
 
 
 ##### Section III : Dispositions propres aux boutiques de vente à bord
@@ -13832,8 +13840,8 @@ alcooliques en exonération de droits d'accises, prévus au 1° du I de l'articl
 
 17° Autorisation donnée aux entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et des débitants
 de boissons mentionnés à l'article 502 du même code, d'utiliser leurs factures ou tout autre document commercial, en lieu et
-place des documents d'accompagnement mentionnés à l'article 302 M du code précité, prévue par le II de l'article 111 H bis de
-l'annexe III au code général des impôts ; 
+place des documents d'accompagnement mentionnés aux articles 302 M bis et 302 M ter du code précité, prévue par le II de
+l'article 111 H bis de l'annexe III au code général des impôts ; 
 
 18° Agrément des procédés de dénaturation des essences d'absinthe et produits assimilés, prévu par le premier alinéa de
 l'article 178 P de l'annexe III au code général des impôts ; 
@@ -13876,8 +13884,8 @@ prévue par le deuxième alinéa de l'article 54-0 Z de l'annexe IV au code gén
 
 35° Accord de restitution ou de remise des droits et taxes après constatation par le service des douanes et droits indirects
 de la preuve de la sortie du produit du territoire de l'Union européenne ou après présentation d'un des documents mentionnés
-à l'article 302 M du code général des impôts, prévu par le dernier alinéa de l'article 54-0 Z de l'annexe IV au code général
-des impôts ; 
+aux articles 302 M, 302 M bis et 302 M ter du code général des impôts, prévu par le dernier alinéa de l'article 54-0 Z de
+l'annexe IV au code général des impôts ; 
 
 36° Habilitation à répartir les capsules collectives représentatives des droits destinées aux récoltants, prévue par le
 premier alinéa de l'article 54-0 BW de l'annexe IV au code général des impôts ; 
@@ -13950,55 +13958,63 @@ de l'annexe I au même code.
 
 	**Modifié par**:
 
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
+	  - Décret n°2016-1584 du 24 novembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts annexe 1, CGIAN1. - art. 208 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis D (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis K (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter B (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 208
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis D
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis K
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter B
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (VT)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 N
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 C
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 D
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 E
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 144 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 144 bis
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AA
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 P
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 203 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 207 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 203
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 207
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 151
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AD bis (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AW (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 C
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 52 quater (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 B (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 52 quater
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 C
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 G (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 I
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Z
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J duodecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J duodecies
 	  - Code général des impôts, CGI. - art. 302 D
 	  - Code général des impôts, CGI. - art. 302 D bis
 	  - Code général des impôts, CGI. - art. 302 G
 	  - Code général des impôts, CGI. - art. 302 H ter
 	  - Code général des impôts, CGI. - art. 302 J
 	  - Code général des impôts, CGI. - art. 302 K
+	  - Code général des impôts, CGI. - art. 302 M (VD)
+	  - Code général des impôts, CGI. - art. 302 M bis (VT)
+	  - Code général des impôts, CGI. - art. 302 M ter (VT)
 	  - Code général des impôts, CGI. - art. 306
 	  - Code général des impôts, CGI. - art. 309
 	  - Code général des impôts, CGI. - art. 311 bis
 	  - Code général des impôts, CGI. - art. 327
 	  - Code général des impôts, CGI. - art. 502
-	  - Code général des impôts, CGI. - art. 523 (V)
-	  - Code général des impôts, CGI. - art. 530 (V)
-	  - Code général des impôts, CGI. - art. 535 (V)
-	  - Code général des impôts, CGI. - art. 543 (V)
+	  - Code général des impôts, CGI. - art. 523
+	  - Code général des impôts, CGI. - art. 530
+	  - Code général des impôts, CGI. - art. 535
+	  - Code général des impôts, CGI. - art. 543
 	  - Code général des impôts, CGI. - art. 568
 
 
