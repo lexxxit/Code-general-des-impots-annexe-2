@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2018-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4902,6 +4902,36 @@ Modification effectuée en conséquence de l'article 82-I A 4° et III de la loi
 	  - Code général des impôts, CGI. - art. 200
 	  - Code général des impôts, CGI. - art. 200 decies A
 	  - Code général des impôts, CGI. - art. 200 quater
+
+
+#### Chapitre Ier bis : Prélèvement à la source de l'impôt sur le revenu 
+
+###### Article 95 ZO
+
+I. – La personne tenue d'effectuer la retenue à la source mentionnée au 1° du 2 de l'article 204 A du code général des impôts
+qui constate qu'une erreur a été commise dans une déclaration souscrite au titre d'un mois peut la régulariser, au moyen
+d'une inscription distincte, dans une déclaration souscrite au titre d'un mois de la même année civile.
+
+II. – Lorsque l'erreur qui est régularisée a abouti à un excédent de retenue à la source, cet excédent s'impute sur le
+montant de retenue à la source due au titre du mois pour lequel la déclaration est souscrite et, si l'excédent est supérieur
+à ce montant, la différence est remboursée dans les conditions prévues à l'article L. 190 du livre des procédures fiscales.
+La différence dont le remboursement a été demandé ne peut être imputée.
+
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-866 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 204 A
+	  - Livre des procédures fiscales - art. L190
 
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
@@ -20243,190 +20273,6 @@ publiques adjoint.
 	  - Code général des impôts, CGI. - art. 1658
 
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux
-
-###### Article 376 bis
-
-Le contribuable qui dispose d'un compte de dépôt ou d'épargne dans un des établissements énumérés à l'article 1681 D du code
-général des impôts peut opter pour le paiement mensuel de l'impôt. Il doit faire connaître son choix à l'administration au
-plus tard le 30 juin s'il souhaite opter pour l'année en cours.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1681 D
-
-	**Modifié par**:
-
-	  - Décret n°2004-411 du 13 mai 2004 - art. 1 () JORF 15 mai 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 376 octies
-
-Pour l'application du premier alinéa du B de l'article 1681 quater A du code général des impôts, le montant du dégrèvement
-attendu au titre de l'article 1647 B sexies est celui qui figure dans la déclaration prévue au sixième alinéa de l'article
-1679 quinquies déposée au titre de l'année précédente ou, s'il y a lieu, du dégrèvement déjà prononcé.
-
-Quand un dégrèvement est prononcé au titre de l'impôt dû pour l'année précédente pour un montant inférieur au dégrèvement
-attendu, le complément résultant de la régularisation de la base des prélèvements est acquitté avec le prélèvement suivant.
-Quand un dégrèvement est prononcé pour un montant supérieur au dégrèvement attendu, l'excédent résultant de la même
-régularisation est remboursé dans le délai d'un mois.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1681 quater A, 1647 B sexies, 1679 quinquies
-
-	**Créé par**:
-
-	  - Décret n°96-1012 du 19 novembre 1996 - art. 3 () JORF 26 novembre 1996
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-
-
-###### Article 376 quater
-
-I. Si l'option est formulée du 1er janvier au 30 juin, les prélèvements sont effectués dès l'année en cours ou, au choix du
-contribuable, à compter du 1er janvier de l'année suivante. Dans le premier cas, le premier prélèvement est effectué le
-premier mois qui suit celui au cours duquel le contribuable formule son option. Lorsque l'option est formulée avant la date
-limite de paiement d'un acompte, cet acompte n'est pas dû.
-
-II. Si l'option est formulée après le 30 juin, les prélèvements sont effectués à compter du 1er janvier de l'année suivante.
-Toutefois, lorsque l'option est formulée du 16 décembre au 31 décembre, la mensualité due au titre du mois de janvier est
-perçue avec le prélèvement effectué au mois de février.
-
-III. L'option est valable pour l'année au cours de laquelle sont effectués les premiers prélèvements et, sous réserve des
-dispositions de l'article 376 quinquies, pour les années suivantes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 376 quinquies
-
-	**Modifié par**:
-
-	  - Décret n°2004-411 du 13 mai 2004 - art. 1 () JORF 15 mai 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 376 quater A
-
-Si les prélèvements sont effectués l'année au cours de laquelle l'option est formulée et si, à la date du premier
-prélèvement, les sommes versées au titre des acomptes sont inférieures au montant cumulé des mensualités dues depuis le 1er
-janvier, le complément est acquitté avec le premier prélèvement mensuel. Pour les contribuables non soumis à un acompte
-obligatoire, le paiement des mensualités dues depuis le 1er janvier ou de l'excédent de ces mensualités sur les acomptes
-versés est réparti en parts égales sur les trois premiers prélèvements mensuels.
-
-Si les sommes versées au titre des acomptes sont supérieures au montant cumulé des mensualités dues depuis le 1er janvier,
-l'excédent est remboursé au contribuable avant la fin du mois qui suit l'option.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°98-16 du 7 janvier 1998 - art. 3 () JORF 9 janvier 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 376 quinquies
-
-Le contribuable peut renoncer au système du paiement mensuel. Il doit à cette fin adresser par écrit à l'administration une
-dénonciation de son option avant le 30 juin pour l'impôt sur le revenu, la taxe d'habitation et la taxe foncière, et avant le
-30 septembre pour la cotisation foncière des entreprises. La résiliation prend effet le premier mois qui suit celui au cours
-duquel le contribuable formule sa demande. Lorsque la dénonciation est exercée entre le 1er juillet et le 15 décembre inclus
-pour l'impôt sur le revenu, la taxe d'habitation et la taxe foncière, et entre le 1er octobre et le 15 décembre inclus pour
-la cotisation foncière des entreprises, elle prend effet à compter du mois de janvier de l'année suivante. Lorsqu'elle est
-exercée du 16 décembre au 31 décembre, elle prend effet à compter du mois de février de l'année suivante.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-
-###### Article 376 sexies
-
-Les prélèvements mensuels sont effectués le 15 de chaque mois.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2004-411 du 13 mai 2004 - art. 1 () JORF 15 mai 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 376 ter
-
-L'option est accompagnée d'un mandat par lequel le contribuable autorise la direction générale des finances publiques à
-émettre des ordres de prélèvement payables sur son compte et l'établissement dépositaire à débiter son compte du montant de
-ces ordres. 
-
-Elle est formulée, au choix du contribuable, soit au moyen d'imprimés fournis par l'administration, soit, de manière
-dématérialisée, sur le site de paiement en ligne de la direction générale des finances publiques. Dans ce dernier cas, la
-signature et la transmission du mandat sont également effectuées sur ce site. 
-
-L'option prend fin de plein droit dans le cas où aucun ordre de prélèvement n'a été présenté pendant une période de trente-
-six mois.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-1136 du 14 septembre 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
-
-
 #### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source
 
 ###### Article 379
@@ -20989,42 +20835,6 @@ président de la commission par le ministre du budget.
 
 Les rapporteurs, qui ont voix consultative, formulent des propositions devant la commission ou les sections.
 
-
-
-### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux
-
-###### Article 384 septies A
-
-I. Lorsqu'un contribuable perd le bénéfice du règlement de l'impôt par prélèvements mensuels en application des dispositions
-de l'article 1724 quinquies du code général des impôts, sa situation au regard des majorations de 10 % encourues
-éventuellement en exécution de l'article 1730 du même code est appréciée globalement à la date de l'échéance impayée ayant
-entraîné l'exclusion.
-
-II. L'administration notifie au contribuable et aux établissements les majorations et déchéances encourues au titre de
-l'article 1724 quinquies du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1724 quinquies, 1730
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
 
 
 ## Chapitre II : Procédures
