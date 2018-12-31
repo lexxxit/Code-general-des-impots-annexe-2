@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2019-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17697,22 +17697,35 @@ leurs déclarations fiscales, à l'occasion de leur première déclaration par c
 
 ###### Article 371 B
 
-Le nombre des adhérents d'un centre doit être au minimum de cent personnes physiques ou morales ayant la qualité
+Le nombre des adhérents d'un centre doit être au minimum de cinq cents personnes physiques ou morales ayant la qualité
 d'industriel, de commerçant, d'artisan ou d'agriculteur et imposées à l'impôt sur le revenu d'après leur bénéfice réel ainsi
 que tous les contribuables qui disposent de revenus non professionnels imposés dans la catégorie des bénéfices industriels et
 commerciaux, soumis au régime simplifié d'imposition selon le bénéfice réel ou le régime normal d'imposition selon le
 bénéfice réel.
 
-L'agrément d'un centre pourra n'être pas renouvelé si le nombre des adhérents n'atteint pas trois cents dans un délai de
-trois ans à compter de la date d'agrément.
+L'agrément d'un centre n'est pas renouvelé si le nombre des adhérents n'atteint pas mille dans un délai de trois ans à
+compter de la date d'agrément.
 
-Il n'est pas exigé d'effectif minimum des centres créés dans les départements d'outre-mer.
+Pour l'ouverture ou le maintien de chaque bureau secondaire, le centre justifie d'un nombre de cinq cents adhérents
+supplémentaires au-delà du seuil mentionné au deuxième alinéa et confie à ce bureau la réalisation des contrôles prévus à
+l'article 1649 quater E du code général des impôts pour au moins cinq cents adhérents. 
+
+Les dispositions du présent article concernant le nombre d'adhérents ne sont pas applicables aux centres et bureaux
+secondaires établis : 
+
+- en Corse ; 
+
+- en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-470 du 11 avril 2012 - art. 1
+	  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 quater E
 
 
 ###### Article 371 C
@@ -17785,6 +17798,12 @@ pris l'initiative de sa création. Au sein du conseil d'administration ou de tou
 doivent être représentés à hauteur d'un minimum d'un tiers des sièges. Les personnes ou organismes autres que les membres
 mentionnés à l'article 1649 quater C du code général des impôts et autres que les adhérents peuvent être membres associés et
 participer au conseil d'administration ou à tout autre organe dirigeant, à hauteur d'un maximum d'un tiers des sièges. 
+
+Chaque membre du conseil d'administration dispose d'une voix. 
+
+Il ne peut être attribué plus d'un tiers des sièges à des personnes exerçant une activité salariée, libérale ou
+d'administrateur bénévole au sein d'une même personne morale, ou de personnes morales liées entre elles au sens du 12 de
+l'article 39 du code général des impôts, ou adhérentes ou affiliées les unes aux autres.
 
 Les statuts doivent comporter en outre les stipulations suivantes : 
 
@@ -18313,12 +18332,33 @@ de leurs déclarations fiscales, à l'occasion de leur première déclaration pa
 
 ###### Article 371 N
 
-Le nombre des adhérents d'une association doit être au minimum de cinquante personnes physiques ou morales ayant la qualité
+Le nombre des adhérents d'une association doit être au minimum de cinq cents personnes physiques ou morales ayant la qualité
 de membres de professions libérales ou de titulaires de charges et offices et assujetties à l'impôt sur le revenu selon le
-régime de la déclaration contrôlée.
+régime de la déclaration contrôlée. 
 
-Toutefois, ce minimum d'adhérents n'est pas exigé dans les départements d'outre-mer.
+L'agrément d'une association n'est pas renouvelé si le nombre des adhérents n'atteint pas mille dans un délai de trois ans à
+compter de la date d'agrément. 
 
+Pour l'ouverture ou le maintien de chaque bureau secondaire, l'association justifie d'un nombre de cinq cents adhérents
+supplémentaires au-delà du seuil mentionné au deuxième alinéa et confie à ce bureau la réalisation des contrôles prévus à
+l'article 1649 quater H du code général des impôts pour au moins cinq cents adhérents. 
+
+Les dispositions du présent article concernant le nombre d'adhérents ne sont pas applicables aux associations et bureaux
+secondaires établis :
+
+- en Corse ;
+
+- en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 quater H
 
 
 ###### Article 371 O
@@ -18368,6 +18408,12 @@ Au sein du conseil d'administration ou de tout autre organe dirigeant, les adhé
 minimum d'un tiers des sièges. Les personnes ou organismes autres que les membres mentionnés à l'article 1649 quater F du
 code général des impôts et autres que les adhérents peuvent être membres associés et participer au conseil d'administration
 ou à tout autre organe dirigeant, à hauteur d'un maximum d'un tiers des sièges. 
+
+Chaque membre du conseil d'administration dispose d'une voix. 
+
+Il ne peut être attribué plus d'un tiers des sièges à des personnes exerçant une activité salariée, libérale ou
+d'administrateur bénévole au sein d'une même personne morale, ou de personnes morales liées entre elles au sens du 12 de
+l'article 39 du code général des impôts, ou adhérentes ou affiliées les unes aux autres. 
 
 Les statuts des associations doivent contenir les clauses suivantes : 
 
@@ -19084,6 +19130,30 @@ ses travaux aux dispositions du code général des impôts.
 	  - Livre des procédures fiscales - art. L47 A
 
 
+###### Article 371 Z ter
+
+Le nombre des adhérents d'un organisme mixte respecte le seuil minimum de cinq cents personnes physiques ou morales fixé aux
+articles 371 B et 371 N lors de la demande initiale d'agrément. 
+
+L'agrément d'un organisme mixte n'est pas renouvelé si le nombre des adhérents n'atteint pas mille dans un délai de trois ans
+à compter de la date d'agrément. 
+
+Pour l'ouverture de tout bureau secondaire, l'organisme mixte respecte les conditions prévues par les articles 371 B et 371
+N. 
+
+Les dispositions du présent article concernant le nombre d'adhérents ne sont pas applicables aux organismes mixtes établis : 
+
+- en Corse ; 
+
+- en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+
 ###### Article 371 Z terdecies
 
 Un organisme mixte ayant fait l'objet d'une décision de non-renouvellement ou de retrait d'agrément, pour un motif autre que
@@ -19216,6 +19286,37 @@ du ministre chargé du budget.
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis E (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis K (V)
+
+
+###### Article 371 bis C bis
+
+Pour être conventionné en application des articles 
+1649 quater L
+et 
+1649 quater M
+du code général des impôts, le professionnel de l'expertise comptable justifie d'un nombre de clients ou adhérents d'au
+minimum cinq cents personnes physiques ou morales imposées à l'impôt sur le revenu d'après leur bénéfice réel et respectant
+les dispositions du b du 1° du 7 de l'article 158 du même code. 
+
+La convention du professionnel n'est pas renouvelée si le nombre des clients ou adhérents vis-à-vis desquels le professionnel
+exerce la mission prévue à l'article 1649 quater L précité n'atteint pas mille dans un délai de trois ans à compter de la
+date de conclusion de la convention. 
+
+Pour attribuer à un établissement secondaire l'exercice de la mission prévue à l'article 1649 quater L précité, le
+professionnel justifie, pour chaque établissement concerné, d'un nombre de cinq cents clients ou adhérents supplémentaires
+au-delà du seuil mentionné au deuxième alinéa et confie à cet établissement la réalisation des contrôles prévus à l'article
+1649 quater L précité pour au moins cinq cents adhérents ou clients.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 quater L
+	  - Code général des impôts, CGI. - art. 1649 quater M
 
 
 ###### Article 371 bis D
